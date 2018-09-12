@@ -1,0 +1,16 @@
+---
+author: Stefano Cecere
+categories:
+- E io cecio..
+date: "2009-05-12T17:59:45Z"
+guid: http://stefanocecere.com/?p=1783
+id: 1783
+tags:
+- Mondo Senza Guerre
+- sport
+- spot
+title: 'Juve e Inter: una sfida di Pace'
+url: /2009/05/12/juve-e-inter-una-sfida-di-pace/
+---
+
+Pessotto e Cordoba (non necessitano presentazioni se sai che esistono Juve e Inter) sono testimonials della Marcia Mondiale. ecco un primo spot:

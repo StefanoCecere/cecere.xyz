@@ -1,0 +1,24 @@
+---
+author: Stefano Cecere
+categories:
+- E io cecio..
+- Tempi moderni
+date: "2008-07-06T09:46:31Z"
+guid: http://stefanocecere.com/?p=1081
+id: 1081
+tags:
+- Berlusconi
+- Carfagna
+- Gipi
+- intercettazioni
+- Politica
+- pompino
+- sesso
+- video
+title: Un&#039;opinione condivisa! (intercettazioni ministeriali e sesso per tutti!)
+url: /2008/07/06/unopinione-condivisa-intercettazioni-ministeriali-e-sesso-per-tutti/
+---
+
+scrivo da Attigliano dove, finita la piscina mattutina, riprendiamo la riunione semestrale.. intanto ecco un&#8217;opinione di Gipi che non posso che condividere e diffondere! fate altrettanto baci!
+
+ 

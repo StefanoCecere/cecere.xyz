@@ -1,0 +1,33 @@
+---
+author: Stefano Cecere
+categories:
+- E io cecio..
+- Tempi moderni
+date: "2008-04-02T20:37:49Z"
+guid: http://stefanocecere.com/2008/04/02/massima-solidarieta-a-paolo-barnard/
+id: 795
+related_posts:
+- null
+tags:
+- giornalista
+- report
+- TV
+title: Massima solidarietà a Paolo Barnard
+url: /2008/04/02/massima-solidarieta-a-paolo-barnard/
+---
+
+<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/paolo-barnard.jpeg' alt='paolo-barnard.jpeg' align="left" />forse pochi sano della vicenda di uno dei più interessanti (ex)giornalisti del programma televisivo Report.
+
+in due parole: è stato portato in causa per un suo servizio sulle &#8220;big farma&#8221; (le case farmaceutiche che tutto sanno tutto fanno tutto controllano della nostra salute), e Rai Tre, e la Gabanelli responsabile del programma, lo hanno praticamente lasciato &#8220;a piedi&#8221;, da solo, in quanto lui un libero professionista che aveva fornito il servizio.
+
+lunghissime discussioni virtuali nelle ultime settimane (virtuali perché ovviamente tv e giornali parlano solo del prezzemolo che vende i prodotti dei loro finanziatori), censure, etc&#8230;
+
+rimando a [questo articolo](http://www.comedonchisciotte.org/site/modules.php?name=News&file=article&sid=4474), poi da lì partite a scovare tutta la trama della vicenda.
+
+il mio spassionato consiglio: prendete contatto col Movimento Umanista.
+  
+non dovete necessariamente parteciparvi, ma stare vicini sì. è il momento.
+
+ecco una recente video intervista:
+
+un abbraccio

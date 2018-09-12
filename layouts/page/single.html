@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+
+  {{ partial "header_image.html" . }}
+
+  <div class="article-container">
+
+    <div class="pub-title">
+      <h1 itemprop="name">{{ .Title }}</h1>
+      <span class="float-right">
+        {{ partial "share.html" . }}
+      </span>
+    </div>
+
+    <div class="page-style" itemprop="articleBody">
+      {{ .Content }}
+    </div>
+
+  </div>
+
+
+
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}

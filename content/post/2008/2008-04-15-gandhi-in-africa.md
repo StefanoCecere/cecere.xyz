@@ -1,0 +1,32 @@
+---
+author: Stefano Cecere
+categories:
+- E io cecio..
+- Tempi moderni
+date: "2008-04-15T14:27:48Z"
+guid: http://stefanocecere.com/2008/04/15/gandhi-in-africa/
+id: 874
+related_posts:
+- null
+tags:
+- africa
+- Gandhi
+- nonviolenza
+- spirito
+- Terra 2.0
+- umanista
+title: Gandhi in Africa
+url: /2008/04/15/gandhi-in-africa/
+---
+
+l&#8217;amica Elena sono molti mesi ormai che è in Tanzania come volontaria per diversi progetti umanitari.
+  
+e guardate cosa mi ha appena inviato?
+  
+lo riconoscete?
+
+e NON sapeva del post che avevo scritto proprio poche ore fa su Gandhi e il parlamento europeo.
+
+vobis
+
+[<img src="http://farm4.static.flickr.com/3185/2415548087_e714d734b0.jpg" width="375" height="500" alt="Gandhi in Africa" />](http://www.flickr.com/photos/krur/2415548087/ "Gandhi in Africa di Humanist 2.0, su Flickr")
