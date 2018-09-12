@@ -1,0 +1,7 @@
+[submodule "themes/hugo-academic"]
+	path = themes/hugo-academic
+	url = https://github.com/gcushen/hugo-academic.git
+
+#[submodule "themes/ananke"]
+#	path = themes/ananke
+#	url = https://github.com/budparr/gohugo-theme-ananke.git
