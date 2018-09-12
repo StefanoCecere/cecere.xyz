@@ -11,7 +11,7 @@ type: docs
 # Add menu entry to sidebar.
 #linktitle = "Example Page"
 menu:
-  docs:
+  tutorial:
     parent: "Politica"
     weight: 1
 
