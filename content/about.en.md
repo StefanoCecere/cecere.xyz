@@ -6,7 +6,7 @@ type: page
 
 {{< figure src="/img/StefanoCecere_photo_500.jpg" width="200" class="floatright">}}
 
-Named Stefano Cecere since born in mid &#8217;70 Italy
+Named Stefano Cecere since born in mid &#8217;70 Italy.
 
 Grown up with hands on computer and piano keyboards
 
