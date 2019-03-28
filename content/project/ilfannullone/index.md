@@ -27,4 +27,5 @@ math = false
 #caption = "My caption :smile:"
 
 +++
+{{< figure src="ilfannullone_copertine.jpg" >}}
 

@@ -1,14 +1,17 @@
 +++
 # Hero widget.
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 51  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 1  # Order that this section will appear.
 
-#title = "Academic2"
+#title = "Academic"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 #hero_media = "header.jpg"
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["50px", "0", "50px", "0"]
 
 [design.background]
   # Apply a background color, gradient, or image.
