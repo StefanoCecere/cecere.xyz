@@ -28,6 +28,11 @@
   url = "/project"
   weight = 35
 
+[[main]]
+  name = "Talks"
+  url = "/talk"
+  weight = 40
+
 # [[main]]
 #   name = "Publications"
 #   url = "#featured"
