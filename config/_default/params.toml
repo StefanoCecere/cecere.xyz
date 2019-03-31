@@ -52,7 +52,7 @@ time_format = "15:04"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "stefano.cecere@gmail.com"
 #phone = "888 888 88 88"
-address = "Via Lattea.Sole.Terra.Italia.Firenze"
+address = "Via Lattea.Sole.Terra (eventualmente Marte)"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>

@@ -1,5 +1,6 @@
 +++
 title = "Sum#02"
+slug = "Sum02"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
