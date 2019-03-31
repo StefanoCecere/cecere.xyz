@@ -13,7 +13,7 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; Stefano Cecere 2003-2019"
+copyright = "&copy;2003-{year} Stefano Cecere - p.iva 06916690487"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-95775-1"
@@ -34,7 +34,7 @@ enableGitInfo = false
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "it"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
