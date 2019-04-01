@@ -20,3 +20,4 @@ In questa pagina ho pubblicato quanto ho scritto nella mia presentazione per la 
 * <a href="/about/attivista/">Attivista</a>
 * <a href="/about/cv/">Curriculum Vitae</a>
 * <a href="/about/cv_politico/">Politico</a>
+* <a href="/about/principi/">Princìpi</a>
