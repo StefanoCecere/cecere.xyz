@@ -4,6 +4,8 @@ tags:
 - papa2042
 title: Ammazza che scuola
 slug: "ammazza-che-scuole"
+categories:
+- JJ
 ---
 
 - Sai, figliolo, stamani un ragazzo americano si è svegliato, è andato alla sua scuola con un fucile e ha iniziato a sparare uccidendo moltissimi ragazzi. e sono almeno 19 le scuole USA in cui dall’inizio dell’anno si sono verificate sparatorie del genere.

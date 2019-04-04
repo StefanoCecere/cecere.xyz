@@ -3,6 +3,8 @@ date: "2018-02-22T00:00:00Z"
 tags:
 - papa2042
 title: Genio acchiapparazzi (con inaspettato finale politico)
+categories:
+- JJ
 ---
 
 ![elezioni-2018](/assets/images/2018/rocket_catcher.jpg)

@@ -2,6 +2,8 @@
 date: "2018-02-07T00:00:00Z"
 tags:
 - papa2042
+categories:
+- JJ
 title: Cose da fare per un futuro spaziale
 ---
 
