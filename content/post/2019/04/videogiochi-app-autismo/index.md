@@ -6,6 +6,7 @@ subtitle = ""
 summary = ""
 
 date = 2019-04-04T10:25:26+02:00
+year = "2019"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

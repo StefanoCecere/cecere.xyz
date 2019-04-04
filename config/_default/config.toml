@@ -65,6 +65,7 @@ preserveTaxonomyNames = true
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+  year = "year"
 
 [permalinks]
     post = "/blog/:year/:month/:slug"  

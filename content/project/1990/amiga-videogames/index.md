@@ -6,7 +6,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Video Game"]
+tags = ["Video Games"]
 
 # Project summary to display on homepage.
 summary = ""
