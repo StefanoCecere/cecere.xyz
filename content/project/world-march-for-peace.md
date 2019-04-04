@@ -27,4 +27,9 @@ math = false
 #caption = "My caption :smile:"
 
 +++
+Per questo grandissimo progetto internazionale, che mi porterà in India, Corea, Giappone, Russia e poi Sud America, aiuto sviluppando il sito web e curando la comunicazione sui socials (Facebook è agli albori). Nasce una rete internazionale multidisciplinare.
+
+ah: già che c'era ho composto e prodotto alcune musiche tra qui quella dello spot ufficiale
+
+{{< youtube TyzhJUJfNF0>}}
 
