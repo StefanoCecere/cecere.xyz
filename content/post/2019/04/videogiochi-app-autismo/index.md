@@ -40,7 +40,7 @@ categories = ["edtech"]
 
 Spesso mi chiedono consigli su vari giochi e videogiochi "interessanti" dal punto di vista educativo, a volte specifici per alcune situazioni, come in questo caso l'[autismo](https://it.wikipedia.org/wiki/Autismo)
 
-Come puoi immaginare un videogioco può essere progettato per accompagnare il videogioco in un percorso di interazioni e di emozioni particolarmente calibrate sui ritmi e la tipologia del giocatore.
+Come puoi immaginare un videogioco può essere progettato per accompagnare il giocatore in un percorso di interazioni ed emozioni particolarmente calibrate sui propri ritmi e personalità.
 
 {{<figure src="scuola-esame-siamo-diversi-equita.jpg">}}
 
