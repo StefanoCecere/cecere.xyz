@@ -16,7 +16,7 @@ type = "docs"  # Do not modify.
 
 In questa pagina ho pubblicato un po' di cose che raccontano cosa ho fatto e perchè.
 
-* <a href="/about/presentazione/">Presentazione</a>
+* [Presentazione]({{< relref "presentazione.md" >}})
 * <a href="/about/attivista/">Attivista</a>
 * <a href="/about/cv/">Curriculum Vitae</a>
 * <a href="/about/cv_politico/">Politico</a>
