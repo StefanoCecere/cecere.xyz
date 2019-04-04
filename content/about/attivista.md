@@ -16,7 +16,7 @@ linktitle = "Attivista"
   weight = 20
 +++
 
-Il mio percorso da attivista inizia un po' prima del M5S, nel 1996, quando avevo 23 anni:
+Dopo molti anni a studiare e a pensare in solitario, ebbi l'occasione di interagire con il mondo vero, reale, esterno. avevo 23 anni
 
 ## 1996 - MOVIMENTO UMANISTA
 Aiuto nello sviluppo del CD ROM di un'enciclopedia multimediale umanista.
