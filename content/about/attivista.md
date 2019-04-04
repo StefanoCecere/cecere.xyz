@@ -51,6 +51,8 @@ Organizzazione di tre Festival del Volontariato coinvolgendo dozzine di associaz
 ## 2005 - EMERGENZA TSUNAMI
 in aiuto a diverse organizzazioni umanitarie, co-organizzo un grande concerto al Rolling Stone di Milano, coinvolgendo dozzine di amici musicisti. L'evento è l'occasione per unire molti artisti e pubblico in un momento di empatia.
 
+{{< youtube o9hSfjbYOCM >}}
+
 ## 2006 - MEETUP MONZA
 da sempre grande estimatore di Grillo ed anelante ad un suo "attivismo politico", partecipo con interesse alla nascita del MeetUp di Monza.
 Da allora seguo quotidianamente il blog e non smetterò mai più.
