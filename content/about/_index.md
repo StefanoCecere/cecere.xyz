@@ -14,7 +14,7 @@ type = "docs"  # Do not modify.
   weight = 1
 +++
 
-In questa pagina ho pubblicato quanto ho scritto nella mia presentazione per la candidatura alle Europarlamentarie
+In questa pagina ho pubblicato un po' di cose che raccontano cosa ho fatto e perchè.
 
 * <a href="/about/presentazione/">Presentazione</a>
 * <a href="/about/attivista/">Attivista</a>
