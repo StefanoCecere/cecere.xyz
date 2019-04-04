@@ -67,6 +67,10 @@ Molti banchini e incontri sul tema della bombe atomiche di Ghedi e Aviano.
 ## 2009 - MARCIA MONDIALE PER LA PACE E LA NONVIOLENZA
 Per questo grandissimo progetto internazionale, che mi porterà in India, Corea, Giappone, Russia e poi Sud America, aiuto sviluppando il sito web e curando la comunicazione sui socials (Facebook è agli albori). Nasce una rete internazionale multidisciplinare.
 
+ah: già che c'era ho composto e prodotto alcune musiche tra qui quella dello spot ufficiale
+
+{{< youtube TyzhJUJfNF0>}}
+
 ## 2011 - PRESSENZA
 Impostazione del sito web dell'Agenzia stampa no profit internazionale sui diritti umani e nonviolenza. Seguo tutt'ora lo sviluppo e la crescita di questo progetto.
 
