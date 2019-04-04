@@ -61,7 +61,7 @@ quando realizzai che la vita ha poco senso se non si cerca di migliorare l'ambie
 
 ## NONVIOLENZA
 L'unica via possibile valida è quella della nonviolenza. Ovvero quella del non imporre la nostra volontà o i nostri punti di vista agli altri. Abbiamo avuto molti esempi nella storia umana, a partire dalle antiche popolazioni della Bolivia.
-Il M5S è nato nonviolento e deve perseguire nella strada di aumentare la sua influenza nonviolenta nel mondo.
+Dobbiamo perseguire nella strada di aumentare la nonviolenta nel mondo.
 
 ## I FILI COMUNI
 In ultima istanza noi siamo qui per cercare i fili che ci uniscono, e non le differenze che ci separano.

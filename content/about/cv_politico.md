@@ -32,3 +32,8 @@ Dopo il mio trasferimento a Firenze nel 2008 ho seguito altri temi (formativi, t
 Dal 2013 seguo attivamente diversi Portavoce, studiando Scienze Politiche e interessandomi sopratutto di questioni internazionali e tecnologiche.
 
 Credo sia arrivato il mio momento di mettere a disposizione 30 anni di preparazione in un progetto politico.
+
+## 2019
+mi sono candidato alle Europarlamentarie (le elezioni interne di selezione per le prossime elezioni europee) del Movimento 5 Stelle. Non sono passato.
+
+
