@@ -1,6 +1,7 @@
 +++
-title = "Papa Wu Wei"
-subtitle = ""
+title = "Papà Wu Wei"
+subtitle = "ovvero la mia più grande soddisfazione"
+slug="papa-wu-wei"
 
 # Add a summary to display on homepage (optional).
 summary = ""
@@ -38,7 +39,7 @@ categories = ["JJ"]
   focal_point = ""
 +++
 
-- papà... giochi a nascondino con me e Bruno?
+- papà... giochi a nascondino con me e Bruno?2
 - sto cucinando... gioco con voi ok ma ad una nuova versione del nascondino: IL NASCONDINO AL CONTRARIO
 - noi due cerchiamo te?
 - no, voi dovete cercare di non trovarmi.. il primo che mi vede perde. Io sto qui... ok?
