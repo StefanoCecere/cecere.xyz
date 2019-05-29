@@ -3,7 +3,7 @@
 ## shortcuts
 ```
 hugo serve --gc
-hugo new --kind post post/2019/title
+hugo new --kind post post/2019/06/title
 ```
 
 main theme:
