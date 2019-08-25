@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Quelli Che Studiano La Storia"
+title: "Homo Sapientissumus"
 subtitle: ""
 summary: ""
 authors: []
-tags: ["meme"]
+tags: ["cecio"]
 categories: []
-date: 2019-05-27T13:04:29+02:00
-lastmod: 2019-05-27T13:04:29+02:00
+date: 2019-08-24T14:26:34+02:00
+lastmod: 2019-08-24T14:26:34+02:00
 featured: false
 draft: false
 
@@ -28,8 +28,4 @@ image:
 projects: []
 ---
 
-{{<figure src="featured.jpg">}}
-
-Quelli che non studiano la storia sono condannati a ripeterla.
-
-E quelli che la studiano sono condannati a vedere come la storia si ripete per colpa di quelli che non la studiano.
+il telecomando dell'Homo Sapientissimus Contemporaneus
