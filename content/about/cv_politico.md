@@ -34,6 +34,7 @@ Dal 2013 seguo attivamente diversi Portavoce, studiando Scienze Politiche e inte
 Credo sia arrivato il mio momento di mettere a disposizione 30 anni di preparazione in un progetto politico.
 
 ## 2019
-mi sono candidato alle Europarlamentarie (le elezioni interne di selezione per le prossime elezioni europee) del Movimento 5 Stelle. Non sono passato.
+mi sono candidato alle Europarlamentarie (le elezioni interne di selezione per le prossime elezioni europee) del Movimento 5 Stelle.
+Continuo a partecipare all'[Associazione Gianroberto Casaleggio](http://www.gianrobertocasaleggio.com/)
 
 

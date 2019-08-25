@@ -16,12 +16,12 @@ linktitle = "Princìpi"
   weight = 70
 +++
 
-Mi piacciono una serie di idee, che <a href="http://www.silo.net">qualcuno</a> ha brillantemente messo insieme ed è venuto fuori che sintetizzano un Nuovo Umanesimo:
+Mi piacciono una serie di idee, che [qualcuno](http://www.silo.net) ha brillantemente messo insieme ed è venuto fuori che sintetizzano un Nuovo Umanesimo:
 
 - l’assunzione dell’essere umano come valore e come interesse centrale
 - l’affermazione dell’eguaglianza di tutti gli esseri umani
 - il riconoscimento della diversità personale e culturale
-- la tendenza allo sviluppo della conoscenza al di sopra di quanto viene accetato o imposto come verità assoluta
+- la tendenza allo sviluppo della conoscenza al di sopra di quanto viene accettato o imposto come verità assoluta
 - l’affermazione della libertà in materia di idee e di credenze
 - il rifiuto della violenza
 
