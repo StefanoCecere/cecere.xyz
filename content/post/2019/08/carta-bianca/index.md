@@ -43,5 +43,4 @@ projects: []
 - ok ora ci penso
 - è proprio quello che volevo tu facessi... buona mattinata
 
-{{<figure src="tabula_bianca.jpg">}}
 

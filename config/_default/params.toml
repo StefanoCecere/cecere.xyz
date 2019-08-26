@@ -69,7 +69,7 @@ address = "Via Lattea.Sole.Terra (eventualmente Marte)"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/StefanoCecere"},
-  {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/Stefano-Cecere-1287922371294131/"},
+  {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/StefanoCecere"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
    {icon = "telegram", icon_pack = "fab", name = "Telegram", link = "https://t.me/StefanoCecere"},
