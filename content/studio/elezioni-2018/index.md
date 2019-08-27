@@ -1,20 +1,28 @@
-+++
-title = "Elezioni 2018 - Se vince il M5S vinciamo tutti"
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-date = 2018-02-25T00:00:00Z
-# lastmod = 2018-09-09T00:00:00
+title: "Elezioni 2018 - Se vince il M5S vinciamo tutti"
+linktitle: "Elezioni 2018"
+summary:
+date: 2018-02-25T00:00:00Z
+lastmod: 2018-02-25T00:00:00Z
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
 
-draft = false  # Is this a draft? true/false
-toc = true  # Show table of contents? true/false
-type = "docs"  # Do not modify.
-tags = ["M5S", "politica"]
+tags: ["M5S", "politica"]
 
 # Add menu entry to sidebar.
-linktitle = "Elezioni 2018"
-[menu.scripta]
-  parent = "Scripta"
-  weight = 30
-+++
+# - Substitute `example` with the name of your course/documentation folder.
+# - name: Declare this menu item as a parent with ID `name`.
+# - parent: Reference a parent ID if this page is a child.
+# - weight: Position of link in menu.
+menu:
+  studio:
+#    name: Stupidità
+    parent: Politica
+    weight: 30
+---
 
 ![elezioni-2018-M5S](/assets/images/2018/elezioni-2018_M5S.jpg)
 

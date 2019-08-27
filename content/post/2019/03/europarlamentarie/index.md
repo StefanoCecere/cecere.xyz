@@ -42,7 +42,7 @@ Mi sono candidato alle Europarlamentarie del M5S, ovvero le elezioni interne per
 
 Puoi leggere quanto ho scritto nel sito di Rousseau come  <a href="/about/presentazione/">presentazione</a>.
 
-Qui quello che scrissi l'anno scorso prima delle elezioni: <a href="/scripta/elezioni-2018/">Elezioni 2018 - Se vince il M5S vinciamo tutti</a>
+Qui quello che scrissi l'anno scorso prima delle elezioni: <a href="/studio/elezioni-2018/">Elezioni 2018 - Se vince il M5S vinciamo tutti</a>
 
 
 

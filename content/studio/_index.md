@@ -9,9 +9,9 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-[menu.scripta]
-  name = "Scripta"
-  weight = 1
+#[menu.studio]
+#  name = "Studio"
+#  weight = 1
 +++
 
 un po' di cose che ho scritto e che non trovano spazio nei post o nei progetti
