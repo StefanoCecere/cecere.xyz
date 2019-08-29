@@ -36,10 +36,6 @@ E' una definizione abbastanza particolare di intelligenza, che esclude i geni de
 
 Credo sia molto interessante meditare su questo schema, sopratutto chi aspira a posizionarsi nel quadrante superiore (aiutare gli altri). Ai ragazzi piace molto.
 
-Per approfondimenti qui ci sono le 5 Leggi e altro https://stefanocecere.com/studio/stupidita/
-
-Che ne pensi? Lo conoscevi già?
-
 ## Prima Legge
 **Sempre e inevitabilmente ognuno di noi sottovaluta il numero degli individui stupidi in circolazione:**
 
