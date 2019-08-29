@@ -88,5 +88,5 @@ gli eventi SUM a Ivrea sono stati fondamentali: incontri multidisciplinari con s
 collaboro con l'Istituto Tecnologie Didattiche (ITD) e poi il Didacta per lo studio e la promozione dei videogiochi come strumenti didattici
 Partecipo allo sviluppo del videogioco Antura and the Letters in aiuto ai bambini siriani, con relativa sensibilizzazione della guerra in Siria.
 
-## 019 - CANDIDATURA EUROPEA
+## 2019 - CANDIDATURA EUROPEA
 il mio interesse per la visione globale dell'umanità mi porta a candidarmi alle europee con quello che ritengo il miglior progetto politico del XXI secolo.
