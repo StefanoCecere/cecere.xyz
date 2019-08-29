@@ -5,7 +5,7 @@ title: "Bambini e videogiochi: sviluppo collaborativo creativo ed emotivo"
 event: Internet Festival
 event_url: http://2016.internetfestival.it
 location: Pisa
-summary: Un giorno per creare un videogioco. Fatto da bambini per aiutare altri bambini
+summary: Progettare videogiochi come attività multidisciplinare creativa e ricca di contenuti emotivi
 abstract:
 
 # Talk start and end times.
