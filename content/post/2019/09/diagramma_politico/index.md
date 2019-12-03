@@ -27,6 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
 Siamo in una situazione politica delicata.
 Come si fa un'analisi e sopratutto come decidere di proseguire?
 La cosa peggiore sarebbe 1) non decidere 2) decidere e poi pentirsi perché si è pensato male.
