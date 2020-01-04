@@ -39,7 +39,7 @@ La nascita del mio primo figlio è stato un cambio di tappa importante: la forma
 Sto studiando Scienze della Formazione.
 
 ## INTELLIGENZA COLLETTIVA
-Partecipando alle primissime comunità informatiche intorno ai progetti Open Source iniziai a fare della condivisione della conoscenza, la ricerca di tecniche di preservazione e dell'accesso universale una missione vitale. Oggi bisogna dare alle analisi e uso dei Big Data una direzione a servizio dell'umanità. In questo vedo un mio importante ruolo in Europa.
+Partecipando alle primissime comunità informatiche intorno ai progetti Open Source iniziai a fare della condivisione della conoscenza, la ricerca di tecniche di preservazione e dell'accesso universale una missione vitale. Oggi bisogna dare alle analisi e uso dei Big Data una direzione a servizio dell'umanità.
 
 ## SCIENZA DELLA COMUNICAZIONE
 Siamo tutti diversi, per gusti e formazione, ma anche uguali in quanto esseri umani con gli stessi apparati psicologici e fisici.

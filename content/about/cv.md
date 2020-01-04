@@ -18,7 +18,7 @@ linktitle = "Curriculum Vitae"
 
 ## ANNI '90
 Ho iniziato a lavorare come sviluppatore di videogiochi durante il Liceo Scientifico, nel 1989. Durante il triennio di Ingegneria Elettronica lavoravo come sviluppatore multimediale per la New Sounds Multimedia, creando dozzine di CDROM interattivi, i primi VR e i primi siti web.
-E' vero: non ho terminato l'Università nonostante gli ottimi voti, ma avevo già assimilato i principi di Matematica e Fisica che mi servivano e sapevo già che il futuro non voleva pezzi di carta, ma spirito di ricerca e studio costante e passione per l'appliczione.
+E' vero: non ho terminato l'Università nonostante gli ottimi voti, ma avevo già assimilato i principi di Matematica e Fisica che mi servivano e sapevo già che il futuro non voleva pezzi di carta, ma spirito di ricerca e studio costante e passione per l'applicazione.
 Inoltre l'essere pioniere della musica digitale mi permise una carriera da musicista tastierista professionista, suonando in tour con artisti tipo gli 883, Antonella Ruggiero, Franco Battiato, Jovanotti e lavorando a diverse produzioni ed eventi musicali (San Remo, FestivalBar, televisioni, fino al clou con un'esibizione con il mio mito Jean Michel Jarre)
 
 ## ANNI 2000
