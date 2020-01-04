@@ -97,7 +97,7 @@ email = "stefano.cecere@gmail.com"
 coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+# directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -105,13 +105,13 @@ directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+# appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/StefanoCecere"},
-  {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/StefanoCecere"},
+  {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/stefano.cecere.me"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
    {icon = "telegram", icon_pack = "fab", name = "Telegram", link = "https://t.me/StefanoCecere"},
