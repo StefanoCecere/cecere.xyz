@@ -25,6 +25,7 @@ menu:
     search: 2
 ---
 
+{{<figure src="playfriday.jpg">}}
 
 sono circa tre mesi che ci ritroviamo tutti i venerdì tardo pomeriggio, con un gruppo di ragazzi (età media 9-12) a giocare esclusivamente giochi di società e in scatola. spesso c'è qualche genitore ad accompagnarli, ma l'idea e l'intento è che i ragazzi scoprano via via dei giochi e poi siano indipendenti nell'organizzarsi a giocarli. la serata (iniziamo di solito alle 18:00) piace molto e spesso dopo cena qualcuno si ferma anche fino alle 23:30, complice il sabato senza scuola.
 
@@ -35,24 +36,25 @@ se qualcuno volesse approfondirli, ecco tutti giochi che i ragazzi hanno provato
 
 ### Deserto Proibito 
 da 2 a 4 (ottimo in 4) dai 9 anni - voto: 9 - 
-[vedi scheda](https://boardgamegeek.com/boardgame/136063/forbidden-desert)
+[scheda](https://boardgamegeek.com/boardgame/136063/forbidden-desert)
 
 non difficile, tattico e cooperativo: 
 bisogna trovare i pezzi dell'astronave cercandoli in un deserto che si muove in continuazione, se un giocatore muore di sete muoiono tutti. bello bello. molto avvincente. lo chiedono spesso.  
 
 ### 7 Wonders duel
 solo 2 giocatori - età: dai 10 e adulti - voto: 9 - 
-[vedi scheda](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)
+[scheda](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)
 
 i due giocatori devono costruire i propri regni, comprese le Meraviglie, scegliendo strategicamente le risorse e gli edifici, per ottenere una vittoria o per progresso civile, o scientifico, o militare. con l'espansione Pantheon si aggiungono gli Dei che danno ulteriori poteri.
 Difficoltà media e si presta a moltissime partite.
 
 ### Dixit  
 da 3 a 6 dai 7 anni - voto: 9 - 
-[vedi scheda](https://boardgamegeek.com/boardgame/39856/dixit)
+[scheda](https://boardgamegeek.com/boardgame/39856/dixit)  
 
 ### Kingdomino 
-da 2 a 4 dai 7 anni - voto: 10  
+da 2 a 4 dai 7 anni - voto: 10 - 
+[scheda](https://boardgamegeek.com/boardgame/204583/kingdomino)  
 
 un domino dove si costruisce il territorio intorno al proprio castello
 veloce (10/15 minuti a partita) ma non banale.. ha una profondità notevole
@@ -65,102 +67,102 @@ il famosissimo gioco di carte che lo giocano quasi tutti i ragazzi ogni settiman
 l'ho studiato un po' e non è male neanche per gli adulti ogni tanto fare una partita. un mazzo base costa circa 15 euro e garantisce di poter affrontare chiunque e divertirsi.
 
 ### Bang Dadi
-da 4 a 8 dai 8 anni - voto: 7.5 
-[vedi scheda](https://boardgamegeek.com/boardgame/143741/bang-dice-game)  
+da 4 a 8 dai 8 anni - voto: 7.5 - 
+[scheda](https://boardgamegeek.com/boardgame/143741/bang-dice-game)  
 
 il gioco italiano più venduto al mondo, lo conoscono tutti (nella versione originale con le carte). con i dadi è più veloce, concitante, divertente.
 lo chiedono spesso!
 
 ### Samurai Sword
-da 4 a 8 dai 8 anni - voto: 8
-[vedi scheda](https://boardgamegeek.com/boardgame//128667/samurai-sword)
+da 4 a 8 dai 8 anni - voto: 8 - 
+[scheda](https://boardgamegeek.com/boardgame//128667/samurai-sword)  
 
 versione ninja di Bang. giocato dai ragazzi sopratutto inventando nuove regole.
 a volte lo preferiscono.
 
 ### Exploding Kittens
-da 2 ai 5 (6 con l'espansione) dai 8 anni - voto: 8
-[vedi scheda](https://boardgamegeek.com/boardgame/172225/exploding-kittens)
+da 2 ai 5 (6 con l'espansione) dai 8 anni - voto: 8 - 
+[scheda](https://boardgamegeek.com/boardgame/172225/exploding-kittens)  
 
 non si può non averlo! divertente, veloce.
 
 ### Deckscapes
-da 2 ai 6 dai 9 anni - voto: 9
-[vedi scheda](https://boardgamegeek.com/boardgamefamily/48410/deckscape)
+da 2 ai 6 dai 9 anni - voto: 9 - 
+[scheda](https://boardgamegeek.com/boardgamefamily/48410/deckscape)  
 
 avventure piene di enigmi non banali. da risolvere tutti insieme girando carta dopo carta. noi li abbiamo giocati tutti e 6 e ci piacciono (sopratutto ai cervelloni :)
 
 ### Nome in Codice
-da 6 ai 10, dai 8 anni - voto: 8.5
-[vedi scheda](https://boardgamegeek.com/boardgame/178900/codenames)
+da 6 ai 10, dai 8 anni - voto: 8.5 - 
+[scheda](https://boardgamegeek.com/boardgame/178900/codenames)  
 
 gioco di parole a due squadre. divertente, concitante: devono indovinare i propri agenti segreti dal loro nome in codice, partendo da una parola "sinonimo o associata" proposta dal capo squadra. mi sorprende quanto piaccia!
 
 ### Lupus in Tabula
-da 8 ai 24 giocatori, dai 7 anni - voto: 8
-[vedi scheda](https://boardgamegeek.com/boardgame/63539/lupus-tabula)
+da 8 ai 24 giocatori, dai 7 anni - voto: 8 - 
+[scheda](https://boardgamegeek.com/boardgame/63539/lupus-tabula)  
 
 piace tanto il dover scoprire e linciare i lupi mannari che di notte (quando i giocatori hanno tutti gli occhi chiusi) sbranano un villico.
 i giovanissimi tendono un po' a "barare" sbirciando di sotterfugio, andrebbero bendati :)
 
 ### Ticket to Ride [europa]
-dai 2 ai 5 giocatori, dai 8 anni - voto: 7.5
-[vedi scheda](https://boardgamegeek.com/boardgame/14996/ticket-ride-europe)
+dai 2 ai 5 giocatori, dai 8 anni - voto: 7.5 - 
+[scheda](https://boardgamegeek.com/boardgame/14996/ticket-ride-europe)  
 
 giocato a coppie in 10, piaciuto. tattico, logico. utile per imparare bene anche tutte le capitali d'Europa :) da rigiocare meglio. partite un po' lunghine
 
 ### The Game
-dai 2 ai 4 giocatori, dai 7 anni - voto: 8
-[vedi scheda](https://boardgamegeek.com/boardgame/182453/game-fire-compilation)
+dai 2 ai 4 giocatori, dai 7 anni - voto: 8 - 
+[scheda](https://boardgamegeek.com/boardgame/182453/game-fire-compilation)  
 semplice mazzo di carte che vi farà collaborare a finire questo "solitario multigiocatore". il capostipite di molti altri giochi. piace
 
 ### The Mind
 dai 2 ai 4 giocatori, dai 7 anni - voto: 9
-[vedi scheda](https://boardgamegeek.com/boardgame/244992/mind)
+[scheda](https://boardgamegeek.com/boardgame/244992/mind)  
 da avere assolutamente. un mazzo di carte e la vostra telepatia.
 
 ### Hanabi
-da 3 ai 5 giocatori, dai 9 anni - voto: 8
-[vedi scheda](https://boardgamegeek.com/boardgame/98778/hanabi)
+da 3 ai 5 giocatori, dai 9 anni - voto: 8 - 
+[scheda](https://boardgamegeek.com/boardgame/98778/hanabi)  
 
 il giocatore non vede le proprie carte! intrigante. non banale.
 si deve collaborare dando indizi agli altri affinchè si arrivi tutti insieme a costruire tutti i fuochi d'artificio. geniale e facile da imparare. divertente.
 
 ### Oh my Goods
-da 2 ai 4 giocatori, dai 10 anni - voto: 8
-[vedi scheda](https://boardgamegeek.com/boardgame/183840/oh-my-goods)
+da 2 ai 4 giocatori, dai 10 anni - voto: 8 - 
+[scheda](https://boardgamegeek.com/boardgame/183840/oh-my-goods)  
 
 gestionale semplice ma davvero profondo
 è un mazzo di 110 carte ma si costruisce di tutto con meccaniche non banali
 
 ### Leggende di Andor
-dai 2 ai 4 giocatori, dai 10 anni - voto: 8.5
-[vedi scheda](https://boardgamegeek.com/boardgame/127398/legends-andor)
+dai 2 ai 4 giocatori, dai 10 anni - voto: 8.5 - 
+[scheda](https://boardgamegeek.com/boardgame/127398/legends-andor)  
 Gioco di Ruolo semplificato (guidato dalle carte, senza Master
 avventura introduttiva che spiega tutte le regole.. e poi cresce di difficoltà.
 ci vuole tempo (almeno 2 ore e mezza a partita) ma completo, avvincente, e sopratutto un collaborativo vero.
 
 ### Pandemic
-dai 2 ai 4 giocatori, dai 10 anni - voto: 8.5
-[vedi scheda](https://boardgamegeek.com/boardgame/30549/pandemic)
+dai 2 ai 4 giocatori, dai 10 anni - voto: 8.5 - 
+[scheda](https://boardgamegeek.com/boardgame/30549/pandemic)  
 debellare una pandemia di 4 virus prima che sia troppo tardi 
 collaborativo, bello (dal creatore di Deserto Proibito), famoso.
 merita.
 
 ### Lost Cities
-2 giocatori, dai 8 anni - voto: 8
-[vedi scheda](https://boardgamegeek.com/boardgame/50/lost-cities)
+2 giocatori, dai 8 anni - voto: 8 - 
+[scheda](https://boardgamegeek.com/boardgame/50/lost-cities)  
 semplice gioco di carte e matematica. dal maestro Reiner Kniza.
 veloce ma non banale.
 
 ### T.I.M.E. stories
-dai 2 ai 4 giocatori, dai 13 anni - voto: 8
-[vedi scheda](https://boardgamegeek.com/boardgame/146508/time-stories)
+dai 2 ai 4 giocatori, dai 13 anni - voto: 8 - 
+[scheda](https://boardgamegeek.com/boardgame/146508/time-stories)  
 avventure nel tempo.. bello ma non banale
 
 ### Sblocca la porta
-dai 2 ai 8 giocatori, dai 8 anni - voto: 9
-[vedi scheda](https://boardgamegeek.com/boardgame/278012/sblocca-la-porta)
+dai 2 ai 8 giocatori, dai 8 anni - voto: 9 - 
+[scheda](https://boardgamegeek.com/boardgame/278012/sblocca-la-porta)  
 una bella sorpresa.. costa pochissimo.. 3 avventure stile Escape the Room (enigmi da risolvere)
 
 --- 
@@ -169,14 +171,14 @@ una bella sorpresa.. costa pochissimo.. 3 avventure stile Escape the Room (enigm
 nei prossimi mesi conosceremo:
 
 ### All'avventura
-dai 2 ai 8 giocatori, dai 8 anni
-[vedi scheda](https://boardgamegeek.com/boardgame/278004/allavventura)
+dai 2 ai 8 giocatori, dai 8 anni - 
+[scheda](https://boardgamegeek.com/boardgame/278004/allavventura)  
 
 ### Carcassonne
 (strategico semplice. pietra miliare del genere)
 
 ### Four Against Darkness
-[vedi scheda](https://boardgamegeek.com/boardgame/197097/four-against-darkness)
+[scheda](https://boardgamegeek.com/boardgame/197097/four-against-darkness)  
 i giocatori creano e combattono in un dungeon che si costruisce da solo progredendo nell'avventura.. veloce, facile.. divertente!
 
 ### Dungeons and Dragons
