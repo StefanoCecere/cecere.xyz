@@ -63,7 +63,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "facebook"
   icon_pack = "fab"
-  link = "https://facebook.com/stefano.cecere.me"
+  link = "https://facebook.com/StefanoCecere"
 
 [[social]]
   icon = "twitter"
