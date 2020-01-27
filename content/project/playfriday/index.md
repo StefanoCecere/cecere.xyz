@@ -25,7 +25,7 @@ menu:
     search: 2
 ---
 
-{{<figure src="playfriday_featured.jpg">}}
+{{< gallery album="gallery" >}}
 
 è da ottobre 2019 che ci ritroviamo nella "sala studio" della nostra Casa del Popolo tutti i venerdì tardo pomeriggio con un gruppo di ragazzi (età media 9-12) a giocare esclusivamente giochi di società e in scatola: il PlayFriday.
 
