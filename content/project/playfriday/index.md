@@ -1,8 +1,8 @@
 ---
 title: "PlayFriday"
-summary: "giocare il venerdì sera"
+summary: "le nuove generazioni in gioco il venerdì sera"
 authors: []
-tags: []
+tags: ["games", "kids"]
 categories: []
 date: 2020-01-27T16:32:47+02:00
 external_link: ""
