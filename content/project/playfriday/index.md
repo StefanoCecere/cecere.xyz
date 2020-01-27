@@ -27,9 +27,12 @@ menu:
 
 {{<figure src="playfriday.jpg">}}
 
-sono circa tre mesi che ci ritroviamo tutti i venerdì tardo pomeriggio, con un gruppo di ragazzi (età media 9-12) a giocare esclusivamente giochi di società e in scatola. spesso c'è qualche genitore ad accompagnarli, ma l'idea e l'intento è che i ragazzi scoprano via via dei giochi e poi siano indipendenti nell'organizzarsi a giocarli. la serata (iniziamo di solito alle 18:00) piace molto e spesso dopo cena qualcuno si ferma anche fino alle 23:30, complice il sabato senza scuola.
+è da ottobre 2019 che ci ritroviamo nella "sala studio" della nostra Casa del Popolo tutti i venerdì tardo pomeriggio con un gruppo di ragazzi (età media 9-12) a giocare esclusivamente giochi di società e in scatola: il PlayFriday.
 
-se qualcuno volesse approfondirli, ecco tutti giochi che i ragazzi hanno provato, con qualche mio commento così da aiutare i genitori o altri amici a scoprire un po' questo bellissimo mondo:
+Spesso c'è qualche genitore ad accompagnarli, ma l’idea e l’intento è che i ragazzi scoprano via via dei giochi e poi siano indipendenti nell’organizzarsi a giocarli tra loro o in famiglia. la serata (iniziamo di solito alle 18:00) piace molto e spesso dopo cena qualcuno si ferma anche fino alle 23:30, complice il sabato senza scuola.
+Io di solito faccio da "facilitatore": introduco un nuovo gioco, ne spiego le regole e guido la prima partita.. poi vanno da soli.
+
+Se qualcuno fosse interessato ecco tutti giochi che i ragazzi hanno provato con qualche mio commento così da aiutare i genitori o altri amici a scoprire un po’ questo bellissimo mondo!
 
 ## Giochi giocati
 (NB: ordine casuale)
@@ -51,6 +54,7 @@ Difficoltà media e si presta a moltissime partite.
 ### Dixit  
 da 3 a 6 dai 7 anni - voto: 9 - 
 [scheda](https://boardgamegeek.com/boardgame/39856/dixit)  
+famosissimo, facilissimo, divertente e "immaginifico", piace a grandi e piccoli
 
 ### Kingdomino 
 da 2 a 4 dai 7 anni - voto: 10 - 
