@@ -37,6 +37,13 @@ Ovviamente è vietato qualsiasi "distrazione digitale" e barare.. il gioco è un
 
 Se qualcuno fosse interessato ecco tutti giochi che i ragazzi hanno provato con qualche mio commento così da aiutare i genitori o altri amici a scoprire un po’ questo bellissimo mondo!
 
+## Intento
+far conoscere l'esperienza del gioco di società, imparare divertendosi a giocare meglio e a socializzare. Stimolare la curiosità e l'indipendenza.
+
+## Luogo e organizzazione
+una grande stanza confortevole, pubblica. Noi siamo all'interno della Casa del Popolo. con bagno e bar. Il ritrovo è dalle 18:00 quando aprono i ragazzi (io di solito arrivo più tardi). Alle 20:30 si cena e si riprende alle 21:30.
+I genitori accompagnatori sono sempre benvenuti a giocare con i ragazzi o tra di loro.
+
 ## Giochi giocati
 (NB: ordine casuale)
 
@@ -142,6 +149,11 @@ da 2 ai 4 giocatori, dai 10 anni - voto: 8 -
 gestionale semplice ma davvero profondo
 è un mazzo di 110 carte ma si costruisce di tutto con meccaniche non banali
 
+### Vodooo
+da 3 a 6 giocatori - età: 8 in su - voto 7.5 - [scheda](https://boardgamegeek.com/boardgame/154880/voodoo)  
+i giocatori devono creare e passarsi "maledizioni" tipo " da ora parli in falsetto"... divertente.
+
+
 ### Leggende di Andor
 dai 2 ai 4 giocatori, dai 10 anni - voto: 8.5 - 
 [scheda](https://boardgamegeek.com/boardgame/127398/legends-andor)  
@@ -162,11 +174,6 @@ merita.
 semplice gioco di carte e matematica. dal maestro Reiner Kniza.
 veloce ma non banale.
 
-### T.I.M.E. stories
-dai 2 ai 4 giocatori, dai 13 anni - voto: 8 - 
-[scheda](https://boardgamegeek.com/boardgame/146508/time-stories)  
-avventure nel tempo.. bello ma non banale
-
 ### Sblocca la porta
 dai 2 ai 8 giocatori, dai 8 anni - voto: 9 - 
 [scheda](https://boardgamegeek.com/boardgame/278012/sblocca-la-porta)  
@@ -181,8 +188,16 @@ nei prossimi mesi conosceremo:
 dai 2 ai 8 giocatori, dai 8 anni - 
 [scheda](https://boardgamegeek.com/boardgame/278004/allavventura)  
 
+### T.I.M.E. stories
+dai 2 ai 4 giocatori, dai 13 anni - voto: 8 - 
+[scheda](https://boardgamegeek.com/boardgame/146508/time-stories)  
+avventure nel tempo.. bello ma non banale
+
 ### Carcassonne
-(strategico semplice. pietra miliare del genere)
+dai 2 ai 4 giocatori, dai 9 anni - 
+[scheda](https://www.boardgamegeek.com/boardgame/822/carcassonne)  
+
+strategico semplice ma profondo. pietra miliare del genere
 
 ### Four Against Darkness
 [scheda](https://boardgamegeek.com/boardgame/197097/four-against-darkness)  
