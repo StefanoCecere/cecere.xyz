@@ -22,7 +22,6 @@ menu:
     name: 
     parent: 
     weight: 0
-    search: 2
 ---
 
 {{< gallery album="gallery" >}}
@@ -138,7 +137,6 @@ gestionale semplice ma davvero profondo
 da 3 a 6 - 45m - facile - [scheda](https://boardgamegeek.com/boardgame/154880/voodoo)  
 i giocatori devono creare e passarsi "maledizioni" tipo " da ora parli in falsetto"... divertente.
 
-
 ### Leggende di Andor
 da 2 a 4 - 3h - medio/difficile - [scheda](https://boardgamegeek.com/boardgame/127398/legends-andor)  
 Gioco di Ruolo semplificato (guidato dalle carte, senza Master
@@ -175,14 +173,26 @@ da 2 a 4 - 1.5h - medio - [scheda](https://www.boardgamegeek.com/boardgame/822/c
 
 strategico semplice ma profondo. pietra miliare del genere
 
+### 7th Continent
+da 2 a 4, dai 13 anni - 3h - medio/difficile
+[scheda](https://boardgamegeek.com/boardgame/180263/7th-continent)  
+un'avventura in un continente misterioso.. sembra un videogioco ma creato e giocato tutto con le carte.. geniale
+
 ### All'avventura
-da 2 a 8 - 
+da 2 a 8 - 1h - facile
 [scheda](https://boardgamegeek.com/boardgame/278004/allavventura)  
+semplicissimo gioco di ruolo giudato.
 
 ### T.I.M.E. stories
 da 2 a 4, dai 13 anni - 3h - medio/difficile
 [scheda](https://boardgamegeek.com/boardgame/146508/time-stories)  
 avventure nel tempo.. bello ma non banale
+
+### Chronicles of Crime
+da 2 a 4, dai 12 anni - 2h - medio
+[scheda](https://boardgamegeek.com/boardgame/239188/chronicles-crime) 
+gioco di investigazione con l'aiuto di un tablet che mostra le stanze in 3D
+simpatico!
 
 ### Dungeons and Dragons
 beh.. qui si entra nel mito...

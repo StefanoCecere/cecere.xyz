@@ -9,24 +9,24 @@ authors = ["stefano"]
 superuser = true
 
 # Role/position
-role = "Humanist Game A.I. 2042 Politics, Dad and Educator"
+role = "Humanist Games Developer, Dad and Educator"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 # organizations = [ { name = "Jamurr 2042", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I research and develop Edutainment, A.I., Parenting, VideoGames, Trascendence and Universal Humanist Revolution"
+bio = "I research and develop Edutainment, Game Based Learning, A.I., Parenting, Music, Trascendence and the 2042 Humanist Revolution"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-  "Edutainment",
+interests_draft = [
+  "Edutainment e Game based Learning",
   "Intelligenza Artificiale",
   "Genitorialità e Formazione",
-  "Sopravvivere al 2042",
+  "Sopravvivere al 2042 sviluppando l'Intelligenza Collettiva",
   "Trascendenza e Rivoluzione Umanista Universale"
 ]
 
@@ -89,9 +89,11 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Ciao e benvenuto nel mio sito personale, il mio diario e archivio di tutto quello che faccio e penso. Serve forse più a me che a te, ma se trovi qualcosa che ti migliora la giornata, sono contento.
+Ciao e benvenuto nel mio sito personale, diario e archivio di tutto quello che faccio e penso. Condividere il meglio delle proprie scoperte e creazioni é un buon modo per costruire l'Intelligenza Collettiva di cui abbiamo disperatamente bisogno.
+Forse serve più a me che a te, ma se trovi qualcosa che ti migliora la giornata, sono contento. Puoi ri-condividerla: qui è tutto Open Source.
 
-
-
-
-
+- Edutainment e Game based Learning
+- Intelligenza Artificiale e Realtà Aumentata
+- Genitorialità e Formazione
+- Sopravvivere al 2042 sviluppando l'Intelligenza Collettiva
+- Trascendenza e Rivoluzione Umanista Universale
