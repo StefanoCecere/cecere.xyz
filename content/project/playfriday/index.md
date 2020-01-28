@@ -27,10 +27,13 @@ menu:
 
 {{< gallery album="gallery" >}}
 
-è da ottobre 2019 che ci ritroviamo nella "sala studio" della nostra Casa del Popolo tutti i venerdì tardo pomeriggio con un gruppo di ragazzi (età media 9-12) a giocare esclusivamente giochi di società e in scatola: il PlayFriday.
 
-Spesso c'è qualche genitore ad accompagnarli, ma l’idea e l’intento è che i ragazzi scoprano via via dei giochi e poi siano indipendenti nell’organizzarsi a giocarli tra loro o in famiglia. la serata (iniziamo di solito alle 18:00) piace molto e spesso dopo cena qualcuno si ferma anche fino alle 23:30, complice il sabato senza scuola.
-Io di solito faccio da "facilitatore": introduco un nuovo gioco, ne spiego le regole e guido la prima partita.. poi vanno da soli.
+E' da ottobre 2019 che ci ritroviamo nella "sala studio" della nostra Casa del Popolo di Settignano (Firenze) tutti i venerdì tardo pomeriggio con un gruppo di ragazzi (età media 9-12) a giocare esclusivamente giochi di società e in scatola: il PlayFriday.
+
+Spesso c'è qualche genitore ad accompagnarli, ma l’idea e l’intento è che i ragazzi scoprano via via dei giochi e poi siano indipendenti nell’organizzarsi a giocarli tra loro o in famiglia.
+La serata (iniziamo di solito alle 18:00) piace molto e spesso ci si ferma a cenare insieme per continuare i giochi più impegnativi anche alle 23:30, complice il sabato senza scuola.
+Io o altri genitori di solito facciamo da "facilitatori": introduciamo un nuovo gioco, ne spieghiamo le regole e guidiamo la prima partita.. poi vanno da soli.
+Ovviamente è vietato qualsiasi "distrazione digitale" e barare.. il gioco è un divertimento serio e ci sono mille occasioni per farlo notare.
 
 Se qualcuno fosse interessato ecco tutti giochi che i ragazzi hanno provato con qualche mio commento così da aiutare i genitori o altri amici a scoprire un po’ questo bellissimo mondo!
 
