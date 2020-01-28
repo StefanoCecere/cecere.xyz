@@ -16,7 +16,7 @@ summary = "espressione umanista tascabile"
 tags = ["site", "humanist"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://ilfannullone.it"
+external_link = "https://stefanocecere.github.io/ilfannullone.it/"
 
 # Does the project detail page use math formatting?
 math = false
