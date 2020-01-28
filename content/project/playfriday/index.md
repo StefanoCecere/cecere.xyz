@@ -28,12 +28,10 @@ menu:
 {{< gallery album="gallery" >}}
 
 
-E' da ottobre 2019 che ci ritroviamo nella "sala studio" della nostra Casa del Popolo di Settignano (Firenze) tutti i venerdì tardo pomeriggio con un gruppo di ragazzi (età media 9-12) a giocare esclusivamente giochi di società e in scatola: il PlayFriday.
+E’ da ottobre 2019 che nella “sala studio” della nostra Casa del Popolo di Settignano (Firenze) tutti i venerdì tardo pomeriggio si ritrova un gruppo di ragazzi (età media 9-12) a giocare esclusivamente giochi di società e in scatola: il PlayFriday.
 
-Spesso c'è qualche genitore ad accompagnarli, ma l’idea e l’intento è che i ragazzi scoprano via via dei giochi e poi siano indipendenti nell’organizzarsi a giocarli tra loro o in famiglia.
-La serata (iniziamo di solito alle 18:00) piace molto e spesso ci si ferma a cenare insieme per continuare i giochi più impegnativi anche alle 23:30, complice il sabato senza scuola.
-Io o altri genitori di solito facciamo da "facilitatori": introduciamo un nuovo gioco, ne spieghiamo le regole e guidiamo la prima partita.. poi vanno da soli.
-Ovviamente è vietato qualsiasi "distrazione digitale" e barare.. il gioco è un divertimento serio e ci sono mille occasioni per farlo notare.
+C'è sempre almeno un genitore ad accompagnarli, ma l’idea e l’intento è che i ragazzi scoprano via via dei giochi e poi siano indipendenti nell’organizzarsi a giocarli tra loro o in famiglia. La serata (iniziamo di solito alle 18:00) piace molto e spesso ci si ferma a cenare insieme per continuare i giochi più impegnativi anche alle 23:30, complice il sabato senza scuola. Io o altri genitori di solito facciamo da “facilitatori”: introduciamo un nuovo gioco, ne spieghiamo le regole e guidiamo la prima partita.. poi vanno da soli. 
+E giochiamo anche noi, ovvio! Nella stanza è vietato qualsiasi “distrazione digitale” e barare.. il gioco è un divertimento serio e ci sono mille occasioni per sperimentarlo.
 
 Se qualcuno fosse interessato ecco tutti giochi che i ragazzi hanno provato con qualche mio commento così da aiutare i genitori o altri amici a scoprire un po’ questo bellissimo mondo! e qualche indicazione su come poter "riprodurre" questa iniziativa ovunque.
 
@@ -43,7 +41,7 @@ i giochi non sono tutti uguali. sono in evoluzione. c'è tutta una nuova generaz
 
 ## Luogo e organizzazione
 una grande stanza confortevole, pubblica. Noi siamo all'interno della Casa del Popolo. con bagno e bar. Il ritrovo è dalle 18:00 quando aprono i ragazzi (io di solito arrivo più tardi). Alle 20:30 si cena e si riprende alle 21:30.
-I genitori accompagnatori sono sempre benvenuti a giocare con i ragazzi o tra di loro. Basta un adulto responsabile per badare alla banda. Ottimo se poi faccia da "facilitatore" introducendo un gioco alla settimana,
+I genitori accompagnatori sono sempre benvenuti a giocare con i ragazzi o tra di loro. Basta un adulto responsabile per badare alla banda. Ottimo se poi faccia da facilitatore introducendo un gioco alla settimana.
 
 ## Giochi giocati
 (NB: ordine casuale)
