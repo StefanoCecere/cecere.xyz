@@ -8,5 +8,9 @@
         "markdown",
         "latex",
         "plaintext"
-    ]
+    ],
+    "files.exclude": {
+        "public": true,
+        "resources": true
+    }
 }
