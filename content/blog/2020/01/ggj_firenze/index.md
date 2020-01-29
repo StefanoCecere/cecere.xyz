@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+{{< gallery album="gallery" >}}
+
 (se non sai cosa è, leggi sotto)
 
 siamo quasi pronti per la nostra prima Game Jam, prima nel senso di organizzata da me, Pietro Polsinelli e i nostri batteri, a Settignano, Firenze, presso la Casa del Popolo.
