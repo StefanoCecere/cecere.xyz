@@ -4,7 +4,7 @@ summary: "le nuove generazioni in gioco il venerdì sera"
 authors: []
 tags: ["games", "kids"]
 categories: []
-date: 2020-01-27T16:32:47+02:00
+date: 2019-10-21T16:32:47+02:00
 external_link: ""
 image:
   caption: ""
