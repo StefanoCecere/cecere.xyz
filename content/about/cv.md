@@ -34,3 +34,4 @@ Ho fondato l'Associazione JAMURR per promuovere l'Alfabetizzazione Digitale e l'
 Dal 2016 ho iniziato la collaborazione con Video Games Without Borders, per promuovere lo sviluppo di videogiochi ad impatto sociale, e con il nostro primo progetto Antura and the Letters (per alfabetizzare i bambini profughi siriani) abbiamo iniziato a vincere molti premi internazionali.
 
 Ora sto studiando Scienze della Formazione, Psicologia e Scienze Cognitive, mentre insegno Intelligenza Artificiale e Tecnologie Digitali Umaniste.
+
