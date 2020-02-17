@@ -26,8 +26,7 @@ menu:
 
 {{< gallery album="gallery" >}}
 
-
-E’ da ottobre 2019 che nella “sala studio” della nostra [Casa del Popolo di Settignano](https://www.facebook.com/settignanocdp/) (Firenze) tutti i venerdì tardo pomeriggio si ritrova un gruppo di ragazzi (età media 9-12) a giocare esclusivamente giochi di società e in scatola: il PlayFriday.
+E’ da ottobre 2019 che nella “sala biblioteca della nostra [Casa del Popolo di Settignano](https://www.facebook.com/settignanocdp/) (Firenze) tutti i venerdì tardo pomeriggio si ritrova un gruppo di ragazzi (età media 9-12) a giocare esclusivamente giochi di società e in scatola: il PlayFriday.
 
 C'è sempre almeno un genitore ad accompagnarli, ma l’idea e l’intento è che i ragazzi scoprano via via dei giochi e diventino indipendenti nell’organizzarsi a giocarli tra loro o in famiglia.
 La serata (iniziamo di solito alle 18:00) piace molto e spesso ci si ferma a cenare insieme per continuare i giochi più impegnativi anche fino alle 23:30, complice il sabato senza scuola. Io o altri genitori di solito facciamo da “facilitatori”: introduciamo un nuovo gioco, ne spieghiamo le regole e guidiamo la prima partita.. poi vanno da soli.
@@ -49,6 +48,18 @@ Ultimamente sono i ragazzi stessi a portare i loro giochi preferiti: io li invit
 
 ## Giochi giocati
 (NB: ordine casuale. numero giocatori, tempo di giocata e difficoltà)
+
+### Saboteur
+da 6 a 10 (ottimo in 8) - 30m - facile - [scheda](https://www.boardgamegeek.com/boardgame/143147/saboteur-compilation-editions)
+
+siamo tanti nani s voler scavare gallerie per trovare l'oro. ma alcuni di noi sono dei sabotatori e ci vogliono depistare! veloce. divertente! ottimo quando siamo in tantissimi. 
+
+### Room-25
+da 4-6 - 1h - facile - [scheda](https://www.boardgamegeek.com/boardgame/127024/room-25)
+
+siamo prigionieri nel futuro e dobbiamo scappare.. mappa della prigione dinamica.. possiamo modificarla.. piena di trappole! riusciremo?
+bella ambientazione.. abbastanza facile.. con modalità di gioco collaborativa o competitiva, con o senza sabotatori.. bello!
+
 
 ### Deserto Proibito 
 da 2 a 4 (ottimo in 4) - 1h - medio - [scheda](https://boardgamegeek.com/boardgame/136063/forbidden-desert)
