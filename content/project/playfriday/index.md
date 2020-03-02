@@ -28,10 +28,12 @@ menu:
 
 E’ da ottobre 2019 che tutti i venerdì tardo pomeriggio si ritrova un gruppo di ragazzi (età media 9-12) a giocare esclusivamente giochi di società e da tavolo: il PlayFriday.
 
-C'è sempre almeno un genitore ad accompagnarli, ma l’idea e l’intento è che i ragazzi imparino ad essere sempre più indipendenti sia nell'organizzazione che nel giocare.
+C'è sempre almeno un genitore ad accompagnarli, ma l’idea e l’intento è che i ragazzi imparino ad essere sempre più indipendenti sia nell'organizzazione che nel giocare.  
 La serata (iniziamo di solito alle 18:00) piace molto e spesso ci si ferma a cenare insieme per continuare i giochi più impegnativi anche fino alle 23:30, complice il sabato senza scuola. Io o altri genitori di solito facciamo da “facilitatori”: introduciamo un nuovo gioco, ne spieghiamo le regole e guidiamo la prima partita.. poi vanno da soli.
+
 Molto spesso giochiamo anche noi grandi, perché ci piace giocare e stiamo esplorando quanto il gioco sia un'esperienza sociale che ci fa conoscere, scoprire nuovi aspetti di noi stessi, degli altri e delle relazioni che abbiamo.
-Nella stanza è vietato qualsiasi “distrazione digitale” e barare.. il gioco è un divertimento serio, il rispetto dell'"etica" del gioco è importante e per giocare bene è opportuno impararne le regole (spesso le facciamo spiegare dai ragazzi ai nuovi arrivati. perché saper spiegare una cosa è una prova importante) ed entrare nella sfera del gioco insieme agli altri.
+Nella stanza è vietato qualsiasi “distrazione digitale” e barare.. il gioco è un divertimento serio, il **rispetto dell'"etica" del gioco** è importante e per giocare bene è opportuno impararne le regole per giocare bene (spesso le facciamo spiegare dai ragazzi ai nuovi arrivati, perché **saper spiegare** una cosa è una prova importante) ed entrare nella sfera del gioco insieme agli altri.  
+A volte teniamo qualche momento di "lezione" sul tema dei giochi, della matematica (elementi base di statistica) e delle tattiche o strategie più interessanti per giocare meglio e divertirsi di più.
 
 La serata è aperta a tutti ma non facciamo troppa diffusione perché il passaparola è la metodologia migliore per uno sviluppo graduale e integrale.
 Abbiamo la fortuna di avere nel quartiere una [Casa del Popolo](https://www.facebook.com/settignanocdp/) (Settignano - Firenze) davvero bella, aperta e spaziosa. Possiamo pure scegliere se stare isolati e tranquilli nella biblioteca, oppure nella sala un più grande e con un po' di passaggio vicino all'ingresso (ultimamente siamo lì perché il gruppo cresce, e siamo più vicini al bar e alla ristorazione :)
