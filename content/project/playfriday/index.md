@@ -26,18 +26,21 @@ menu:
 
 {{< gallery album="gallery" >}}
 
-E’ da ottobre 2019 che nella “sala biblioteca della nostra [Casa del Popolo di Settignano](https://www.facebook.com/settignanocdp/) (Firenze) tutti i venerdì tardo pomeriggio si ritrova un gruppo di ragazzi (età media 9-12) a giocare esclusivamente giochi di società e in scatola: il PlayFriday.
+E’ da ottobre 2019 che tutti i venerdì tardo pomeriggio si ritrova un gruppo di ragazzi (età media 9-12) a giocare esclusivamente giochi di società e da tavolo: il PlayFriday.
 
-C'è sempre almeno un genitore ad accompagnarli, ma l’idea e l’intento è che i ragazzi scoprano via via dei giochi e diventino indipendenti nell’organizzarsi a giocarli tra loro o in famiglia.
+C'è sempre almeno un genitore ad accompagnarli, ma l’idea e l’intento è che i ragazzi imparino ad essere sempre più indipendenti sia nell'organizzazione che nel giocare.
 La serata (iniziamo di solito alle 18:00) piace molto e spesso ci si ferma a cenare insieme per continuare i giochi più impegnativi anche fino alle 23:30, complice il sabato senza scuola. Io o altri genitori di solito facciamo da “facilitatori”: introduciamo un nuovo gioco, ne spieghiamo le regole e guidiamo la prima partita.. poi vanno da soli.
-Quasi sempre giochiamo anche noi, ovvio (facciamo tutto questo perché ci piace giocare, anche con i nostri figli).
-Nella stanza è vietato qualsiasi “distrazione digitale” e barare.. il gioco è un divertimento serio e ci sono mille occasioni per sperimentarlo.
+Molto spesso giochiamo anche noi grandi, perché ci piace giocare e stiamo esplorando quanto il gioco sia un'esperienza sociale che ci fa conoscere, scoprire nuovi aspetti di noi stessi, degli altri e delle relazioni che abbiamo.
+Nella stanza è vietato qualsiasi “distrazione digitale” e barare.. il gioco è un divertimento serio, il rispetto dell'"etica" del gioco è importante e per giocare bene è opportuno impararne le regole (spesso le facciamo spiegare dai ragazzi ai nuovi arrivati. perché saper spiegare una cosa è una prova importante) ed entrare nella sfera del gioco insieme agli altri.
 
-Se qualcuno fosse interessato, elenco qui tutti giochi che i ragazzi hanno provato con qualche mio commento così da aiutarvi a scoprire un po’ questo bellissimo mondo. E qualche indicazione su come poter “riprodurre” questa iniziativa ovunque.
+La serata è aperta a tutti ma non facciamo troppa diffusione perché il passaparola è la metodologia migliore per uno sviluppo graduale e integrale.
+Abbiamo la fortuna di avere nel quartiere una [Casa del Popolo](https://www.facebook.com/settignanocdp/) (Settignano - Firenze) davvero bella, aperta e spaziosa. Possiamo pure scegliere se stare isolati e tranquilli nella biblioteca, oppure nella sala un più grande e con un po' di passaggio vicino all'ingresso (ultimamente siamo lì perché il gruppo cresce, e siamo più vicini al bar e alla ristorazione :)
+
+Noi abbiamo iniziato così.. se qualcun altro volesse riprodurre l'iniziativa (e lo stanno facendo altrove a Firenze e a Milano!) mi contatti, sarò felicissimo di condividere l'esperienza. Ecco qui alcuni dettagli per iniziare:
 
 ## Interesse
 far conoscere l’esperienza del gioco di società, imparare divertendosi a giocare meglio e a socializzare. Stimolare la curiosità e l’indipendenza. i giochi non sono tutti uguali. sono in evoluzione. c'è tutta una nuova generazione di giochi, più collaborativi, più divertenti, che stimolano diverse intelligenze: quella “normale”, quella emotiva, quella collettiva, che aiutano a sviluppare la cooperazione e il dialogo.
-E non secondario il creare uno spazio sociale e culturale di aggregazione per i nostri giovanissimi.
+E non secondario lo sviluppare uno spazio sociale e culturale e ricreativo con le nuove generazioni.
 
 ## Luogo e organizzazione
 una grande stanza confortevole, pubblica. Noi siamo all'interno della Casa del Popolo. Ma andrebbe bene anche una sala condominiale, un bar, un oratorio.
@@ -47,12 +50,31 @@ I genitori accompagnatori sono sempre benvenuti a giocare con i ragazzi o tra di
 Ultimamente sono i ragazzi stessi a portare i loro giochi preferiti: io li invito a studiarsi bene le istruzioni così da imparare a spiegarle agli amici.
 
 ## Giochi giocati
+Elenco qui tutti giochi che i ragazzi hanno provato con qualche mio commento così da aiutarvi a scoprire un po’ questo bellissimo mondo. 
 (NB: ordine casuale. numero giocatori, tempo di giocata e difficoltà)
+
+### Similo
+da 4 a 6  - 20m - facile - [scheda](https://boardgamegeek.com/boardgame/268620/similo)
+
+16 carte di personaggi di fantasia e bisogna individuare il personaggio segreto grazie a due tipi di indizi: è simile o non è simile ad altri personaggi.
+semplicissimo. bellissimo.
+
+### Captain Sonar
+da 6 a 8  - 1h - medio/difficile - [scheda](https://boardgamegeek.com/boardgame/171131/captain-sonar)
+
+in Captain Sonar ad esempio ci si divide in due squadre per una battaglia tra sommergibili dove i giocatori hanno 4 ruoli: il Capitano che decide gli spostamenti, il Primo Ufficiale che gestisce i Sistemi (droni, siluri, mine, stealth..), l'Ingegnere che mantiene in funzione il tutto e l'addetto al Sonar che cerca di mappare la posizione degli avversari.. il tutto in tempo reale!
+
+### Decrypto
+da 4 a 8  - 40m - medio facile - [scheda](https://www.boardgamegeek.com/boardgame/225694/decrypto)
+
+in Decrypto le due squadre devono passarsi dei codici segreti senza essere intercettate dagli avversari, il tutto trovando parole sinonimi o locuzioni sempre diverse... all'inizio sembra complicato ma appena si prende la mano.  
+geniale per stimolare la creatività letteraria! (è di fatto un gioco pluri premiato)
 
 ### Saboteur
 da 6 a 10 (ottimo in 8) - 30m - facile - [scheda](https://www.boardgamegeek.com/boardgame/143147/saboteur-compilation-editions)
 
-siamo tanti nani s voler scavare gallerie per trovare l'oro. ma alcuni di noi sono dei sabotatori e ci vogliono depistare! veloce. divertente! ottimo quando siamo in tantissimi. 
+n Saboteur siamo tutti nani, ma alcuni sono "sabotatori" segreti che devono impedire agli altri di trovare le gemme scavando dei tunnel sotterranei.. davvero coinvolgente perché è tutto un gioco di squadra e controsquadra, cercando di capire chi va e dove.. e alla fine vince una delle due squadre.. ma su più turni puoi cambiare squadra!
+divertente! ottimo quando siamo in tantissimi. 
 
 ### Room-25
 da 4-6 - 1h - facile - [scheda](https://www.boardgamegeek.com/boardgame/127024/room-25)
