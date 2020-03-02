@@ -9,7 +9,7 @@ authors = ["stefano"]
 superuser = true
 
 # Role/position
-role = "Humanist Games Developer, Dad and Educator"
+role = "Humanist Game Designer, Dad and Educator"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -93,7 +93,7 @@ Ciao e benvenuto nel mio sito personale, diario e archivio di tutto quello che f
 Forse serve più a me che a te, ma se trovi qualcosa che ti migliora la giornata, sono contento. Puoi ri-condividerla: qui è tutto Open Source.
 
 - Edutainment e Game based Learning
+- Genitorialità e Formazione integrale
 - Intelligenza Artificiale e Realtà Aumentata
-- Genitorialità e Formazione
 - Sopravvivere al 2042 sviluppando l'Intelligenza Collettiva
 - Trascendenza e Rivoluzione Umanista Universale
