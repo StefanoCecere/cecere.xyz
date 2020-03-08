@@ -1,5 +1,7 @@
 # stefanocecere.com
 
+Hugo powered website with Academic theme
+
 ## shortcuts
 ```
 hugo serve --gc
