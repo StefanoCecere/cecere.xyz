@@ -14,6 +14,11 @@
   weight = 20
 
 [[main]]
+  name = "Ludosofia"
+  url = "/ludosofia"
+  weight = 25
+
+[[main]]
   name = "Studio"
   url = "/studio"
   weight = 30
