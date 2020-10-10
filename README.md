@@ -5,7 +5,7 @@ Hugo powered website with Academic theme
 ## terminal commands
 ```
 hugo serve --gc
-hugo new --kind post post/2019/06/title
+hugo new --kind post blog/2020/10/title
 ```
 
 upgrade Hugo on macOS:
