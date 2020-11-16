@@ -1,0 +1,33 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+
+      {{ with .Content }}
+      <div class="article-style">{{ . }}</div>
+      {{ end }}
+
+      {{ range .Data.Pages.GroupByDate "2006" }}
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3></h3>
+        </div>
+        <div class="col-lg-10">
+
+          {{ range .Pages }}
+              {{ partial "li_corso" . }}
+          {{ end }}
+
+        </div>
+      </div>
+      {{ end }}
+
+    </div>
+  </div>
+
+</div>
+
+{{- end -}}
