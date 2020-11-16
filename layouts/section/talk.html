@@ -13,13 +13,21 @@
       {{ range .Data.Pages.GroupByDate "2006" }}
       <div class="row" id="talk_list">
         <div class="col-lg-2">
-          <h3></h3>
+          <h3>{{ .Key }}</h3>
         </div>
         <div class="col-lg-10">
 
-          {{ range .Pages }}
+        {{ range .Pages }}
+            {{ if eq $.Params.view 1 }}
+              {{ partial "li_list" . }}
+            {{ else if eq $.Params.view 3 }}
+              {{ partial "li_card" . }}
+              {{ else if eq $.Params.view 4 }}
               {{ partial "li_corso" . }}
-          {{ end }}
+            {{ else }}
+              {{ partial "li_compact" . }}
+            {{ end }}
+        {{ end }}
 
         </div>
       </div>

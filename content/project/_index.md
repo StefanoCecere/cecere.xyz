@@ -1,5 +1,5 @@
 ---
 title: Projects
 layout: talk
-view: 4
+view: 2
 ---
