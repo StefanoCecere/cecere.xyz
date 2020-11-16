@@ -1,17 +1,17 @@
 <footer class="site-footer">
-  {{ with .Site.GetPage "privacy.md" }}
-  <p class="powered-by">
-    {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-  </p>
-  {{ end }}
 
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
-    powered by <a href="https://github.com/stefanocecere/" target="_blank" rel="noopener">GitHub</a>,
+    powered by <a href="https://github.com/StefanoCecere/stefanocecere.com" target="_blank" rel="noopener">GitHub</a>,
       <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>,
-      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic</a>, 
+      <a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy</a>, 
       <a href="https://www.netlify.com/" target="_blank" rel="noopener">Netlify</a>
+
+      &middot;
+    {{ with .Site.GetPage "privacy.md" }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
 
     {{ if ne .Type "docs" }}
     <span class="float-right" aria-hidden="true">
