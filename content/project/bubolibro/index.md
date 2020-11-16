@@ -109,9 +109,11 @@ Magari qualcuno di voi o i vostri figli potrebbe volerne creare uno simile come 
 
 tutto il progetto è su GitHub qui: [https://github.com/StefanoCecere/BuboLibro_RegaloSpeciale](https://github.com/StefanoCecere/BuboLibro_RegaloSpeciale/)
 
-se volete scaricare il PDF è qui: [PDF](https://github.com/StefanoCecere/BuboLibro_RegaloSpeciale/blob/master/_output/BuboLibro_Regalo_web.pdf)
+se volete scaricare il **PDF** è qui: [PDF](https://github.com/StefanoCecere/BuboLibro_RegaloSpeciale/blob/master/_output/BuboLibro_Regalo_web.pdf)
 
-su Facebook io scrivo sempre molto di quello che facciamo e con l'hashtag **#bubolibro** potete trovare un po' di post: 
+una preview **web** interattiva è pubblicata qui usando il publisher di Obsidian: [https://publish.obsidian.md/fabio/](https://publish.obsidian.md/fabio/)
+
+su **Facebook** io scrivo sempre molto di quello che facciamo e con l'hashtag **#bubolibro** potete trovare un po' di post: 
 <https://www.facebook.com/hashtag/bubolibro>
 
 spero che il progetto vi sia piaciuto e ... stay tuned! perché questo è solo il numero 1 della serie BuboLibro! ;)
