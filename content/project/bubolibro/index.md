@@ -54,7 +54,7 @@ La soluzione più veloce è stata... fare le fotografie! e poi con un effetto co
 1. si potevano creare velocemente le pagine da testare
 2. le avremmo potute ridisegnare per bene una volta finito il libro
 3. il fratello conoscendo l'ambiente può capire la relazione mappa disegnata <-> spazio reale
-4. se qualcuno volesse creare un suo libro avventura ispirandosi a questo, lo può fare senza troppa fantasia creativa!
+4. se qualcuno volesse creare un suo libro avventura ispirandosi a questo, lo può fare facilmente senza necessariamente inventare troppe cose
 5. lo so avevo scritto tre e ora siamo già a cinque
    
 e così vai di photo shootings andando in giro e i giorni passano e ci lavora nel tempo libero... io lo aiuto ogni tanto nel testare i collegamenti, i testi, e inizio a pensare a come "stampare" il libro una volta finito il canovaccio.  
