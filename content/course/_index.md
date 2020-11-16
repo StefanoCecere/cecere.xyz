@@ -1,5 +1,5 @@
 ---
-title: Corsi
+title: Courses
 layout: talk
 view: 4
 ---

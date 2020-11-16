@@ -30,8 +30,8 @@
 
 
 [[main]]
-  name = "Corsi"
-  url = "/corsi/"
+  name = "Courses"
+  url = "/course"
   weight = 37
 
 [[main]]
