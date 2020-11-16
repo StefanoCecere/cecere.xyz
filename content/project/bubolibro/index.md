@@ -2,8 +2,8 @@
 title: "BuboLibro - un regalo speciale"
 summary: "la storia della creazione di un libro avventura per bambini, da fratello a fratello"
 authors: []
-tags: ["books", "games", "kids"]
-categories: []
+tags: ["lab", "librogame", "kids"]
+categories: ["KidsMakeGames"]
 date: 2020-11-16
 
 # external_link: "https://github.com/StefanoCecere/BuboLibro_RegaloSpeciale"

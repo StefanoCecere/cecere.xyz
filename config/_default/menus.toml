@@ -28,6 +28,12 @@
   url = "/project"
   weight = 35
 
+
+[[main]]
+  name = "Corsi"
+  url = "/corsi/"
+  weight = 37
+
 [[main]]
   name = "Talks"
   url = "/talk"
@@ -43,11 +49,6 @@
 #   name = "Publications"
 #   url = "#featured"
 #   weight = 40
-
-# [[main]]
-#   name = "Tutorials"
-#   url = "/tutorial/"
-#   weight = 50
 
 [[main]]
   name = "Contact"

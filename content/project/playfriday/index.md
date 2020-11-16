@@ -19,9 +19,6 @@ toc : true
 type: docs
 menu:
   giochi:
-    name: 
-    parent: 
-    weight: 0
 ---
 
 {{< gallery album="gallery" >}}
