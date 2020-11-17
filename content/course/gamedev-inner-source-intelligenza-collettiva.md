@@ -1,5 +1,5 @@
 ---
-title: GitHub, OpenSource e Sviluppo con Intelligenza Collettiva
+title: GameDev - GitHub, OpenSource e Sviluppo con Intelligenza Collettiva
 summary: il mio corso introduttivo per sviluppatori di videogiochi
 authors: []
 tags: ["games"]

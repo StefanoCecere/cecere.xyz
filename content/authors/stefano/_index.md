@@ -14,7 +14,7 @@ role: Humanist Game Designer, Dad and Educator
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I research and develop Edutainment, Game Based Learning, A.I., Parenting, Music, Trascendence and the 2042 Humanist Revolution
+bio: studio, sviluppo e insegno nell'intersezione tra Giochi, Tecnologia e Filosofia. 
 
 #interests:
 #- Edutainment e Game based Learning
@@ -68,9 +68,10 @@ highlight_name: false
 #- Visitors
 ---
 
-Ciao e benvenuto nel mio sito personale, diario e archivio di tutto quello che faccio e penso. Condividere il meglio delle proprie scoperte e creazioni é un buon modo per costruire l'Intelligenza Collettiva di cui abbiamo disperatamente bisogno.
-Forse serve più a me che a te, ma se trovi qualcosa che ti migliora la giornata, sono contento. Puoi ri-condividerla: qui è tutto Open Source.
+Ciao e benvenuti nel mio sito personale, diario e archivio di tutto quello che penso e faccio. Condividere il proprio meglio è un buon modo per costruire l'Intelligenza Collettiva di cui abbiamo disperatamente bisogno. E ispirare altri a fare lo stesso è ancora meglio. Forse serve più a me che a te, ma se trovi qualcosa che ti migliora la giornata, sono contento.
 
+Qui studio, sviluppo e insegno l'interesezione tra
+- Giochi, Tecnologia e Filosofia
 - Edutainment e Game based Learning
 - Genitorialità e Formazione integrale
 - Intelligenza Artificiale e Realtà Aumentata

@@ -1,5 +1,5 @@
 ---
-title: AR + VR + MR = XR
+title: GameDev - AR + VR + MR = XR
 summary: il mio corso introduttivo per sviluppatori di videogiochi
 authors: []
 tags: ["games"]

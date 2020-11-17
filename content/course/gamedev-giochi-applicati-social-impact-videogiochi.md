@@ -1,5 +1,5 @@
 ---
-title: Giochi a Impatto Sociale / Business oltre l'entertainment
+title: GameDev - Giochi Applicati e Impatto Sociale - Oltre l'entertainment
 summary: il mio corso introduttivo per sviluppatori di videogiochi
 authors: []
 tags: ["games"]

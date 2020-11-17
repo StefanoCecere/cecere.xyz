@@ -1,5 +1,5 @@
 ---
-title: Laboratorio Librogame per bambini
+title: Kids - Laboratorio Librogame
 summary: come creare un videogioco su... carta!
 authors: []
 tags: ["workshop", "librogame", "kids"]
@@ -20,7 +20,7 @@ url_video: ""
 slides: ""
 ---
 durata: 4 ore  
-costo: circa 10 euro a testa di materiale
+costo: 5 euro a testa di materiale
 
 Per imparare a creare un videogioco, è importante capire come si costruisce una storia dove il lettore/giocatore possa interagire e fare delle scelte.
 In questo laboratorio faremo vedere come dietro ai videogiochi ci sono dei "diagrammi di flusso e scelta" con enigmi e difficoltà da superare.
