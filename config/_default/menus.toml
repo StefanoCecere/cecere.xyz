@@ -35,8 +35,8 @@
 
 
 [[main]]
-  name = "Courses"
-  url = "/course"
+  name = "Educator"
+  url = "/educator"
   weight = 37
 
 [[main]]
