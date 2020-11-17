@@ -1,0 +1,4 @@
+---
+title: xyz
+type: simple
+---

@@ -1,30 +1,35 @@
-+++
-# Date this page was created.
-date = 2012-01-27T00:00:00
+---
+title: "Silo.ist"
+summary: "il sito opensource con tutte le opere di Silo - Mario Rodriguez Cobos"
+authors: []
+tags: ["website", "Nuovo Umanesimo"]
+categories: ["Media"]
+date: 2012-01-27
 
-# Project title.
-title = "Silo.ist"
+# external_link: "https://github.com/StefanoCecere/BuboLibro_RegaloSpeciale"
 
-# Project summary to display on homepage.
-summary = "the complete words and works archive by Mario Rodriguez Cobos"
+links:
+ - name: GitHub
+   url: https://siloist.github.io/
+   icon_pack: fab
+   icon: github
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+---
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["site", "humanist", "nonviolence"]
+The https://siloist.github.io/ website.
+The purpose of this project is to collect all Silo's work, reformat them in markdown texts with good metadata, and publish it for free, permanent accessibility.
 
-# Optional external URL for project (replaces project detail page).
-external_link = "http://silo.ist"
+## Silo
+Silo is the pseudonym of Mario Luis Rodríguez Cobos. He was born in 1938 near Mendoza, located between Argentina and Chile. His writings have been translated into numerous languages.  
+His official site is <http://silo.net>
 
-# Does the project detail page use math formatting?
-math = false
+## People and maintainers
+The project has been launched by [Stefano Cecere](https://github.com/StefanoCecere) and Federico Palumbo
 
-# Optional featured image (relative to `static/img/` folder).
-#[header]
-#image = "headers/bubbles-wide.jpg"
-#caption = "My caption :smile:"
+## Contribute
+Please submit an [issue](https://github.com/siloist/siloist.github.io/issues) if you have any comment and critics
+fork the project and start submitting pull request if you want to contribute
 
-+++
-
+## Technology
+The site is build with Jekyll - http://jekyllrb.com/
+and hosted at GitHub.
