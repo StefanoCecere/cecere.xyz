@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "Privacy"
 type: page
 subtitle: ""
 summary: ""

@@ -7,6 +7,7 @@ superuser: true
 
 # Role/position
 role: Humanist Game Designer, Dad and Educator
+#role: Giochi, STEAM e Filosofia
 
 # Organizations/Affiliations
 #organizations:

@@ -1,9 +1,11 @@
 <footer class="site-footer">
 
+  {{ partial "site_footer_license" . }}
+
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
-    powered by <a href="https://github.com/StefanoCecere/stefanocecere.com" target="_blank" rel="noopener">GitHub</a>,
+    OpenSource site by <a href="https://github.com/StefanoCecere/stefanocecere.com" target="_blank" rel="noopener">GitHub</a>,
       <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>,
       <a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy</a>, 
       <a href="https://www.netlify.com/" target="_blank" rel="noopener">Netlify</a>
@@ -11,6 +13,10 @@
       &middot;
     {{ with .Site.GetPage "privacy.md" }}
       {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+
+    {{ with .Site.GetPage "sitemap/index.md" }}
+    &middot; {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
     {{ end }}
 
     {{ if ne .Type "docs" }}
