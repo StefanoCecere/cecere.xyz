@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Bambini e videogiochi: sviluppo collaborativo creativo ed emotivo"
 event: Internet Festival
 event_url: http://2016.internetfestival.it
@@ -41,7 +39,6 @@ image:
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
-
 url_code:
 url_pdf:
 url_video:

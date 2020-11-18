@@ -39,6 +39,14 @@ Lavorando chi da solo, chi in duo, chi in trio, la maggior parte dei bambini ave
 dopo un'ora di lavoro le mappe erano finite.
 
 Una merenda con pane e olio (rigorosamente delle nostre colline fiorentine) e poi via alla produzione del librino e rilegatura.
+
+## materiali
+i materiali per il laboratorio sono questi:
+- la **MAPPA** per progettare la storia [PDF](assets/LibroGameLab%20Mappa%20-%20A3.pdf)
+- la **COPERTINA**, da stampare su cartoncino magari colorato [PDF](assets/LibroGameLab%20Copertina%20-%20A4%20cartoncino.pdf)
+- le **PAGINE** interne dove disegnare e scrivere [PDF](assets/LibroGameLab%20Pagina%20-%20A4.pdfLibroGameLab%20Copertina%20-%20A4%20cartoncino.pdf)
+
+## foto
 ecco qualche foto della mattinata.
 
 {{< gallery album="img" >}}
