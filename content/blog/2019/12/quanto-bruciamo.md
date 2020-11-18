@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: []
 tags: []
-categories: []
+categories: [blog]
 date: 2019-12-31T20:10:33+01:00
 lastmod: 2019-12-31T20:10:33+01:00
 featured: false

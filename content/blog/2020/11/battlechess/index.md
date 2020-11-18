@@ -4,8 +4,8 @@ subtitle: ""
 summary: ""
 tags: [videogiochi, violenza, scacchi, retrogames]
 categories: []
-date: 2020-11-15T11:54:46+01:00
-lastmod: 2020-11-15T11:54:46+01:00
+date: 2020-11-15T19:54:46+01:00
+lastmod: 2020-11-15T19:54:46+01:00
 featured: false
 draft: false
 image:
