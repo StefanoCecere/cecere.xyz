@@ -57,7 +57,7 @@
 
 [[main]]
   name = "Contact"
-  url = "#contact"
+  url = "/contact"
   weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
