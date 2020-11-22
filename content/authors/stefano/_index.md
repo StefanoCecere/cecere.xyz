@@ -44,12 +44,16 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/StefanoCecere
-- icon: twitter
+- icon: youtube
   icon_pack: fab
-  link: https://twitter.com/StefanoCecere
+  link: https://www.youtube.com/channel/UCIJRyBArdrCb1m52coyhUZA
 - icon: github
   icon_pack: fab
   link: https://github.com/stefanocecere
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/StefanoCecere
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
