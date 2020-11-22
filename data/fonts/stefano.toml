@@ -1,0 +1,16 @@
+# Font style metadata
+name = "stefano"
+
+# Optional Google font URL
+google_fonts = ""
+
+# Font families
+heading_font = ""
+body_font = "usual, Helvetica Neue, Arial, sans-serif"
+nav_font = ""
+mono_font = ""
+
+#heading_font = "Montserrat"
+#body_font = "Roboto"
+#nav_font = "Roboto"
+#mono_font = "Roboto Mono"
