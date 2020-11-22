@@ -1,8 +1,11 @@
 ---
-title: 
+title: Piattaforme video
+subtitle: ""
 date: 2019-08-26
-tags: 
-location: Firenze  
+categories: []
+featured: false
+tags: [media, creatività]
+# slug: 
 ---
 
 mi sa che l’anno prossimo per vedere film belli in tv dovremo essere abbonati a Netflix, a Disney\+, ad AppleTV ed AmazonPrime e poi chissà cosa altro, perché ogni piattaforma avrà i suoi contenuti in esclusiva.

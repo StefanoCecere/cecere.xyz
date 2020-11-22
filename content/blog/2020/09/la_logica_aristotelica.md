@@ -1,6 +1,11 @@
 ---
-title: Per smascherare i furbi ricominciamo a studiare la logica aristotelica
-date: 2020-09-02 11:01
+title: la logica aristotelica
+subtitle: ""
+date: 2020-09-02
+categories: []
+featured: false
+tags: [filosofia, logica]
+# slug: 
 ---
 
 Per smascherare i furbi ricominciamo a studiare la logica aristotelica

@@ -1,10 +1,13 @@
 ---
-title: 
-date: 2016-05-02
-tags: 
+title: Vegetarianismo
+subtitle: ""
+date: 2016-05-02T05:21
+categories: []
+featured: false
+tags: [cibarsi, ambiente]
+# slug: 
 ---
 
-# Vegetarianismo
 parto dalla fine:
 
 in linea di massima non ho nulla contro gli animali allevati "con amore" in campagna,
@@ -61,15 +64,15 @@ metà dei terreni agricoli del mondo servono per produrre alimenti per gli anima
 
 un ritorno ai cereali e zuccheri integrali apporterebbe nelle nostre diete un quantità enorme di elementi positivi. (e in teoria i prodotti integrarli dovrebbero costare molto meno di quelli raffinati e poi "sporcati" per sembrare integrali)
 
-sono riusciti a fare dei würstel vegani che ti assicuro sanno proprio come quelli di carne (??).. con senape, curry e ketchup sono da 10\!
+sono riusciti a fare dei würstel vegani che ti assicuro sanno proprio come quelli di carne (??).. con senape, curry e ketchup sono da 10
 
-ecco alcune ragioni\!
+ecco alcune ragioni:
 
 fondamentalmente nessuno mi sta riuscendo a convincere a mangiarla, la carne.
 
 da ogni parte giri lo sguardo trovo solo buone ragioni per non farlo.
 
-e se fino a pochi anni fa venivo un po' additato come il solito diverso, ultimamente invece sempre più persone vorrebbero diminuire il proprio consumo di carne (oggi ero al pranzo alla Casa del Popolo per il primo ,maggio.. e per la prima volta nella storia, oltre alle solite tonnellate di salsicce e costine, c'erano menù vegetariani e vegani\!
+e se fino a pochi anni fa venivo un po' additato come il solito diverso, ultimamente invece sempre più persone vorrebbero diminuire il proprio consumo di carne (oggi ero al pranzo alla Casa del Popolo per il primo ,maggio.. e per la prima volta nella storia, oltre alle solite tonnellate di salsicce e costine, c'erano menù vegetariani e vegani!
 
 ovviamente non sono della scuola del criticare gli altri per i loro costumi. non vado ad additare i carnivori. che ognuno scelga quello che più gli piace
 
@@ -77,6 +80,6 @@ credo comunque che in futuro il consumo di carne si abbasserà sempre più.
 
 l'evoluzione tecnologica e della coscienza ci porterà lì.
 
-e ciò non mi dispiace affatto\!
+e ciò non mi dispiace affatto!
 
 e tu? in che posizione stai al momento? (perché non crediamo di tenere una posizione eterna, vero? :)

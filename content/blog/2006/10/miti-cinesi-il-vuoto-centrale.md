@@ -2,10 +2,7 @@
 title: Miti Cinesi - Il vuoto centrale
 categories:
 date: "2006-02-10T08:55:40Z"
-tags:
-- miti
-- Silo
-slug: miti-cinesi-il-vuoto-centrale
+tags: [miti, Silo]
 ---
 
 _l'altro ieri in riunione abbiamo letto alcuni temi dei miti cinesi. Il mondo dei MITI è veramente affascinante e, se predisposti con il giusto atteggiamente "poetico", possono essere di grande aiuto per la comprensione dell'essere umano e del senso della vita_

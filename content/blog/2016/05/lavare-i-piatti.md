@@ -1,7 +1,11 @@
 ---
-title: 
+title: lavare i piatti
+subtitle: ""
 date: 2016-06-15
-tags: 
+categories: []
+featured: false
+tags: [famiglia]
+# slug: 
 ---
 
 Un mio amico viene da me a prendere il caffè, ci sediamo e chiacchieriamo, parlando della vita... 

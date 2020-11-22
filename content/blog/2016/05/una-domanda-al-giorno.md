@@ -1,10 +1,12 @@
 ---
-title: 
-date: 2016-05-02
-tags: 
+title: Una domanda al giorno
+subtitle: ""
+date: 2016-05-02T05:47
+categories: []
+featured: false
+tags: [spazio]
+# slug: 
 ---
-
-Una domanda al giorno
 
 ma se c’è stato un Big Bang e in una frazione di secondo la materia si è espansa fino alle dimensioni della nostra galassia… ha viaggiato ben oltre la velocità della luce!
 
@@ -17,4 +19,4 @@ credo sia una pratica da diffondere, il domandarsi quotidianamente qualcosa, lan
 se mancasse l’occasione, c’è un sito ( quora.com ) che è il più grande raccoglitore di domande su ogni argomento. lo raccomando
 
 
-https://www.quora.com/If-the-universe-expanded-from-the-big-bang-to-the-size-of-our-galaxy-in-a-micro-second-this-must-mean-everything-in-creation-traveled-much-much-faster-than-the-speed-of-light-how-is-this-possible
+<https://www.quora.com/If-the-universe-expanded-from-the-big-bang-to-the-size-of-our-galaxy-in-a-micro-second-this-must-mean-everything-in-creation-traveled-much-much-faster-than-the-speed-of-light-how-is-this-possible>
