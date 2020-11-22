@@ -20,7 +20,5 @@ having tons of content in many areas, i think to use:
 - categories
 - tags
 
-
-
 ## theme
 i use Wowchemy https://wowchemy.com/
