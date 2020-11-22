@@ -22,10 +22,12 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/1Zq41byQDgY"
 slides: ""
 ---
 
+{{< youtube 1Zq41byQDgY>}}
+<br>
 - cosa stai facendo?
 - sto creando il mio regalo di compleanno per Bruno
 - ma .. quella è la mappa del nostro giardino.. e quello è LibroGameCreator!

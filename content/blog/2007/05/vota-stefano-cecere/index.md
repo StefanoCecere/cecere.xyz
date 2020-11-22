@@ -17,4 +17,4 @@ projects: []
 ebbene si. puoi votarmi!
 sono capolista alle municipali di Monza con il Partito Umanista, il Partito dei Diritti Umani
 
-{{< gallery album="img">}}
+{{< gallery album="img" >}}
