@@ -29,4 +29,4 @@ se entro lunedì non arriva una bozza, picchiatemi!
 
 (serve anche un po' di motivazione e incoraggiamento esterno a volte 😉
 
-🔴 per gli interessati il repository del mio template di lavoro è: <https://github.com/StefanoC.../markdown_pandoc_book_template> contattatemi!
+🔴 per gli interessati il repository del mio template di lavoro è: <https://github.com/StefanoCecere/markdown_pandoc_book_template> contattatemi!
