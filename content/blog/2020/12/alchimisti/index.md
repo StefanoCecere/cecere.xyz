@@ -2,7 +2,7 @@
 title: Alchimisti
 date: 2020-12-08T22:50:55
 categories: []
-tags: [dialoghi, alchimia]
+tags: [dialoghi, alchimia, STEAM]
 ---
 
 - papà... non riesco a dormire
@@ -16,7 +16,7 @@ tags: [dialoghi, alchimia]
 - si
 - i protoni hanno carica positiva mentre gli elettroni negativa, e gli elementi base li hanno in numero uguali, così che le cariche si annullano e sono magneticamente stabili. ad esempio l'Idrogeno ha un protone nel nucleo e un elettrone intorno. l'Ossigeno 8 .. questo numero è il Numero Atomico.. una volta ti avevo regalato una bella tabella degli elementi a fumetti.. sai dov'è?
 - si, lì appesa
-- ahh eccola bravissimo. vedi qui coem sono disposti gli elementi?
+- ahh eccola bravissimo. vedi qui come sono disposti gli elementi?
 - ecco dicevo: se ad un atomo gli si toglie o si aggiunge un elettrone, diventa uno Ione, che è lo stesso elemento, ma con un po' di carica positiva (un elettrone in meno) si chiama Catione, e con un elettrone in più invece si chiama Anione, ha una leggera carica negativa.
 - come il Fon
 - esatto.. il Fon agli Ioni
