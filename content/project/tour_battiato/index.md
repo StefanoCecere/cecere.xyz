@@ -19,4 +19,16 @@ slides: ""
 ---
 
 tour italiano, Sanremo, capodanno 2000
+tastierista programmatore per il tour Gommalacca.
+
+concerto completo (solo audio):  
+{{< youtube 82f0_jqhVgs >}}
+https://youtu.be/82f0_jqhVgs
+
+una performance in tv:  
+{{< youtube 83fKF9GUewg >}}
+https://www.youtube.com/watch?v=83fKF9GUewg
+
+{{< youtube rajzcbvpTO4 >}}
+https://www.youtube.com/watch?v=rajzcbvpTO4
 
