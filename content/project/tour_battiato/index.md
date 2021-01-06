@@ -32,3 +32,10 @@ https://www.youtube.com/watch?v=83fKF9GUewg
 {{< youtube rajzcbvpTO4 >}}
 https://www.youtube.com/watch?v=rajzcbvpTO4
 
+a Sanremo 1999
+{{< youtube 9Dz7mC0zXeU >}}
+https://www.youtube.com/watch?v=9Dz7mC0zXeU
+
+Paranoia
+https://www.youtube.com/watch?v=eHNiL2frtD0
+
