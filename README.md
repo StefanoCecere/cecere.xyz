@@ -20,5 +20,10 @@ having tons of content in many areas, i think to use:
 - categories
 - tags
 
+## snippets
+
+link to page:
+[A post]({{< ref "/post/my-page-name.md" >}})
+
 ## theme
 i use Wowchemy https://wowchemy.com/
