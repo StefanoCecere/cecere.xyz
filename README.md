@@ -25,5 +25,7 @@ having tons of content in many areas, i think to use:
 link to page:
 [A post]({{< ref "/post/my-page-name.md" >}})
 
+{{< youtube 82f0_jqhVgs >}}
+
 ## theme
 i use Wowchemy https://wowchemy.com/
