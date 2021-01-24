@@ -1,5 +1,5 @@
 ---
-title: DALL-E : Intelligenza Artificiale che crea tutto
+title: DALL-E Intelligenza Artificiale che crea tutto
 date: 2021-01-24T22:50:55
 categories: []
 tags: [AI, tech]
