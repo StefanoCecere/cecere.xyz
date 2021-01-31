@@ -5,7 +5,6 @@ summary: ""
 tags: [umanista]
 categories: [blog]
 date: 2010-12-31T19:14:02+01:00
-lastmod: 2010-12-31T19:14:02+01:00
 featured: false
 draft: false
 image:
