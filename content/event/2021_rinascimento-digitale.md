@@ -4,6 +4,10 @@ draft: false
 summary: due chiacchiere nel programma online Rinascimento Digitale
 abstract: ""
 
+#event: Wowchemy Conference
+#event_url: https://example.org
+location: online
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-05-24T11:00:00Z"

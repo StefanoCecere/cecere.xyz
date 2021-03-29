@@ -7,7 +7,6 @@ tags: [miti, Silo]
 
 _l'altro ieri in riunione abbiamo letto alcuni temi dei miti cinesi. Il mondo dei MITI è veramente affascinante e, se predisposti con il giusto atteggiamente "poetico", possono essere di grande aiuto per la comprensione dell'essere umano e del senso della vita_
 
-{{< figure library="1" src="blog/tao.jpg">}}
 Il Tao è un recipiente vuoto, difficile da colmare. Lo usi e non si riempie mai. Tanto è profondo e insondabile che sembra precedente a tutte le cose... Non si sa di chi è figlio. Sembra precedente agli dèi.
   
 Trenta raggi convergono verso il centro di una ruota, ma è il vuoto del centro che rende utile la ruota. Con argilla si modella un recipiente, ma è lo spazio che non contiene argilla che usiamo come recipiente. Apriamo porte e finestre in una casa, ma è grazie ai suoi spazi vuoti che possiamo usarla. Quindi, **dall’esistenza provengono le cose e dalla non esistenza la loro utilità.**

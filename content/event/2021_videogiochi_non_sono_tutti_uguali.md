@@ -4,6 +4,10 @@ draft: false
 summary: una chiacchierata con ragazzi e genitori sui videogiochi.
 abstract: ""
 
+#event: Wowchemy Conference
+#event_url: https://example.org
+location: online
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-04-06T11:00:00Z"

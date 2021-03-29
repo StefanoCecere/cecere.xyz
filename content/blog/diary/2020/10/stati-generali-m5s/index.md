@@ -17,6 +17,6 @@ projects: []
 
 domenica scorsa ho partecipato alla (bellissima!) riunione per gli Stati Generali del M5S in Toscana.
 ho avuto due minuti per sintetizzare i miei punti salienti su cosa mi piacerebbe fosse portato sul tavolo del futuro.
-nel trascrivere le note le ho pubblicate nel mio sito: <https://stefanocecere.com/studio/m5s-stati_generali_2020/>
+nel trascrivere le note le ho pubblicate nello studio: [M5S-Stati-Generali-2020]({{< relref "/studio/politica/M5S-Stati-Generali-2020.md" >}})
 
 questo sabato si andrà avanti. sono abbastanza ottimista che si riesca davvero a fare un ulteriore avanzamento collettivo 🙂 ciao

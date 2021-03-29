@@ -1,8 +1,12 @@
 ---
-title: Umanesimo, Intelligenza Artificiale, Realtà Virtuale e Videogiochi
+title: L’umanesimo nell’intelligenza artificiale, nella realtà virtuale e nei videogiochi
 draft: false
-summary: intervento al simposion internazionale Centro Studi Umanisti
+summary: la ricerca e lo sviluppo delle nuove tecnologie e nuovi media è sempre più connessa con un atteggiamento umanista. scopriremo perché.
 abstract: ""
+
+event: 8° Simposio Internazionale del Centro Mondiale Studi Umanisti
+event_url: http://2021.worldsymposium.org/it
+location: online
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

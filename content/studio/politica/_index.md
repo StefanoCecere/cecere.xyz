@@ -1,15 +1,15 @@
 ---
 # Page title
-title: Studio
+title: Politica
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 #linktitle: Libreria
 
 # Page summary for search engines.
-summary: archivio dei testi e documenti importanti
+# summary: Blah, blah, blah...
 
 # Date page published
-date: 2018-09-09T00:00:00
+date: 2018-09-09
 
 # Academic page type (do not modify).
 type: book
@@ -18,4 +18,4 @@ type: book
 weight: 1
 ---
 
-un po' di cose che ho scritto e che non trovano spazio nei post o nei progetti
+{{< list_children >}}

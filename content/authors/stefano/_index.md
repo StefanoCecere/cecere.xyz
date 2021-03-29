@@ -18,17 +18,17 @@ role: Game Based Learning R&D, Educator, Musician
 bio: ricerco, sviluppo e insegno nell'intersezione tra Giochi, Tecnologia e Filosofia.
 
 #interests:
+#- Giochi, Tecnologia e Filosofia
 #- Edutainment e Game based Learning
-#- Intelligenza Artificiale
-#- Genitorialità e Formazione
+#- Genitorialità e Formazione integrale
+#- Intelligenza Artificiale e Realtà Aumentata
 #- Sopravvivere al 2042 sviluppando l'Intelligenza Collettiva
 #- Trascendenza e Rivoluzione Umanista Universale
-
+  
 #education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
+# courses:
+# - course: PhD in Artificial Intelligence
+#   institution: Stanford University
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
@@ -82,12 +82,12 @@ highlight_name: false
 #- Visitors
 ---
 
-Ciao e benvenuti nel mio sito personale, diario e archivio di tutto quello che penso e faccio. Condividere il proprio meglio è un buon modo per costruire l'Intelligenza Collettiva di cui abbiamo disperatamente bisogno. E ispirare altri a fare lo stesso è ancora meglio. Forse serve più a me che a te, ma se trovi qualcosa che ti migliora la giornata, sono contento.
+Benvenuti nel mio _secondo cervello_ digitale, archivio di tutto quello che penso, sento e faccio. Condividere il proprio meglio è un buon modo per costruire l'_Intelligenza Collettiva_ di cui abbiamo disperatamente bisogno, e ispirare altri a fare lo stesso è ancora meglio.
 
-Qui studio, sviluppo e insegno l'interesezione tra
+I miei interessi sono studiare, sviluppare, educare
 - Giochi, Tecnologia e Filosofia
-- Edutainment e Game based Learning
-- Genitorialità e Formazione integrale
-- Intelligenza Artificiale e Realtà Aumentata
-- Sopravvivere al 2042 sviluppando l'Intelligenza Collettiva
+- Game Based Learning, Game Design e Scuola
+- Genitorialità, Formazione Integrale e Creatività Diffusa
+- AI + XR + OpenSource
+- Futuro oltre il 2042, Intelligenza Collettiva e Sviluppo Sostenibile
 - Trascendenza e Rivoluzione Umanista Universale

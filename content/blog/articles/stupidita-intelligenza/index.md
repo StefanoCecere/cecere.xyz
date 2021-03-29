@@ -1,27 +1,30 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Stupidità"
-linktitle: "stupidita"
-summary:
-date: 2019-08-28T01:13:15+02:00
-lastmod: 2019-08-28T01:13:15+02:00
-draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
-type: docs  # Do not modify.
-
-# Add menu entry to sidebar.
-# - Substitute `example` with the name of your course/documentation folder.
-# - name: Declare this menu item as a parent with ID `name`.
-# - parent: Reference a parent ID if this page is a child.
-# - weight: Position of link in menu.
-menu:
-  studio:
-    name: Stupidità
-    parent: Psicologia
-    weight: 1
+title: "Il Diagramma della Stupidità e dell'Intelligenza"
+subtitle: ""
+summary: ""
+authors: []
+categories: [libreria]
+tags: [psicologia, stupidita]
+categories: []
+date: 2019-08-29T08:23:41+02:00
+lastmod: 2019-08-29T08:23:41+02:00
+featured: true
+draft: false
 ---
-Le leggi della Stupidità sono tratte da quel piccolo ma intenso capolavoro che è "Allegro ma Non Troppo" scritto nel 1988 dallo storico ed economista [Carlo Cipolla](https://it.wikipedia.org/wiki/Carlo_M._Cipolla).
+
+Non so voi, ma anelo molto alla ricerca dell'Intelligenza in tutte le sue forme e sopratutto alle soluzioni "win-win" dove tutti i giocatori almeno in parte vincono.
+
+Per questo inizio sempre tutte le mie lezioni e laboratori con un accenno al Diagramma della Stupidità, tratto da quel piccolo ma intenso capolavoro che è "Allegro ma Non Troppo" scritto nel 1988 dallo storico ed economista Carlo Cipolla.
+
+In pratica: stupido è non tanto chi lo stupido fa, ma chi con le proprie azioni arreca danno tanto agli altri quanto a sé stesso.
+
+Intelligente è invece chi procura beneficio sia agli altri che a sé stesso.
+
+E' una definizione abbastanza particolare di intelligenza, che esclude i geni del male ("banditi") ed incorpora una certa morale ed etica, uno sguardo verso l'altro e il futuro, ed è particolarmente facile e divertente da ricordare.
+
+Credo sia molto interessante meditare su questo schema, sopratutto chi aspira a posizionarsi nel quadrante superiore (aiutare gli altri). Ai ragazzi piace molto.
+
+# Le leggi della Stupidità
 
 ## Prima Legge
 **Sempre e inevitabilmente ognuno di noi sottovaluta il numero degli individui stupidi in circolazione:**
@@ -59,4 +62,4 @@ Esistono quattro tipi di persone in dipendenza del loro comportamento in una tra
 - **Bandito**: chi con la sua azione tende a creare vantaggio per sé stesso, ma allo stesso tempo danneggia qualcun altro
 - **Stupido**:  chi causa un danno ad un altra persona o gruppo di persone senza nel contempo realizzare alcun vantaggio per sé o addirittura subendo una perdita
 
-![Diagramma Stupidità](DiagrammaStupidita.jpg)
+[Carlo Cipolla](https://it.wikipedia.org/wiki/Carlo_M._Cipolla), "Allegro ma Non Troppo", 1988
