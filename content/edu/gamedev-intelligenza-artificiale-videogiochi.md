@@ -2,8 +2,8 @@
 title: GameDev - Intelligenza Artificiale nei videogiochi
 summary: il mio corso introduttivo per sviluppatori di videogiochi
 authors: []
-tags: ["games"]
-categories: ["Corsi", "gamedev"]
+tags: ["games", "gamedev"]
+categories: ["course"]
 date: 2018-12-12
 external_link: ""
 image:
