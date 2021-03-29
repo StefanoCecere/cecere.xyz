@@ -19,8 +19,7 @@ featured: false
 
 authors:
 categories: jamurr
-tags:
-- KidsGameJam
+tags: ["7frames", "KidsGameJam"]
 ---
 
 E’ stato pubblicato ed è disponibile per tutte le piattaforme (smartphones e tablets Android e iOS, computer Windows e macOS, web) il gioco 7 FRAMES, nato dalla Kids Game Jam di ottobre 2016 presso l’Internet Festival.

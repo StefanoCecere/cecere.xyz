@@ -7,33 +7,33 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Now
-    url: 'now'
-    weight: 17
-  - name: Blog
-    url: '/blog'
-    weight: 20
-  - name: Ludosofia
-    url: '/ludosofia'
-    weight: 25
-  - name: Jamurr
-    url: '/jamurr'
-    weight: 26
-  - name: Studio
-    url: '/studio'
-    weight: 30
-  - name: Progetti
-    url: '/project'
-    weight: 35
   - name: Corsi
-    url: '/educator'
-    weight: 37
+    url: '/edu'
+    weight: 20
   - name: Talks
     url: '/event'
+    weight: 30
+  - name: Blog
+    url: '/blog'
+    weight: 15
+  - name: Ludosofia
+    url: '/ludosofia'
     weight: 40
+  - name: Jamurr
+    url: '/jamurr'
+    weight: 42
+  - name: Studio
+    url: '/studio'
+    weight: 50
+  - name: Progetti
+    url: '/project'
+    weight: 39
   - name: About
     url: '/about'
-    weight: 60
+    weight: 90
+  - name: Now
+    url: 'now'
+    weight: 80
   - name: Contatto
     url: '/contact'
     weight: 100

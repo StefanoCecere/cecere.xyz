@@ -1,6 +1,6 @@
 ---
 title: Stefano Cecere - mini biografia
-categories: ["E io cecio"]
+categories: [about]
 date: 2002-11-12T12:31:07Z
 id: 830
 tags: ["bio"]

@@ -86,12 +86,12 @@ edit_page:
 show_related:
   book: true
   page: false
-  post: true
+  blog: true
   project: true
   publication: true
   event: true
 reading_time: false
-section_pager: false
+section_pager: true
 docs_section_pager: true
 sharing: false
 copyright_license:

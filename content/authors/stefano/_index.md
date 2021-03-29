@@ -6,7 +6,7 @@ title: Stefano Cecere
 superuser: true
 
 # Role/position
-role: Game Based Learning e Innovazione Tecnologica Umanista
+role: Game Based Learning R&D, Educator, Musician
 #role: Giochi, STEAM e Filosofia
 
 # Organizations/Affiliations

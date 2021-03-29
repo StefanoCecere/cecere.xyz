@@ -1,11 +1,11 @@
 ---
 title: Una domanda al giorno
+slug: una-domanda-al-giorno
 subtitle: ""
-date: 2016-05-02T05:47
+date: 2016-05-02T05:47:00
 categories: []
 featured: false
 tags: [spazio]
-# slug: 
 ---
 
 ma se c’è stato un Big Bang e in una frazione di secondo la materia si è espansa fino alle dimensioni della nostra galassia… ha viaggiato ben oltre la velocità della luce!

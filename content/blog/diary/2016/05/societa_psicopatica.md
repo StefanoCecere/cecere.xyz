@@ -1,11 +1,11 @@
 ---
 title: Una società psicopatica
+slug: una-societa-psicopatica
 subtitle: ""
-date: 2016-05-02T05:11
+date: 2016-05-02T05:11:00
 categories: []
 featured: false
 tags: [sociologia]
-# slug: 
 ---
 
 Umberto Galimberti: la nostra società ad alto tasso di psicopatia non è adatta a fare figli - Wise SocietyWise Society

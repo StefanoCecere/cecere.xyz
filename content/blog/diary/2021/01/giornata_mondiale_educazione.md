@@ -1,5 +1,6 @@
 ---
 title: Giornata Mondiale dell'Educazione
+slug: giornata-mondiale-educazione
 date: 2021-01-24T22:50:55
 categories: []
 tags: [educazione]

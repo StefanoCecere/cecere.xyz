@@ -1,5 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+slug:
 subtitle: ""
 summary: ""
 tags: []

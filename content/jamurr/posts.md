@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Ultimi post Jamurr
+title: Ultime Jamurr
 subtitle:
 
 content:
