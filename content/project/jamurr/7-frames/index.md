@@ -3,8 +3,8 @@ title: 7 Frames
 summary: un videogioco creato da bambini
 # slug: 
 authors: []
-tags: ["videogame", "kids"]
-categories: ["KidsMakeGames"]
+tags: ["jamurr", "videogame", "kids"]
+categories: ["jamurr"]
 date: 2016-10-10T16:27:02+02:00
 external_link: ""
 image:

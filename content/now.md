@@ -11,4 +11,4 @@ type: simple
 - convertendo Tonzilla su Oculus Quest 2
 - finendo gioco AR educativo
 
-- ~~pubblicazione libro game di mio figlio~~ [🤓🔗]({{< ref "/project/bubolibro/index.md">}})
+- ~~pubblicazione libro game di mio figlio~~ [🤓🔗]({{< ref "/project/jamurr/bubolibro/index.md">}})

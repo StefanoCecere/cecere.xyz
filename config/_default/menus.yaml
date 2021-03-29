@@ -16,22 +16,25 @@ main:
   - name: Ludosofia
     url: '/ludosofia'
     weight: 25
+  - name: Jamurr
+    url: '/jamurr'
+    weight: 26
   - name: Studio
     url: '/studio'
     weight: 30
-  - name: Projects
-    url: '/projects'
+  - name: Progetti
+    url: '/project'
     weight: 35
-  - name: Educator
+  - name: Corsi
     url: '/educator'
     weight: 37
   - name: Talks
-    url: '/talks'
+    url: '/event'
     weight: 40
   - name: About
     url: '/about'
     weight: 60
-  - name: Contact
+  - name: Contatto
     url: '/contact'
     weight: 100
 
