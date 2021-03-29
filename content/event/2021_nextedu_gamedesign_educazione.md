@@ -3,7 +3,7 @@ title: "Game Design ed Educazione"
 event: The Next Education
 event_url: 
 location: Online
-summary: Due chiacchiere su videgiochi, educazione e game design
+summary: su videogiochi, educazione e game design
 abstract:
 # Talk start and end times.
 date: 2021-03-03

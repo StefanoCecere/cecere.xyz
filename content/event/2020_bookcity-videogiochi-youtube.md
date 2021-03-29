@@ -3,7 +3,7 @@ title: "AIUTO HO INGOIATO UNO YOUTUBER!"
 event: BookCity Milano
 event_url: https://bookcitymilano.it/eventi/2020/aiuto-ho-ingoitato-uno-youtuber-8-12-anni
 location: Online
-summary: Due chiacchiere su videgiochi, social media e ragazzi
+summary: su videogiochi, social media e ragazzi
 abstract:
 # Talk start and end times.
 date: 2020-11-14
@@ -11,7 +11,7 @@ date: 2020-11-14
 all_day: true
 publishDate: 2020-11-14
 
-tags: [video, parenting, kids, edtech, youtubers]
+tags: [video, parenting, kids, edtech, youtuber]
 featured: false
 image:
   caption: ""
