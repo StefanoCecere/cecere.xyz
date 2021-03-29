@@ -9,8 +9,8 @@ link to page:
 
 ## terminal commands
 ```
-hugo new --kind post brain/_articles/
-hugo new --kind post brain/2021/3/title
+hugo new --kind post blog/articles/
+hugo new --kind post blog/diary/2021/3/title
 
 hugo serve --gc
 

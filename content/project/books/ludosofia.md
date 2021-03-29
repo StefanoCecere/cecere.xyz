@@ -2,7 +2,7 @@
 title: Ludosofia
 summary: libro
 authors: []
-tags: ["MediaEducation", "games", "paranting"]
+tags: ["MediaEducation", "games", "parenting"]
 categories: ["books"]
 date: 2021-03-21
 

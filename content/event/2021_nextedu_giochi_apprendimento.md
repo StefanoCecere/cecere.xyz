@@ -10,7 +10,7 @@ date: 2021-02-16
 all_day: true
 publishDate: 2021-02-16
 
-tags: [video, kids, edtech, aducazione]
+tags: [video, kids, edtech, educazione]
 featured: false
 image:
   caption: ""

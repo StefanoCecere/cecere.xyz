@@ -3,7 +3,7 @@ title: TYPO3 CMS
 summary: "web design and development"
 # slug: 
 authors: []
-tags: ["tour", "music"]
+tags: ["web-dev", "opensource"]
 categories: ["work"]
 date: 2003-06-02T16:27:02+02:00
 external_link: ""
