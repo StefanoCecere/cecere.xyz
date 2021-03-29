@@ -2,7 +2,7 @@
 title: Amici di Gurdjieff
 date: 2021-01-16T21:50:55
 categories: []
-tags: [filosofia]
+tags: [filosofia, Gurdjieff]
 ---
 
 una domanda per gli amici virtuali: 

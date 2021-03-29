@@ -16,4 +16,4 @@ projects: []
 ---
 
 il libro game creato da Fabio è stato regalato al fratellino.
-ecco la sua storia: [Progetto Bubolibro]({{< ref "/project/bubolibro/index.md" >}})
+ecco la sua storia: [Progetto Bubolibro]({{< ref "/project/jamurr/bubolibro/index.md" >}})

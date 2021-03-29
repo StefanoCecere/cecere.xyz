@@ -1,7 +1,7 @@
 ---
-title: Blog
+title: Posts
 cms_exclude: true
-aliases: [/blog/]
+
 # View.
 #   1 = List
 #   2 = Compact
