@@ -2,7 +2,7 @@
 title: "Silo.ist"
 summary: "il sito opensource con tutte le opere di Silo - Mario Rodriguez Cobos"
 authors: []
-tags: ["website", "Nuovo Umanesimo"]
+tags: [social, web, NuovoUmanesimo]
 categories: ["Media"]
 date: 2012-01-27
 

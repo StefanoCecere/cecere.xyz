@@ -19,7 +19,12 @@ url_slides: ""
 url_video: ""
 ---
 
-## GIOCA SUBITO
+game developed at GGJ16 by Stefano and Fabio
+
+{{< youtube 0DPo3DuW7Bk >}}
+
+
+GGJ site: <http://globalgamejam.org/2016/games/im-not-just-sheep-non-sono-solo-una-pecora>
 
 - scarica app Android: [Google Play](https://play.google.com/store/apps/details?id=com.jamurr.notjustsheep)
 - scarica app iOS: [iTunes App Store](https://itunes.apple.com/it/app/jj-im-not-just-a-sheep/id1109994897?l=en&mt=8)
