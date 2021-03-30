@@ -1,16 +1,17 @@
 ---
-title: L’umanesimo nell’intelligenza artificiale, nella realtà virtuale e nei videogiochi
+title: EdTech, media didattici e il momento attuale
+slug: edtech-media-didattica
 draft: false
-summary: la ricerca e lo sviluppo delle nuove tecnologie e nuovi media è sempre più connessa con un atteggiamento umanista. scopriremo perché.
+summary: due chiacchiere nel programma online Rinascimento Digitale
 abstract: ""
 
-event: 8° Simposio Internazionale del Centro Mondiale Studi Umanisti
-event_url: http://2021.worldsymposium.org/it
+#event: Wowchemy Conference
+#event_url: https://example.org
 location: online
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-04-17T13:00:00Z"
+date: "2021-05-24T11:00:00Z"
 #date_end: "2021-04-06T11:00:00Z"
 all_day: false
 publishDate: 2020-11-14

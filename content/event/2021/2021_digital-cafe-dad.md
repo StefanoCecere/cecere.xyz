@@ -1,7 +1,8 @@
 ---
-title: EdTech, media didattici e il momento attuale
+title: Chiacchiera sulla DAD
+slug: digital-cafe-dad
 draft: false
-summary: due chiacchiere nel programma online Rinascimento Digitale
+summary: 
 abstract: ""
 
 #event: Wowchemy Conference
@@ -10,13 +11,10 @@ location: online
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-05-24T11:00:00Z"
+date: "2021-04-09T21:00:00Z"
 #date_end: "2021-04-06T11:00:00Z"
 all_day: false
-publishDate: 2020-11-14
-
-# Schedule page publish date (NOT talk date).
-#publishDate: "2021-04-06T11:00:00Z"
+publishDate: 2021-02-01T11:00:00Z
 
 authors: []
 tags: []
