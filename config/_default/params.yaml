@@ -88,12 +88,12 @@ show_related:
   page: false
   blog: true
   project: true
-  publication: true
+  publication: false
   event: true
-reading_time: false
+reading_time: true
 section_pager: true
 docs_section_pager: true
-sharing: false
+sharing: true
 copyright_license:
   enable: false
   allow_derivatives: false

@@ -1,0 +1,34 @@
+# Page Sharer
+# Documentation: https://wowchemy.com/docs/customization/#page-sharer
+
+[[buttons]]
+  id = "facebook"
+  url = "https://www.facebook.com/sharer.php?u={url}&t={title}"
+  title = "Facebook"
+  icon_pack = "fab"
+  icon = "facebook"
+  enable = true
+
+[[buttons]]
+  id = "twitter"
+  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
+  title = "Twitter"
+  icon_pack = "fab"
+  icon = "twitter"
+  enable = true
+
+[[buttons]]
+  id = "telegram"
+  url = "https://t.me/share/url?url={url}&text={title}"
+  title = "Telegram"
+  icon_pack = "fab"
+  icon = "telegram"
+  enable = true
+
+[[buttons]]
+  id = "whatsapp"
+  url = "whatsapp://send?text={title}%20{url}"
+  title = "WhatsApp"
+  icon_pack = "fab"
+  icon = "whatsapp"
+  enable = true
