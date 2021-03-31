@@ -5,7 +5,6 @@ date: "2006-01-10T08:30:46Z"
 categories: [diary]
 tags: [filosofia, morte, Gurdjieff, spirito]
 ---
-
 la sinusite non mi è ancora passata, così ieri sera prendo il mio fido portatile per vedere un film a letto.
   
 tenendo il computer e un libro con due mani spingo la porta di camera e, avendo già spento tutte le luci di casa, mi richiudo la porta dietro di me con un piede.

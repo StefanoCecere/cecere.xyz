@@ -2,7 +2,7 @@
 title: "Non lo so"
 subtitle: ""
 summary: ""
-tags: [storiella, scienza, filosofia]
+tags: [aneddoto, scienza, filosofia]
 categories: [blog]
 date: 2020-11-20T22:34:10
 featured: false

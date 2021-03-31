@@ -2,7 +2,7 @@
 title: "Splendor + Star Realms"
 subtitle: ""
 summary: ""
-tags: [GdT, fixeducation, KidsMakeGames]
+tags: [GdT, FixEducation, KidsMakeGames]
 categories: [giochiamo]
 date: 2020-10-23T21:58:36+01:00
 lastmod: 2020-10-23T21:58:36+01:00

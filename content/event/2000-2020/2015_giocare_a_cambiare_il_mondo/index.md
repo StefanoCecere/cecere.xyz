@@ -18,7 +18,7 @@ all_day: false
 publishDate: 2019-08-28T23:00:11+02:00
 
 authors: []
-tags: ["videogames","applied games","G4C"]
+tags: ["videogames","AppliedGames","G4C"]
 
 # Is this a featured talk? (true/false)
 featured: false

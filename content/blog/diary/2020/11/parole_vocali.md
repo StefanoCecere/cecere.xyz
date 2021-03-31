@@ -14,7 +14,7 @@ image:
 projects: []
 ---
 
-ieri io e bruno avevamo trovato 5 parole declinabili sulle vocali: ratto, retto, ritto, rotto, rutto  
+ieri io e Bruno avevamo trovato 5 parole declinabili sulle vocali: ratto, retto, ritto, rotto, rutto  
 l'entusiasmo della scoperta me lo ha fatto pubblicare ed ecco gli amici di penna digitale cos'altro hanno trovato! viva l'intelligenza collettiva
 
 - arta, arte, arti, arto, artú 

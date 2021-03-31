@@ -4,7 +4,7 @@ subtitle: ""
 date: 2020-07-27
 categories: []
 featured: false
-tags: [PlayingDad, JJ]
+tags: [dad, JJ]
 # slug: 
 ---
 

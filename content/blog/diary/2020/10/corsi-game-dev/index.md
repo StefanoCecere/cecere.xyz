@@ -2,7 +2,7 @@
 title: "Corsi Game Dev"
 subtitle: ""
 summary: ""
-tags: [gamedev, gametech, corsi, cosainsegno]
+tags: [gamedev, gametech, corsi, about]
 categories: []
 date: 2020-10-31T12:29:03+01:00
 lastmod: 2020-10-31T12:29:03+01:00

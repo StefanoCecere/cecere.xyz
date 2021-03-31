@@ -2,7 +2,7 @@
 title: "Le ricette di Zelda"
 subtitle: ""
 summary: ""
-tags: [youtube, Nativi Digitali]
+tags: [youtube, NativiDigitali]
 categories: [DigitalKids]
 date: 2020-11-14T11:09:04+01:00
 lastmod: 2020-14-17T11:09:04+01:00

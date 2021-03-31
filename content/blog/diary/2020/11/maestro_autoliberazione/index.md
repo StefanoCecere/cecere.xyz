@@ -2,7 +2,7 @@
 title: "Maestro di Autoliberazione"
 subtitle: ""
 summary: ""
-tags: [maestri, Nuovo Umanesimo]
+tags: [maestri, NuovoUmanesimo]
 categories: []
 date: 2020-11-06T12:18:15+01:00
 lastmod: 2020-11-06T12:18:15+01:00
