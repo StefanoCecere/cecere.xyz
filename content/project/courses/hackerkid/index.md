@@ -2,7 +2,7 @@
 title: HackerKid
 summary: il percorso formativo tecnico informatico sociale integrale
 authors: []
-tags: ["workshop", "steam", "robots"]
+tags: [course, workshop, "steam", "robots", kids]
 categories: ["course"]
 date: 2020-05-01
 

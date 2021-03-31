@@ -2,7 +2,7 @@
 title: "Vocalandia (aka Tonsilla)"
 summary: "l'ennesimo videogioco mai pubblicato che avrebbe spaccato il mondo"
 authors: []
-tags: ["videogame", "audio", "vr"]
+tags: ["game", "audio", "vr"]
 categories: ["Videogames"]
 date: 2014-10-10
 

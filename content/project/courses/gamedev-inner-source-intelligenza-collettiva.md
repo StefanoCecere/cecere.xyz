@@ -2,7 +2,7 @@
 title: GameDev - GitHub, OpenSource e Sviluppo con Intelligenza Collettiva
 summary: il mio corso introduttivo per sviluppatori di videogiochi
 authors: []
-tags: ["games", "gamedev"]
+tags: [course, gamedev, OpenSource, IntelligenzaCollettiva]
 categories: ["course"]
 date: 2018-12-12
 external_link: ""

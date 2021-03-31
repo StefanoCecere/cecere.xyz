@@ -2,7 +2,7 @@
 title: GameDev - AR + VR + MR = XR
 summary: il mio corso introduttivo per sviluppatori di videogiochi
 authors: []
-tags: ["games", "gamedev"]
+tags: [course, gamedev, XR, VR, AR]
 categories: ["course"]
 date: 2018-12-12
 external_link: ""

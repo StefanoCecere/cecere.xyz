@@ -2,7 +2,7 @@
 title: Kids Game Jam
 summary: quando i ragazzi creano giochi
 authors: []
-tags: ["KidsGameJam","workshop", "steam", "kids", "games"]
+tags: [course, gamedev, "KidsGameJam","workshop", "steam", "kids", "games"]
 categories: ["Lab"]
 date: 2016-01-21
 

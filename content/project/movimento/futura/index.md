@@ -1,32 +1,20 @@
-+++
-# Date this page was created.
-date = 1998-11-21T00:00:00
-
-# Project title.
-title = "Futura: viaggio per il Nuovo Umanesimo"
-
-# Project summary to display on homepage.
-summary = "Enciclopedia Umanista Multimediale CD-ROM"
-
-# Optional image to display on homepage (relative to `static/img/` folder).
-#image_preview = "bubbles.jpg"
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
-
-# Optional external URL for project (replaces project detail page).
-external_link = ""
-
-# Does the project detail page use math formatting?
-math = false
-
-# Optional featured image (relative to `static/img/` folder).
-#[header]
-#image = "headers/bubbles-wide.jpg"
-#caption = "My caption :smile:"
-
-+++
+---
+title: "Futura: viaggio per il Nuovo Umanesimo"
+summary: Enciclopedia Umanista Multimediale CD-ROM
+tags: [social, MovimentoUmanista, NuovoUmanesimo, multimedia]
+categories: []
+date: 1998-11-21T00:00:00
+external_link: ""
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+slides: ""
+---
 
 {{< figure src="cdrom-futura.jpg" >}}
 

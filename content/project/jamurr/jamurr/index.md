@@ -13,7 +13,7 @@ summary = "educational and recreative project"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["kids", "education", "games"]
+tags = ["kids", "education", "social"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://jamurr.org"

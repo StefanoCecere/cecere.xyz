@@ -56,12 +56,12 @@ social:
 - icon: telegram
   icon_pack: fab
   link: https://t.me/scecere
-- icon: patreon
-  icon_pack: fab
-  link: https://patreon.com/stefanocecere
-- icon: envelope
-  icon_pack: fas
-  link: https://cecere.substack.com
+#- icon: patreon
+#  icon_pack: fab
+#  link: https://patreon.com/stefanocecere
+#- icon: envelope
+#  icon_pack: fas
+#  link: https://cecere.substack.com
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -80,11 +80,11 @@ highlight_name: false
 #user_groups:
 #- Researchers
 #- Visitors
+
+# Condividere il proprio meglio è un buon modo per costruire l'_Intelligenza Collettiva_ di cui abbiamo disperatamente bisogno, e ispirare altri a fare lo stesso è ancora meglio.
 ---
 
-Benvenuti nel mio _secondo cervello_ digitale, archivio di tutto quello che penso, sento e faccio. Condividere il proprio meglio è un buon modo per costruire l'_Intelligenza Collettiva_ di cui abbiamo disperatamente bisogno, e ispirare altri a fare lo stesso è ancora meglio.
-
-I miei interessi sono studiare, sviluppare, educare
+Benvenuti nel mio _giardino digitale_ o _secondo cervello_, archivio di tutto quello che penso, sento e faccio. E' un mondo un po' multidisciplinare e multimediale perché mi interessano molte cose. Attualmente studiare, sviluppare, educare:
 - Giochi, Tecnologia e Filosofia
 - Game Based Learning, Game Design e Scuola
 - Genitorialità, Formazione Integrale e Creatività Diffusa

@@ -3,7 +3,7 @@ title: Antura and the Letters
 summary: open source videogame to teach arabic to syrian kids
 # slug: 
 authors: []
-tags: ["videogame", "kids", "EdTech", "OpenSource"]
+tags: ["game", "kids", "EdTech", "OpenSource"]
 categories: ["work"]
 date: 2016-10-10T16:27:02+02:00
 external_link: ""
@@ -39,6 +39,6 @@ Stiamo tutt'ora lavorando a delle evoluzioni del gioco, per insegnare inglese, f
 
 Sono molto orgoglioso di questo progetto di cui ho curato molti aspetti in tutte le sue fasi di produzione e coordinamento.
 
-E' uno dei progetti che ho raccontato in molti talks sui Giochi Applicati e che ha poi dato vita al mio corso monografico sul Business Oltre L'entertainment e i Giochi per Cambiare il Mondo ([link]({{< ref "/edu/gamedev-giochi-applicati-social-impact-videogiochi.md" >}}))
+E' uno dei progetti che ho raccontato in molti talks sui Giochi Applicati e che ha poi dato vita al mio corso monografico sul Business Oltre L'entertainment e i Giochi per Cambiare il Mondo ([link]({{< ref "/project/courses/gamedev-giochi-applicati-social-impact-videogiochi.md" >}}))
 
 Il sito ufficiale del gioco è <http://antura.org>
