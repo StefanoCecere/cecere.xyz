@@ -44,6 +44,9 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/StefanoCecere
+  #label: Follow me on Facebook
+  display:
+    header: true
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCIJRyBArdrCb1m52coyhUZA

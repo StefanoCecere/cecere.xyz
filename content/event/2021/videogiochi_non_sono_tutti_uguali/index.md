@@ -11,8 +11,8 @@ location: online
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-04-03T17:00:00Z"
-#date_end: "2021-04-06T11:00:00Z"
+date: 2021-04-03T17:00:00Z
+date_end: 2021-04-03T18:30:00Z
 all_day: false
 publishDate: 2021-02-01T11:00:00Z
 
@@ -42,3 +42,9 @@ slides:
 projects:
 ---
 
+Annabella Coiro (studiosa di comunicazione e relazioni generative) intervista Stefano Cecere (sviluppatore di videogiochi e media educator)
+
+Incontro online con genitori, ragazzi e ragazze, dove affronteremo queste e altre domande che ci farete.
+SABATO 3 APRILE ORE 17:00-18:30
+
+live ad accesso libero su https://www.youtube.com/c/EDUMANACenva

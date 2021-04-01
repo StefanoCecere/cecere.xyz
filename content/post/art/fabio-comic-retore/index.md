@@ -15,6 +15,5 @@ image:
   preview_only: false
 projects: []
 ---
-
 “il potere della retorica”  
 di Fabio Cecere, digitale su smartphone, 2021
