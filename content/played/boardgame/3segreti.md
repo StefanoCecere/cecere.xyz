@@ -11,6 +11,8 @@ url_game:
 > #Family #Deduzione #Collaborativo
 > 2-8g | 8+ | 10m | facile | [scheda](https://www.boardgamegeek.com/boardgame/218314/3-secrets)  
 
+{{< figure src="../_img/gdt_3segreti.jpg" >}}
+
 Ogni carta è un mistero da risolvere.
 Un giocatore conosce la storia e può aiutare gli altri giocatori che devono dedurre cosa è successo e perché, con semplici domande a risposta si, no, non rilevante.
 Diversi livelli di difficoltà che impegneranno dai 5 minuti alla mezz'ora.

@@ -20,4 +20,4 @@ Abbastanza semplice e BELLO.
 > *Stefano:*
 > È uscita ora tutta la nuova edizione! Per chi non si accontenta del gioco usa e getta.
 
-![](gdt_7wonders.jpg)
+{{< figure src="../_img/gdt_7wonders.jpg" >}}

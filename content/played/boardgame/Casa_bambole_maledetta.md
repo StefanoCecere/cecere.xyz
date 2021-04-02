@@ -19,5 +19,5 @@ Una casa dentro casa vostra che vi terrà svegli per almeno 3 ore con enigmi dav
 > *Stefano:*
 > Montare la casa aprendo la scatola del gioco e indagare ogni angolino con gli infrarossi,, beh.. è stato un gaudio anche per il piccolo Bruno
 
-![](gdt_casa_bambole.jpg)
+{{< figure src="../_img/gdt_casa_bambole.jpg" >}}
 
