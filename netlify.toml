@@ -26,7 +26,7 @@
     Content-Type = "application/rss+xml"
 
 [[redirects]]
-  from = "https://stefanocecere.com"
-  to = "https://stefanocecere.org"
+  from = "https://stefanocecere.com/*"
+  to = "https://stefanocecere.org/:splat"
   status = 301
   force = true
