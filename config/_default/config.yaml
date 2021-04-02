@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Stefano Cecere # Website name
-baseurl: 'https://stefanocecere.com/' # Website URL
+baseurl: 'https://stefanocecere.org/' # Website URL
 copyright: '&copy;1996-{year} Stefano Cecere - p.iva 06916690487' # Footer text, e.g. '© {year} Me'
 
 ############################
