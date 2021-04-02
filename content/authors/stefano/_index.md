@@ -6,7 +6,7 @@ title: Stefano Cecere
 superuser: true
 
 # Role/position
-role: AI+XR+EdTech+Games, Humanist, Educator, Author, Activist
+role: Games+EdTech+AI+XR, Humanist, Educator, Author, Activist
 
 #role: Giochi, STEAM e Filosofia
 

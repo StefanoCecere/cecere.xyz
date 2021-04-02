@@ -9,3 +9,5 @@ lastmod:
 url_game: 
 ---
 #TODO/scrivere 
+
+{{< gallery "gallery" >}}

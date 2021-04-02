@@ -1,11 +1,16 @@
 ---
 title: Micro Macro
-slug: 
+slug: micromacro
 summary: 
 categories: [boardgame]
 tags: [scheda_GdT,Award]
-date: 2020-12-14
+date: 2021-02-17
 lastmod: 
 url_game: 
 ---
 #TODO/scrivere 
+
+> Fabio: davvero geniale
+{.boxFabio}
+
+{{< gallery "gallery" >}}

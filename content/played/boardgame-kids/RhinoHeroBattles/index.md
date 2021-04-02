@@ -21,6 +21,3 @@ Ricordiamoci che ci sono molte aree dell’intelligenza e a seconda dell’inter
 > *Stefano:*
 > La costruzione di castelli di carta funziona anhce senza gioco, e la HABA produce sempre solo bellissimi giochi per bambini.
 
-![](gdt_rhino_hero.jpg)
-
-

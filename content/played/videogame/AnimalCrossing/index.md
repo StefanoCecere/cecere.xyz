@@ -15,4 +15,4 @@ url_game:
 
 Un gioco pluripremiato e consigliato per i bambini dai 4 anni in su, perché permette di prendersi cura e costruire con grande calma la propria isola con animali, piante e amici.
 
-
+{{< gallery "gallery" >}}
