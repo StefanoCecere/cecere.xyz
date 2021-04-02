@@ -18,4 +18,4 @@ type: book
 weight: 1
 ---
 
-un po' di cose che ho scritto e che non trovano spazio nei post o nei progetti
+archivio dei testi e documenti importanti
