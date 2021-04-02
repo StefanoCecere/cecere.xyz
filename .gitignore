@@ -5,3 +5,4 @@ _local/
 .vscode
 .Ulysses-Group.plist
 content/.obsidian
+assets/jsconfig.json
