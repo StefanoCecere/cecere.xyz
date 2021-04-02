@@ -8,8 +8,7 @@
   <div class="article-style">{{ . }}</div>
   {{ end }}
 
-  {{ $paginator := .Paginate .Data.Pages }}
-  {{ range $paginator.Pages }}
+ {{ range .Data.Pages }}
     {{ if eq $.Params.view 1 }}
       {{ partial "li_list" . }}
     {{ else if eq $.Params.view 3 }}
@@ -18,8 +17,6 @@
       {{ partial "li_compact" . }}
     {{ end }}
   {{ end }}
-
-  {{ partial "pagination" . }}
 
 </div>
 

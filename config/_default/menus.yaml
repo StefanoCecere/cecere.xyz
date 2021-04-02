@@ -13,8 +13,8 @@ main:
   - name: Blog
     url: '/post'
     weight: 15
-  - name: Ludosofia
-    url: '/ludosofia'
+  - name: PlayED
+    url: '/played'
     weight: 40
   - name: Jamurr
     url: '/jamurr'
