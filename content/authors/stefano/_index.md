@@ -94,7 +94,7 @@ highlight_name: false
 Benvenuti nel mio _giardino digitale_ o _secondo cervello_, archivio di tutto quello che penso, sento e faccio. E' un mondo un po' multidisciplinare e multimediale perché mi interessano molte cose, attualmente:
 - Giochi, STEAM e Filosofia
 - Game Based Learning, Game Design e Coinvolgimento
-- Educazione Integrale, Creatività Diffusa e Genitorialità
+- Media Education, Creatività Diffusa e Genitorialità
 - AI + XR + OpenSource
 - Futuro 2042, Intelligenza Collettiva e Sviluppo Sostenibile
-- Trascendenza e Rivoluzione Umanista Universale
+- Trascendenza, Nonviolenza e Nazione Umana Universale

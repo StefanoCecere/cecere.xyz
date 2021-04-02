@@ -20,4 +20,5 @@ Per quanto mi riguarda: più ci giocano, meglio è. sia in creativa che in sopra
 > *Fabio:*
 > costruisci un sacco di cose, da solo o con gli amici, è estremamente creativo.
 
+{{< gallery "gallery" >}}
 
