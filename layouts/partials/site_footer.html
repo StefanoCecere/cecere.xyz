@@ -15,9 +15,12 @@
 
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
+ 
 
      <a href="https://github.com/StefanoCecere/stefanocecere.org" target="_blank" rel="noopener">Open Source site</a>
-      &middot;
+     under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0" rel="noopener noreferrer" target="_blank">CC BY NC SA 4.0</a>
+
+     &middot;
     {{ with site.GetPage "privacy.md" }}
       {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
     {{ end }}

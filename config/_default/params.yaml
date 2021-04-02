@@ -95,7 +95,7 @@ section_pager: true
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: true
+  enable: false
   allow_derivatives: true
   share_alike: true
   allow_commercial: false

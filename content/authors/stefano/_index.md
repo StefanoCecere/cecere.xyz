@@ -15,7 +15,7 @@ role: R&D, EduAutore, Attivista
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ricerco, Sviluppo e Insegno nell'intersezione tra Giochi, Scienza, Tecnologia e Filosofia Umanista per sopravvivere tutti al 2042.
+bio: Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Scienza, Tecnologia e Filosofia Umanista per sopravvivere tutti al 2042.
 
 #interests:
 #- Giochi, Tecnologia e Filosofia
@@ -88,9 +88,9 @@ highlight_name: false
 ---
 
 Benvenuti nel mio _giardino digitale_ o _secondo cervello_, archivio di tutto quello che penso, sento e faccio. E' un mondo un po' multidisciplinare e multimediale perché mi interessano molte cose. Attualmente studiare, sviluppare, educare:
-- Giochi, Tecnologia e Filosofia
-- Game Based Learning, Game Design e Scuola
-- Genitorialità, Formazione Integrale e Creatività Diffusa
+- Giochi, STEAM e Filosofia
+- Game Based Learning, Game Design e Sviluppo
+- Educazione Integrale, Creatività Diffusa e Genitorialità
 - AI + XR + OpenSource
-- Futuro oltre il 2042, Intelligenza Collettiva e Sviluppo Sostenibile
+- Futuro >2042, Intelligenza Collettiva e Sviluppo Sostenibile
 - Trascendenza e Rivoluzione Umanista Universale

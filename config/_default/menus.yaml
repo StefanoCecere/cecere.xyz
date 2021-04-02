@@ -16,7 +16,7 @@ main:
   - name: PlayED
     url: '/played'
     weight: 40
-  - name: "2042"
+  - name: "2042+"
     url: '/2042'
     weight: 42
   - name: Jamurr
