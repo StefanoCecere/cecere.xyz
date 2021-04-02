@@ -24,3 +24,9 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "https://stefanocecere.com"
+  to = "https://stefanocecere.org"
+  status = 301
+  force = true
