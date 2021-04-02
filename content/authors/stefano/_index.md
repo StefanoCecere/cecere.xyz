@@ -6,7 +6,7 @@ title: Stefano Cecere
 superuser: true
 
 # Role/position
-role: Game Dev, Author, Educator, Musician, Dad
+role: R&D, EduAutore, Attivista
 #role: Giochi, STEAM e Filosofia
 
 # Organizations/Affiliations
@@ -15,7 +15,7 @@ role: Game Dev, Author, Educator, Musician, Dad
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ricerco, sviluppo e insegno nell'intersezione tra Giochi, Tecnologia e Filosofia.
+bio: Ricerco, Sviluppo e Insegno nell'intersezione tra Giochi, Scienza, Tecnologia e Filosofia Umanista per sopravvivere tutti al 2042.
 
 #interests:
 #- Giochi, Tecnologia e Filosofia

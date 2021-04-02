@@ -5,7 +5,7 @@
 
 title: Stefano Cecere # Website name
 baseurl: 'https://stefanocecere.org/' # Website URL
-copyright: '&copy;1996-{year} Stefano Cecere - p.iva 06916690487' # Footer text, e.g. '© {year} Me'
+copyright: '&copy;1973-{year} Stefano Cecere' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

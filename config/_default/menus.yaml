@@ -16,6 +16,9 @@ main:
   - name: PlayED
     url: '/played'
     weight: 40
+  - name: "2042"
+    url: '/2042'
+    weight: 42
   - name: Jamurr
     url: '/jamurr'
     weight: 42
@@ -24,7 +27,7 @@ main:
     weight: 50
   - name: Progetti
     url: '/projects'
-    weight: 39
+    weight: 45
   - name: About
     url: '/about'
     weight: 90
