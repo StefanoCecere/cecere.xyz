@@ -6,7 +6,7 @@ powered by:
 - [Hugo](https://gohugo.io) - static site generator
 - [Wowchemy](https://wowchemy.com) - Hugo Template Framework
 - [Netlify](https://www.netlify.com) - hosting and CDN
-- [brain+heart](https://stefanocecere.org) - personal work
+- [brain+heart](https://stefano.cecere.org) - personal work
 
 ## snippets
 link to page:
