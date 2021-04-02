@@ -6,7 +6,7 @@ title: Stefano Cecere
 superuser: true
 
 # Role/position
-role: Game Based Learning R&D, Educator, Musician
+role: Game Dev, Author, Educator, Musician, Dad
 #role: Giochi, STEAM e Filosofia
 
 # Organizations/Affiliations

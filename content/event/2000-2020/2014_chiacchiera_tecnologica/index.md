@@ -43,7 +43,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: talk/2014_chiacchiera_tecnologica/impatto-tecnologia-evoluzione-umana.pdf
+url_pdf: talks/2014_chiacchiera_tecnologica/impatto-tecnologia-evoluzione-umana.pdf
 url_video:
 
 # Markdown Slides (optional).

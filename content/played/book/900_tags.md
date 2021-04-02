@@ -26,17 +26,8 @@ Queste icone rappresentano:
 - 🎓 educativo
 - 🏆 nostro preferito
 
-### #2Giocatori
-- [7 Wonders duel](900_TAGS.md#x100_7Wonders_duel)
-- [Arkham Horror LCG](900_TAGS.md#x100_Arkham_Horror_LCG)
-- [Forza 4](900_TAGS.md#x100_Forza4)
-- [Jaipur](900_TAGS.md#gdt_Jaipur)
-- [Lost Cities](900_TAGS.md#x100_LostCities)
-- [One Deck Dungeon](900_TAGS.md#x100_OneDeckDungeon)
-- [Patchwork](900_TAGS.md#x100_Patchwork)
-- [Pokemon carte](900_TAGS.md#x100_Pokemon_carte)
-- [Smash Up](900_TAGS.md#x100_SmashUp)
-- [Star Realms](900_TAGS.md#x100_StarRealms)
+- [#2Giocatori](/tag/2giocatori)
+- [#App](/tag/app)
 
 ### #App
 - [Chronicles of Time](900_TAGS.md#x100_chronicles_of_crime)
