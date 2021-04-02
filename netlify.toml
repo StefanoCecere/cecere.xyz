@@ -27,6 +27,19 @@
 
 [[redirects]]
   from = "https://stefanocecere.com/*"
-  to = "https://stefanocecere.org/:splat"
+  to = "https://stefano.cecere.org/:splat"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://stefano.cecere.org/*"
+  to = "https://stefano.cecere.org/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://cecere.org/*"
+  to = "https://stefano.cecere.org/:splat"
+  status = 301
+  force = true
+ 
