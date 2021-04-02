@@ -1,21 +1,13 @@
-+++
-title = "Idee base e Princìpi"
-
-date = 2014-02-25T00:00:00Z
-# lastmod = 2018-09-09T00:00:00
-
-draft = false  # Is this a draft? true/false
-toc = false  # Show table of contents? true/false
-type = "docs"  # Do not modify.
-tags = ["umanesimo"]
-
-# Add menu entry to sidebar.
-linktitle = "Princìpi"
-[menu.about]
-  parent = "Stefano Cecere"
-  weight = 70
-+++
-
+---
+title: "Idee base e Princìpi"
+linktitle: Princìpi
+summary: esperienze politiche
+date: 2014-02-25T00:00:00Z
+lastmod: 2014-02-25T00:00:00Z
+type: book
+weight: 60
+tags: ["umanesimo"]
+---
 Mi piacciono una serie di idee, che [qualcuno](http://www.silo.net) ha brillantemente messo insieme ed è venuto fuori che sintetizzano un Nuovo Umanesimo:
 
 - l’assunzione dell’essere umano come valore e come interesse centrale
@@ -42,5 +34,5 @@ Mi interessa poi superare il dolore e la sofferenza in modo completo, e in ultim
 - Non importa da che parte ti abbiano messo gli eventi, ciò che importa è che tu comprenda di non aver scelto nessuna parte.
 - Gli atti contraddittori o unitivi si accumulano in te. Se ripeti i tuoi atti di unità interna, niente ti potrà fermare.
 
-# mission
+## mission
 c'è chi lo chiama "cambiare il mondo", chi "umanizzare la terra", chi "pensare un po' allo sviluppo del futuro", chi "fare tutto quello che si può fare, né di più, né di meno".

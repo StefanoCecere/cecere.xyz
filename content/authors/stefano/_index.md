@@ -47,18 +47,18 @@ social:
   #label: Follow me on Facebook
   display:
     header: true
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/channel/UCIJRyBArdrCb1m52coyhUZA
+#- icon: youtube
+#  icon_pack: fab
+#  link: https://www.youtube.com/channel/UCIJRyBArdrCb1m52coyhUZA
 - icon: github
   icon_pack: fab
   link: https://github.com/stefanocecere
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/StefanoCecere
-- icon: telegram
-  icon_pack: fab
-  link: https://t.me/scecere
+# - icon: telegram
+#   icon_pack: fab
+#   link: https://t.me/scecere
 #- icon: patreon
 #  icon_pack: fab
 #  link: https://patreon.com/stefanocecere

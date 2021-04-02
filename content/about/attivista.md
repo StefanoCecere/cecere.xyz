@@ -1,21 +1,13 @@
-+++
-title = "Stefano Cecere: attivista"
-
-date = 2018-02-25T00:00:00Z
-# lastmod = 2018-09-09T00:00:00
-
-draft = false  # Is this a draft? true/false
-toc = true  # Show table of contents? true/false
-type = "docs"  # Do not modify.
-tags = ["M5S", "politica"]
-
-# Add menu entry to sidebar.
-linktitle = "Attivista"
-[menu.about]
-  parent = "Stefano Cecere"
-  weight = 20
-+++
-
+---
+title: "Stefano Cecere: attivista"
+linktitle: Attivista
+summary: Qualche informazione su di me
+date: 2018-02-25T00:00:00Z
+lastmod: 2018-09-09T00:00:00
+type: book
+weight: 10
+tags: ["M5S", "politica"]
+---
 Dopo molti anni a studiare e a pensare in solitario, ebbi l'occasione di interagire con il mondo vero, reale, esterno. avevo 23 anni
 
 ## 1996 - MOVIMENTO UMANISTA

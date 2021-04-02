@@ -1,21 +1,13 @@
-+++
-title = "Stefano Cecere: esperienze politiche"
-
-date = 2018-02-25T00:00:00Z
-# lastmod = 2018-09-09T00:00:00
-
-draft = false  # Is this a draft? true/false
-toc = true  # Show table of contents? true/false
-type = "docs"  # Do not modify.
-tags = ["M5S", "politica"]
-
-# Add menu entry to sidebar.
-linktitle = "Politico"
-[menu.about]
-  parent = "Stefano Cecere"
-  weight = 40
-+++
-
+---
+title: "Stefano Cecere: esperienze politiche"
+linktitle: Politico
+summary: esperienze politiche
+date: 2018-02-25T00:00:00Z
+lastmod: 2018-09-09T00:00:00
+type: book
+weight: 40
+tags: ["politica"]
+---
 La Politica è l'arte e la scienza del trovare soluzioni win-win per il complesso sistema sociale umano, imparando dalla Storia e tutte le scienze umane e con progetti non per l'immediato tornaconto personale, ma almeno nel medio periodo.
 Mi risulta difficile non vedere questioni politiche in ogni attività o pensiero umano che implichi più di una persona. Mentre ho sempre visto moltissimi "idioti", nel senso etimologico di "persone che si disinteressano delle questioni pubbliche".
 
@@ -36,5 +28,4 @@ Credo sia arrivato il mio momento di mettere a disposizione 30 anni di preparazi
 ## 2019
 mi sono candidato alle Europarlamentarie (le elezioni interne di selezione per le prossime elezioni europee) del Movimento 5 Stelle.
 Continuo a partecipare all'[Associazione Gianroberto Casaleggio](http://www.gianrobertocasaleggio.com/)
-
 

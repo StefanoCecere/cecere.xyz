@@ -1,23 +1,18 @@
 ---
 title: Mi presento
+linktitle: Presentazione
+summary: Qualche informazione su di me
 date: 2018-02-25T00:00:00Z
-# lastmod = 2018-09-09T00:00:00
-draft: false
-toc: true
-type: docs
+lastmod: 2018-02-25T00:00:00Z
+type: book
+weight: 1
 tags: []
-
-linktitle: "Presentazione"
-menu:
-  about:
-    parent: Stefano Cecere
-    weight: 10
 ---
-
-Sono nato a Monza nel 1973, vivo a Firenze dal 2008, due figli, lavoro come sviluppatore e ricercatore di videogiochi educativi ed intelligenza artificiale applicata allo sviluppo sostenibile, sono attivista per umanizzare la terra con la nonviolenza e la conoscenza dal 1996.
+Ricerco e Sviluppo nell'intersezione tra il **Game design**, l'**EdTech**, l'**Intelligenza Artificiale** e la **AR/VR/XR** applicate allo sviluppo sociale sostenibile, open source, innovativo..
+Studio le nuove tecnologie dal 1994, con diversi master specialistici e sono attivista per un Nuovo Umanesimo dal 1996. Attualmente laureando in **Scienze dell'Educazione** e Filosofia della Scienza. Sono nato a Monza nel 1973, vivo a Firenze dal 2008 con due figli.
 
 ## Regola aurea
-Tratta gli altri come vorresti essere trattato (senza porgere guance).
+"Tratta gli altri come vorresti essere trattato".
 Questa la mia massima regola e aspirazione personale e politica.
 
 ## Tecnologia e progresso

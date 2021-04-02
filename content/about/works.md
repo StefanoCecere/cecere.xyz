@@ -1,20 +1,14 @@
 ---
-title: "Works"
-# linktitle: "{{ replace .Name "-" " " | title }}"
-summary:
+title: "Consulenze e Clienti"
+linktitle: Clienti
+summary: clienti con cui ho lavorato
 date: 2020-01-25T00:00:00Z
 lastmod: 2020-01-25T00:00:00Z
-draft: false  # Is this a draft? true/false
-toc: false  # Show table of contents? true/false
-type: docs  # Do not modify.
-menu:
-  about:
-    name: Consulenze e Clienti
-    parent: Stefano Cecere
-    weight: 100
+type: book
+weight: 70
+tags: ["work"]
 ---
-
-## Clienti
+## Artisti
 - 883
 - Andrea Steinfl
 - Antonella Ruggiero
@@ -43,7 +37,7 @@ menu:
 - Umberto Branchini
 - Vittorio Cosma
 
-### Companies
+## Aziende
 - Armando Testa
 - AVEVA
 - Broad Way

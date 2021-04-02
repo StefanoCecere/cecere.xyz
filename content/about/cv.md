@@ -1,21 +1,13 @@
-+++
-title = "Stefano Cecere: C.V."
-
-date = 2018-02-25T00:00:00Z
-# lastmod = 2018-09-09T00:00:00
-
-draft = false  # Is this a draft? true/false
-toc = true  # Show table of contents? true/false
-type = "docs"  # Do not modify.
-tags = []
-
-# Add menu entry to sidebar.
-linktitle = "Curriculum Vitae"
-[menu.about]
-  parent = "Stefano Cecere"
-  weight = 30
-+++
-
+---
+title: "Stefano Cecere: CV"
+linktitle: Curriculum Vitae
+summary: Curriculum Vitae
+date: 2018-02-25T00:00:00Z
+lastmod: 2018-09-09T00:00:00
+type: book
+weight: 30
+tags: ["CV"]
+---
 ## ANNI '90
 Ho iniziato a lavorare come sviluppatore di videogiochi durante il Liceo Scientifico, nel 1989. Durante il triennio di Ingegneria Elettronica lavoravo come sviluppatore multimediale per la New Sounds Multimedia, creando dozzine di CDROM interattivi, i primi VR e i primi siti web.
 E' vero: non ho terminato l'Università nonostante gli ottimi voti, ma avevo già assimilato i principi di Matematica e Fisica che mi servivano e sapevo già che il futuro non voleva pezzi di carta, ma spirito di ricerca e studio costante e passione per l'applicazione.
