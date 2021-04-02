@@ -31,7 +31,7 @@ sappiate che è in continuo aggiornamento.. così ogni anno ci comprate una copi
 
 rimaniamo in contatto:
 
-- <https://stefanocecere.com>
+- <https://stefano.cecere.org>
 - <https://www.facebook.com/StefanoCecere>
 
 ## The End

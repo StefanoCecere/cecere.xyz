@@ -7,7 +7,7 @@ type: book
 tags: [PlayED]
 weight: 30
 ---
-{{< figure src="played/vignetta_urgenze.jpg" >}}
+{{< figure src="../_img/vignetta_urgenze.jpg" >}}
 
 I Giochi da Tavolo (GdT), o Giochi di Società o Giochi in Scatola, chiamateli come volete, hanno una storia millenaria e si può dire che hanno da sempre accompagnato l'evoluzione degli uomini nel divertimento, nello studio e nella preparazione.
 Rimando ad un buon libro sull'argomento[^libro_StoriaGiochi]
@@ -38,7 +38,7 @@ La differenza tra giocattolo e gioco, tra puro divertimento e giocare, sono appu
 La figura del "facilitatore" dei giochi è importante: è colui che ha già fatto una partita di prova o ha già studiato il gioco per poterlo intavolare velocemente. A volte basta guardarsi un video su YouTube (ce ne sono ormai per tutti i giochi).
 
 ## Benefici
-{{< figure src="played/mindmap_gdt_benefici.png" >}}
+{{< figure src="../_img/mindmap_gdt_benefici.png" >}}
 
 Pedagogisti, neuroscienziati, gerontologi e mistici immortali hanno dimostrato scientificamente questi benefici
 
@@ -128,7 +128,7 @@ non ci crederete ma ci sono in giro delle regole per creare giocatori in IA (Int
 oppure le regole prevedono già queste regole per un eventuale gioco in solitario o in cooperativa.
 
 ## Tipologie e Parole chiave
-{{< figure src="played/panoramica_gdt.jpg" >}}
+{{< figure src="../_img/panoramica_gdt.jpg" >}}
 
 In qualsiasi negozio o sito di giochi da tavolo è prassi organizzarli per tipologia principale. Eccone una dozzina che bene conoscere, ma rimandiamo al [Glossario GdT]({{< relref "800_glossario" >}}) in fondo al libro dove le descriviamo tutte.
 
@@ -207,7 +207,7 @@ Una volta entrati in un negozio di giochi da tavolo e in grado di assaporare la 
 Noi abbiamo una regola: i giochi che ci stanno nello scaffale dei giochi, rimangono. Se ne deve entrare uno nuovo, deve uscirne (regalato o rivenduto) uno precedente.
 
 ## La Ludoteca a casa: consigli pratici
-{{< figure src="played/panoramica_armadio_gdt2.jpg" >}}
+{{< figure src="../_img/panoramica_armadio_gdt2.jpg" >}}
 
 I giochi sono i nuovi libri.
 

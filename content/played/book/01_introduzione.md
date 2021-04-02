@@ -11,7 +11,7 @@ weight: 1
 > Platone
 
 ## Perché questo libro?
-{{< figure src="played/vignetta_maestro.jpg" >}}
+{{< figure src="../_img/vignetta_maestro.jpg" >}}
 
 Perché da dodici anni convivo 
 Per accontare la sintesi di anni di vita nel mondo dei giochi contemporanei, sia come giocatori che come sviluppatori e ricercatori e sopratutto come **papà** e **figli**, per darvi quelle che pensiamo siano le basi minime per conoscere questo mondo, scoprire nuovi giochi e sopratutto giocare di più.
@@ -46,7 +46,7 @@ Per questo è importante sapere giusto il minimo indispensabile per destreggiars
 Ultima cosa: questa guida è nata come una raccolta di un decennio di studio, appunti e giocate, riorganizzati per farne un libro, ed è in continua evoluzione!
 
 ## Chi sono gli autori
-{{< figure src="played/foto_autori.jpg" >}}
+{{< figure src="../_img/foto_autori.jpg" >}}
 
 **Stefano Cecere** fa il papà, sviluppa videogiochi, insegna e studia l'intersezione tra **gioco**, **tecnologia** e **filosofia**.
 

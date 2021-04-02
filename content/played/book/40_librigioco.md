@@ -7,7 +7,7 @@ type: book
 tags: [PlayED]
 weight: 40
 ---
-{{< figure src="played/librogioco_panoramica.jpg" >}}
+{{< figure src="../_img/panoramica_librigioco.jpg" >}}
 
 > Papà io vado a pagina 27 a fare colazione. Tu vuoi andare sulla poltrona a lavorare?, pagina 42!
 
@@ -49,4 +49,3 @@ Conviene partire con quelli corti e semplici.
 Nel capitolo Laboratori e Progetti  parliamo di un nostro laboratorio per far creare delle semplici storie a bivi ai bambini: sono esercizi creativi molto interessanti e facili. provate!
 
 > Curiosità: sono tanti gli autori classici che si sono cimentati con l'interazione del lettore.. da Jorge Luis Borges a Italo Calvino a Gianni Rodari.
-
