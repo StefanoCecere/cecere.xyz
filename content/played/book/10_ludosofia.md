@@ -331,6 +331,8 @@ Cosa è un Atteggiamento Ludico?
 ### Outdoor
 Non c'è solo il camminare sulle strisce per strada o contare i trattori blu quando si viaggia in macchina...
 
+Ogni essere umano ha necessità di **esplorare**. 
+
 ### Gioco della vita
 {{< figure src="../_img/graph_il_gioco_della_vita.jpg" width="60%">}}
 

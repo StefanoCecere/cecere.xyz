@@ -1,7 +1,7 @@
 ---
 author: Stefano Cecere
 categories:
-- E io cecio..
+- diary
 date: "2005-11-18T08:37:43Z"
 guid: http://stefanocecere.com/2005/11/18/il-principio-di-azione-e-reazione/
 id: 150

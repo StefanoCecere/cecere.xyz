@@ -1,7 +1,7 @@
 ---
 title: "📁 Outdoor"
 summary: database delle attività outdoor
-date: 2021-01-01
+date: 2020-12-14
 type: 
 weight: 90
 ---

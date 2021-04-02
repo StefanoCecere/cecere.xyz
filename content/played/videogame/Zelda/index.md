@@ -4,12 +4,13 @@ slug: zelda
 summary: 
 categories: [videogame]
 tags: [scheda_Videogioco,Award,Adventure]
-date: 2021-01-01
+date: 2020-12-14
 lastmod: 
 url_game: 
 ---
 > **#Avventura #Award** 
 > Nintendo
+{.boxGameDetail}
 
 I videogiochi della serie di Zelda hanno accompagnato tre generazioni ormai (il primo titolo è di fine anni '80') diventando di fatto una componente culturale pop davvero universale.
 

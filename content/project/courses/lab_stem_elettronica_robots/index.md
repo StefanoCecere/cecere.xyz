@@ -2,8 +2,8 @@
 title: Kids - Laboratorio Elettronica e Robots
 summary: i ragazzi imparano i circuiti elettrici e costruiscono un piccolo automa
 authors: []
-tags: [course, gamedev, "KidsMakeGames", "workshop", "steam", "kids", "robots"]
-categories: ["course"]
+tags: [course, workshop, gamedev, "KidsMakeGames", STEAM, "kids", "robots"]
+categories: [course]
 date: 2019-09-15
 
 # external_link: "https://github.com/StefanoCecere/BuboLibro_RegaloSpeciale"

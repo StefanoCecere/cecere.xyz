@@ -2,8 +2,8 @@
 title: HackerKid
 summary: il percorso formativo tecnico informatico sociale integrale
 authors: []
-tags: [course, workshop, "steam", "robots", kids]
-categories: ["course"]
+tags: [course, workshop, STEAM, robots, kids]
+categories: [course]
 date: 2020-05-01
 
 # external_link: "https://github.com/StefanoCecere/BuboLibro_RegaloSpeciale"

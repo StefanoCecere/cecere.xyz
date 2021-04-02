@@ -4,12 +4,13 @@ slug: 7wonders
 summary: 
 categories: [boardgame]
 tags: [scheda_GdT]
-date: 2021-01-01
+date: 2020-12-14
 lastmod: 
 url_game: 
 ---
 > #Award #Storia #Award 
 > 3-6g | 10+ | 30m | medio | [scheda](https://www.boardgamegeek.com/boardgame/68448/7-wonders)  
+{.boxGameDetail}
 
 Un gioco che è ormai un classico: evolvi la tua civiltà con progresso sociale, o militare o scientifico, il primo che arriva a svilupparsi pienamente vince.
 Abbastanza semplice e BELLO.

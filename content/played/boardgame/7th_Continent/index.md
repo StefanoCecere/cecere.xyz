@@ -4,12 +4,13 @@ slug:
 summary: 
 categories: [boardgame]
 tags: [scheda_GdT]
-date: 2021-01-01
+date: 2020-12-14
 lastmod: 
 url_game: 
 ---
 > #English #Avventura #Solo #Collaborativo  
 > 1-4g | 10+ | medio | [scheda](https://boardgamegeek.com/boardgame/180263/7th-continent)  
+{.boxGameDetail}
 
 Un'avventura in un continente misterioso dove  wha .. sembra un videogioco ma creato e giocato tutto con le carte.. geniale
 

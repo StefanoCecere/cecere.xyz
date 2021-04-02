@@ -2,8 +2,8 @@
 title: Kids Game Jam
 summary: quando i ragazzi creano giochi
 authors: []
-tags: [course, gamedev, "KidsGameJam","workshop", "steam", "kids", "games"]
-categories: ["Lab"]
+tags: [course, workshop, "KidsGameJam", "steam", "kids", "games"]
+categories: [course]
 date: 2016-01-21
 
 # external_link: "https://github.com/StefanoCecere/BuboLibro_RegaloSpeciale"

@@ -4,12 +4,13 @@ slug: among-us
 summary: 
 categories: [videogame]
 tags: [scheda_Videogioco,Award,Party]
-date: 2021-01-01
+date: 2020-12-14
 lastmod: 
 url_game: 
 ---
 > #Award #Party #Impostore  
 > 4-10g | *Tutte le piattaforme*  | [www.innersloth.com](http://www.innersloth.com/gameAmongUs.php)  
+{.boxGameDetail}
 
 il videogioco dell'anno: si gioca in 10 e si deve tutti riparare un'astronave.
 ma attenzione: uno dei 10 è un traditore che vi ostacolerà e ucciderà.

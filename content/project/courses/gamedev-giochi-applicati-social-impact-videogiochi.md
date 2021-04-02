@@ -1,9 +1,9 @@
 ---
-title: GameDev - Giochi Applicati e Impatto Sociale - Oltre l'entertainment
+title: "GameDev - Giochi Applicati e Impatto Sociale - Oltre l'entertainment"
 summary: il mio corso introduttivo per sviluppatori di videogiochi
 authors: []
 tags: [course, gamedev, G4C]
-categories: ["course"]
+categories: [course]
 date: 2018-12-12
 external_link: ""
 image:

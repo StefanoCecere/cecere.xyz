@@ -31,7 +31,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["A.I.", "Game Design", "Video Games"]
+tags = ["AI", "Game Design", "Video Games"]
 
 # Markdown Slides (optional).
 #   Associate this page with Markdown slides.

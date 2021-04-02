@@ -77,3 +77,10 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
+# enable class attributes to blockquotes (to style games databoxes)
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true

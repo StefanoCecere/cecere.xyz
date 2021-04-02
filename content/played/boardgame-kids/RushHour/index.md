@@ -4,7 +4,7 @@ slug: rush-hour
 summary: 
 categories: [boardgame]
 tags: [scheda_GdT,Kids,STEAM]
-date: 2021-01-01
+date: 2020-12-14
 lastmod: 
 url_game: 
 ---

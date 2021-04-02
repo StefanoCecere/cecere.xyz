@@ -4,7 +4,7 @@ slug: pokemon-go
 summary: 
 categories: [outdoor]
 tags: [scheda_Outdoor]
-date: 2021-01-01
+date: 2020-12-14
 lastmod: 
 url_game: 
 ---

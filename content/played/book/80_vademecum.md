@@ -1,30 +1,33 @@
 ---
-title: Vademecum
+title: Vademecum del giocatore
 slug: vademecum
 summary: su come imparare a giocare il proprio gioco velocemente
 date: 2021-04-01T00:00:00Z
 type: book
-tags: [PlayED]
+categories: [PlayED]
+tags: [PlayED, vademecum]
 weight: 80
 ---
-## scegliere il proprio gioco
-
-quello che piace
+## Scegliere il proprio gioco
+Ognuno deve trovare i propri giochi, non solo che piacciano, ma che siano adatti.
 
 ## Game Culture
-- buon comportamneto / sportività
+- buon comportamento / sportività
 - capire i codici
 - imparare il gergo
 
-## pratica per diventare bravi
+## Pratica per diventare bravi
 - gioca con quelli più bravi 
 - studio e allenati
 - impara dagl ierrori
 
-
-## autoconoscenza
+## Autoconoscenza
+Saper distinguere i propri limiti dalle proprie incapacità.
+Un gioco potrebbe aiutare a superare un limite.
 
 ## Attenzione
+Giocare bene necessita attenzione.
+Raramente si vince con mosse a caso e distratti.
 
 ## Memoria
 
@@ -36,5 +39,3 @@ quello che piace
 
 
 ## Probabilità
-
-

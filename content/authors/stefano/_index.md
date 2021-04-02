@@ -6,7 +6,8 @@ title: Stefano Cecere
 superuser: true
 
 # Role/position
-role: R&D, EduAutore, Attivista
+role: AI+XR+EdTech+Games, Humanist, Educator, Author, Activist
+
 #role: Giochi, STEAM e Filosofia
 
 # Organizations/Affiliations
@@ -15,7 +16,7 @@ role: R&D, EduAutore, Attivista
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Scienza, Tecnologia e Filosofia Umanista per sopravvivere tutti al 2042.
+bio: Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Scienza, Tecnologie Digitali, Arte e Filosofia Umanista per sopravvivere _tutti_ al 2042.
 
 #interests:
 #- Giochi, Tecnologia e Filosofia
@@ -46,7 +47,7 @@ social:
   link: https://facebook.com/StefanoCecere
   #label: Follow me on Facebook
   display:
-    header: true
+    header: false
 #- icon: youtube
 #  icon_pack: fab
 #  link: https://www.youtube.com/channel/UCIJRyBArdrCb1m52coyhUZA
@@ -56,9 +57,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/StefanoCecere
-# - icon: telegram
-#   icon_pack: fab
-#   link: https://t.me/scecere
+- icon: telegram
+  icon_pack: fab
+  link: https://t.me/scecere
+- icon: discord
+  icon_pack: fab
+  link: https://discord.gg/5y5VcGTjwE
 #- icon: patreon
 #  icon_pack: fab
 #  link: https://patreon.com/stefanocecere
@@ -87,10 +91,10 @@ highlight_name: false
 # Condividere il proprio meglio è un buon modo per costruire l'_Intelligenza Collettiva_ di cui abbiamo disperatamente bisogno, e ispirare altri a fare lo stesso è ancora meglio.
 ---
 
-Benvenuti nel mio _giardino digitale_ o _secondo cervello_, archivio di tutto quello che penso, sento e faccio. E' un mondo un po' multidisciplinare e multimediale perché mi interessano molte cose. Attualmente studiare, sviluppare, educare:
+Benvenuti nel mio _giardino digitale_ o _secondo cervello_, archivio di tutto quello che penso, sento e faccio. E' un mondo un po' multidisciplinare e multimediale perché mi interessano molte cose, attualmente:
 - Giochi, STEAM e Filosofia
-- Game Based Learning, Game Design e Sviluppo
+- Game Based Learning, Game Design e Coinvolgimento
 - Educazione Integrale, Creatività Diffusa e Genitorialità
 - AI + XR + OpenSource
-- Futuro >2042, Intelligenza Collettiva e Sviluppo Sostenibile
+- Futuro 2042, Intelligenza Collettiva e Sviluppo Sostenibile
 - Trascendenza e Rivoluzione Umanista Universale

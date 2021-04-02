@@ -238,8 +238,8 @@ Da tenere a distanza anche i videogiochi che creano dipendenza (*addiction*) e c
 
 Se un gioco prevede l'online multigiocatore e si gioca in modalità aperta, bisogna ricordarsi che dall'altra parte dei fili potrebbe esserci di tutto, dai Bot il cui unico interesse è entrare nel WiFi di casa ai frustrati che cercano contatti, dai truffatori in caccia di bottini alla tua professoressa di scuola.
 Conviene quindi stare sempre molto attenti e prendere qualche precauzione per **giocare insieme si, ma al sicuro**.
-Ecco alcuni consigli e considerazioni:
 
+Ecco alcuni consigli e considerazioni:
 - almeno fino ai 14 anni abilitare una rete sociale di **solo amici fidati** 
 - **disabilitare le transazioni di denaro**. sembra ovvio, ma non lo è per tutti. la possibilità di pagare deve essere data solo ad un adulto consapevole e possibilmente critico.
 - **anonimato**: che i ragazzi siano sempre in modalità anonima, senza alcun riferimento alla propria vera identità, tantomeno alla propria casa
@@ -250,14 +250,24 @@ Ecco alcuni consigli e considerazioni:
 - **furti di identità**: qualcuno può prendere l'identità di un giocatore e spacciarsi per lui tra gli amici.
 
 ## PC, Tablet, Console.. cosa conviene?
-Ogni tipo di hardware implica un diverso tipo di giocatore e modo di giocare. Ovviamente un ragazzo vorrà la stessa consolle che hanno i suoi amici, ma non è detto che sia la migliore per lui.
+Ogni tipo di hardware implica un diverso tipo di giocatore e modo di giocare. Ovviamente un ragazzo vorrà la stessa cosa che hanno i suoi amici, ma non è detto che sia la migliore per lui.
 
 ### Console Playstation / XBox
-Sono le console da videogioco per antonomasia. Ogni cinque anni escono le nuove generazioni, con grande giubilio
+Sono le *console* da videogioco per antonomasia. Ogni cinque anni escono le nuove generazioni e dettano lo stato dell'arte delle prestazioni sopratutto grafiche dei videogiochi. Sono macchine dedicate solo per i giochi di un certo livello, non ci si può fare molto altro. I giochi costano relativamente tanto (anche se il mercato dell'usato è ampio, sopratutto se si compra un modello precedente), per questo il target di età è dai teenagers in su.
+Hanno la virtù di essere semplici, funzionano sempre, accendi e giochi, costano meno di un PC e di un tablet medio.
 
 ### Nintendo Wii / Switch
+Nintendo è sinonimo di gioco adatto a tutta la famiglia, semplice e ideale dal bambini fino alle nonne. Ogni aspetto dei giochi è sottoposto ai massimi livelli di controllo e verifiche che tutto sia perfetto per un'esperienza di gioco ottimale.
+Con la Switch si sono spinti a sperimentare nell'intersezione tra il reale e il virtuale, con le estensioni in cartone del Labo, la VR,  le macchine radiocomandate in Realtà Aumentata.
+La natura specifica dei controllers invita ai giochi motori, con eventuale estensioni con il Ring Fit, permettendo giochi davvero ginnici o danzanti.
+Per i giocatori più esigenti si può dire che ormai tutti i grandi giochi hanno anche un a versione Switch, quindi potrebbe davvero essere ideale dai bambini di 4 anni fino a quelli di 15 e più.
 
 ### Tablet
+E' il devices preferito dal bambini (e dai nonni) per l'estrema semplicità di interazione.
+Il problema è la moltitudine di offerta di giochi (ne escono migliaia ogni giorno) e non tutti sono davvero di qualità. Costano relativamente poco (da quelli gratuiti con le pubblicità o acquisti-in-gioco fino alla media di 3/5 euro, arrivando a 10/15 solo per quelli più esigenti o di nicchia).
+E' facile sperimentare giochi con la Realtà Aumentata.
+Esistono due famiglie: gli Apple (iPad) e quelli Android.
+Gli iPad costano un po' di più ma la qualità generale dell'hardware, del sistema operativo e dei giochi è sensibilmente migliore.
 
 ### Smartphone
 
@@ -283,7 +293,7 @@ Qualche anno fa avevamo partecipato come finalisti con un videogioco che aveva v
 [^url_antura]: <https://www.antura.org>
 
 ## Violenza nei videogiochi
-Spesso i mass media ripropongono il collegamento "violenza nei videogiochi -> violenza nel mondo reale". Quasi sempre dopo qualche tragedia negli USA con ragazzi che sparano ad altri ragazzi nelle scuole (sì, e giocava ai videogiochi dove si sparava). Pur non negando che oggi le azioni di guerra sembrano proprio dei videogiochi, c'è una bella differenza a dire che i videogiochi le ispirano.
+Spesso i mass media ripropongono il collegamento "violenza nei videogiochi -> violenza nel mondo reale". Quasi sempre dopo qualche tragedia negli USA con ragazzi che sparano ad altri ragazzi nelle scuole (facendo notare quanto giocava ai videogiochi dove si sparava). Pur non negando che oggi le azioni di guerra sembrano proprio dei videogiochi, c'è una bella differenza a dire che i videogiochi le ispirano.
 Questa associazione sembra più un cercare una scusa plausibile e facile quando le reali motivazioni sono complesse e troppo radicate in alcune società.
 E poi cosa è la violenza? Uccidere qualcun altro? Anche gli scacchi hanno come meccanica base il *mangiare*, uccidere gli avversari. Dicono che i nuovi FPS sono troppo immersivi e simili alla realtà? Vogliamo credere che un giocatore non sappia distinguere realtà da simulazione? I nostri figli sono davvero così delicati? Forse il problema non è nei giochi. Consideriamo infine che molti videogiochi di soldati immersivi (vedi *Call of Duty*) ti fanno perdere se commetti azioni poco etiche, quali sparare ad un bambino o ad un civile inerme.
 
