@@ -8,6 +8,12 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
-#TODO/scrivere 
+Un gioco "classico" che tutti hanno provato, molto adatto ai giovanissimi (sopratutto l'1, il 2 è molto più complicato)
+
+> *Bruno:* so tutto delle piante e di tutti gli zombies
+{.boxFabio}
+
+> *Stefano:* pianificazione.
+{.boxStefano}
 
 {{< gallery "gallery" >}}

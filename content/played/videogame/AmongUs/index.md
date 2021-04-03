@@ -9,7 +9,7 @@ lastmod:
 url_game: 
 ---
 > #Award #Party #Impostore  
-> 4-10g | *Tutte le piattaforme*  | [www.innersloth.com](http://www.innersloth.com/gameAmongUs.php)  
+> 4-10g | *Tutte le piattaforme* | [www.innersloth.com](http://www.innersloth.com/gameAmongUs.php)  
 {.boxGameDetail}
 
 il videogioco dell'anno: si gioca in 10 e si deve tutti riparare un'astronave.
@@ -20,3 +20,4 @@ CONSIGLIATISSIMO
 
 > *Fabio:*
 > ci gioco tutti i giorni con tantissimi amici ed è davvero divertente perché non sai più di chi fidarti o no
+{.boxFabio}

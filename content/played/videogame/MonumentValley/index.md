@@ -8,7 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
-> **#Visuale  #Kids #Award** 
+> **#Visuale #Kids #Award** 
 > iOS
 
 Un'estetica visiva e sonora capolavoro per un videogioco di enigmi visuali che sembrano usciti dai disegni di Escher.  

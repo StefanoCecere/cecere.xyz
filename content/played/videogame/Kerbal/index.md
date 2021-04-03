@@ -3,13 +3,13 @@ title: Kerbal Space Academy
 slug: kerbal
 summary: 
 categories: [videogame]
-tags: [scheda_Videogioco]
+tags: [scheda_Videogioco, spazio, simulazione, steam, award]
 date: 2020-12-14
 lastmod: 
 url_game: 
 ---
 > **#Simulazione #Spazio #Award**   
-> *PC / Mac*  | [scheda](https://www.kerbalspaceprogram.com/)   
+> *PC / Mac* | [scheda](https://www.kerbalspaceprogram.com/)   
 
 il più grande simulatore di Agenzia Spaziale.
 progetti, costruisci, collaudi ogni mezzo volante e astronautico.

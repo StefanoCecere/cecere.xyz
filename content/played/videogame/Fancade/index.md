@@ -9,10 +9,10 @@ lastmod:
 url_game: 
 ---
 > #Award #Kids   
-> *Mobile*  | [fancade.com](https://www.fancade.com/)  
+> *Mobile* | [fancade.com](https://www.fancade.com/)  
 {.boxGameDetail}
 
-Play thousands of games, or make your own, right on your phone.
-
-
+Migliaia di mini-giochi. divertenti, originali, incredibili
+e il bello è che si possono creare nuovi giochi da dentro l'app!
+Partite brevi da pochi minuti per ogni occasione.
 

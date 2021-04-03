@@ -168,6 +168,11 @@ Per ultimo ma non per ultimo, il tema del futuro dal punto di vista professional
 I giochi Arcade sono quei giochi, nati negli anni ’80, con meccaniche e caratteristiche semplici. Lo scopo principale dei giochi arcade, visto anche che nascono per le sale giochi, è quello di cercare di superare e superarsi con punteggi sempre più alti.
 Tramite questo tipo di videogiochi il giocatore aumenta la destrezza oculo-motoria e velocizza l’individualizzazione di strategie per poter superare il punteggio stabilito. Ad oggi il genere degli arcade, vista la quasi totale scomparsa delle sale giochi, ha ancora vita nei giochi per smartphone. Tra gli esempi più noti del genere abbiamo il sempreverde Pac-Man e Space Invaders.
 
+### Audio game
+Giochi sviluppati soprautto per i non-vedenti, ma interessanti e godibili da tutti.
+E' qui che si sviluppato e trovano le più avanzate tecnologie di spazialità.
+Anche una narrativa solo audio è molto interessante per stimolare l'immaginazione, avvicinandoci al libro.
+
 ### Avventura
 Il videogiocatore, in questo genere, si ritrova libero di esplorare aree di gioco sempre nuove, panorami sempre diversi risultando libero di interagire con i vari scenari e personaggi secondari. Il genere nasce con i giochi in stile platform. L’identificazione con il protagonista dal punto cognitivo ed emotivo e il senso di presenza sono delle colonne portanti di questi giochi. Gli esempi più chiari sono Super Mario, Crash Bandicoot.
 
@@ -270,8 +275,13 @@ Esistono due famiglie: gli Apple (iPad) e quelli Android.
 Gli iPad costano un po' di più ma la qualità generale dell'hardware, del sistema operativo e dei giochi è sensibilmente migliore.
 
 ### Smartphone
+Da quando un giovane ha lo smartphone (in media dopo i 10 anni) diventa un compagno inseparabile. Non entriamo qui nelle regole ottimali per gestire un cellulare, consideriamo solo che i giochi da smartphone sono particolarmente interessanti e calibrati per essere sempre a portata di mano: casual games (partite breve spesso, oppure social (i cellulari sono necessarimanete in rete) oppure, i peggiori, i giochi "addictive").
+In linea di massimo io sconsiglio di avere i giochi sul cellualre, sopratutto epr i giovanissimi. E' necessario bloccare a monte la possibilità di installare nuove app o fare acquisti .
 
 ### PC
+Il PC dovrebbe essere l'hardware obbligatorio da mettere sulla scrivania dei ragazzi fin dalla terza elementare. Un portatile base costa quanto una Console o un Tablet, e permette di giocare quasi tutti i videogiochi del mercato, oltre che tutto il resto. Ed è proprio questo "resto" la cosa più importante: l'educazione informatica e digitale arriva dal PC, (console e devices sono purtroppo ambienti "chiusi").
+I giochi si comprano su Steam o altre piattaforme.
+
 Preparare un PC
 1. attivare il parental control e disattivare la possibilità di installare nuovi giochi
 2. e ovviamente proibire di COMPRARE qualsiasi cosa
@@ -301,10 +311,6 @@ E poi cosa è la violenza? Uccidere qualcun altro? Anche gli scacchi hanno come 
 > Allora se vuoi giocare fallo bene: impegnati, diventa bravo e partecipa ad un torneo! magari poi ti guadagni la cena
 
 Diventare giocatori professionisti è potrebbe essere un ottimo connubio tra passione, studio e professione.
-
-
-
-
 
 ## GdT vs Videogiochi
 > Quali sono le grandi differenze tra un videogioco ed un gioco da tavolo?
