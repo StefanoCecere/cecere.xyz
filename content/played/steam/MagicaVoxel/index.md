@@ -17,4 +17,4 @@ I vostri figli ma anche voi vi divertirete come matti
 > *Fabio:*
 > con questo programma ho creato moltissime cose che poi sono entrate anche nei miei videogiochi
 
-
+{{< gallery "gallery" >}}

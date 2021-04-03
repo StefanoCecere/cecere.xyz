@@ -18,4 +18,4 @@ Perfetto per i ragazzi o per chi vuole divertirsi e giocare con l'ingegneria sen
 > *Fabio:*
 > Qui ho imparato a volare e a costruire aerei di tutti i tipi!
 
-
+{{< gallery "gallery" >}}

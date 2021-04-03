@@ -20,5 +20,4 @@ NO-TE-VO-LIS-SI-MO
 > *Fabio:*
 > è fatto benissimo con tutte i mezzi da lavoro e tantissimi lavori da eseguire
 
-{{< figure src="vg_constrsimulator.jpg" width="49%">}}
-{{< figure src="vg_constrsimulator2.jpg" width="49%">}}
+{{< gallery "gallery" >}}

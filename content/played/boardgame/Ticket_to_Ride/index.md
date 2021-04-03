@@ -1,6 +1,6 @@
 ---
 title: Ticket to Ride
-slug: 
+slug: ticket-to-ride
 summary: 
 categories: [boardgame]
 tags: [scheda_GdT]
@@ -21,4 +21,4 @@ Un gioco strategico molto semplice, quindi adatto a tutti, che vi farà girare p
 > *Stefano:*
 > C'è anche una versione kids e molte edizioni con geografie diverse. Nel dubbio sceglierei l'Europa.
 
-
+{{< gallery "gallery" >}}

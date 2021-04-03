@@ -17,4 +17,4 @@ E', insieme a Ring Fit Adventure, l'"exergame" più famoso al mondo. Ne esce un'
 > *Fabio:*
 > ti insegna a ballare!
 
-
+{{< gallery "gallery" >}}

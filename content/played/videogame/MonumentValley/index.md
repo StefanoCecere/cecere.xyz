@@ -19,5 +19,4 @@ Una bambina in cerca della sua storia in un mondo affascinante e davvero godibil
 > *Fabio:*
 > rompe le leggi della fisica ed è difficile
 
-![](vg_monument_valley.jpg)
-
+{{< gallery "gallery" >}}

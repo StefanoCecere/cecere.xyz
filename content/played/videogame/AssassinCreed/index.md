@@ -21,4 +21,5 @@ Go personalmente imposto a mio figlio di giocare questi giochi e di finirli stan
 > *Fabio:*
 > io che vivo a Firenze ho imparato molte cose, perché è proprio uguale!
 
+{{< gallery "gallery" >}}
 

@@ -20,6 +20,4 @@ Non dovrebbe necessitare presentazioni se non accennare a delle buone motivazion
 5. ai ragazzi piace
 6. esistono centinaia di versioni.. anche in digitale dove i pezzi combattono sanguinosamente! :) (cercate BattleChess)
 
-![](gdt_battlechess.jpg)
-
-
+{{< gallery "gallery" >}}

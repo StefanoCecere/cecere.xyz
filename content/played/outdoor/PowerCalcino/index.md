@@ -15,4 +15,4 @@ Bene, noi l'abbiamo formalizzato con le carte di *Power Calcino*: un mazzo di ca
 
 #TODO/vignetta 
 
-
+{{< gallery "gallery" >}}

@@ -14,8 +14,7 @@ Mi è capitato più volte di spiegare ai ragazzi come funzionano le cose, perch�
 
 Qui elenco tre laboratori che possono essere facilmente riprodotti da qualsiasi genitore un po' creativo e/o pratico. Ho pubblicato tutti i materiali e istruzioni e video sul mio sito nel caso ti interessano.
 
-## Laboratorio Librogame[^link_lab_librogame]
-[^link_lab_librogame]: <https://stefanocecere.com/educator/lab_librogame/>
+## Laboratorio Librogame
 
 {{< figure src="../_img/progetto_librogame_2.jpg" width="45%">}}
 {{< figure src="../_img/progetto_librogame_1.jpg" width="45%">}}
@@ -24,9 +23,7 @@ Per imparare a creare un videogioco, è importante capire come si costruisce una
 In questo laboratorio faremo vedere come dietro ai videogiochi ci sono dei "diagrammi di flusso e scelta" con enigmi e difficoltà da superare.
 Aiuteremo quindi i ragazzi a inventare una semplice storia-gioco e a produrla su carta, per portarsi a casa il proprio "libro gioco", pronto per essere condiviso ed eventualmente trasferito su un computer (magari in un prossimo laboratorio)
 
-
-## Laboratorio Elettronica e Robots[^link_lab_robots]
-[^link_lab_robots]: <https://stefanocecere.com/educator/lab_stem_elettronica_robots/>  
+## Laboratorio Elettronica e Robots
 
 Un laboratorio introduttivo all'elettronica e ai robots, spiegando ai ragazzi il principi base dell'elettronica e poi facendoli costruire un piccolo "robottino".
 

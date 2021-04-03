@@ -20,4 +20,4 @@ forse il miglior gioco di introduzione al coding
 > impari davvero a programmare! i livelli sono belli. e piace molto anche a Bruno! perché è proprio come se fosse un videogioco
 {.boxFabio}
 
-{{< figure src="code_master.jpg" >}}
+{{< gallery "gallery" >}}

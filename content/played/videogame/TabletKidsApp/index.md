@@ -14,9 +14,10 @@ Il mio consiglio è di cercare nelle categorie Kids o Education e preferire le a
 
 Ci sono studi che sono specializzati in questo genere di app (consiglio ad esempio tutti i Toca Boca [tocaboca.com](https://tocaboca.com/apps/) o Tiny Bop [tinybop.com](https://tinybop.com/apps)  
 
+#TODO/fix
 sul mio sito avevamo iniziato a recensire qualche gioco, potete vedere su [stefanocecere.com/ludosofia/videogiochi/tablet-kids/](https://stefanocecere.com/ludosofia/videogiochi/tablet-kids/)  
 
 > *Fabio:*
 > ho imparato a lavare i piatti.  
 
-
+{{< gallery "gallery" >}}
