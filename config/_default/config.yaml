@@ -84,3 +84,4 @@ markup:
     parser:
       attribute:
         block: true
+rssLimit: 30
