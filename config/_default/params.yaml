@@ -75,15 +75,15 @@ highlight: true
 highlight_languages:
 math: false
 diagram: false
-privacy_pack: false
+privacy_pack: true
 edit_page:
-  repo_url: ''
+  repo_url: 'https://github.com/StefanoCecere/stefanocecere.org'
   content_dir: ''
-  repo_branch: main
+  repo_branch: master
   editable:
     page: false
     post: false
-    book: false
+    book: true
 show_related:
   book: true
   page: false
