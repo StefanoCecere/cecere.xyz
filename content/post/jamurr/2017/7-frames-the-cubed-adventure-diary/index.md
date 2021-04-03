@@ -1,21 +1,15 @@
 ---
-title: 7 FRAMES - the cubed adventure
+title: 7 FRAMES cubed - il diario
 subtitle: IF2017 Kids Game Jam
 slug: 7-frames-the-cubed-adventure-diary
 summary: 
-projects: [jamurr/7-frames]
-date: "2017-10-13T00:00:00Z"
+projects: [jamurr/7-frames-cubed]
+date: 2017-10-13T00:00:00Z
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
 authors:
 categories: jamurr
-tags:
-- KidsGameJam
-- devlog
-
+tags: [KidsGameJam, jamurr, devlog]
 ---
 
 Siamo tornati a casa dopo la seconda IF/JAMURR Kids Game Jam all’[Internet Festival](http://www.internetfestival.it/eventi/kids-game-jam/) a Pisa ed ecco una sintesi di quello che è successo e di quello che succederà ora:
@@ -118,7 +112,7 @@ siamo organizzati in modo la lavorarci una sera alla settimana, e dovremmo farce
 {{< figure src="img/gruppo1.jpg" caption="" width="300px">}}
 {{< figure src="img/gruppo2.jpg" caption="" width="300px">}}
 
-se tutto ciò che abbiamo fatto ti sta piacendo, faccelo sapere! seguici su Facebook: <https://www.facebook.com/JAMURR.org>
+se tutto ciò che abbiamo fatto ti sta piacendo, faccelo sapere!
 
 > NOTA: tutto il progetto è Open Source sotto licenza Creative Commons, puoi vederne il sito di sviluppo e partecipare qui: <https://github.com/jamurr/JAM.7FRAMES_Cubed/>
 

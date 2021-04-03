@@ -1,6 +1,6 @@
 ---
 title: Non sono solo una pecora
-summary: 
+summary: il primo gioco sviluppato da Papà e figlio (7anni)
 categories: jamurr
 tags: [jamurr, GlobalGameJam, game]
 date: 2016-01-31T00:00:00Z
