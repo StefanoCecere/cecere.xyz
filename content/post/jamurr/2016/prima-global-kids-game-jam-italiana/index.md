@@ -1,36 +1,34 @@
 ---
 title: Prima Global Kids Game Jam italiana
 subtitle: 
-
-# Summary for listings and search engines
 summary: 
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: "2016-01-15T00:00:00Z"
-
-# Is this an unpublished draft?
+projects: [jamurr/non-sono-solo-una-pecora]
+date: 2016-01-15T00:00:00Z
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
 authors:
 categories: jamurr
-tags:
-- GlobalGameJam
-- KidsGameJam
-- Videogame
+tags: [GlobalGameJam, KidsGameJam, Videogame]
 
 gallery_item:
 - album: gallery
-  image: premiazione.jpg
-  caption: premiazione miglior gioco e giovane game designer
+  image: IMG_1592.jpg
+  caption: Fabio spiega il concept
+- album: gallery
+  image: IMG_1607.jpg
+  caption: sta venendo bene!
+- album: gallery
+  image: IMG_1588.jpg
+  caption: i personaggi
+- album: gallery
+  image: IMG_1574.jpg
+  caption: bozza di storia
 - album: gallery
   image: lavoro.jpg
   caption: si disegna e si computa
+- album: gallery
+  image: premiazione.jpg
+  caption: premiazione miglior gioco e giovane game designer
 ---
 
 Stefano e Fabio hanno partecipato alla Global Game Jam 2016 (a Pisa) creando di fatto la priam Kids Game Jam italiana

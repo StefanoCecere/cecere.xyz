@@ -15,8 +15,6 @@ image:
   preview_only: false
 projects: []
 ---
-
-# Chi lo dice sa di esserlo
 "Mi ricordo che quando eravamo piccoli quando litigavamo dicevamo: ‘Chi lo dice sa di esserlo. E non è un caso, non è solo un modo di dire per bambini, uno scherzo, vi è un significato psicologico molto profondo".  
 "Vediamo sempre in un’altra persona le nostre qualità e pensiamo che sia come noi. Basandoci su questo diamo la nostra valutazione in generale"
 
