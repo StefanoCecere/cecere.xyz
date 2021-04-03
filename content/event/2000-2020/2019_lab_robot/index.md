@@ -18,7 +18,8 @@ all_day: false
 publishDate: 2019-08-25T14:15:26+02:00
 
 authors: []
-tags: ["lab"]
+categories: [workshop]
+tags: [workshop]
 
 # Is this a featured talk? (true/false)
 featured: false

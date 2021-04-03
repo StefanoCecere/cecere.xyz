@@ -11,7 +11,8 @@ date: 2020-11-14
 all_day: true
 publishDate: 2020-11-14
 
-tags: [video, parenting, kids, edtech, youtuber]
+categories: [talk]
+tags: [talk,video, parenting, kids, edtech, youtuber]
 featured: false
 image:
   caption: ""

@@ -1,5 +1,5 @@
 ---
-title: L’umanesimo nell’intelligenza artificiale, nella realtà virtuale e nei videogiochi
+title: "L’umanesimo nell’intelligenza artificiale, nella realtà virtuale e nei videogiochi"
 slug: simposio-umanesimo-ai-vr-videogames
 draft: false
 summary: la ricerca e lo sviluppo delle nuove tecnologie e nuovi media è sempre più connessa con un atteggiamento umanista. scopriremo perché.
@@ -20,7 +20,8 @@ publishDate: 2020-11-14
 #publishDate: "2021-04-06T11:00:00Z"
 
 authors: []
-tags: []
+categories: [talk]
+tags: [talk]
 
 # Is this a featured talk? (true/false)
 featured: false

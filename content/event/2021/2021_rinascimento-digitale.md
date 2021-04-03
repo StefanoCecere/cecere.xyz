@@ -20,7 +20,8 @@ publishDate: 2020-11-14
 #publishDate: "2021-04-06T11:00:00Z"
 
 authors: []
-tags: []
+categories: [talk]
+tags: [talk]
 
 # Is this a featured talk? (true/false)
 featured: false

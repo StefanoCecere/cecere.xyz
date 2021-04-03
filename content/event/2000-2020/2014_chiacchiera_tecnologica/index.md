@@ -18,7 +18,8 @@ all_day: false
 publishDate: 2019-08-28T23:00:11+02:00
 
 authors: []
-tags: ["tecnologia"]
+categories: [talk]
+tags: [talk, tecnologia, "2042"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -43,7 +44,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: talks/2014_chiacchiera_tecnologica/impatto-tecnologia-evoluzione-umana.pdf
+url_pdf: /event/2014/impatto-della-tecnologia-sullevoluzione-umana/impatto-tecnologia-evoluzione-umana.pdf
 url_video:
 
 # Markdown Slides (optional).
@@ -60,9 +61,7 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
 qualche considerazione per una chiacchiera tra amici
-
 
 ## chi sono
 nato Stefano Cecere 40 anni
@@ -73,8 +72,7 @@ aspiro a cose spesso ritenute inimmaginabili
  
 ## Interesse personale
 Conoscenza e Creatività
-al servizio di
-Felicità e Cambiamento (tecnologia della felicità?)
+al servizio di Felicità e Cambiamento (tecnologia della felicità?)
 
 in un puntino dell’universo, in un infinitesimo di tempo
 Abbiamo esploso la quantità di vita umana e la relativa lunghezza

@@ -18,6 +18,7 @@ all_day: true
 publishDate: 2019-08-25T14:22:16+02:00
 
 authors: []
+categories: [showcase]
 tags: []
 
 # Is this a featured talk? (true/false)

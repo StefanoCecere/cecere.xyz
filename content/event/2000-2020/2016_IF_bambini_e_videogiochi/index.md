@@ -16,7 +16,8 @@ all_day: false
 publishDate: 2019-08-28T23:00:11+02:00
 
 authors: []
-tags: ["kids","KidsGameJam"]
+categories: [talk]
+tags: [talk, "kids","KidsGameJam"]
 
 # Is this a featured talk? (true/false)
 featured: false

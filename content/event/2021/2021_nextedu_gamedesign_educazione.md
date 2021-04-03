@@ -10,7 +10,8 @@ date: 2021-03-03
 all_day: true
 publishDate: 2020-11-14
 
-tags: [video, kids, edtech, gamedesign]
+categories: [talk]
+tags: [talk, video, kids, edtech, gamedesign]
 featured: false
 image:
   caption: ""

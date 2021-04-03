@@ -5,7 +5,7 @@ title: "Giocare a cambiare il mondo"
 event: Game Over
 event_url:
 location: Milano
-summary:
+summary: presentazioni dei mondo del Games 4 Change, ovvero giochi educativi e di impatto sociale
 abstract:
 
 # Talk start and end times.
@@ -18,7 +18,8 @@ all_day: false
 publishDate: 2019-08-28T23:00:11+02:00
 
 authors: []
-tags: ["videogames","AppliedGames","G4C"]
+categories: [talk]
+tags: [talk, videogames, G4C]
 
 # Is this a featured talk? (true/false)
 featured: false
