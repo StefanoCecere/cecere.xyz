@@ -6,17 +6,15 @@ title: Stefano Cecere
 superuser: true
 
 # Role/position
-role: Games+EdTech+AI+XR, Humanist, Educator, Author, Activist
-
-#role: Giochi, STEAM e Filosofia
+role: Sviluppatore, Educatore, Autore, Attivista, Nerd, Papà. 
 
 # Organizations/Affiliations
 #organizations:
 #- name: Stanford University
-#  url: ""
+#  url: https://site.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Scienza, Tecnologie Digitali, Arte e Filosofia Umanista per sopravvivere _tutti_ al 2042.
+bio: Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Tecnologie Digitali, Creatività e Filosofia Umanista per sopravvivere _tutti_ al 2042. Senza troppe aspettative ma almeno mi diverto nel tentativo :)
 
 #interests:
 #- Giochi, Tecnologia e Filosofia
@@ -45,7 +43,7 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/StefanoCecere
-  #label: Follow me on Facebook
+  label: Seguimi su Facebook
   display:
     header: false
 #- icon: youtube
@@ -91,10 +89,11 @@ highlight_name: false
 # Condividere il proprio meglio è un buon modo per costruire l'_Intelligenza Collettiva_ di cui abbiamo disperatamente bisogno, e ispirare altri a fare lo stesso è ancora meglio.
 ---
 
-Benvenuti nel mio _giardino digitale_ o _secondo cervello_, archivio di tutto quello che penso, sento e faccio. E' un mondo un po' multidisciplinare e multimediale perché mi interessano molte cose, attualmente:
-- Giochi, STEAM e Filosofia
-- Game Based Learning, Game Design e Coinvolgimento
+Benvenuti nel mio _giardino digitale_, dove cerco di connettere e dare un senso al caos nerd di quello che penso, sento e faccio :wink: condividendo in open-source con chiunque sia in ricerca. In questo periodo di interesso di:
+
+- Giochi, Tecnologia e Filosofia
+- Playful e Game Based Learning, Games 4 Change, EdTech
 - Media Education, Creatività Diffusa e Genitorialità
-- AI + XR + OpenSource
+- AI + XR + Information Technology
 - Futuro 2042, Intelligenza Collettiva e Sviluppo Sostenibile
-- Trascendenza, Nonviolenza e Nazione Umana Universale
+- Trascendenza, Spazio e Nazione Umana Universale

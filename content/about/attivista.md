@@ -1,7 +1,7 @@
 ---
 title: "Stefano Cecere: attivista"
 linktitle: Attivista
-summary: Qualche informazione su di me
+summary: Cose che uno fa perché sente che deve farle e che devono essere fatte
 date: 2018-02-25T00:00:00Z
 lastmod: 2018-09-09T00:00:00
 type: book

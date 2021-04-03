@@ -1,7 +1,7 @@
 ---
 title: "Stefano Cecere: CV"
 linktitle: Curriculum Vitae
-summary: Curriculum Vitae
+summary: ogni tanto viene richiesto un CV...
 date: 2018-02-25T00:00:00Z
 lastmod: 2018-09-09T00:00:00
 type: book
@@ -27,3 +27,61 @@ Dal 2016 ho iniziato la collaborazione con Video Games Without Borders, per prom
 
 Ora sto studiando Scienze della Formazione, Psicologia e Scienze Cognitive, mentre insegno Intelligenza Artificiale e Tecnologie Digitali Umaniste.
 
+## Clienti con cui ho lavorato 
+### Artisti
+- 883
+- Andrea Steinfl
+- Antonella Ruggiero
+- Bruna Rotunno
+- Cristina Tagliabue
+- DeltaV
+- Fabrizio Consoli
+- Francesca Lago
+- Francesco Sarcina
+- Franco Battiato
+- Jean Michelle Jarre
+- L’Aura
+- Lorenzo Pierobon
+- Marco Tempest
+- Marco Trentacoste
+- Masbedo
+- Morgan
+- Jovanotti
+- Petulia Mattioli
+- Roberto Vernetti
+- Sal
+- Saturnino
+- Soerba
+- Syria
+- Tricarico
+- Umberto Branchini
+- Vittorio Cosma
+
+### Aziende
+- Armando Testa
+- AVEVA
+- Broad Way
+- Clear Channel
+- Connexia
+- Creeo studio
+- Energy Productions
+- Interzone
+- Lindasoft
+- Mediakey
+- Mediatria
+- Microsoft
+- Mondadori
+- Mondo
+- Music Production
+- MW Powerlab
+- New Sounds
+- Provincia di Firenze
+- Pry
+- Re Media
+- RTR Systems
+- Smemoranda / GUT
+- Soleluna
+- Trident Agency
+- Unnecessary Productions
+- Verba Corrige
+- Yond

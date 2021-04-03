@@ -1,7 +1,7 @@
 ---
 title: "Idee base e Princìpi"
 linktitle: Princìpi
-summary: esperienze politiche
+summary: su quali binari uno si muove? cosa è si e cosa è no?
 date: 2014-02-25T00:00:00Z
 lastmod: 2014-02-25T00:00:00Z
 type: book

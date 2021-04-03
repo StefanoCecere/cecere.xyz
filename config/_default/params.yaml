@@ -39,14 +39,14 @@ email: stefano.cecere@gmail.com
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: ''
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Twitter
-    link: 'https://twitter.com/StefanoCecere'
-  - icon: facebook
-    icon_pack: fab
-    name: Facebook
-    link: 'https://www.facebook.com/StefanoCecere'
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Twitter
+#    link: 'https://twitter.com/StefanoCecere'
+# - icon: facebook
+#   icon_pack: fab
+#   name: Facebook
+#   link: 'https://www.facebook.com/StefanoCecere'
   - icon: telegram
     icon_pack: fab
     name: Telegram

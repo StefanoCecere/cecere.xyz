@@ -1,5 +1,5 @@
 ---
-title: About
+title: Stefano Cecere
 #linktitle: Libreria
 
 # Page summary for search engines.

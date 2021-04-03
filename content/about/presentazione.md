@@ -1,7 +1,7 @@
 ---
 title: Mi presento
 linktitle: Presentazione
-summary: Qualche informazione su di me
+summary: Qualche informazione su di me... servono anche a me per ricordarmi chi sono
 date: 2018-02-25T00:00:00Z
 lastmod: 2018-02-25T00:00:00Z
 type: book
