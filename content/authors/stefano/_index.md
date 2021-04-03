@@ -6,7 +6,7 @@ title: Stefano Cecere
 superuser: true
 
 # Role/position
-role: Sviluppatore, Educatore, Autore, Attivista, Nerd, Papà. 
+role: Sviluppatore, Educatore, Autore, Attivista, Papà
 # Game Based Learning R&D, Educator, Musician
 # Humanist AI+XR+EdTech+Video Games, Educator and Author
 
@@ -91,7 +91,7 @@ highlight_name: false
 # Condividere il proprio meglio è un buon modo per costruire l'_Intelligenza Collettiva_ di cui abbiamo disperatamente bisogno, e ispirare altri a fare lo stesso è ancora meglio.
 ---
 
-Benvenuti nel mio _giardino digitale_, dove cerco di connettere e dare un senso al caos nerd di quello che penso, sento e faccio :wink: condividendo in open-source con chiunque sia in ricerca. In questo periodo di interesso di:
+Ciao, sono Stefano e in questo sito faccio del mio meglio per migliorare il mondo, iniziando con il condividere quanto penso e faccio su questi temi:
 
 - Giochi, Tecnologia e Filosofia
 - Playful e Game Based Learning, Games 4 Change, EdTech

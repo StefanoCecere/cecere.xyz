@@ -14,13 +14,13 @@ publishDate: 2021-02-01T11:00:00Z
 
 authors: []
 categories: [talk]
-tags: [talk, videogame]
+tags: [talk, videogame, parenting]
 featured: false
 
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/rsFtVKkuVxE"
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -41,3 +41,7 @@ Incontro online con genitori, ragazzi e ragazze, dove affronteremo queste e altr
 SABATO 3 APRILE ORE 17:00-18:30
 
 live ad accesso libero su https://www.youtube.com/c/EDUMANACenva
+
+---
+
+ecco il video {{< youtube rsFtVKkuVxE >}}
