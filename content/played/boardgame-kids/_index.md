@@ -6,4 +6,4 @@ type:
 weight: 60
 ---
 
-[PlayED](/played) - [Videogiochi](../videogame) - [STEAM](../steam) - [Giochi da Tavolo](../boardgame) - [Kids](../boardgame-kids) - [Libri Gioco](../librogame) - [Outdoor](../outdoor) - [Video](../video)
+[PlayED](/played) - [Libro](../book) - [Videogiochi](../videogame) - [STEAM](../steam) - [Giochi da Tavolo](../boardgame) - [Kids](../boardgame-kids) - [Libri Gioco](../librogame) - [Outdoor](../outdoor) - [Video](../video)
