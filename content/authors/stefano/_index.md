@@ -7,6 +7,8 @@ superuser: true
 
 # Role/position
 role: Sviluppatore, Educatore, Autore, Attivista, Nerd, Papà. 
+# Game Based Learning R&D, Educator, Musician
+# Humanist AI+XR+EdTech+Video Games, Educator and Author
 
 # Organizations/Affiliations
 #organizations:
