@@ -11,6 +11,6 @@ design:
 
 {{< icon name="telegram" pack="fab" >}} [Canale Telegram](https://t.me/scecere)  
 
-{{< icon name="rss" pack="fas" >}} [RSS](/post/index.xml)
+{{< icon name="mail-bulk" pack="fas" >}} [Newsletter](https://cecere.substack.com/subscribe)  
 
 {{< icon name="facebook" pack="fab" >}} [Facebook](https://www.facebook.com/StefanoCecere)  
