@@ -1,12 +1,7 @@
 ---
-# Display name
 title: Stefano Cecere
-
-# Is this the primary user of the site?
 superuser: true
-
-# Role/position
-role: Sviluppatore, Educatore, Autore, Attivista, Papà
+role: R&D in Games, Technology, Education and Philosophy for social innovation
 # Game Based Learning R&D, Educator, Musician
 # Humanist AI+XR+EdTech+Video Games, Educator and Author
 
