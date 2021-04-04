@@ -36,9 +36,3 @@
   to = "https://stefano.cecere.org/:splat"
   status = 301
   force = true
-
-[[redirects]]
-  from = "https://cecere.org/*"
-  to = "https://stefano.cecere.org/:splat"
-  status = 301
-  force = true
