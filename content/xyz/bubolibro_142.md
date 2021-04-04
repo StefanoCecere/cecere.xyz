@@ -11,6 +11,8 @@ lastmod: 2020-11-09
 featured: false
 draft: false
 private: true
+_build:
+  list: false
 ---
 
 e ora

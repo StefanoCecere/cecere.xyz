@@ -15,8 +15,7 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: "AI+XR+EdTech+Games, Humanist, Educator, Author, Activist
-. Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Scienza, Tecnologie Digitali, Arte e Filosofia Umanista per sopravvivere tutti al 2042."
+description: "AI+XR+EdTech+Game dev, Humanist, Educator, Author, Activist. Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Scienza, Tecnologie Digitali, Arte e Filosofia Umanista per sopravvivere tutti al 2042."
 twitter: 'StefanoCecere'
 
 # Contact (edit or remove options as required)
@@ -152,3 +151,6 @@ cms:
 icon:
   pack:
     ai: true
+
+# my
+ghrepo: https://github.com/stefanoCecere/stefanocecere.org/
