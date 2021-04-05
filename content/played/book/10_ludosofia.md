@@ -1,6 +1,7 @@
 ---
-title: Ludosofia
+title: Ludosofia - giocare bene, imparare insieme
 slug: ludosofia
+linktitle: Ludosofia
 summary: introduzione al gioco e all'atteggiamento ludico come strumenti positivi
 date: 2021-04-01T00:00:00Z
 type: book

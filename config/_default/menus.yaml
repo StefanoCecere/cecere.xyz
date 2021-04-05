@@ -13,6 +13,9 @@ main:
   - name: Blog
     url: '/post'
     weight: 15
+  - name: Edu
+    url: '/edu'
+    weight: 20
   - name: PlayED
     url: '/played'
     weight: 40

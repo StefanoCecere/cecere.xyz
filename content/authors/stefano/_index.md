@@ -85,12 +85,11 @@ highlight_name: false
 
 # Condividere il proprio meglio è un buon modo per costruire l'_Intelligenza Collettiva_ di cui abbiamo disperatamente bisogno, e ispirare altri a fare lo stesso è ancora meglio.
 ---
+<br>
 
-Ciao, sono Stefano e in questo sito faccio del mio meglio per migliorare il mondo, iniziando con il condividere quanto penso e faccio su questi temi:
+Ciao, mi chiamo Stefano Cecere e sono un appassionato ricercatore e condivisore.  
+Creo contenuti che possano aiutare a imparare le nuove tecnologie, la creatività e sopravvivere alla complessità del mondo in cui viviamo insieme ai nostri figli.
 
-- Giochi, Tecnologia e Filosofia
-- Playful e Game Based Learning, Games 4 Change, EdTech
-- Media Education, Creatività Diffusa e Genitorialità
-- AI + XR + Information Technology
-- Futuro 2042, Intelligenza Collettiva e Sviluppo Sostenibile
-- Trascendenza, Spazio e Nazione Umana Universale
+Questo sito è molto ampio, ecco le sezioni principali:
+
+{{< site-toc >}}
