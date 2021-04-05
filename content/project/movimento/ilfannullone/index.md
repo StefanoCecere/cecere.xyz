@@ -2,7 +2,7 @@
 title: "Il Fannullone"
 summary: "espressione umanista tascabile"
 authors: []
-tags: [social, webdev, MovimentoUmanista, NuovoUmanesimo]
+tags: [social, media, MovimentoUmanista, NuovoUmanesimo]
 categories: ["Media"]
 date: 2007-01-27T00:00:00
 ---
@@ -11,5 +11,5 @@ date: 2007-01-27T00:00:00
 
 i 12 numero della rivista Il Fannullone
 
-url: https://stefanocecere.github.io/ilfannullone.it/
+url: <https://stefanocecere.github.io/ilfannullone.it/>
 
