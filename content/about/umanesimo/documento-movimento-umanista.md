@@ -67,4 +67,4 @@ Gli umanisti non sono ingenui né si gonfiano il petto con dichiarazioni di sapo
 Mi auguro di poter sviluppare altri temi nella prossima lettera.
 Ricevete, con questa, un caloroso saluto.
 
-_5 Aprile 1993_
+_Silo, 5 Aprile 1993_

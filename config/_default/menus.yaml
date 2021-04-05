@@ -13,7 +13,7 @@ main:
   - name: Blog
     url: '/post'
     weight: 15
-  - name: Edu
+  - name: Corsi
     url: '/edu'
     weight: 20
   - name: PlayED
@@ -25,9 +25,6 @@ main:
   - name: Jamurr
     url: '/jamurr'
     weight: 42
-  - name: Studio
-    url: '/studio'
-    weight: 50
   - name: Progetti
     url: '/projects'
     weight: 45
