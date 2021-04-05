@@ -3,7 +3,7 @@ title: Syria - Come una goccia d'acqua
 summary: "keyboard player, sound design"
 # slug: 
 authors: []
-tags: ["tour", "music"]
+tags: [music, tour]
 categories: ["work"]
 date: 2003-04-02T16:27:02+02:00
 external_link: ""
@@ -21,4 +21,4 @@ slides: ""
 tour italiano
 tastierista programmatore per il tour .
 
-
+{{< gallery "gallery" >}}

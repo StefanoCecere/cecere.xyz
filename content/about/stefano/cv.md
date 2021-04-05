@@ -28,6 +28,12 @@ Dal 2016 ho iniziato la collaborazione con Video Games Without Borders, per prom
 Ora sto studiando Scienze della Formazione, Psicologia e Scienze Cognitive, mentre insegno Intelligenza Artificiale e Tecnologie Digitali Umaniste.
 
 ## Clienti con cui ho lavorato 
+
+{{< rawhtml >}}
+<div class="row">
+<div class="col-md">
+{{< /rawhtml >}}
+
 ### Artisti
 - 883
 - Andrea Steinfl
@@ -57,6 +63,11 @@ Ora sto studiando Scienze della Formazione, Psicologia e Scienze Cognitive, ment
 - Umberto Branchini
 - Vittorio Cosma
 
+{{< rawhtml >}}
+</div>
+<div class="col-md">
+{{< /rawhtml >}}
+
 ### Aziende
 - Armando Testa
 - AVEVA
@@ -85,3 +96,9 @@ Ora sto studiando Scienze della Formazione, Psicologia e Scienze Cognitive, ment
 - Unnecessary Productions
 - Verba Corrige
 - Yond
+
+{{< rawhtml >}}
+</div>
+</div>
+{{< /rawhtml >}}
+

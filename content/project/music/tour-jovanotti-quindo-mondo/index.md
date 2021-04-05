@@ -3,7 +3,7 @@ title: Jovanotti – “Quinto Mondo” tour
 summary: "keyboard player"
 # slug: 
 authors: []
-tags: ["tour", "music"]
+tags: [music, tour]
 categories: ["work"]
 date: 2002-04-02T16:27:02+02:00
 external_link: ""

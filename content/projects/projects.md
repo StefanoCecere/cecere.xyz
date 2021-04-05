@@ -39,8 +39,8 @@ content:
     tag: 'webdev'
   - name: Social
     tag: 'social'
-  - name: Corsi
-    tag: 'course'
+  - name: Education
+    tag: 'edu'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

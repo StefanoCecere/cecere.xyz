@@ -17,6 +17,8 @@ url_video: ""
 slides: ""
 ---
 
+![](amiga.jpg)
+
 i started coding (basic, assembler and Machine Code) with the Commodore 64.
 But it was the Amiga 500 that opened my multimedia passion.
 

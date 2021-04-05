@@ -1,7 +1,7 @@
 ---
 title: "The World March for Peace and Nonviolence"
 summary: la Marcia Mondiale per la Pace e la Nonviolenza
-tags: [social, music, webdev, MovimentoUmanista, Nonviolenza]
+tags: [social, music, composition, webdev, MovimentoUmanista, Nonviolenza]
 categories: []
 date: 2010-01-27T00:00:00
 external_link: ""
