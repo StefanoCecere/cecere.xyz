@@ -1,7 +1,7 @@
 ---
 title: "GameDev - Giochi Applicati e Impatto Sociale - Oltre l'entertainment"
 summary: il mio corso introduttivo per sviluppatori di videogiochi
-authors: []
+slug: gamedev-impact-games
 tags: [edu, course, gamedev, G4C]
 categories: [course]
 date: 2018-12-12
@@ -19,7 +19,7 @@ slides: ""
 
 il mio corso di 8, 12 o 16 ore
 
-## temi teorici
+## temi
 - panoramica su Media e impatto sociale
 - caratteristiche dei giochi come strumenti di educazione, persuasione e trasformazione
 - case studies di videogiochi applicati
@@ -27,3 +27,8 @@ il mio corso di 8, 12 o 16 ore
 - frameworks dedicati per il design e Game Based Learning
 - problematiche e tips di sviluppo
 - mercato e opportunità
+
+## Repository
+Il Repository Pubblico di questo libro è
+<https://github.com/StefanoCecere/book_2042GameDev>
+

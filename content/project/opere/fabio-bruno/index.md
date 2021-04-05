@@ -2,10 +2,9 @@
 title: Fabio e Bruno
 slug: jj
 summary: i migliori progetti della mia vita
-authors: []
 tags: [social, edu, parenting, dad]
-categories: [life]
-date: 2008-14-12
+categories: []
+date: 2008-12-14
 external_link: ""
 image:
   caption: ""

@@ -2,7 +2,7 @@
 title: Jamour
 summary: cosa farai oggi?
 categories: 
-tags: [game]
+tags: [game, globalgamejam]
 date: "2015-01-30T00:00:00Z"
 authors: []
 # Optional external URL for project (replaces project detail page).
@@ -15,6 +15,6 @@ url_video: ""
 ---
 our game at GGJ 2015
 
-http://globalgamejam.org/2015/games/jamurr
+<http://globalgamejam.org/2015/games/jamurr>
 
 {{< youtube uiKq_Kqse_k >}}

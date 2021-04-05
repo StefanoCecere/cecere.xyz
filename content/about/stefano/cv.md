@@ -41,6 +41,7 @@ Ora sto studiando Scienze della Formazione, Psicologia e Scienze Cognitive, ment
 - Bruna Rotunno
 - Cristina Tagliabue
 - DeltaV
+- Eraldo Bernocchi
 - Fabrizio Consoli
 - Francesca Lago
 - Francesco Sarcina
@@ -92,6 +93,7 @@ Ora sto studiando Scienze della Formazione, Psicologia e Scienze Cognitive, ment
 - RTR Systems
 - Smemoranda / GUT
 - Soleluna
+- TheSign Academy
 - Trident Agency
 - Unnecessary Productions
 - Verba Corrige

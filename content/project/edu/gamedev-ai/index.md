@@ -1,6 +1,7 @@
 ---
 title: GameDev - Intelligenza Artificiale nei videogiochi
 summary: il mio corso introduttivo per sviluppatori di videogiochi
+slug: gamedev-ai
 authors: []
 tags: [edu, course, gamedev, AI]
 categories: ["course"]
@@ -19,13 +20,17 @@ slides: ""
 
 un corso teorico / pratico di 20, 32 o 40 ore
 
-### temi teorici
-- Machine Learning: i fondamentali
-- Neural Networks: le basi e il potenziale
-- GAN (Generative adversarial network) come funzionano?
-- metodi AI nei videogiochi
+## temi
+### 1. Introduzione alla A.I.
+- storia
+- stato dell'arte
+- etica e opportunità
+### 2. Machine Learning: i fondamentali
+  - Neural Networks: le basi e il potenziale
+  - GAN (Generative adversarial network) come funzionano?
+### 3. Metodi AI nei videogiochi
   - Utility
-  - FSM / Behavior Trees 
+  - FSM / Behavior Trees
   - TreeSearch / Pathfinding
   - Evolutionary Computation / Genetic
   - Supervised Learning
@@ -33,20 +38,25 @@ un corso teorico / pratico di 20, 32 o 40 ore
   - Unsupervised Learning
   - Planners
   - Random / Fuzzy / Noise
-- AI per giocare 
+### 4. AI per giocare
   - avversari
   - playtest
   - demo
-- AI per generare contenuti
+### 5. AI per generare contenuti
   - Livelli e Mappe
   - Visual
   - Audio
   - Narrativa
-- case studies spettacolari e futuro
+### 6. case studies spettacolari e futuro
 
-### esercizi pratici
+## esercizi pratici
 1. progetto ML-Agents
 
-### prerequisiti
+## prerequisiti
 - Unity installato + Python (istruzioni inviate prima)
 - leggere una serie di documenti sul ML
+
+## repository
+Il Repository Pubblico di questo corso è
+<https://github.com/StefanoCecere/book_2042GameDev>
+

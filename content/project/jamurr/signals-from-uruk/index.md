@@ -1,17 +1,17 @@
 ---
 title: Signals from URUK
-summary: un videogioco creato da bambini
+summary: un videogioco in AR per scoprire la storia
 # slug: 
 authors: []
-tags: ["jamurr", SignalsUruk, AR, "game", "kids"]
+tags: [jamurr, GlobalGameJam, KidsGameJam, AR, game, kids]
 categories: ["jamurr"]
-date: 2017-10-10T16:27:02+02:00
+date: 2018-01-30T16:27:02+02:00
 external_link: ""
 image:
   caption: ""
   focal_point: ""
   preview_only: true
-url_code: 
+url_code: https://github.com/StefanoCecere/SignalsFromUruk/
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -37,6 +37,8 @@ il team intergenerazionale (due adulti, due adolescenti e due bambini) è stato 
 questa la scheda ufficiale del gioco sul sito dell GGJ:
 <https://globalgamejam.org/2018/games/signals-uruk>
 
+il sito GitHub del progetto OpenSOurce è: <https://github.com/StefanoCecere/SignalsFromUruk/>
+
 per giocarlo bisogna stampare le carte e scaricare le app.. per settimana prossima renderemo la cosa più agevole per tutti.. intanto godetevi le schermate e mettetevi in stato di ricezione di segnali lontani ma profondi!
 
 dal Team Uruk questo è tutto.. a presto e scrivetemi se siete incuriositi
@@ -44,5 +46,3 @@ dal Team Uruk questo è tutto.. a presto e scrivetemi se siete incuriositi
 con Pietro Polsinelli e un grazie estremamente pieno di complimenti a Michele M. Lanzo e Giacomo Guccinelli e Mixart per l’organizzazione della GGJ a Pisa.
 
 PS: grazie anche a Stratagemma per esistere verremo presto a far provare il gioco
-
-Global Game Jam 2018 #GGJ18

@@ -1,7 +1,7 @@
 ---
 title: GameDev - AR + VR + MR = XR
 summary: il mio corso introduttivo per sviluppatori di videogiochi
-authors: []
+slug: gamedev-xr
 tags: [edu, course, gamedev, XR, VR, AR]
 categories: [course]
 date: 2018-12-12
@@ -17,15 +17,15 @@ url_video: ""
 slides: ""
 ---
 
-il mio corso di 8, 12 o 16 ore
+il mio corso di 8, 12 o 16 ore per conoscere la teoria e le basi della Gametch innovativa, per essere pronti al futuro e cogliere le nuove opportunità
 
-## teoria
+## Temi
 - basi teoriche di computer vision e tracking
+- mercato e opportunità
 - case studies di app AR
 - tecnologie AR Augmented Reality
 - tecnologie VR Virtual Reality
 - tecnologie MR Mixed Reality
-- XR Extended Reality 
 - Unity AR Foundations: conosciamolo
 
 ## esercizi pratici
@@ -36,3 +36,6 @@ il mio corso di 8, 12 o 16 ore
 - Unity installato + Device Android o iOS compatibile
 - cardboard
 
+## Repository
+Il Repository Pubblico di questo libro è
+<https://github.com/StefanoCecere/book_2042GameDev>

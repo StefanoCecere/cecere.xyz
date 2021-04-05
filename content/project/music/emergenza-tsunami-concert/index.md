@@ -1,7 +1,7 @@
 ---
 title: Emergenza Tsunami
 summary: "concerto rock in aiuto delle popolazioni asiatiche dopo lo Tsunami del 2004"
-slug: emergenza_tsunami_concert
+slug: emergenza-tsunami-concert
 authors: []
 tags: [social,music,MovimentoUmanista,organization]
 categories: ["event"]

@@ -52,6 +52,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/StefanoCecere
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/stefanocecere
+- icon: soundcloud
+  icon_pack: fab
+  link: https://soundcloud.com/stefanocecere
 - icon: telegram
   icon_pack: fab
   link: https://t.me/scecere
