@@ -7,7 +7,7 @@ date: 2018-02-25T00:00:00Z
 lastmod: 2018-02-25T00:00:00Z
 type: book
 weight: 1
-tags: []
+tags: ["42"]
 ---
 
 Mi chiamo Stefano Cecere e Ricerco e Sviluppo nell'intersezione tra il **Game design**, l'**EdTech**, l'**Intelligenza Artificiale** e la **XR** applicate allo sviluppo personale e sociale, open source, innovativo.

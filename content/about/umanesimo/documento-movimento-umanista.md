@@ -2,7 +2,7 @@
 title: Documento del Movimento Umanista
 date: 1995-05-05T09:31:30Z
 type: book
-tags: [Silo, MovimentoUmanista]
+tags: [Silo, MovimentoUmanista, NuovoUmanesimo]
 ---
 {{% callout note %}}
 {{% staticref "assets/docs/DocumentodelMovimentoUmanista.rtf" "newtab" %}}Scarica il documento in formato RTF{{% /staticref %}}

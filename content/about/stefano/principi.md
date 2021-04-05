@@ -6,9 +6,9 @@ date: 2014-02-25T00:00:00Z
 lastmod: 2014-02-25T00:00:00Z
 type: book
 weight: 60
-tags: ["umanesimo"]
+tags: [umanista,NuovoUmanesimo]
 ---
-Mi piacciono una serie di idee, che [qualcuno](http://www.silo.net) ha brillantemente messo insieme ed è venuto fuori che sintetizzano un Nuovo Umanesimo:
+Mi piacciono una serie di idee, che [qualcuno](http://www.silo.net) ha brillantemente messo insieme sintetizzando un Nuovo Umanesimo:
 
 - l’assunzione dell’essere umano come valore e come interesse centrale
 - l’affermazione dell’eguaglianza di tutti gli esseri umani
@@ -19,20 +19,7 @@ Mi piacciono una serie di idee, che [qualcuno](http://www.silo.net) ha brillante
 
 il tutto coronato dall'etica della **Regola Aurea: "tratta gli altri come vorresti essere trattato"**.
 
-Mi interessa poi superare il dolore e la sofferenza in modo completo, e in ultima istanza l'**immortalità** e la trascendenza. In questo trovo molto utili i seguenti **12 Principi dell'Azione Valida che cerco di applicare con crescente coerenza:**
-
-- Andare contro l’evoluzione delle cose è andare contro se stessi.
-- Quando forzi qualcosa verso un fine, produci il contrario.
-- Non opporti a una grande forza. Retrocedi finché non si indebolisca; allora, avanza con risolutezza.
-- Le cose vanno bene quando procedono insieme, non quando procedono isolate.
-- Se il giorno e la notte, l’estate e l’inverno per te stanno bene, hai superato le contraddizioni.
-- Se persegui il piacere, ti incateni alla sofferenza. Ma, se non danneggi la tua salute, godi senza inibizioni quando si presenta l’opportunità.
-- Se persegui un fine, ti incateni. Se tutto ciò che fai, lo fai come un fine in se stesso, ti liberi.
-- Farai sparire i tuoi conflitti quando li avrai compresi nella loro radice ultima, non quando li vorrai risolvere.
-- Quando danneggi gli altri ti incateni. Ma, se non danneggi nessuno, puoi fare quello che vuoi con libertà.
-- Quando tratti gli altri come vuoi essere trattato, ti liberi.
-- Non importa da che parte ti abbiano messo gli eventi, ciò che importa è che tu comprenda di non aver scelto nessuna parte.
-- Gli atti contraddittori o unitivi si accumulano in te. Se ripeti i tuoi atti di unità interna, niente ti potrà fermare.
+Mi interessa poi superare il dolore e la sofferenza in modo completo, e in ultima istanza l'**immortalità** e la trascendenza. In questo trovo molto utili i [12 Principi dell'Azione Valida](/about/umanesimo/12-principi-azione-valida) che cerco di applicare con crescente coerenza.
 
 ## mission
 c'è chi lo chiama "cambiare il mondo", chi "umanizzare la terra", chi "pensare un po' allo sviluppo del futuro", chi "fare tutto quello che si può fare, né di più, né di meno".

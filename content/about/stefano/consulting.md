@@ -7,7 +7,7 @@ date: 2020-02-25T00:00:00Z
 # lastmod: 2018-02-25T00:00:00Z
 type: book
 weight: 3
-tags: []
+tags: [work]
 ---
 
 Ho iniziato a lavorare nel 1988 e non ho mai smesso di studiare lavorando in moltissimi progetti (vedere mio [CV](/about/cv) e [progetti](/projects)). Ho probabilmente esperienza e capacità per essere un buon consulente in questi ambiti.  

@@ -3,7 +3,7 @@ title: "Hugo Pratt: il disegno dell’avventura"
 summary: "CD-Rom"
 slug: hugo-pratt
 authors: []
-tags: ["cd-rom"]
+tags: [multimedia,work]
 categories: ["work"]
 date: 1995-10-02T16:27:02+02:00
 external_link: ""
