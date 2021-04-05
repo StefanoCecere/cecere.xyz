@@ -1,7 +1,7 @@
 ---
 title: Stefano Cecere
 superuser: true
-role: R&D in Games, Technology, Education and Philosophy for social innovation
+role: R&D in Learning Games, Technology, Education and Philosophy for social innovation
 # Game Based Learning R&D, Educator, Musician
 # Humanist AI+XR+EdTech+Video Games, Educator and Author
 
@@ -85,11 +85,28 @@ highlight_name: false
 
 # Condividere il proprio meglio è un buon modo per costruire l'_Intelligenza Collettiva_ di cui abbiamo disperatamente bisogno, e ispirare altri a fare lo stesso è ancora meglio.
 ---
-<br>
-
-Ciao, mi chiamo Stefano Cecere e sono un appassionato ricercatore e condivisore.  
-Creo contenuti che possano aiutare a imparare le nuove tecnologie, la creatività e sopravvivere alla complessità del mondo in cui viviamo insieme ai nostri figli.
+Ciao, mi chiamo Stefano Cecere e sono appassionato dell'arte di **imparare** e **creare**.  
+Creo contenuti che possano aiutare a capire le **nuove tecnologie**, sviluppare la **creatività** e sopravvivere alla **complessità** del mondo in cui viviamo insieme ai nostri **figli**.
 
 Questo sito è molto ampio, ecco le sezioni principali:
 
-{{< site-toc >}}
+{{< rawhtml >}}
+<div class="row">
+<div class="col-md">
+    <h3><a href="/played">PlayED</a></h3>
+    la guida al giocare bene, imparare insieme
+    <h3><a href="/played">Jamurr</a></h3>
+    giochi creati dai ragazzi in jam con i genitori
+    <h3><a href="/about/stefano">Mi presento</a></h3>
+    se non mi conosci già
+</div>
+<div class="col-md">
+    <h3><a href="/about/consulting">Consulenze</a></h3>
+    se hai un progetto interessante
+    <h3><a href="https://t.me/scecere">Telegram</a></h3>
+    il mio canale per aggiornamenti
+    <h3><a href="https://cecere.substack.com/subscribe">Newsletter</a></h3>
+    ogni settimana nella tua email
+</div>
+</div>
+{{< /rawhtml >}}
