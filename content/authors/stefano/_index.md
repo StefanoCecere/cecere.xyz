@@ -98,11 +98,11 @@ Questo sito è molto ampio, ecco le sezioni principali:
     <h3><a href="/played">Jamurr</a></h3>
     giochi creati dai ragazzi in jam con i genitori
     <h3><a href="/about/stefano">Mi presento</a></h3>
-    se non mi conosci già
+    chi sono? dove vado? perché?
 </div>
 <div class="col-md">
-    <h3><a href="/about/consulting">Consulenze</a></h3>
-    se hai un progetto interessante
+    <h3><a href="/about/stefano/consulting">Consulenze</a></h3>
+    per validi progetti commerciali
     <h3><a href="https://t.me/scecere">Telegram</a></h3>
     il mio canale per aggiornamenti
     <h3><a href="https://cecere.substack.com/subscribe">Newsletter</a></h3>
