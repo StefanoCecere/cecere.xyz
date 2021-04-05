@@ -34,3 +34,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects: [antura]
 ---
+
+questo è parte di disegno fatto dal vivo durante la mia presentazione:
+![](antura-wud-diagram.jpg)
