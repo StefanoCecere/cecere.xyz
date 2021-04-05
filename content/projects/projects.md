@@ -33,8 +33,10 @@ content:
     tag: 'music'
   - name: Game
     tag: 'game'
+  - name: Multimedia
+    tag: 'dev'
   - name: Web
-    tag: 'web'
+    tag: 'webdev'
   - name: Social
     tag: 'social'
   - name: Corsi

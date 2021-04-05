@@ -1,7 +1,7 @@
 ---
 title: "The World March for Peace and Nonviolence"
 summary: la Marcia Mondiale per la Pace e la Nonviolenza
-tags: [social, site, MovimentoUmanista, Nonviolenza]
+tags: [social, music, webdev, MovimentoUmanista, Nonviolenza]
 categories: []
 date: 2010-01-27T00:00:00
 external_link: ""
@@ -23,4 +23,7 @@ sito: <http://www.theworldmarch.org>
 ah: già che c'era ho composto e prodotto alcune musiche tra qui quella dello spot ufficiale
 
 {{< youtube TyzhJUJfNF0>}}
+
+ecco alcune immagini dei siti e delle attività:
+{{< gallery "gallery" >}}
 

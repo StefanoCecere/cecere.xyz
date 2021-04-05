@@ -2,7 +2,7 @@
 title: "Augmented Reality apps"
 summary: "training, marketing and simulation"
 authors: []
-tags: [unity,work]
+tags: [dev, unity, work]
 categories: ["work"]
 date: 2013-09-02
 external_link: ""

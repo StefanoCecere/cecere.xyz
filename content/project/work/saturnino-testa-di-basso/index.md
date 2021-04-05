@@ -1,7 +1,7 @@
 ---
 title: Saturnino - Testa di Basso CD-ROM
 summary: An example of using the in-built project page.
-tags: [multimedia,game,work]
+tags: [dev,multimedia,work]
 date: "1995-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

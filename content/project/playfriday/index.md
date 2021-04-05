@@ -2,7 +2,7 @@
 title: "PlayFriday"
 summary: "le nuove generazioni in gioco il venerdì sera"
 authors: []
-tags: ["games", "kids"]
+tags: [game, social, "games", "kids"]
 categories: []
 date: 2019-10-21
 external_link: ""
@@ -16,13 +16,7 @@ url_slides: ""
 url_video: ""
 slides: ""
 toc : true
-type: docs
-menu:
-  giochi:
 ---
-
-{{< gallery album="gallery" >}}
-
 E’ da ottobre 2019 che tutti i venerdì tardo pomeriggio si ritrova un gruppo di ragazzi (età media 9-12) a giocare esclusivamente giochi di società e da tavolo: il PlayFriday.
 
 C'è sempre almeno un genitore ad accompagnarli, ma l’idea e l’intento è che i ragazzi imparino ad essere sempre più indipendenti sia nell'organizzazione che nel giocare.  
@@ -47,6 +41,9 @@ Lo so purtroppo gli spazi ricreativi pubblici di quartiere scarseggiano.. ma è 
 Il ritrovo è dalle 18:00 quando aprono i ragazzi (io di solito arrivo più tardi). Alle 20:30 si cena e si riprende alle 21:30.
 I genitori accompagnatori sono sempre benvenuti a giocare con i ragazzi o tra di loro. Basta un adulto responsabile per badare alla banda. Ottimo se poi faccia da facilitatore introducendo un gioco alla settimana.
 Ultimamente sono i ragazzi stessi a portare i loro giochi preferiti: io li invito a studiarsi bene le istruzioni così da imparare a spiegarle agli amici.
+
+
+{{< gallery album="gallery" >}}
 
 ## Giochi giocati
 Elenco qui tutti giochi che i ragazzi hanno provato con qualche mio commento così da aiutarvi a scoprire un po’ questo bellissimo mondo. 

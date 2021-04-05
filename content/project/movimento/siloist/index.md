@@ -2,7 +2,7 @@
 title: "Silo.ist"
 summary: "il sito opensource con tutte le opere di Silo - Mario Rodriguez Cobos"
 authors: []
-tags: [social, web, NuovoUmanesimo]
+tags: [social, webdev, web, NuovoUmanesimo]
 categories: ["Media"]
 date: 2012-01-27
 
@@ -16,7 +16,7 @@ links:
 
 ---
 
-The https://siloist.github.io/ website.
+The <https://siloist.github.io/> website.
 The purpose of this project is to collect all Silo's work, reformat them in markdown texts with good metadata, and publish it for free, permanent accessibility.
 
 ## Silo
