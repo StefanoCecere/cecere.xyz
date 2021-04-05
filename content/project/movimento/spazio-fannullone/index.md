@@ -16,8 +16,12 @@ url_video: ""
 slides: ""
 ---
 
-dal 2005 al 2008 abbiamo ristrutturato un magazzino a Monza, in via Borgazzi, per trasformarlo nella nostra seconda casa: lo "spazio" Fannullon... un centro ricreativo, sociale, culturale, politico.
+UNO SPAZIO PER RITROVARSI
+nel 2005 a Monza, con Marco Stegani e amici affittammo un magazzino e lo trasformammo in un luogo speciale: uno spazio sociale, culturale, politico, ricreativo, umanista.
+lo chiamammo "Spazio Fannullone" perché editavamo la rivista Il Fannullone, appunto. 
 
-sono davvero tante le attività che vi abbiamo organizzato.
+per diversi anni è stato il punto di riferimento per mille attività e riunioni (dove riunione è anche una super cena sushi dopo aver comprato un salmone intero alla Metro 🙂 .. ecco alcune [foto su Flickr](https://www.flickr.com/photos/krur/albums/72157716208608012)
+
+purtroppo le circostanze ci portarono a chiuderlo nel 2009, ma penso che oggi più che mai abbiamo bisogno di luoghi del genere: spazi dove ritrovarsi.
 
 {{< gallery "gallery" >}}
