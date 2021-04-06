@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-10-10T01:49:52Z
 guid: http://stefanocecere.com/2006/10/10/molti-musicisti-appoggiano-lo-spot-di-silo-per-il-disarmo-nucleare/

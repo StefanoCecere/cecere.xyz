@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-12-04T10:50:16Z
 guid: http://stefanocecere.com/2006/12/04/ciao-roberto-e-laura/

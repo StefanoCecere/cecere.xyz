@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-08-26T23:54:04Z
 guid: http://stefanocecere.com/2006/08/26/silvio-berlusconi-e-litalia-cattollica-degli-italiani/

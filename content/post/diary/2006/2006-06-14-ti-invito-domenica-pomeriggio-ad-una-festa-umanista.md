@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-06-14T01:29:48Z
 guid: http://stefanocecere.com/2006/06/14/ti-invito-domenica-pomeriggio-ad-una-festa-umanista/

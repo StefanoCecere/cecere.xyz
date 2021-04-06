@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-10-27T03:54:20Z
 guid: http://stefanocecere.com/2005/10/27/fannullone-bubu7te/

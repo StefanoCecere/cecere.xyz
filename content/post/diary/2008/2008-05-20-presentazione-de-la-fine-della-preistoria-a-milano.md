@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-05-20T13:49:04Z
 guid: http://stefanocecere.com/2008/05/20/presentazione-de-%e2%80%9cla-fine-della-preistoria%e2%80%9d-a-milano/

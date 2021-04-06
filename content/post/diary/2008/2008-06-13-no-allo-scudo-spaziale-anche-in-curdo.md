@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-06-13T04:08:50Z
 guid: http://stefanocecere.com/2008/06/13/no-allo-scudo-spaziale-anche-in-curdo/

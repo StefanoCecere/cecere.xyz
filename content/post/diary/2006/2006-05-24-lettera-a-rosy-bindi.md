@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-05-24T16:08:39Z
 guid: http://stefanocecere.com/2006/05/24/lettera-al-rosy-bindi/

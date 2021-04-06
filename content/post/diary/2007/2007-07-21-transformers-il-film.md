@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-07-21T01:53:01Z
 guid: http://stefanocecere.com/2007/07/21/transformers-il-film/

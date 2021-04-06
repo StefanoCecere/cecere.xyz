@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-03-18T13:47:37Z
 guid: http://stefanocecere.com/2006/03/18/sta-arrivando-un-nuovo-vento-dal-sudamerica/

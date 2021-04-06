@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-05-15T14:20:52Z
 guid: http://stefanocecere.com/2006/05/15/incoerenza-o-coerenza/

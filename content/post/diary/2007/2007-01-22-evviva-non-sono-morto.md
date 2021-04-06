@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-01-22T15:46:31Z
 guid: http://stefanocecere.com/2007/01/22/evviva-non-sono-morto/

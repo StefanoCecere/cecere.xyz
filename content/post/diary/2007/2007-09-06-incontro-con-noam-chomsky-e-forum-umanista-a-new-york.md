@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-09-06T10:14:26Z
 guid: http://stefanocecere.com/2007/09/06/incontro-con-noam-chomsky-e-forum-umanista-a-new-york/

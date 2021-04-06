@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-07-26T01:48:30Z
 guid: http://stefanocecere.com/2006/07/26/gli-studenti-extracomunitari-francesi-sono-ora-a-rischio-espulsione/

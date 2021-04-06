@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Terra 2.0
 date: 2015-04-30T10:08:38Z

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-06-03T10:29:00Z
 guid: http://stefanocecere.com/2006/06/03/11-settembre-matrix-e-la-massima-illusione/

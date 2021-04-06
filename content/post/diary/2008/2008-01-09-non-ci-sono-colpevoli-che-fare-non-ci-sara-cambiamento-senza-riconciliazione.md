@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-01-09T02:26:11Z
 guid: http://stefanocecere.com/2008/01/09/non-ci-sono-colpevoli-che-fare-non-ci-sara-cambiamento-senza-riconciliazione/

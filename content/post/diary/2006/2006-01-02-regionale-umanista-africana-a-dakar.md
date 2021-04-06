@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-01-02T09:35:04Z
 guid: http://stefanocecere.com/2006/01/02/regionale-umanista-africana-a-dakar/

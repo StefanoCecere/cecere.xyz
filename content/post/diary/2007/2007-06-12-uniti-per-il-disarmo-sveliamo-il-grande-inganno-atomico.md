@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Tempi moderni
 date: 2007-06-12T09:38:29Z

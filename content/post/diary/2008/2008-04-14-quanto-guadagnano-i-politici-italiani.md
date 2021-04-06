@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-04-14T11:32:22Z
 guid: http://stefanocecere.com/2008/04/14/quanto-guadagnano-i-politici-italiani/

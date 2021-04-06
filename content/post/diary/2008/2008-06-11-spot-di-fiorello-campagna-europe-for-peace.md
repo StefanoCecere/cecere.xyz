@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-06-11T14:05:39Z
 guid: http://stefanocecere.com/2008/06/11/spot-di-fiorello-campagna-europe-for-peace/

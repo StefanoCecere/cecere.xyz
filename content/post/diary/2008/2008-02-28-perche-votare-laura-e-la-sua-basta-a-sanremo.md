@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-02-28T14:27:41Z
 guid: http://stefanocecere.com/2008/02/28/perche-votare-laura-e-la-sua-basta-a-sanremo/

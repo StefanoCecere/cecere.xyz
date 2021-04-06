@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-09-22T10:31:31Z
 guid: http://stefanocecere.com/2006/09/22/i-benefici-del-sesso/

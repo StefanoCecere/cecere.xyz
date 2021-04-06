@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-10-14T10:13:56Z
 guid: http://stefanocecere.com/2005/10/14/domani-il-futuro-si-puo-cambiare/

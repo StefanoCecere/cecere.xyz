@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-09-06T19:27:13Z
 guid: http://stefanocecere.com/2006/09/06/salviamo-un-essere-umano-dalla-morte/

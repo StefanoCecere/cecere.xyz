@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-03-28T16:59:22Z
 guid: http://stefanocecere.com/2008/03/28/in-libreria-la-fine-della-preistoria-di-tomas-hirsch/

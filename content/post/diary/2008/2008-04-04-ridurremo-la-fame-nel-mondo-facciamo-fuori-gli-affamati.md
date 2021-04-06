@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-04-04T09:04:09Z
 guid: http://stefanocecere.com/2008/04/04/ridurremo-la-fame-nel-mondo-facciamo-fuori-gli-affamati/

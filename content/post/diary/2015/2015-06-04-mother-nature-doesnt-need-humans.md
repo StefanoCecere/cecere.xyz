@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Filosofia
 date: 2015-06-04T11:46:09Z

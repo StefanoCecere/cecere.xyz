@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-03-24T10:24:00Z
 guid: http://stefanocecere.com/2006/03/24/stiamo-accendendo-la-piu-grande-macchina-del-mondo/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-11-27T05:51:21Z
 guid: http://stefanocecere.com/2005/11/27/firenze-mon-amour-sto-arrivando/

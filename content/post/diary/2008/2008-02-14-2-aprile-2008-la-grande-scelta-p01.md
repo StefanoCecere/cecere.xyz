@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-02-14T02:35:31Z
 guid: http://stefanocecere.com/2008/02/14/2-aprile-2008-la-grande-scelta-p01/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Tweets
 date: 2013-04-17T09:45:10Z

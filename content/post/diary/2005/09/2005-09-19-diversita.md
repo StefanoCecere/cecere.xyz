@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-09-19T23:24:55Z
 guid: http://stefanocecere.com/2005/09/19/diversita/

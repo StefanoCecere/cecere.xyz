@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-09-22T12:19:37Z
 guid: http://stefanocecere.com/2005/09/22/anche-loro-sono-terroristi/

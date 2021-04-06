@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-08-29T14:59:50Z"
 enclosure:

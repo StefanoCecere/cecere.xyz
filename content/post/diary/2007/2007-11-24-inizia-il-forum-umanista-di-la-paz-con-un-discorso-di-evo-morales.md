@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-11-24T17:28:55Z
 guid: http://stefanocecere.com/2007/11/24/inizia-il-forum-umanista-di-la-paz-con-un-discorso-di-evo-morales/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-02T14:36:20Z
 guid: http://stefanocecere.com/2005/12/02/metti-in-gioco-la-nonviolenza/

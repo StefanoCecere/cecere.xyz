@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-09-12T10:28:33Z
 guid: http://stefanocecere.com/2005/09/13/festa-del-volontariato-per-te-per-me/

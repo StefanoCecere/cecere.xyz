@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-04-02T20:37:49Z
 guid: http://stefanocecere.com/2008/04/02/massima-solidarieta-a-paolo-barnard/

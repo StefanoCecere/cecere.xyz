@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-01-20T02:54:46Z
 guid: http://stefanocecere.com/2006/01/20/una-mia-passione-typo3-e-lopensource/

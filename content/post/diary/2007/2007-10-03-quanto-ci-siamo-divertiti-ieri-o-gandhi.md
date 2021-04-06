@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-10-03T14:04:03Z
 guid: http://stefanocecere.com/2007/10/03/quanto-ci-siamo-divertiti-ieri-o-gandhi/

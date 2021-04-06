@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-06-04T11:51:48Z
 guid: http://stefanocecere.com/2008/06/04/europe-4-peace-francesco-sarcina/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-10-21T09:43:37Z
 guid: http://stefanocecere.com/2005/10/21/un-po-di-pillole-mattutine/

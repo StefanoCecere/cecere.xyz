@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-01-06T11:32:06Z
 guid: http://stefanocecere.com/2008/01/06/sullazione-valida/

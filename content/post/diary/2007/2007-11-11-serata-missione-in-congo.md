@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-11-11T03:58:24Z
 guid: http://stefanocecere.com/2007/11/12/serata-missione-in-congo/

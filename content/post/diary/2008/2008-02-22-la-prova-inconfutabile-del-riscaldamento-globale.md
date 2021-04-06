@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-02-22T02:05:17Z
 guid: http://stefanocecere.com/2008/02/22/la-prova-inconfutabile-del-riscaldamento-globale/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-31T14:39:10Z
 guid: http://stefanocecere.com/2005/12/31/lanno-della-iena/

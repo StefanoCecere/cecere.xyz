@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-03-01T11:26:55Z
 guid: http://stefanocecere.com/2006/03/01/concentrazione-e-deconcentrazione/

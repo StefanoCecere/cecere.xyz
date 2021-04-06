@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-05-30T08:51:36Z
 guid: http://stefanocecere.com/2008/05/30/video-attivita-no-star-wars-a-firenze/

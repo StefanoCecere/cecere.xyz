@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-07-07T23:33:56Z
 guid: http://stefanocecere.com/2007/07/07/video-di-unp-spettacolo-incredibile/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Uncategorized
 date: 2008-04-30T08:39:11Z

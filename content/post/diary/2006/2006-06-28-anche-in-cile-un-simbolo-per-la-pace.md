@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-06-28T10:56:00Z
 guid: http://stefanocecere.com/2006/06/28/anche-in-cile-un-simbolo-per-la-pace/

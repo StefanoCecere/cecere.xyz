@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-10-06T18:30:35Z
 guid: http://stefanocecere.com/2005/10/06/mircea-eliade-un-maestro/

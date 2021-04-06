@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-11T11:10:45Z
 guid: http://stefanocecere.com/2005/12/11/elezioni-in-cile-tre-uomini-e-una/

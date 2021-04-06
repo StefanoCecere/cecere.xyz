@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-07-20T03:14:06Z
 guid: http://stefanocecere.com/2006/07/20/beirut-il-disarmo-nucleare-e-onorevole-paolo-cacciari/

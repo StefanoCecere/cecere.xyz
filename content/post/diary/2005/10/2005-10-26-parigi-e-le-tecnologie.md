@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-10-26T16:07:50Z
 guid: http://stefanocecere.com/2005/10/26/parigi-e-le-tecnologie/

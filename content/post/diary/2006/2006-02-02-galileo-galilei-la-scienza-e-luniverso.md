@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-02-02T11:04:43Z
 guid: http://stefanocecere.com/2006/02/02/galileo-galilei-la-scienza-e-luniverso/

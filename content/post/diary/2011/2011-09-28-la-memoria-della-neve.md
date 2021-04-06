@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2011-09-28T02:40:45Z
 guid: http://stefanocecere.com/2011/09/28/la-memoria-della-neve/

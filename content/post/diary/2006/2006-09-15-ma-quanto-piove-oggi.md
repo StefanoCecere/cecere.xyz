@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-09-15T10:53:47Z
 guid: http://stefanocecere.com/2006/09/15/ma-quanto-piove-oggi/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-12-16T16:56:17Z
 guid: http://stefanocecere.com/2006/12/16/il-fannullone-xiii/

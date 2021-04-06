@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-09-21T12:20:36Z
 guid: http://stefanocecere.com/2005/09/22/fannullone-sei/

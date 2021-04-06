@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-09T00:39:13Z
 guid: http://stefanocecere.com/2005/12/09/una-festa-per-gli-umanisti-e-i-volontari/

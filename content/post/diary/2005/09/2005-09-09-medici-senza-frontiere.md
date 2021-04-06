@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-09-09T12:04:55Z
 guid: http://stefanocecere.com/2005/09/09/medici-senza-frontiere/

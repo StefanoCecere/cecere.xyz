@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-09-25T23:57:26Z
 guid: http://stefanocecere.com/2006/09/25/silo-un-uomo-veramente-straordinario/

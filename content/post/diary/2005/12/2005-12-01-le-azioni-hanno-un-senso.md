@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-01T07:54:08Z
 guid: http://stefanocecere.com/2005/12/01/le-azioni-hanno-un-senso/

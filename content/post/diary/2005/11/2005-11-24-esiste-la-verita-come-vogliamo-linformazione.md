@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 tags: [Futuro]
 date: 2005-11-24T10:19:01Z

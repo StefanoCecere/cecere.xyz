@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-04-10T15:21:43Z
 guid: http://stefanocecere.com/2008/04/10/perche-da-umanista-voto-per-il-bene-comune/

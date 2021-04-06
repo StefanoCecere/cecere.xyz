@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-13T10:08:52Z
 guid: http://stefanocecere.com/2005/12/13/commenti-dalla-val-di-susa/

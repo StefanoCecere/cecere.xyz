@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Futuro
 date: 2011-11-07T13:54:40Z

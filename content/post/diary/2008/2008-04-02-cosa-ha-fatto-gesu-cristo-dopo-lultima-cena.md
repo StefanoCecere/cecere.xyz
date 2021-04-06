@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-04-02T09:07:53Z
 guid: http://stefanocecere.com/2008/04/02/cosa-ha-fatto-gesu-cristo-dopo-lultima-cena/

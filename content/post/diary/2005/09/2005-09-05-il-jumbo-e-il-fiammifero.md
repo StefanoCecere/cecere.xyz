@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-09-05T12:36:44Z
 guid: http://stefanocecere.com/2005/09/05/il-jumbo-e-il-fiammifero/

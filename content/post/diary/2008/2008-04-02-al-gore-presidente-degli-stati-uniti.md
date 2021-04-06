@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-04-02T20:32:37Z
 guid: http://stefanocecere.com/2008/04/02/al-gore-presidente-degli-stati-uniti/

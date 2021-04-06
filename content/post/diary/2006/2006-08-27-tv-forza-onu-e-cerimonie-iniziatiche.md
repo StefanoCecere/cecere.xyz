@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-08-27T07:03:37Z
 guid: http://stefanocecere.com/2006/08/27/tv-forza-onu-e-cerimonie-iniziatiche/

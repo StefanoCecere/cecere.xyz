@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-12-18T03:37:48Z
 guid: http://stefanocecere.com/2007/12/18/evo-morales-non-sono-ne-di-destra-ne-di-sinistra-sono-umanista/

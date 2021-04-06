@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-03-14T08:54:40Z
 guid: http://stefanocecere.com/2008/03/14/sai-cosa-sta-sucedendo-la-fuori-dollaro-a-picco-petrolio-alle-stelle-fallimento-dei-grandi-sistemi/

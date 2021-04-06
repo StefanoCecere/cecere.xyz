@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-05-05T09:29:12Z
 guid: http://stefanocecere.com/2006/05/05/il-cieco-e-il-pubblicitario/

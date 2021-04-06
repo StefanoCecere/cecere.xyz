@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - diary
 date: 2005-11-18T08:37:43Z

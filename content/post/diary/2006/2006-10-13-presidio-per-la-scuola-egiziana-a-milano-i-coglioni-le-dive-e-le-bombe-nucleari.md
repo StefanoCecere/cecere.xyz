@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-10-13T15:50:40Z
 guid: http://stefanocecere.com/2006/10/13/presidio-per-la-scuola-egiziana-a-milano-i-coglioni-le-dive-e-le-bombe-nucleari/

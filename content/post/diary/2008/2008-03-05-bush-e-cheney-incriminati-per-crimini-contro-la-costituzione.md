@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-03-05T09:51:23Z
 guid: http://stefanocecere.com/2008/03/05/bush-e-cheney-incriminati-per-crimini-contro-la-costituzione/

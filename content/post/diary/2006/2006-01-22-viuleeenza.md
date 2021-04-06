@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-01-22T12:27:04Z
 guid: http://stefanocecere.com/2006/01/22/viuleeenza/

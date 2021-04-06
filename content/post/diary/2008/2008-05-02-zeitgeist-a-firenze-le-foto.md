@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-05-02T12:42:58Z
 guid: http://stefanocecere.com/2008/05/02/zeitgeist-a-firenze-le-foto/

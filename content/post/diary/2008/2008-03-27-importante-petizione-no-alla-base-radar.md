@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-03-27T07:58:45Z
 guid: http://stefanocecere.com/2008/03/27/importante-petizione-no-alla-base-radar/

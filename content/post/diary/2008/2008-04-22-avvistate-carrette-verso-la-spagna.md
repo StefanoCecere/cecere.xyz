@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-04-22T17:00:08Z
 guid: http://stefanocecere.com/2008/04/22/avvistate-carrette-verso-la-spagna/

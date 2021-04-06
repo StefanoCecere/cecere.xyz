@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-06-15T11:32:40Z
 guid: http://stefanocecere.com/2006/06/15/agosto-2006-tutti-in-campeggio/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-01-28T10:16:30Z
 guid: http://stefanocecere.com/2008/01/28/ma-quanta-droga-ce-nellaria/

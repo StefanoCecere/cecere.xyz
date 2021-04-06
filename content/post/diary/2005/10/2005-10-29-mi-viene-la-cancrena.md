@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-10-29T14:45:18Z
 guid: http://stefanocecere.com/2005/10/29/mi-viene-la-cancrena/

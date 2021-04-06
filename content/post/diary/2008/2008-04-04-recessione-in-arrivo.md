@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-04-04T11:53:00Z
 guid: http://stefanocecere.com/2008/04/04/recessione-in-arrivo/

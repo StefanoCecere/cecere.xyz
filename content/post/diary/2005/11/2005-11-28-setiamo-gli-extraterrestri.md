@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-11-28T12:33:16Z
 guid: http://stefanocecere.com/2005/11/28/setiamo-gli-extraterrestri/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Mondo Senza Guerre
 date: 2009-07-10T09:33:32Z

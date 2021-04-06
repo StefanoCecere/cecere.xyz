@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-06-14T08:23:52Z
 guid: http://stefanocecere.com/2008/06/14/una-marcia-mondiale-per-la-pace-e-la-nonviolenza/

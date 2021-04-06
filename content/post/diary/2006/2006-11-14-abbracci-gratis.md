@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-11-14T12:42:54Z
 guid: http://stefanocecere.com/2006/11/14/abbracci-gratis/

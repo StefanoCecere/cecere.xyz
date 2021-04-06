@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-11-05T17:26:29Z
 guid: http://stefanocecere.com/2005/11/05/pronti-per-la-prossima-guerra-in-iran/

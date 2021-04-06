@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-11-22T11:11:38Z
 guid: http://stefanocecere.com/2005/11/22/sabato-26-a-monza-via-dalliraq/

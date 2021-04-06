@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Tecnologia
 date: 2011-10-10T04:07:01Z

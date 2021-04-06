@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - JJ
 date: 2015-02-05T06:05:24Z

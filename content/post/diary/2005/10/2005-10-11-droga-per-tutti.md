@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-10-11T09:06:03Z
 guid: http://stefanocecere.com/2005/10/11/droga-per-tutti/

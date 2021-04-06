@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-11-03T10:50:48Z
 guid: http://stefanocecere.com/2005/11/03/giovani-belle-cantanti-naziste/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-09-30T22:20:15Z
 guid: http://stefanocecere.com/2005/09/30/la-potenza-delle-donne/

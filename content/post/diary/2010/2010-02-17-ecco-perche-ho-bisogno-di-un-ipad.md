@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Smile
 date: 2010-02-17T10:16:13Z

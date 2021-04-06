@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-03-24T09:02:45Z
 guid: http://stefanocecere.com/2008/03/24/primavera/

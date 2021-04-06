@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2011-09-28T02:32:32Z
 guid: http://stefanocecere.com/2011/09/28/larte-dellapparenza/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-10-07T10:32:45Z
 guid: http://stefanocecere.com/2005/10/07/campagna-nazionale-il-futuro-si-puo-cambiare/

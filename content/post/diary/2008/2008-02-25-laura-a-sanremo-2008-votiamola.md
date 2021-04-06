@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-02-25T02:24:37Z
 guid: http://stefanocecere.com/2008/02/25/laura-a-sanremo-2008-votiamola/

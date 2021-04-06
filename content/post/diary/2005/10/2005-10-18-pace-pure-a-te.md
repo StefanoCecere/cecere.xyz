@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-10-18T17:31:41Z
 guid: http://stefanocecere.com/2005/10/18/pace-pure-a-te/

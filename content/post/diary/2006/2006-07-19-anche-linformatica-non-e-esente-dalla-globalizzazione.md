@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-07-19T10:58:22Z
 guid: http://stefanocecere.com/2006/07/19/anche-linformatica-non-e-esente-dalla-globalizzazione/

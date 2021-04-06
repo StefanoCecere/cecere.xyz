@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Spirito
 - Tempi moderni

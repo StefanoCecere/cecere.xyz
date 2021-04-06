@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-11-10T02:36:35Z
 guid: http://stefanocecere.com/2007/11/10/nokia-n95-8gb-e-osx-leopard-isync/

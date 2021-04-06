@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-06-02T13:10:27Z
 guid: http://stefanocecere.com/2008/06/02/servizio-su-no-radar-sul-tg3-piemonte/

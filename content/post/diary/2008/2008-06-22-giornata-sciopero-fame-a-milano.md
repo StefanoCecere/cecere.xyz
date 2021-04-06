@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Eventi
 date: 2008-06-22T20:25:36Z

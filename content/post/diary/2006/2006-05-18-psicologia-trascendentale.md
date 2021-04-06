@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-05-18T19:58:10Z
 guid: http://stefanocecere.com/2006/05/18/psicologia-trascendentale/

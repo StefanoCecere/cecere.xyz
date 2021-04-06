@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-07-04T01:12:32Z
 guid: http://stefanocecere.com/2007/07/04/sesso-o-guerra/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-10-05T09:09:45Z
 guid: http://stefanocecere.com/2006/10/05/non-sei-una-meteora-che-cade-ma-una-freccia-luminosa-che-vola-verso-i-cieli/

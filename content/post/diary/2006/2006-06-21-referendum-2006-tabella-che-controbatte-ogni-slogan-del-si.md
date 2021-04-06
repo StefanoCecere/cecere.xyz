@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-06-21T11:11:30Z
 guid: http://stefanocecere.com/2006/06/21/referendum-2006-tabella-che-controbatte-ogni-slogan-del-si/

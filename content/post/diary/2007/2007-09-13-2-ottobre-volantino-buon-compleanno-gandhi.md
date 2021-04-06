@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-09-13T09:20:49Z
 guid: http://stefanocecere.com/2007/09/13/2-ottobre-volantino-buon-compleanno-gandhi/

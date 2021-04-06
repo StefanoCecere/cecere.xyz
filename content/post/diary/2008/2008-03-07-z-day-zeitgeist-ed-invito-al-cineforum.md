@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-03-07T19:19:30Z
 guid: http://stefanocecere.com/2008/03/07/z-day-zeitgeist-ed-invito-al-cineforum/

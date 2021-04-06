@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-05T02:15:27Z
 guid: http://stefanocecere.com/2005/12/05/la-violenza-ce-labbiamo-in-casa/

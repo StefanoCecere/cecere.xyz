@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-11-23T01:30:22Z
 guid: http://stefanocecere.com/2005/11/23/reincarnazione-il-senso-della-vita-e-i-monty-phyton/

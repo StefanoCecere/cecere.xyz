@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-09-28T22:24:29Z
 guid: http://stefanocecere.com/2005/09/30/lautocensura/

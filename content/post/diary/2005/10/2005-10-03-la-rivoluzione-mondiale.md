@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-10-03T15:11:00Z
 guid: http://stefanocecere.com/2005/10/03/la-rivoluzione-mondiale/

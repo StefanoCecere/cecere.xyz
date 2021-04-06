@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-04-07T00:20:42Z
 guid: http://stefanocecere.com/2008/04/07/simposio-internazionale-l%e2%80%99etica-nella-conoscenza/

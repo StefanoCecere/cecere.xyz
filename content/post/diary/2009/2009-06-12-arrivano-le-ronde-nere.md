@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2009-06-12T15:46:14Z
 guid: http://stefanocecere.com/2009/06/12/arrivano-le-ronde-nere/

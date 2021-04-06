@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2010-04-06T17:49:53Z
 guid: http://stefanocecere.com/2010/04/06/esseri-umani-giorgio-ambrosoli/

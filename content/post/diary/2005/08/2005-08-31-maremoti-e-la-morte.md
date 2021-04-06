@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-08-31T10:07:03Z
 guid: http://stefanocecere.com/2005/08/31/maremoti-e-la-morte/

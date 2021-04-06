@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-09-16T01:35:20Z
 guid: http://stefanocecere.com/2005/09/16/acqua-acqua/

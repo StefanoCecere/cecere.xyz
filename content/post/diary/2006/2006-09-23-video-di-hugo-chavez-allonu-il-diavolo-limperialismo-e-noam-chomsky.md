@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-09-23T13:27:42Z
 guid: http://stefanocecere.com/2006/09/23/video-di-hugo-chavez-allonu-il-diavolo-limperialismo-e-noam-chomsky/

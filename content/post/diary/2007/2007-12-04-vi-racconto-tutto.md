@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-12-04T07:17:49Z
 guid: http://stefanocecere.com/2007/12/04/vi-racconto-tutto/

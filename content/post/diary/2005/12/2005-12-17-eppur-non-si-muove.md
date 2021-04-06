@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-17T10:52:06Z
 guid: http://stefanocecere.com/2005/12/17/eppur-non-si-muove/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-02-29T04:03:35Z
 guid: http://stefanocecere.com/2008/02/29/laura-e-rezophonic-a-sanremo-con-basta/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-03-29T09:23:51Z
 guid: http://stefanocecere.com/2008/03/29/consegnate-al-parlamento-italiano-le-firme-della-campagna-un-futuro-senza-atomiche/

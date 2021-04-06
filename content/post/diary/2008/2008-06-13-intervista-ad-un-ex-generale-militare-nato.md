@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-06-13T04:59:24Z
 guid: http://stefanocecere.com/2008/06/13/intervista-ad-un-ex-generale-militare-nato/

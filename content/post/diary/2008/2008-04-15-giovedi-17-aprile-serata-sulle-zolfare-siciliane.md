@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-04-15T14:03:44Z
 guid: http://stefanocecere.com/2008/04/15/giovedi-17-aprile-serata-sulle-zolfare-siciliane/

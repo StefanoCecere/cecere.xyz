@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-26T01:37:34Z
 guid: http://stefanocecere.com/2005/12/26/il-sacrificio-e-lo-tsunami/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-06-13T16:02:12Z
 guid: http://stefanocecere.com/2008/06/13/rezophonic-per-europe-for-peace-e-no-allo-scudo-spaziale/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-06-04T21:09:24Z
 guid: http://stefanocecere.com/2006/06/04/codice-da-vinci-cosa-mi-e-piaciuto/

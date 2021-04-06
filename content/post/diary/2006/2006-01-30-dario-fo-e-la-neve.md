@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-01-30T10:58:25Z
 guid: http://stefanocecere.com/2006/01/30/dario-fo-e-la-neve/

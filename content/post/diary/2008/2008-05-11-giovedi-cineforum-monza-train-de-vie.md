@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-05-11T21:52:34Z
 guid: http://stefanocecere.com/2008/05/11/giovedi-cineforum-monza-train-de-vie/

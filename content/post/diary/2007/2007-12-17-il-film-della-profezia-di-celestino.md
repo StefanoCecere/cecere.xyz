@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-12-17T22:01:58Z
 guid: http://stefanocecere.com/2007/12/17/il-film-della-profezia-di-celestino/

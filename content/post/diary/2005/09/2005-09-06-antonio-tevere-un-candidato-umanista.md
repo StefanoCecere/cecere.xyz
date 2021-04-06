@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-09-06T09:12:23Z"
 excerpt: L'Uomo al centro dei programmi

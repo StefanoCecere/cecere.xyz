@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Politica
 - Terra 2.0

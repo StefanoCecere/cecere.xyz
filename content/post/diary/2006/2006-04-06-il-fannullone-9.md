@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-04-06T00:20:01Z
 guid: http://stefanocecere.com/2006/04/06/il-fannullone-9/

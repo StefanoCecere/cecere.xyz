@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Economia
 date: 2012-01-25T19:31:07Z

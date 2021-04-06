@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-06-02T17:55:37Z
 guid: http://stefanocecere.com/2008/06/02/francesco-sarcina-delle-vibrazioni-appoggia-la-campagna/

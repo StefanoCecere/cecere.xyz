@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-04-07T16:50:51Z
 guid: http://stefanocecere.com/2008/04/07/maronna-che-schifo-4-minuti-di-madonna/

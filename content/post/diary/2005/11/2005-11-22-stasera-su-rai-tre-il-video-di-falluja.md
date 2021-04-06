@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-11-22T19:32:03Z
 guid: http://stefanocecere.com/2005/11/22/stasera-su-rai-tre-il-video-di-falluja/

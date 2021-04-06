@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-09-16T02:37:56Z
 guid: http://stefanocecere.com/2006/09/16/video-per-un-mondo-senza-guerre/

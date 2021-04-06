@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-11-07T02:20:43Z
 guid: http://stefanocecere.com/2007/11/07/continuano-i-banchini-raccolta-firme-anti-nucleare/

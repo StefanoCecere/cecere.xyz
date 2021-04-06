@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-15T13:05:28Z
 guid: http://stefanocecere.com/2005/12/15/il-pi-bel-campo-di-gioco-col-grande-fratello/

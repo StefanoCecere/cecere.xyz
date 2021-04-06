@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-08-26T12:31:19Z
 guid: http://stefanocecere.com/2005/08/26/fare-qualcosa/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-09-14T03:57:09Z
 guid: http://stefanocecere.com/2005/09/14/in-marcia-verso-la-pace/

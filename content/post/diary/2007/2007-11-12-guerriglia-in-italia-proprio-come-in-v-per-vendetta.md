@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-11-12T03:01:12Z
 guid: http://stefanocecere.com/2007/11/12/guerriglia-in-italia-proprio-come-in-v-per-vendetta/

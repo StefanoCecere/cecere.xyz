@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-10-31T23:33:19Z
 guid: http://stefanocecere.com/2005/10/31/tutto-quello-che-sai-e-falso/

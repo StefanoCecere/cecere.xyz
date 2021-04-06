@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-03-19T06:37:02Z
 guid: http://stefanocecere.com/2008/03/19/qualche-consiglio-per-prepararsi-allimminente-recessione/

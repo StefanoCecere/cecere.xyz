@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-11-22T00:24:50Z
 guid: http://stefanocecere.com/2007/11/22/lanterna-di-fuoco-da-brooklyng/

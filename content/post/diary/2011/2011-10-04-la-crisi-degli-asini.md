@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2011-10-04T15:26:03Z
 guid: http://stefanocecere.com/2011/10/04/la-crisi-degli-asini/

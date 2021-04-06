@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Politica
 date: 2009-06-14T12:18:00Z

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-09-01T12:37:47Z
 guid: http://stefanocecere.com/2005/09/01/fare-attenzione/

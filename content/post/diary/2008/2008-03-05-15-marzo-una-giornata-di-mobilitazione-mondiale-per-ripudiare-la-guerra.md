@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-03-05T12:21:09Z
 guid: http://stefanocecere.com/2008/03/05/15-marzo-una-giornata-di-mobilitazione-mondiale-per-ripudiare-la-guerra/

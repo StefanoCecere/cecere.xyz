@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-17T08:37:20Z
 guid: http://stefanocecere.com/2005/12/17/oggi-poche-parole-azione/

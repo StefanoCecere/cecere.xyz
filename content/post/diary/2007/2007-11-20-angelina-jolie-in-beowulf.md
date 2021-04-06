@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-11-20T21:17:30Z
 guid: http://stefanocecere.com/2007/11/20/angelina-jolie-in-beowulf/

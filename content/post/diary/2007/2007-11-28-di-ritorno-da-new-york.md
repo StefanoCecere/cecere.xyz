@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-11-28T23:59:01Z
 guid: http://stefanocecere.com/2007/11/28/di-ritorno-da-new-york/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-02-07T18:56:26Z
 guid: http://stefanocecere.com/2008/02/07/il-parco-sta-crescendo/

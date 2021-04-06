@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Spirito
 date: 2011-08-21T22:08:46Z

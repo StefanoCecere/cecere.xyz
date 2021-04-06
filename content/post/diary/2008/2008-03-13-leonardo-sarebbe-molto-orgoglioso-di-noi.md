@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-03-13T09:34:38Z
 guid: http://stefanocecere.com/2008/03/13/leonardo-sarebbe-molto-orgoglioso-di-noi/

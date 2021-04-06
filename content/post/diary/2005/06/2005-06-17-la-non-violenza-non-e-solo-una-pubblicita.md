@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-06-17T09:00:57Z
 guid: http://stefanocecere.com/?p=22

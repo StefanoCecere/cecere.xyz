@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-11-19T13:56:53Z
 guid: http://stefanocecere.com/2005/11/19/ringrazio/

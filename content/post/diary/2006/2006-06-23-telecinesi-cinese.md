@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-06-23T10:45:58Z
 guid: http://stefanocecere.com/2006/06/23/telecinesi-cinese/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-03-20T18:07:35Z
 guid: http://stefanocecere.com/2008/03/20/avanzamenti-del-parco-di-attigliano/

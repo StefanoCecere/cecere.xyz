@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-11-02T18:57:34Z
 guid: http://stefanocecere.com/2005/11/02/benigni-tigre-innevata/

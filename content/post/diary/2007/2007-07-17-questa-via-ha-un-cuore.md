@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-07-17T00:16:36Z
 guid: http://stefanocecere.com/2007/07/17/questa-via-ha-un-cuore/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Scienza
 date: 2015-04-22T09:41:38Z

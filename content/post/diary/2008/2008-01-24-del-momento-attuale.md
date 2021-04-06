@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-01-24T12:23:17Z
 guid: http://stefanocecere.com/2008/01/24/del-momento-attuale/

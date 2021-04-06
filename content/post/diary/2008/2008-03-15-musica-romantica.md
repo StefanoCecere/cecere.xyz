@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-03-15T18:21:38Z
 guid: http://stefanocecere.com/2008/03/15/musica-romantica/

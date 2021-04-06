@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-12-09T03:43:50Z
 guid: http://stefanocecere.com/2006/12/09/alzo-lo-sguardo-al-cielo-e-lascio-che-le-stelle/

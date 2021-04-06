@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-09-28T02:35:35Z
 guid: http://stefanocecere.com/2007/09/28/2-ottobre-coloriamo-monza-con-la-nonviolenza/

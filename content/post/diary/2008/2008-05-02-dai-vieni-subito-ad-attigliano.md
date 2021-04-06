@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-05-02T13:02:45Z
 guid: http://stefanocecere.com/2008/05/02/dai-vieni-subito-ad-attigliano/

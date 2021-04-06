@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-01-13T15:10:39Z
 guid: http://stefanocecere.com/2008/01/13/persepolis-bush-e-iran/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-09-25T10:11:05Z
 guid: http://stefanocecere.com/2005/09/25/le-piccole-soddisfazione-con-google/

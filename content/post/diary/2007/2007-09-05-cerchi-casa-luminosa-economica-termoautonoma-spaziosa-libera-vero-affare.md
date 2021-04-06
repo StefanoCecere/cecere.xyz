@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-09-05T20:29:39Z
 guid: http://stefanocecere.com/2007/09/05/cerchi-casa-luminosa-economica-termoautonoma-spaziosa-libera-vero-affare/

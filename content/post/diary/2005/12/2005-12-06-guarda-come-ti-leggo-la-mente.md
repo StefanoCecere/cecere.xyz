@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-06T00:50:13Z
 guid: http://stefanocecere.com/2005/12/06/guarda-come-ti-leggo-la-mente/

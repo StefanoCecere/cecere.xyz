@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-08-01T09:03:08Z
 guid: http://stefanocecere.com/2007/08/01/video-attivita-umaniste-amici-di-milano/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-02-19T18:19:32Z
 guid: http://stefanocecere.com/2008/02/19/larte-della-finzione/

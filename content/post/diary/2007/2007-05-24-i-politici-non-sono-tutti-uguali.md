@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-05-24T10:14:34Z
 guid: http://stefanocecere.com/2007/05/24/i-politici-non-sono-tutti-uguali/

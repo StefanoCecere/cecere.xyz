@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-06-05T16:59:28Z
 guid: http://stefanocecere.com/2008/06/05/nuova-sito-per-wwwnonviolenzanet/

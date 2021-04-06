@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-10-03T10:15:44Z
 guid: http://stefanocecere.com/2006/10/03/come-stanno-andando-le-cose/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-04-18T11:42:44Z
 guid: http://stefanocecere.com/2008/04/18/dare-a-chi-da/

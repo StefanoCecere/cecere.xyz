@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-10-09T23:55:19Z
 guid: http://stefanocecere.com/2007/10/09/praga-new-york-e-la-paz/

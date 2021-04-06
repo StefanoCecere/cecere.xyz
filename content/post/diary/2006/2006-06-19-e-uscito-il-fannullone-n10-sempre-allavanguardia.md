@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-06-19T02:10:26Z
 guid: http://stefanocecere.com/2006/06/19/e-uscito-il-fannullone-n10-sempre-allavanguardia/

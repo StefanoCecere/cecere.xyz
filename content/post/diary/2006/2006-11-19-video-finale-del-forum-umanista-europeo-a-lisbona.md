@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-11-19T18:20:01Z
 guid: http://stefanocecere.com/2006/11/19/video-finale-del-forum-umanista-europeo-a-lisbona/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-11-05T10:18:54Z
 guid: http://stefanocecere.com/2005/11/05/hermes-il-messaggero-degli-dei/

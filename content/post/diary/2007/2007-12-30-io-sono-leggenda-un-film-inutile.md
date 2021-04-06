@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-12-30T10:49:29Z
 guid: http://stefanocecere.com/2007/12/30/io-sono-leggenda-un-film-inutile/

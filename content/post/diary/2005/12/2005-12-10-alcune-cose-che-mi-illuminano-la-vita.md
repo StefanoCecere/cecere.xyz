@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-10T11:03:12Z
 guid: http://stefanocecere.com/2005/12/10/alcune-cose-che-mi-illuminano-la-vita/

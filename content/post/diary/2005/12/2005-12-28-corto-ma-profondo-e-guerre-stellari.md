@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-28T01:47:10Z
 guid: http://stefanocecere.com/2005/12/28/corto-ma-profondo-e-guerre-stellari/

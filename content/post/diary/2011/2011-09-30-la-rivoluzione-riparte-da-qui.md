@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2011-09-30T16:05:18Z
 guid: http://stefanocecere.com/2011/09/30/la-rivoluzione-riparte-da-qui/

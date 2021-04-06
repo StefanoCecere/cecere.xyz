@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Media
 date: 2009-06-06T20:28:22Z

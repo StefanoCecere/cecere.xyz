@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-03-25T01:00:13Z
 guid: http://stefanocecere.com/2008/03/25/giovedi-viva-zapatero/

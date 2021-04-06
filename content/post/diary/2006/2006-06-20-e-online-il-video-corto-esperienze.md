@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-06-20T01:04:39Z
 guid: http://stefanocecere.com/2006/06/20/e-online-il-video-corto-esperienze/

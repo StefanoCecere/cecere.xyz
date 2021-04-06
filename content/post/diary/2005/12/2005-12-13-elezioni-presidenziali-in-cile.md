@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-13T14:32:48Z
 guid: http://stefanocecere.com/2005/12/13/elezioni-presidenziali-in-cile/

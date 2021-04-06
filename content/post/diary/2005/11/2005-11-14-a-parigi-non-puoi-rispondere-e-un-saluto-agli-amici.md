@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-11-14T09:12:52Z
 guid: http://stefanocecere.com/2005/11/14/a-parigi-non-puoi-rispondere-e-un-saluto-agli-amici/

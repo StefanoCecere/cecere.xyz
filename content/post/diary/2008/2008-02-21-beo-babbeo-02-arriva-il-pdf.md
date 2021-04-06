@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-02-21T02:08:02Z
 guid: http://stefanocecere.com/2008/02/21/beo-babbeo-02-arriva-il-pdf/

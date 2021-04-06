@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-05-26T14:30:18Z
 guid: http://stefanocecere.com/2008/05/26/articolo-sullespresso/

@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories:
 - Buone Nuove
 date: 2009-03-25T07:12:31Z

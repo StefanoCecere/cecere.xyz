@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-13T01:22:41Z
 guid: http://stefanocecere.com/2005/12/13/principio-di-comprensione-dellazione/

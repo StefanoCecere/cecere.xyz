@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-11-07T17:47:36Z
 guid: http://stefanocecere.com/2005/11/07/tecniche-di-sopravvivenza/

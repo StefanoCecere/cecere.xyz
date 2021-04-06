@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2007-10-26T09:23:20Z
 guid: http://stefanocecere.com/2007/10/26/ratatouille/

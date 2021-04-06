@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-20T01:52:07Z
 guid: http://stefanocecere.com/2005/12/20/cosa-fare-in-caso-di-attacco-terroristico/

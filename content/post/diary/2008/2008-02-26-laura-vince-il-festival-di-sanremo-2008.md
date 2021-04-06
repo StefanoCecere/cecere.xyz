@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-02-26T23:20:38Z
 guid: http://stefanocecere.com/2008/02/26/laura-vince-il-festival-di-sanremo-2008/

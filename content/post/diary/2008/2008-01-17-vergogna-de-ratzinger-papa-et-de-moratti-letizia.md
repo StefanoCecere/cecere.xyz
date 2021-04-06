@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-01-17T07:33:47Z
 guid: http://stefanocecere.com/2008/01/17/vergogna-de-ratzinger-papa-et-de-moratti-letizia/

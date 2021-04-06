@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-05-13T09:16:55Z
 guid: http://stefanocecere.com/2006/05/13/i-mezzi-d%e2%80%99informazione-parlano-di-alcuni-scandali-per-nasconderne-altri/

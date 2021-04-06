@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-06-21T14:19:10Z
 guid: http://stefanocecere.com/2008/06/21/21-giugno-2008-un-gran-bel-giorno/

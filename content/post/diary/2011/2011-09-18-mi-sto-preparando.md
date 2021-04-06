@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2011-09-18T23:58:17Z
 guid: http://stefanocecere.com/2011/09/18/mi-sto-preparando/

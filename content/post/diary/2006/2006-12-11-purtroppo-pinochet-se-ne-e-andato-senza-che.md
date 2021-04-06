@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-12-11T03:32:29Z
 guid: http://stefanocecere.com/2006/12/11/purtroppo-pinochet-se-ne-e-andato-senza-che/

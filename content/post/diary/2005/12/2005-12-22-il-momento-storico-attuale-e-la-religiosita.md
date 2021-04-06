@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2005-12-22T00:04:13Z
 guid: http://stefanocecere.com/2005/12/22/il-momento-storico-attuale-e-la-religiosita/

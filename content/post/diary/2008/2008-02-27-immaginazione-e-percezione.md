@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2008-02-27T16:34:20Z
 guid: http://stefanocecere.com/2008/02/27/immaginazione-e-percezione/

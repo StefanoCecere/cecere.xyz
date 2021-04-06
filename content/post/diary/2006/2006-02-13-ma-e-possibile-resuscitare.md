@@ -1,5 +1,4 @@
 ---
-author: Stefano Cecere
 categories: [blog]
 date: 2006-02-13T13:19:49Z
 guid: http://stefanocecere.com/2006/02/13/ma-e-possibile-resuscitare/
