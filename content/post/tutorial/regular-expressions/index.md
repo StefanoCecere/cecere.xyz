@@ -37,9 +37,9 @@ url: /$1/$2/$3/$4
 ```
 e poi le vado a sostituire eliminando la parte `$3`
 
-Per farlo usiamo le [Espressioni Regolari](https://it.wikipedia.org/wiki/Espressione_regolare) (o Regular Expressions, abbreviate in RegEx) che è uno standard di qualsiasi linguaggio di programmazione o editor di testi per trovare dei patterns di caratteri
+Per farlo usiamo le [Espressioni Regolari](https://it.wikipedia.org/wiki/Espressione_regolare) (o Regular Expressions, abbreviate in RegEx) che sono uno standard di qualsiasi linguaggio di programmazione o editor di testi per trovare dei patterns di caratteri e modificarli.
 
-cercherò quindi:
+Cercherò quindi:
 ```
 url: \/(.+?)\/(.+?)\/(.+?)\/(.+?)
 ```
@@ -48,7 +48,7 @@ dove uso `\/` per il carattere `/` e `(.+?)` rappresenta un qualsiasi numero di 
 url: /$1/$2/$4
 ```
 
-e il gioco è fatto! 1200 file cambiati in un secondo.
+E il gioco è fatto! 1200 file cambiati in un secondo.
 Le Regular Expressions sono estremamente potenti, inventate già negli anni 1950!
 E ci permette di capire una cosa: se qualcosa ha delle regole che possono essere formalizzate, allora può farla una macchina, e presto potremo chiedere alla nostra A.I. (Intelligenza Artificiale) di eseguire la procedura per noi.
 
