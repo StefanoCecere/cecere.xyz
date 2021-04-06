@@ -1,0 +1,31 @@
+---
+author: Stefano Cecere
+categories:
+- E io cecio..
+date: "2008-02-21T11:27:46Z"
+guid: http://stefanocecere.com/2008/02/21/proseguono-i-lavori-al-parco-di-punta-de-vacas/
+id: 690
+related_posts:
+- null
+tags:
+- Ande
+- Parco Punta de Vacas
+- Silo
+- spirito
+- Terra 2.0
+- umanista
+title: Proseguono i lavori al Parco di Punta de Vacas
+slug: /2008/02/21/proseguono-i-lavori-al-parco-di-punta-de-vacas/
+---
+
+<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/02/marina-p-de-v-feb-08-093.thumbnail.jpg' alt='marina-p-de-v-feb-08-093.jpg' align="left" />sono migliaia le persone coinvolte nel mondo in questo progetto che sfocerà a gennaio 2010 nel più grande momento storico della nuova epoca:
+
+[Vedi foto](http://picasaweb.google.es/MarinarojasMH/VOLUNTARIOSFEB08)
+
+in queste foto si possono vedere i progressi del Centro di Studi e del Laboratorio
+
+Nota: Punta de Vacas si trova sulle Ande, ai piedi dell&#8217;Aconcagua (il monte più alto del sudamerica)
+  
+laggiù, il 4 gennaio 2010, ci sarà qualcuno che&#8230;.
+
+<http://www.parquepuntadevacas.org/>

@@ -1,0 +1,28 @@
+---
+author: Stefano Cecere
+categories:
+- E io cecio..
+- Tempi moderni
+date: "2006-02-24T11:23:48Z"
+guid: http://stefanocecere.com/2006/02/24/bombe-atomiche-con-poesia-sul-ghiaccio/
+id: 235
+related_posts:
+- null
+tags:
+- bombe atomiche
+- disarmo nucleare
+- Francia
+- Iran
+title: bombe atomiche con poesia sul ghiaccio
+slug: /2006/02/24/bombe-atomiche-con-poesia-sul-ghiaccio/
+---
+
+<img src='/wp-content/bomba_atomica.jpg' alt='bomba atomica' align='left' />Non ne parla ancora nessuno.. la minaccia di una guerra atomica sembra ormai songiurata con il patto di non proliferazione accompagnato da Gorbaciov.. oggi l&#8217;unico nucleare che si teme è quello dell&#8217;Iran, ma gli attenti potrebbero accorgersi che la situaione si sta complicando sempre di più.. recentemente Jacques Chirac ha dichiarato che lancerà bombe nucleari se altri paesi insisteranno a pregiudicare gli interessi della Francia.
+  
+Nell&#8217;attuale mondo politico non si vedono germogli di ideologie (e di persone capaci di portarle avanti) che possano aprire e distendere il futuro.
+
+Gli umanisti torneranno presto a chiedere che nessuno al mondo tenga armi nucleari.
+  
+Come al solito nessuno starà ad ascoltare, ma ciò non è scoraggiante.
+
+<img src='/wp-content/pattinaggioartistico.jpg' alt='Pattinaggio Artistico sul ghiaccio' align='left' />Mentre le commozioni si susseguono a seguire le poetiche movenze di ballerine sui ghiacci, o la perfetta sincronizzazione di corpo e mente di tanti atleti di tutto il mondo&#8230; mi sorge la consapevolezza della bella &#8220;distrazione&#8221; che ci stanno proponendo, mentre sono lì a calcolare o improvvisare il futuro dell&#8217;umanità.
