@@ -1,6 +1,6 @@
 ---
 title: tutto ha un inizio..
-slug: tutto-ha-un-inizio
+slug: 2004/07/tutto-ha-un-inizio
 categories: [diary]
 date: 2004-07-10T17:13:25Z
 tags: [website]

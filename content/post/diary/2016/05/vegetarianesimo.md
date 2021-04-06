@@ -1,11 +1,11 @@
 ---
 title: Vegetarianismo
-slug: vegetarianismo
+slug: 2016/05/vegetarianismo
 subtitle: ""
 date: 2016-05-02T05:21:00
-categories: []
+categories: [diary]
 featured: false
-tags: [cibarsi, ambiente]
+tags: [veg, ambiente]
 ---
 
 parto dalla fine:

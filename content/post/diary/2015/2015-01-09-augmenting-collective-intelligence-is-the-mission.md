@@ -1,6 +1,6 @@
 ---
 title: Augmenting Collective Intelligence is the mission
-slug: augmenting-collective-intelligence-is-the-mission
+slug: 2015/01/augmenting-collective-intelligence-is-the-mission
 categories:
 - Tweets
 date: "2015-01-09T09:58:04Z"

@@ -1,5 +1,6 @@
 ---
 title: Miti Cinesi - Il vuoto centrale
+slug: 2006/02/miti-cinesi-il-vuoto-centrale
 categories:
 date: "2006-02-10T08:55:40Z"
 tags: [miti, Silo]

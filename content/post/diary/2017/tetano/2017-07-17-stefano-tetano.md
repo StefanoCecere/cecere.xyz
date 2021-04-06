@@ -1,8 +1,9 @@
 ---
+title: Stefano Tetano
+slug: 2017/07/stefano-tetano
 date: "2017-07-17T00:00:00Z"
 tags:
 - vaccini
-title: Stefano Tetano
 ---
 
 [TL;DR: Antitetanica si]

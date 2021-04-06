@@ -1,5 +1,6 @@
 ---
 title: "Vota Stefano Cecere"
+slug: 2007/05/vota-stefano-cecere
 subtitle: ""
 summary: ""
 tags: [politica]
