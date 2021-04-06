@@ -1,5 +1,6 @@
 ---
 title: Emergenza Tsunami
+slug: emergenza-tsunami
 summary: "concerto rock in aiuto delle popolazioni asiatiche dopo lo Tsunami del 2004"
 slug: emergenza-tsunami-concert
 authors: []

@@ -1,5 +1,6 @@
 ---
 title: § (experiments)
+slug: s-experiments
 summary: qualche esperimento di elettronica
 tags: [music]
 date: "2001-06-21T00:00:00Z"

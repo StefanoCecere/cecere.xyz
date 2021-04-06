@@ -1,5 +1,6 @@
 ---
 title: "Arancio.tv"
+slug: arancio-tv
 summary: manifesto tra i primi al mondo per la categoria
 tags: [social, media, nonviolenza, MovimentoUmanista]
 categories: []

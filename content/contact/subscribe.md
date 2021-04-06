@@ -13,4 +13,4 @@ design:
 
 {{< icon name="mail-bulk" pack="fas" >}} [Newsletter](https://cecere.substack.com/subscribe)  
 
-{{< icon name="facebook" pack="fab" >}} [Facebook](https://www.facebook.com/StefanoCecere)  
+{{< icon name="facebook" pack="fab" >}} [Facebook](https://www.facebook.com/stefano.cecere.org)  

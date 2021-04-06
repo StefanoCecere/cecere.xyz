@@ -1,5 +1,6 @@
 ---
 title: Spazio Fannullone a Monza
+slug: spazio-fannullone
 summary: un centro ricreativo, sociale, culturale, politico... la nostra seconda casa 
 tags: [social, MovimentoUmanista, fannullone, centro-ricreativo]
 categories: []
