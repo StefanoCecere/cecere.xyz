@@ -9,7 +9,7 @@ tags:
 - natale
 - razzismo
 title: A Bergamo Gesù non è nato!!!!
-slug: /2008/12/28/a-bergamo-gesu-non-e-nato/
+slug: /2008/12/a-bergamo-gesu-non-e-nato/
 ---
 
 con gran gioia e gaudio riporto questa notizia.. so che ci sono delle buone perle anche nella Chiesa Cattolica.. eccone una!

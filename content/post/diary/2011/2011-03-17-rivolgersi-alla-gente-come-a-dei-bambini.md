@@ -12,7 +12,7 @@ tags:
 - Politica
 - pubblicità
 title: Rivolgersi alla gente come a dei bambini.
-slug: /2011/03/17/rivolgersi-alla-gente-come-a-dei-bambini/
+slug: /2011/03/rivolgersi-alla-gente-come-a-dei-bambini/
 ---
 
 Rivolgersi alla gente come a dei bambini. La maggior parte della pubblicità diretta al grande pubblico usa discorsi, argomenti, personaggi e una intonazione particolarmente infantile, spesso con voce flebile, come se lo spettatore fosse una creatura di pochi anni o un deficiente. Quanto più si cerca di ingannare lo spettatore, tanto più si tende ad usare un tono infantile.

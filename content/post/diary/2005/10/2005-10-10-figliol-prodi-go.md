@@ -4,7 +4,7 @@ date: 2005-10-10T09:20:54Z
 guid: http://stefanocecere.com/2005/10/10/figliol-prodi-go/
 id: 104
 title: figliol prodi go
-slug: /2005/10/10/figliol-prodi-go/
+slug: /2005/10/figliol-prodi-go/
 ---
 
 <img src='/wp-content/prodi.jpg' alt='' align='left' />negli ultimi giorni si stanno mobilitando un po' di persone intorno a Prodi

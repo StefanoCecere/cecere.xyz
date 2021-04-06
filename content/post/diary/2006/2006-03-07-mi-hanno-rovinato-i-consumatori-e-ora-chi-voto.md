@@ -7,7 +7,7 @@ id: 242
 tags:
 - vergogna!
 title: mi hanno rovinato i consumatori! e ora chi voto?
-slug: /2006/03/07/mi-hanno-rovinato-i-consumatori-e-ora-chi-voto/
+slug: /2006/03/mi-hanno-rovinato-i-consumatori-e-ora-chi-voto/
 ---
 
 non voglio nascondere le mie preferenze politiche e per chi voto:

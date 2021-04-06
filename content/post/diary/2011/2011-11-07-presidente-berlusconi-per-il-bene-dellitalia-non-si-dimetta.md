@@ -14,7 +14,7 @@ tags:
 - Politica
 - speculazione
 title: Presidente Berlusconi, per il bene dell’Italia, NON SI DIMETTA.
-slug: /2011/11/07/presidente-berlusconi-per-il-bene-dellitalia-non-si-dimetta/
+slug: /2011/11/presidente-berlusconi-per-il-bene-dellitalia-non-si-dimetta/
 ---
 
 _lo so, molti amici sospetteranno che sia impazzito, io che con Berlusconi ho in comune solo l'essere umani e nati nel nord Italia. ma non posso non condividere questo "[ultimo appello](http://paolobarnard.info/intervento_mostra_go.php?id=257)" ad uno che potrebbe davvero cambiare le carte in tavola ( dato che da noi non ce la si fa ).

@@ -10,7 +10,7 @@ tags:
 - Tibet
 - umanista
 title: Solidarietà con il popolo tibetano e una soluzione valida per tutta l’umanità
-slug: /2008/03/25/solidarieta-con-il-popolo-tibetano-e-una-soluzione-valida-per-tutta-lumanita/
+slug: /2008/03/solidarieta-con-il-popolo-tibetano-e-una-soluzione-valida-per-tutta-lumanita/
 ---
 
 _COMUNICATO STAMPA DEL MOVIMENTO UMANISTA_

@@ -13,7 +13,7 @@ tags:
 - vergogna!
 - zingari
 title: la persecuzione degli Zingari
-slug: /2008/06/24/la-persecuzione-degli-zingari/
+slug: /2008/06/la-persecuzione-degli-zingari/
 ---
 
 _**invito a leggere fino in fondo:**_

@@ -12,7 +12,7 @@ tags:
 - soldi
 - Terra 2.0
 title: come risparmiare e vivere tutti più felici
-slug: /2008/03/29/come-risparmiare-e-vivere-tutti-piu-felici/
+slug: /2008/03/come-risparmiare-e-vivere-tutti-piu-felici/
 ---
 
 riporto questa bellissima lista pubblicata dal [Manifesto](http://www.ilmanifesto.it) il 23 aprile. che si diffonda e sia presa in seria considerazione!

@@ -8,7 +8,7 @@ id: 142
 tags:
 - vergogna!
 title: AAA aiuto cercasi per pulizie ufficio…
-slug: /2005/11/11/aaa-aiuto-cercasi-per-pulizie-ufficio/
+slug: /2005/11/aaa-aiuto-cercasi-per-pulizie-ufficio/
 ---
 
 [<img src='/wp-content/montecitorio.jpg' alt='' align='left' />](/wp-content/parlamento_pulito.pdf "")URGENTE:

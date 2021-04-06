@@ -8,7 +8,7 @@ tags:
 - acqua
 - foto
 title: JJ waterboy
-slug: /2011/09/21/jj-waterboy/
+slug: /2011/09/jj-waterboy/
 ---
 
 qui eravamo al matrimonio di Max e Valentina. questa foto mi ha colpito per la qualità della messa a fuoco e per come si è "cristallizzata" l'acqua (prima di arrivarmi addosso! 🙂

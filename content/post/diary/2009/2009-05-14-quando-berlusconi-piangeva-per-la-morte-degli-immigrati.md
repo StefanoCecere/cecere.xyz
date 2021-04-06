@@ -9,7 +9,7 @@ tags:
 - Politica
 - video
 title: Quando Berlusconi piangeva per la morte degli immigrati
-slug: /2009/05/14/quando-berlusconi-piangeva-per-la-morte-degli-immigrati/
+slug: /2009/05/quando-berlusconi-piangeva-per-la-morte-degli-immigrati/
 ---
 
 no comment, ma guardare con lucidità please:

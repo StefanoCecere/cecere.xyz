@@ -7,7 +7,7 @@ tags:
 - elezioni
 - Politica
 title: '13 aprile: cosa votare? cosa non votare?'
-slug: /2008/03/11/13-aprile-cosa-votare-cosa-non-votare/
+slug: /2008/03/13-aprile-cosa-votare-cosa-non-votare/
 ---
 
 **AGGIORNAMENTO DEL 8 APRILE: [leggi il mio ultimo post](http://stefanocecere.com/2008/04/08/cosa-votare-ecco-la-mia-dichiarazione-di-voto/) in cui spiego perché voterò la lista "Per il Bene Comune"

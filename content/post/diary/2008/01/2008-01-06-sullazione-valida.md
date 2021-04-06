@@ -7,7 +7,7 @@ tags:
 - spirito
 - umanista
 title: sull&#039;Azione Valida
-slug: /2008/01/06/sullazione-valida/
+slug: /2008/01/sullazione-valida/
 ---
 
 stamani mi sono svegliato con la volontà di approfondire un tema: quello dell'Azione Valida.

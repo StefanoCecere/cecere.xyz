@@ -9,7 +9,7 @@ tags:
 - ridere
 - video
 title: Salsa tartara e catene di pensieri liberi
-slug: /2006/10/10/salsa-tartara-e-catene-di-pensieri-liberi/
+slug: /2006/10/salsa-tartara-e-catene-di-pensieri-liberi/
 ---
 
 Ho visto il film "The Weather man", qualche giorno fa (quello con Nicholas Cage nel ruolo dell'"Uomo delle previsioni del tempo")

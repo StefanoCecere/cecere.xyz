@@ -8,7 +8,7 @@ tags:
 - Rambo
 - violenza
 title: La violenza è in aumento? chiediamolo a Rambo…
-slug: /2008/10/28/la-violenza-e-in-aumento-chiediamolo-a-rambo/
+slug: /2008/10/la-violenza-e-in-aumento-chiediamolo-a-rambo/
 ---
 
 [<img class="aligncenter size-medium wp-image-1458" title="rambo-grafico-violenza" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/rambo-grafico-violenza-353x300.jpg" alt="" width="353" height="300" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/rambo-grafico-violenza.jpg)

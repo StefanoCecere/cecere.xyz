@@ -7,7 +7,7 @@ tags:
 - Events
 - Milano
 title: Oggi il corteo anti-razzista per Abdul Guibre
-slug: /2008/09/20/oggi-il-corteo-anti-razzista-per-abdul-guibre/
+slug: /2008/09/oggi-il-corteo-anti-razzista-per-abdul-guibre/
 ---
 
 **LO RICORDO in estremis:** In memoria di «Abba», ucciso a sprangate, oggi alle ore 14.30 tutti a Porta Venezia, Milano.

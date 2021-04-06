@@ -11,7 +11,7 @@ tags:
 - Tesla
 - video
 title: Per non dimenticare il &quot;mago&quot; Nikola Tesla
-slug: /2009/07/12/per-non-dimenticare-il-mago-nikola-tesla/
+slug: /2009/07/per-non-dimenticare-il-mago-nikola-tesla/
 ---
 
 lo considero uno dei miei miti. il più grande scienziato di tutti i tempi, probabilmente.

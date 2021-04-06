@@ -10,7 +10,7 @@ tags:
 - pdf
 - razzismo
 title: Mandiamoli a casa! istruzioni per un paese (non) razzista
-slug: /2010/02/16/mandiamoli-a-casa-istruzioni-per-un-paese-non-razzista/
+slug: /2010/02/mandiamoli-a-casa-istruzioni-per-un-paese-non-razzista/
 ---
 
 _[<img class="alignleft size-thumbnail wp-image-2017" title="mandiamoli-a-casa" src="http://stefanocecere.com/wp-content/uploads/sites/3/2010/02/mandiamoli-a-casa-150x150.png" alt="" width="150" height="150" />](http://stefanocecere.com/wp-content/uploads/sites/3/2010/02/mandiamoli-a-casa.png)in Italia il 23% della popolazione è straniera, quasi tutti irregolari, che ci rubano il lavoro, minano la nostra sicurezza e i nostri valori._

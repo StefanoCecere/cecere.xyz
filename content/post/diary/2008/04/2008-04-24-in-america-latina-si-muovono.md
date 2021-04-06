@@ -8,7 +8,7 @@ tags:
 - Bolivia
 - Evo Morales
 title: In America Latina si muovono
-slug: /2008/04/24/in-america-latina-si-muovono/
+slug: /2008/04/in-america-latina-si-muovono/
 ---
 
 quanta disinformazione, amici miei, condizionano la vita di miliardi di persone.. compresa la nostra che ci fanno credere che in america latina sono tutti dittatori mentre qui tutti benefattori…

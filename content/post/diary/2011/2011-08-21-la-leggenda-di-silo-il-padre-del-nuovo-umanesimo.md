@@ -10,7 +10,7 @@ tags:
 - nuovo umanesimo
 - Silo
 title: La leggenda di Silo, il padre del nuovo umanesimo
-slug: /2011/08/21/la-leggenda-di-silo-il-padre-del-nuovo-umanesimo/
+slug: /2011/08/la-leggenda-di-silo-il-padre-del-nuovo-umanesimo/
 ---
 
 nel numero di agosto della rivista Rolling Stone argentino è stata pubblicato questo servizio/intervista che ripercorre la vita di Silo, fondatore del Movimento Umanista e pensatore eccellente, partendo dal punto di vista di uno dei suoi figli.

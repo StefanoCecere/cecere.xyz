@@ -10,7 +10,7 @@ tags:
 - film
 - senso della vita
 title: Hai mai detto grazie alle vacche?
-slug: /2011/03/05/la-vita-e-bellissima/
+slug: /2011/03/la-vita-e-bellissima/
 ---
 
 una scena del film "il pianeta verde" ..

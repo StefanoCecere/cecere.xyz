@@ -6,7 +6,7 @@ id: 164
 tags:
 - spirito
 title: le azioni hanno un senso
-slug: /2005/12/01/le-azioni-hanno-un-senso/
+slug: /2005/12/le-azioni-hanno-un-senso/
 ---
 
 <img src='/wp-content/direzione.jpg' alt='' align='left' />quella che sto per descrivere è forse una delle mie più importanti scoperte che ho fatto negli ultimi anni.

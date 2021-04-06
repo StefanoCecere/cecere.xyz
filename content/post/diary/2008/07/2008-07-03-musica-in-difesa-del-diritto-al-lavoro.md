@@ -15,7 +15,7 @@ tags:
 - Movimento
 - music
 title: MUSICA IN DIFESA DEL DIRITTO AL LAVORO
-slug: /2008/07/03/musica-in-difesa-del-diritto-al-lavoro/
+slug: /2008/07/musica-in-difesa-del-diritto-al-lavoro/
 ---
 
 <p style="text-align: center">

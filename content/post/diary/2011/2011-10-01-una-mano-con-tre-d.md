@@ -9,7 +9,7 @@ tags:
 - San francisco
 - Unity 3D
 title: una mano con tre d
-slug: /2011/10/01/una-mano-con-tre-d/
+slug: /2011/10/una-mano-con-tre-d/
 ---
 
 accennerò qui ad uno dei motivi che mi avevano attirato a San Francisco.

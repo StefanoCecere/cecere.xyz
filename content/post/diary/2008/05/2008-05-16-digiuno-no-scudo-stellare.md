@@ -14,7 +14,7 @@ tags:
 - petizione
 - scudo spaziale
 title: Digiuno No Scudo Stellare!
-slug: /2008/05/16/digiuno-no-scudo-stellare/
+slug: /2008/05/digiuno-no-scudo-stellare/
 ---
 
 oggi non sto proprio bene (capitano gli sbalzi di temperatura!?)

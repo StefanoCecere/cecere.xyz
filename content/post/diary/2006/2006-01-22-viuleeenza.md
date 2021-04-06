@@ -10,7 +10,7 @@ tags:
 - tecnologia
 - violenza
 title: viuleeenza!
-slug: /2006/01/22/viuleeenza/
+slug: /2006/01/viuleeenza/
 ---
 
 ![](/wp-content/viuleeenza.jpg)

@@ -13,7 +13,7 @@ tags:
 - umanista
 - zeitgeist
 title: Z-day - Zeitgeist ed Invito al Cineforum
-slug: /2008/03/07/z-day-zeitgeist-ed-invito-al-cineforum/
+slug: /2008/03/z-day-zeitgeist-ed-invito-al-cineforum/
 ---
 
 sabato 15 marzo, ore 21:00

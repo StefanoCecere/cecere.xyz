@@ -13,7 +13,7 @@ tags:
 - soldi
 title: come un film ti prepara al futuro, quanto buca un&#039;atomica e il bello di
   essere ricchi :)
-slug: /2008/09/11/come-un-film-ti-prepara-al-futuro-atomica-ricchi/
+slug: /2008/09/come-un-film-ti-prepara-al-futuro-atomica-ricchi/
 ---
 
 molto interessante (seppur è possibile non condividerne diversi punti) questo articolo che commenta una dozzina di film americani usciti negli ultimi anni, e la loro "sponsorizzazione" da parte del Pentagono o altri interessati a spingere determinate modificazioni di credenze sociali.

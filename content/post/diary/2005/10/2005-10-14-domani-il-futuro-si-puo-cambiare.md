@@ -4,7 +4,7 @@ date: 2005-10-14T10:13:56Z
 guid: http://stefanocecere.com/2005/10/14/domani-il-futuro-si-puo-cambiare/
 id: 107
 title: Domani il futuro si può cambiare
-slug: /2005/10/14/domani-il-futuro-si-puo-cambiare/
+slug: /2005/10/domani-il-futuro-si-puo-cambiare/
 ---
 
 <span style="font-size: 11pt"><strong>SABATO 15 ottobre, tutto il giorno in PIAZZA SAN BABILA A MILANO</strong></span>

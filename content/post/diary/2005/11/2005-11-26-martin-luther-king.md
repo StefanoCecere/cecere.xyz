@@ -9,7 +9,7 @@ tags:
 - spirito
 - umanista
 title: Martin Luther King
-slug: /2005/11/26/martin-luther-king/
+slug: /2005/11/martin-luther-king/
 ---
 
 "la più grande tragedia di questo periodo di trasformazione sociale non è nei clamori chiassosi dei cattivi ma nel silenzio spaventoso delle persone oneste."

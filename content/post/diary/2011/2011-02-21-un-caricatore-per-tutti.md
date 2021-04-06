@@ -11,7 +11,7 @@ tags:
 - tecnologia
 - video
 title: Un caricatore per tutti!
-slug: /2011/02/21/un-caricatore-per-tutti/
+slug: /2011/02/un-caricatore-per-tutti/
 ---
 
 spot molto bello, che può anche far riflettere

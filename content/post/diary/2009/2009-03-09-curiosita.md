@@ -6,7 +6,7 @@ id: 1586
 tags:
 - ridere
 title: Curiosità
-slug: /2009/03/09/curiosita/
+slug: /2009/03/curiosita/
 ---
 
 * Gli alimenti impiegano 7 secondi per passare dalla bocca allo stomaco.

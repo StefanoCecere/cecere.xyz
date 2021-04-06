@@ -10,7 +10,7 @@ tags:
 - Movimento
 - senso della vita
 title: La vita cerca la crescita, non la compensazione del nulla
-slug: /2008/07/01/la-vita-cerca-la-crescita-non-la-compensazione-del-nulla/
+slug: /2008/07/la-vita-cerca-la-crescita-non-la-compensazione-del-nulla/
 ---
 
 è circa una settimana che non aggiorno questo luogo pubblico, ma niente di grave, anzi.

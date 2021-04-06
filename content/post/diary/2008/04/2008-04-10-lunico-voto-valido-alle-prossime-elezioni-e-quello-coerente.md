@@ -10,7 +10,7 @@ tags:
 - spirito
 - votare
 title: L&#039;unico voto valido alle prossime elezioni è quello coerente.
-slug: /2008/04/10/lunico-voto-valido-alle-prossime-elezioni-e-quello-coerente/
+slug: /2008/04/lunico-voto-valido-alle-prossime-elezioni-e-quello-coerente/
 ---
 
 poi non ci torno più!

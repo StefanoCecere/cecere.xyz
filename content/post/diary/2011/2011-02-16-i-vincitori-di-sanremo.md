@@ -14,7 +14,7 @@ tags:
 - Politica
 - video
 title: I vincitori di Sanremo
-slug: /2011/02/16/i-vincitori-di-sanremo/
+slug: /2011/02/i-vincitori-di-sanremo/
 ---
 
 Non ho visto Sanremo e non credo lo guarderò, se non a pezzetti e su internet il giorno dopo.

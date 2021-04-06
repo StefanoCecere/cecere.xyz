@@ -10,7 +10,7 @@ tags:
 - spirito
 - umanista
 title: E&#039; uscito il Fannullone n.11!
-slug: /2006/08/30/e-uscito-il-fannullone-n11/
+slug: /2006/08/e-uscito-il-fannullone-n11/
 ---
 
 <a target="_blank" href="http://www.ilfannullone.it"><img alt="ilfannullone_11_cover.jpg" id="image409" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/ilfannullone_11_cover.jpg" /></a>

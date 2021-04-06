@@ -12,7 +12,7 @@ tags:
 - Terra 2.0
 - umanista
 title: vado a Praga!
-slug: /2007/10/19/vado-a-praga/
+slug: /2007/10/vado-a-praga/
 ---
 
 sto partendo per Praga

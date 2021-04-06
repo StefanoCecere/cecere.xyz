@@ -9,7 +9,7 @@ tags:
 - morte
 - video
 title: Assassinio collaterale
-slug: /2010/04/10/assassinio-collaterale/
+slug: /2010/04/assassinio-collaterale/
 ---
 
 non credo ci sia bisogno di commenti

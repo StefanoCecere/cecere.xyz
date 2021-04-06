@@ -6,7 +6,7 @@ id: 275
 tags:
 - tecnologia
 title: Upgrade 2.0
-slug: /2006/05/24/upgrade-20/
+slug: /2006/05/upgrade-20/
 ---
 
 ![](moebius_birds.jpg)

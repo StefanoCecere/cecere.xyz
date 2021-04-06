@@ -7,7 +7,7 @@ tags:
 - Il Manifesto
 - Luttazzi
 title: ULTIM&#039;ORA di DANIELE LUTTAZZI
-slug: /2008/07/31/ultimora-di-daniele-luttazzi/
+slug: /2008/07/ultimora-di-daniele-luttazzi/
 ---
 
 <div class="modulogiornale">

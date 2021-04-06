@@ -7,7 +7,7 @@ tags:
 - Politica
 - video
 title: Crozza, Franceschini e Gasparri a Ballarò
-slug: /2009/03/19/crozza-franceschini-e-gasparri-a-ballaro/
+slug: /2009/03/crozza-franceschini-e-gasparri-a-ballaro/
 ---
 
 amici guardatelo fino alla fine.. Gasparri è veramente imbarazzate.

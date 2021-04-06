@@ -9,7 +9,7 @@ tags:
 - umanista
 - viaggio
 title: Praga, New York e La Paz
-slug: /2007/10/09/praga-new-york-e-la-paz/
+slug: /2007/10/praga-new-york-e-la-paz/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2007/10/praga_umanista.jpeg' alt='praga_umanista.jpeg' align="left" />fine settimana prossima sarò a Praga, per l'incontro annuale della Regionale Umanista Europea (il coordinamento di tutti i Partiti Umanisti d'Europa… progetto a cui partecipo attivamente dal 2003).

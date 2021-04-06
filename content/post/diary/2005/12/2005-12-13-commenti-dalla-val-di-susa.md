@@ -6,7 +6,7 @@ id: 178
 tags:
 - violenza
 title: commenti dalla Val di Susa
-slug: /2005/12/13/commenti-dalla-val-di-susa/
+slug: /2005/12/commenti-dalla-val-di-susa/
 ---
 
 <img src='/wp-content/NOTAV.jpg' alt='' align='left' />l’amico Oscar del Movimento Umanista (in particolar modo del Partito Umanista) di Torino, manda i seguenti interessanti commenti:

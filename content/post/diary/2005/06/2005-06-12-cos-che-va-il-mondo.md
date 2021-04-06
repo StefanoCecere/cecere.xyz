@@ -4,7 +4,7 @@ date: 2005-06-12T20:59:16Z
 guid: http://stefanocecere.com/?p=27
 id: 27
 title: 'è così che va il mondo?'
-slug: /2005/06/12/cos-che-va-il-mondo/
+slug: /2005/06/cos-che-va-il-mondo/
 ---
 
 "come va?" chiedo alle ragazze sedute ai banchi, come mi avvicino a loro…

@@ -16,7 +16,7 @@ tags:
 - Terra 2.0
 - video
 title: Video concerto Vibrazioni in Piazza Duomo
-slug: /2008/06/21/video-concerto-vibrazioni-in-piazza-duomo/
+slug: /2008/06/video-concerto-vibrazioni-in-piazza-duomo/
 ---
 
 ecco un estratto del concerto dell 11 giugno 2008 in Piazza Duomo a Milano, dove Francesco ha "lanciato" la campagna Europe for Peace per il NO allo Scudo Spaziale, e anche un bel po' di opuscoli fatti apposta ([leggilo qui](http://stefanocecere.com/2008/06/04/europe-4-peace-francesco-sarcina/)):

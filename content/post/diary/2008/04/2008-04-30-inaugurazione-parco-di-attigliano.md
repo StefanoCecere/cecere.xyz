@@ -12,7 +12,7 @@ tags:
 - Terra 2.0
 - umanista
 title: Inaugurazione Parco di Attigliano
-slug: /2008/04/30/inaugurazione-parco-di-attigliano/
+slug: /2008/04/inaugurazione-parco-di-attigliano/
 ---
 
 ![locandina-4-maggio.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/locandina-4-maggio.jpg)

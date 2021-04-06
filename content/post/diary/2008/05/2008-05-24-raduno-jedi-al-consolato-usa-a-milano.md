@@ -8,6 +8,6 @@ tags:
 - scudo spaziale
 - video
 title: Raduno Jedi al consolato USA a Milano
-slug: /2008/05/24/raduno-jedi-al-consolato-usa-a-milano/
+slug: /2008/05/raduno-jedi-al-consolato-usa-a-milano/
 ---
 

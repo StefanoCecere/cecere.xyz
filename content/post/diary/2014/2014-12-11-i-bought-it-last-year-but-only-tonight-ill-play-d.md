@@ -8,7 +8,7 @@ id: 5553
 tags:
 - tweet
 title: i bought it last year but only tonight i&#039;ll play D…
-slug: /2014/12/11/i-bought-it-last-year-but-only-tonight-ill-play-d/
+slug: /2014/12/i-bought-it-last-year-but-only-tonight-ill-play-d/
 ---
 
 i bought it last year but only tonight i'll play Deus Ex - Human Revolution .. a 18Gb game i hope will be worth the 230 days download

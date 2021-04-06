@@ -8,7 +8,7 @@ tags:
 - nucleare
 - referendum
 title: 'Referendum 12-13 giugno 2011: VOTARSI'
-slug: /2011/05/26/referendum-12-13-giugno-2011-votars/
+slug: /2011/05/referendum-12-13-giugno-2011-votars/
 ---
 
 lascerò per i prossimi 20gg questo volantino in primo piano. Spero che tutte le persone che conosco vadano almeno a votare. Non posso pretendere che comprendano l'importanza dei quattro SI, ma almeno l'impegno civico e sociale di partecipare al referendum (che con le nefaste leggi attuali si annulla se non raggiunge il quorum del 50% di votanti)

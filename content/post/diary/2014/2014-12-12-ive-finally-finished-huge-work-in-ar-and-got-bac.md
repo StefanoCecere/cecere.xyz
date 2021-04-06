@@ -8,7 +8,7 @@ id: 5544
 tags:
 - tweet
 title: i&#039;ve finally finished huge work in AR, and got bac…
-slug: /2014/12/12/ive-finally-finished-huge-work-in-ar-and-got-bac/
+slug: /2014/12/ive-finally-finished-huge-work-in-ar-and-got-bac/
 ---
 
 i've finally finished huge work in AR, and got back to my TONZILLA and TouchMePlease games! the indie dilemma: own projects vs service works

@@ -8,7 +8,7 @@ tags:
 - spirito
 - umanista
 title: Il Principio di azione e reazione
-slug: /2005/11/18/il-principio-di-azione-e-reazione/
+slug: /2005/11/il-principio-di-azione-e-reazione/
 ---
 
 <img src='/wp-content/principi02.jpg' alt='' align='left' />

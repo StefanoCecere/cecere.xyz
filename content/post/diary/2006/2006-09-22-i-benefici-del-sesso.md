@@ -9,7 +9,7 @@ tags:
 - spirito
 - tantra
 title: I benefici del sesso
-slug: /2006/09/22/i-benefici-del-sesso/
+slug: /2006/09/i-benefici-del-sesso/
 ---
 
 [<img id="image422" alt="benefici_del_sesso.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/09/benefici_del_sesso.jpg" />](http://stefanocecere.com/wp-content/uploads/sites/3/2006/09/benefici_del_sesso.pps "benefici_del_sesso.pps")

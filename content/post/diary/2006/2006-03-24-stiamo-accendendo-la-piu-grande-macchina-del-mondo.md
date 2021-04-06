@@ -9,7 +9,7 @@ tags:
 - spirito
 - umanista
 title: stiamo accendendo la più grande macchina del mondo
-slug: /2006/03/24/stiamo-accendendo-la-piu-grande-macchina-del-mondo/
+slug: /2006/03/stiamo-accendendo-la-piu-grande-macchina-del-mondo/
 ---
 
 <img src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/03/macchina_enorme.jpg" alt="macchina_enorme" width="450" height="322" class="alignnone size-full wp-image-5472" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2006/03/macchina_enorme.jpg 450w, http://stefanocecere.com/wp-content/uploads/sites/3/2006/03/macchina_enorme-300x215.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" />

@@ -11,7 +11,7 @@ tags:
 - razzismo
 - violenza
 title: IN PIAZZA PER ABDUL, UCCISO PERCHE&#039; DI PELLE NERA
-slug: /2008/09/15/in-piazza-per-abdul-ucciso-perche-di-pelle-nera/
+slug: /2008/09/in-piazza-per-abdul-ucciso-perche-di-pelle-nera/
 ---
 
 <span></p> 

@@ -8,6 +8,6 @@ tags:
 - spiritualità
 - video
 title: Cosa è per te la spiritualità?
-slug: /2008/10/16/cosa-e-per-te-la-spiritualita/
+slug: /2008/10/cosa-e-per-te-la-spiritualita/
 ---
 

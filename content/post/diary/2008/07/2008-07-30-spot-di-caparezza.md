@@ -10,6 +10,6 @@ tags:
 - scudo spaziale
 - spot
 title: spot di Caparezza
-slug: /2008/07/30/spot-di-caparezza/
+slug: /2008/07/spot-di-caparezza/
 ---
 

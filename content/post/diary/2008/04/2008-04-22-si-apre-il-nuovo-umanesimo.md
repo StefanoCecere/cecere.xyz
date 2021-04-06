@@ -9,7 +9,7 @@ tags:
 - Terra 2.0
 - umanista
 title: Si apre il Nuovo Umanesimo
-slug: /2008/04/22/si-apre-il-nuovo-umanesimo/
+slug: /2008/04/si-apre-il-nuovo-umanesimo/
 ---
 
 questo sabato 26 aprile e domenica 4 maggio il Nuovo Umanesimo si (ri)apre al mondo.

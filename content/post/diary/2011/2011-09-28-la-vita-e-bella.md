@@ -9,7 +9,7 @@ tags:
 - senso della vita
 - violenza
 title: La vita è bella
-slug: /2011/09/28/la-vita-e-bella/
+slug: /2011/09/la-vita-e-bella/
 ---
 
 Tra i numerosi programmi di intrattenimento che la compagnia aerea metteva a disposizione dei viaggianti, soprattuto quelli in classe economica dove gli spazi individuali erano ai limiti della tolleranza, vi era un sistema video integrato ad ogni poltrona con dozzine di films, telefilms, musica giochi e informazioni… ce n'era tanto da passarci una vita incollati a quel piccolo schermo!

@@ -8,6 +8,6 @@ tags:
 - scudo spaziale
 - video
 title: intanto a Praga…
-slug: /2009/04/08/intanto-a-praga/
+slug: /2009/04/intanto-a-praga/
 ---
 

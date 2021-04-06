@@ -9,7 +9,7 @@ tags:
 - TV
 - umanista
 title: Questa sera un umanista da Santoro
-slug: /2008/01/31/questa-sera-un-umanista-da-santoro/
+slug: /2008/01/questa-sera-un-umanista-da-santoro/
 ---
 
 ![fabrizio_ferrandelli1.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/01/fabrizio_ferrandelli1.jpg)

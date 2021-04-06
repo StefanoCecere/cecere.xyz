@@ -8,7 +8,7 @@ tags:
 - geek
 - iPad
 title: iPad scrivania
-slug: /2011/09/21/ipad-scrivania/
+slug: /2011/09/ipad-scrivania/
 ---
 
 lo so.. è cosa molto da "geek" (ovvero superappassionati di computers) lo scambiarsi le scrivanie dei propri iPhone o iPad

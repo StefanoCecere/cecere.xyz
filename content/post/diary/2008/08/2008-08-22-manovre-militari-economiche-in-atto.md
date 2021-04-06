@@ -14,7 +14,7 @@ tags:
 - scudo spaziale
 - USA
 title: manovre militari-economiche in atto
-slug: /2008/08/22/manovre-militari-economiche-in-atto/
+slug: /2008/08/manovre-militari-economiche-in-atto/
 ---
 
 notizia di poche ore fa: La principale Borsa merci del mondo, il Chicago Mercantile Exchange (Cme), ha completato l'acquisizione della newyorchese Nymex, per 8,2 miliardi di dollari. Cme controllera', dunque, il 98% delle contrattazioni dei mercati futures su petrolio e materie prime che si svolgeranno negli Stati Uniti. (Agr).

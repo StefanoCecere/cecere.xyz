@@ -8,7 +8,7 @@ tags:
 - Monza
 - silenzio
 title: proprietà privata
-slug: /2006/01/27/proprieta-privata/
+slug: /2006/01/proprieta-privata/
 ---
 
 ![](/wp-content/proprietaprivata.jpg)

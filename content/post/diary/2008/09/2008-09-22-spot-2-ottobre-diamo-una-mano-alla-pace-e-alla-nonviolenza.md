@@ -11,6 +11,6 @@ tags:
 - spot
 - video
 title: 'Spot 2 ottobre: diamo una mano alla pace e alla nonviolenza!'
-slug: /2008/09/22/spot-2-ottobre-diamo-una-mano-alla-pace-e-alla-nonviolenza/
+slug: /2008/09/spot-2-ottobre-diamo-una-mano-alla-pace-e-alla-nonviolenza/
 ---
 

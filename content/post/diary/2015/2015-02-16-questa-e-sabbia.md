@@ -7,7 +7,7 @@ id: 5694
 tags:
 - Universe
 title: questa è sabbia
-slug: /2015/02/16/questa-e-sabbia/
+slug: /2015/02/questa-e-sabbia/
 ---
 
 e sapere che ci sono più stelle nell'universo che non granelli di sabbia sulla terra.

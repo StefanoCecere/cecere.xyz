@@ -10,7 +10,7 @@ tags:
 - umanista
 - USA
 title: Una vera pacifista umanista candidata al Congresso USA
-slug: /2008/08/19/una-vera-pacifista-umanista-candidata-al-congresso-usa/
+slug: /2008/08/una-vera-pacifista-umanista-candidata-al-congresso-usa/
 ---
 
 [<img class="alignleft size-thumbnail wp-image-1124" title="Cindy Sheehan" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/08/sheehan-150x150.jpg" alt="" width="150" height="150" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/08/sheehan.jpg)leggete queste dichiarazioni Cindy Sheehan, pacifista americana dall'evidente sapore umanista:

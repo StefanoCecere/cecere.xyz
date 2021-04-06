@@ -12,6 +12,6 @@ tags:
 - soldi
 - video
 title: A proposito di sicurezza….
-slug: /2011/02/01/a-proposito-di-sicurezza/
+slug: /2011/02/a-proposito-di-sicurezza/
 ---
 

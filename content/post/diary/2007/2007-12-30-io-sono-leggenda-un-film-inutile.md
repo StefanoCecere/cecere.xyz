@@ -8,7 +8,7 @@ tags:
 - recensione
 - ricreazione
 title: 'Io sono Leggenda: un film inutile'
-slug: /2007/12/30/io-sono-leggenda-un-film-inutile/
+slug: /2007/12/io-sono-leggenda-un-film-inutile/
 ---
 
 l'abbiamo visto ieri…

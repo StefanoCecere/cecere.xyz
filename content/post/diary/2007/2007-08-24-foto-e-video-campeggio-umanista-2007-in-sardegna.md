@@ -9,7 +9,7 @@ tags:
 - spirito
 - umanista
 title: foto e video campeggio umanista 2007 in Sardegna
-slug: /2007/08/24/foto-e-video-campeggio-umanista-2007-in-sardegna/
+slug: /2007/08/foto-e-video-campeggio-umanista-2007-in-sardegna/
 ---
 
 ![campeggio_umanista_2007.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2007/08/campeggio_umanista_2007.jpg)

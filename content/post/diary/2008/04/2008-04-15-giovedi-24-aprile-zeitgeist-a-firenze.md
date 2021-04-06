@@ -8,7 +8,7 @@ tags:
 - Firenze
 - zeitgeist
 title: 'giovedì 24 aprile: Zeitgeist a Firenze'
-slug: /2008/04/15/giovedi-24-aprile-zeitgeist-a-firenze/
+slug: /2008/04/giovedi-24-aprile-zeitgeist-a-firenze/
 ---
 
 Per tutti coloro che aspirano ad un cambiamento profondo del genere umano.

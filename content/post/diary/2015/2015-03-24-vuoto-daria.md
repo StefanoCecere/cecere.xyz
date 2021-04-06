@@ -6,7 +6,7 @@ id: 5741
 tags:
 - empatia
 title: vuoto d&#039;aria
-slug: /2015/03/24/vuoto-daria/
+slug: /2015/03/vuoto-daria/
 ---
 
 in un recente volo ho provato un vuoto d'aria.. sarà durato 5/6 secondi e mi è bastato per fare testamento.

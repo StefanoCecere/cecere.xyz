@@ -5,7 +5,7 @@ date: 2009-10-01T14:37:03Z
 guid: http://stefanocecere.com/?p=1929
 id: 1929
 title: Parte la Marcia Mondiale
-slug: /2009/10/01/parte-la-marcia-mondiale/
+slug: /2009/10/parte-la-marcia-mondiale/
 ---
 
 carissimi 

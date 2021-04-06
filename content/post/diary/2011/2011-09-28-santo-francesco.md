@@ -10,7 +10,7 @@ tags:
 - immigrazione
 - San francisco
 title: Santo Francesco
-slug: /2011/09/28/santo-francesco/
+slug: /2011/09/santo-francesco/
 ---
 
 La prima cosa che feci fu il confrontare.

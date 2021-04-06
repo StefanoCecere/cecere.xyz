@@ -7,7 +7,7 @@ tags:
 - guerra
 - video
 title: Solidarietà ad Emergency
-slug: /2010/04/12/solidarieta-ad-emergency/
+slug: /2010/04/solidarieta-ad-emergency/
 ---
 
 <img class="size-thumbnail wp-image-2133 alignleft" title="emergency-logo" src="http://stefanocecere.com/wp-content/uploads/sites/3/2010/04/emergency-logo-150x150.jpg" alt="" width="150" height="150" />conosco la realtà di Emergency e quella delle guerre da troppi anni. Non ci casco come un allocco.

@@ -7,7 +7,7 @@ tags:
 - esistenza
 - spirito
 title: perché siamo qui?
-slug: /2006/06/26/perche-siamo-qui/
+slug: /2006/06/perche-siamo-qui/
 ---
 
 prova a fermarti 10 secondi e chiedertelo in profondità…

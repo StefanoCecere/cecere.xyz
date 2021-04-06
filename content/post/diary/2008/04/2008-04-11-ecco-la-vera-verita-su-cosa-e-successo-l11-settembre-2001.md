@@ -9,7 +9,7 @@ tags:
 - New York
 - ricreazione
 title: Ecco la vera verità su cosa è successo l&#039;11 settembre 2001
-slug: /2008/04/11/ecco-la-vera-verita-su-cosa-e-successo-l11-settembre-2001/
+slug: /2008/04/ecco-la-vera-verita-su-cosa-e-successo-l11-settembre-2001/
 ---
 
 ![11_settembre_guerre_stellari.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/11_settembre_guerre_stellari.jpg)

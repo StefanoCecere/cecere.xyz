@@ -10,7 +10,7 @@ tags:
 - Milano
 - umanista
 title: Newsletter Forum n.3
-slug: /2008/10/13/newsletter-forum-n3/
+slug: /2008/10/newsletter-forum-n3/
 ---
 
 ecco la terza Newsletter, con info sulla partecipazione dell'ambasciatore boliviano (che porta i saluti di Evo Morales) e altri dettagli sul forum che inizierà fra qualche giorno a Milano…

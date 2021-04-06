@@ -8,7 +8,7 @@ tags:
 - umanista
 title: A PROPOSITO DI UNA ESERCITAZIONE ANTITERRORISMO TENUTA A MILANO IL 23 SETTEMBRE
   2005
-slug: /2005/09/23/a-proposito-di-una-esercitazione-antiterrorismo-tenuta-a-milano-il-23-settembre-2005/
+slug: /2005/09/a-proposito-di-una-esercitazione-antiterrorismo-tenuta-a-milano-il-23-settembre-2005/
 ---
 
 Oggi hanno fatto le prove come se ci fosse stato un attentato.

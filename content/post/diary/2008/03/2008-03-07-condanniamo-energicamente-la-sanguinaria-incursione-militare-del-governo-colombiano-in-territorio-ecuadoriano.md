@@ -14,7 +14,7 @@ tags:
 - violenza
 title: Condanniamo energicamente la sanguinaria incursione militare del Governo Colombiano
   in territorio Ecuadoriano
-slug: /2008/03/07/condanniamo-energicamente-la-sanguinaria-incursione-militare-del-governo-colombiano-in-territorio-ecuadoriano/
+slug: /2008/03/condanniamo-energicamente-la-sanguinaria-incursione-militare-del-governo-colombiano-in-territorio-ecuadoriano/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/180px-tomas_hirsch.jpg' alt='180px-tomas_hirsch.jpg' align="left" />Ai popoli e ai Governi dell’America Latina

@@ -10,7 +10,7 @@ tags:
 - pubblicità
 - volantino
 title: Manifesto pubblicitario Forum Milano
-slug: /2008/10/16/manifesto-pubblicitario-forum-milano/
+slug: /2008/10/manifesto-pubblicitario-forum-milano/
 ---
 
 questo il manifesto che gironzola pere Milano, giornali, metropolitane.. cliccalo per aprirne il PDF

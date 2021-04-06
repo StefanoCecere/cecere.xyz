@@ -8,7 +8,7 @@ id: 4301
 title: |
   sono anni che lo diciamo #Barnard #MMT
   “I numeri s…
-slug: /2013/04/19/sono-anni-che-lo-diciamo-barnard-mmti-numeri-s/
+slug: /2013/04/sono-anni-che-lo-diciamo-barnard-mmti-numeri-s/
 ---
 
 sono anni che lo diciamo [#Barnard](http://twitter.com/search?q=%23Barnard) [#MMT](http://twitter.com/search?q=%23MMT)

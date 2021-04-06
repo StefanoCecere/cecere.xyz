@@ -9,7 +9,7 @@ tags:
 - spirito
 - umanista
 title: ti invito domenica pomeriggio ad una festa umanista
-slug: /2006/06/14/ti-invito-domenica-pomeriggio-ad-una-festa-umanista/
+slug: /2006/06/ti-invito-domenica-pomeriggio-ad-una-festa-umanista/
 ---
 
 <div style="text-align: center">

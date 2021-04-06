@@ -4,7 +4,7 @@ date: 2006-04-24T08:59:57Z
 guid: http://stefanocecere.com/2006/04/24/molto-interessante-davvero/
 id: 261
 title: molto interessante davvero
-slug: /2006/04/24/molto-interessante-davvero/
+slug: /2006/04/molto-interessante-davvero/
 ---
 
 Giro da un caro amico, prete VERO, con la preghiera di diffondere a quanta più gente possibile. Baci

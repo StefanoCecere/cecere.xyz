@@ -4,7 +4,7 @@ date: 2007-11-22T00:24:50Z
 guid: http://stefanocecere.com/2007/11/22/lanterna-di-fuoco-da-brooklyng/
 id: 608
 title: Lanterna di fuoco! (da Brooklyng)
-slug: /2007/11/22/lanterna-di-fuoco-da-brooklyng/
+slug: /2007/11/lanterna-di-fuoco-da-brooklyng/
 ---
 
 <div>

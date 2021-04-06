@@ -6,7 +6,7 @@ id: 203
 tags:
 - umanista
 title: Regionale Umanista Africana a Dakar
-slug: /2006/01/02/regionale-umanista-africana-a-dakar/
+slug: /2006/01/regionale-umanista-africana-a-dakar/
 ---
 
 E’ dal 27 dicembre che tanti amici hanno iniziato a partire per Dakar.. ed ecco qui il perché!

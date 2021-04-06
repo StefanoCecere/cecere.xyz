@@ -9,7 +9,7 @@ tags:
 - music
 - ricreazione
 title: e ora .. MUSICA!!!
-slug: /2008/04/10/e-ora-musica/
+slug: /2008/04/e-ora-musica/
 ---
 
 <a href="http://www.flickr.com/photos/krur/sets/72157603371676233/" target="_blank"><img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/cecio_krur_al_pianoforte.jpg' alt='cecio_krur_al_pianoforte.jpg' /></a>

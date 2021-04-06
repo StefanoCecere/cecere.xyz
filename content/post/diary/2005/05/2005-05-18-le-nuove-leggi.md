@@ -4,7 +4,7 @@ date: 2005-05-18T17:28:58Z
 guid: http://stefanocecere.com/?p=41
 id: 41
 title: Le nuove leggi..
-slug: /2005/05/18/le-nuove-leggi/
+slug: /2005/05/le-nuove-leggi/
 ---
 
 <span style="font-weight: bold">le seguenti sono alcune delle leggi in vigore nei cartoni animati (specialmente quelli giapponesi)…<br /> nuove leggi… servono nuove leggi…</span>

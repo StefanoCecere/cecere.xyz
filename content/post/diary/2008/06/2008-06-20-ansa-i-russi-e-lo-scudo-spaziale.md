@@ -12,7 +12,7 @@ tags:
 - Russia
 - scudo spaziale
 title: 'ANSA: i Russi e lo Scudo Spaziale'
-slug: /2008/06/20/ansa-i-russi-e-lo-scudo-spaziale/
+slug: /2008/06/ansa-i-russi-e-lo-scudo-spaziale/
 ---
 
 il tema grosso della questione Scudo è che sta creando tensioni internazionali di inimmaginabile (non per noi) portata.

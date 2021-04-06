@@ -7,7 +7,7 @@ tags:
 - ricreazione
 - tecnologia
 title: proprio sicuri di quello che vedete?
-slug: /2005/11/21/proprio-sicuri-di-quello-che-vedete/
+slug: /2005/11/proprio-sicuri-di-quello-che-vedete/
 ---
 
 segui con gli occhi il movimento del pallino.. i puntini sono tutti ROSA.

@@ -8,7 +8,7 @@ tags:
 - Politica
 - vergogna!
 title: 'Rispedirli in Libia: che vergogna…'
-slug: /2009/05/08/rispedirli-in-libia-che-vergogna/
+slug: /2009/05/rispedirli-in-libia-che-vergogna/
 ---
 
 <img class="aligncenter size-full wp-image-1745" title="immigrati_libia" src="http://stefanocecere.com/wp-content/uploads/sites/3/2009/05/immigrati_libia.jpg" alt="immigrati_libia" width="450" height="302" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2009/05/immigrati_libia.jpg 450w, http://stefanocecere.com/wp-content/uploads/sites/3/2009/05/immigrati_libia-300x201.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" />

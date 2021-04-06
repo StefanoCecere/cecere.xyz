@@ -13,7 +13,7 @@ tags:
 - petizione
 - scudo spaziale
 title: Iniziato lo sciopero della fame contro lo scudo stellare
-slug: /2008/05/14/iniziato-lo-sciopero-della-fame-contro-lo-scudo-stellare/
+slug: /2008/05/iniziato-lo-sciopero-della-fame-contro-lo-scudo-stellare/
 ---
 
 ![hunger-strike.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/hunger-strike.jpg)

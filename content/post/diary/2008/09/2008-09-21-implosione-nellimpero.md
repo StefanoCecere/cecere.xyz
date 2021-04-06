@@ -16,7 +16,7 @@ tags:
 - Stati Uniti
 - valori
 title: IMPLOSIONE NELL&#039;IMPERO
-slug: /2008/09/21/implosione-nellimpero/
+slug: /2008/09/implosione-nellimpero/
 ---
 
 [<img class="aligncenter size-full wp-image-1241" title="dollaro-300x221" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/dollaro-300x221.jpg" alt="" width="300" height="221" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/dollaro-300x221.jpg)

@@ -9,7 +9,7 @@ tags:
 - foto
 - zeitgeist
 title: 'Zeitgeist a Firenze: le foto'
-slug: /2008/05/02/zeitgeist-a-firenze-le-foto/
+slug: /2008/05/zeitgeist-a-firenze-le-foto/
 ---
 
 nelle ultime settimane ho collaborato all'organizzazione del Cineforum "Okkio non vede, cuore nn duole… cervello nn pensa?"

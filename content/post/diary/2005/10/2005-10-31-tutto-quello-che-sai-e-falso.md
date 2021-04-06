@@ -10,7 +10,7 @@ tags:
 - libri
 - vergogna!
 title: Tutto quello che sai è FALSO
-slug: /2005/10/31/tutto-quello-che-sai-e-falso/
+slug: /2005/10/tutto-quello-che-sai-e-falso/
 ---
 
 un po' lo sapevo già, ma ricordarmelo non fa mai male…

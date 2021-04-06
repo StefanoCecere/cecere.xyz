@@ -8,7 +8,7 @@ tags:
 - spirito
 - umanista
 title: 'ancora referendum 25 giugno: cosa fare?'
-slug: /2006/05/31/ancora-referendum-25-giugno-cosa-fare/
+slug: /2006/05/ancora-referendum-25-giugno-cosa-fare/
 ---
 
 <img id="image297" alt="salviamolacostituzione.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/05/salviamolacostituzione.jpg" />

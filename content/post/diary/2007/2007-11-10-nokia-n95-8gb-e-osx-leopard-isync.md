@@ -7,7 +7,7 @@ tags:
 - mac
 - tecnologia
 title: Nokia N95 8Gb e OSX leopard isync
-slug: /2007/11/10/nokia-n95-8gb-e-osx-leopard-isync/
+slug: /2007/11/nokia-n95-8gb-e-osx-leopard-isync/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2007/11/nokia-n95-8gb.jpg' alt='nokia-n95-8gb.jpg' align="left" />davvero.. finalmente sono entrato anch'io nel mondo tecnologicamente avanzato dei cellulari (così posso connettermi a internet anche da Settignano dove l'adsl non c'è ancora!!!)

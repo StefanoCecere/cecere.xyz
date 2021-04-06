@@ -11,7 +11,7 @@ tags:
 - Terra 2.0
 - umanista
 title: PROTEGGIAMO LA RINASCITA DEL POPOLO BOLIVIANO
-slug: /2007/12/10/proteggiamo-la-rinascita-del-popolo-boliviano/
+slug: /2007/12/proteggiamo-la-rinascita-del-popolo-boliviano/
 ---
 
 [<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2007/12/giorgio_schultze_bolivia.thumbnail.jpg' alt='giorgio_schultze_bolivia.jpg' align="left" />](http://stefanocecere.com/wp-content/uploads/sites/3/2007/12/giorgio_schultze_bolivia.jpg "giorgio_schultze_bolivia.jpg")Gente di tutta l'Europa guarda con ammirazione il processo costituente boliviano, un processo democratico e nonviolento che riscatta 500 anni di discriminazione e d'ingiustizia.

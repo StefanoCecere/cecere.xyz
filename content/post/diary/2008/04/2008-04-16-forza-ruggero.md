@@ -9,7 +9,7 @@ tags:
 - solidarietà
 - spirito
 title: Forza Ruggero!
-slug: /2008/04/16/forza-ruggero/
+slug: /2008/04/forza-ruggero/
 ---
 
 pubblico questo messaggio che mi è appena arrivato dagli amici di Roma.

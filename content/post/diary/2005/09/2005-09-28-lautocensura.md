@@ -4,7 +4,7 @@ date: 2005-09-28T22:24:29Z
 guid: http://stefanocecere.com/2005/09/30/lautocensura/
 id: 98
 title: l'autocensura
-slug: /2005/09/28/lautocensura/
+slug: /2005/09/lautocensura/
 ---
 
 troppo a lungo e con troppa meticolosità abbiamo tenuto la bocca chiusa.

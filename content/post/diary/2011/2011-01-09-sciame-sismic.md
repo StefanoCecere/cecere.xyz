@@ -15,7 +15,7 @@ tags:
 - Politica
 - soldi
 title: 'Sciame sismico: ovvero non pensarci che non ti passa!'
-slug: /2011/01/09/sciame-sismic/
+slug: /2011/01/sciame-sismic/
 ---
 
 <img class="alignright size-medium wp-image-2316" title="euro_geometric" src="http://stefanocecere.com/wp-content/uploads/sites/3/2011/01/euro_geometric-330x320.jpg" alt="" width="330" height="320" />Condivido il [nuovo articolo](http://paolobarnard.info/intervento_mostra_go.php?id=201) del giornalista Paolo Barnard che non troverete publicato su nessun giornale, tantomeno trattato in televisione (se così fosse fatemelo sapere!)

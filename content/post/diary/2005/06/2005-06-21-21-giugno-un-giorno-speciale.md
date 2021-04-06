@@ -7,7 +7,7 @@ tags:
 - Futuro
 - spirito
 title: '21 giugno: un giorno speciale'
-slug: /2005/06/21/21-giugno-un-giorno-speciale/
+slug: /2005/06/21-giugno-un-giorno-speciale/
 ---
 
 ciao

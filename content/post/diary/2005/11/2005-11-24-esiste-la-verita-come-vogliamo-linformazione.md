@@ -3,7 +3,7 @@ categories: [blog]
 tags: [Futuro]
 date: 2005-11-24T10:19:01Z
 title: esiste la verità? come vogliamo l'informazione?
-slug: /2005/11/24/esiste-la-verita-come-vogliamo-informazione/
+slug: /2005/11/esiste-la-verita-come-vogliamo-informazione/
 ---
 
 punto 1: **la "verità" non esiste.**

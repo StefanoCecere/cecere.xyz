@@ -8,7 +8,7 @@ tags:
 - scudo spaziale
 - video
 title: Anche Ringo appoggia Europe fo Peace
-slug: /2008/06/13/anche-ringo-appoggia-europe-fo-peace/
+slug: /2008/06/anche-ringo-appoggia-europe-fo-peace/
 ---
 
 Ringo, famoso dj di Radio 105:

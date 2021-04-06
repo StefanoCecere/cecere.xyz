@@ -1,6 +1,6 @@
 ---
 title: ciò che fai è importante.
-slug: /2005/04/09/cio-che-fai-importante/
+slug: /2005/04/cio-che-fai-importante/
 date: 2005-04-09T11:45:53Z
 categories: [blog]
 tags: [considerazioni]

@@ -9,7 +9,7 @@ tags:
 - recensione
 - ricreazione
 title: 'La Bussola d&#039;Oro: un film da vedere'
-slug: /2007/12/27/la-bussola-doro-un-film-da-vedere/
+slug: /2007/12/la-bussola-doro-un-film-da-vedere/
 ---
 
 mi aveva incuriosito (soprattutto per le forti critiche del mondo cattolico al personaggio della nicole kidman)… e poi perchè mi piacciono i fantsy..

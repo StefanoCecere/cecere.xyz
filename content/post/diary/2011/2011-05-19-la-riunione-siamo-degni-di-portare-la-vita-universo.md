@@ -14,7 +14,7 @@ tags:
 - scienza
 - storia
 title: 'La riunione: ovvero siamo degni di portare la vita nell&#039;universo?'
-slug: /2011/05/19/la-riunione-siamo-degni-di-portare-la-vita-universo/
+slug: /2011/05/la-riunione-siamo-degni-di-portare-la-vita-universo/
 ---
 
 “Considerando tutta la cosa precedente, ma dall'angolo della Tradizione, la leggenda è questa: il Creatore fece l'uomo a sua immagine, ma lo lasciò incompiuto affinché si sviluppasse armonicamente d'accordo al processo della natura, sulla quale lo aveva collocato per dirigerla.”

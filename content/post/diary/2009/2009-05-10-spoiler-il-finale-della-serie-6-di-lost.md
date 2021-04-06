@@ -8,7 +8,7 @@ tags:
 - Lost
 - ridere
 title: 'SPOILER: il finale della serie 6 di Lost'
-slug: /2009/05/10/spoiler-il-finale-della-serie-6-di-lost/
+slug: /2009/05/spoiler-il-finale-della-serie-6-di-lost/
 ---
 
 non nascondo che uno dei pochi telefilm che seguo (oltre ai Simpson) è Lost… nonostante siamo solo quasi alle fine della serie 5 (su 6), è trapelato il finale di tutta la vicenda… finale meraviglioso.. si capisce tutti questi anni di "non capire", situazione confusa ma certamente ricca di colpi di scena, ma anche ripetizioni, delitti etc…

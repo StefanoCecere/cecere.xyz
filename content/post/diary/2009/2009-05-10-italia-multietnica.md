@@ -10,7 +10,7 @@ tags:
 - Lega
 - pace
 title: Italia multietnica?
-slug: /2009/05/10/italia-multietnica/
+slug: /2009/05/italia-multietnica/
 ---
 
 ieri mattina (nell'andare ad Assisi per partecipare alla riunione nazionale del Tavolo per la Pace) avevo scelto questa maglietta.

@@ -10,7 +10,7 @@ tags:
 - Terra 2.0
 - umanista
 title: 'La nonviolenza è in cammino: 2010 anno mondiale della nonviolenza?'
-slug: /2008/04/15/la-nonviolenza-e-in-cammino-2010-anno-mondiale-della-nonviolenza/
+slug: /2008/04/la-nonviolenza-e-in-cammino-2010-anno-mondiale-della-nonviolenza/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/gandhi.thumbnail.jpg' alt='gandhi.jpg' align="left" />se davvero il **2010 verrà eletto anno della nonviolenza**, e chi si sta accorgendo che la strada della nonviolenza è l'unica veramente interessante da percorrere.. andremo avanti insieme, forti e allegri!

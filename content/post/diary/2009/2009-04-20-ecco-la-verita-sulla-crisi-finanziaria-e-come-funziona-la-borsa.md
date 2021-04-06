@@ -11,7 +11,7 @@ tags:
 - ridere
 - vignetta
 title: Ecco la verità sulla Crisi finanziaria (e come funziona la &quot;Borsa&quot;)
-slug: /2009/04/20/ecco-la-verita-sulla-crisi-finanziaria-e-come-funziona-la-borsa/
+slug: /2009/04/ecco-la-verita-sulla-crisi-finanziaria-e-come-funziona-la-borsa/
 ---
 
 se volete una descrizione veramente dettagliata e semplice sull'origine matematica della crisi finanziaria, andate a comprarvi il WIred (edizione italiana!!) in edicola (oppure [leggi qui](#mce_temp_url#))

@@ -8,7 +8,7 @@ tags:
 - rivoluzione
 - umanista
 title: la rivoluzione mondiale
-slug: /2005/10/03/la-rivoluzione-mondiale/
+slug: /2005/10/la-rivoluzione-mondiale/
 ---
 
 ognuno ha un diverso modo di rappresentarsi delle idee o dei concetti.

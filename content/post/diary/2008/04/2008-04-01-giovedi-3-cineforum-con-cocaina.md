@@ -9,7 +9,7 @@ tags:
 - droga
 - film
 title: 'Giovedì 3: cineforum con &quot;Cocaina&quot;'
-slug: /2008/04/01/giovedi-3-cineforum-con-cocaina/
+slug: /2008/04/giovedi-3-cineforum-con-cocaina/
 ---
 
 ![cocaina.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/cocaina.jpg)

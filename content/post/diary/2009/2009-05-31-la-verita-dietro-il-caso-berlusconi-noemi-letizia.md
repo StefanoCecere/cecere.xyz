@@ -7,7 +7,7 @@ tags:
 - Berlusconi
 - Politica
 title: La verità dietro il caso Berlusconi-Noemi-Letizia
-slug: /2009/05/31/la-verita-dietro-il-caso-berlusconi-noemi-letizia/
+slug: /2009/05/la-verita-dietro-il-caso-berlusconi-noemi-letizia/
 ---
 
 <img class="alignleft size-full wp-image-1823" title="gomorra" src="http://stefanocecere.com/wp-content/uploads/sites/3/2009/05/gomorra.jpg" alt="gomorra" width="92" height="130" />io ho una mia intuizione. ripeto: una INTUIZIONE, quindi NON basata su fatti accertati. Sarà forse per questo che nessun media pubblico ne può parlare nei seguenti questi termini?

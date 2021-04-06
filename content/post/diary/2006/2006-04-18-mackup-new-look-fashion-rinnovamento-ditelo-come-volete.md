@@ -4,7 +4,7 @@ date: 2006-04-18T23:46:00Z
 guid: http://stefanocecere.com/2006/04/18/mackup-new-look-fashion-rinnovamento-ditelo-come-volete/
 id: 259
 title: mackup new look fashion rinnovamento ditelo come volete…
-slug: /2006/04/18/mackup-new-look-fashion-rinnovamento-ditelo-come-volete/
+slug: /2006/04/mackup-new-look-fashion-rinnovamento-ditelo-come-volete/
 ---
 
 [<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/04/cecio_pittura.jpg" alt="cecio_pittura" width="90" height="120" class="alignleft size-full wp-image-5490" />](http://www.ilfannullone.it/new/il-locale-fannullone-sta-cambiando-labito/64/)… fatto sta che a volte si desidera, o è necessario per proseguire il cammino, il fermarsi un attimo, buttare tutto all'aria e poi risistemare le cose, vero?

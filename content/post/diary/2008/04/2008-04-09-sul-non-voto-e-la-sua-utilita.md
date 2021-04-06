@@ -10,7 +10,7 @@ tags:
 - Politica
 - votazioni
 title: Sul &quot;non voto&quot; e la sua utilità
-slug: /2008/04/09/sul-non-voto-e-la-sua-utilita/
+slug: /2008/04/sul-non-voto-e-la-sua-utilita/
 ---
 
 varie argomentazioni si stanno facendo sulla questione del non andare a votare, e sul modo migliore di far sapere a questa politica che non ci piace.

@@ -8,7 +8,7 @@ tags:
 - evoluzione
 - storia
 title: La ranocchia che non sapeva di essere cotta …
-slug: /2011/10/24/la-ranocchia-che-non-sapeva-di-essere-cotta/
+slug: /2011/10/la-ranocchia-che-non-sapeva-di-essere-cotta/
 ---
 
 <p style="text-align: center">

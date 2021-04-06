@@ -10,7 +10,7 @@ tags:
 - missili
 - quiz
 title: Scovato un missile cruise su Google Maps!!
-slug: /2008/09/04/scovato-un-missile-cruise-su-google-maps/
+slug: /2008/09/scovato-un-missile-cruise-su-google-maps/
 ---
 
 amici da oggi torno al blog… il rientro dalle vacanze è stato intenso di mille faccende da impostare e finire. tutti i giorni aspettatevi le necessarie news sull'attualità, commenti, satira, esperienze interessanti e tutti i grandi progetti che molti esseri umani stanno portando avanti nonostante tutto.

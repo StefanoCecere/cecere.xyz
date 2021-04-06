@@ -14,7 +14,7 @@ tags:
 - suono
 - Vibrazioni
 title: La frequenza del mondo
-slug: /2012/04/20/la-frequenza-del-mondo/
+slug: /2012/04/la-frequenza-del-mondo/
 ---
 
 è proprio così: **il mondo _è_ come lo vedi!**

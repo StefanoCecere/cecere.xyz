@@ -9,7 +9,7 @@ tags:
 - Events
 - Politica
 title: Il crollo è pubblicato
-slug: /2008/09/18/il-crollo-e-pubblicato/
+slug: /2008/09/il-crollo-e-pubblicato/
 ---
 
 _"il crollo è pubblicato."_

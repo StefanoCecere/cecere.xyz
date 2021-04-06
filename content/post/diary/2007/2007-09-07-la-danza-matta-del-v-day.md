@@ -8,6 +8,6 @@ tags:
 - ridere
 - video
 title: LA DANZA MATTA DEL V DAY!
-slug: /2007/09/07/la-danza-matta-del-v-day/
+slug: /2007/09/la-danza-matta-del-v-day/
 ---
 

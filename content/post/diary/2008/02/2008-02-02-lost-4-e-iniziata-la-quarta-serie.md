@@ -9,7 +9,7 @@ tags:
 - ricreazione
 - TV
 title: Lost 4 .. è iniziata la quarta serie
-slug: /2008/02/02/lost-4-e-iniziata-la-quarta-serie/
+slug: /2008/02/lost-4-e-iniziata-la-quarta-serie/
 ---
 
 questa notte ho visto la prima puntata della quarta serie.

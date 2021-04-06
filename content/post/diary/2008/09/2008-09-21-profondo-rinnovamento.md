@@ -7,7 +7,7 @@ id: 1188
 tags:
 - cecio
 title: Profondo rinnovamento
-slug: /2008/09/21/profondo-rinnovamento/
+slug: /2008/09/profondo-rinnovamento/
 ---
 
 [<img class="aligncenter size-full wp-image-1192" title="rinnovamento-renew" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/rinnovamento-renew.jpg" alt="" width="400" height="400" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/rinnovamento-renew.jpg 400w, http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/rinnovamento-renew-150x150.jpg 150w, http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/rinnovamento-renew-300x300.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/rinnovamento-renew.jpg)il restyling di questo blog è solo l'inizio di tutta la nuova fase di progetti che sto preparando.

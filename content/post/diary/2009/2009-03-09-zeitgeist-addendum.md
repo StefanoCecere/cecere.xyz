@@ -7,7 +7,7 @@ tags:
 - cineforum
 - video
 title: 'Zeitgeist: addendum'
-slug: /2009/03/09/zeitgeist-addendum/
+slug: /2009/03/zeitgeist-addendum/
 ---
 
 il 15 marzo dell'anno scorso avevo organizzato a Monza (e in seguito a Firenze) la proiezione pubblica del film Zeitgeist: un interessante documentario su come la coscienza umana è oggetto di controllo da parte di soggetti esterni.

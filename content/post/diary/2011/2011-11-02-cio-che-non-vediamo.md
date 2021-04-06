@@ -11,7 +11,7 @@ tags:
 - telescopio
 - universo
 title: Ciò che non vediamo
-slug: /2011/11/02/cio-che-non-vediamo/
+slug: /2011/11/cio-che-non-vediamo/
 ---
 
 foto tratte da un nuovo telescopio della NASA. non dovrebbero necesittare commenti (basta tradurre la didascalia)

@@ -8,7 +8,7 @@ tags:
 - TV
 - video
 title: cosa danno in TV in Colombia
-slug: /2009/04/05/cosa-danno-in-tv-in-colombia/
+slug: /2009/04/cosa-danno-in-tv-in-colombia/
 ---
 
 uno dei 3 più grandi network televisivi colombiano appoggia la marcia producendo essi stessi settimanalmente video tipo:

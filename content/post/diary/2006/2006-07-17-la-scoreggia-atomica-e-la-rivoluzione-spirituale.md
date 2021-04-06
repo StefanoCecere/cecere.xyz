@@ -6,7 +6,7 @@ id: 367
 tags:
 - spirito
 title: La scoreggia atomica e la rivoluzione spirituale
-slug: /2006/07/17/la-scoreggia-atomica-e-la-rivoluzione-spirituale/
+slug: /2006/07/la-scoreggia-atomica-e-la-rivoluzione-spirituale/
 ---
 
 <img align="left" title="Situazione Mondiale in Medio Oriente" id="image364" alt="Situazione Mondiale in Medio Oriente" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/07/situazione_mondiale_medio_oriente.jpg" />Mentre la situazione in **Medio Oriente** peggiora di giorno in giorno (quando ero bambino sentivo già parlare della guerra in Libano e le bombe su Beirut.. )… tanto che c'è chi ipotizza che **da lì partirà la grande (forse ultima) scoreggia atomica**…

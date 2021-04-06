@@ -7,7 +7,7 @@ id: 129
 tags:
 - umanista
 title: ma cosa sta succedendo?
-slug: /2005/11/04/ma-cosa-sta-succedendo/
+slug: /2005/11/ma-cosa-sta-succedendo/
 ---
 
 [http://www.repubblica.it](http://www.repubblica.it/2005/k/sezioni/politica/orlandoesp/orlandoesp/orlandoesp.html)

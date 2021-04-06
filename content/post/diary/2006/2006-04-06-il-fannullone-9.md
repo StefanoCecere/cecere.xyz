@@ -9,7 +9,7 @@ tags:
 - ricreazione
 - umanista
 title: Il Fannullone 9!
-slug: /2006/04/06/il-fannullone-9/
+slug: /2006/04/il-fannullone-9/
 ---
 
 [<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/04/ilfannullone_09_cover.jpg" alt="ilfannullone_09_cover" width="160" height="240" class="alignleft size-full wp-image-5492" />](http://www.ilfannullone.it)buone nuove:

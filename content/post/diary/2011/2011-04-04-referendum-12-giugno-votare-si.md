@@ -8,7 +8,7 @@ tags:
 - Politica
 - referendum
 title: 'Referendum 12 giugno: VOTARE SI'
-slug: /2011/04/04/referendum-12-giugno-votare-si/
+slug: /2011/04/referendum-12-giugno-votare-si/
 ---
 
 Ai referendum di **domenica 12** e **lunedì 13 giugno** vota **<span style="text-decoration: underline">SI</span>** per dire NO.<span style="color: #000000"><strong><br /> </strong></span>

@@ -9,7 +9,7 @@ tags:
 - disarmo
 - Venezuela
 title: Hugo Chavez dice che il tempo dei fucili è passato…
-slug: /2008/07/04/hugo-chavez-dice-che-il-tempo-dei-fucili-e-passato/
+slug: /2008/07/hugo-chavez-dice-che-il-tempo-dei-fucili-e-passato/
 ---
 
 "**El tiempo de los fusiles ya pasó. Que no nos obliguen a retornar a esos tiempos. Yo creo que es otra hora la que estamos viviendo. Hago un llamado a la guerrilla colombiana para que lo piense**", dijo **Chávez**.

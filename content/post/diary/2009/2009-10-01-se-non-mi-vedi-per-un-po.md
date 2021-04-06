@@ -5,7 +5,7 @@ date: 2009-10-01T00:03:12Z
 guid: http://stefanocecere.com/?p=1927
 id: 1927
 title: se non mi vedi per un po&#039;…
-slug: /2009/10/01/se-non-mi-vedi-per-un-po/
+slug: /2009/10/se-non-mi-vedi-per-un-po/
 ---
 
 è perché sono qui: [blog.theworldmarch.org](http://blog.theworldmarch.org)

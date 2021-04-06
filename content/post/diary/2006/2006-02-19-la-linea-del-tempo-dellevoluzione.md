@@ -7,7 +7,7 @@ tags:
 - spirito
 - umanista
 title: la linea del tempo dell&#039;evoluzione
-slug: /2006/02/19/la-linea-del-tempo-dellevoluzione/
+slug: /2006/02/la-linea-del-tempo-dellevoluzione/
 ---
 
 ![](/wp-content/la_linea_del_tempo_01.jpg)

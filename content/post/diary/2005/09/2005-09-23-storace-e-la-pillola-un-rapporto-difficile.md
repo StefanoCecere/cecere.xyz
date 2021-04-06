@@ -4,7 +4,7 @@ date: 2005-09-23T07:37:51Z
 guid: http://stefanocecere.com/2005/09/23/storace-e-la-pillola-un-rapporto-difficile/
 id: 92
 title: 'Storace e la pillola: un rapporto difficile'
-slug: /2005/09/23/storace-e-la-pillola-un-rapporto-difficile/
+slug: /2005/09/storace-e-la-pillola-un-rapporto-difficile/
 ---
 
 Solo 10 giorni fa il ministro della Salute, Francesco Storace, definiva la RU 486, durante un intervento a Radio Uno, la &#x201c;pillola della morte&#x201d;. &#xc8; una definizione dal sapore indubitabilmente fondamentalista, quella che il ministro da della molecola Mifegyne (detta anche RU 486) che viene usata in quasi tutti i paesi europei per interrompere la gravidanza.

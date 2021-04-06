@@ -7,7 +7,7 @@ tags:
 - arte
 - Sanremo
 title: Primi commenti su Sanremo, la Tatangelo favorita? chi vincerà?
-slug: /2008/02/26/primi-commenti-su-sanremo-la-tatangelo-favorita-chi-vincera/
+slug: /2008/02/primi-commenti-su-sanremo-la-tatangelo-favorita-chi-vincera/
 ---
 
 la prima cosa che mi salta come una capra nell'occhio è: perché tutti trattano la Tatangelo come se fosse già la vincitrice?

@@ -9,7 +9,7 @@ tags:
 - razzismo
 - Roma
 title: Contro tutti i razzismi
-slug: /2008/07/12/contro-tutti-i-razzismi/
+slug: /2008/07/contro-tutti-i-razzismi/
 ---
 
 <img class="aligncenter" src="http://c234.net/info/wp-content/uploads/2008/07/volantino12luglio.jpg" alt="contro tutti i razzismi" />

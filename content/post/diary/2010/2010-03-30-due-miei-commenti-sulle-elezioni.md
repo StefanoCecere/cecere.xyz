@@ -7,7 +7,7 @@ tags:
 - elezioni
 - Politica
 title: due miei commenti sulle elezioni
-slug: /2010/03/30/due-miei-commenti-sulle-elezioni/
+slug: /2010/03/due-miei-commenti-sulle-elezioni/
 ---
 
 mi permetto due commenti a caldo:

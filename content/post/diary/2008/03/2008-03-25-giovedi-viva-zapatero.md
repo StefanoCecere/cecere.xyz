@@ -10,7 +10,7 @@ tags:
 - film
 - Monza
 title: 'Giovedì: Viva Zapatero!'
-slug: /2008/03/25/giovedi-viva-zapatero/
+slug: /2008/03/giovedi-viva-zapatero/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/viva-zapatero.thumbnail.jpg' alt='viva-zapatero.jpg' align="left" />questo GIOVEDI' 27 marzo, ore 21:00, si continua il CINEFORUM

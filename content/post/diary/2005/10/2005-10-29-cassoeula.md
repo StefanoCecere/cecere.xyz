@@ -8,7 +8,7 @@ tags:
 - Monza
 - solidarietà
 title: cassoeula
-slug: /2005/10/29/cassoeula/
+slug: /2005/10/cassoeula/
 ---
 
 stasera di mangia la cassoeula.. ahh.. finalmente.. dopo 1 anno!! 😀

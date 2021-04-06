@@ -10,7 +10,7 @@ tags:
 - povertà
 - tg
 title: Cosa non sai dei pirati somali
-slug: /2009/04/21/cosa-non-sai-dei-pirati-somali/
+slug: /2009/04/cosa-non-sai-dei-pirati-somali/
 ---
 
 normalmente quando ai tg cominciano a passare qualche notizia che parla di un "pericolo" per noi, magari reiterando un "crimine" che minaccia la nostra sicurezza.. non so perchè ma alzo le antennine e sento odore di "non ce la stanno dicendo tutta".

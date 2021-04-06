@@ -7,7 +7,7 @@ tags:
 - spirito
 - umanista
 title: Incoerenza o coerenza?
-slug: /2006/05/15/incoerenza-o-coerenza/
+slug: /2006/05/incoerenza-o-coerenza/
 ---
 
 ![](/wp-content/incoerenza_coerenza.jpg)

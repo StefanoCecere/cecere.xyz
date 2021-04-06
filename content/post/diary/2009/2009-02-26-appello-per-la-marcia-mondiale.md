@@ -6,7 +6,7 @@ id: 1540
 tags:
 - Mondo Senza Guerre
 title: Appello per la Marcia Mondiale
-slug: /2009/02/26/appello-per-la-marcia-mondiale/
+slug: /2009/02/appello-per-la-marcia-mondiale/
 ---
 
 **LA MARCIA MONDIALE PER LA PACE E LA NONVIOLENZA**

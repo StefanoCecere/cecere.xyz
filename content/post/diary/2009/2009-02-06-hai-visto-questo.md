@@ -9,7 +9,7 @@ tags:
 - Mondo Senza Guerre
 - spot
 title: Hai visto questo?
-slug: /2009/02/06/hai-visto-questo/
+slug: /2009/02/hai-visto-questo/
 ---
 
 [www.theworldmarch.org](http://www.theworldmarch.org)

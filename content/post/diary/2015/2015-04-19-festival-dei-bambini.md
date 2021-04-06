@@ -10,7 +10,7 @@ tags:
 - Firenze
 - imparare
 title: Festival dei Bambini
-slug: /2015/04/19/festival-dei-bambini/
+slug: /2015/04/festival-dei-bambini/
 ---
 
 <img class="alignnone size-large wp-image-5762" src="http://stefanocecere.com/wp-content/uploads/sites/3/2015/04/festival-bambini-firenze-2015-1024x768.jpg" alt="festival-bambini-firenze-2015" width="660" height="495" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2015/04/festival-bambini-firenze-2015-1024x768.jpg 1024w, http://stefanocecere.com/wp-content/uploads/sites/3/2015/04/festival-bambini-firenze-2015-300x225.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />

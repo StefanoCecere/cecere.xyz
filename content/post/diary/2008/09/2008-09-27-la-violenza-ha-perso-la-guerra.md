@@ -8,7 +8,7 @@ tags:
 - Silo
 - violenza
 title: La violenza ha perso la guerra
-slug: /2008/09/27/la-violenza-ha-perso-la-guerra/
+slug: /2008/09/la-violenza-ha-perso-la-guerra/
 ---
 
 _La violenza ha perso la guerra, giacché non si potrà più imporre con la violenza una pace ingiusta. Non si potrà nemmeno violentare la verità manipolando la parola “pace”._

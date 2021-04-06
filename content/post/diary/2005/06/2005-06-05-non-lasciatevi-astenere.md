@@ -4,7 +4,7 @@ date: 2005-06-05T10:05:54Z
 guid: http://stefanocecere.com/?p=31
 id: 31
 title: non lasciatevi astenere
-slug: /2005/06/05/non-lasciatevi-astenere/
+slug: /2005/06/non-lasciatevi-astenere/
 ---
 
 <img src="http://www.peccato.org/cartoons/IMMAGINI/astinenza_astensione_big.jpg" align="left" width="250" height="250" /><span style="font-weight: bold">Invitare i cittadini a non andare a votare al prossimo referendum del 12 e 13 giugno per la parziale abolizione della legge sulla procreazione assistita è un atto assolutamente antidemocratico.</span>

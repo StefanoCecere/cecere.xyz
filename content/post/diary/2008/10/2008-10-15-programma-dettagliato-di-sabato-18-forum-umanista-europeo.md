@@ -8,7 +8,7 @@ tags:
 - Milano
 - programma
 title: Programma dettagliato di sabato 18 - Forum Umanista Europeo
-slug: /2008/10/15/programma-dettagliato-di-sabato-18-forum-umanista-europeo/
+slug: /2008/10/programma-dettagliato-di-sabato-18-forum-umanista-europeo/
 ---
 
 **Sabato 18 ottobre**

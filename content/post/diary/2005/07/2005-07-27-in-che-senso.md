@@ -7,7 +7,7 @@ tags:
 - spirito
 - Futuro
 title: in che senso?
-slug: /2005/07/27/in-che-senso/
+slug: /2005/07/in-che-senso/
 ---
 
 non credo sia possibile che le migliaia di milioni di persone che abitano su questo pianeta possano essere indifferenti al tema del senso della vita.

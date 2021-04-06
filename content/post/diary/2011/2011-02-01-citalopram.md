@@ -9,7 +9,7 @@ tags:
 - rivoluzione
 - sistema
 title: Citalopram. (ovvero perché hanno vinto loro)
-slug: /2011/02/01/citalopram/
+slug: /2011/02/citalopram/
 ---
 
 ATTENZIONE: il [nuovo articolo](http://paolobarnard.info/intervento_mostra_go.php?id=206) di Paolo Barnard che qui riporto potrebbe innescarti uno stato mentale non favorevole a festeggiamenti o speranza per un futuro migliore.

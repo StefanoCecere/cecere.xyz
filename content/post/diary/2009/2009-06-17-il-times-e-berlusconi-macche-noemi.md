@@ -11,7 +11,7 @@ tags:
 - report
 - speculazione
 title: 'Il Times e Berlusconi: macché Noemi'
-slug: /2009/06/17/il-times-e-berlusconi-macche-noemi/
+slug: /2009/06/il-times-e-berlusconi-macche-noemi/
 ---
 
 sono sicuro che il riprodurre questo articolo ti potrebbe sconvolgere, probabilmente perché tu mi credi un anti Berlusconi ad oltranza, additandolo come l'unico nostro problema .. ah ah h. ebbene: seppure consideri il sig. Berlusconi un pessimo politico, un imprenditore mafioso, un ottimo intrattenitore da balera e non gli farei educare mio figlio (in pratica se ne poteva ben stare a fare il palazzinaro / televisionaro con le sue letteronze e tutti felici con la tv spenta), ho sempre cercato di far notare che lui non viene dalla "scuola dei cattivi"… ovvero non viene dal **sistema finanziario internazionale**.

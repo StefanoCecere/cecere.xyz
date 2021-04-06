@@ -11,7 +11,7 @@ tags:
 - umanista
 - video
 title: Molti musicisti appoggiano lo spot di Silo per il disarmo nucleare
-slug: /2006/10/10/molti-musicisti-appoggiano-lo-spot-di-silo-per-il-disarmo-nucleare/
+slug: /2006/10/molti-musicisti-appoggiano-lo-spot-di-silo-per-il-disarmo-nucleare/
 ---
 
 Nel giro di poche settimane, diversi amici musicisti hanno aderito alla Campagna in corso per il Disarmo Nucleare Immediato.

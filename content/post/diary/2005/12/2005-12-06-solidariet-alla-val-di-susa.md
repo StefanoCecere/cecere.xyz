@@ -7,7 +7,7 @@ id: 169
 tags:
 - violenza
 title: solidarietà alla Val di Susa
-slug: /2005/12/06/solidariet-alla-val-di-susa/
+slug: /2005/12/solidariet-alla-val-di-susa/
 ---
 
 stanotte sono successe cose abbastanza imbarazzanti (polizia che manganella un po’ tutti)

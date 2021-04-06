@@ -8,7 +8,7 @@ tags:
 - spirito
 - umanista
 title: La presenza della Forza (o energia interna)
-slug: /2006/11/21/la-presenza-della-forza-o-energia-interna/
+slug: /2006/11/la-presenza-della-forza-o-energia-interna/
 ---
 
 <img alt="forza_energia_interna.jpg" id="image462" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/11/forza_energia_interna.jpg" />

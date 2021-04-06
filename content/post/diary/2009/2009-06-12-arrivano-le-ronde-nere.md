@@ -6,7 +6,7 @@ id: 1880
 tags:
 - fascismo
 title: Arrivano le ronde nere.
-slug: /2009/06/12/arrivano-le-ronde-nere/
+slug: /2009/06/arrivano-le-ronde-nere/
 ---
 
 <div class="sottotitolo_singolo">

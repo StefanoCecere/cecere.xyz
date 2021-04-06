@@ -8,7 +8,7 @@ tags:
 - music
 - video
 title: le gambette di Michael Jackson, Prince e James Brown
-slug: /2009/06/27/le-gambette-di-michael-jackson-prince-e-james-brown/
+slug: /2009/06/le-gambette-di-michael-jackson-prince-e-james-brown/
 ---
 
 i miei tre miti del sexy-soul-funky-dance in un video unico:

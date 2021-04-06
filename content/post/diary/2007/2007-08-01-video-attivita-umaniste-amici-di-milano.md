@@ -7,6 +7,6 @@ tags:
 - ricreazione
 - umanista
 title: Video attività umaniste (amici di Milano)
-slug: /2007/08/01/video-attivita-umaniste-amici-di-milano/
+slug: /2007/08/video-attivita-umaniste-amici-di-milano/
 ---
 

@@ -10,7 +10,7 @@ tags:
 - experience
 - travel
 title: Burning Man
-slug: /2014/12/19/burning-man/
+slug: /2014/12/burning-man/
 ---
 
 soon or later i'll go to a Burning Man

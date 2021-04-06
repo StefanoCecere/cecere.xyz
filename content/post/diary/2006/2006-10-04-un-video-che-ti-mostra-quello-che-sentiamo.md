@@ -9,7 +9,7 @@ tags:
 - umanista
 - video
 title: Un video che ti mostra quello che sentiamo…
-slug: /2006/10/04/un-video-che-ti-mostra-quello-che-sentiamo/
+slug: /2006/10/un-video-che-ti-mostra-quello-che-sentiamo/
 ---
 
 se la cosa ti piace, non fermati qui e procedi a vedere:

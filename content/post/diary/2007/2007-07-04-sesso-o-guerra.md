@@ -13,6 +13,6 @@ tags:
 - vergogna!
 - video
 title: Sesso o Guerra?
-slug: /2007/07/04/sesso-o-guerra/
+slug: /2007/07/sesso-o-guerra/
 ---
 

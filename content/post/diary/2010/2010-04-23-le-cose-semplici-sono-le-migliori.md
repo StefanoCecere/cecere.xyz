@@ -7,7 +7,7 @@ id: 2164
 tags:
 - senso della vita
 title: le cose semplici sono le migliori
-slug: /2010/04/23/le-cose-semplici-sono-le-migliori/
+slug: /2010/04/le-cose-semplici-sono-le-migliori/
 ---
 
 a volte basta un tavolo e una sediolina… e qualche animaletto… e si aprono nuovi mondi…

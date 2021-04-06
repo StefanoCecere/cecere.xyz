@@ -10,7 +10,7 @@ tags:
 - Politica
 - vergogna!
 title: Chiuso per lutto
-slug: /2008/04/15/chiuso-per-lutto/
+slug: /2008/04/chiuso-per-lutto/
 ---
 
 <p style="text-align: center">

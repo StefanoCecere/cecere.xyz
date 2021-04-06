@@ -9,7 +9,7 @@ tags:
 - profezia
 - ricreazione
 title: il film della Profezia di Celestino
-slug: /2007/12/17/il-film-della-profezia-di-celestino/
+slug: /2007/12/il-film-della-profezia-di-celestino/
 ---
 
 [<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/12/profezia-di-celestino-film.thumbnail.jpg" alt="profezia-di-celestino-film.jpg" align="left" />](http://stefanocecere.com/wp-content/uploads/sites/3/2007/12/profezia-di-celestino-film.jpg "profezia-di-celestino-film.jpg")

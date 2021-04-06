@@ -7,7 +7,7 @@ tags:
 - allarmismo
 - influenza
 title: Siamo tutti influenzabili. anche dall&#039;Australia
-slug: /2008/09/22/siamo-tutti-influenzabili-anche-dallaustralia/
+slug: /2008/09/siamo-tutti-influenzabili-anche-dallaustralia/
 ---
 
 quando leggevo i vari "attenzioni arriva l'australiana e sarà cattiva.. ridicolizzavo.. i soliti allarmismi….

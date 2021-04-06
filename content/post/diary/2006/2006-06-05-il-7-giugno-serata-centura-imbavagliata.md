@@ -7,7 +7,7 @@ id: 324
 tags:
 - ricreazione
 title: il 7 giugno serata &quot;centura imbavagliata&quot;
-slug: /2006/06/05/il-7-giugno-serata-centura-imbavagliata/
+slug: /2006/06/il-7-giugno-serata-centura-imbavagliata/
 ---
 
 Segnalo questo evento degno di nota:

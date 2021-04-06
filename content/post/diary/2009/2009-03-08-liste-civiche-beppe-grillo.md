@@ -4,7 +4,7 @@ date: 2009-03-08T16:51:01Z
 guid: http://stefanocecere.com/?p=1576
 id: 1576
 title: Liste civiche Beppe Grillo
-slug: /2009/03/08/liste-civiche-beppe-grillo/
+slug: /2009/03/liste-civiche-beppe-grillo/
 ---
 
 questa mattina alle 9:30 ero al Sashall di Firenze (qui sotto casa praticamente 🙂 per seguire tutti gli interventi di lancio delle Liste Civiche 5 stelle (promosse da Beppe Grillo)

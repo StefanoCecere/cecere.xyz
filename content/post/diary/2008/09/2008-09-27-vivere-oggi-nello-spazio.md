@@ -8,7 +8,7 @@ tags:
 - tecnologia
 - video
 title: Vivere oggi nello spazio
-slug: /2008/09/27/vivere-oggi-nello-spazio/
+slug: /2008/09/vivere-oggi-nello-spazio/
 ---
 
 una giornata quotidiana sulla Stazione Spaziale Internazionale… non vorreste farci un giro anche voi prima o poi?

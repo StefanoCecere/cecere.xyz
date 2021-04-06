@@ -8,7 +8,7 @@ tags:
 - ricreazione
 - tecnologia
 title: metti in gioco la nonviolenza
-slug: /2005/12/02/metti-in-gioco-la-nonviolenza/
+slug: /2005/12/metti-in-gioco-la-nonviolenza/
 ---
 
 [<img src='/wp-content/videogioco_nonviolenza.jpg' alt='' align='left' />](http://www.aforcemorepowerful.org/game/)sono almeno 10 anni che sogno di mettermi un giorno a sviluppare un gioco/videogioco che sviluppi dei temi veramente interessanti!

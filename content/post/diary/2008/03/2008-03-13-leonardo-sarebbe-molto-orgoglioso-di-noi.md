@@ -10,7 +10,7 @@ tags:
 - Terra 2.0
 - umanista
 title: Leonardo sarebbe molto orgoglioso di noi…
-slug: /2008/03/13/leonardo-sarebbe-molto-orgoglioso-di-noi/
+slug: /2008/03/leonardo-sarebbe-molto-orgoglioso-di-noi/
 ---
 
 …ovvero: la sala del [Parco di Attigliano](http://www.parcoattigliano.eu) sta prendendo forma..

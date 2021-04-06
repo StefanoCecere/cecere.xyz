@@ -6,7 +6,7 @@ id: 17
 tags:
 - soldi
 title: soldi.. soldi… non toccarmi il mio tessoro
-slug: /2005/07/01/soldi-soldi-non-toccarmi-il-mio-tessoro/
+slug: /2005/07/soldi-soldi-non-toccarmi-il-mio-tessoro/
 ---
 
 <img src="http://www.iliumsoft.com/site/ew/cards/money.jpg" align="left" />questo mondo fa così schifo perché oggi tutto è in funzione del denaro.

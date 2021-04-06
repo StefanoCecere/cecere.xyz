@@ -7,7 +7,7 @@ tags:
 - giornale
 - vergogna!
 title: Da oggi chiudo con il Corriere della Sera
-slug: /2009/05/13/da-oggi-chiudo-con-il-corriere-della-sera/
+slug: /2009/05/da-oggi-chiudo-con-il-corriere-della-sera/
 ---
 
 mi dispiace, Ferruccio (de Bortoli) da oggi il tuo giornale non avrà più la mia attenzione quotidiana, e scenderà dal livello "leggi ma attento che hanno altri interessi" a "prendere con le pinze".

@@ -7,7 +7,7 @@ tags:
 - JJ
 - senso della vita
 title: il Senso della Vita
-slug: /2009/05/23/il-senso-della-vita/
+slug: /2009/05/il-senso-della-vita/
 ---
 
 per qualche giorno mi assenterò per dedicarmi ad un po' di accumulazione di lavoro, attività e studio.

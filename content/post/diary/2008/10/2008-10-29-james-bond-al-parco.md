@@ -6,7 +6,7 @@ id: 1463
 tags:
 - ridere
 title: James Bond al parco…
-slug: /2008/10/29/james-bond-al-parco/
+slug: /2008/10/james-bond-al-parco/
 ---
 
 è un po' osè.. ma mi ha rallegrato la mattinata! 🙂

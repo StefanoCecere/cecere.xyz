@@ -8,7 +8,7 @@ tags:
 - Antonella
 - JJ
 title: Progetto JJ
-slug: /2008/12/16/progetto-jj/
+slug: /2008/12/progetto-jj/
 ---
 
 il motivo di tanta mia assenza nelle ultime settimane è (principlamente) questa.

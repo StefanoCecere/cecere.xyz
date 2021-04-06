@@ -8,7 +8,7 @@ tags:
 - vergogna!
 - violenza
 title: Trade - questa la pagherai
-slug: /2007/12/16/trade-questa-la-pagherai/
+slug: /2007/12/trade-questa-la-pagherai/
 ---
 
 ![trade-you-will-pay-for-this.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2007/12/trade-you-will-pay-for-this.jpg)

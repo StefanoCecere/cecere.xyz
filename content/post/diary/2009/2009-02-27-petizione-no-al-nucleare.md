@@ -9,7 +9,7 @@ tags:
 - Politica
 - vergogna!
 title: Petizione NO al Nucleare
-slug: /2009/02/27/petizione-no-al-nucleare/
+slug: /2009/02/petizione-no-al-nucleare/
 ---
 
 L'unico aggettivo che mi viene in mente pensando a Berlusconi (che non è tanto solo lui, ma tutto il "mondo" che gira intorno ad un determinato modo di vedere e gestire le cose) è:  _**imbarazzante**_.

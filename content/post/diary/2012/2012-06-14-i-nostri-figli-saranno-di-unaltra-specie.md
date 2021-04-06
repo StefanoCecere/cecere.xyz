@@ -11,7 +11,7 @@ tags:
 - TED
 - video
 title: "I nostri figli saranno di un'altra specie?"
-slug: /2012/06/14/i-nostri-figli-saranno-di-unaltra-specie/
+slug: /2012/06/i-nostri-figli-saranno-di-unaltra-specie/
 ---
 
 ho trovato molto interessante la questione esposta da Juan Enriquez in questo video (TED).

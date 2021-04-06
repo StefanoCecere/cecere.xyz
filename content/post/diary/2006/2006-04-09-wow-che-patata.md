@@ -6,7 +6,7 @@ id: 257
 tags:
 - ricreazione
 title: wow che patata!
-slug: /2006/04/09/wow-che-patata/
+slug: /2006/04/wow-che-patata/
 ---
 
 <img src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/04/patatata.jpg" alt="patatata" width="180" height="240" class="alignleft size-full wp-image-5484" />sono appena tornato dal votare.. che emozione vedere tanta gente recarsi alle urne, in un atto di vera democrazia, e la simpatia delle scrutatrici..

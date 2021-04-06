@@ -8,7 +8,7 @@ tags:
 - proibito
 - segnaletica
 title: E&#039; proibito in Giappone fotografare sotto le mutandine…
-slug: /2008/09/25/e-proibito-in-giappone-fotografare-sotto-le-mutandine/
+slug: /2008/09/e-proibito-in-giappone-fotografare-sotto-le-mutandine/
 ---
 
 ora si capisce meglio il perchè di efficaci metodi di autodifesa….

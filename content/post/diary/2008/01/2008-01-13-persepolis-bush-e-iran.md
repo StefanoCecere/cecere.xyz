@@ -7,7 +7,7 @@ tags:
 - Bush
 - Iran
 title: Persepolis, Bush e Iran
-slug: /2008/01/13/persepolis-bush-e-iran/
+slug: /2008/01/persepolis-bush-e-iran/
 ---
 
 [![persepolis.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/01/persepolis.jpg)](http://www.sonypictures.com/classics/persepolis/)

@@ -13,7 +13,7 @@ tags:
 - sciopero della fame
 - scudo spaziale
 title: Domenica 22 Sciopero mondiale della Fame
-slug: /2008/06/20/domenica-22-sciopero-mondiale-della-fame/
+slug: /2008/06/domenica-22-sciopero-mondiale-della-fame/
 ---
 
 **DOMENICA 22 GIUGNO 2008**

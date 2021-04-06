@@ -8,7 +8,7 @@ tags:
 - Firenze
 - umanista
 title: Associazioni amiche elogiando la Dea Madre
-slug: /2008/03/05/associazioni-amiche-elogiando-la-dea-madre/
+slug: /2008/03/associazioni-amiche-elogiando-la-dea-madre/
 ---
 
 per la serie "le vie delle signore sono infinite", con elogio alla Dea Madre e alle mille forme di manifestazione del divino femminile sulla terra, oggi segnalo i siti delle associazioni e del centro umanista della mia fidanzata che vive a Firenze:

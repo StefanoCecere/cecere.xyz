@@ -11,7 +11,7 @@ tags:
 - Terra 2.0
 - umanista
 title: '2 ottobre: volantino buon compleanno Gandhi!'
-slug: /2007/09/13/2-ottobre-volantino-buon-compleanno-gandhi/
+slug: /2007/09/2-ottobre-volantino-buon-compleanno-gandhi/
 ---
 
 ![2-ottobre-buon-compleanno-gandhi.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2007/09/2-ottobre-buon-compleanno-gandhi.jpg)

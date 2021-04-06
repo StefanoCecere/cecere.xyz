@@ -7,7 +7,7 @@ tags:
 - spirito
 - umanista
 title: a Parigi non puoi rispondere, e un saluto agli amici
-slug: /2005/11/14/a-parigi-non-puoi-rispondere-e-un-saluto-agli-amici/
+slug: /2005/11/a-parigi-non-puoi-rispondere-e-un-saluto-agli-amici/
 ---
 
 <img src='/wp-content/pecorelle.jpg' alt='' align='left' />mi scrivono da Parigi che sabato dovevano fare une manifestazione per la pace e la nonviolenza in centro città:

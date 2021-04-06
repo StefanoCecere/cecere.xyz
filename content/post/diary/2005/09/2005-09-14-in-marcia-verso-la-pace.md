@@ -8,7 +8,7 @@ tags:
 - pace
 - umanista
 title: in marcia verso la pace
-slug: /2005/09/14/in-marcia-verso-la-pace/
+slug: /2005/09/in-marcia-verso-la-pace/
 ---
 
 <img src="http://www.energiaperidirittiumani.it/immagini/marcia.jpg" align="left" />amici del Movimento hanno pubblicato alcune foto della marcia della pace di domenica scorsa (so che sono partiti un sacco di pullman dei nostri.. ma io non ci sono potuto andare):

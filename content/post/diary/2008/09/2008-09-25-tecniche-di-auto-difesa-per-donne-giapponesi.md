@@ -10,7 +10,7 @@ tags:
 - ridere
 - vignetta
 title: Tecniche di auto-difesa per donne giapponesi
-slug: /2008/09/25/tecniche-di-auto-difesa-per-donne-giapponesi/
+slug: /2008/09/tecniche-di-auto-difesa-per-donne-giapponesi/
 ---
 
 _"Fujiko! ma quanto tempo che non ci vediamo! come stai amica mia…"_

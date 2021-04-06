@@ -10,7 +10,7 @@ tags:
 - scudo spaziale
 title: 'EUROPA: LO SCUDO ANTIMISSILISTICO E LA FORZA DELLA NON VIOLENZA. IL 18 OTTOBRE
   IMPORTANTE INCONTRO A MILANO'
-slug: /2008/10/14/europa-lo-scudo-antimissilistico-e-la-forza-della-non-violenza-il-18-ottobre-importante-incontro-a-milano/
+slug: /2008/10/europa-lo-scudo-antimissilistico-e-la-forza-della-non-violenza-il-18-ottobre-importante-incontro-a-milano/
 ---
 
 <img class="size-medium wp-image-1407 alignleft" title="scudo-missili" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/scudo-missili.jpg" alt="" width="240" height="210" /> **Jan Tamas** è un ingengere informatico di 30 anni Fondatore e leader del movimento nonviolento contro l'installazione di basi militari USA in Cechia.

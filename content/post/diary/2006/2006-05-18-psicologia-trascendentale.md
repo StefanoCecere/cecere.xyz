@@ -8,7 +8,7 @@ tags:
 - spirito
 - umanista
 title: Psicologia Trascendentale
-slug: /2006/05/18/psicologia-trascendentale/
+slug: /2006/05/psicologia-trascendentale/
 ---
 
 <img src='/wp-content/PsicologiaIV3thumb.jpg' alt='' align='left' />Questa notte (erano le 21, a Buenos Aires), Mario Rodriguez Cobos, detto Silo, il fondatore storico del Movimento Umanista, ha tenuto una conferenza pubblica con la quale dice di aver "chiuso" quanto ha dire riguardo alla Psicologia.

@@ -4,7 +4,7 @@ date: 2005-12-31T14:39:10Z
 guid: http://stefanocecere.com/2005/12/31/lanno-della-iena/
 id: 199
 title: l'anno della iena
-slug: /2005/12/31/lanno-della-iena/
+slug: /2005/12/lanno-della-iena/
 ---
 
 <img src='/wp-content/goditi.jpg' alt='' align='left' />

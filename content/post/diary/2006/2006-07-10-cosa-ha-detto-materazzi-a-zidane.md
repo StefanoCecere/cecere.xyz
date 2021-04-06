@@ -7,7 +7,7 @@ tags:
 - ricreazione
 - ridere
 title: Cosa ha detto Materazzi a Zidane…
-slug: /2006/07/10/cosa-ha-detto-materazzi-a-zidane/
+slug: /2006/07/cosa-ha-detto-materazzi-a-zidane/
 ---
 
 <img align="left" alt="zidane_materazzi.jpg" id="image362" title="zidane_materazzi.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/07/zidane_materazzi.jpg" />per farlo reagire in quel modo?

@@ -10,7 +10,7 @@ tags:
 - povertà
 - videopoker
 title: Balasso testimonial videopoker
-slug: /2015/05/03/balasso-testimonial-videopoker/
+slug: /2015/05/balasso-testimonial-videopoker/
 ---
 
 C'è una guerra in atto e la stanno conducendo terroristi in giacca e cravatta. Ai poveracci non rimane che una soluzione e lo Stato gliela fornisce.

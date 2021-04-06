@@ -10,7 +10,7 @@ tags:
 - ricreazione
 - spirito
 title: Le ultime cose da fare prima di morire….
-slug: /2008/01/16/le-ultime-cose-da-fare-prima-di-morire/
+slug: /2008/01/le-ultime-cose-da-fare-prima-di-morire/
 ---
 
 Ho appena finito di vedere "The bucket list"… film con Jack Nicholson e Morgan Freeman che interpretano due malati terminali: ma invece di rassegnarsi, compilano una bella lista di cose che vorrebbero fare prima di morire.. e la compiono gironzolando per il mondo.

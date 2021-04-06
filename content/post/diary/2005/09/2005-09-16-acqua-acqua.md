@@ -4,7 +4,7 @@ date: 2005-09-16T01:35:20Z
 guid: http://stefanocecere.com/2005/09/16/acqua-acqua/
 id: 88
 title: acqua… acqua…
-slug: /2005/09/16/acqua-acqua/
+slug: /2005/09/acqua-acqua/
 ---
 
 non so se avete mai provato il vero &#x201c;avere sete&#x201d;…

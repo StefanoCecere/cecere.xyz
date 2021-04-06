@@ -7,7 +7,7 @@ tags:
 - morte
 - video
 title: 'Dall&#039;aldilà all&#039;adiqua: comunicazione interdimensionale.'
-slug: /2006/04/04/dallaldila-alladiqua-comunicazione-interdimensionale/
+slug: /2006/04/dallaldila-alladiqua-comunicazione-interdimensionale/
 ---
 
 sto partecipando alla realizzazione del video che sarà presentato durante questo convegno, **sabato 8 aprile, a Monza**.

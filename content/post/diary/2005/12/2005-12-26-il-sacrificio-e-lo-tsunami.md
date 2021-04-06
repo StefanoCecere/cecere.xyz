@@ -7,7 +7,7 @@ tags:
 - umanista
 - violenza
 title: il sacrificio e lo Tsunami
-slug: /2005/12/26/il-sacrificio-e-lo-tsunami/
+slug: /2005/12/il-sacrificio-e-lo-tsunami/
 ---
 
 <img src='/wp-content/sacrificio.gif' alt='' align='left' />**"Qui si rinnegano i sacrifici, il senso di colpa e le minacce dell'oltretomba"…**  _(terza riga del libro [Umanizzare la terra - leggi](/wp-content/umanizzare_la_terra.rtf ""))_

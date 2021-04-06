@@ -9,7 +9,7 @@ tags:
 - ricreazione
 - spirito
 title: Online Il Fannullone n.12
-slug: /2006/10/19/online-il-fannullone-n12/
+slug: /2006/10/online-il-fannullone-n12/
 ---
 
 [goditelo](http://www.ilfannullone.it/ilfannullone_12/)

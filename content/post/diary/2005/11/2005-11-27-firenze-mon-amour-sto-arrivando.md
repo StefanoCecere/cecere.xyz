@@ -7,7 +7,7 @@ tags:
 - amore
 - Firenze
 title: Firenze mon amour, sto arrivando!
-slug: /2005/11/27/firenze-mon-amour-sto-arrivando/
+slug: /2005/11/firenze-mon-amour-sto-arrivando/
 ---
 
 questo è dedicato ad Antonella, la donna che amo!

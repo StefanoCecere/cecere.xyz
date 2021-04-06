@@ -11,7 +11,7 @@ tags:
 - umanista
 - zeitgeist
 title: Z-DAY - un successo!
-slug: /2008/03/16/z-day-un-successo/
+slug: /2008/03/z-day-un-successo/
 ---
 
 ![zday_monza.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/zday_monza.jpg)

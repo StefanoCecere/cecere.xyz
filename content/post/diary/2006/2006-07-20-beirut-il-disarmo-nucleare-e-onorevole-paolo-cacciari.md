@@ -6,7 +6,7 @@ id: 375
 tags:
 - violenza
 title: Beirut, il disarmo nucleare e onorevole Paolo Cacciari…
-slug: /2006/07/20/beirut-il-disarmo-nucleare-e-onorevole-paolo-cacciari/
+slug: /2006/07/beirut-il-disarmo-nucleare-e-onorevole-paolo-cacciari/
 ---
 
 <img align="left" title="news from Beirut" id="image372" alt="news from Beirut" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/07/news_from_beirut.jpg" />_VERE NOTIZIE DA BEIRUT:

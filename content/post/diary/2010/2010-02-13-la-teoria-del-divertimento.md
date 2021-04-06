@@ -9,7 +9,7 @@ tags:
 - società
 - video
 title: La Teoria del Divertimento
-slug: /2010/02/13/la-teoria-del-divertimento/
+slug: /2010/02/la-teoria-del-divertimento/
 ---
 
 questo esperimento svedese (recentemente riprodotto anche a Milano) fa pensare, non è vero?

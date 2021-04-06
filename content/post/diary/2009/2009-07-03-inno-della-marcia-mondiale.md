@@ -8,7 +8,7 @@ tags:
 - music
 - video
 title: Inno della Marcia Mondiale
-slug: /2009/07/03/inno-della-marcia-mondiale/
+slug: /2009/07/inno-della-marcia-mondiale/
 ---
 
 amici, dall'equipe internazionale musica e concerti arriva unanime l'inno ufficiale della Marcia!!

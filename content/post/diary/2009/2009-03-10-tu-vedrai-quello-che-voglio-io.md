@@ -10,7 +10,7 @@ tags:
 - TV
 - video
 title: Tu vedrai quello che voglio io… a me gli occhi!
-slug: /2009/03/10/tu-vedrai-quello-che-voglio-io/
+slug: /2009/03/tu-vedrai-quello-che-voglio-io/
 ---
 
 _premessa: ringrazio moltissimo Paolo Attivissimo per il suo blog che leggo spesso e il_ [_suo post_](http://attivissimo.blogspot.com/2009/03/quanto-conta-un-trailer-di-un-film.html) _che ha accompagnato la mia colazione di stamane._

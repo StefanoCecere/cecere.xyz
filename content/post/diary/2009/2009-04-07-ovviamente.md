@@ -4,7 +4,7 @@ date: 2009-04-07T08:02:08Z
 guid: http://stefanocecere.com/?p=1632
 id: 1632
 title: ovviamente
-slug: /2009/04/07/ovviamente/
+slug: /2009/04/ovviamente/
 ---
 
 non posso che commuovermi quando sento di persone che soffrono e che muoiono.

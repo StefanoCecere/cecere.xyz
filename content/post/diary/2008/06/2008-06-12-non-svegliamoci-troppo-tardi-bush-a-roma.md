@@ -8,7 +8,7 @@ tags:
 - disarmo nucleare
 - Roma
 title: '&quot;non svegliamoci troppo tardi… &quot; (Bush a Roma)'
-slug: /2008/06/12/non-svegliamoci-troppo-tardi-bush-a-roma/
+slug: /2008/06/non-svegliamoci-troppo-tardi-bush-a-roma/
 ---
 
 ieri a Roma, con lo slogan "non svegliamoci troppo tardi…" molti umanisti hanno partecipato in pigiama alla manifestazione contro la politica estera di Bush. in questa foto l'intervista del TG1 (anche tg2, tg3, canale5, reuters e altri giornalisti si sono interessati al nostro modo di affrontare il tema 😉

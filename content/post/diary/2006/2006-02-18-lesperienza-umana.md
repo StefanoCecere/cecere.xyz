@@ -7,7 +7,7 @@ tags:
 - psicologia
 - umanista
 title: L&#039;esperienza umana
-slug: /2006/02/18/lesperienza-umana/
+slug: /2006/02/lesperienza-umana/
 ---
 
 Il nostro punto di vista è l'esperienza umana.

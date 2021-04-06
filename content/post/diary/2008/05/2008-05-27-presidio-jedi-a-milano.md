@@ -11,6 +11,6 @@ tags:
 - scudo spaziale
 - video
 title: Presidio Jedi a Milano
-slug: /2008/05/27/presidio-jedi-a-milano/
+slug: /2008/05/presidio-jedi-a-milano/
 ---
 

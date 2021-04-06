@@ -8,7 +8,7 @@ tags:
 - Movimento
 - sciopero della fame
 title: 'domenica 22 giungo: sciopero mondiale della fame'
-slug: /2008/06/06/domenica-22-giungo-sciopero-mondiale-della-fame/
+slug: /2008/06/domenica-22-giungo-sciopero-mondiale-della-fame/
 ---
 
 credo che la cosa non necessiti troppi commenti o spiegazioni. **passaparola**.

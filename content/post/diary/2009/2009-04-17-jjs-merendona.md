@@ -10,6 +10,6 @@ tags:
 - fumetto
 - JJ
 title: JJ&#039;s &quot;merendona&quot;
-slug: /2009/04/17/jjs-merendona/
+slug: /2009/04/jjs-merendona/
 ---
 

@@ -7,7 +7,7 @@ id: 137
 tags:
 - tecnologia
 title: giornali online per tutti…
-slug: /2005/11/08/giornali-online-per-tutti/
+slug: /2005/11/giornali-online-per-tutti/
 ---
 
 ![](/wp-content/unita_onwall.jpg)

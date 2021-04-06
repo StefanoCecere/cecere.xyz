@@ -11,7 +11,7 @@ tags:
 - Terra 2.0
 - umanista
 title: 'Il Rabdomante: un film sull&#039;acqua da vedere subito'
-slug: /2007/09/08/il-rabdomante-il-film/
+slug: /2007/09/il-rabdomante-il-film/
 ---
 
 <a href="http://www.ilrabdomante.info" target="_blank"><img src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/09/il-rabdomante-film.jpg" title="locandina film il rabdomante" alt="locandina film il rabdomante" align="left" height="207" width="148" /></a>segnalo con enorme piacere l'uscita ieri sera in alcuni cinema italiani del film Il Rabdomante.

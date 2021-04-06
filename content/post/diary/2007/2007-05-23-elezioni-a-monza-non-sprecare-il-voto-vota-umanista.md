@@ -8,7 +8,7 @@ tags:
 - spirito
 - umanista
 title: 'Elezioni a Monza: non sprecare il voto.. VOTA UMANISTA!'
-slug: /2007/05/23/elezioni-a-monza-non-sprecare-il-voto-vota-umanista/
+slug: /2007/05/elezioni-a-monza-non-sprecare-il-voto-vota-umanista/
 ---
 
 Il Partito Umanista di Monza (e io in particolare) chiede a tutti i cittadini di Monza di non sprecare l'occasione del voto di questo fine settimana.

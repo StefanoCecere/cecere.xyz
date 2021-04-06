@@ -10,7 +10,7 @@ tags:
 - San francisco
 - viaggio
 title: La memoria della neve
-slug: /2011/09/28/la-memoria-della-neve/
+slug: /2011/09/la-memoria-della-neve/
 ---
 
 Quando gli occhi percepiscono dei segnali, nel nostro caso onde elettromagnetiche con frequenza di vibrazione compresa in un minuscola band, detta del "visibile", questi vengono codificati e inviati al cervello che provvede, in modo per fortuna automatico!, a comparararli in continuazione con i contenuti delle memoria.

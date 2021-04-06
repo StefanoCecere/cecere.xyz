@@ -6,7 +6,7 @@ id: 1828
 tags:
 - scuola
 title: un po&#039; di teoria
-slug: /2009/06/01/un-po-di-teoria/
+slug: /2009/06/un-po-di-teoria/
 ---
 
 il 30 maggio 2009, nel mondo…

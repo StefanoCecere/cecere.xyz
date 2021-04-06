@@ -8,7 +8,7 @@ tags:
 - lavoro
 - ricreazione
 title: Vuoi ancora fare l&#039;installatore di condizionatori d&#039;aria?
-slug: /2008/10/01/vuoi-ancora-fare-linstallatore-di-condizionatori-daria/
+slug: /2008/10/vuoi-ancora-fare-linstallatore-di-condizionatori-daria/
 ---
 
 [<img class="aligncenter size-full wp-image-1307" title="extreme_air_condition_installation_1" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/extreme_air_condition_installation_1.jpg" alt="" width="400" height="299" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/extreme_air_condition_installation_1.jpg 400w, http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/extreme_air_condition_installation_1-300x224.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/extreme_air_condition_installation_1.jpg)

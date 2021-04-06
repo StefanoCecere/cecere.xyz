@@ -13,7 +13,7 @@ tags:
 - Terra 2.0
 - umanista
 title: Una mimosa virtuale per tutte le donne
-slug: /2008/03/08/una-mimosa-virtuale-per-tutte-le-donne/
+slug: /2008/03/una-mimosa-virtuale-per-tutte-le-donne/
 ---
 
 non tanto perchè il mondo senza donne non sarebbe

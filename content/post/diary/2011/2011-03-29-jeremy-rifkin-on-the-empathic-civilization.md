@@ -9,6 +9,6 @@ tags:
 - sviluppo
 - video
 title: Jeremy Rifkin on &quot;the empathic civilization&quot;
-slug: /2011/03/29/jeremy-rifkin-on-the-empathic-civilization/
+slug: /2011/03/jeremy-rifkin-on-the-empathic-civilization/
 ---
 

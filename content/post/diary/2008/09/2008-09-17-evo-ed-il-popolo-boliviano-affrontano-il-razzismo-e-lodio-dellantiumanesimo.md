@@ -18,7 +18,7 @@ tags:
 - Tomas Hirsch
 - umanista
 title: Evo ed il popolo boliviano affrontano il razzismo e l&#039;odio dell&#039;antiumanesimo.
-slug: /2008/09/17/evo-ed-il-popolo-boliviano-affrontano-il-razzismo-e-lodio-dellantiumanesimo/
+slug: /2008/09/evo-ed-il-popolo-boliviano-affrontano-il-razzismo-e-lodio-dellantiumanesimo/
 ---
 
 _Santiago del Cile, 14 agosto 2008_

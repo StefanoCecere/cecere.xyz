@@ -9,7 +9,7 @@ tags:
 - fumetto
 - internet
 title: Strippi … fumetti interattivi
-slug: /2008/10/08/strippi-fumetti-interattivi/
+slug: /2008/10/strippi-fumetti-interattivi/
 ---
 
 il caro amico Fabrizio ha pubblicato sul suo sito una prima striscia di fumetti.. interattivi!

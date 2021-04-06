@@ -22,7 +22,7 @@ tags:
 - USA
 - valori
 title: 'CRISI GLOBALE: 26 COSE CHE POTETE FARE SUBITO'
-slug: /2008/07/07/crisi-globale-26-cose-che-potete-fare-subito/
+slug: /2008/07/crisi-globale-26-cose-che-potete-fare-subito/
 ---
 
 _riporto questo articolo tratto da_ <a href="http://www.comedonchisciotte.org/site/modules.php?name=News&file=article&sid=4794" target="_blank"><em>comeDonChischotte</em></a>_ perché mi sembra molto interessante!_

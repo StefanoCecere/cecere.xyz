@@ -9,7 +9,7 @@ tags:
 - terzo mondo
 - vergogna!
 title: 'emergenza carestia: e milioni di persone muoiono di fame'
-slug: /2008/04/14/emergenza-carestia-e-milioni-di-persone-muoiono-di-fame/
+slug: /2008/04/emergenza-carestia-e-milioni-di-persone-muoiono-di-fame/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/third-world-starvation.jpg' alt='third-world-starvation.jpg' align="left" />

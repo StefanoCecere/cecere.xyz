@@ -9,7 +9,7 @@ tags:
 - terrorismo
 - video
 title: Perchè ci odiano?
-slug: /2009/05/10/perche-ci-odiano/
+slug: /2009/05/perche-ci-odiano/
 ---
 
 il giornalista [Paolo Barnard](http://www.paolobarnard.info) (chi non lo conosce è pregato di rivedersi le migliori puntate di Report, con cui purtroppo ha chiuso qualche hanno fa) racconta un bellissimo aneddoto sui "terroristi" e sul "perchè ci odiano".

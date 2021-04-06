@@ -6,7 +6,7 @@ id: 370
 tags:
 - tecnologia
 title: anche l&#039;informatica non è esente dalla globalizzazione
-slug: /2006/07/19/anche-linformatica-non-e-esente-dalla-globalizzazione/
+slug: /2006/07/anche-linformatica-non-e-esente-dalla-globalizzazione/
 ---
 
 <img align="left" alt="india_information_technology.jpg" id="image371" title="india_information_technology.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/07/india_information_technology.miniatura.jpg" />me ne stavo accorgendo, negli ultimi mesi: sempre più produttori di software o di assistenza informatica con cui entravo in contatto sono o russi o indiani..

@@ -8,7 +8,7 @@ tags:
 - ricreazione
 - simpsons
 title: i Simpsons.. stanno arrivando!!!
-slug: /2006/03/06/i-simpsons-stanno-arrivando/
+slug: /2006/03/i-simpsons-stanno-arrivando/
 ---
 
 sembrerebbe che il film dei Simpsons sia in piena produzione!

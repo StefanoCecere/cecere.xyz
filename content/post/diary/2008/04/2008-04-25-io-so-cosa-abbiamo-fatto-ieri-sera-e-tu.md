@@ -7,7 +7,7 @@ tags:
 - cineforum
 - Monza
 title: Io so cosa abbiamo fatto ieri sera… e tu?
-slug: /2008/04/25/io-so-cosa-abbiamo-fatto-ieri-sera-e-tu/
+slug: /2008/04/io-so-cosa-abbiamo-fatto-ieri-sera-e-tu/
 ---
 
 poche ore fa:

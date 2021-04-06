@@ -8,7 +8,7 @@ tags:
 - recensione
 - ricreazione
 title: 'Codice da Vinci: cosa mi è piaciuto'
-slug: /2006/06/04/codice-da-vinci-cosa-mi-e-piaciuto/
+slug: /2006/06/codice-da-vinci-cosa-mi-e-piaciuto/
 ---
 
 <img align="left" alt="codice_da_vinci.jpg" id="image315" title="codice_da_vinci.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/codice_da_vinci.jpg" />il libro mi era piaciuto (quanto meno mi aveva attenagliato per 3 giorni)

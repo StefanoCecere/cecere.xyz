@@ -9,7 +9,7 @@ tags:
 - ridere
 - terrorismo
 title: E&#039; molto difficile fare un attentato in Italia
-slug: /2010/06/25/e-molto-difficile-fare-un-attentato-in-italia/
+slug: /2010/06/e-molto-difficile-fare-un-attentato-in-italia/
 ---
 
 _Bin Laden ha dichiarato: "E' molto difficile fare un attentato in Italia"._

@@ -8,7 +8,7 @@ tags:
 - isra
 - Palestina
 title: Sabra e Shatila
-slug: /2015/03/18/sabra-e-shatila/
+slug: /2015/03/sabra-e-shatila/
 ---
 
 ero bambino (scopro avevo 9 anni) e sentivo sempre al TG di questa Beirut e delle guerre in corso.. ovviamente non capivo niente (ho iniziato a capire qualcosa 20 anni dopo)

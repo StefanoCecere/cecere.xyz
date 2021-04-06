@@ -8,6 +8,6 @@ tags:
 - spot
 - video
 title: Dario Vergassola!
-slug: /2008/07/24/dario-vergassola/
+slug: /2008/07/dario-vergassola/
 ---
 

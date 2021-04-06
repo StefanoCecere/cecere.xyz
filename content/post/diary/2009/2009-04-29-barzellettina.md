@@ -6,7 +6,7 @@ id: 1703
 tags:
 - ridere
 title: Barzellettina
-slug: /2009/04/29/barzellettina/
+slug: /2009/04/barzellettina/
 ---
 
 Un carabiniere arriva contento in ufficio: "Ieri ho finito un bel puzzle".

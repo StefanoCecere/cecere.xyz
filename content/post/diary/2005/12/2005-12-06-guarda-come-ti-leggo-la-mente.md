@@ -6,7 +6,7 @@ id: 168
 tags:
 - ricreazione
 title: guarda come ti leggo la mente…
-slug: /2005/12/06/guarda-come-ti-leggo-la-mente/
+slug: /2005/12/guarda-come-ti-leggo-la-mente/
 ---
 
 ![](/wp-content/lettura_del_pensiero.jpg)

@@ -9,7 +9,7 @@ title: |
   grazie doner!
 
   “@quitthedoner: COSA STA FACENDO PR…
-slug: /2013/04/19/grazie-donerquitthedoner-cosa-sta-facendo-pr/
+slug: /2013/04/grazie-donerquitthedoner-cosa-sta-facendo-pr/
 ---
 
 grazie doner!

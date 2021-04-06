@@ -4,7 +4,7 @@ date: 2006-02-04T17:14:32Z
 guid: http://stefanocecere.com/2006/02/04/ma-siamo-al-circo/
 id: 221
 title: ma siamo al Circo?
-slug: /2006/02/04/ma-siamo-al-circo/
+slug: /2006/02/ma-siamo-al-circo/
 ---
 
 <img src='/wp-content/circo.jpg' alt='' align='left' />ho seguito con attenzione e piacere l'intervento di Valerio Colombo (del Partito Umanista) all'Incudine di Cladio Martelli, l'altro ieri notte.

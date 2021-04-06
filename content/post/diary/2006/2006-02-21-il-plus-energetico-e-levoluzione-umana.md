@@ -9,7 +9,7 @@ tags:
 - spirito
 - umanista
 title: il plus energetico e l&#039;evoluzione umana
-slug: /2006/02/21/il-plus-energetico-e-levoluzione-umana/
+slug: /2006/02/il-plus-energetico-e-levoluzione-umana/
 ---
 
 <img src='/wp-content/7332.jpg' alt='' align='left' />oggi dò giusto un assaggio su un tema che mi è molto caro.. forse ne avevo già parlato qualche mese fa, cmq ecco l'inizio del tema

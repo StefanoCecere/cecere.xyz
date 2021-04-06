@@ -13,7 +13,7 @@ tags:
 - nonviolenza
 - programma
 title: pochi giorni all’inizio del Forum
-slug: /2008/10/11/pochi-giorni-allinizio-del-forum/
+slug: /2008/10/pochi-giorni-allinizio-del-forum/
 ---
 
 <span style="text-decoration: underline"><em>Comunicato stampa</em></span>

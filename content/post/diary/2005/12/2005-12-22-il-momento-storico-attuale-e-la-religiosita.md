@@ -7,7 +7,7 @@ tags:
 - spirito
 - umanista
 title: Il momento storico attuale e la religiosità
-slug: /2005/12/22/il-momento-storico-attuale-e-la-religiosita/
+slug: /2005/12/il-momento-storico-attuale-e-la-religiosita/
 ---
 
 <a href='/wp-content/MomentoattualeReligiosita.pdf' title='' target='_blank'><img src='/wp-content/religiosita_arco.jpg' alt='' align='left' /></a>l'amico Fulvio de Vita mi ha mandato la traduzione italiana di questo suo breve ma succolento lavoro.

@@ -7,7 +7,7 @@ tags:
 - L'Aura
 - Sanremo
 title: L&#039;Aura vince il Festival di Sanremo 2008
-slug: /2008/02/26/laura-vince-il-festival-di-sanremo-2008/
+slug: /2008/02/laura-vince-il-festival-di-sanremo-2008/
 ---
 
 io mi porto avanti…

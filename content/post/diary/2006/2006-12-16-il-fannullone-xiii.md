@@ -10,7 +10,7 @@ tags:
 - spirito
 - umanista
 title: Il Fannullone XIII
-slug: /2006/12/16/il-fannullone-xiii/
+slug: /2006/12/il-fannullone-xiii/
 ---
 
 <img alt="ilfannullone_13_cover.jpg" id="image475" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/12/ilfannullone_13_cover.jpg" />

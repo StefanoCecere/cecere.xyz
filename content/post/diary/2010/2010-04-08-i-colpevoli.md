@@ -8,7 +8,7 @@ tags:
 - crisi
 - soldi
 title: I COLPEVOLI
-slug: /2010/04/08/i-colpevoli/
+slug: /2010/04/i-colpevoli/
 ---
 
 **_se da un lato ognuno di noi è colpevole della situazione in cui ci troviamo, dall'altro lato alcuni di noi sono un po' più colpevoli di altri… quello che segue è tratto da una riunione  del 1998 (chiederai dettagli se ti interessa)_**

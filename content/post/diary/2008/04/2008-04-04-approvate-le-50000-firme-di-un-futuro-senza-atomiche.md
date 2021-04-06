@@ -8,7 +8,7 @@ tags:
 - disarmo nucleare
 - petizione
 title: Approvate le 50.000 firme di un Futuro senza atomiche
-slug: /2008/04/04/approvate-le-50000-firme-di-un-futuro-senza-atomiche/
+slug: /2008/04/approvate-le-50000-firme-di-un-futuro-senza-atomiche/
 ---
 
 ![futuro_senza_atomiche.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/futuro_senza_atomiche.jpg)

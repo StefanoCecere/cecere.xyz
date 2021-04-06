@@ -6,7 +6,7 @@ id: 1693
 tags:
 - Mondo Senza Guerre
 title: E&#039; tempo di muoversi
-slug: /2009/04/25/e-tempo-di-muoversi/
+slug: /2009/04/e-tempo-di-muoversi/
 ---
 
 <p style="text-align: center">

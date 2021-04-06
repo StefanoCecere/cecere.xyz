@@ -4,7 +4,7 @@ date: 2005-09-01T12:37:47Z
 guid: http://stefanocecere.com/2005/09/01/fare-attenzione/
 id: 77
 title: fare attenzione
-slug: /2005/09/01/fare-attenzione/
+slug: /2005/09/fare-attenzione/
 ---
 
 uno degli strumenti più importanti che abbiamo, è l'attenzione.

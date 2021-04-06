@@ -10,7 +10,7 @@ tags:
 - Milano
 - Silo
 title: una camminata surrealistica
-slug: /2011/11/10/una-camminata-surrealistica/
+slug: /2011/11/una-camminata-surrealistica/
 ---
 
 alcuni amici del Messaggio di Silo, qualche giorno fa a Milano.. [guarda tutte le foto](https://picasaweb.google.com/108573374245640958592/MessaggioSiSIloCamminataSurrealista)

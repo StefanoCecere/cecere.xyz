@@ -9,7 +9,7 @@ tags:
 - crisi
 - video
 title: Un video vi spiega la crisi dei mutui &quot;subprime&quot; americani…
-slug: /2009/05/06/un-video-vi-spiega-la-crisi-dei-mutui-subprime-americani/
+slug: /2009/05/un-video-vi-spiega-la-crisi-dei-mutui-subprime-americani/
 ---
 
 video bellissimo, semplice ed efficace!

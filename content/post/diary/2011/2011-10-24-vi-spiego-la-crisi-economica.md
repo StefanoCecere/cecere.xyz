@@ -12,7 +12,7 @@ tags:
 - saggio
 - Silo
 title: Vi spiego la crisi economica
-slug: /2011/10/24/vi-spiego-la-crisi-economica/
+slug: /2011/10/vi-spiego-la-crisi-economica/
 ---
 
 <img class="alignright size-thumbnail wp-image-2749" title="crimine" src="http://stefanocecere.com/wp-content/uploads/sites/3/2011/10/crimine-150x150.jpg" alt="" width="150" height="150" />Ne devo assolutamente parlare anche qui, perché lo considero il più grande crimine mai commesso da esseri umani contro altri esseri umani. Ed è anche il meno visibile, perchè è stato attivato in modo molto sottile (avete presente la [storia della ranocchia](http://stefanocecere.com/2011/10/24/la-ranocchia-che-non-sapeva-di-essere-cotta/ "La ranocchia che non sapeva di essere cotta …")?)

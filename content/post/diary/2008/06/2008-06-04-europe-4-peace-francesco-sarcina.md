@@ -13,7 +13,7 @@ tags:
 - umanista
 - Vibrazioni
 title: Europe 4 Peace &amp; Francesco Sarcina
-slug: /2008/06/04/europe-4-peace-francesco-sarcina/
+slug: /2008/06/europe-4-peace-francesco-sarcina/
 ---
 
 un paio di mesi fa mi chiama Francesco (il cantante delle Vibrazioni) e mi dice "Stefano ma perché non realizziamo un qualcosa un giornalino un opuscolo che io possa distribuire durante il mio tour estivo per informare la gente che viene ai concerti sui temi e i progetti del Movimento? tu sei molto più idoneo di me per comunicarlo… credo possa essere estremamente utile…"

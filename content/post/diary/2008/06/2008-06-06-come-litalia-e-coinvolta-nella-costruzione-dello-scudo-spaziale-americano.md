@@ -11,7 +11,7 @@ tags:
 - USA
 - vergogna!
 title: Come l’Italia è coinvolta nella costruzione dello scudo spaziale americano
-slug: /2008/06/06/come-litalia-e-coinvolta-nella-costruzione-dello-scudo-spaziale-americano/
+slug: /2008/06/come-litalia-e-coinvolta-nella-costruzione-dello-scudo-spaziale-americano/
 ---
 
 **Giorgio Schultze** al quinto giorno dello sciopero della fame denuncia:

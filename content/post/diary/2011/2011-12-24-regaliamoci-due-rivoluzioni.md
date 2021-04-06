@@ -11,7 +11,7 @@ tags:
 - rivoluzione
 - Silo
 title: regaliamoci due rivoluzioni
-slug: /2011/12/24/regaliamoci-due-rivoluzioni/
+slug: /2011/12/regaliamoci-due-rivoluzioni/
 ---
 
 se credi che il nostro mondo interno (coscienza, senso della vita, stati d'animo) sia in stretta relazione, addirittura in retroalimentazione, con il mondo esterno (sistema sociale, economico, culturale e politico), forse starai pensando anche tu che stiamo vivendo un momento tanto delicato quanto importante dell'evoluzione umana.

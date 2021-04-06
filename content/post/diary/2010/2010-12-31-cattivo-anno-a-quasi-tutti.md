@@ -5,7 +5,7 @@ date: 2010-12-31T17:36:20Z
 guid: http://stefanocecere.com/?p=2303
 id: 2303
 title: Cattivo anno a (quasi) tutti!
-slug: /2010/12/31/cattivo-anno-a-quasi-tutti/
+slug: /2010/12/cattivo-anno-a-quasi-tutti/
 ---
 
 Purtroppo non è un augurio, ma una constatazione amichevole.

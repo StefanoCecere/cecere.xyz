@@ -8,6 +8,6 @@ tags:
 - music
 - video
 title: 'Beatbox: i Naturally 7 (cosa non si fa con la voce! :)'
-slug: /2009/05/19/beatbox-i-naturally-7-cosa-non-si-fa-con-la-voce/
+slug: /2009/05/beatbox-i-naturally-7-cosa-non-si-fa-con-la-voce/
 ---
 

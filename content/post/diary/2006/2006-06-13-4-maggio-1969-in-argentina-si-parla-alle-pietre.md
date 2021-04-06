@@ -10,7 +10,7 @@ tags:
 - umanista
 - violenza
 title: '4 maggio 1969: in Argentina si parla alle pietre.'
-slug: /2006/06/13/4-maggio-1969-in-argentina-si-parla-alle-pietre/
+slug: /2006/06/4-maggio-1969-in-argentina-si-parla-alle-pietre/
 ---
 
 ecco cosa è successo quel giorno in cima alle Ande, in un luogo desolato ai più chiamato Punta de Vacas… l'unico luogo in cui i militari argentini avevano consentito un incontro pubblico ad un gruppo di giovani, autorizzandoli ad andar a "parlare alle rocce".

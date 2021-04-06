@@ -4,7 +4,7 @@ date: 2008-01-30T02:05:08Z
 guid: http://stefanocecere.com/2008/01/30/ernesto-e-kenya/
 id: 667
 title: Ernesto e Kenya
-slug: /2008/01/30/ernesto-e-kenya/
+slug: /2008/01/ernesto-e-kenya/
 ---
 
 l'amico Ernesto è appena uscito dall'ennesima operazione chirurgica.

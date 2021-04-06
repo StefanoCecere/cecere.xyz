@@ -8,7 +8,7 @@ tags:
 - spirito
 - vergogna!
 title: Il Papa ha rotto i coglioni
-slug: /2008/01/11/il-papa-ha-rotto-i-coglioni/
+slug: /2008/01/il-papa-ha-rotto-i-coglioni/
 ---
 
 ![evoluzione_umana_homo_sapiens.gif](http://stefanocecere.com/wp-content/uploads/sites/3/2008/01/evoluzione_umana_homo_sapiens.gif)

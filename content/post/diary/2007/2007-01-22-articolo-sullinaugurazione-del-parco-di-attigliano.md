@@ -8,7 +8,7 @@ tags:
 - spirito
 - umanista
 title: Articolo sull&#039;inaugurazione del Parco di Attigliano
-slug: /2007/01/22/articolo-sullinaugurazione-del-parco-di-attigliano/
+slug: /2007/01/articolo-sullinaugurazione-del-parco-di-attigliano/
 ---
 
 <img alt="ritaglio_corriere_umbria.jpg" id="image486" src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/01/ritaglio_corriere_umbria.jpg" />

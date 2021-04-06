@@ -10,7 +10,7 @@ tags:
 - Simbolo della Pace
 - spirito
 title: '17 marzo 2007: a Roma il più grande simbolo della pace del mondo'
-slug: /2006/11/27/17-marzo-2007-a-roma-il-piu-grande-simbolo-della-pace-del-mondo/
+slug: /2006/11/17-marzo-2007-a-roma-il-piu-grande-simbolo-della-pace-del-mondo/
 ---
 
 segnati questa data (è un sabato) e preparati a venire a Roma per partecipare al più grande simbolo della pace con le fiaccole che esseri umani abbiano mai realizzato sulla Terra. Chiameremo ufficialmente il Guinnes dei Primati, il satellite etc.

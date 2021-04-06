@@ -8,7 +8,7 @@ id: 5581
 tags:
 - tweet
 title: Svilupparty light dinner in Bologna. With @ppolsin…
-slug: /2015/01/10/svilupparty-light-dinner-in-bologna-with-ppolsin/
+slug: /2015/01/svilupparty-light-dinner-in-bologna-with-ppolsin/
 ---
 
 Svilupparty light dinner in Bologna. With [@ppolsinelli](http://twitter.com/ppolsinelli) [@dreamquest](http://twitter.com/dreamquest) [@BigBangPixel](http://twitter.com/BigBangPixel) and the Italian gamedev cream http://t.co/sZqzlxTRaG

@@ -9,7 +9,7 @@ tags:
 - razzismo
 - Roma
 title: Audio Manifestazione 4 Ottobre
-slug: /2008/10/06/audio-manifestazione-4-ottobre/
+slug: /2008/10/audio-manifestazione-4-ottobre/
 ---
 
 Ringrazio [dis.socia](http://lpp.opencontent.it/blog/) per aver mandato il link!

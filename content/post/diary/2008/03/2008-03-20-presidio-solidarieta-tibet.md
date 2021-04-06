@@ -8,7 +8,7 @@ tags:
 - Events
 - Tibet
 title: Presidio solidarietà Tibet
-slug: /2008/03/20/presidio-solidarieta-tibet/
+slug: /2008/03/presidio-solidarieta-tibet/
 ---
 
 oggi 20 marzo 2008 alle 16:30 in Piazza dela Scala a Milano ci sarà un presidio di solidarietà per il Tibet.

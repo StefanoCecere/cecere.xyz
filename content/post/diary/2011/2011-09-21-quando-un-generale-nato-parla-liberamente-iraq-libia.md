@@ -13,7 +13,7 @@ tags:
 - terrorismo
 - video
 title: Quando un generale NATO parla liberamente (11 settembre, Iraq, Libia)
-slug: /2011/09/21/quando-un-generale-nato-parla-liberamente-iraq-libia/
+slug: /2011/09/quando-un-generale-nato-parla-liberamente-iraq-libia/
 ---
 
 un video inutile come il 99% di tutto quello che circola, ma giusto per tenere sveglio il neurone.

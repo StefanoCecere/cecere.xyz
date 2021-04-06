@@ -11,7 +11,7 @@ tags:
 - ricreazione
 - umanista
 title: Ieri Sicko
-slug: /2008/04/11/ieri-sicko/
+slug: /2008/04/ieri-sicko/
 ---
 
 ieri al Centro Umanista Il Fannullone di Monza (ma che bella combricola!) abbiamo visto il film Sicko, di Michael Moore.

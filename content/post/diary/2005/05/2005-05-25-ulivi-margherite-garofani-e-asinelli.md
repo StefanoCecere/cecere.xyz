@@ -4,7 +4,7 @@ date: 2005-05-25T23:26:24Z
 guid: http://stefanocecere.com/?p=37
 id: 37
 title: ulivi, margherite, garofani e asinelli…
-slug: /2005/05/25/ulivi-margherite-garofani-e-asinelli/
+slug: /2005/05/ulivi-margherite-garofani-e-asinelli/
 ---
 
 niente di più imbarazzante che sentire litigare un Ulivo con una Margherita…

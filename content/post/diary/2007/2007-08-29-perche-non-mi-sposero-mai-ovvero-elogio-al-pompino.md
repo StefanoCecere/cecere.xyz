@@ -15,7 +15,7 @@ tags:
 - ricreazione
 - sesso
 title: 'Perché non mi sposerò mai… (ovvero: elogio al pompino)'
-slug: /2007/08/29/perche-non-mi-sposero-mai-ovvero-elogio-al-pompino/
+slug: /2007/08/perche-non-mi-sposero-mai-ovvero-elogio-al-pompino/
 ---
 
 mi permetto di riportare qui un breve audio di Daniele Luttazzi che spiega perché è contro il matrimonio (sia etero che omo)… e in più.. qualche utile suggerimento per gli amanti dei pompini!

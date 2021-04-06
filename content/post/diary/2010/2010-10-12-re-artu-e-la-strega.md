@@ -12,7 +12,7 @@ tags:
 - senso della vita
 - strega
 title: Re Artù e la Strega
-slug: /2010/10/12/re-artu-e-la-strega/
+slug: /2010/10/re-artu-e-la-strega/
 ---
 
 <img class="alignleft size-full wp-image-2245" title="re-artù" src="http://stefanocecere.com/wp-content/uploads/sites/3/2010/10/re-artù.jpeg" alt="" width="188" height="268" />Un giorno, il giovane re Artù fu catturato ed imprigionato dal sovrano di un regno vicino.

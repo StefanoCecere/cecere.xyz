@@ -9,7 +9,7 @@ tags:
 - mitologia
 - spirito
 title: Hermes, il Messaggero degli Dei…
-slug: /2005/11/05/hermes-il-messaggero-degli-dei/
+slug: /2005/11/hermes-il-messaggero-degli-dei/
 ---
 
 ![](/wp-content/hermes.jpg)

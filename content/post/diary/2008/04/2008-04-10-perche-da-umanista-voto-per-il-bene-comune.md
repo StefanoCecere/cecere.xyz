@@ -8,7 +8,7 @@ tags:
 - partito umanista
 - Politica
 title: Perché da umanista voto &quot;Per il bene comune&quot;?
-slug: /2008/04/10/perche-da-umanista-voto-per-il-bene-comune/
+slug: /2008/04/perche-da-umanista-voto-per-il-bene-comune/
 ---
 
 Se non vai a votare non succede niente.

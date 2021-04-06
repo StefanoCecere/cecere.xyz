@@ -6,7 +6,7 @@ id: 688
 tags:
 - ricreazione
 title: Guarda il mondo con nuovi occhi! ovvero cambia fette di salame!
-slug: /2008/02/19/guarda-il-mondo-con-nuovi-occhi-ovvero-cambia-fette-di-salame/
+slug: /2008/02/guarda-il-mondo-con-nuovi-occhi-ovvero-cambia-fette-di-salame/
 ---
 
 come se non ne avessimo abbastanza, di fette di salame sugli occhi 😉

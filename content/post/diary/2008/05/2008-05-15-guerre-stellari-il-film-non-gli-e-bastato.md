@@ -13,7 +13,7 @@ tags:
 - petizione
 - scudo spaziale
 title: 'Guerre Stellari: il film non gli è bastato.'
-slug: /2008/05/15/guerre-stellari-il-film-non-gli-e-bastato/
+slug: /2008/05/guerre-stellari-il-film-non-gli-e-bastato/
 ---
 
 loro credono che sia un gioco estremamente necessario.

@@ -7,7 +7,7 @@ tags:
 - umanista
 - vergogna!
 title: 'AHMADINEJAD: IL PASSATO CHE RITORNA'
-slug: /2006/05/24/ahmadinejad-il-passato-che-ritorna/
+slug: /2006/05/ahmadinejad-il-passato-che-ritorna/
 ---
 
 _(scusandomi del ritardo, pubblico ora questa lettera dell'amica umanista Daniela Tuscano)_

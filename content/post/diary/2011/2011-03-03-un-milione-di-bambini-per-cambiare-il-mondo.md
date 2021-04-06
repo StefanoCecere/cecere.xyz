@@ -15,7 +15,7 @@ tags:
 - spirito
 - video
 title: Un milione di bambini per cambiare il mondo
-slug: /2011/03/03/un-milione-di-bambini-per-cambiare-il-mondo/
+slug: /2011/03/un-milione-di-bambini-per-cambiare-il-mondo/
 ---
 
 La prima domanda da farci è: cosa stava succedendo (o dove eravamo) lo scorso 11 dicembre 2010?

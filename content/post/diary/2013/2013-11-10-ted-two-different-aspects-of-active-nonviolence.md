@@ -6,7 +6,7 @@ format: status
 guid: http://twitter-399430621816438784-post
 id: 4809
 title: 'TED: two different aspects of Active Nonviolence -…'
-slug: /2013/11/10/ted-two-different-aspects-of-active-nonviolence/
+slug: /2013/11/ted-two-different-aspects-of-active-nonviolence/
 ---
 
 TED: two different aspects of Active Nonviolence - [pressenza.com/2013/11/ted-tw…](http://www.pressenza.com/2013/11/ted-two-different-aspects-active-nonviolence/)

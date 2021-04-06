@@ -7,7 +7,7 @@ tags:
 - spirito
 - umanista
 title: e ora una piccola meditazione…
-slug: /2005/11/10/e-ora-una-piccola-meditazione/
+slug: /2005/11/e-ora-una-piccola-meditazione/
 ---
 
 In qualche momento del giorno o della notte, magari ora stesso, aspira una boccata d'aria e immagina di portare quest'aria al tuo cuore. Allora, chiedi con forza per te e per gli esseri a te più cari. Chiedi con forza di allontanarti da tutto ciò che ti dà contraddizione; chiedi che la tua vita abbia unità.

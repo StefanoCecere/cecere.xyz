@@ -10,7 +10,7 @@ tags:
 - nucleare
 - terremoto
 title: Mondo Senza Guerre e il nucleare giapponese
-slug: /2011/03/14/mondo-senza-guerre-e-il-nucleare-giapponese/
+slug: /2011/03/mondo-senza-guerre-e-il-nucleare-giapponese/
 ---
 
 **Alla luce del terremoto in Giappone Mondo senza Guerre chiede di porre fine all’uso dell’energia nucleare**

@@ -11,7 +11,7 @@ tags:
 - solidarietà
 - video
 title: Cambia il tuo sguardo
-slug: /2012/02/13/cambia-il-tuo-sguardo/
+slug: /2012/02/cambia-il-tuo-sguardo/
 ---
 
 mi è piaciuto questo breve video.. e lo condivido con chi capita per caso su questa pagina internet

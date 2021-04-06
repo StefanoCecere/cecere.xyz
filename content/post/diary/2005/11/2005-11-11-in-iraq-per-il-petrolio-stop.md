@@ -8,7 +8,7 @@ tags:
 - umanista
 - vergogna!
 title: in Iraq per il petrolio. stop.
-slug: /2005/11/11/in-iraq-per-il-petrolio-stop/
+slug: /2005/11/in-iraq-per-il-petrolio-stop/
 ---
 
 <img src='/wp-content/pump_boms.gif' alt='' align='left' />da domani passerò poi ad altri argomenti.

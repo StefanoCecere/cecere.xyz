@@ -8,7 +8,7 @@ tags:
 - Monza
 - Movimento
 title: foto chiusura Spazio Fannullone
-slug: /2008/07/17/foto-chiusura-spazio-fannullone/
+slug: /2008/07/foto-chiusura-spazio-fannullone/
 ---
 
 serata magnifica. grazie a tutti! soprattutto chi è venuto o ha mandato un messaggio di saluto! un abbraccio

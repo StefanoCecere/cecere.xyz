@@ -7,7 +7,7 @@ tags:
 - Cile
 - elezioni
 title: Elezioni presidenziali in Cile
-slug: /2005/12/13/elezioni-presidenziali-in-cile/
+slug: /2005/12/elezioni-presidenziali-in-cile/
 ---
 
 <img src='/wp-content/tomas_hirsch.jpg' alt='' align='left' />domenica si sono svolte in Cile le elezioni presidenziali. di grande interesse per noi soprattutto perché l’umanista Tomas Hirsch e il Juntos Podemos Mas rappresentano l’unica vera nuova alternativa di svolta. giro questa sintesi dei risultati:

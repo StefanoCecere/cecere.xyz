@@ -6,7 +6,7 @@ id: 393
 tags:
 - vergogna!
 title: Acqua e benzina
-slug: /2006/08/22/acqua-e-benzina/
+slug: /2006/08/acqua-e-benzina/
 ---
 
 <img align="left" alt="acqua_benzina.jpg" id="image392" title="acqua_benzina.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/acqua_benzina.jpg" />Spesso mi domando: ma come si fa a tollerare di comprare una bottiglietta d'acqua "naturale" a 1/1.5 euro? Conti fatti.. costa più l'acqua della benzina.

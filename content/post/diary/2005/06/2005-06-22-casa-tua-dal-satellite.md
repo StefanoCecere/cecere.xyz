@@ -4,7 +4,7 @@ date: 2005-06-22T15:21:15Z
 guid: http://stefanocecere.com/?p=19
 id: 19
 title: casa tua dal satellite
-slug: /2005/06/22/casa-tua-dal-satellite/
+slug: /2005/06/casa-tua-dal-satellite/
 ---
 
 questo sì che impressiona:</p> 

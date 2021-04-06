@@ -13,6 +13,6 @@ tags:
 - petizione
 - scudo spaziale
 title: Sciopero della fame anche a Torino
-slug: /2008/05/14/sciopero-della-fame-anche-a-torino/
+slug: /2008/05/sciopero-della-fame-anche-a-torino/
 ---
 

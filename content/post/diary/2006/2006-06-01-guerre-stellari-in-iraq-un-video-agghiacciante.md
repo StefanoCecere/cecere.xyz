@@ -14,7 +14,7 @@ tags:
 - video
 - violenza
 title: 'Guerre stellari in Iraq: un video agghiacciante'
-slug: /2006/06/01/guerre-stellari-in-iraq-un-video-agghiacciante/
+slug: /2006/06/guerre-stellari-in-iraq-un-video-agghiacciante/
 ---
 
 pensavo davvero di averle viste tutte, o quanto meno di essere consapevole dei (non)limiti della crudeltà umana..

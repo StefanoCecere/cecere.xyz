@@ -12,7 +12,7 @@ tags:
 - umanista
 - video
 title: I Simpson al Forum Umanista Europeo del 3.4.5 aprile 2008
-slug: /2007/12/19/i-simpson-al-forum-umanista-europeo-del-345-aprile-2008/
+slug: /2007/12/i-simpson-al-forum-umanista-europeo-del-345-aprile-2008/
 ---
 
 he sorpresa.. non me li aspettavo proprio!

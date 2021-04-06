@@ -6,7 +6,7 @@ id: 1714
 tags:
 - virus
 title: Sono pronto!!
-slug: /2009/04/30/sono-pronto/
+slug: /2009/04/sono-pronto/
 ---
 
 mi è appena arrivato il corriere con l'ordine che avevo fatto 🙂

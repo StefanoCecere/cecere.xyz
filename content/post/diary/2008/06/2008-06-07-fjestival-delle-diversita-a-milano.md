@@ -10,7 +10,7 @@ tags:
 - Movimento
 - umanista
 title: Fjestival delle Diversità a Milano
-slug: /2008/06/07/fjestival-delle-diversita-a-milano/
+slug: /2008/06/fjestival-delle-diversita-a-milano/
 ---
 
 Torna anche quest'anno il Fjestival delle Diversità!

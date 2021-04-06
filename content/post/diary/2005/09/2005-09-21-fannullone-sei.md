@@ -6,7 +6,7 @@ id: 91
 tags:
 - Il Fannullone
 title: fannullone sei
-slug: /2005/09/21/fannullone-sei/
+slug: /2005/09/fannullone-sei/
 ---
 
 [![](http://www.ilfannullone.it/fileadmin/ilfannullone/ilfannullone_06_cover.gif)

@@ -9,7 +9,7 @@ tags:
 - Europe for Peace
 - video
 title: Teddy Bears 4 Peace!
-slug: /2008/05/25/teddy-bears-4-peace/
+slug: /2008/05/teddy-bears-4-peace/
 ---
 
 ovvero "orsacchiotti per la pace" … a Roma sono dei simpaticissimi geni non c'è dubbio 🙂

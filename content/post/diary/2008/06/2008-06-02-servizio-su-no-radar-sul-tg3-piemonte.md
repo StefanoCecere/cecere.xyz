@@ -9,7 +9,7 @@ tags:
 - scudo spaziale
 - video
 title: Servizio su &quot;NO RADAR&quot; sul tg3 piemonte
-slug: /2008/06/02/servizio-su-no-radar-sul-tg3-piemonte/
+slug: /2008/06/servizio-su-no-radar-sul-tg3-piemonte/
 ---
 
 torno ora da 48 ore di incontri e riunioni al parco di Attigliano.

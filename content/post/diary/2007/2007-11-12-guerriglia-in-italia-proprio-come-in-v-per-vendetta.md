@@ -7,7 +7,7 @@ tags:
 - Italia
 - violenza
 title: 'guerriglia in Italia: proprio come in V per Vendetta'
-slug: /2007/11/12/guerriglia-in-italia-proprio-come-in-v-per-vendetta/
+slug: /2007/11/guerriglia-in-italia-proprio-come-in-v-per-vendetta/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2007/11/v-per-vendetta.png' alt='v-per-vendetta.png' align="left" />ricordate il film V per Vendetta vero?

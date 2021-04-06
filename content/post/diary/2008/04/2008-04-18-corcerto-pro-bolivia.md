@@ -8,7 +8,7 @@ tags:
 - Bolivia
 - concerto
 title: Corcerto pro-bolivia
-slug: /2008/04/18/corcerto-pro-bolivia/
+slug: /2008/04/corcerto-pro-bolivia/
 ---
 
 saprai che la Bolivia è di nuovo a rischio.

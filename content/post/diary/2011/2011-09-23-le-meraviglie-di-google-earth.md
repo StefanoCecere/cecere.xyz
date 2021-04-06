@@ -10,7 +10,7 @@ tags:
 - google
 - Universe
 title: Le meraviglie di Google Earth
-slug: /2011/09/23/le-meraviglie-di-google-earth/
+slug: /2011/09/le-meraviglie-di-google-earth/
 ---
 
 [Google Earth](http://www.google.com/earth/index.html) è indubbio una delle applicazione che più mi piacciono.

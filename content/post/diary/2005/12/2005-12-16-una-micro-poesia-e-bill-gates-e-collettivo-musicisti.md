@@ -7,7 +7,7 @@ tags:
 - ricreazione
 - spirito
 title: una micro poesia (e Bill Gates) e collettivo musicisti
-slug: /2005/12/16/una-micro-poesia-e-bill-gates-e-collettivo-musicisti/
+slug: /2005/12/una-micro-poesia-e-bill-gates-e-collettivo-musicisti/
 ---
 
 sapete cosa ha detto la moglie di Bill Gates dopo la prima notte di nozze?

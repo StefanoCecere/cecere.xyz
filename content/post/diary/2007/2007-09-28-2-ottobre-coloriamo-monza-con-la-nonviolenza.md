@@ -11,7 +11,7 @@ tags:
 - Terra 2.0
 - umanista
 title: '2 ottobre: coloriamo Monza con la nonviolenza'
-slug: /2007/09/28/2-ottobre-coloriamo-monza-con-la-nonviolenza/
+slug: /2007/09/2-ottobre-coloriamo-monza-con-la-nonviolenza/
 ---
 
 ![buon compleanno gandhi](http://stefanocecere.com/wp-content/uploads/sites/3/2007/09/pallocini_nonviolenza.jpg)

@@ -9,7 +9,7 @@ tags:
 - energia solare
 - nucleare
 title: La parola a Carlo Rubbia
-slug: /2008/07/22/la-parola-a-carlo-rubbia/
+slug: /2008/07/la-parola-a-carlo-rubbia/
 ---
 
 In una recente intervista, Carlo Rubbia ( premio Nobel per la fisica ) ( come Scajola ) ha dichiarato:

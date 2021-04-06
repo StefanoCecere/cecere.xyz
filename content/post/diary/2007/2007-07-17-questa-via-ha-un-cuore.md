@@ -6,7 +6,7 @@ id: 529
 tags:
 - spirito
 title: Questa via ha un cuore?
-slug: /2007/07/17/questa-via-ha-un-cuore/
+slug: /2007/07/questa-via-ha-un-cuore/
 ---
 
 ![Via con un Cuore](http://stefanocecere.com/wp-content/uploads/sites/3/2007/07/via_con_un_cuore.jpg)

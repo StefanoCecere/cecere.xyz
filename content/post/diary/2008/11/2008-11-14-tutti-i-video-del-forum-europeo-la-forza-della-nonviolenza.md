@@ -9,7 +9,7 @@ tags:
 - nonviolenza
 - video
 title: Tutti i video del Forum Europeo &quot;LA FORZA DELLA NONVIOLENZA&quot;
-slug: /2008/11/14/tutti-i-video-del-forum-europeo-la-forza-della-nonviolenza/
+slug: /2008/11/tutti-i-video-del-forum-europeo-la-forza-della-nonviolenza/
 ---
 
 ringraziando di cuore e applaudendo l'equipe video del Forum, ecco dei video che dovresti vedere:

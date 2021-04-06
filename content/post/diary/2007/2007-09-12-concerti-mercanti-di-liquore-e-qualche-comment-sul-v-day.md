@@ -10,7 +10,7 @@ tags:
 - ricreazione
 - Terra 2.0
 title: concerti Mercanti di liquore e … qualche comment sul V-day
-slug: /2007/09/12/concerti-mercanti-di-liquore-e-qualche-comment-sul-v-day/
+slug: /2007/09/concerti-mercanti-di-liquore-e-qualche-comment-sul-v-day/
 ---
 
 V-day: lo ametto, **del V-day mi è piaciuta l'"onda" che ha generato, ma per niente la sua proposta di legge**.

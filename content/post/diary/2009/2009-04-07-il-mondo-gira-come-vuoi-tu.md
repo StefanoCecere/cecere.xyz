@@ -9,7 +9,7 @@ tags:
 - illusione
 - mente
 title: il mondo gira come vuoi tu!
-slug: /2009/04/07/il-mondo-gira-come-vuoi-tu/
+slug: /2009/04/il-mondo-gira-come-vuoi-tu/
 ---
 
 ora dimmi la verità: come vedi che stanno girando le cose? come sta andando il mondo?

@@ -10,7 +10,7 @@ tags:
 - umanista
 - violenza
 title: il 2 luglio la pace si accende in piazza
-slug: /2006/06/09/il-2-luglio-la-pace-si-accende-in-piazza/
+slug: /2006/06/il-2-luglio-la-pace-si-accende-in-piazza/
 ---
 
 <div style="text-align: center">

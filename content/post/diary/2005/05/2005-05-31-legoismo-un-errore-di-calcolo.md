@@ -7,7 +7,7 @@ tags:
 - spirito
 - umanista
 title: l'egoismo? un errore di calcolo
-slug: /2005/05/31/legoismo-un-errore-di-calcolo/
+slug: /2005/05/legoismo-un-errore-di-calcolo/
 ---
 
 [<img alt="egoismo.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/egoismo.thumbnail.jpg" align="left" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/egoismo.jpg "egoismo.jpg")mi piace questa definizione di <span style="font-weight: bold">egoismo</span>:

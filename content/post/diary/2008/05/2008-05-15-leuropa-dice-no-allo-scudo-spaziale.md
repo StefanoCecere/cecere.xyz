@@ -14,7 +14,7 @@ tags:
 - petizione
 - scudo spaziale
 title: L’Europa dice NO allo Scudo spaziale
-slug: /2008/05/15/leuropa-dice-no-allo-scudo-spaziale/
+slug: /2008/05/leuropa-dice-no-allo-scudo-spaziale/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/giorgio_shultze.png' alt='giorgio_shultze.png' align="left" />Presentato come un sistema di difesa contro i possibili attacchi dei missili iraniani, il progetto degli Stati Uniti NMD – sistema missilistico nazionale, conosciuto come “Scudo spaziale” - è in realtà un’arma di offesa e mira alla militarizzazione ed al controllo dello spazio. Come sostiene **Noam Chomsky, “l’installazione da parte degli Stati Uniti di un sistema di difesa missilistica in Europa orientale è praticamente una dichiarazione di guerra, uno strumento per il dominio globale”.** 

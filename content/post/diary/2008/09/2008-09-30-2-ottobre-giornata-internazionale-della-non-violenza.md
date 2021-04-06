@@ -15,7 +15,7 @@ tags:
 - MsG
 - nonviolenza
 title: '2 ottobre: giornata internazionale della non violenza'
-slug: /2008/09/30/2-ottobre-giornata-internazionale-della-non-violenza/
+slug: /2008/09/2-ottobre-giornata-internazionale-della-non-violenza/
 ---
 
 <div>

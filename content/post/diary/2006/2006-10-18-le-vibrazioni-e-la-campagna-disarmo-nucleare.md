@@ -8,7 +8,7 @@ tags:
 - disarmo nucleare
 - Le Vibrazioni
 title: Le Vibrazioni e la Campagna Disarmo Nucleare
-slug: /2006/10/18/le-vibrazioni-e-la-campagna-disarmo-nucleare/
+slug: /2006/10/le-vibrazioni-e-la-campagna-disarmo-nucleare/
 ---
 
 <img alt="vibrazioni_disarmo_nucleare.jpg" id="image448" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/10/vibrazioni_disarmo_nucleare.jpg" />

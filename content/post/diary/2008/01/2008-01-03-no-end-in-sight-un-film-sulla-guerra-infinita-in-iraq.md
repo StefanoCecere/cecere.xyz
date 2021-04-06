@@ -12,7 +12,7 @@ tags:
 - video
 - violenza
 title: 'No end in sight: un film sulla guerra infinita in Iraq'
-slug: /2008/01/03/no-end-in-sight-un-film-sulla-guerra-infinita-in-iraq/
+slug: /2008/01/no-end-in-sight-un-film-sulla-guerra-infinita-in-iraq/
 ---
 
 sto guardando questo film-documentario:

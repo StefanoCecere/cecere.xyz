@@ -8,7 +8,7 @@ tags:
 - Costituzione
 - umanista
 title: Speciale Referendum 2006 Riforma Costituzione italiana
-slug: /2006/06/15/speciale-referendum-2006-ecco-cosa-devi-sapere/
+slug: /2006/06/speciale-referendum-2006-ecco-cosa-devi-sapere/
 ---
 
 <a target="_blank" href="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/SpecialeReferendumCostituzione.pdf"><img align="left" title="referendum_2006_vota_no.jpg" id="image337" alt="referendum_2006_vota_no.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/referendum_2006_vota_no.jpg" /></a>gli amici del trimestrale L'Umanista hanno pubblicato questo numero speciale sul referendum costituzionale del prossimo 25 giugno 2006.

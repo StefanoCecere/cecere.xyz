@@ -8,7 +8,7 @@ tags:
 - facebook
 - Mondo Senza Guerre
 title: la Marcia Mondiale su Facebook
-slug: /2009/06/29/la-marcia-mondiale-su-facebook/
+slug: /2009/06/la-marcia-mondiale-su-facebook/
 ---
 
 amici

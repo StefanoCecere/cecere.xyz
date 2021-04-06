@@ -10,7 +10,7 @@ tags:
 - morte
 - senso della vita
 title: Balasso e l'aldilà
-slug: /2015/04/27/balasso-e-laldila/
+slug: /2015/04/balasso-e-laldila/
 ---
 
 incommensurabile come sempre

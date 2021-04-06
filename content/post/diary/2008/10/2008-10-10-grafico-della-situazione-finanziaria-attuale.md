@@ -9,7 +9,7 @@ tags:
 - ridere
 - vignetta
 title: grafico della situazione finanziaria attuale
-slug: /2008/10/10/grafico-della-situazione-finanziaria-attuale/
+slug: /2008/10/grafico-della-situazione-finanziaria-attuale/
 ---
 
 ringraziando il sempre geniale [Roberto Mangosi](http://enteroclisma.blogspot.com/) per la vignetta 🙂

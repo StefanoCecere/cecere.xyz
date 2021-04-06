@@ -10,6 +10,6 @@ tags:
 - ricreazione
 - video
 title: 'La Patty: DIAMO UNA POSSIBILITA&#039; ALLA PACE!!'
-slug: /2008/05/29/la-patty-diamo-una-possibilita-alla-pace/
+slug: /2008/05/la-patty-diamo-una-possibilita-alla-pace/
 ---
 

@@ -10,6 +10,6 @@ tags:
 - nonviolenza
 - video
 title: Danziamo nel mondo
-slug: /2009/01/01/danziamo-nel-mondo/
+slug: /2009/01/danziamo-nel-mondo/
 ---
 

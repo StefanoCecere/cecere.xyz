@@ -8,7 +8,7 @@ tags:
 - tecnologia
 - TYPO3
 title: 'una mia passione: Typo3 e l&#039;OpenSource'
-slug: /2006/01/20/una-mia-passione-typo3-e-lopensource/
+slug: /2006/01/una-mia-passione-typo3-e-lopensource/
 ---
 
 giorni molto impegnati e imprevisti, questi..

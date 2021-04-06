@@ -8,7 +8,7 @@ tags:
 - spirito
 - umanista
 title: campeggio umanista 2005
-slug: /2005/08/25/campeggio-umanista-2005/
+slug: /2005/08/campeggio-umanista-2005/
 ---
 
 <img src="http://www.ilfannullone.it/typo3temp/pics/97fa8106ff.jpg" align="left" />quest'anno il campeggio umanista è stata davvero un'esperienza straodrinaria e indimenticabile. 1.300 persone in un campeggio.. che grande famiglia!

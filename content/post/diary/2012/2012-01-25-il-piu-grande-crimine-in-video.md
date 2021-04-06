@@ -11,7 +11,7 @@ tags:
 - potere
 - video
 title: Il Più Grande Crimine (in video)
-slug: /2012/01/25/il-piu-grande-crimine-in-video/
+slug: /2012/01/il-piu-grande-crimine-in-video/
 ---
 
 per chi non ha il tempo o energia per leggersi il saggio di Paolo Barnard (tra l'altro aggiornato recentemente eccolo qui: [ilpiugrandecrimine2011.pdf](http://paolobarnard.info/docs/ilpiugrandecrimine2011.pdf) )

@@ -9,7 +9,7 @@ tags:
 - statistiche
 - stefano cecere
 title: qualche dato su questo blog
-slug: /2008/07/04/qualche-dato-su-questo-blog/
+slug: /2008/07/qualche-dato-su-questo-blog/
 ---
 
 giusto perché sono oberato di cose da fare, trovo 5 minuti per questa inutilità autocelebrativa e forse anche inattendibile..

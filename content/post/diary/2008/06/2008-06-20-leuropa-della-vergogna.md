@@ -14,7 +14,7 @@ tags:
 - vergogna!
 - violenza
 title: L&#039;Europa della vergogna
-slug: /2008/06/20/leuropa-della-vergogna/
+slug: /2008/06/leuropa-della-vergogna/
 ---
 
 _(perché la situazione è molto più critica di quanto possa già sembrare… ecco la dichiarazione del portavoce del Nuovo Umanesimo su un'altra puttanata in corso… i neretti sono miei)_

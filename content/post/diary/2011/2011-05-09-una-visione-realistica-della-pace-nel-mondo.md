@@ -10,7 +10,7 @@ tags:
 - pace
 - video
 title: Una visione realistica della pace nel mondo.
-slug: /2011/05/09/una-visione-realistica-della-pace-nel-mondo/
+slug: /2011/05/una-visione-realistica-della-pace-nel-mondo/
 ---
 
 sintesi: alza il culo e datti da fare.

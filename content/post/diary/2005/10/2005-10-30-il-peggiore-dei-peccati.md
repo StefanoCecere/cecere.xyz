@@ -5,7 +5,7 @@ date: 2005-10-30T01:29:37Z
 guid: http://stefanocecere.com/2005/10/30/il-peggiore-dei-peccati/
 id: 123
 title: IL PEGGIORE DEI PECCATI?
-slug: /2005/10/30/il-peggiore-dei-peccati/
+slug: /2005/10/il-peggiore-dei-peccati/
 ---
 
 **dato che è domenica, e magari molta gente va a messa o altro.. perchè non riportare l'articolo di un amico, che tratta proprio della relazione della Chiesa Cattolica e l'attualità?</p> 

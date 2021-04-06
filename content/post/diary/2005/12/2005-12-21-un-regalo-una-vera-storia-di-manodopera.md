@@ -9,7 +9,7 @@ tags:
 - ricreazione
 - spirito
 title: 'un regalo: una vera storia di manodopera'
-slug: /2005/12/21/un-regalo-una-vera-storia-di-manodopera/
+slug: /2005/12/un-regalo-una-vera-storia-di-manodopera/
 ---
 
 <a href="http://stefanocecere.com/wp-content/mani.html" target="_blank"><img src='/wp-content/manine.jpg' alt='' align='left' /></a>vorrei condividere con voi questa bellissima storia **vera** di arte, amicizia, amore e vita.

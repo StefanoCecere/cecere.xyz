@@ -6,7 +6,7 @@ id: 5685
 tags:
 - space
 title: you are here
-slug: /2015/01/29/you-are-here/
+slug: /2015/01/you-are-here/
 ---
 
 <img class="alignnone size-full wp-image-5686" src="http://stefanocecere.com/wp-content/uploads/sites/3/2015/03/you-are-here.jpg" alt="you are here" width="728" height="400" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2015/03/you-are-here.jpg 728w, http://stefanocecere.com/wp-content/uploads/sites/3/2015/03/you-are-here-300x165.jpg 300w" sizes="(max-width: 728px) 100vw, 728px" />

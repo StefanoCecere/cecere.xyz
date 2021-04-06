@@ -6,7 +6,7 @@ id: 1535
 tags:
 - Mondo Senza Guerre
 title: 10 ragioni per partecipare alla Marcia Mondiale
-slug: /2009/02/26/10-ragioni-per-partecipare-alla-marcia-mondiale/
+slug: /2009/02/10-ragioni-per-partecipare-alla-marcia-mondiale/
 ---
 
 se mancassero motivazioni o stimoli, ecco 10 ragioni per aderire e partecipare alla Marcia Mondiale:

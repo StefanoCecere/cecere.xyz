@@ -8,7 +8,7 @@ id: 4710
 title: |
   il grande burattinaio della storia non esiste.
   sia…
-slug: /2013/10/17/il-grande-burattinaio-della-storia-non-esiste-sia/
+slug: /2013/10/il-grande-burattinaio-della-storia-non-esiste-sia/
 ---
 
 il grande burattinaio della storia non esiste.

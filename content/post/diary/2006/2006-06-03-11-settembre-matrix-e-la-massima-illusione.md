@@ -10,7 +10,7 @@ tags:
 - TV
 - vergogna!
 title: 11 settembre, matrix e la massima illusione.
-slug: /2006/06/03/11-settembre-matrix-e-la-massima-illusione/
+slug: /2006/06/11-settembre-matrix-e-la-massima-illusione/
 ---
 
 <img align="left" alt="torri_illusione1.jpg" id="image306" title="torri_illusione1.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/torri_illusione1.jpg" />1) Non ho visto le tre puntate di Matrix dei giorni scorsi durante le quali (come già La7 aveva iniziato a fare 10gg fa) so che hanno partato e "riaperto" il caso 11 settembre 2001.

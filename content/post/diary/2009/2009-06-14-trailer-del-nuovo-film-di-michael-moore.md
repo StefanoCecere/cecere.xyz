@@ -7,7 +7,7 @@ tags:
 - Michael Moore
 - trailer
 title: Trailer del nuovo film di Michael Moore
-slug: /2009/06/14/trailer-del-nuovo-film-di-michael-moore/
+slug: /2009/06/trailer-del-nuovo-film-di-michael-moore/
 ---
 
 uscirà il 2 ottobre (chissà se per quel giorno avrà aderito anche lui alla Marcia Mondiale!

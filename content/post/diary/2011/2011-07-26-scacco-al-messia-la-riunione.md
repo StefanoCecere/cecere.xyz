@@ -8,7 +8,7 @@ tags:
 - evoluzione
 - Silo
 title: 'Scacco al Messia: La Riunione'
-slug: /2011/07/26/scacco-al-messia-la-riunione/
+slug: /2011/07/scacco-al-messia-la-riunione/
 ---
 
 _per gli anelanti trascendenti e attivi sviluppatori, ecco un paragrafo del racconto Scacco al Messia._

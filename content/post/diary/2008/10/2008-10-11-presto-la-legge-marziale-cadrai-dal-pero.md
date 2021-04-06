@@ -9,7 +9,7 @@ tags:
 - pericolo
 - USA
 title: Presto la legge marziale.. cadrai dal pero?
-slug: /2008/10/11/presto-la-legge-marziale-cadrai-dal-pero/
+slug: /2008/10/presto-la-legge-marziale-cadrai-dal-pero/
 ---
 
 ricordate i "raggi del dolore?" e tutta quella tecnologia che gli USA stanno preparando da tempo per un'eventuale ribellione _interna_ al loro paese?

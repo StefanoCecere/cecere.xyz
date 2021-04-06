@@ -12,7 +12,7 @@ tags:
 - razzismo
 - Roma
 title: Foto manifestazione STOPRAZZISMO 4 ottobre a Roma
-slug: /2008/10/05/foto-manifestazione-stoprazzismo-4-ottobre-a-roma/
+slug: /2008/10/foto-manifestazione-stoprazzismo-4-ottobre-a-roma/
 ---
 
 sabato a Roma è stata una boccata d'aria.

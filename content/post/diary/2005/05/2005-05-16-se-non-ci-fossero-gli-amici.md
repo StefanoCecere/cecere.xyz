@@ -4,7 +4,7 @@ date: 2005-05-16T23:30:39Z
 guid: http://stefanocecere.com/?p=42
 id: 42
 title: se non ci fossero gli amici…
-slug: /2005/05/16/se-non-ci-fossero-gli-amici/
+slug: /2005/05/se-non-ci-fossero-gli-amici/
 ---
 
 <img src="http://www.ilfannullone.it/fileadmin/multimedia/fotogallery//20050515_regionale/IM000073.jpg" align="left" width="250" height="200" />che schifo di mondo sarebbe?

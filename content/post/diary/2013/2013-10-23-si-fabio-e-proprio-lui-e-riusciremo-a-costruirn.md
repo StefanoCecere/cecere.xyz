@@ -6,7 +6,7 @@ format: status
 guid: http://twitter-393128245480013824-post
 id: 4735
 title: si, Fabio, è proprio lui! e riusciremo a costruirn…
-slug: /2013/10/23/si-fabio-e-proprio-lui-e-riusciremo-a-costruirn/
+slug: /2013/10/si-fabio-e-proprio-lui-e-riusciremo-a-costruirn/
 ---
 
 si, Fabio, è proprio lui! e riusciremo a costruirne uno con [@fablabfirenze](http://twitter.com/fablabfirenze) ! ok, gli metteremo anche l’ombrello…[#make](http://twitter.com/search?q=%23make) http://t.co/nDCMpZbrWs

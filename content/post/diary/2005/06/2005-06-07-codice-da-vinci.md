@@ -4,7 +4,7 @@ date: 2005-06-07T10:48:27Z
 guid: http://stefanocecere.com/?p=30
 id: 30
 title: Codice Da Vinci
-slug: /2005/06/07/codice-da-vinci/
+slug: /2005/06/codice-da-vinci/
 ---
 
 <img src="http://www.romagna.net/arsfactory/images/gioc2.jpg" align="left" />finalmente sono riuscito a leggere l'ultimo capolavoro su uno dei miei Maestri preferiti..

@@ -8,7 +8,7 @@ tags:
 - spirito
 - umanista
 title: persone da ascoltare.. Islam e Nuovo Umanesimo
-slug: /2005/07/29/persone-da-ascoltare-islam-e-nuovo-umanesimo/
+slug: /2005/07/persone-da-ascoltare-islam-e-nuovo-umanesimo/
 ---
 
 con un tg nazionale che sta per 10 minuti a raccontare i dettagli dei prossimi funerali dei 4 italiani morti a Shar El Sheik, o con dei ministri della Repubblica che non sembrano aver mai aperto gli occhi per osservare ciò che sta fuori dai loro confini.. che dire?

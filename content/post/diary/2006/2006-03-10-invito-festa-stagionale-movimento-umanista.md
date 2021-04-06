@@ -8,7 +8,7 @@ tags:
 - ricreazione
 - umanista
 title: Invito Festa Stagionale Movimento Umanista
-slug: /2006/03/10/invito-festa-stagionale-movimento-umanista/
+slug: /2006/03/invito-festa-stagionale-movimento-umanista/
 ---
 
 ![](/wp-content/invito_stagionale190306.jpg)

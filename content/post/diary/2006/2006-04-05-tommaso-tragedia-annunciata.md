@@ -8,7 +8,7 @@ tags:
 - vergogna!
 - violenza
 title: TOMMASO, TRAGEDIA ANNUNCIATA
-slug: /2006/04/05/tommaso-tragedia-annunciata/
+slug: /2006/04/tommaso-tragedia-annunciata/
 ---
 
 pubblico qui un articolo dall'amica Daniela Tuscano e una lettera di un suo studente (Stefano) sulla questione Tommaso:

@@ -9,7 +9,7 @@ tags:
 - Tomas Hirsch
 - umanista
 title: in libreria &quot;LA FINE DELLA PREISTORIA&quot; di Tomas Hirsch
-slug: /2008/03/28/in-libreria-la-fine-della-preistoria-di-tomas-hirsch/
+slug: /2008/03/in-libreria-la-fine-della-preistoria-di-tomas-hirsch/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/finepreistoria2.jpg' alt='finepreistoria2.jpg' align="left" />è con grande felicità che ricevo il comunicato della [Nuovi Mondi](http://www.nuovimondi.info/), che stampa e distribuirà in Italia il libro di Tomas Hirsch, portavoce del Nuovo Umanesimo in Sud America, senonchè ex candidato alla presidenza del Cile e mico di Evo Morales, Noam Chomsky.. insomma un gran uomo.

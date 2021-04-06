@@ -6,7 +6,7 @@ id: 266
 tags:
 - umanista
 title: stasera un umanista in televisione
-slug: /2006/05/09/stasera-un-umanista-in-televisione/
+slug: /2006/05/stasera-un-umanista-in-televisione/
 ---
 
 [<img src='/wp-content/pupost3.jpg' alt='' align='left' />](http://www.valeriosindaco.org)Valerio Colombo (attivista nel Movimento dal 1989) che si presenta come candidato sindaco di Milano alle prossime elezioni del 28 maggio, sarò a Telelobardia questa sera dalle 20:30 in poi, per un vario dibattito.

@@ -8,7 +8,7 @@ tags:
 - ricreazione
 - scudo spaziale
 title: corto ma profondo. (e Guerre Stellari)
-slug: /2005/12/28/corto-ma-profondo-e-guerre-stellari/
+slug: /2005/12/corto-ma-profondo-e-guerre-stellari/
 ---
 
 un titolo che si presta a molte interpretazioni, vero? meraviglia dei punti di vista 😉

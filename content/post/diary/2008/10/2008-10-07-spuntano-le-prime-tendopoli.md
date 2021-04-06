@@ -8,7 +8,7 @@ tags:
 - crisi
 - USA
 title: Spuntano le prime tendopoli
-slug: /2008/10/07/spuntano-le-prime-tendopoli/
+slug: /2008/10/spuntano-le-prime-tendopoli/
 ---
 
 [<img class="alignnone size-full wp-image-1349" title="2008198259" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/2008198259.jpg" alt="" width="250" height="174" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/2008198259.jpg)[<img class="alignnone size-full wp-image-1350" title="20081965371_1" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/20081965371_1.jpg" alt="" width="250" height="169" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/20081965371_1.jpg)

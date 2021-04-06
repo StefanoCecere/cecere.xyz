@@ -8,7 +8,7 @@ tags:
 - giustizia
 - guerra
 title: Dei capitani
-slug: /2015/04/28/dei-capitani/
+slug: /2015/04/dei-capitani/
 ---
 
 > Papà, comunque non è giusto che i capitani se ne stiano lí belli tranquilli nel palazzo, mentre tutti gli altri vanno a combattere.

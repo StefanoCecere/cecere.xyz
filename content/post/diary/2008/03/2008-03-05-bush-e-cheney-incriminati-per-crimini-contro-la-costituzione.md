@@ -8,7 +8,7 @@ tags:
 - ricreazione
 - Terra 2.0
 title: Bush e Cheney incriminati per crimini contro la costituzione
-slug: /2008/03/05/bush-e-cheney-incriminati-per-crimini-contro-la-costituzione/
+slug: /2008/03/bush-e-cheney-incriminati-per-crimini-contro-la-costituzione/
 ---
 
 WASHINGTON, 5 marzo (Reuters) - Tra i ricercati nel Vermont ci sono due personaggi per i quali la polizia non ha bisogno di identikit: il presidente degli Stati Uniti George W. Bush e il suo vice Dick Cheney.

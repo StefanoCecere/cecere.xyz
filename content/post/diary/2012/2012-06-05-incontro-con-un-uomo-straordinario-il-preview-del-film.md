@@ -11,6 +11,6 @@ tags:
 - Silo
 - video
 title: '&quot;Incontro con un uomo straordinario&quot; .. il preview del film'
-slug: /2012/06/05/incontro-con-un-uomo-straordinario-il-preview-del-film/
+slug: /2012/06/incontro-con-un-uomo-straordinario-il-preview-del-film/
 ---
 

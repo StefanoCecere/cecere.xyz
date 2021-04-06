@@ -7,7 +7,7 @@ tags:
 - vergogna!
 - Tempi moderni
 title: I CATTIVI NON SIAMO NOI
-slug: /2005/07/28/i-cattivi-non-siamo-noi/
+slug: /2005/07/i-cattivi-non-siamo-noi/
 ---
 
 Chiacchera di Piero Posillico

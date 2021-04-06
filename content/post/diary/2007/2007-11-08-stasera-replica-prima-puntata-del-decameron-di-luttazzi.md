@@ -8,7 +8,7 @@ tags:
 - ricreazione
 - TV
 title: stasera replica prima puntata del Decameron di Luttazzi
-slug: /2007/11/08/stasera-replica-prima-puntata-del-decameron-di-luttazzi/
+slug: /2007/11/stasera-replica-prima-puntata-del-decameron-di-luttazzi/
 ---
 
 alle 00:10 su La7

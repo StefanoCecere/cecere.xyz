@@ -10,7 +10,7 @@ tags:
 - Terra 2.0
 - umanista
 title: L&#039;Aura &quot;Basta!&quot; Video a Sanremo 2008 (e testo)
-slug: /2008/02/26/video-laura-basta-a-sanremo-2008/
+slug: /2008/02/video-laura-basta-a-sanremo-2008/
 ---
 
 L'Aura apre il 58esimo Festival di San Remo con una bellissima canzone. "Basta!" mi piace perché suona come un coraggioso invito alla nonviolenza, alla lucidità mentale, ad una trasformazione profonda, umanista.

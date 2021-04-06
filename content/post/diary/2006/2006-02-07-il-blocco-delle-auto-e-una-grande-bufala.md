@@ -7,7 +7,7 @@ tags:
 - disinformazione
 - vergogna!
 title: il blocco delle auto è una grande bufala
-slug: /2006/02/07/il-blocco-delle-auto-e-una-grande-bufala/
+slug: /2006/02/il-blocco-delle-auto-e-una-grande-bufala/
 ---
 
 domenica scorsa avevamo programmato il brunch di inaugurazione del nostro locale a monza per le 12:00

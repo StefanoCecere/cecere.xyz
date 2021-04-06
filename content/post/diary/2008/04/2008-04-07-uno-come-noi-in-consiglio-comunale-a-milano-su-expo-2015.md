@@ -9,7 +9,7 @@ tags:
 - Milano
 - Politica
 title: Uno come noi in consiglio comunale a Milano (su Expo 2015)
-slug: /2008/04/07/uno-come-noi-in-consiglio-comunale-a-milano-su-expo-2015/
+slug: /2008/04/uno-come-noi-in-consiglio-comunale-a-milano-su-expo-2015/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/expo_2015.jpeg' alt='expo_2015.jpeg' align="center" />

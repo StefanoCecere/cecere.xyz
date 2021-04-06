@@ -9,6 +9,6 @@ tags:
 - scudo spaziale
 - video
 title: Intervista a Nichi Vendola - Europe for Peace
-slug: /2008/06/13/intervista-a-nichi-vendola-europe-for-peace/
+slug: /2008/06/intervista-a-nichi-vendola-europe-for-peace/
 ---
 

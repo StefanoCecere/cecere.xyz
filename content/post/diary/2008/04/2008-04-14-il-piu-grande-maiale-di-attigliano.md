@@ -8,7 +8,7 @@ tags:
 - foto
 - Parco Attigliano
 title: Il più grande maiale di Attigliano
-slug: /2008/04/14/il-piu-grande-maiale-di-attigliano/
+slug: /2008/04/il-piu-grande-maiale-di-attigliano/
 ---
 
 sabato ho fatto una scappata giù ad Attigliano a vedere alcune cose.. tra cui trovare il mio amico più maiale che conosca!

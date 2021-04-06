@@ -4,7 +4,7 @@ date: 2005-10-12T13:52:36Z
 guid: http://stefanocecere.com/2005/10/12/quando-ci-concentriamo-siamo-geniali/
 id: 105
 title: quando ci concentriamo siamo geniali
-slug: /2005/10/12/quando-ci-concentriamo-siamo-geniali/
+slug: /2005/10/quando-ci-concentriamo-siamo-geniali/
 ---
 
 notizia di oggi:

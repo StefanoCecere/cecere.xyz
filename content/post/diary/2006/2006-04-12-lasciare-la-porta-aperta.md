@@ -4,7 +4,7 @@ date: 2006-04-12T15:03:42Z
 guid: http://stefanocecere.com/2006/04/12/lasciare-la-porta-aperta/
 id: 258
 title: lasciare la porta aperta…
-slug: /2006/04/12/lasciare-la-porta-aperta/
+slug: /2006/04/lasciare-la-porta-aperta/
 ---
 
 non è facile, ma sento che sia la cosa migliore da fare:

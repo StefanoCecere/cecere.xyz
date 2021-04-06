@@ -11,7 +11,7 @@ tags:
 - JJ
 - kids
 title: nani digitali
-slug: /2011/10/09/nani-digitali/
+slug: /2011/10/nani-digitali/
 ---
 
 questo lo pubblico per sua memoria.. quando sarà grande Fabio potrà vedersi le prime parole scritte (da solo.. con giusto un aiuto sulla scelta di alcune lettere) al computer

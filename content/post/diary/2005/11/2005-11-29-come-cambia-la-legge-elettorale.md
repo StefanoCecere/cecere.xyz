@@ -6,7 +6,7 @@ id: 162
 tags:
 - vergogna!
 title: come cambia la legge elettorale
-slug: /2005/11/29/come-cambia-la-legge-elettorale/
+slug: /2005/11/come-cambia-la-legge-elettorale/
 ---
 
 <img src='/wp-content/il_solito_ignoto.jpg' alt='' align='left' />il solito ignoto (con amichetti e noi silenziosi compartecipi) colpisce senza tregua!

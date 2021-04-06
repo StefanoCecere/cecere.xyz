@@ -4,7 +4,7 @@ date: 2005-05-23T02:26:56Z
 guid: http://stefanocecere.com/?p=38
 id: 38
 title: posizioni precise
-slug: /2005/05/23/posizioni-precise/
+slug: /2005/05/posizioni-precise/
 ---
 
 ecco una serie di posizioni che hanno le loro fondamenta in un'ideologia molto precisa:

@@ -10,7 +10,7 @@ tags:
 - scudo spaziale
 - vignette
 title: Lo Scudo Spaziale
-slug: /2008/06/05/lo-scudo-spaziale/
+slug: /2008/06/lo-scudo-spaziale/
 ---
 
 vorrei far conoscere il genio di Roberto Mangosi, che ha creato le vignette (questa fatta apposta!) per l'opuscolo di Francesco.

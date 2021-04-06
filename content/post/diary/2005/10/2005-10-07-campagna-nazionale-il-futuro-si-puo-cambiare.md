@@ -6,7 +6,7 @@ id: 102
 tags:
 - umanista
 title: "CAMPAGNA NAZIONALE: IL FUTURO SI PUO' CAMBIARE"
-slug: /2005/10/07/campagna-nazionale-il-futuro-si-puo-cambiare/
+slug: /2005/10/campagna-nazionale-il-futuro-si-puo-cambiare/
 ---
 
 <img src="http://www.ilfannullone.it/uploads/tx_macinabanners/logofuturo468x60.gif" width="468" height="60" />

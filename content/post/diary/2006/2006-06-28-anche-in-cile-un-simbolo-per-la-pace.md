@@ -8,7 +8,7 @@ tags:
 - spirito
 - umanista
 title: anche in Cile un Simbolo per la Pace
-slug: /2006/06/28/anche-in-cile-un-simbolo-per-la-pace/
+slug: /2006/06/anche-in-cile-un-simbolo-per-la-pace/
 ---
 
 saprete che domenica sera si sta organizzando questo nostro simbolo della pace in centro Monza.. dopo i numerosi realizzati dagli amici di Budapest e anche questo bellissimo in Cile!

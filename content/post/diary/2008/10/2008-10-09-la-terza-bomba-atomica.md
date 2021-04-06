@@ -13,7 +13,7 @@ tags:
 - vergogna!
 - video
 title: La terza bomba atomica
-slug: /2008/10/09/la-terza-bomba-atomica/
+slug: /2008/10/la-terza-bomba-atomica/
 ---
 
 da anni gira la voce che in Iraq sono state sperimentate "piccole" bombe atomiche (a detta degli esperti per poter penetrare in profondità sottoterra.. proprio dove si nasconde Bin Laden e i vermoni del deserto Persiano)

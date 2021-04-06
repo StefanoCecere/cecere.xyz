@@ -12,7 +12,7 @@ tags:
 - vegetariani
 - video
 title: Io mio, Tu tuo e i vegetali
-slug: /2011/01/06/io-mio-tu-tuo-e-i-vegetali/
+slug: /2011/01/io-mio-tu-tuo-e-i-vegetali/
 ---
 
 Qualche giorno fa, ascoltando il piccolo Fabio (2 anni da poco), mi ha colpito una considerazione che ammetto credo di non aver mai fatto prima: Io sta a Mio, come I sta a My, Tu sta a Tuo, come You sta a Yours .. beh insomam si è capito.. questa stretta parentela tra il soggettivo e il genitivo.

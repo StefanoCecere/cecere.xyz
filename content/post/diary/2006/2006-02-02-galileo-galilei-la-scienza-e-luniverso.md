@@ -8,7 +8,7 @@ tags:
 - tecnologia
 - universo
 title: galileo galilei, la scienza e l&#039;universo
-slug: /2006/02/02/galileo-galilei-la-scienza-e-luniverso/
+slug: /2006/02/galileo-galilei-la-scienza-e-luniverso/
 ---
 
 ier l'altro ho asssitito a Firenze allo spettacolo della Margherita Hack sull'Universo.

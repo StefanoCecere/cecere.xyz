@@ -6,7 +6,7 @@ id: 675
 tags:
 - Politica
 title: ti senti rappresentato?
-slug: /2008/02/07/ti-senti-rappresentato/
+slug: /2008/02/ti-senti-rappresentato/
 ---
 
 arrivano presto le elezioni e?

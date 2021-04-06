@@ -9,7 +9,7 @@ tags:
 - Palestina
 - USA
 title: Sono molto. molto. ma molto preoccupato.
-slug: /2009/01/05/sono-molto-molto-ma-molto-preoccupato/
+slug: /2009/01/sono-molto-molto-ma-molto-preoccupato/
 ---
 
 La guerra in atto a Gaza potebbe essere una scintilla fatale.

@@ -10,7 +10,7 @@ tags:
 - recensione
 - spirito
 title: benigni.. tigre innevata
-slug: /2005/11/02/benigni-tigre-innevata/
+slug: /2005/11/benigni-tigre-innevata/
 ---
 
 domenica ho visto la Tigre e la Neve..

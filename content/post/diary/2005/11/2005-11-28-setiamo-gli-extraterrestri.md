@@ -8,7 +8,7 @@ tags:
 - ricreazione
 - tecnologia
 title: SETIamo gli extraterrestri
-slug: /2005/11/28/setiamo-gli-extraterrestri/
+slug: /2005/11/setiamo-gli-extraterrestri/
 ---
 
 <img src='/wp-content/et.jpg' alt='' align='left' />ci si può credere o no. ci si vorrebbe credere o no.

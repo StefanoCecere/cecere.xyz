@@ -13,7 +13,7 @@ tags:
 - tempesta
 - Ulisse
 title: Leghiamoci bene ed ascoltiamo…
-slug: /2006/01/28/leghiamoci-bene-ed-ascoltiamo/
+slug: /2006/01/leghiamoci-bene-ed-ascoltiamo/
 ---
 
 ![](/wp-content/ulisse_legato_albero.jpg)

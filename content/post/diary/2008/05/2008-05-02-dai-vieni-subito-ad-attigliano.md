@@ -7,7 +7,7 @@ tags:
 - Parco Attigliano
 - Silo
 title: Dai vieni subito ad Attigliano!
-slug: /2008/05/02/dai-vieni-subito-ad-attigliano/
+slug: /2008/05/dai-vieni-subito-ad-attigliano/
 ---
 
 se sei ancora a casa e stai lasciando che la pigrizia o affari secondari prendano le decisioni al posto tuo.. RIBELLATI!

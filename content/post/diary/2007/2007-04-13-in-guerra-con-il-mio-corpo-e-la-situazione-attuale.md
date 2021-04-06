@@ -6,7 +6,7 @@ id: 501
 tags:
 - umanista
 title: in guerra con il mio corpo e la situazione attuale
-slug: /2007/04/13/in-guerra-con-il-mio-corpo-e-la-situazione-attuale/
+slug: /2007/04/in-guerra-con-il-mio-corpo-e-la-situazione-attuale/
 ---
 
 incredibile dall'altro ieri sto male.. nausea, febbre e tutto quel sentore che proprio non ci voleva da quante cose dovevo fare in questi giorni!

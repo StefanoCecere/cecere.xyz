@@ -6,7 +6,7 @@ id: 352
 tags:
 - tecnologia
 title: telecinesi cinesi!
-slug: /2006/06/23/telecinesi-cinese/
+slug: /2006/06/telecinesi-cinese/
 ---
 
 _e lei ti sposta tutto con la forza della mente… 🙂_

@@ -7,7 +7,7 @@ tags:
 - guerra
 - pensieri
 title: Sull&#039;Afghanistan
-slug: /2010/04/18/sullafghanistan/
+slug: /2010/04/sullafghanistan/
 ---
 
 L'Afghanistan è un mondo extraterrestre.

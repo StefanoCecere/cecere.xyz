@@ -11,7 +11,7 @@ tags:
 - Terra 2.0
 - umanista
 title: Proseguono i lavori al Parco di Punta de Vacas
-slug: /2008/02/21/proseguono-i-lavori-al-parco-di-punta-de-vacas/
+slug: /2008/02/proseguono-i-lavori-al-parco-di-punta-de-vacas/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/02/marina-p-de-v-feb-08-093.thumbnail.jpg' alt='marina-p-de-v-feb-08-093.jpg' align="left" />sono migliaia le persone coinvolte nel mondo in questo progetto che sfocerà a gennaio 2010 nel più grande momento storico della nuova epoca:

@@ -9,7 +9,7 @@ tags:
 - Tomas Hirsch
 - umanista
 title: Presentazione de “La fine della preistoria” a Milano
-slug: /2008/05/20/presentazione-de-la-fine-della-preistoria-a-milano/
+slug: /2008/05/presentazione-de-la-fine-della-preistoria-a-milano/
 ---
 
 ![locandinamilano.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/locandinamilano.jpg)

@@ -6,7 +6,7 @@ id: 470
 tags:
 - vergogna!
 title: Purtroppo Pinochet se ne è andato senza che…
-slug: /2006/12/11/purtroppo-pinochet-se-ne-e-andato-senza-che/
+slug: /2006/12/purtroppo-pinochet-se-ne-e-andato-senza-che/
 ---
 
 <img width="194" height="264" align="left" title="pinochet.jpg" id="image469" alt="pinochet.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/12/pinochet.jpg" />fosse condannato per i crimini contro l'umanità che ha commesso.

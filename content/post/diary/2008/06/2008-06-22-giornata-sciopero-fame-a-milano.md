@@ -17,7 +17,7 @@ tags:
 - Terra 2.0
 - umanista
 title: Giornata Sciopero Fame a Milano
-slug: /2008/06/22/giornata-sciopero-fame-a-milano/
+slug: /2008/06/giornata-sciopero-fame-a-milano/
 ---
 
 ecco un po' di foto del pomeriggio a Milano.

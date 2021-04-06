@@ -8,7 +8,7 @@ tags:
 - scudo spaziale
 - USA
 title: Colpo di stato (di velluto) in Repubblica Ceca sulla questione radar?
-slug: /2008/10/30/colpo-di-stato-di-velluto-in-repubblica-ceca-sulla-questione-radar/
+slug: /2008/10/colpo-di-stato-di-velluto-in-repubblica-ceca-sulla-questione-radar/
 ---
 
 **Sistema di difesa nazionale degli USA in Repubblica Ceca: siamo in presenza di un colpo di stato di velluto?**

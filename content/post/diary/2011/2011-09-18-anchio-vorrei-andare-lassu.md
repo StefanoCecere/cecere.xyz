@@ -9,6 +9,6 @@ tags:
 - spazio
 - video
 title: Anch&#039;io vorrei andare lassù!
-slug: /2011/09/18/anchio-vorrei-andare-lassu/
+slug: /2011/09/anchio-vorrei-andare-lassu/
 ---
 

@@ -8,7 +8,7 @@ tags:
 - cartoni
 - education
 title: invenzioni e inventori
-slug: /2015/03/17/invenzioni-e-inventori/
+slug: /2015/03/invenzioni-e-inventori/
 ---
 
 ieri sera abbiamo iniziato la serie cartoni "invenzioni e inventori" (dal creatore dei cartoni sul corpo umano).

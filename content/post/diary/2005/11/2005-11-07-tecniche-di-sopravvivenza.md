@@ -7,7 +7,7 @@ tags:
 - spirito
 - tecnologia
 title: tecniche di sopravvivenza..
-slug: /2005/11/07/tecniche-di-sopravvivenza/
+slug: /2005/11/tecniche-di-sopravvivenza/
 ---
 
 ![](/wp-content/krur_low.jpg)

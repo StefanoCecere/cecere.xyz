@@ -6,7 +6,7 @@ id: 1768
 tags:
 - pensieri
 title: a tutte le mamme!
-slug: /2009/05/10/a-tutte-le-mamme/
+slug: /2009/05/a-tutte-le-mamme/
 ---
 
 (innanzitutto alla mia e a quella di fabio 😉

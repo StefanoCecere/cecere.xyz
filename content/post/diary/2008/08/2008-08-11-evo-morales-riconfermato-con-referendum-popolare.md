@@ -10,7 +10,7 @@ tags:
 - nonviolenza
 - referendum
 title: Evo Morales riconfermato con referendum popolare
-slug: /2008/08/11/evo-morales-riconfermato-con-referendum-popolare/
+slug: /2008/08/evo-morales-riconfermato-con-referendum-popolare/
 ---
 
 forse qualcuno lo sapeva, molti no: 8 mesi fa il presidente della Bolivia Evo Morales, il primo presidente indigeno ad essere stato eletto democraticamente con il 55% dei voti nel 2005 e che ha iniziato da subito un processo di rivoluzione nonviolenta a favore dei poveri con la rinazionalizzazione delle risorse, aveva indetto un referendum popolare per farsi "riconfermare".

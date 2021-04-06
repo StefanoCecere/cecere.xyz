@@ -12,7 +12,7 @@ tags:
 - Politica
 - soldi
 title: Nonna, ti spiego la crisi economica. 9
-slug: /2011/11/01/nonna-ti-spiego-la-crisi-economica-9/
+slug: /2011/11/nonna-ti-spiego-la-crisi-economica-9/
 ---
 
 _(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del tutto digiune di economia, scritto da Paolo Barnard - leggi [introduzione e sommario qui](http://stefanocecere.com/2011/10/24/vi-spiego-la-crisi-economica/ "Vi spiego la crisi economica"))_

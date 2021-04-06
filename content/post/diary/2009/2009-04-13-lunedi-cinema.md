@@ -9,7 +9,7 @@ tags:
 - TV
 - video
 title: Lunedì cinema
-slug: /2009/04/13/lunedi-cinema/
+slug: /2009/04/lunedi-cinema/
 ---
 
 ma quanto è bello il cinema? ma soprattutto questa sigla!!!!!

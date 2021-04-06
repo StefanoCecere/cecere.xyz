@@ -6,7 +6,7 @@ id: 103
 tags:
 - droga
 title: droga per tutti
-slug: /2005/10/11/droga-per-tutti/
+slug: /2005/10/droga-per-tutti/
 ---
 
 <img class="alignleft size-full wp-image-5474" alt="Lapo_Elkann‎" src="http://stefanocecere.com/wp-content/uploads/sites/3/2005/10/Lapo_Elkann‎.jpg" width="144" height="143" />sembra che negli ultimi tempi vogliano far sapere che nel mondo delle “alte” sfere si drogano tutti:

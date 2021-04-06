@@ -8,7 +8,7 @@ tags:
 - Gandhi
 - nonviolenza
 title: Buon compleanno, Gandhi!
-slug: /2008/10/02/buon-compleanno-gandhi/
+slug: /2008/10/buon-compleanno-gandhi/
 ---
 
 <img class="alignleft size-medium wp-image-1320" title="gandhi" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/gandhi.gif" alt="" width="217" height="217" />ed è arrivato anche questo 2 ottobre, giorno di nascita di Gandhi, che l'ONU l'anno scorso ha dichiarato **giornata mondiale della Nonviolenza.**

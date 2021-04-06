@@ -10,7 +10,7 @@ tags:
 title: |
   Fresh from the library! It’s
   Xmas! Breaking News,…
-slug: /2014/12/19/fresh-from-the-library-itsxmas-breaking-news/
+slug: /2014/12/fresh-from-the-library-itsxmas-breaking-news/
 ---
 
 Fresh from the library! It’s

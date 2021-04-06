@@ -8,7 +8,7 @@ id: 2323
 tags:
 - salute
 title: Mangi uova di gallina? ecco cosa devi sapere
-slug: /2011/01/10/mangi-uova-di-gallina-ecco-cosa-devi-sapere/
+slug: /2011/01/mangi-uova-di-gallina-ecco-cosa-devi-sapere/
 ---
 
 <http://www.rainews24.it/it/news.php?newsid=148973>

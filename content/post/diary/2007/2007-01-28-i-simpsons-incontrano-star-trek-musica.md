@@ -9,7 +9,7 @@ tags:
 - ricreazione
 - simpsons
 title: I Simpsons incontrano Star Trek (musica!)
-slug: /2007/01/28/i-simpsons-incontrano-star-trek-musica/
+slug: /2007/01/i-simpsons-incontrano-star-trek-musica/
 ---
 
 <div>

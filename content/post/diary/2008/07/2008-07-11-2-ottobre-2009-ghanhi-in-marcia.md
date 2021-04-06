@@ -9,7 +9,7 @@ tags:
 - Nuova Zelanda
 - Wellington
 title: '2 ottobre 2009: Ghandi in marcia'
-slug: /2008/07/11/2-ottobre-2009-ghanhi-in-marcia/
+slug: /2008/07/2-ottobre-2009-ghanhi-in-marcia/
 ---
 
 si partirà da qui, davanti a questa statua di Gandhi, a Wellington (Nuova Zelanda) (clicca per la mappa)

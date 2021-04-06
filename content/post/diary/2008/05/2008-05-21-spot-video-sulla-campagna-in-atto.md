@@ -13,6 +13,6 @@ tags:
 - petizione
 - scudo spaziale
 title: Spot video sulla campagna in atto
-slug: /2008/05/21/spot-video-sulla-campagna-in-atto/
+slug: /2008/05/spot-video-sulla-campagna-in-atto/
 ---
 

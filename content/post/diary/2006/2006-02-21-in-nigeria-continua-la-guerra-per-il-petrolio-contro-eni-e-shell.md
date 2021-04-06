@@ -10,7 +10,7 @@ tags:
 - petrolio
 - violenza
 title: In Nigeria continua la guerra per il petrolio contro ENI e SHELL
-slug: /2006/02/21/in-nigeria-continua-la-guerra-per-il-petrolio-contro-eni-e-shell/
+slug: /2006/02/in-nigeria-continua-la-guerra-per-il-petrolio-contro-eni-e-shell/
 ---
 
 a dispetto di chi si lascia distrarre (per volontà o necessità) e crede che tutto va bene tutto va per il meglio non c'è ragione di preoccuparsi.. anzi: GUAI A OPPORSI ALLA VIOLENZA E ALL'INGIUSTIZIA, perchè così le si danno forza (c'è tanta gente che purtroppo la pensa così), riporto questo breve aggiornamento su quanto da anni sta succedendo in Nigeria..

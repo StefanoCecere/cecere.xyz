@@ -8,7 +8,7 @@ tags:
 - nonviolenza
 - umanista
 title: concerto sulla non violenza
-slug: /2005/06/18/concerto-sulla-non-violenza/
+slug: /2005/06/concerto-sulla-non-violenza/
 ---
 
 [<img src="http://www.iosonononviolento.it/images/logo120.gif" align="left" border="0" />](http://www.iosonononviolento.it/)

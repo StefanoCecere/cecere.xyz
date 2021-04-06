@@ -13,7 +13,7 @@ tags:
 - umanista
 - video
 title: Eventi NOWAR del 15 marzo contro la guerra in Iraq
-slug: /2008/03/19/eventi-nowar-del-15-marzo-contro-la-guerra-in-iraq/
+slug: /2008/03/eventi-nowar-del-15-marzo-contro-la-guerra-in-iraq/
 ---
 
 ormai è diventata silenziosa, ma la guerra in Iraq continua.

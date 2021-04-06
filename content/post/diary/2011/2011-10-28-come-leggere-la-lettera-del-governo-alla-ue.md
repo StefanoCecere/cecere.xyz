@@ -12,7 +12,7 @@ tags:
 - finanza
 - Politica
 title: Come leggere la lettera del governo alla UE
-slug: /2011/10/28/come-leggere-la-lettera-del-governo-alla-ue/
+slug: /2011/10/come-leggere-la-lettera-del-governo-alla-ue/
 ---
 
 _condivido queste considerazioni del giornalista Paolo Barnard.

@@ -9,7 +9,7 @@ tags:
 - recensione
 - ricreazione
 title: 'Transformers: il film'
-slug: /2007/07/21/transformers-il-film/
+slug: /2007/07/transformers-il-film/
 ---
 
 <img src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/07/transformers.jpg" title="Transformers locandina" alt="Transformers locandina" align="left" />E allora diciamolo: passo tutte le sere a guardare un film!!!

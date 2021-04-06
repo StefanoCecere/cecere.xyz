@@ -10,7 +10,7 @@ tags:
 - umanista
 - video
 title: Avanzamenti del Parco di Attigliano
-slug: /2008/03/20/avanzamenti-del-parco-di-attigliano/
+slug: /2008/03/avanzamenti-del-parco-di-attigliano/
 ---
 
 i lavori continuano.. fuori e dentro.

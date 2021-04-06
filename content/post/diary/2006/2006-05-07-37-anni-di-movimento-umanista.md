@@ -8,7 +8,7 @@ tags:
 - spirito
 - umanista
 title: 37 anni di Movimento Umanista
-slug: /2006/05/07/37-anni-di-movimento-umanista/
+slug: /2006/05/37-anni-di-movimento-umanista/
 ---
 
 <img src='/wp-content/Manantiales3.jpg' alt='' align='left' />il 4 maggio è una data importante per gli Umanisti: in quella data nel 1969 è stato lanciato questo grande progetto.

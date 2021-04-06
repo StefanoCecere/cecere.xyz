@@ -9,7 +9,7 @@ tags:
 - Francia
 - Iran
 title: bombe atomiche con poesia sul ghiaccio
-slug: /2006/02/24/bombe-atomiche-con-poesia-sul-ghiaccio/
+slug: /2006/02/bombe-atomiche-con-poesia-sul-ghiaccio/
 ---
 
 <img src='/wp-content/bomba_atomica.jpg' alt='bomba atomica' align='left' />Non ne parla ancora nessuno.. la minaccia di una guerra atomica sembra ormai songiurata con il patto di non proliferazione accompagnato da Gorbaciov.. oggi l'unico nucleare che si teme è quello dell'Iran, ma gli attenti potrebbero accorgersi che la situaione si sta complicando sempre di più.. recentemente Jacques Chirac ha dichiarato che lancerà bombe nucleari se altri paesi insisteranno a pregiudicare gli interessi della Francia.

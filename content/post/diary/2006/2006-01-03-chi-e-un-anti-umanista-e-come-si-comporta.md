@@ -6,7 +6,7 @@ id: 204
 tags:
 - umanista
 title: Chi è un anti-umanista e come si comporta?
-slug: /2006/01/03/chi-e-un-anti-umanista-e-come-si-comporta/
+slug: /2006/01/chi-e-un-anti-umanista-e-come-si-comporta/
 ---
 
 <img src='/wp-content/cattivi.jpeg' alt='' align='left' />se si vuole andare coerentemente in una certa direzione è bene avere anche presente da dove si arriva e dove NON si vuole più andare.

@@ -11,6 +11,6 @@ tags:
 - riconciliazione
 - video
 title: UN ABBRACCIO A TUTTI! (bellissimo videoclip)
-slug: /2008/10/24/un-abbraccio-a-tutti-bellissimo-videoclip/
+slug: /2008/10/un-abbraccio-a-tutti-bellissimo-videoclip/
 ---
 

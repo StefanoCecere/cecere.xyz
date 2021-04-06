@@ -9,7 +9,7 @@ tags:
 - finanza
 - USA
 title: Il sistema finanziario sta esplodendo… che fare?
-slug: /2008/10/02/il-sistema-finanziario-sta-esplodendo-che-fare/
+slug: /2008/10/il-sistema-finanziario-sta-esplodendo-che-fare/
 ---
 
 io personalmente sto dividendo quei due euro che sono riuscito a mettere via su due conti correnti di banche totalmente diverse (la Cariparma e un libretto di risparmio della Coop). ne avessi altri (di soldi), li metterei in una cassetta di sicurezza, ancora meglio se convertiti in oro.

@@ -6,7 +6,7 @@ id: 631
 tags:
 - massoneria
 title: sulla Massoneria
-slug: /2008/01/06/sulla-massoneria/
+slug: /2008/01/sulla-massoneria/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/01/massoneria.thumbnail.gif' alt='massoneria.gif' align="left" />sto preparando le idee e le attività per il semestre, e quasi per caso ho trovato e letto i seguenti tre articoli sul tema della Massoneria in Italia e nel Mondo:

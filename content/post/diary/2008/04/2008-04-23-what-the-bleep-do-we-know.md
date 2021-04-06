@@ -11,7 +11,7 @@ tags:
 - ricreazione
 - Terra 2.0
 title: What the bleep do we know?
-slug: /2008/04/23/what-the-bleep-do-we-know/
+slug: /2008/04/what-the-bleep-do-we-know/
 ---
 
 **"la tendenza allo sviluppo della conoscenza al di sopra di quanto viene accettato o imposto come verità assoluta."**

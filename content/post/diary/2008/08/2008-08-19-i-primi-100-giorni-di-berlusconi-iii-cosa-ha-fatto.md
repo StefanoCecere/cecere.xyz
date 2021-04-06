@@ -13,7 +13,7 @@ tags:
 - libro
 - scarica
 title: 'I primi 100 giorni di Berlusconi III: cosa ha fatto?'
-slug: /2008/08/19/i-primi-100-giorni-di-berlusconi-iii-cosa-ha-fatto/
+slug: /2008/08/i-primi-100-giorni-di-berlusconi-iii-cosa-ha-fatto/
 ---
 
 [L'Unità](http://www.unita.it/view.asp?IDcontent=78062) ha pubblicato qualche giorno fa un **interessantissimo documento (e-book) liberamente scaricabile** dove vengono raccontate nei dettagli tutte le leggi approvate nei primi 100 giorni del terzo governo Berlusconi.

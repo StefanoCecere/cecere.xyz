@@ -14,7 +14,7 @@ tags:
 - intervista
 - scudo spaziale
 title: Intervista a Giorgio Schulze su Radio Popolare (su SCUDO SPAZIALE)
-slug: /2008/05/30/intervista-a-giorgio-schulze-su-radio-popolare-su-scudo-spaziale/
+slug: /2008/05/intervista-a-giorgio-schulze-su-radio-popolare-su-scudo-spaziale/
 ---
 
 ![giorgio_shultze1.png](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/giorgio_shultze1.png)

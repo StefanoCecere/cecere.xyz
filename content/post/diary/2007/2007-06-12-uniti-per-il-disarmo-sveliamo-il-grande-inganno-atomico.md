@@ -9,7 +9,7 @@ tags:
 - Events
 - umanista
 title: UNITI PER IL DISARMO - SVELIAMO IL GRANDE INGANNO ATOMICO
-slug: /2007/06/12/uniti-per-il-disarmo-sveliamo-il-grande-inganno-atomico/
+slug: /2007/06/uniti-per-il-disarmo-sveliamo-il-grande-inganno-atomico/
 ---
 
 Il 14 giugno dalle 21.00 alle 23.30 presso l'Auditorium di via Pascoli 53, Milano (mm Piola)

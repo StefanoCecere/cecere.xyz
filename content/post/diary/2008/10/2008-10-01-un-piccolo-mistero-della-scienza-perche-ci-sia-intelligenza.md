@@ -8,7 +8,7 @@ tags:
 - ricerca
 - scienza
 title: Un piccolo mistero della scienza.. perchè ci sia intelligenza!
-slug: /2008/10/01/un-piccolo-mistero-della-scienza-perche-ci-sia-intelligenza/
+slug: /2008/10/un-piccolo-mistero-della-scienza-perche-ci-sia-intelligenza/
 ---
 
 _riporto qui l'articolo originale di_ [_Paolo Attivissimo_](http://attivissimo.blogspot.com/) _che sempre sia ringraziato e diffuso!_

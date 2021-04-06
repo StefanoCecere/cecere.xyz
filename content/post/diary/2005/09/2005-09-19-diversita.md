@@ -4,7 +4,7 @@ date: 2005-09-19T23:24:55Z
 guid: http://stefanocecere.com/2005/09/19/diversita/
 id: 89
 title: Diversità
-slug: /2005/09/19/diversita/
+slug: /2005/09/diversita/
 ---
 
 ecco l'editoriale che ho scritto per il nuovo [Fannullone](http://www.ilfannullone.it):

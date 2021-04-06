@@ -13,7 +13,7 @@ tags:
 - speculazione
 - storiella
 title: La crisi degli asini
-slug: /2011/10/04/la-crisi-degli-asini/
+slug: /2011/10/la-crisi-degli-asini/
 ---
 
 LA CRISI DEGLI ASINI

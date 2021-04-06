@@ -11,7 +11,7 @@ tags:
 - recessione
 - USA
 title: Il più grande furto della storia
-slug: /2008/10/07/il-piu-grande-furto-della-storia/
+slug: /2008/10/il-piu-grande-furto-della-storia/
 ---
 
 ecco un'altra lettera di oggi di Michael Moore che ripropongo per gli interessati a saperne un po' di più…

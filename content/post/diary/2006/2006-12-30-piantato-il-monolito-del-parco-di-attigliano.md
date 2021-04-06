@@ -8,7 +8,7 @@ tags:
 - spirito
 - umanista
 title: Piantato il monolito del Parco di Attigliano
-slug: /2006/12/30/piantato-il-monolito-del-parco-di-attigliano/
+slug: /2006/12/piantato-il-monolito-del-parco-di-attigliano/
 ---
 
 meno male che in giro c'è gente come noi.

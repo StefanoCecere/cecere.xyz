@@ -13,7 +13,7 @@ tags:
 - music
 - video
 title: the JJ Music Experience (primo anno)
-slug: /2009/12/10/the-jj-music-experience-primo-anno/
+slug: /2009/12/the-jj-music-experience-primo-anno/
 ---
 
 ebbene sì.. JJ si avvia all'anno! esattamente fra 4 giorni. mi sembra ieri che siamo corsi, un bel sabato notte, alla sala parto della Margherita, e gli ho tagliato il cordone ombelicale cantandogli i Bee Gees..

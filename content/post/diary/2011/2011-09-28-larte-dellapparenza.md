@@ -8,7 +8,7 @@ tags:
 - San francisco
 - viaggio
 title: L&#039;arte dell&#039;apparenza
-slug: /2011/09/28/larte-dellapparenza/
+slug: /2011/09/larte-dellapparenza/
 ---
 
 Avevamo disimparato ad ascoltarci dentro. e per questo tutta la nostra societá aveva riversato tutte le attenzioni e preoccupazioni a ciò che stava fuori.

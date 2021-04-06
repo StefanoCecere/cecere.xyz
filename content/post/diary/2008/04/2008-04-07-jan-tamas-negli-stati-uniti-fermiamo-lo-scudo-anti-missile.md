@@ -9,7 +9,7 @@ tags:
 - disarmo nucleare
 - USA
 title: JAN TAMAS NEGLI STATI UNITI, FERMIAMO LO SCUDO ANTI-MISSILE
-slug: /2008/04/07/jan-tamas-negli-stati-uniti-fermiamo-lo-scudo-anti-missile/
+slug: /2008/04/jan-tamas-negli-stati-uniti-fermiamo-lo-scudo-anti-missile/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/jan_tamas.jpg' alt='jan_tamas.jpg' align="left" />Jan Tamas, voce della protesta contro lo scudo anti-missile statunitense in repubblica Ceca, **inizia oggi il tour statunitense di sensibilizzazione e informazione**. Sono previsti 15 giorni di conferenze ed incontri con organizzazioni e personalità pacifiste e nonviolente, quali il Global Network Against Weapons & Nuclear Power in Space, il Professore Noam Chomsky ed il parlamentare Dennis Kucinich.

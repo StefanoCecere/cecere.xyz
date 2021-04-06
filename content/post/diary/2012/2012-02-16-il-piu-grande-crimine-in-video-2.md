@@ -11,7 +11,7 @@ tags:
 - economia
 - video
 title: Il Più Grande Crimine in video
-slug: /2012/02/16/il-piu-grande-crimine-in-video-2/
+slug: /2012/02/il-piu-grande-crimine-in-video-2/
 ---
 
 per chi non può leggersi il [documento originale](http://paolobarnard.info/docs/ilpiugrandecrimine2011.pdf), ecco una bella video-interpretazione (fedele al testo originale)

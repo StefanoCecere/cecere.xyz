@@ -7,7 +7,7 @@ tags:
 - ricreazione
 - spirito
 title: 'Castel del Monte: un aula di Scuola?'
-slug: /2006/08/24/castel-del-monte-un-aula-di-scuola/
+slug: /2006/08/castel-del-monte-un-aula-di-scuola/
 ---
 
 <img align="left" alt="Cecio e Antonella a Castel del Monte" id="image394" title="Cecio e Antonella a Castel del Monte" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/cecio_a_castel_del_monte.jpg" />erano diversi anni che volevo andare a vederlo..

@@ -9,7 +9,7 @@ tags:
 - video
 - violenza
 title: VIDEO IMPRESSIONANTE SULLA GUERRA IN IRAQ
-slug: /2005/11/08/video-impressionante-sulla-guerra-in-iraq/
+slug: /2005/11/video-impressionante-sulla-guerra-in-iraq/
 ---
 
 <a href="http://www.rainews24.rai.it/ran24/inchiesta/" target='_blank'><img src='/wp-content/guerra_iraq.jpg' alt='' /></a>

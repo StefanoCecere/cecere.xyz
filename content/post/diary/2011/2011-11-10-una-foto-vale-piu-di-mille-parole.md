@@ -9,7 +9,7 @@ tags:
 - immagini
 - soldi
 title: Una foto vale più di mille parole…
-slug: /2011/11/10/una-foto-vale-piu-di-mille-parole/
+slug: /2011/11/una-foto-vale-piu-di-mille-parole/
 ---
 
 così dicevano… e se una parola valesse 4.300 EURO? allora questa foto varrebbe più di 4.3 MILIONI di EURO.

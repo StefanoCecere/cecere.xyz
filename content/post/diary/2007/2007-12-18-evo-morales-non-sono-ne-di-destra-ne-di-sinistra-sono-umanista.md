@@ -12,7 +12,7 @@ tags:
 - umanista
 - video
 title: 'Evo Morales: non sono nè di destra nè di sinistra. SONO UMANISTA.'
-slug: /2007/12/18/evo-morales-non-sono-ne-di-destra-ne-di-sinistra-sono-umanista/
+slug: /2007/12/evo-morales-non-sono-ne-di-destra-ne-di-sinistra-sono-umanista/
 ---
 
 [www.terra2.tv](http://www.terra2.tv)

@@ -7,7 +7,7 @@ id: 5674
 tags:
 - immaginazione
 title: vedo le cose nel cervello
-slug: /2015/02/04/vedo-le-cose-nel-cervello/
+slug: /2015/02/vedo-le-cose-nel-cervello/
 ---
 
 "papà, ma io vedo le cose nel cervello! anche da sveglio!"

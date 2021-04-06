@@ -9,7 +9,7 @@ tags:
 - immortalità
 - matematica
 title: A cosa serve la matematica
-slug: /2015/04/22/a-cosa-serve-la-matematica/
+slug: /2015/04/a-cosa-serve-la-matematica/
 ---
 
 ho diversi libri sulla matematica creativa o divertente ( Martin Gardner e John D. Barrow in primis).. ma non sapevo ancora della struttura di Weaire-Phelan (che sembrerebbe la miglior forma 3D per riempire lo spazio con oggetti di ugual volume e minor superficie di contatto).

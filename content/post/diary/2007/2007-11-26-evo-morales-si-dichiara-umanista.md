@@ -9,7 +9,7 @@ tags:
 - Terra 2.0
 - umanista
 title: Evo Morales si dichiara umanista
-slug: /2007/11/26/evo-morales-si-dichiara-umanista/
+slug: /2007/11/evo-morales-si-dichiara-umanista/
 ---
 
 dal sito ufficiale del governo boliviano:

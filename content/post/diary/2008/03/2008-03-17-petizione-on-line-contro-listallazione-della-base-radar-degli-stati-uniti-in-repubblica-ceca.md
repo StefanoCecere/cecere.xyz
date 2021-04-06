@@ -11,7 +11,7 @@ tags:
 - USA
 title: PETIZIONE ON LINE CONTRO L’ISTALLAZIONE DELLA BASE RADAR DEGLI STATI UNITI
   IN REPUBBLICA CECA
-slug: /2008/03/17/petizione-on-line-contro-listallazione-della-base-radar-degli-stati-uniti-in-repubblica-ceca/
+slug: /2008/03/petizione-on-line-contro-listallazione-della-base-radar-degli-stati-uniti-in-repubblica-ceca/
 ---
 
 C'è pochissimo tempo per firmare questa petizione essenziale per fermare l'installazione del Radar Militare che verrà installato in Repubblica Ceca e che sarà un passo in più per armare l'Europa e complicare le relazioni diplomatiche nel nostro continente. Oltre allo scempio ambientale che dovranno subire le popolazioni residenti nei paraggi di questo insediamento.

@@ -8,7 +8,7 @@ tags:
 - beauty
 - nature
 title: Amazing Worlds Within Our World
-slug: /2015/01/29/amazing-worlds-within-world/
+slug: /2015/01/amazing-worlds-within-world/
 ---
 
 amazingness is everywhere

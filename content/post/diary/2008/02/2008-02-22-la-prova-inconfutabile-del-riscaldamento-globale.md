@@ -7,7 +7,7 @@ tags:
 - ridere
 - riscaldamento globale
 title: La prova inconfutabile del riscaldamento globale
-slug: /2008/02/22/la-prova-inconfutabile-del-riscaldamento-globale/
+slug: /2008/02/la-prova-inconfutabile-del-riscaldamento-globale/
 ---
 
 mi dispiace per gli ambientalisti che si azzannano con tabelle, films e convegni..

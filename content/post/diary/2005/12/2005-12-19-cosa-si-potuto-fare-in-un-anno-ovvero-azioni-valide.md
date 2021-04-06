@@ -7,7 +7,7 @@ tags:
 - spirito
 - umanista
 title: cosa si è potuto fare in un anno… ovvero Azioni Valide
-slug: /2005/12/19/cosa-si-potuto-fare-in-un-anno-ovvero-azioni-valide/
+slug: /2005/12/cosa-si-potuto-fare-in-un-anno-ovvero-azioni-valide/
 ---
 
 nonostante il lavoro, gli impegni, l’affitto, le malattie, la neve, la disinformazione, la famiglia, la burocrazia, il disinteresse quasi generale di tutto l’ambiente in cui viviamo, gli imprevisti e gli scettici..

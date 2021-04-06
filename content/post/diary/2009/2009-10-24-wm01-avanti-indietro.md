@@ -8,7 +8,7 @@ tags:
 - Mondo Senza Guerre
 - sentimenti
 title: '[wm01] Avanti all&#039;indietro'
-slug: /2009/10/24/wm01-avanti-indietro/
+slug: /2009/10/wm01-avanti-indietro/
 ---
 
 <p style="text-align: center">

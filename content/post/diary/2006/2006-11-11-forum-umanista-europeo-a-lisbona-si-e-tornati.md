@@ -7,7 +7,7 @@ tags:
 - forum umanista
 - umanista
 title: 'Forum Umanista Europeo a Lisbona: si è tornati'
-slug: /2006/11/11/forum-umanista-europeo-a-lisbona-si-e-tornati/
+slug: /2006/11/forum-umanista-europeo-a-lisbona-si-e-tornati/
 ---
 
 <img width="492" height="328" alt="forum_lisbona.jpg" id="image455" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/11/forum_lisbona.jpg" />

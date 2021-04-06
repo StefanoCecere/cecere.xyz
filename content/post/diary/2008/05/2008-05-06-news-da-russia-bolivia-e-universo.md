@@ -9,7 +9,7 @@ tags:
 - Russia
 - scudo spaziale
 title: News da Russia, Bolivia e Universo
-slug: /2008/05/06/news-da-russia-bolivia-e-universo/
+slug: /2008/05/news-da-russia-bolivia-e-universo/
 ---
 
 ti conforterebbe sapere che recentemente generali militari russi e cinesi stanno facendo riunioni per discutere come EVITARE una terza guerra mondiale?

@@ -7,7 +7,7 @@ tags:
 - elezioni
 - Giorgio Schultze
 title: Amici nel mondo che sostengono Giorgio Schultze
-slug: /2009/06/02/amici-nel-mondo-che-sostengono-giorgio-schultze/
+slug: /2009/06/amici-nel-mondo-che-sostengono-giorgio-schultze/
 ---
 
 Giorgio Schultze, il portavoce del Movimento Umanista che si presenta alle prossime elezioni europee come indipendente umanista nella lista Italia dei Valori, è uno dei pochi politici che si presentano che può davvero dimostrare di essere sostenuto da una base molto attiva e distribuita.. non solo in Italia, ma in tutto il mondo!

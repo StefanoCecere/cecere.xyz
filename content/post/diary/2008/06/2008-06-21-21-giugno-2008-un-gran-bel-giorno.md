@@ -12,7 +12,7 @@ tags:
 - situazione attuale
 - stefano cecere
 title: '21 giugno 2008: un gran bel giorno'
-slug: /2008/06/21/21-giugno-2008-un-gran-bel-giorno/
+slug: /2008/06/21-giugno-2008-un-gran-bel-giorno/
 ---
 
 oggi sono esattamente 35 giri intorno al sole!

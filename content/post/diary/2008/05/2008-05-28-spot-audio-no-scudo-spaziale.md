@@ -13,7 +13,7 @@ tags:
 - petizione
 - scudo spaziale
 title: Spot audio NO SCUDO SPAZIALE
-slug: /2008/05/28/spot-audio-no-scudo-spaziale/
+slug: /2008/05/spot-audio-no-scudo-spaziale/
 ---
 
 è in programmazione su Radio Popolare Network (circuito nazionale):

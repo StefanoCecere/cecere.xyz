@@ -6,7 +6,7 @@ id: 380
 tags:
 - ricreazione
 title: la vita reale e la vita sui media
-slug: /2006/07/21/la-vita-reale-e-la-vita-taroccata/
+slug: /2006/07/la-vita-reale-e-la-vita-taroccata/
 ---
 
 <div style="text-align: center">

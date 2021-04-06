@@ -12,7 +12,7 @@ tags:
 - finanza
 - soldi
 title: Cosa accade ora e come reagire
-slug: /2011/11/11/cosa-accade-ora-e-come-reagire/
+slug: /2011/11/cosa-accade-ora-e-come-reagire/
 ---
 
 _ecco come [Paolo Barnard](http://paolobarnard.info/intervento_mostra_go.php?id=266) descrive 3 scenari per reagire alla friggitrice in cui ci troviamo. personalmente l'idea di portare il punto 3) attivamente in politica mi stuzzica non poco…

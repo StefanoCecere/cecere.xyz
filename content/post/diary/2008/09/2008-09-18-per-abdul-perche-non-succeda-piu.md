@@ -13,7 +13,7 @@ tags:
 - umanista
 - violenza
 title: PER ABDUL. PERCHÉ NON SUCCEDA PIÙ
-slug: /2008/09/18/per-abdul-perche-non-succeda-piu/
+slug: /2008/09/per-abdul-perche-non-succeda-piu/
 ---
 
 **_appello e invito alla manifestazione di questo sabato 20 settembre a Milano. ricordo che stiamo preparando il Forum Europeo "La Forza della Nonviolenza" per il 17/18/19 ottobre, sempre a Milano.. sarebbe interessante che tu ci sia!_**

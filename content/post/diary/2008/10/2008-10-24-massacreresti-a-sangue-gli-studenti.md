@@ -11,7 +11,7 @@ tags:
 - scuola
 - violenza
 title: Massacreresti a sangue gli studenti?
-slug: /2008/10/24/massacreresti-a-sangue-gli-studenti/
+slug: /2008/10/massacreresti-a-sangue-gli-studenti/
 ---
 
 premessa: sono molto contento nel vedere ultimamente un movimento studentesco che si sta risvegliando. vedere intere scuole che protestano, con l'appoggio di moli professori. la situazione è gravissima e ogni forma di opposizione nonviolenta è necessaria più che mai. ovviamente chi detiene il potere sa benissimo cosa potrebbe nascere da lì. ([avevo già riportato](http://stefanocecere.com/2008/10/11/presto-la-legge-marziale-cadrai-dal-pero/) i piani degli Stati Uniti che si sono preparati alla ribellione civile nei campus americani…). beh mi arriva ora questa intervista al nostro ex presidente della Repubblica e senatore a vita (e dal mio punto di vista personaggio alquanto controverso) **Francesco Cossiga**.

@@ -4,7 +4,7 @@ date: 2005-05-30T17:33:24Z
 guid: http://stefanocecere.com/?p=35
 id: 35
 title: mangiare e leggere
-slug: /2005/05/30/mangiare-e-leggere/
+slug: /2005/05/mangiare-e-leggere/
 ---
 
 a volte (un po' spesso, ultimamente) mi chiedo se non sto mangiando troppo…

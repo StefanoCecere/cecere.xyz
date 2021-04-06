@@ -13,7 +13,7 @@ tags:
 - petizione
 - scudo spaziale
 title: Appello della campagna “L’Europa dice no allo scudo spaziale”
-slug: /2008/05/15/appello-della-campagna-leuropa-dice-no-allo-scudo-spaziale/
+slug: /2008/05/appello-della-campagna-leuropa-dice-no-allo-scudo-spaziale/
 ---
 
 se sei un'associazione o partito o altro, sottoscrivi l'appello con la mail a fondo, se no sappilo e diffondi!

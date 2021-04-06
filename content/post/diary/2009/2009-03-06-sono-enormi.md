@@ -6,7 +6,7 @@ id: 1560
 tags:
 - ridere
 title: Sono enormi!!
-slug: /2009/03/06/sono-enormi/
+slug: /2009/03/sono-enormi/
 ---
 
 <p style="text-align: center">

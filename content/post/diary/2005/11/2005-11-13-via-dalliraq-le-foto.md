@@ -8,7 +8,7 @@ tags:
 - Iraq
 - umanista
 title: VIA DALL'IRAQ! le foto
-slug: /2005/11/13/via-dalliraq-le-foto/
+slug: /2005/11/via-dalliraq-le-foto/
 ---
 
 [![](/wp-content/viadalliraq.jpg)](http://www.clum.net/md/modules.php?set_albumName=album14&op=modload&name=gallery&file=index&include=view_album.php)

@@ -9,7 +9,7 @@ tags:
 - ridere
 - video
 title: Maiale! Puttana!
-slug: /2008/08/29/maiale-puttana/
+slug: /2008/08/maiale-puttana/
 ---
 
 no comment 🙂

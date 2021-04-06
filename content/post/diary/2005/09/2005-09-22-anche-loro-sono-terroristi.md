@@ -6,7 +6,7 @@ id: 90
 tags:
 - terrorismo
 title: ANCHE LORO SONO TERRORISTI
-slug: /2005/09/22/anche-loro-sono-terroristi/
+slug: /2005/09/anche-loro-sono-terroristi/
 ---
 
 <span style="color: #00000B"><strong>1) Dichiarazione del presidente del consiglio Silvio Berlusconi durante un incontro con Schroeder e Putin, 27 settembre 2001<br /> </strong></span>&#x201c;I valori di civiltà dell'Occidente sono superiori a quelli del fondamentalismo islamico che non ha rispetto della vita umana e non ha la cultura delle tolleranza. &#x201c;

@@ -9,7 +9,7 @@ tags:
 - music
 - testo
 title: Testo di &quot;Basta!&quot; di L&#039;Aura in spagnolo
-slug: /2008/02/28/testo-di-basta-di-laura-in-spagnolo/
+slug: /2008/02/testo-di-basta-di-laura-in-spagnolo/
 ---
 
 arrivata fresca fresca dal sud'america dove sta piacendo molto.. L'Aura me sa che te tocca a cantà en er spagnolo! 😉

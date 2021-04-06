@@ -6,7 +6,7 @@ id: 377
 tags:
 - spirito
 title: ciao, Agustin
-slug: /2006/07/20/ciao-agustin/
+slug: /2006/07/ciao-agustin/
 ---
 
 <img width="231" height="174" align="left" title="Agustin Bravo" id="image378" alt="Agustin Bravo" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/07/agustin_bravo.jpg" />

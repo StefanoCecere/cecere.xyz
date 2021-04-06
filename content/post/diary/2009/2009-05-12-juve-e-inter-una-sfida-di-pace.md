@@ -8,7 +8,7 @@ tags:
 - sport
 - spot
 title: 'Juve e Inter: una sfida di Pace'
-slug: /2009/05/12/juve-e-inter-una-sfida-di-pace/
+slug: /2009/05/juve-e-inter-una-sfida-di-pace/
 ---
 
 Pessotto e Cordoba (non necessitano presentazioni se sai che esistono Juve e Inter) sono testimonials della Marcia Mondiale. ecco un primo spot:

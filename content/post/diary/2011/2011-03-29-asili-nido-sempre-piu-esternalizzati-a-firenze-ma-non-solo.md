@@ -12,7 +12,7 @@ tags:
 - manifestazione
 - Politica
 title: Asili nido sempre più &quot;esternalizzati&quot; (a Firenze. ma non solo)
-slug: /2011/03/29/asili-nido-sempre-piu-esternalizzati-a-firenze-ma-non-solo/
+slug: /2011/03/asili-nido-sempre-piu-esternalizzati-a-firenze-ma-non-solo/
 ---
 
 _sto preparando uno speciale su diversi temi, intanto vediamo il locale immediato: ieri pomeriggio Antonella e Paolo sono andati in Piazza Signoria per questa manifestazione di cui riporto un comunicato_

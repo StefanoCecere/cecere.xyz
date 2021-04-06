@@ -5,7 +5,7 @@ date: 2015-03-05T09:59:28Z
 guid: http://stefanocecere.com/?p=5661
 id: 5661
 title: pensare con la propria testa
-slug: /2015/03/05/pensare-con-la-propria-testa/
+slug: /2015/03/pensare-con-la-propria-testa/
 ---
 
 * Papà, stasera leggiamo un po' di storie Zen? (ndr: "101 storie zen")

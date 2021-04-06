@@ -9,7 +9,7 @@ tags:
 - Monza
 - solidarietà
 title: Serata Missione in Congo
-slug: /2007/11/11/serata-missione-in-congo/
+slug: /2007/11/serata-missione-in-congo/
 ---
 
 <div>

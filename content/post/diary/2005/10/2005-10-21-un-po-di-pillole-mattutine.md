@@ -4,7 +4,7 @@ date: 2005-10-21T09:43:37Z
 guid: http://stefanocecere.com/2005/10/21/un-po-di-pillole-mattutine/
 id: 115
 title: un po' di pillole mattutine…
-slug: /2005/10/21/un-po-di-pillole-mattutine/
+slug: /2005/10/un-po-di-pillole-mattutine/
 ---
 
 sveglia presto, che più tardi parto per Parigi, con l'occasione di incontrare un po' di umanisti di tutta europa per sviluppare una piattaforma comune, spero di riuscire a girare bene una città che non vedo da 14 anni!

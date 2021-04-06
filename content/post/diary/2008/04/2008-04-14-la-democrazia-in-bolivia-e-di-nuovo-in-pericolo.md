@@ -9,7 +9,7 @@ tags:
 - Evo Morales
 - rivoluzione
 title: La democrazia in Bolivia è di nuovo in pericolo
-slug: /2008/04/14/la-democrazia-in-bolivia-e-di-nuovo-in-pericolo/
+slug: /2008/04/la-democrazia-in-bolivia-e-di-nuovo-in-pericolo/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/bolivia.jpeg' alt='bolivia.jpeg' align="left" />arriverò presto con i dettagli e il cosa fare.. intanto anticipo che tutta la riforma democratica e "umanista" che sta portando avanti Evo Morales è a rischio.

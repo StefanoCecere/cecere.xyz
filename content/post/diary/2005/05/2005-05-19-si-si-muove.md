@@ -7,7 +7,7 @@ tags:
 - percezione
 - Silo
 title: sì, si muove…
-slug: /2005/05/19/si-si-muove/
+slug: /2005/05/si-si-muove/
 ---
 
 spesso siamo così sicuri della "realtà" di ciò che vediamo o pensiamo, da non dare ascolto ad approfondimenti o altri punti di vista.

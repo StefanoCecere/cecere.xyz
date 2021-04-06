@@ -7,7 +7,7 @@ tags:
 - ricreazione
 - umanista
 title: video attività umaniste scorso semestre
-slug: /2006/05/29/video-attivita-umaniste-scorso-semestre/
+slug: /2006/05/video-attivita-umaniste-scorso-semestre/
 ---
 
 oggi sono tornato da Firenze col proposito di dare una bella botta ad un po' di cose.

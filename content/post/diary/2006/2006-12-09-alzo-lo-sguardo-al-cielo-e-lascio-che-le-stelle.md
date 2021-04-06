@@ -6,7 +6,7 @@ id: 472
 tags:
 - spirito
 title: Alzo lo sguardo al cielo e lascio che le stelle…
-slug: /2006/12/09/alzo-lo-sguardo-al-cielo-e-lascio-che-le-stelle/
+slug: /2006/12/alzo-lo-sguardo-al-cielo-e-lascio-che-le-stelle/
 ---
 
 <img alt="Cielo Stellato" id="image471" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/12/cielo_stellato_stelle.jpg" />

@@ -9,7 +9,7 @@ tags:
 - sistema
 - virus
 title: militari nel 1996 fa prevedevano influenza pandemica nel 2009
-slug: /2009/05/03/militari-nel-1996-fa-prevedevano-influenza-pandemica-nel-2009/
+slug: /2009/05/militari-nel-1996-fa-prevedevano-influenza-pandemica-nel-2009/
 ---
 
 ci sono capitato studiando un [TG messicano](http://www.youtube.com/watch?v=tuuSsAY5v4Y) dove un noto professore e politologo (Alfredo Jalife, aderente alla Marcia, e quindi degno quanto meno di ascolto) parla di alcuni retroscena un po' "imbarazzanti" della situazione attuale che stanno vivendo _grazie_ a questo virus.. tipo una militarizzazione pesante di tutto il Messico, una forma a marzo tra Sarkozy e il presidente messicano sulla costruzione (miliardaria) di laboratori per sviluppare vaccini anti-virali.. e poi che in uno studio fatto da un'università militare dell'air force alericana.. nel 1996 era stato previsto uno scenario dove nel 2009 ci sarebbe stata un'influenza mondiale .. con tanto di 30.000.000 di morti…

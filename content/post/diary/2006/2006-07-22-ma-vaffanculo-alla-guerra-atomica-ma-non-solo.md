@@ -6,7 +6,7 @@ id: 387
 tags:
 - disarmo nucleare
 title: Ma vaffanculo (alla guerra atomica ma non solo)
-slug: /2006/07/22/ma-vaffanculo-alla-guerra-atomica-ma-non-solo/
+slug: /2006/07/ma-vaffanculo-alla-guerra-atomica-ma-non-solo/
 ---
 
 <img alt="Vaffanculo guerra atomica ma non solo" id="image386" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/07/vaffanculo_guerra_atomica_dito.jpg" />

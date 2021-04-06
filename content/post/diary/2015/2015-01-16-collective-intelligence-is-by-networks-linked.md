@@ -8,7 +8,7 @@ id: 5590
 tags:
 - tweet
 title: Collective Intelligence is by Networks. &quot;Linked&quot;:…
-slug: /2015/01/16/collective-intelligence-is-by-networks-linked/
+slug: /2015/01/collective-intelligence-is-by-networks-linked/
 ---
 
 Collective Intelligence is by Networks. "Linked": How Everything is Connected to Everything Else. by [@barabasi](http://twitter.com/barabasi) is a very good book

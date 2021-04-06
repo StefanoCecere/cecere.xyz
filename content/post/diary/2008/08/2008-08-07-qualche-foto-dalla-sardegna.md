@@ -9,7 +9,7 @@ tags:
 - sardegna
 - umanista
 title: Qualche foto dalla Sardegna!
-slug: /2008/08/07/qualche-foto-dalla-sardegna/
+slug: /2008/08/qualche-foto-dalla-sardegna/
 ---
 
 amici… sono un po' assente ultimamente anche se mi connetto tutti i giorni per varie faccende..

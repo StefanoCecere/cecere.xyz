@@ -9,7 +9,7 @@ tags:
 - Politica
 - vergogna!
 title: la nostra attuale &quot;non&quot; Costituzione Italiana
-slug: /2006/06/06/la-nostra-attuale-non-costituzione-italiana/
+slug: /2006/06/la-nostra-attuale-non-costituzione-italiana/
 ---
 
 Nei prossimi giorni pubblicherò una tabella sinottica di come cambierà la Costituzione se passasse il Referendum.

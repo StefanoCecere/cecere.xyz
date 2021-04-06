@@ -9,7 +9,7 @@ tags:
 - ridere
 - vignetta
 title: l&#039;Apocalisse!!!
-slug: /2009/01/26/lapocalisse/
+slug: /2009/01/lapocalisse/
 ---
 
 tutto procede così bene che sono estremamente felice!

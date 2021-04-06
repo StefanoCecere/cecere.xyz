@@ -10,7 +10,7 @@ tags:
 - Politica
 - video
 title: 'DDL sicurezza: ieri a Milano'
-slug: /2009/05/14/ddl-sicurezza-ieri-a-milano/
+slug: /2009/05/ddl-sicurezza-ieri-a-milano/
 ---
 
 dopo indago se nel mega pacchetto DDL blidanto di ieri è passata anche la legge ammazza internet libero.. intanto ecco ieri a Milano:

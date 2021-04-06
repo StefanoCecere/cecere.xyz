@@ -10,7 +10,7 @@ tags:
 - scudo spaziale
 - video
 title: Obama e Praga
-slug: /2009/04/05/obama-e-praga/
+slug: /2009/04/obama-e-praga/
 ---
 
 Obama è arrivato a Praga con un bel discorso sul disarmo nucleare mondiale, che applaudiamo (finalmente!)

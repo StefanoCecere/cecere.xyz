@@ -7,7 +7,7 @@ tags:
 - partito umanista
 - umanisti
 title: Why Humanist Party?  -  Mission of Humanist Party
-slug: /2008/10/26/why-humanist-party-mission-of-humanist-party/
+slug: /2008/10/why-humanist-party-mission-of-humanist-party/
 ---
 
 _riporto questo articolo di Sudhir Gandotra, portavoce del Nuovo Umanesimo in Asia. può essere interessante cercare di leggerlo

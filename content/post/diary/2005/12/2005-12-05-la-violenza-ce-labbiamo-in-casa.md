@@ -6,7 +6,7 @@ id: 166
 tags:
 - violenza
 title: la violenza ce l'abbiamo in casa
-slug: /2005/12/05/la-violenza-ce-labbiamo-in-casa/
+slug: /2005/12/la-violenza-ce-labbiamo-in-casa/
 ---
 
 [<img src='/wp-content/ti_amo_alla_follia.jpg' alt='' align='left' />](/wp-content/violenza_domestica_donne.pdf)ma non la vogliamo vedere.

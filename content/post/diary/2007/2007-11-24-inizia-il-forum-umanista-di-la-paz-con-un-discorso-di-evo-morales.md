@@ -11,7 +11,7 @@ tags:
 - Terra 2.0
 - umanista
 title: Inizia il Forum Umanista di La Paz con un discorso di Evo Morales
-slug: /2007/11/24/inizia-il-forum-umanista-di-la-paz-con-un-discorso-di-evo-morales/
+slug: /2007/11/inizia-il-forum-umanista-di-la-paz-con-un-discorso-di-evo-morales/
 ---
 
 amici.. mentre continuo a pubblicare quotidianamente le foto di questo viaggio ( [vedi qui](http://www.flickr.com/photos/krur/sets/72157603263351960/) ), scrivo qualche commento sulla giornata di ieri, apertura del Forum Umanista Latino americano a La Paz:

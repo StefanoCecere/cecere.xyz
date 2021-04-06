@@ -6,7 +6,7 @@ id: 249
 tags:
 - Firenze
 title: Terra Futura
-slug: /2006/04/03/terra_futura/
+slug: /2006/04/terra_futura/
 ---
 
 <img src='/wp-content/terra_futura.jpg' alt='' align='left' />sono a Firenze e ieri sono riuscito a fare un salto a Terra Futura, la grande esposizione dello sviluppo sostenibile, con centinaia di stands nel campo del volontariato sociale, nuove tecnologie, allevamenti e agricoltura biologiche, commercio equo solidale e tanto altro..

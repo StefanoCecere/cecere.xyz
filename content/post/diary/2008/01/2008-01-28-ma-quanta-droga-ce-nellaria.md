@@ -9,7 +9,7 @@ tags:
 - droga
 - vergogna!
 title: Ma quanta droga c&#039;è nell&#039;aria?
-slug: /2008/01/28/ma-quanta-droga-ce-nellaria/
+slug: /2008/01/ma-quanta-droga-ce-nellaria/
 ---
 
 ![cocaina_milano_film.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/01/cocaina_milano_film.jpg)

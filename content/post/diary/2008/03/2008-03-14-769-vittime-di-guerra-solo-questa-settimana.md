@@ -8,7 +8,7 @@ tags:
 - Tibet
 - violenza
 title: 769 vittime di guerra. solo questa settimana.
-slug: /2008/03/14/769-vittime-di-guerra-solo-questa-settimana/
+slug: /2008/03/769-vittime-di-guerra-solo-questa-settimana/
 ---
 
 per chi pensa che la guerra è qualcosa di lontano, remoto, improbabile, una fantasia dei pacifisti, una scusa…

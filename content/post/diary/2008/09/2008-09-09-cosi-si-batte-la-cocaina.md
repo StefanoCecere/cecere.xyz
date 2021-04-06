@@ -10,7 +10,7 @@ tags:
 - sesso
 - video
 title: Così si batte la cocaina!!
-slug: /2008/09/09/cosi-si-batte-la-cocaina/
+slug: /2008/09/cosi-si-batte-la-cocaina/
 ---
 
 sei stanco di drogarti? o di sapere che i tuoi amici hanno un amico/amica a loro più cara… veramente _cara_!

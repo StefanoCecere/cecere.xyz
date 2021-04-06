@@ -6,7 +6,7 @@ format: status
 guid: http://twitter-379700050936745985-post
 id: 4642
 title: grazie @fablabfirenze per la fantastica giornata c…
-slug: /2013/09/16/grazie-fablabfirenze-per-la-fantastica-giornata-c/
+slug: /2013/09/grazie-fablabfirenze-per-la-fantastica-giornata-c/
 ---
 
 grazie [@fablabfirenze](http://twitter.com/fablabfirenze) per la fantastica giornata creativa di domenica scorsa! ci rivedremo presto! Stefano & Fabio http://t.co/SXCz2ApjrK

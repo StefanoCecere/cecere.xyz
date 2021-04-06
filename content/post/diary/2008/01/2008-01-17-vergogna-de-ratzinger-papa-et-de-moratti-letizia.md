@@ -7,7 +7,7 @@ tags:
 - Papa
 - vergogna!
 title: Vergogna de Ratzinger Papa et de Moratti Letizia
-slug: /2008/01/17/vergogna-de-ratzinger-papa-et-de-moratti-letizia/
+slug: /2008/01/vergogna-de-ratzinger-papa-et-de-moratti-letizia/
 ---
 
 linko due articoli che approvo, appoggio e diffondo:

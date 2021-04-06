@@ -15,7 +15,7 @@ tags:
 - petizione
 - scudo spaziale
 title: Dottor Stranamore 2008
-slug: /2008/05/20/dottor-stranamore-2008/
+slug: /2008/05/dottor-stranamore-2008/
 ---
 
 _centinaia di luoghi ceduti segretamente agli Stati Uniti per nuovi insediamenti nucleari. generali russi e cinesi che da mesi discutono su come evitare la terza guerra mondiale. il riarmo atomico non è mai stato accelerato. centinaia di attivisti in sciopero della fame per smuovere l'attenzione dall'intontimento del momento attuale.

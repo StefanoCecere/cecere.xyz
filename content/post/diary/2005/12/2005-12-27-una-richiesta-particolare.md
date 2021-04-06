@@ -6,7 +6,7 @@ id: 196
 tags:
 - spirito
 title: una richiesta particolare
-slug: /2005/12/27/una-richiesta-particolare/
+slug: /2005/12/una-richiesta-particolare/
 ---
 
 in questi giorni particolari, molti sentono l'esigenza di un **profondo rinnovamento**.

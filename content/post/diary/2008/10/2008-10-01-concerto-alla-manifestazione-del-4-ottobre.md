@@ -11,7 +11,7 @@ tags:
 - Roma
 - volantino
 title: Concerto alla manifestazione del 4 ottobre
-slug: /2008/10/01/concerto-alla-manifestazione-del-4-ottobre/
+slug: /2008/10/concerto-alla-manifestazione-del-4-ottobre/
 ---
 
 mancano pochi giorni! a Roma!

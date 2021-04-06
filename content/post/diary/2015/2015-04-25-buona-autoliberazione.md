@@ -5,7 +5,7 @@ date: 2015-04-25T09:38:43Z
 guid: http://stefanocecere.com/?p=5754
 id: 5754
 title: buona autoliberazione
-slug: /2015/04/25/buona-autoliberazione/
+slug: /2015/04/buona-autoliberazione/
 ---
 
 * in neanche un decennio abbiamo sostituito decine di milioni di televisori catodici con modelli a cristalli liquidi.

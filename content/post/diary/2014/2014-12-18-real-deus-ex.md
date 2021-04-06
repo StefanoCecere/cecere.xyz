@@ -10,7 +10,7 @@ tags:
 - science
 - tech
 title: Real Deus Ex
-slug: /2014/12/18/real-deus-ex/
+slug: /2014/12/real-deus-ex/
 ---
 
 while i couldn't finish the game (i'm not done for FPS!), i find much more interesting this _real_ game

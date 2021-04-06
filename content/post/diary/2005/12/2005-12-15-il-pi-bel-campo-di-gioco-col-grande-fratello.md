@@ -8,7 +8,7 @@ tags:
 - tecnologia
 - vergogna!
 title: il più bel campo di gioco col Grande Fratello
-slug: /2005/12/15/il-pi-bel-campo-di-gioco-col-grande-fratello/
+slug: /2005/12/il-pi-bel-campo-di-gioco-col-grande-fratello/
 ---
 
 <img src="wp-content/earth_2.jpg" alt='' align='center' />

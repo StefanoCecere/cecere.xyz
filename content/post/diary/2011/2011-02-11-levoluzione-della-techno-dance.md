@@ -11,7 +11,7 @@ tags:
 - music
 - video
 title: l&#039;evoluzione della techno dance
-slug: /2011/02/11/levoluzione-della-techno-dance/
+slug: /2011/02/levoluzione-della-techno-dance/
 ---
 
 Interessante carrellata! 🙂

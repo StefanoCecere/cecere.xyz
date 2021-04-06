@@ -13,7 +13,7 @@ tags:
 - video
 - violenza
 title: Fratelli di TAV (documentario)
-slug: /2012/03/01/fratelli-di-tav-documentario/
+slug: /2012/03/fratelli-di-tav-documentario/
 ---
 
 guarda cosa ti propongo: stasera anzichè tv o romanzo o videogame, guardarsi con amici e famigli questo documentario?

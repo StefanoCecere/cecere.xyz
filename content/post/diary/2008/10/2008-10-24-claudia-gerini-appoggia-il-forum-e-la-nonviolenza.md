@@ -9,7 +9,7 @@ tags:
 - personaggi
 - video
 title: Claudia Gerini appoggia il Forum e la nonviolenza
-slug: /2008/10/24/claudia-gerini-appoggia-il-forum-e-la-nonviolenza/
+slug: /2008/10/claudia-gerini-appoggia-il-forum-e-la-nonviolenza/
 ---
 
 come sappiamo sono moltissimi i personaggi che hanno dare il loro appoggio al Forum che abbiamo fatto e alla Marcia che verrà. questo il contributo di Claudia Gerini (perdonate l'audio di bassa qualità)

@@ -6,7 +6,7 @@ id: 1013
 tags:
 - Movimento
 title: Il prossimo sono io
-slug: /2008/06/07/il-prossimo-sono-io-2/
+slug: /2008/06/il-prossimo-sono-io-2/
 ---
 
 [http://ilprossimosonoio.blogspot.com](http://ilprossimosonoio.blogspot.com/) (il Centro delle Culture è un organismo del Movimento Umanista che si occupa del tema delle diversità culturali/immigrazione/integrazioni etc):

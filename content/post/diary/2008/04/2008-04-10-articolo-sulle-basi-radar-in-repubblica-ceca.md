@@ -9,7 +9,7 @@ tags:
 - disarmo nucleare
 - petizione
 title: Articolo sulle basi radar in Repubblica Ceca
-slug: /2008/04/10/articolo-sulle-basi-radar-in-repubblica-ceca/
+slug: /2008/04/articolo-sulle-basi-radar-in-repubblica-ceca/
 ---
 
 chi è nauseato dalla non-informazione dei giornali e dei media in genere sarà felice che [il Manifesto](http://www.ilmanifesto.it) di ieri pubblicava questo articolo sulla petizione che DEVI aver già firmato se no DEVI firmare ora se no DOVRAI firmare enro 10 gg se vorrai continuare ad essermi amica/o 😉

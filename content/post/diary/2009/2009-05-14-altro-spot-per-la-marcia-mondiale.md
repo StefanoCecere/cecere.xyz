@@ -8,6 +8,6 @@ tags:
 - Mondo Senza Guerre
 - spot
 title: Altro spot per la Marcia Mondiale
-slug: /2009/05/14/altro-spot-per-la-marcia-mondiale/
+slug: /2009/05/altro-spot-per-la-marcia-mondiale/
 ---
 

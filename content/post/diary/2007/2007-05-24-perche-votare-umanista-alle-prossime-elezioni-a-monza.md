@@ -7,7 +7,7 @@ tags:
 - partito umanista
 - umanista
 title: Perchè votare umanista alle prossime elezioni a Monza?
-slug: /2007/05/24/perche-votare-umanista-alle-prossime-elezioni-a-monza/
+slug: /2007/05/perche-votare-umanista-alle-prossime-elezioni-a-monza/
 ---
 
 semplice: è l'unica scelta di buon senso!

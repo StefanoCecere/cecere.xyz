@@ -7,7 +7,7 @@ tags:
 - maestro
 - spirito
 title: Mircea Eliade… un maestro
-slug: /2005/10/06/mircea-eliade-un-maestro/
+slug: /2005/10/mircea-eliade-un-maestro/
 ---
 
 <img src="http://stefanocecere.com/wp-content/uploads/sites/3/2005/10/mircea-eliade.jpg" alt="mircea-eliade" width="132" height="200" class="alignleft size-full wp-image-5465" />chissà se i giovani d’oggi lo conoscono…

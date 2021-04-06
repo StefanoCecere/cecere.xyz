@@ -8,7 +8,7 @@ tags:
 - Iran
 - sciopero della fame
 title: Esiliato iraniano si unisce allo sciopero della fame
-slug: /2008/05/29/esiliato-iraniano-si-unisce-allo-sciopero-della-fame/
+slug: /2008/05/esiliato-iraniano-si-unisce-allo-sciopero-della-fame/
 ---
 
 Cari amici Jan Bednar e Jan Tamas,

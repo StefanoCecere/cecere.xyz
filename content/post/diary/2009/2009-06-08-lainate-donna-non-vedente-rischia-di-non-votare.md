@@ -8,7 +8,7 @@ tags:
 - Giorgio Schultze
 - vergogna!
 title: 'Lainate: donna non vedente rischia di non votare'
-slug: /2009/06/08/lainate-donna-non-vedente-rischia-di-non-votare/
+slug: /2009/06/lainate-donna-non-vedente-rischia-di-non-votare/
 ---
 
 _Una donna non vedente si reca alle urne assistita da suo figlio. Il presidente di seggio le dice che non può votare._

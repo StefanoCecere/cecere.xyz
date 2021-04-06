@@ -7,7 +7,7 @@ tags:
 - pasqua
 - pensieri
 title: Uomo di Pasqua o Bambino Pasquale? (ovvero una riflessione sul momento attuale)
-slug: /2008/03/23/uomo-di-pasqua-o-bambino-pasquale-ovvero-una-riflessione-sul-momento-attuale/
+slug: /2008/03/uomo-di-pasqua-o-bambino-pasquale-ovvero-una-riflessione-sul-momento-attuale/
 ---
 
 ![bambino_uomo.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/bambino_uomo.jpg)

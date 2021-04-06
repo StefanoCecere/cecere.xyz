@@ -7,7 +7,7 @@ tags:
 - ricreazione
 - spirito
 title: viva ciò che cresce
-slug: /2006/03/15/viva-cio-che-cresce/
+slug: /2006/03/viva-cio-che-cresce/
 ---
 
 _"L'essere umano, nella sua bontà, nell'eliminazione delle contraddizioni interne, nei suoi atti coscienti e nella sua sincera necessità di evoluzione, fa nascere il suo spirito. Per l'evoluzione sono necessari l'amore e la compassione"

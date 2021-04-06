@@ -14,7 +14,7 @@ tags:
 - umanista
 - video
 title: '15 marzo: Una giornata di mobilitazione mondiale per ripudiare la guerra'
-slug: /2008/03/05/15-marzo-una-giornata-di-mobilitazione-mondiale-per-ripudiare-la-guerra/
+slug: /2008/03/15-marzo-una-giornata-di-mobilitazione-mondiale-per-ripudiare-la-guerra/
 ---
 
 Per quanti aspirano a costruire un mondo senza guerre e senza violenza, lontano dalle logiche neoliberiste incentrate sullo sfruttamento dei territori e delle persone, sulla guerra preventiva come difesa dei propri interessi economici ogni giorno è quello giusto per battersi contro questo sistema.

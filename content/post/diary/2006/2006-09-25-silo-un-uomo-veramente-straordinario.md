@@ -8,7 +8,7 @@ tags:
 - spirito
 - umanista
 title: 'Silo: un uomo veramente straordinario'
-slug: /2006/09/25/silo-un-uomo-veramente-straordinario/
+slug: /2006/09/silo-un-uomo-veramente-straordinario/
 ---
 
 nella mia vita ho conosciuto (direttamente o indirettamente) migliaia di esseri umani.

@@ -7,7 +7,7 @@ tags:
 - spirito
 - Tempi moderni
 title: buddha è offeso…
-slug: /2005/05/21/buddha-offeso/
+slug: /2005/05/buddha-offeso/
 ---
 
 <img src="http://www.repubblica.it/2003/e/gallerie/esteri/missoffesa/reuters62491582005183102_big.jpg" height="200" width="265" align="left" />sembra che le candidate a miss universo (che salutiamo con piacere <span style="font-size: 20pt">&#x263a;</span> fotografate sul fiume davanti ad un tempio buddhista, a <span style="font-size: 11pt">Bangkok (</span>thailandia), abbiano scatenato reazioni di profondo disappunto da parte dei rappresentanti del buddhismo.. gettando una tale onta di "peccato" , che passeranno i prossimi anni a ripulirsi il karma..

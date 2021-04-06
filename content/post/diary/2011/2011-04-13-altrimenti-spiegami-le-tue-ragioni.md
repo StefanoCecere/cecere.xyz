@@ -8,7 +8,7 @@ tags:
 - Politica
 - referendum
 title: altrimenti spiegami le tue ragioni!
-slug: /2011/04/13/altrimenti-spiegami-le-tue-ragioni/
+slug: /2011/04/altrimenti-spiegami-le-tue-ragioni/
 ---
 
 Tra trecento e quattrocento milioni di euro, quindi 5-7 euro per ogni italiano: è il costo del mancato accorpamento dei referendum - il legittimo impedi mento, la privatizzazione dell’acqua prevista dal decreto «Ronchi» (due que siti) e il ritorno all’energia nucleare - alla data delle elezioni amministrative. La decisione, chiaramente presa nella speranza di non far raggiungere il quorum ai referendum, è di per sé scandalosa, ma lo è ancor di più se rapportata alle polemiche di questi giorni sul costo che avrebbe avuto la festa una tantum del 17 marzo: polemiche che hanno avuto effetto, visto che per risparmiare ci hanno tolto un giorno di ferie.

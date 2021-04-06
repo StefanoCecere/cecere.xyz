@@ -9,7 +9,7 @@ tags:
 - ricreazione
 - tecnologia
 title: una partita a tennis impressionante
-slug: /2006/05/25/una-partita-a-tennis-impressionante/
+slug: /2006/05/una-partita-a-tennis-impressionante/
 ---
 
 <img id="image282" alt="Tennis6.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/05/Tennis6.jpg" /><img id="image286" alt="Tennis9.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/05/Tennis9.jpg" />

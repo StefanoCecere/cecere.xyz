@@ -17,7 +17,7 @@ tags:
 - umanista
 - umanisti
 title: Umanesimo e Nuovo Mondo
-slug: /2005/10/13/umanesimo-e-nuovo-mondo/
+slug: /2005/10/umanesimo-e-nuovo-mondo/
 ---
 
 <img src="/wp-content/new_krur_64.gif" alt="" align="left" />_ieri sera in riunione (ebbene sì, se vuoi cambiare il mondo è bene organizzarsi e darsi un ritmo.. almeno una riunione alla settimana) tra molte cose abbiamo letto e discusso su ciò che segue.. leggete, gente, meditate, gente, interaginte, gente…_

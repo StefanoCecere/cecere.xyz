@@ -7,7 +7,7 @@ tags:
 - internet
 - tecnologia
 title: 'Internet: da passione a realtà sociale.'
-slug: /2006/06/02/internet-da-passione-a-realta-sociale/
+slug: /2006/06/internet-da-passione-a-realta-sociale/
 ---
 
 <div style="text-align: center">

@@ -8,7 +8,7 @@ tags:
 - educazione
 - scuola
 title: Caro Sindaco Matteo Renzi
-slug: /2011/01/12/caro-sindaco-matteo-renzi/
+slug: /2011/01/caro-sindaco-matteo-renzi/
 ---
 
 stamattina mi sono ritrovato a scrivere la seguente lettera al Sindaco della città in cui vivo ora (Firenze). Insieme a me quasi tutti i genitori dei bambini che frequentano l'asilo nido dove va Fabio.

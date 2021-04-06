@@ -11,7 +11,7 @@ tags:
 - vergogna!
 - violenza
 title: Solidarietà con la protesta in Tibet
-slug: /2008/03/18/solidarieta-con-la-protesta-in-tibet/
+slug: /2008/03/solidarieta-con-la-protesta-in-tibet/
 ---
 
 Dopo le proteste dei monaci e della popolazione birmana represse nel sangue pochi mesi fa, assistiamo di nuovo alla mobilitazione di un popolo, quello tibetano, oppresso da cinquant’anni di vessazioni e discriminazioni da parte della Cina. E purtroppo la risposta è ancora brutale: carri armati per le strade, caccia all’uomo, morti e feriti, oscuramento dell’informazione.

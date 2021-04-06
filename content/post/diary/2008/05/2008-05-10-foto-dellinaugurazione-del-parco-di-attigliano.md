@@ -13,7 +13,7 @@ tags:
 - umanista
 - video
 title: Foto dell&#039;inaugurazione del Parco di Attigliano
-slug: /2008/05/10/foto-dellinaugurazione-del-parco-di-attigliano/
+slug: /2008/05/foto-dellinaugurazione-del-parco-di-attigliano/
 ---
 
 ![panoramica-vi.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/panoramica-vi.jpg)

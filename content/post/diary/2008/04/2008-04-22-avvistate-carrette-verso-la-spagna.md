@@ -8,7 +8,7 @@ tags:
 - spagna
 - zapatero
 title: Avvistate carrette verso la Spagna…
-slug: /2008/04/22/avvistate-carrette-verso-la-spagna/
+slug: /2008/04/avvistate-carrette-verso-la-spagna/
 ---
 
 "al largo delle coste spagnole sono state intercettate le prime “carrette della speranza” cariche di italiani disperati…"

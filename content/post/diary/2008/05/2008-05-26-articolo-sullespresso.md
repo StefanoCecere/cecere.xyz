@@ -13,7 +13,7 @@ tags:
 - petizione
 - scudo spaziale
 title: Articolo sull&#039;Espresso
-slug: /2008/05/26/articolo-sullespresso/
+slug: /2008/05/articolo-sullespresso/
 ---
 
 Sul'Espresso in edicola c'è un ottimo articolo sulla questione Scudo Spaziale.

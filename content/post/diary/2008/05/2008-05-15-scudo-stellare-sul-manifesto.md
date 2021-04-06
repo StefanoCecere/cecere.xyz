@@ -8,7 +8,7 @@ tags:
 - Rassegna Stampa
 - scudo spaziale
 title: Scudo Stellare sul Manifesto
-slug: /2008/05/15/scudo-stellare-sul-manifesto/
+slug: /2008/05/scudo-stellare-sul-manifesto/
 ---
 
 qualcuno si sta accorgendo che sta succedendo qualcosa?

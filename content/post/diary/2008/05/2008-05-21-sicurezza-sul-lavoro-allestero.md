@@ -8,7 +8,7 @@ tags:
 - lavoro
 - ricreazione
 title: Sicurezza sul lavoro all&#039;estero
-slug: /2008/05/21/sicurezza-sul-lavoro-allestero/
+slug: /2008/05/sicurezza-sul-lavoro-allestero/
 ---
 
 io direi che da noi va ancora bene…

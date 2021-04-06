@@ -10,7 +10,7 @@ tags:
 - spot
 - video
 title: Cisco e lo Scudo Spaziale
-slug: /2008/07/09/cisco-e-lo-scudo-spaziale/
+slug: /2008/07/cisco-e-lo-scudo-spaziale/
 ---
 
 per la serie si va avanti con risoluzione, ecco lo spot di Cisco, il cantante dei Modena City Ramblers:

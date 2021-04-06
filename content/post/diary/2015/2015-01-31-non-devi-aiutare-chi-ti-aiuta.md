@@ -8,7 +8,7 @@ tags:
 - aiuto
 - reciprocita
 title: non devi aiutare chi ti aiuta
-slug: /2015/01/31/non-devi-aiutare-chi-ti-aiuta/
+slug: /2015/01/non-devi-aiutare-chi-ti-aiuta/
 ---
 
 "papà, dopo mi aiuti con quel livello del gioco?"

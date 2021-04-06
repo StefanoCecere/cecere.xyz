@@ -13,7 +13,7 @@ tags:
 - scudo spaziale
 - USA
 title: Il 4 luglio Marcia Lenta sulla Repubblica Ceca
-slug: /2008/07/03/il-4-luglio-marcia-lenta-sulla-repubblica-ceca/
+slug: /2008/07/il-4-luglio-marcia-lenta-sulla-repubblica-ceca/
 ---
 
 <div>

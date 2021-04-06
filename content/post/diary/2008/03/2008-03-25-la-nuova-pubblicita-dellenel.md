@@ -8,7 +8,7 @@ tags:
 - ricreazione
 - sesso
 title: La nuova pubblicità dell&#039;Enel
-slug: /2008/03/25/la-nuova-pubblicita-dellenel/
+slug: /2008/03/la-nuova-pubblicita-dellenel/
 ---
 
 ![enel.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/enel.jpg)

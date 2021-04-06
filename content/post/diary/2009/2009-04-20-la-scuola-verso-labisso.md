@@ -9,7 +9,7 @@ tags:
 - umanista
 - vergogna!
 title: La scuola verso l&#039;abisso
-slug: /2009/04/20/la-scuola-verso-labisso/
+slug: /2009/04/la-scuola-verso-labisso/
 ---
 
 spero tu ieri sera abbia visto la puntata di **Report** sulla situazione del sistema scolastico italiano e gli effetti delle varie riforme in atto.

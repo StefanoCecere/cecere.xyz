@@ -12,7 +12,7 @@ tags:
 - evoluzione
 - video
 title: BIG BANG BIG BOOM
-slug: /2010/10/24/big-bang-big-boom/
+slug: /2010/10/big-bang-big-boom/
 ---
 
 una magnifica ed esemplare opera d'arte che mostra la nostra evoluzione (e possibile fine)

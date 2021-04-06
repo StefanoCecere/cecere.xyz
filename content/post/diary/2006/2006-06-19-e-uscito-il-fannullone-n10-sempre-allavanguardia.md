@@ -11,7 +11,7 @@ tags:
 - tecnologia
 - umanista
 title: 'E&#039; uscito il Fannullone n10: sempre all&#039;avanguardia'
-slug: /2006/06/19/e-uscito-il-fannullone-n10-sempre-allavanguardia/
+slug: /2006/06/e-uscito-il-fannullone-n10-sempre-allavanguardia/
 ---
 
 [<img align="left" alt="Il Fannullone n10" id="image345" title="Il Fannullone n10" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/ilfannullone_10_cover.jpg" />](http://www.ilfannullone.it) Dopo circa due mesi di gestazione, è uscito il nuovo numero del Fannullone, il giornale di espressione umanista che sta battendo ogni record.

@@ -7,7 +7,7 @@ tags:
 - arte
 - ricreazione
 title: 'V per vendetta: un film da (ri)vedere'
-slug: /2006/04/22/v-per-vendetta-un-film-da-rivedere/
+slug: /2006/04/v-per-vendetta-un-film-da-rivedere/
 ---
 
 l'ho visto settimana scorsa, e stasera torno a vederlo (prima che scompaia dalle sale).

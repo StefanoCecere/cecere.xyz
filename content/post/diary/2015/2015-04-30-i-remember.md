@@ -8,7 +8,7 @@ tags:
 - 3D
 - interactive
 title: I Remember
-slug: /2015/04/30/i-remember/
+slug: /2015/04/i-remember/
 ---
 
 un progetto per la memoria

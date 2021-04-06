@@ -8,7 +8,7 @@ tags:
 - Grecia
 - sistema
 title: La crisi della Grecia e del Sistema
-slug: /2010/04/19/la-crisi-della-grecia-e-del-sistema/
+slug: /2010/04/la-crisi-della-grecia-e-del-sistema/
 ---
 
 è possibile che il nostro "**Sistema**" sia agli sgoccioli? ovvero che presto **crollerà**? Per Sistema intendo quel complesso insieme di relazioni economiche,politiche,sociali e valori, credenze e leggi che fino ad oggi ci ha tenuto assieme. Qualcuno crede che il sistema sia morto già da diverso tempo e che sta giusto iniziando a sentirsi la sua "puzza di cadavere" .

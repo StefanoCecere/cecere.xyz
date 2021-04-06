@@ -10,7 +10,7 @@ tags:
 - spirito
 - umanista
 title: Godetevi il Fannullone 16
-slug: /2007/09/27/godetevi-il-fannullone-16/
+slug: /2007/09/godetevi-il-fannullone-16/
 ---
 
 "se dici ciò è 16 ciò". godetevi questo ennesimo capolavoro:

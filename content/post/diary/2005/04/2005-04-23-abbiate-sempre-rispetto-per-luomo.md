@@ -1,6 +1,6 @@
 ---
 title: "Abbiate sempre rispetto per l'uomo…"
-slug: /2005/04/23/abbiate-sempre-rispetto-per-luomo/
+slug: /2005/04/abbiate-sempre-rispetto-per-luomo/
 date: 2005-04-23T17:41:50Z
 categories: [blog]
 tags: [umanista,valori]

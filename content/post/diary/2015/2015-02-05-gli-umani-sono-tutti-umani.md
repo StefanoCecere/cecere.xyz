@@ -9,7 +9,7 @@ tags:
 - bambini
 - razzismo
 title: gli umani sono tutti umani
-slug: /2015/02/05/gli-umani-sono-tutti-umani/
+slug: /2015/02/gli-umani-sono-tutti-umani/
 ---
 
 <img class=" size-medium wp-image-5672 aligncenter" src="http://stefanocecere.com/wp-content/uploads/sites/3/2015/03/bambini-uguali-449x320.jpg" alt="bambini uguali" width="449" height="320" />"papà, vero che gli esseri umani possono essere grandi o piccoli, alti o bassi, magri o ciccioni?"

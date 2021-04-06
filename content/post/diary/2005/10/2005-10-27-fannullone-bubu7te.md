@@ -7,7 +7,7 @@ tags:
 - Il Fannullone
 - umanista
 title: Fannullone bubu7te
-slug: /2005/10/27/fannullone-bubu7te/
+slug: /2005/10/fannullone-bubu7te/
 ---
 
 è giunto il momento tanto atteso..

@@ -10,7 +10,7 @@ tags:
 - nonviolenza
 - spot
 title: Anche Caparezza appoggia la Nonviolenza ed EuropeForPeace
-slug: /2008/07/29/anche-caparezza-appoggia-la-nonviolenza-ed-europeforpeace/
+slug: /2008/07/anche-caparezza-appoggia-la-nonviolenza-ed-europeforpeace/
 ---
 
 ieri sera ho assistito ad uno dei concerti più divertenti della mia vita.

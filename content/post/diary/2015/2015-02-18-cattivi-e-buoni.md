@@ -5,7 +5,7 @@ date: 2015-02-18T12:00:44Z
 guid: http://stefanocecere.com/?p=5663
 id: 5663
 title: cattivi e buoni
-slug: /2015/02/18/cattivi-e-buoni/
+slug: /2015/02/cattivi-e-buoni/
 ---
 
 * ehi papà hai visto che Monsley per la prima parte del cartone è cattiva e poi diventa buona? [riguardando Conan il Ragazzo del Futuro]

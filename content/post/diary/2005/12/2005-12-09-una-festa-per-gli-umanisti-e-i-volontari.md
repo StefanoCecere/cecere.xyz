@@ -8,7 +8,7 @@ tags:
 - spirito
 - umanista
 title: una festa per gli umanisti e i volontari
-slug: /2005/12/09/una-festa-per-gli-umanisti-e-i-volontari/
+slug: /2005/12/una-festa-per-gli-umanisti-e-i-volontari/
 ---
 
 ![](/wp-content/20051217_invito_stagionale_monza_s.jpg)

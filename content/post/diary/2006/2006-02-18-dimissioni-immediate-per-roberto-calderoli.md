@@ -8,7 +8,7 @@ tags:
 - umanista
 - vergogna!
 title: DIMISSIONI IMMEDIATE PER ROBERTO CALDEROLI
-slug: /2006/02/18/dimissioni-immediate-per-roberto-calderoli/
+slug: /2006/02/dimissioni-immediate-per-roberto-calderoli/
 ---
 
 <img src='/wp-content/roberto_calderoli.jpg' alt='' align='left' />scusami, potresti non essere d'accordo, ma non posso non girarti il seguente comunicato stampa, è troppo importante..

@@ -5,7 +5,7 @@ date: 2005-11-04T09:03:36Z
 guid: http://stefanocecere.com/2005/11/04/non-e-facile-trovare-sempre-un-sorriso-e-la-repubblica-illuminata/
 id: 128
 title: non è facile trovare sempre un sorriso, e la repubblica illuminata
-slug: /2005/11/04/non-e-facile-trovare-sempre-un-sorriso-e-la-repubblica-illuminata/
+slug: /2005/11/non-e-facile-trovare-sempre-un-sorriso-e-la-repubblica-illuminata/
 ---
 
 ci sono delle questioni e dei fatti che fanno davvero indignare e incazzare. e in quei momenti trovare la via &#x201c;leggera&#x201d; o ironica di affrontare la cosa.. non è semplice!

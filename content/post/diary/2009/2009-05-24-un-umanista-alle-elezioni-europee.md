@@ -12,7 +12,7 @@ tags:
 - Europa
 - Giorgio Schultze
 title: Un umanista alle Elezioni Europee
-slug: /2009/05/24/un-umanista-alle-elezioni-europee/
+slug: /2009/05/un-umanista-alle-elezioni-europee/
 ---
 
 _**Giorgio Schultze**, portavoce del Movimento Umanista e della Marcia Mondiale per la Pace e la Nonviolenza, si candida all’europarlamento come indipente nella lista “Italia dei Valori” nella circoscrizione elettorale del Nord Ovest (Piemonte, Lombardia, Valle d’Aosta, Liguria). <img src="http://www.umanista.org/wp-content/giorgio.jpg" alt="" align="left" />Questa opportunità si è aperta grazie a IdV che ha proposto a diversi esponenti della società civile di candidarsi nelle proprie liste._

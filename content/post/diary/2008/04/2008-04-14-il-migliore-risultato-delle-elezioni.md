@@ -9,7 +9,7 @@ tags:
 - Politica
 - votare
 title: Il migliore risultato delle elezioni
-slug: /2008/04/14/il-migliore-risultato-delle-elezioni/
+slug: /2008/04/il-migliore-risultato-delle-elezioni/
 ---
 
 ![elezioni-2008.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/elezioni-2008.jpg)

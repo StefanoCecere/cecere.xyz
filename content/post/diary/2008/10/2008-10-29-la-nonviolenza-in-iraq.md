@@ -8,7 +8,7 @@ tags:
 - Iraq
 - nonviolenza
 title: La nonviolenza in Iraq
-slug: /2008/10/29/la-nonviolenza-in-iraq/
+slug: /2008/10/la-nonviolenza-in-iraq/
 ---
 
 [<img class="aligncenter size-full wp-image-1461" title="iraq-300x215" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/iraq-300x215.jpg" alt="" width="300" height="215" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/iraq-300x215.jpg)

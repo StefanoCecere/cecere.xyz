@@ -8,7 +8,7 @@ tags:
 - Terra 2.0
 - umanista
 title: 'Simposio Internazionale: L’etica nella conoscenza'
-slug: /2008/04/07/simposio-internazionale-letica-nella-conoscenza/
+slug: /2008/04/simposio-internazionale-letica-nella-conoscenza/
 ---
 
 Il Centro Studi Umanista Mondiale e il Parco Punta de Vacas, Argentina

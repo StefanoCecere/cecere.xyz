@@ -10,7 +10,7 @@ tags:
 - massoneria
 - video
 title: Un po&#039; di massoneria
-slug: /2011/02/23/un-po-di-massoneria/
+slug: /2011/02/un-po-di-massoneria/
 ---
 
 _sempre molta verità nelle parole degli spiritosi…_

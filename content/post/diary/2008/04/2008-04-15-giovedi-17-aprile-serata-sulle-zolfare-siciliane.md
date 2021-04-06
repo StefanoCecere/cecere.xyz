@@ -8,7 +8,7 @@ tags:
 - Events
 - Monza
 title: 'Giovedi 17 Aprile: serata sulle ZOLFARE SICILIANE'
-slug: /2008/04/15/giovedi-17-aprile-serata-sulle-zolfare-siciliane/
+slug: /2008/04/giovedi-17-aprile-serata-sulle-zolfare-siciliane/
 ---
 
 segnalo questa serata.. io ho il cineforum "Corporation" ma magari vi interessa di più questo 🙂

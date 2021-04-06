@@ -7,7 +7,7 @@ tags:
 - ONU
 - TV
 title: TV, Forza ONU e cerimonie iniziatiche
-slug: /2006/08/27/tv-forza-onu-e-cerimonie-iniziatiche/
+slug: /2006/08/tv-forza-onu-e-cerimonie-iniziatiche/
 ---
 
 <img align="left" title="spegnere_la_televisione.jpg" id="image403" alt="spegnere_la_televisione.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/spegnere_la_televisione.jpg" />devo essere sincero: tutti i giorni leggo la testata de "Il Giornale" solo per tenere largo il mio punto di vista.. e mai avrei pensato di trovarvi un **articolo veramente interessante**.. specialmente sul tema della televisione: un intervista al capo pubblicità del gruppo Benetton, che **praticamente** **invita a non guardare la TV. mai.** (cosa che in linea di massima condivido.. tranne che per i Simpsons, Lost e qualche filmone 🙂**

@@ -4,7 +4,7 @@ date: 2005-09-05T12:36:44Z
 guid: http://stefanocecere.com/2005/09/05/il-jumbo-e-il-fiammifero/
 id: 80
 title: il jumbo e il fiammifero
-slug: /2005/09/05/il-jumbo-e-il-fiammifero/
+slug: /2005/09/il-jumbo-e-il-fiammifero/
 ---
 
 <img src="http://www.provincia.bz.it/lavoro/1905/Brandschutz-Antincendio/Images/theor_E01.jpg" height="120" width="120" align="left" />come con le persone che si suicidano: sembra un fenomeno abbastanza remoto e isolato, e invece ogni giorno, solo in Italia, decine di persone quantomeno &#x201c;tentano&#x201d; di suicidarsi. il fatto che non se ne parli e non si pubblichino dato (se non dopo tanti anni) rende il fatto invisibile.

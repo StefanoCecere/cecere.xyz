@@ -9,6 +9,6 @@ tags:
 - Mondo Senza Guerre
 - video
 title: Video bollettino di Marzo
-slug: /2009/03/03/video-bollettino-di-marzo/
+slug: /2009/03/video-bollettino-di-marzo/
 ---
 

@@ -9,7 +9,7 @@ tags:
 - Palestina
 - violenza
 title: Israele ammazza civili per politica.
-slug: /2010/06/01/israele-ammazza-civili-per-politica/
+slug: /2010/06/israele-ammazza-civili-per-politica/
 ---
 
 _**Non posso tacere su quello che considero uno dei più grandi pericoli per l'umanità. Il giornalista Paolo Barnard parla meglio di me, o quindi lo cito pari pari. So di essere malvisto da non pochi, ma non me ne frega niente. La complicità con i violenti o il disinteressamento sono altrettanto ripugnanti.**_

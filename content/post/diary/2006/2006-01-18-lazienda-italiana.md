@@ -5,7 +5,7 @@ date: 2006-01-18T09:24:08Z
 guid: http://stefanocecere.com/2006/01/18/lazienda-italiana/
 id: 212
 title: L&#039;azienda italiana
-slug: /2006/01/18/lazienda-italiana/
+slug: /2006/01/lazienda-italiana/
 ---
 
 ![](/wp-content/Laziendaitaliana.jpg)

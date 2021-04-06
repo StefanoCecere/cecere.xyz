@@ -9,7 +9,7 @@ tags:
 - Movimento
 - pace
 title: Una Marcia Mondiale per la Pace e la Nonviolenza
-slug: /2008/06/14/una-marcia-mondiale-per-la-pace-e-la-nonviolenza/
+slug: /2008/06/una-marcia-mondiale-per-la-pace-e-la-nonviolenza/
 ---
 
 forse ho fatto trapelare qualcosa negli ultimi mesi riguardo a questo progetto che potrebbe essere **l'evento di inizio millennio**:

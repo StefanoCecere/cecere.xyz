@@ -8,7 +8,7 @@ tags:
 - ridere
 - TV
 title: Elio ELST GENI con Emanuele Filiberto
-slug: /2010/03/26/elio-elst-geni-con-emanuele-filiberto/
+slug: /2010/03/elio-elst-geni-con-emanuele-filiberto/
 ---
 
 "essendo un Savoiardo.. mi puccio nel caffè…" mi hanno fatto schiantare!

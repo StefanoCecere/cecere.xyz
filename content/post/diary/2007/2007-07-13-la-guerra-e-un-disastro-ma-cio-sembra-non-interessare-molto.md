@@ -8,7 +8,7 @@ tags:
 - Politica
 - vergogna!
 title: La guerra è un disastro. ma ciò sembra non interessare molto
-slug: /2007/07/13/la-guerra-e-un-disastro-ma-cio-sembra-non-interessare-molto/
+slug: /2007/07/la-guerra-e-un-disastro-ma-cio-sembra-non-interessare-molto/
 ---
 
 ![Foto Guerra e vittime civili](http://stefanocecere.com/wp-content/uploads/sites/3/2007/07/foto_guerra.jpg)

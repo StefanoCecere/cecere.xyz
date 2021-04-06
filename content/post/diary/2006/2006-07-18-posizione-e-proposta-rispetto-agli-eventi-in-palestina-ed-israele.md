@@ -8,7 +8,7 @@ tags:
 - umanista
 - violenza
 title: Posizione e proposta rispetto agli eventi in Palestina ed Israele
-slug: /2006/07/18/posizione-e-proposta-rispetto-agli-eventi-in-palestina-ed-israele/
+slug: /2006/07/posizione-e-proposta-rispetto-agli-eventi-in-palestina-ed-israele/
 ---
 
 [<img align="left" src="http://www.humanisteurope.org/typo3temp/pics/8a3cdf76e6.jpg" />](http://www.humanisteurope.org/it/home/#)_A seguito delle ultime esplosioni di violenza in Medio Oriente, la Regionale Europea dell’Internazionale Umanista dichiara:_

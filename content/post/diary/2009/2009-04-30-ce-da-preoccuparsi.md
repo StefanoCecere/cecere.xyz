@@ -6,7 +6,7 @@ id: 1708
 tags:
 - virus
 title: C&#039;è da preoccuparsi?
-slug: /2009/04/30/ce-da-preoccuparsi/
+slug: /2009/04/ce-da-preoccuparsi/
 ---
 
 ieri la gran bretagna ha ordinato 50 milioni di mascherine.. l'egitto ha chiesto la macellazione di tutti i maiali nel paese (si tratta diverse centinaia di migliaia di bestiole), ieri mattina sembrava tutto sotto controllo e invece la sera l'OMS è passata da emergenxza 4 a 5 (sul massimo di 6) per le epidemie.

@@ -9,7 +9,7 @@ tags:
 - recensione
 - ricreazione
 title: folli autostoppisti galattici
-slug: /2005/08/29/folli-autostoppisti-galattici/
+slug: /2005/08/folli-autostoppisti-galattici/
 ---
 
 stamane è un giorno speciale: sveglia alle 7:45 (grazie Antonella per lo squillo/sveglia :), pulire casa, preparare la colazione e il budino per la merenda guardando i tg/omnibus, poi spedire email di lavoro, correre in centro a comprare Repubblica per avere il volume sull'Universo (dopo 3 tentativi ce l'ho fatta a trovarlo!!), andare i banca e poi dalla polizia a fare una denuncia, quindi tornare qui a riprendere il lavoro.. e sono solo le 9:30! insomma sembra una giornata piena di cose e sono felicissimo..

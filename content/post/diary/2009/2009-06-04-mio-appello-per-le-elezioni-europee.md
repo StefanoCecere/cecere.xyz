@@ -12,7 +12,7 @@ tags:
 - Giorgio Schultze
 - Politica
 title: Mio appello per le Elezioni Europee
-slug: /2009/06/04/mio-appello-per-le-elezioni-europee/
+slug: /2009/06/mio-appello-per-le-elezioni-europee/
 ---
 
 _Berlusconi: "Giornali più interessati al gossip che ai problemi del Paese. Non capisco, è questo il risultato dopo decenni di programmazione Mediaset?_"

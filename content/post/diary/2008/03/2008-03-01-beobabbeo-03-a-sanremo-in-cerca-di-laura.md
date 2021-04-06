@@ -9,7 +9,7 @@ tags:
 - ridere
 - video
 title: 'Beo&amp;Babbeo 03: A Sanremo in cerca di L&#039;Aura…'
-slug: /2008/03/01/beobabbeo-03-a-sanremo-in-cerca-di-laura/
+slug: /2008/03/beobabbeo-03-a-sanremo-in-cerca-di-laura/
 ---
 
 la saga continua…

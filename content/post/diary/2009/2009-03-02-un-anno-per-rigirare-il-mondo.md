@@ -7,7 +7,7 @@ tags:
 - diario
 - senso della vita
 title: Un anno per rigirare il mondo
-slug: /2009/03/02/un-anno-per-rigirare-il-mondo/
+slug: /2009/03/un-anno-per-rigirare-il-mondo/
 ---
 
 ti è mai capitato di volerti fermare un attimo, mettere il "PAUSA" alla vita, per fare mente locale e valutare se la direzione che stai seguendo è proprio la migliore?

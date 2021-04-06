@@ -10,7 +10,7 @@ tags:
 - Rassegna Stampa
 - scudo spaziale
 title: No Scudo Spaziale sul Corriere della Sera!
-slug: /2008/06/16/no-scudo-spaziale-sul-corriere-della-sera/
+slug: /2008/06/no-scudo-spaziale-sul-corriere-della-sera/
 ---
 
 altre buone notizie:

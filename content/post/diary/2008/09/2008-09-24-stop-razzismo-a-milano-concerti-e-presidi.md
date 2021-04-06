@@ -16,7 +16,7 @@ tags:
 - razzismo
 - Roma
 title: 'STOP RAZZISMO: A MILANO, CONCERTI E PRESIDI'
-slug: /2008/09/24/stop-razzismo-a-milano-concerti-e-presidi/
+slug: /2008/09/stop-razzismo-a-milano-concerti-e-presidi/
 ---
 
 **Aperitivo-concerto e presidio 

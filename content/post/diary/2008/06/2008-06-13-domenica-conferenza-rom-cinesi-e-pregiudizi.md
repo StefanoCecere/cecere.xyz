@@ -10,7 +10,7 @@ tags:
 - vergogna!
 - violenza
 title: 'domenica conferenza: &quot;Rom, Cinesi e pregiudizi&quot;'
-slug: /2008/06/13/domenica-conferenza-rom-cinesi-e-pregiudizi/
+slug: /2008/06/domenica-conferenza-rom-cinesi-e-pregiudizi/
 ---
 
 il fatto che ultimamente parli solo della campagna scudo spaziale non vuol dire che non ci sono altri temi importanti: il Movimento Umanista ha per caratteristica interna quello di agire dove esistono i conflitti.

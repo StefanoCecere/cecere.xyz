@@ -8,7 +8,7 @@ tags:
 - soldi
 - vergogna!
 title: Quanto guadagnano i politici italiani?
-slug: /2008/04/14/quanto-guadagnano-i-politici-italiani/
+slug: /2008/04/quanto-guadagnano-i-politici-italiani/
 ---
 
 io non riesco a immaginarmi le infinite cose che potrei fare se avessi solo 100.000 euro.. ANNI di attività a tempo pieno, libri, film, musiche, concerti, riunioni a non finire, cene, feste, eventi sociali e culturali..

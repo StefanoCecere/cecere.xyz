@@ -7,7 +7,7 @@ tags:
 - filosofia
 - senso della vita
 title: La realtà non è come la vedi
-slug: /2009/03/04/la-realta-non-e-come-la-vedi/
+slug: /2009/03/la-realta-non-e-come-la-vedi/
 ---
 
 _Da ieri non esistono più cani pericolosi. ma soltanto quelli "difficili".

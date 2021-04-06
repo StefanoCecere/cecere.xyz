@@ -6,7 +6,7 @@ id: 699
 tags:
 - psicologia
 title: immaginazione e percezione
-slug: /2008/02/27/immaginazione-e-percezione/
+slug: /2008/02/immaginazione-e-percezione/
 ---
 
 a volte succedono degli strani fenomeni all'interno della coscienza

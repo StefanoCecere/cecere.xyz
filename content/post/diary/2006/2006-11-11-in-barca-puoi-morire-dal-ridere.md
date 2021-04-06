@@ -6,7 +6,7 @@ id: 457
 tags:
 - ricreazione
 title: in barca.. puoi morire dal ridere!
-slug: /2006/11/11/in-barca-puoi-morire-dal-ridere/
+slug: /2006/11/in-barca-puoi-morire-dal-ridere/
 ---
 
 <div>

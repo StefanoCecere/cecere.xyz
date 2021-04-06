@@ -7,7 +7,7 @@ tags:
 - spirito
 - umanista
 title: concentrazione e deconcentrazione
-slug: /2006/03/01/concentrazione-e-deconcentrazione/
+slug: /2006/03/concentrazione-e-deconcentrazione/
 ---
 
 nella vita in linea di massima ci si può ritrovare con uno dei seguenti atteggiamenti:

@@ -10,7 +10,7 @@ tags:
 - Europa
 - finanza
 title: L&#039;Euro ci sta per ammazzare?
-slug: /2010/05/07/leuro-ci-sta-per-ammazzare/
+slug: /2010/05/leuro-ci-sta-per-ammazzare/
 ---
 
 _leggere questo attualissimo articolo di Paolo Barnard mi ricorda quando partecipavo alle campagne "NO EURO DI MAASTRICHT".. ormai molti anni orsono.. bene stiamo venendo al pettine. riporto l'articolo integrale perchè merita di essere studiato e meditato._

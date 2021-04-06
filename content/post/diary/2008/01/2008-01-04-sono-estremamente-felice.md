@@ -6,7 +6,7 @@ id: 630
 tags:
 - felicità
 title: sono estremamente felice
-slug: /2008/01/04/sono-estremamente-felice/
+slug: /2008/01/sono-estremamente-felice/
 ---
 
 non solo perchè tirando su la tapparella è tutto bianco.

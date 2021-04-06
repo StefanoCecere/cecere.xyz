@@ -13,7 +13,7 @@ tags:
 - Milano
 - umanista
 title: Milano 17.18.19 ottobre 2008 Forum Umanista Europeo
-slug: /2008/09/25/forum-umanista-europeo/
+slug: /2008/09/forum-umanista-europeo/
 ---
 
 <div>

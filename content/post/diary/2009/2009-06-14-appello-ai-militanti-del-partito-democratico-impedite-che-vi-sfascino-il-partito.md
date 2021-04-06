@@ -8,7 +8,7 @@ tags:
 - Politica
 title: 'Appello ai militanti del Partito Democratico: impedite che vi sfascino il
   partito!!!'
-slug: /2009/06/14/appello-ai-militanti-del-partito-democratico-impedite-che-vi-sfascino-il-partito/
+slug: /2009/06/appello-ai-militanti-del-partito-democratico-impedite-che-vi-sfascino-il-partito/
 ---
 
 condivido questo articolo di Jacopo Fo. PREMESSA: ammetto di conoscere brava gente dentro il PD.. ma li considero come i bravi preti e frati di cui spesso penso: "ma come fate a stare dentro una struttura così disumana e decaduta come quella della Chiesa Cattolica?" se non fosse che l'attuale "centro-sinistra" ha delle origini alquanto contradditorie (il famoso "accordo" col Berlusconi nel 1994, quando gli promisero che mai avrebbero toccato le sue televisioni e i suoi interessi… avrete visto il film Viva Zapatero.. se no guarda questo video):

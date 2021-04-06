@@ -12,7 +12,7 @@ tags:
 - pace
 - video
 title: 'Mi sono innamorato di una parola: pace!'
-slug: /2009/02/16/mi-sono-innamorato-di-una-parola-pace/
+slug: /2009/02/mi-sono-innamorato-di-una-parola-pace/
 ---
 
 da diffondere massicciamente, please!

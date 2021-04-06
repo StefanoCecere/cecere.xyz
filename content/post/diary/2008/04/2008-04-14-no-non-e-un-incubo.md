@@ -9,7 +9,7 @@ tags:
 - Politica
 - vergogna!
 title: No, non è un incubo
-slug: /2008/04/14/no-non-e-un-incubo/
+slug: /2008/04/no-non-e-un-incubo/
 ---
 
 spero solo che da domani nasca forte l'esigenza comune di un ambio politico serio e concentrato nel porre la non-violenza e l'essere umano come valori centrali.

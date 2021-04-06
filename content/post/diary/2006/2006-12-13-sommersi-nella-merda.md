@@ -6,7 +6,7 @@ id: 474
 tags:
 - vergogna!
 title: Sommersi nella merda
-slug: /2006/12/13/sommersi-nella-merda/
+slug: /2006/12/sommersi-nella-merda/
 ---
 
 <img alt="cagata_di_merda.jpg" id="image473" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/12/cagata_di_merda.jpg" />

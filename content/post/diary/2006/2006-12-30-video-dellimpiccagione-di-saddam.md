@@ -11,7 +11,7 @@ tags:
 - video
 - violenza
 title: Video dell&#039;impiccagione di Saddam
-slug: /2006/12/30/video-dellimpiccagione-di-saddam/
+slug: /2006/12/video-dellimpiccagione-di-saddam/
 ---
 
 non ho parole.

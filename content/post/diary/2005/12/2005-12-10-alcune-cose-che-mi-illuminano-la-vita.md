@@ -6,7 +6,7 @@ id: 174
 tags:
 - spirito
 title: alcune cose che mi illuminano la vita
-slug: /2005/12/10/alcune-cose-che-mi-illuminano-la-vita/
+slug: /2005/12/alcune-cose-che-mi-illuminano-la-vita/
 ---
 
 <img src='/wp-content/sole.jpg' alt='' align='left' />un panino “maialone” (con dentro tutto) alla fine di un viaggio

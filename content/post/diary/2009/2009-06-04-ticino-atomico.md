@@ -10,7 +10,7 @@ tags:
 - Giorgio Schultze
 - nucleare
 title: Ticino Atomico
-slug: /2009/06/04/ticino-atomico/
+slug: /2009/06/ticino-atomico/
 ---
 
 amici sabato e domenica, alle europee, è necessario votare personaggi come Giorgio Schultze.

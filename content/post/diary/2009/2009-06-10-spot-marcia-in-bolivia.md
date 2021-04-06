@@ -8,7 +8,7 @@ tags:
 - Bolivia
 - spot
 title: Spot Marcia in Bolivia
-slug: /2009/06/10/spot-marcia-in-bolivia/
+slug: /2009/06/spot-marcia-in-bolivia/
 ---
 
 ebbravi i boliviani… 🙂

@@ -8,7 +8,7 @@ tags:
 - Mondo Senza Guerre
 - nonviolenza
 title: faccio domande. faccia da risposte?
-slug: /2008/10/13/faccio-domande-faccia-da-risposte/
+slug: /2008/10/faccio-domande-faccia-da-risposte/
 ---
 
 1. In un mondo dove la violenza cresce in tutti i campi, la nonviolenza è l'unica via di uscita?

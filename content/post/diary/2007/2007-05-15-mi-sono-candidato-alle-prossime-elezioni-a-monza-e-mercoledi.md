@@ -8,7 +8,7 @@ tags:
 - partito umanista
 - umanista
 title: mi sono candidato alle prossime elezioni a Monza! e mercoledì…
-slug: /2007/05/15/mi-sono-candidato-alle-prossime-elezioni-a-monza-e-mercoledi/
+slug: /2007/05/mi-sono-candidato-alle-prossime-elezioni-a-monza-e-mercoledi/
 ---
 
 saprai che per la prima volta nella mia vita mi sono candidato ad elezioni politiche!

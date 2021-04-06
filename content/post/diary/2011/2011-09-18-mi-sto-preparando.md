@@ -7,7 +7,7 @@ tags:
 - San francisco
 - viaggio
 title: mi sto preparando
-slug: /2011/09/18/mi-sto-preparando/
+slug: /2011/09/mi-sto-preparando/
 ---
 
 fra 10 gg parto per San Francisco.

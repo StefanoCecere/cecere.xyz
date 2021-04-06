@@ -6,7 +6,7 @@ format: status
 guid: http://twitter-397053748281110528-post
 id: 4784
 title: 75 geniali soluzioni fai da te per migliorare la v…
-slug: /2013/11/03/75-geniali-soluzioni-fai-da-te-per-migliorare-la-v/
+slug: /2013/11/75-geniali-soluzioni-fai-da-te-per-migliorare-la-v/
 ---
 
 75 geniali soluzioni fai da te per migliorare la vita quotidiana! [#maker](http://twitter.com/search?q=%23maker) [@fablabfirenze](http://twitter.com/fablabfirenze)

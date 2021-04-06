@@ -8,7 +8,7 @@ tags:
 - Politica
 - video
 title: Beppe Grillo le canta ai senatori
-slug: /2009/06/10/beppe-grillo-le-canta-ai-senatori/
+slug: /2009/06/beppe-grillo-le-canta-ai-senatori/
 ---
 
 oggi alle 14:30..

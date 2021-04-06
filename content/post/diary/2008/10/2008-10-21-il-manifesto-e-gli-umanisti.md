@@ -10,7 +10,7 @@ tags:
 - rivoluzione
 - umanisti
 title: Il Manifesto e gli umanisti
-slug: /2008/10/21/il-manifesto-e-gli-umanisti/
+slug: /2008/10/il-manifesto-e-gli-umanisti/
 ---
 
 dopo l'intervento di venerdì scorso di Valentino Parlato e Alessandro Robecchi al Forum Umanista Europeo, esce oggi questo articolo (sul Il Manifesto nazionale) che ritengo molto significativo. Sono estremamente felice che da molti punti si sta iniziando ad aprirsi reciprocamente. Forse sarà l'urgenza del momento, oppure uan riflessione sulla storia recente, in ogni caso: andiamo avanti così, con Granpasso 😉 e senza lasciarsi incatenare dal secondario.

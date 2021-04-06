@@ -9,7 +9,7 @@ tags:
 - spot
 - Turchia
 title: Marci in Turchia?
-slug: /2009/05/19/marci-in-turchia/
+slug: /2009/05/marci-in-turchia/
 ---
 
 che bello in turco! ^_^

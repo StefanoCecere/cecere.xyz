@@ -10,6 +10,6 @@ tags:
 - nonviolenza
 title: Foto del Forum Umanista Europeo &quot;La Forza della Nonviolenza&quot; -
   Milano
-slug: /2008/10/18/foto-del-forum-umanista-europeo-la-forza-della-nonviolenza-milano/
+slug: /2008/10/foto-del-forum-umanista-europeo-la-forza-della-nonviolenza-milano/
 ---
 

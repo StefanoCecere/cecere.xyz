@@ -7,7 +7,7 @@ tags:
 - violenza
 - Tempi moderni
 title: forse è meglio iniziare a muovere un po' il culo…
-slug: /2005/07/06/forse-e-meglio-iniziare-a-muovere-un-po-il-culo/
+slug: /2005/07/forse-e-meglio-iniziare-a-muovere-un-po-il-culo/
 ---
 
 <img src='/wp-content/culo_salta.jpg' alt='' align='left' />scusatemi ma a volte non trovo termini più dolci…

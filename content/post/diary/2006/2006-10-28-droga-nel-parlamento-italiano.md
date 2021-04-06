@@ -10,7 +10,7 @@ tags:
 - ricreazione
 - vergogna!
 title: droga nel parlamento italiano
-slug: /2006/10/28/droga-nel-parlamento-italiano/
+slug: /2006/10/droga-nel-parlamento-italiano/
 ---
 
 ## nel parlamento italiano ora i fatti sono evidenti:

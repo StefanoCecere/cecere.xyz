@@ -11,7 +11,7 @@ tags:
 - Politica
 - ricreazione
 title: Dario Fo e la neve
-slug: /2006/01/30/dario-fo-e-la-neve/
+slug: /2006/01/dario-fo-e-la-neve/
 ---
 
 era abbastanza prevedibile la vittoria di Ferrante alle primarie di Milano, tanto che un giorno mi chiesi: ma perché Fo si è inguauato in un vicolo cieco e non si è presentato fuori dall'Unione? almeno avrebbe concorso alle elezioni vere e proprie

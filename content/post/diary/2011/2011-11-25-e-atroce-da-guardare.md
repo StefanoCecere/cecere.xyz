@@ -11,7 +11,7 @@ tags:
 - economia
 - Monti
 title: E’ atroce da guardare
-slug: /2011/11/25/e-atroce-da-guardare/
+slug: /2011/11/e-atroce-da-guardare/
 ---
 
 che altro dire? ri-pubblico questo scritto dal giornalista [Paolo Barnard](http://paolobarnard.info/intervento_mostra_go.php?id=275)

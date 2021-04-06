@@ -7,7 +7,7 @@ tags:
 - spirito
 - umanista
 title: Foto del Simbolo della pace a Monza
-slug: /2006/07/03/foto-del-simbolo-della-pace-a-monza/
+slug: /2006/07/foto-del-simbolo-della-pace-a-monza/
 ---
 
 <img alt="simbolo_della_pace_monza.jpg" id="image360" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/07/simbolo_della_pace_monza.jpg" />

@@ -14,7 +14,7 @@ tags:
 - petizione
 - scudo spaziale
 title: Noam Chomsky appoggia lo sciopero della fame contro lo scudo spaziale
-slug: /2008/05/19/noam-chomsky-appoggia-lo-sciopero-della-fame-contro-lo-scudo-spaziale/
+slug: /2008/05/noam-chomsky-appoggia-lo-sciopero-della-fame-contro-lo-scudo-spaziale/
 ---
 
 Mentre a Praga sono al 7 giorno di sciopero, e a Trieste al 6, arriva questo messaggio di Noam Chomsky:

@@ -8,7 +8,7 @@ tags:
 - Sanremo
 - vergogna!
 title: Festival di Sanremo e i giovani.. ma dove?
-slug: /2006/03/04/festival-di-sanremo-e-i-giovani-ma-dove/
+slug: /2006/03/festival-di-sanremo-e-i-giovani-ma-dove/
 ---
 
 <img src='/wp-content/deasonika.jpg' alt='deasonika' align='left' />lunedì ho iniziato a vederlo.. ho resistito 30 minuti poi ho spento la tv.. parlava solo Panariello, interventi scontati e banali, l'unica simpatia quella della Victoria..

@@ -9,7 +9,7 @@ tags:
 - terra
 - video
 title: Earth in my hearth
-slug: /2009/04/03/earth-in-my-hearth/
+slug: /2009/04/earth-in-my-hearth/
 ---
 
 per chi non vede le meraviglie della terra senza pagare un biglietto del cinema, ecco uno spettacolo (by Disney) che promette comunque estreme emozioni.

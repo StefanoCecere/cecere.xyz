@@ -13,7 +13,7 @@ tags:
 - sesso
 - video
 title: Un&#039;opinione condivisa! (intercettazioni ministeriali e sesso per tutti!)
-slug: /2008/07/06/unopinione-condivisa-intercettazioni-ministeriali-e-sesso-per-tutti/
+slug: /2008/07/unopinione-condivisa-intercettazioni-ministeriali-e-sesso-per-tutti/
 ---
 
 scrivo da Attigliano dove, finita la piscina mattutina, riprendiamo la riunione semestrale.. intanto ecco un'opinione di Gipi che non posso che condividere e diffondere! fate altrettanto baci!

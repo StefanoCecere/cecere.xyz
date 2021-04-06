@@ -6,7 +6,7 @@ id: 118
 tags:
 - Parigi
 title: Parigi e le tecnologie
-slug: /2005/10/26/parigi-e-le-tecnologie/
+slug: /2005/10/parigi-e-le-tecnologie/
 ---
 
 <img src='/wp-content/parigi_1.jpg' alt='' align='left' />sì, c'è proprio una nuova sensibilità che si sta facendo strada, nei nostri cuori e in diverse parti del mondo.

@@ -8,7 +8,7 @@ tags:
 - umanista
 - violenza
 title: 'In Cile sta tornando la violenza: repressione di una manifestazione pacifica'
-slug: /2007/08/31/in-cile-sta-tornando-la-violenza-repressione-di-una-manifestazione-pacifica/
+slug: /2007/08/in-cile-sta-tornando-la-violenza-repressione-di-una-manifestazione-pacifica/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2007/08/repressione_dimostrazione_cile.jpg' alt='repressione dimostrazione in cile' align="left" />forse a qualcuno i "modelli forti" (vedi Pinochet) fanno molta nostalgia…

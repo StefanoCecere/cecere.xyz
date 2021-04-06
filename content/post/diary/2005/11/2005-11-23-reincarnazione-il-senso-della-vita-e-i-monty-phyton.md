@@ -10,7 +10,7 @@ tags:
 - senso della vita
 - spirito
 title: reincarnazione, il senso della vita e i Monty Phyton
-slug: /2005/11/23/reincarnazione-il-senso-della-vita-e-i-monty-phyton/
+slug: /2005/11/reincarnazione-il-senso-della-vita-e-i-monty-phyton/
 ---
 
 <img src='/wp-content/sensodellavita.jpg' alt='' align='left' />mi hanno riferito una domanda interessante posta durante il programma Voyager, ieri sera:

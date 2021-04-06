@@ -8,7 +8,7 @@ tags:
 - spirito
 - video
 title: E&#039; online il video &quot;Corto Esperienze&quot;
-slug: /2006/06/20/e-online-il-video-corto-esperienze/
+slug: /2006/06/e-online-il-video-corto-esperienze/
 ---
 
 <a target="_blank" href="http://www.clum.net/corto_esperienze/"><img id="image347" alt="corto_esperienze.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/corto_esperienze.jpg" /></a>

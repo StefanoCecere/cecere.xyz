@@ -6,7 +6,7 @@ format: status
 guid: http://twitter-394588293528317952-post
 id: 4757
 title: Beautiful photo. Lou Reed and Laurie Anderson by A…
-slug: /2013/10/27/beautiful-photo-lou-reed-and-laurie-anderson-by-a/
+slug: /2013/10/beautiful-photo-lou-reed-and-laurie-anderson-by-a/
 ---
 
 Beautiful photo. Lou Reed and Laurie Anderson by Annie Leibovitz,

@@ -9,7 +9,7 @@ tags:
 - politici
 - video
 title: Presentazione di Giorgio Schultze a IdV
-slug: /2009/05/02/presentazione-di-giorgio-schultze-a-idv/
+slug: /2009/05/presentazione-di-giorgio-schultze-a-idv/
 ---
 
 giovedì scorso a Milano c'è stata la presentazione ufficiae dei candidati alle elezioni europee (per la circoscrizione nord-ovest) della lista Italia dei Valori.

@@ -14,7 +14,7 @@ tags:
 - ridere
 - vergogna!
 title: Itagliani!!!!! è ora di mandargli a casa gli Rumeni!!
-slug: /2008/02/28/itagliani-e-ora-di-mandargli-a-casa-gli-rumeni/
+slug: /2008/02/itagliani-e-ora-di-mandargli-a-casa-gli-rumeni/
 ---
 
 ringraziando [Pippo](http://civati.splinder.com/post/16128865) per la segnalazione, ecco un bellissimo spot radio che sta circolando tra certa gente.. con cui dobbiamo necessariamente imparare a convivere!

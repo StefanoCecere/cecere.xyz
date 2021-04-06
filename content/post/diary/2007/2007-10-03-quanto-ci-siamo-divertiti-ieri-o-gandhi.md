@@ -10,7 +10,7 @@ tags:
 - spirito
 - umanista
 title: quanto ci siamo divertiti ieri, o Gandhi!?
-slug: /2007/10/03/quanto-ci-siamo-divertiti-ieri-o-gandhi/
+slug: /2007/10/quanto-ci-siamo-divertiti-ieri-o-gandhi/
 ---
 
 ![2-ottobre-nonviolenza.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2007/10/2-ottobre-nonviolenza.jpg)

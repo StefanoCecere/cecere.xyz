@@ -7,7 +7,7 @@ tags:
 - economia
 - recessione
 title: Recessione in arrivo…
-slug: /2008/04/04/recessione-in-arrivo/
+slug: /2008/04/recessione-in-arrivo/
 ---
 
 _…uno studio preliminare al Rapporto economico globale afferma che c'è una possibilità su quattro di una recessione globale e definisce quella dei mutui subprime la peggior crisi finanziaria dai tempi della Grande depressione…

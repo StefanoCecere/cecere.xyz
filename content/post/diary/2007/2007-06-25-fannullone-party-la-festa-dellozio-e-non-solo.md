@@ -14,7 +14,7 @@ tags:
 - tecnologia
 - umanista
 title: 'Fannullone Party: la festa dell&#039;ozio! (e non solo)'
-slug: /2007/06/25/fannullone-party-la-festa-dellozio-e-non-solo/
+slug: /2007/06/fannullone-party-la-festa-dellozio-e-non-solo/
 ---
 
 ![gran gnocca al fannullone party](http://stefanocecere.com/wp-content/uploads/sites/3/2007/06/fannullone_party.jpg)

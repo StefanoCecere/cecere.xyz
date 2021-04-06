@@ -6,7 +6,7 @@ id: 226
 tags:
 - morte
 title: ma è possibile resuscitare?
-slug: /2006/02/13/ma-e-possibile-resuscitare/
+slug: /2006/02/ma-e-possibile-resuscitare/
 ---
 
 <a href="http://www.ilfannullone.it/foto/album/20060211_lamiresushiti//thumbnails/" target="_blank"><img src='/wp-content/f1e7366f6c.jpg' alt='' align='left' /></a>parto dall'antefatto gastrogoliardico: la cena "lamiresuschiti" (ovviamente a base di sushi in quantità industriale) di sabato sera: <a href="http://www.ilfannullone.it/foto/album/20060211_lamiresushiti//thumbnails/" target="_blank">VEDI FOTO</a>.

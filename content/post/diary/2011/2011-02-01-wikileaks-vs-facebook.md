@@ -7,7 +7,7 @@ tags:
 - internet
 - privacy
 title: Wikileaks vs Facebook
-slug: /2011/02/01/wikileaks-vs-facebook/
+slug: /2011/02/wikileaks-vs-facebook/
 ---
 
 "Io vi dò gratis informazioni riservate sulle multinazionali, e sono un malvivente"

@@ -10,7 +10,7 @@ tags:
 - spirito
 - video
 title: Primo video inaugurazione Parco di Attigliano
-slug: /2008/05/05/primo-video-inaugurazione-parco-di-attigliano/
+slug: /2008/05/primo-video-inaugurazione-parco-di-attigliano/
 ---
 
 fra poco arriverà un sacco di roba.. intanto ecco un po' di foto:

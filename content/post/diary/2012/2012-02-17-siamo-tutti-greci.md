@@ -11,7 +11,7 @@ tags:
 - Grecia
 - manifestazione
 title: SIAMO TUTTI GRECI
-slug: /2012/02/17/siamo-tutti-greci/
+slug: /2012/02/siamo-tutti-greci/
 ---
 
 _premessa mia: non sarà efficace, ma sempre meglio che starsene a casa! ricordo poi settimana prossima il SUMMIT <http://democraziammt.info>_

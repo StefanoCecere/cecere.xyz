@@ -11,7 +11,7 @@ tags:
 - felicità
 - JJ
 title: Il più bel regalo di compleanno
-slug: /2008/06/21/il-piu-bel-regalo-di-compleanno/
+slug: /2008/06/il-piu-bel-regalo-di-compleanno/
 ---
 
 [<img src="http://farm4.static.flickr.com/3087/2601655828_6698592638.jpg" width="500" height="375" alt="Il più bel regalo di compleanno" />](http://www.flickr.com/photos/krur/2601655828/ "Il più bel regalo di compleanno di Stefano Cecere, su Flickr")

@@ -6,7 +6,7 @@ id: 871
 tags:
 - amici
 title: Benjamin di Falco
-slug: /2008/04/15/benjamin-di-falco/
+slug: /2008/04/benjamin-di-falco/
 ---
 
 ragazzi me ne fotto del lutto (di fatto non li ho mai capiti 🙂

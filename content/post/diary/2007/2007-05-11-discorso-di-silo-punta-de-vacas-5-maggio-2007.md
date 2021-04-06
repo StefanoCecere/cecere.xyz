@@ -9,7 +9,7 @@ tags:
 - spirito
 - umanista
 title: Discorso di Silo - Punta De Vacas - 5 maggio 2007
-slug: /2007/05/11/discorso-di-silo-punta-de-vacas-5-maggio-2007/
+slug: /2007/05/discorso-di-silo-punta-de-vacas-5-maggio-2007/
 ---
 
 sono tornato l'altro ieri dal viaggio in Argentina e sulle Ande. avrò molto da raccontare nei prossimi mesi. intanto ecco il discorso di Silo nella terza giornata di celebrazioni del Parco di Punta de Vacas. baci

@@ -9,7 +9,7 @@ tags:
 - recensione
 - ricreazione
 title: Ratatouille
-slug: /2007/10/26/ratatouille/
+slug: /2007/10/ratatouille/
 ---
 
 ![](http://stefanocecere.com/wp-content/uploads/sites/3/2007/10/ratatouille.jpg)

@@ -9,7 +9,7 @@ tags:
 - Nepal
 - umanista
 title: Forum umanisti Africa e Nepal
-slug: /2008/12/03/forum-umanisti-africa-e-nepal/
+slug: /2008/12/forum-umanisti-africa-e-nepal/
 ---
 
 amici sono settimane che non scrivo qui perchè i ritmi si sono accelerati e ho davvero poco tempo! entro Natale arriveranno due nuove creature: un/una cecina 😮 e il portale web della marcia mondiale.

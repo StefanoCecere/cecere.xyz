@@ -11,7 +11,7 @@ tags:
 - umanista
 - video
 title: Frankie Hi-Energy e Fiorello
-slug: /2008/06/09/frankie-hi-energy-e-fiorello/
+slug: /2008/06/frankie-hi-energy-e-fiorello/
 ---
 
 ![fiorello.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/06/fiorello.jpg)

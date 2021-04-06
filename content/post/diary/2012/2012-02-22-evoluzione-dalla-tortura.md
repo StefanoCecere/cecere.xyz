@@ -12,7 +12,7 @@ tags:
 - senso della vita
 - violenza
 title: L&#039;evoluzione dalla tortura
-slug: /2012/02/22/evoluzione-dalla-tortura/
+slug: /2012/02/evoluzione-dalla-tortura/
 ---
 
 Si potrebbe pensare che un certo tipo di essere umano, quando vuole una cosa se ne appropri in modo diretto: la prende. se questa cosa fosse per caso in possesso o protetta da qualcosa o qualcun altro, se si sentisse più forte dell'avversario (o non fosse in grado di calcolare il rischio), userebbe la forza.

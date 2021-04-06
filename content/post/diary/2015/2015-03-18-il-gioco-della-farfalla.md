@@ -5,7 +5,7 @@ date: 2015-03-18T16:54:29Z
 guid: http://stefanocecere.com/?p=5654
 id: 5654
 title: il gioco della farfalla
-slug: /2015/03/18/il-gioco-della-farfalla/
+slug: /2015/03/il-gioco-della-farfalla/
 ---
 
 "Papà, lo sai che quando vedi una farfalla (ndr: oggi abbiamo vista la prima dell'anno. gialla)… e la rivedi il giorno dopo, non è più la stessa?

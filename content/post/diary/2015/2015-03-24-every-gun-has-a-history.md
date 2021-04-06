@@ -10,7 +10,7 @@ tags:
 - violence
 - weapons
 title: Every gun has a history
-slug: /2015/03/24/every-gun-has-a-history/
+slug: /2015/03/every-gun-has-a-history/
 ---
 
 Let's not repeat it.

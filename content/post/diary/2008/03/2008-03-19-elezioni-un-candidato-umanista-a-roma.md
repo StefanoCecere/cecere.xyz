@@ -11,7 +11,7 @@ tags:
 - umanista
 - video
 title: 'Elezioni: un candidato umanista a Roma'
-slug: /2008/03/19/elezioni-un-candidato-umanista-a-roma/
+slug: /2008/03/elezioni-un-candidato-umanista-a-roma/
 ---
 
 a Roma il caro amico Lorenzo Palumbo, da 20 anni attivo nel Movimento Umanista, si candida da indipendente umanista nella lista della Sinistra Arcobaleno.

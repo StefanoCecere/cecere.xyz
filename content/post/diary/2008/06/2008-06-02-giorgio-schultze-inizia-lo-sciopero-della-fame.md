@@ -10,7 +10,7 @@ tags:
 - scudo spaziale
 - video
 title: Giorgio Schultze inizia lo sciopero della fame
-slug: /2008/06/02/giorgio-schultze-inizia-lo-sciopero-della-fame/
+slug: /2008/06/giorgio-schultze-inizia-lo-sciopero-della-fame/
 ---
 
 [www.nonviolenza.net](http://www.nonviolenza.net)

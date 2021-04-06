@@ -4,7 +4,7 @@ date: 2015-02-16T06:02:48Z
 guid: http://stefanocecere.com/?p=5665
 id: 5665
 title: meditando bambini
-slug: /2015/02/16/meditando-bambini/
+slug: /2015/02/meditando-bambini/
 ---
 
 “Se ad ogni bambino di 8 anni venisse insegnata la meditazione, riusciremmo ad eliminare la violenza nel mondo entro una generazione.” – Dalai Lama

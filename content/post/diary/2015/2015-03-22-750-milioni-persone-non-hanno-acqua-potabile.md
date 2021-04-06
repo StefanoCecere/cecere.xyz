@@ -6,7 +6,7 @@ id: 5705
 tags:
 - acqua
 title: 750 milioni persone non hanno acqua potabile
-slug: /2015/03/22/750-milioni-persone-non-hanno-acqua-potabile/
+slug: /2015/03/750-milioni-persone-non-hanno-acqua-potabile/
 ---
 
 la salute del mondo umano la misuro molto dalla cura che si ha per i più deboli e sfortunati.

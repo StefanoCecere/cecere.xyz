@@ -6,7 +6,7 @@ format: status
 guid: http://twitter-579670132059963392-post
 id: 5621
 title: tanta gente non giovanissima ad una conferenza su…
-slug: /2015/03/22/tanta-gente-non-giovanissima-ad-una-conferenza-su/
+slug: /2015/03/tanta-gente-non-giovanissima-ad-una-conferenza-su/
 ---
 
 tanta gente non giovanissima ad una conferenza su tecnologia, etica, opensource e umanesimo globale [#ottimismo](http://twitter.com/search?q=%23ottimismo) http://t.co/CiqMtGeoO1

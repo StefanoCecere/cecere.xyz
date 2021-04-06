@@ -9,7 +9,7 @@ tags:
 - OSC
 - tips
 title: Safari 4 è una meraviglia ma solo con i Tab giù! ecco come fare
-slug: /2009/02/26/safari-4-e-una-meraviglia-ma-solo-con-i-tab-giu-ecco-come-fare/
+slug: /2009/02/safari-4-e-una-meraviglia-ma-solo-con-i-tab-giu-ecco-come-fare/
 ---
 
 dato che ormai la maggior parte dei miei amici usa Mac credo possa essere utile che ogni tanto ne parli (uso mac ormai dal 1992!!)

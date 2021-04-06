@@ -8,7 +8,7 @@ tags:
 - sesso
 - spam
 title: Comprate la forza per il pene, e salvate 85 %.
-slug: /2008/03/21/comprate-la-forza-per-il-pene-e-salvate-85/
+slug: /2008/03/comprate-la-forza-per-il-pene-e-salvate-85/
 ---
 
 _TUTTI I SANTI GIORNI (non solo oggi venerdì santo) mi arrivano circa 4.000 messaggi di spam.

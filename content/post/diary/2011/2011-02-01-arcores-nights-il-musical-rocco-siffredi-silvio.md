@@ -10,7 +10,7 @@ tags:
 - Rocco
 - video
 title: Arcore&#039;s Nights (il musical!) e Rocco Siffredi parla a Silvio
-slug: /2011/02/01/arcores-nights-il-musical-rocco-siffredi-silvio/
+slug: /2011/02/arcores-nights-il-musical-rocco-siffredi-silvio/
 ---
 
 premetto che questo è il mio unico contributo alla faccenda.

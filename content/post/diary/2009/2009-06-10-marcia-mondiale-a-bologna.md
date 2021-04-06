@@ -8,6 +8,6 @@ tags:
 - Bologna
 - spot
 title: Marcia Mondiale a Bologna
-slug: /2009/06/10/marcia-mondiale-a-bologna/
+slug: /2009/06/marcia-mondiale-a-bologna/
 ---
 

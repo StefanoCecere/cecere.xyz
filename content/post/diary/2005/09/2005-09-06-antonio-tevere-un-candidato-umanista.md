@@ -8,7 +8,7 @@ tags:
 - partito umanista
 - umanista
 title: 'Antonio Tevere: un candidato umanista'
-slug: /2005/09/06/antonio-tevere-un-candidato-umanista/
+slug: /2005/09/antonio-tevere-un-candidato-umanista/
 ---
 
 riporto questa breve descrizione di un candidato per il Partito Umanista a non so quale elezione del 2000.

@@ -9,7 +9,7 @@ tags:
 - Firenze
 - Terra 2.0
 title: 'Mercoledì cineforumanista Firenze: &quot;Cocaina&quot;'
-slug: /2008/05/12/mercoledi-cineforumanista-firenze-cocaina/
+slug: /2008/05/mercoledi-cineforumanista-firenze-cocaina/
 ---
 
 Ciao a tutti

@@ -9,7 +9,7 @@ tags:
 - Politica
 - privatizzazioni
 title: Tu distraiti che ti devo privatizzare l&#039;acqua pubblica
-slug: /2008/10/24/tu-distraiti-che-ti-devo-privatizzare-lacqua-pubblica/
+slug: /2008/10/tu-distraiti-che-ti-devo-privatizzare-lacqua-pubblica/
 ---
 
 _Il governo Berlusconi senza dire niente a nessuno ha dato il via alla privatizzazione dell'acqua pubblica._

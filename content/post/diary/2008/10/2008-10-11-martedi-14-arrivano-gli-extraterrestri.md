@@ -7,7 +7,7 @@ tags:
 - annuncio
 - ufo
 title: martedì 14 arrivano gli extraterrestri?
-slug: /2008/10/11/martedi-14-arrivano-gli-extraterrestri/
+slug: /2008/10/martedi-14-arrivano-gli-extraterrestri/
 ---
 
 nei giorni passati più persone mi hanno "allertato"

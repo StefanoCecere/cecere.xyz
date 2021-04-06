@@ -21,7 +21,7 @@ tags:
 - umanista
 - violenza
 title: Progressione atomica
-slug: /2008/09/15/progressione-atomica/
+slug: /2008/09/progressione-atomica/
 ---
 
 [<img class="alignleft size-medium wp-image-1147" title="missile-nucleare-324x230" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/missile-nucleare-324x230.jpg" alt="" width="227" height="161" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/missile-nucleare-324x230.jpg 324w, http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/missile-nucleare-324x230-300x213.jpg 300w" sizes="(max-width: 227px) 100vw, 227px" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/missile-nucleare-324x230.jpg) ho letto stamani un articolo sul Sole 24 ore ([eccolo qui](http://www.ilsole24ore.com/art/SoleOnLine4/Mondo/2008/09/arsenali-nucleari-equilibrio-terrore.shtml)) che descrive molto bene l'attuale situazione degli armamenti atomici nel mondo, e di come si stanno un po' complicando le cose dopo le ultime vicende in Georgia.. e senza ancora considerare le recentissime vicende latinoamericane!

@@ -4,7 +4,7 @@ date: 2005-05-15T02:31:57Z
 guid: http://stefanocecere.com/?p=43
 id: 43
 title: gli altri hanno bisogno di te…
-slug: /2005/05/15/gli-altri-hanno-bisogno-di-te/
+slug: /2005/05/gli-altri-hanno-bisogno-di-te/
 ---
 
 <img src="http://f.duchene.free.fr/berssous/images/04%20mort.jpg" align="left" width="254" height="188" />quanto tu hai bisogni degli altri…

@@ -9,7 +9,7 @@ tags:
 - sito
 - umanista
 title: esseri umani del nuovo millennio
-slug: /2006/01/16/esseri-umani-del-nuovo-millennio/
+slug: /2006/01/esseri-umani-del-nuovo-millennio/
 ---
 
 ## Lo scoramento degli esseri umani valenti e solidali ritarda il cammino della storia

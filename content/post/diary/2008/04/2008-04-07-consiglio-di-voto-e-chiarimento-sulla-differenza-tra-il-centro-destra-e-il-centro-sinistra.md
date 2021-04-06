@@ -8,7 +8,7 @@ tags:
 - Politica
 title: Consiglio di voto e chiarimento sulla differenza tra il centro-destra e il
   centro-sinistra.
-slug: /2008/04/07/consiglio-di-voto-e-chiarimento-sulla-differenza-tra-il-centro-destra-e-il-centro-sinistra/
+slug: /2008/04/consiglio-di-voto-e-chiarimento-sulla-differenza-tra-il-centro-destra-e-il-centro-sinistra/
 ---
 
 in un momento di polverone generale, di sfiducia verso tutto e tutti, di rincorsa al solito "meno peggio", di convincimento degli indecisi verso il "voto utile", ma soprattutto in mancanza di chiare visioni di processo, vorrei fare un appello e quindi un chiarimento sull'attuale questione centro-destra vs centro-sinistra.. ovvero PDL & PD

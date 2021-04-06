@@ -10,7 +10,7 @@ tags:
 - spirito
 - umanista
 title: Abbracci gratis! Free hugs! a Roma
-slug: /2006/10/30/abbracci-gratis-free-hugs-a-roma/
+slug: /2006/10/abbracci-gratis-free-hugs-a-roma/
 ---
 
 gli amici del Movimento di Roma condividono con noi questa fantastica sorgente di emozioni.

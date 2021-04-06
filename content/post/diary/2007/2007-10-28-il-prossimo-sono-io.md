@@ -10,6 +10,6 @@ tags:
 - umanista
 - video
 title: Il prossimo sono io
-slug: /2007/10/28/il-prossimo-sono-io/
+slug: /2007/10/il-prossimo-sono-io/
 ---
 

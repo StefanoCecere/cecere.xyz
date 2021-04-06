@@ -10,7 +10,7 @@ tags:
 - nonviolenza
 - video
 title: 60 sindaci della Lituania cercano la nonviolenza
-slug: /2008/09/24/60-sindaci-della-lituania-cercano-la-nonviolenza/
+slug: /2008/09/60-sindaci-della-lituania-cercano-la-nonviolenza/
 ---
 
 è successo qualche settimana fa ma è interessantissimo: un gruppo di 60 sindaci della Lituania hanno fatto un tour per trovare e parlare con gente e associazioni che promuovono la nonviolenza.

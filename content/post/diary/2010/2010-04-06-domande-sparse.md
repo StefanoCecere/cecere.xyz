@@ -7,7 +7,7 @@ tags:
 - domande
 - situazione attuale
 title: domande sparse…
-slug: /2010/04/06/domande-sparse/
+slug: /2010/04/domande-sparse/
 ---
 
 qualche giorno fa (il 3 aprile per la precisione) ho cambiato prospettiva, o punto di vista se più ti piace, su diverse cose.

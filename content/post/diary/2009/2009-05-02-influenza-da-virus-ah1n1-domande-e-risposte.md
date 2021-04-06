@@ -6,7 +6,7 @@ id: 1726
 tags:
 - virus
 title: 'Influenza da virus A/H1N1: domande e risposte'
-slug: /2009/05/02/influenza-da-virus-ah1n1-domande-e-risposte/
+slug: /2009/05/influenza-da-virus-ah1n1-domande-e-risposte/
 ---
 
 **oggi in tutto il mondo avremmo celebrato i 40 anni di "avvio" del Movimento Umanista (con il famoso discorso "La guarigione della sofferenza" dato da Silo il 4 maggio 1969), ma Silo stesso l'altro ieri ha urgentemente chiesto di seguire le raccomandazioni dell'OMS e di rinviare le agglomerazioni, soprattutto per noi che siamo molto aperti a baci e abbracci, per non partecipare ad una involontaria e ovviamente inconsapevole diffusione del virus.**

@@ -8,7 +8,7 @@ tags:
 - ONU
 - video
 title: Presentazione Marcia Mondiale all&#039;ONU
-slug: /2009/05/07/presentazione-marcia-mondiale-allonu/
+slug: /2009/05/presentazione-marcia-mondiale-allonu/
 ---
 
 pochi giorni fa Rafael de la Rubia (coordinatore internazionale della marcia) ha fatto questa presentazione.

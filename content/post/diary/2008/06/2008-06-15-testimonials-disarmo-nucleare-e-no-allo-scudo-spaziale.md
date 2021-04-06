@@ -12,7 +12,7 @@ tags:
 - testimonials
 - video
 title: Testimonials Disarmo Nucleare e No allo Scudo Spaziale
-slug: /2008/06/15/testimonials-disarmo-nucleare-e-no-allo-scudo-spaziale/
+slug: /2008/06/testimonials-disarmo-nucleare-e-no-allo-scudo-spaziale/
 ---
 
 in crescita:

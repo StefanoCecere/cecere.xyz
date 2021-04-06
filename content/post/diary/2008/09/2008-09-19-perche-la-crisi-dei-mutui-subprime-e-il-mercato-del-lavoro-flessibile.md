@@ -10,7 +10,7 @@ tags:
 - lavoro
 - mondo
 title: Perchè la crisi dei mutui subprime e il mercato del lavoro &quot;flessibile&quot;
-slug: /2008/09/19/perche-la-crisi-dei-mutui-subprime-e-il-mercato-del-lavoro-flessibile/
+slug: /2008/09/perche-la-crisi-dei-mutui-subprime-e-il-mercato-del-lavoro-flessibile/
 ---
 
 il mondo del lavoro non si può certo dire che sia quello di 10 anni fa. tanto meno quello di 20 o di 30.

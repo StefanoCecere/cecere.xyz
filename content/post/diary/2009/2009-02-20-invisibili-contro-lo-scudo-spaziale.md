@@ -8,6 +8,6 @@ tags:
 - scudo spaziale
 - video
 title: invisibili contro lo Scudo Spaziale
-slug: /2009/02/20/invisibili-contro-lo-scudo-spaziale/
+slug: /2009/02/invisibili-contro-lo-scudo-spaziale/
 ---
 

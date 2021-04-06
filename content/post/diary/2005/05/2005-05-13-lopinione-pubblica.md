@@ -5,7 +5,7 @@ date: 2005-05-13T14:34:52Z
 guid: http://stefanocecere.com/?p=45
 id: 45
 title: l'opinione pubblica
-slug: /2005/05/13/opinione-pubblica/
+slug: /2005/05/opinione-pubblica/
 ---
 
 <img src="http://www.grafichemarcolin.it/img/stampa_speedmaster.jpg" align="left" />

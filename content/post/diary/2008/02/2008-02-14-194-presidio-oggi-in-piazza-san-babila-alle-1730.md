@@ -10,7 +10,7 @@ tags:
 - Movimento
 - Politica
 title: '194: PRESIDIO OGGI IN PIAZZA SAN BABILA ALLE 17,30'
-slug: /2008/02/14/194-presidio-oggi-in-piazza-san-babila-alle-1730/
+slug: /2008/02/194-presidio-oggi-in-piazza-san-babila-alle-1730/
 ---
 
 _COMUNICATO STAMPA del 14/02/2008_

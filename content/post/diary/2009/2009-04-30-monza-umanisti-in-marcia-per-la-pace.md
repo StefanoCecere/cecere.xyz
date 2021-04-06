@@ -8,7 +8,7 @@ tags:
 - Mondo Senza Guerre
 - Monza
 title: 'Monza: Umanisti in marcia per la pace!'
-slug: /2009/04/30/monza-umanisti-in-marcia-per-la-pace/
+slug: /2009/04/monza-umanisti-in-marcia-per-la-pace/
 ---
 
 un po' di auto-rassegna-stampa suvvia.. (dal Giornale di Monza attualmente in edicola)

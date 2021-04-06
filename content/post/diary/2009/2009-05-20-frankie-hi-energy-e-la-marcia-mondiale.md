@@ -7,6 +7,6 @@ id: 1804
 tags:
 - Mondo Senza Guerre
 title: Frankie Hi Energy e la Marcia Mondiale
-slug: /2009/05/20/frankie-hi-energy-e-la-marcia-mondiale/
+slug: /2009/05/frankie-hi-energy-e-la-marcia-mondiale/
 ---
 

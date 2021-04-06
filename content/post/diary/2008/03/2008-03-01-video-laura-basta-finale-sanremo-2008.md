@@ -12,7 +12,7 @@ tags:
 - Terra 2.0
 - video
 title: Video L&#039;Aura &quot;Basta!&quot; - Finale Sanremo 2008
-slug: /2008/03/01/video-laura-basta-finale-sanremo-2008/
+slug: /2008/03/video-laura-basta-finale-sanremo-2008/
 ---
 
 ecco il video della performance dell'amica L'Aura con la canzone "Basta!" a Sanremo 2008.

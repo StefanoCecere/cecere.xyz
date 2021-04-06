@@ -4,7 +4,7 @@ date: 2005-09-09T12:04:55Z
 guid: http://stefanocecere.com/2005/09/09/medici-senza-frontiere/
 id: 81
 title: medici senza frontiere
-slug: /2005/09/09/medici-senza-frontiere/
+slug: /2005/09/medici-senza-frontiere/
 ---
 
 ieri sera ho partecipato (in qualità di &#x201c;padrino/pianista&#x201d; <span style="font-size: 20pt">&#x263a;</span> alla prima delle tre giornate di &#x201c;arte umanitaria&#x201d; promosse da Medici Senza Frontiere - www.msf.it

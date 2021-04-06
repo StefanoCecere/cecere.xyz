@@ -4,7 +4,7 @@ date: 2006-06-21T11:11:30Z
 guid: http://stefanocecere.com/2006/06/21/referendum-2006-tabella-che-controbatte-ogni-slogan-del-si/
 id: 349
 title: 'Referendum 2006: tabella che controbatte ogni slogan del SI'
-slug: /2006/06/21/referendum-2006-tabella-che-controbatte-ogni-slogan-del-si/
+slug: /2006/06/referendum-2006-tabella-che-controbatte-ogni-slogan-del-si/
 ---
 
 il referendum sulla Costituzione è alle porte, e gli slogan per il SI si ingandiscono (sempre li stessi semplicemente martellati), ma sono supportati da motivazioni superficiali, di effetto, a volte ipocrite e ingannevoli.

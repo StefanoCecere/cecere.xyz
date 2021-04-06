@@ -7,7 +7,7 @@ tags:
 - ricreazione
 - tecnologia
 title: '3.2..1… contact: e il mondo si rilassa'
-slug: /2005/12/25/321-contact-e-il-mondo-si-rilassa/
+slug: /2005/12/321-contact-e-il-mondo-si-rilassa/
 ---
 
 <a href="http://musicaememoria.altervista.org/la_storia_del_voyager.htm" target="_blank"><img src='/wp-content/piastra_sonda_pioneer.gif' alt='' align='center' /></a>

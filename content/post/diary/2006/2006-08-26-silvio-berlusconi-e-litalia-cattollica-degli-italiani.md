@@ -7,7 +7,7 @@ tags:
 - Berlusconi
 - vergogna!
 title: Silvio Berlusconi e l&#039;Italia Cattolica degli italiani
-slug: /2006/08/26/silvio-berlusconi-e-litalia-cattollica-degli-italiani/
+slug: /2006/08/silvio-berlusconi-e-litalia-cattollica-degli-italiani/
 ---
 
 <img align="right" title="Silvio Berlusconi al Metting dei Cattolici" id="image400" alt="Silvio Berlusconi al Metting dei Cattolici" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/berlusconi_cattolico.jpg" />E' stato difficile non vedere ieri l'intervento di Silvio Berlusconi al meeting di Comunione e Liberazione, anche per uno come me che accende la tv 10 minuti al giorno…

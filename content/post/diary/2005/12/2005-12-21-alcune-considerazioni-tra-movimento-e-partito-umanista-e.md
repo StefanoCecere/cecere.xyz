@@ -10,7 +10,7 @@ tags:
 - pensieri
 - umanista
 title: alcune considerazioni tra Movimento e Partito umanista e …
-slug: /2005/12/21/alcune-considerazioni-tra-movimento-e-partito-umanista-e/
+slug: /2005/12/alcune-considerazioni-tra-movimento-e-partito-umanista-e/
 ---
 
 mai come quest’anno sono entrato in contatto con tanta gente.

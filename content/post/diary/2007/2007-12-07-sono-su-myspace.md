@@ -6,7 +6,7 @@ id: 616
 tags:
 - stefano cecere
 title: sono su mySpace
-slug: /2007/12/07/sono-su-myspace/
+slug: /2007/12/sono-su-myspace/
 ---
 
 ba.. sono anni che ci provo ma ogni volta rinuncio (il sistema è fatto davvero male!)

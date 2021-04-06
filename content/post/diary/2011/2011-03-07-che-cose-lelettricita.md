@@ -8,7 +8,7 @@ id: 2399
 tags:
 - aneddoto
 title: Che cos&#039;è l&#039;elettricità?
-slug: /2011/03/07/che-cose-lelettricita/
+slug: /2011/03/che-cose-lelettricita/
 ---
 
 ESAMINATORE: "Che cos'è l'elettricità?"

@@ -10,7 +10,7 @@ tags:
 - Politica
 - sistema
 title: Un po&#039; sul cosa se pò fare ora…
-slug: /2011/02/27/un-po-sul-cosa-se-po-fare-ora/
+slug: /2011/02/un-po-sul-cosa-se-po-fare-ora/
 ---
 
 riporto qui un [articolo](http://www.jacopofo.com/gheddafi-balle-crisi-economica-sistema-burocrazia-ecovillaggi-gruppi-acquisto) (di oggi) di Jacopo Fo, che in parte mi risuona.. sarà perché sto cercando un bel casolare generatore di ecofelicità, sarà perché non mi sono mai aspettato che l'umanizzazione della terra arriverà mai "dall'alto", sarà perchè viviamo con punti di vista ormai totalmente distorti.. sarà perché siamo nel baratro e tutto non potrà che cambiare, non c'è alternativa!

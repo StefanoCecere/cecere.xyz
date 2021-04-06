@@ -14,7 +14,7 @@ tags:
 - vergogna!
 - violenza
 title: Difendiamoci dalla 194 e da…
-slug: /2006/01/12/difendiamoci-dalla-194-e-da/
+slug: /2006/01/difendiamoci-dalla-194-e-da/
 ---
 
 ![volantino Partito Umanista difesa legge 194](/wp-content/volantino_194.jpg)

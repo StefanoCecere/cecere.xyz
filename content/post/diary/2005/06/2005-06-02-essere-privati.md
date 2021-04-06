@@ -4,7 +4,7 @@ date: 2005-06-02T16:23:29Z
 guid: http://stefanocecere.com/?p=32
 id: 32
 title: essere privati
-slug: /2005/06/02/essere-privati/
+slug: /2005/06/essere-privati/
 ---
 
 <img src="http://www.rampadifugnano.it/etichette/privato.jpg" align="left" width="107" height="132" />in questi giorni stanno succedendo così tante cose.. molte sorprendenti (vedi Francia e Olanda sul NO alla costituzione), altre agghiaccianti (il costante massacro di esseri umani), altre incoraggianti (il crescente interesse per il referendum, i dibattiti sulle nuove energie, una crescente mobilitazione della gente comune), altre sono ridicole (Deputati che dichiarano che "potrebbero fare lo sciopero della fame.. però non lo fanno.", margherite che sbergeffiano altri vegetali, Bruno Vespa che è ancora lì…)…

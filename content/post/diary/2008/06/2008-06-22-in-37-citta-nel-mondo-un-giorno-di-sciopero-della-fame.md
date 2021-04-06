@@ -15,7 +15,7 @@ tags:
 - scudo spaziale
 - Trieste
 title: in 37 città nel mondo un giorno di sciopero della fame
-slug: /2008/06/22/in-37-citta-nel-mondo-un-giorno-di-sciopero-della-fame/
+slug: /2008/06/in-37-citta-nel-mondo-un-giorno-di-sciopero-della-fame/
 ---
 
 <strong style="font-weight: bold">In 37 città del mondo oggi hanno fatto un giorno di sciopero della fame migliaia di persone che con questa attività semplice e nonviolenta hanno voluto manifestare il loro dissenso al pericolosissimo progetto americano di difesa missilistica NMD che, oltre a far partire una nuova corsa al riarmo, mette i paesi dell'europa nel mirino di ogni controversia militare americana.</strong>

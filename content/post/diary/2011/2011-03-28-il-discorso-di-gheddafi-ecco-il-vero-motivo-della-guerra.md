@@ -10,7 +10,7 @@ tags:
 - satira
 - video
 title: 'Il discorso di Gheddafi: ecco il vero motivo della guerra…'
-slug: /2011/03/28/il-discorso-di-gheddafi-ecco-il-vero-motivo-della-guerra/
+slug: /2011/03/il-discorso-di-gheddafi-ecco-il-vero-motivo-della-guerra/
 ---
 
 scommetto he nessuno di voi si è visto il video integrale dell'ultimo discorso di Gheddafi che spiega le sue motivazioni e arringa i suoi.

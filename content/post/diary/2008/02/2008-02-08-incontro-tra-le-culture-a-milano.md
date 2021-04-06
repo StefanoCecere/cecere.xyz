@@ -8,7 +8,7 @@ tags:
 - Milano
 - umanista
 title: Incontro tra le culture a Milano
-slug: /2008/02/08/incontro-tra-le-culture-a-milano/
+slug: /2008/02/incontro-tra-le-culture-a-milano/
 ---
 
 Il Centro delle Culture organizza un aperitivo-concerto dedicato a comunità e associazioni di migranti

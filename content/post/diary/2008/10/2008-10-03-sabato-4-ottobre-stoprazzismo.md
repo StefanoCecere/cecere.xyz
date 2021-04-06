@@ -15,7 +15,7 @@ tags:
 - razzismo
 - Roma
 title: 'sabato 4 ottobre: STOPRAZZISMO'
-slug: /2008/10/03/sabato-4-ottobre-stoprazzismo/
+slug: /2008/10/sabato-4-ottobre-stoprazzismo/
 ---
 
 <div>

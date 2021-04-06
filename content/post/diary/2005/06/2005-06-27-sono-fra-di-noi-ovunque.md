@@ -4,7 +4,7 @@ date: 2005-06-27T13:20:14Z
 guid: http://stefanocecere.com/?p=18
 id: 18
 title: Sono fra di noi, ovunque..
-slug: /2005/06/27/sono-fra-di-noi-ovunque/
+slug: /2005/06/sono-fra-di-noi-ovunque/
 ---
 
 Sono numerosi..

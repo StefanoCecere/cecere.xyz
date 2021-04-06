@@ -10,7 +10,7 @@ tags:
 - Stati Uniti
 - USA
 title: Svegliati America! Stiamo guidando vero il disastro
-slug: /2008/06/14/svegliati-america-stiamo-guidando-vero-il-disastro/
+slug: /2008/06/svegliati-america-stiamo-guidando-vero-il-disastro/
 ---
 
 mi è piaciuto molto questo articolo sull'incapacità di prendere sul serio la necessità di un cambio dei nostri usi e consumi.

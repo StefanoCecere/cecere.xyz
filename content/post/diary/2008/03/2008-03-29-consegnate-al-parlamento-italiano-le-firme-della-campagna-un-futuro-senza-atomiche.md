@@ -12,7 +12,7 @@ tags:
 - umanista
 title: Consegnate al Parlamento italiano le firme della Campagna &quot;Un futuro senza
   atomiche&quot;
-slug: /2008/03/29/consegnate-al-parlamento-italiano-le-firme-della-campagna-un-futuro-senza-atomiche/
+slug: /2008/03/consegnate-al-parlamento-italiano-le-firme-della-campagna-un-futuro-senza-atomiche/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/unfuturosenzatomiche.jpg' alt='unfuturosenzatomiche.jpg' align="left" />e finalmente un'altra bella notizia: chi mi ha seguito e/o ha seguito le attività degli Umanisti l'anno scorso. sa quanta energia abbiamo messo nella campagna per il Disarmo Nucleare (sia a livello europeo che italiano).

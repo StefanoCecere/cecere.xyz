@@ -4,7 +4,7 @@ date: 2005-07-30T13:47:37Z
 guid: http://stefanocecere.com/?p=6
 id: 6
 title: ancora sangue amaro…
-slug: /2005/07/30/ancora-sangue-amaro/
+slug: /2005/07/ancora-sangue-amaro/
 ---
 
 _Le Poste portano a casa i testi. Fornitore unico: una società della Mondadori di Berlusconi. I libri scolastici in conflitto d’interessi_

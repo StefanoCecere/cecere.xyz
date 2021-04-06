@@ -10,7 +10,7 @@ tags:
 - pace
 - video
 title: 'Europe for Peace: un video da riguardare'
-slug: /2008/06/06/europe-for-peace-un-video-da-riguardare/
+slug: /2008/06/europe-for-peace-un-video-da-riguardare/
 ---
 
 abbi 10 minuti per rivedere questo video. poi accendi un telegiornale e guarda un po' avanti il futuro.

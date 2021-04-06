@@ -6,7 +6,7 @@ format: status
 guid: http://twitter-383027738124488704-post
 id: 4666
 title: 'two masters “@udacity: @khanacademy founder @salkh…'
-slug: /2013/09/26/two-masters-udacity-khanacademy-founder-salkh/
+slug: /2013/09/two-masters-udacity-khanacademy-founder-salkh/
 ---
 
 two masters “[@udacity](http://twitter.com/udacity): [@khanacademy](http://twitter.com/khanacademy) founder [@salkhanacademy](http://twitter.com/salkhanacademy) visiting Udacity for lunch & talk on [#edtech](http://twitter.com/search?q=%23edtech) http://t.co/Fw1pbSsdgJ”

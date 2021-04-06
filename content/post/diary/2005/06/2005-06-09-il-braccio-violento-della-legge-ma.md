@@ -4,7 +4,7 @@ date: 2005-06-09T09:21:39Z
 guid: http://stefanocecere.com/?p=29
 id: 29
 title: il braccio violento della Legge, ma…
-slug: /2005/06/09/il-braccio-violento-della-legge-ma/
+slug: /2005/06/il-braccio-violento-della-legge-ma/
 ---
 
 Matteo segnala questa testimonianza di una donna che è stata sottoposta alla Legge 40 sulla procreazione assistita.

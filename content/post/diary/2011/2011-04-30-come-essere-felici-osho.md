@@ -10,7 +10,7 @@ tags:
 - mente
 - Osho
 title: Come essere felici? (Biagi a Osho)
-slug: /2011/04/30/come-essere-felici-osho/
+slug: /2011/04/come-essere-felici-osho/
 ---
 
 _con Fabio ormai alle porte dei due anni e mezzo, non posso che condividere questa simpatica domanda e risposta tra Enzo Biagi ed Osho.

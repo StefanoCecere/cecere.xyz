@@ -9,7 +9,7 @@ tags:
 - tecnologia
 - video
 title: La stupidità umana non ha limiti. ma anche l&#039;intelligenza e la creatività.
-slug: /2009/03/03/la-stupidita-umana-non-ha-limiti-ma-anche-lintelligenza-e-la-creativita/
+slug: /2009/03/la-stupidita-umana-non-ha-limiti-ma-anche-lintelligenza-e-la-creativita/
 ---
 
 oggi iniziamo con un bel video divertente su ( casi di estrema "stupidità" umana.. c'è da ridere ma forse anche da piangere):

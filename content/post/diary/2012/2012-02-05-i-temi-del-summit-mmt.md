@@ -9,7 +9,7 @@ tags:
 - MMT
 - Summit
 title: i temi del Summit MMT
-slug: /2012/02/05/i-temi-del-summit-mmt/
+slug: /2012/02/i-temi-del-summit-mmt/
 ---
 
 ecco i temi che verranno trattati dai 5 economisti durante il Summit Modern Money Theory a Rimini il 24/25/26 febbraio:

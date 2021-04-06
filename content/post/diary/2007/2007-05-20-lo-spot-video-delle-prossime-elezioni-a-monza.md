@@ -9,7 +9,7 @@ tags:
 - umanista
 - video
 title: lo Spot video delle prossime elezioni a Monza!
-slug: /2007/05/20/lo-spot-video-delle-prossime-elezioni-a-monza/
+slug: /2007/05/lo-spot-video-delle-prossime-elezioni-a-monza/
 ---
 
 volete sapere cosa ho fatto nelle ultimi notti? ^_^

@@ -6,7 +6,7 @@ id: 301
 tags:
 - referendum
 title: 'Referendum 2006: gli umanisti votano NO.'
-slug: /2006/05/31/referendum-2006-gli-umanisti-votano-no/
+slug: /2006/05/referendum-2006-gli-umanisti-votano-no/
 ---
 
 <div style="text-align: center">

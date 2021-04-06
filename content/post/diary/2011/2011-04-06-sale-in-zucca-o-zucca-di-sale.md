@@ -11,6 +11,6 @@ tags:
 - ristorante
 - video
 title: Sale in zucca o zucca di sale
-slug: /2011/04/06/sale-in-zucca-o-zucca-di-sale/
+slug: /2011/04/sale-in-zucca-o-zucca-di-sale/
 ---
 

@@ -4,7 +4,7 @@ date: 2005-07-03T16:40:37Z
 guid: http://stefanocecere.com/?p=16
 id: 16
 title: aiutare l'africa… serve una rivoluzione
-slug: /2005/07/03/aiutare-lafrica-serve-una-rivoluzione/
+slug: /2005/07/aiutare-lafrica-serve-una-rivoluzione/
 ---
 
 <img src="http://www.liceoeleonora.com/filosofia/rinascimento/leonardo.jpg" align="left" />"io credo che i musicisti e gli artisti in generale.. possano davvero essere d'aiuto in queste situazioni…

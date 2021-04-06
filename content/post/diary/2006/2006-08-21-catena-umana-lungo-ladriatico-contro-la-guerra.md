@@ -10,7 +10,7 @@ tags:
 - umanista
 - violenza
 title: Catena umana lungo l&#039;Adriatico contro la guerra
-slug: /2006/08/21/catena-umana-lungo-ladriatico-contro-la-guerra/
+slug: /2006/08/catena-umana-lungo-ladriatico-contro-la-guerra/
 ---
 
 <img align="left" title="Catena Umana per la pace" id="image390" alt="Catena Umana per la pace" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/catena_di_pace.jpg" />Torno oggi dopo una bella vacanza!

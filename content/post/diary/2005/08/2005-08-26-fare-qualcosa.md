@@ -4,7 +4,7 @@ date: 2005-08-26T12:31:19Z
 guid: http://stefanocecere.com/2005/08/26/fare-qualcosa/
 id: 5737
 title: Fare qualcosa
-slug: /2005/08/26/fare-qualcosa/
+slug: /2005/08/fare-qualcosa/
 ---
 
 mi piace l'iniziativa lanciata da beppegrillo.it di comprare collettivamente un bello spazio sul Corriere della Sera per chiedere pubblicamente l'allontanamento di Fazio dalla carica di capo a vita della Banca d'Italia.

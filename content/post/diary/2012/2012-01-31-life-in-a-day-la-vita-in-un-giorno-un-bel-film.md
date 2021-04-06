@@ -13,7 +13,7 @@ tags:
 - world
 - youtube
 title: Life in a Day - La Vita in un Giorno (un bel film)
-slug: /2012/01/31/life-in-a-day-la-vita-in-un-giorno-un-bel-film/
+slug: /2012/01/life-in-a-day-la-vita-in-un-giorno-un-bel-film/
 ---
 
 un film fatto dal collage di video di centinaia di persone di tutto il mondo (via YouTube)

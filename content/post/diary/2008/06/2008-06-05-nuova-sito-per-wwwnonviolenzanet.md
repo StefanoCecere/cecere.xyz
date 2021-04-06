@@ -8,7 +8,7 @@ tags:
 - sciopero della fame
 - scudo spaziale
 title: Nuova sito per www.nonviolenza.net
-slug: /2008/06/05/nuova-sito-per-wwwnonviolenzanet/
+slug: /2008/06/nuova-sito-per-wwwnonviolenzanet/
 ---
 
 quando i progetti crescono forti e le risposte devono essere date veloci, non è facile sistemare le cose in corsa..

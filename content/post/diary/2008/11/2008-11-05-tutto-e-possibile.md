@@ -10,7 +10,7 @@ tags:
 - rivoluzione
 - USA
 title: TUTTO E&#039; POSSIBILE!
-slug: /2008/11/05/tutto-e-possibile/
+slug: /2008/11/tutto-e-possibile/
 ---
 
 ho capito cosa è tutta questa pioggia che da giorni sta allagando mezzo mondo: sono le **lacrime di dolore** di chi non ce la fa più, e le l**acrime di felicità** di coloro che sanno che tutto è possibile, e i **miracoli** sono lì, proprio lì davanti, nel **futuro immediato**.. basta allungare il braccio e convincere gli amici a fare altrettanto ed ecco che si avvera.

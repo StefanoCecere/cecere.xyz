@@ -12,7 +12,7 @@ tags:
 - Politica
 - spot
 title: 700 di europarlamentari così!!
-slug: /2009/05/12/giorgio-schultze-in-europa/
+slug: /2009/05/giorgio-schultze-in-europa/
 ---
 
 per noi del Movimento sarebbe normale sentire dire queste cose da un politico, essendo quello che diciamo da sempre!

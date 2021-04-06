@@ -10,7 +10,7 @@ tags:
 - umanista
 title: Sai cosa sta sucedendo la fuori? dollaro a picco, petrolio alle stelle, fallimento
   dei grandi sistemi.
-slug: /2008/03/14/sai-cosa-sta-sucedendo-la-fuori-dollaro-a-picco-petrolio-alle-stelle-fallimento-dei-grandi-sistemi/
+slug: /2008/03/sai-cosa-sta-sucedendo-la-fuori-dollaro-a-picco-petrolio-alle-stelle-fallimento-dei-grandi-sistemi/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/0_22_dollar_euro_450.jpg' alt='0_22_dollar_euro_450.jpg' align="left" />E' possibile che oggi anche mia nonna sappia che stanno succedendo cose un po' strane, quasi preoccupanti, in campo economico planetario..

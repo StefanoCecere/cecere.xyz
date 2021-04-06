@@ -7,7 +7,7 @@ tags:
 - Terra 2.0
 - umanista
 title: Vi racconto tutto….
-slug: /2007/12/04/vi-racconto-tutto/
+slug: /2007/12/vi-racconto-tutto/
 ---
 
 ![20071204_invito_fotoracconto500.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2007/12/20071204_invito_fotoracconto500.jpg)

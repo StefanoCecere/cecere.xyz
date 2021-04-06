@@ -12,7 +12,7 @@ tags:
 - rivoluzione
 - video
 title: I, Pet Goat II
-slug: /2012/07/10/i-pet-goat-ii/
+slug: /2012/07/i-pet-goat-ii/
 ---
 
 consiglio a tutti l'attenta visione, quasi uno studio, di questo cortometraggio

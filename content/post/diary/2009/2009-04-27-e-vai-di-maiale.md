@@ -7,7 +7,7 @@ tags:
 - crisi
 - salute
 title: e vai di maiale!
-slug: /2009/04/27/e-vai-di-maiale/
+slug: /2009/04/e-vai-di-maiale/
 ---
 
 riporto l'articolo di Debora Billi che condivido pienamente (non è + facile condividere il condiviso che non cercare di fare sempre ognuno da sè? baci )

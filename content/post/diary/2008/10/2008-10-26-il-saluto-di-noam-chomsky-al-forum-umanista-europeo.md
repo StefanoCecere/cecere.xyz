@@ -11,7 +11,7 @@ tags:
 - umanista
 - video
 title: Il saluto di Noam Chomsky al Forum Umanista Europeo
-slug: /2008/10/26/il-saluto-di-noam-chomsky-al-forum-umanista-europeo/
+slug: /2008/10/il-saluto-di-noam-chomsky-al-forum-umanista-europeo/
 ---
 
 Noam Chomsky non è potuto venire a Milano, ma avevamo realizzato questo video saluto.

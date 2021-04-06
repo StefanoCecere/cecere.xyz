@@ -11,7 +11,7 @@ tags:
 - Palestina
 - recensione
 title: Perchè ci odiano?
-slug: /2010/04/08/perche-ci-odiano-2/
+slug: /2010/04/perche-ci-odiano-2/
 ---
 
 <img class="size-full wp-image-2100 alignleft" title="perche_ci_odiano" src="http://stefanocecere.com/wp-content/uploads/sites/3/2010/04/perche_ci_odiano.jpg" alt="" width="200" height="308" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2010/04/perche_ci_odiano.jpg 200w, http://stefanocecere.com/wp-content/uploads/sites/3/2010/04/perche_ci_odiano-195x300.jpg 195w" sizes="(max-width: 200px) 100vw, 200px" />in questi giorno sto leggendo questo libro.

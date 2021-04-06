@@ -10,7 +10,7 @@ tags:
 - Politica
 - ridere
 title: 'Oggetto: DECRETO BRUNETTA'
-slug: /2008/09/15/oggetto-decreto-brunetta/
+slug: /2008/09/oggetto-decreto-brunetta/
 ---
 
 <span style="font-family: Arial;font-size: small"><span lang="IT">A tutti i responsabili dell'ufficio del personale</span></span> 

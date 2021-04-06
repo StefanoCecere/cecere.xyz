@@ -9,7 +9,7 @@ tags:
 - umanista
 - USA
 title: '11 Marzo: gli umanisti incontrano Noam Chomsky'
-slug: /2008/03/04/11-marzo-gli-umanisti-incontrano-noam-chomsky/
+slug: /2008/03/11-marzo-gli-umanisti-incontrano-noam-chomsky/
 ---
 
 l'11 marzo una delegazione del Movimento Umanista di [www.europeforpeace.eu](http://www.europeforpeace.eu) incontrerà e intervisterà Noam Chomsky (uno dei più grandi e riconosciuti intellettuali contemporanei statunitensi)

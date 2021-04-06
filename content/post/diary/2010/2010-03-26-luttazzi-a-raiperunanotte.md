@@ -11,7 +11,7 @@ tags:
 - TV
 - video
 title: Luttazzi a RAIperunanotte
-slug: /2010/03/26/luttazzi-a-raiperunanotte/
+slug: /2010/03/luttazzi-a-raiperunanotte/
 ---
 
 per chi se lo fosse perso ieri sera

@@ -8,7 +8,7 @@ tags:
 - apple
 - morte
 title: Sorridi, Steve!
-slug: /2011/10/09/sorridi-steve/
+slug: /2011/10/sorridi-steve/
 ---
 
 <img src="http://stefanocecere.com/wp-content/uploads/sites/3/2011/10/steve.jpg" alt="" title="steve" width="300" height="201" class="alignright size-full wp-image-2697" />la mia premessa "seria" è che la morte è una questione strettamente personale, a cui è bene arrivarci preparati bene, perché, considerandola un "cambiamento di stato", li ti giochi tutto!

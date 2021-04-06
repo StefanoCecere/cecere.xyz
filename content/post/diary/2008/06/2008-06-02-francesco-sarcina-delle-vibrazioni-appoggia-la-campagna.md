@@ -13,7 +13,7 @@ tags:
 - umanista
 - video
 title: Francesco Sarcina delle Vibrazioni appoggia la Campagna
-slug: /2008/06/02/francesco-sarcina-delle-vibrazioni-appoggia-la-campagna/
+slug: /2008/06/francesco-sarcina-delle-vibrazioni-appoggia-la-campagna/
 ---
 
 presto arriva l'intervista completa.

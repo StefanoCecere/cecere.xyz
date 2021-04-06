@@ -7,7 +7,7 @@ tags:
 - crisi
 - Silo
 title: Come avverrà la caduta nell’altra metà del mondo?
-slug: /2009/02/24/come-avverra-la-caduta-nellaltra-meta-del-mondo/
+slug: /2009/02/come-avverra-la-caduta-nellaltra-meta-del-mondo/
 ---
 
 Un noto investitore finanziario (George Soros) [ha dichiarato](http://www.comedonchisciotte.org/site/modules.php?name=News&file=article&sid=5620) che l'attuale crisi finanziaria non solo non ha soluzione in vista, ma che sta portando giù tutto l'occidente come non si è mai visto prima, paragonando la situazione alla caduta dell'Unione Sovietica.

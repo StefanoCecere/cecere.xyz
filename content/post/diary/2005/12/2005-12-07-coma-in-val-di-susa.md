@@ -7,7 +7,7 @@ tags:
 - umanista
 - violenza
 title: coma in Val di Susa
-slug: /2005/12/07/coma-in-val-di-susa/
+slug: /2005/12/coma-in-val-di-susa/
 ---
 
 <img src='/wp-content/val_di_susa_violenza.jpg' alt='' align='left' />vi giro questo frammento di messaggio inviato stanotte da uno del Movimento di Torino:

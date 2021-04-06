@@ -10,7 +10,7 @@ tags:
 - video
 - violenza
 title: Stupri italiani - video inchiesta di Saverio Tommasi
-slug: /2010/04/21/stupri-italian/
+slug: /2010/04/stupri-italian/
 ---
 
 l'amico Saverio Tommasi ha realizzato questo video che consiglio di vedere, far vedere. meditare e far meditare:

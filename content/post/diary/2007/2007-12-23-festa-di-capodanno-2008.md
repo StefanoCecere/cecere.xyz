@@ -10,7 +10,7 @@ tags:
 - Monza
 - ricreazione
 title: Festa di Capodanno 2008
-slug: /2007/12/23/festa-di-capodanno-2008/
+slug: /2007/12/festa-di-capodanno-2008/
 ---
 
 [![capodanno_fannullone_2008.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2007/12/capodanno_fannullone_2008.jpg)](http://www.ilfannullone.it)

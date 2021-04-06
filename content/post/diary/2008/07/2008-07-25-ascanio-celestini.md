@@ -9,6 +9,6 @@ tags:
 - spot
 - video
 title: Ascanio Celestini
-slug: /2008/07/25/ascanio-celestini/
+slug: /2008/07/ascanio-celestini/
 ---
 

@@ -4,7 +4,7 @@ date: 2005-06-10T10:21:04Z
 guid: http://stefanocecere.com/?p=28
 id: 28
 title: libertà di scegliere
-slug: /2005/06/10/libert-di-scegliere/
+slug: /2005/06/libert-di-scegliere/
 ---
 
 è questo il punto fondamentale.

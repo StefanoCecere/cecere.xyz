@@ -11,7 +11,7 @@ tags:
 - vergogna!
 - vicenza
 title: 'Costruzione della base USA Dal Molin: sì farà e sono tutti complici.'
-slug: /2008/03/29/costruzione-della-base-usa-dal-molin-si-fara-e-sono-tutti-complici/
+slug: /2008/03/costruzione-della-base-usa-dal-molin-si-fara-e-sono-tutti-complici/
 ---
 
 nel pregare TUTTI di FIRMARE la petizione per FERMARE la costruzione della mega base radar USA in Repubblica Ceca (vai qui: [www.nonviolence.cz](http://petice.nenasili.cz/index.php?lang=it) ) riporto questo comunicato stampa di ieri del Comitato NO DAL MOLIN (mi dispiace per chi vota PD… ragazzi **non è interessante né necessario amalgamarsi con tutto e tutti pur di avere il potere se poi si deve scendere a compromessi e risultare vergognosamente incoerenti e ipocriti sulle questioni importanti…**):

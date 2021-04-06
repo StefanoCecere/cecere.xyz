@@ -7,7 +7,7 @@ tags:
 - Iran
 - Israele
 title: 'IRAN E ISRAELE: DI CHI AVERE PAURA ?'
-slug: /2009/05/26/iran-e-israele-di-chi-avere-paura/
+slug: /2009/05/iran-e-israele-di-chi-avere-paura/
 ---
 
 riporto questo articolino di Massimo Fini perché mi sembra un punto di vista da tenere in copresenza prima di cadere in semplicistiche considerazioni

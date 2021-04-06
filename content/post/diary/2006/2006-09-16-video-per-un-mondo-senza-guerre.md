@@ -12,7 +12,7 @@ tags:
 - video
 - violenza
 title: Video per un Mondo Senza Guerre…
-slug: /2006/09/16/video-per-un-mondo-senza-guerre/
+slug: /2006/09/video-per-un-mondo-senza-guerre/
 ---
 
 da Praga (grazie Gerardo di esistere) arriva questo video sulla situazione degli armamenti nel mondo (nucleari e convenzionali), le guerre in corso, e soprattutto su cosa si sta svegliando nei cuori e nelle teste della gente con cuore e cervello.

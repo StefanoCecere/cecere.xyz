@@ -9,7 +9,7 @@ tags:
 - Parco Attigliano
 - Silo
 title: Il Saggio delle Ande a Milano
-slug: /2008/09/20/il-saggio-delle-ande-a-milano/
+slug: /2008/09/il-saggio-delle-ande-a-milano/
 ---
 
 <div>

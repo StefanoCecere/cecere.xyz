@@ -9,6 +9,6 @@ tags:
 - Fiorello
 - video
 title: Spot di Fiorello campagna Europe for Peace
-slug: /2008/06/11/spot-di-fiorello-campagna-europe-for-peace/
+slug: /2008/06/spot-di-fiorello-campagna-europe-for-peace/
 ---
 

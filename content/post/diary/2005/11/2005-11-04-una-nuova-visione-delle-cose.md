@@ -8,7 +8,7 @@ tags:
 - spirito
 - umanista
 title: una nuova visione delle cose..
-slug: /2005/11/04/una-nuova-visione-delle-cose/
+slug: /2005/11/una-nuova-visione-delle-cose/
 ---
 
 ![](/wp-content/earth_2.jpg)

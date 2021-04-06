@@ -10,7 +10,7 @@ tags:
 - ridere
 - video
 title: Corrado Guzzanti in Don Pizzarro
-slug: /2008/03/04/corrado-guzzanti-in-don-pizzarro/
+slug: /2008/03/corrado-guzzanti-in-don-pizzarro/
 ---
 
 il ritorno di un mito:

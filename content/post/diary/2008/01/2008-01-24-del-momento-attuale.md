@@ -6,7 +6,7 @@ id: 659
 tags:
 - disarmo nucleare
 title: del momento attuale
-slug: /2008/01/24/del-momento-attuale/
+slug: /2008/01/del-momento-attuale/
 ---
 
 mentre la NATO si prepara ad attacchi nucleari preventivi ([leggi qui](http://www.terra2.tv/2008/01/24/la-nato-pronta-ad-attacchi-nucleari-preventivi/)), il nostro governo vacilla e tutti i politici oggi hanno un sogno: il 5%.

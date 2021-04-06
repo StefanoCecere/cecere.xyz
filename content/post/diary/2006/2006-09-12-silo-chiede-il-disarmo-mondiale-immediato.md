@@ -11,7 +11,7 @@ tags:
 - video
 - violenza
 title: Silo chiede il disarmo mondiale immediato.
-slug: /2006/09/12/silo-chiede-il-disarmo-mondiale-immediato/
+slug: /2006/09/silo-chiede-il-disarmo-mondiale-immediato/
 ---
 
 **"E' arrivato il momento di porre fine alla violenza nel mondo: economica, razziale, religiosa, culturale, sessuale e psicologica.</p> 

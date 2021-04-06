@@ -10,7 +10,7 @@ tags:
 - USA
 - video
 title: Non votare! a meno che… (spot video)
-slug: /2008/10/02/non-votare-a-meno-che-spot-video/
+slug: /2008/10/non-votare-a-meno-che-spot-video/
 ---
 
 molto carino questo video che sta girando come ultimo appello (soprattutto ai giovani americani) di non.. votare alle prossime elezioni! a meno che… 🙂

@@ -7,7 +7,7 @@ id: 225
 tags:
 - ricreazione
 title: stamattina al bancomat…
-slug: /2006/02/09/stamattina-al-bancomat/
+slug: /2006/02/stamattina-al-bancomat/
 ---
 
 ![](/wp-content/berlusconi_al_bancomat.jpg)

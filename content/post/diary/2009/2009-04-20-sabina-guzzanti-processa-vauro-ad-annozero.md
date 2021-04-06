@@ -11,7 +11,7 @@ tags:
 - Vauro
 - video
 title: Sabina Guzzanti processa Vauro (ad Annozero)
-slug: /2009/04/20/sabina-guzzanti-processa-vauro-ad-annozero/
+slug: /2009/04/sabina-guzzanti-processa-vauro-ad-annozero/
 ---
 
 per chi se lo fosse perso (io compreso perchè ero stanco e mi sono addormentato :o) ecco la memorabile arringa di accusa "contro" il vignettista Vauro ad Annozero giovedì scorso: [clicca qui](http://www.rai.tv/dl/RaiTV/programmi/media/ContentItem-33959d68-f31a-4e4c-bb2e-7741b50ddd4d.html?p=0).

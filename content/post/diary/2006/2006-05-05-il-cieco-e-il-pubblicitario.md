@@ -8,7 +8,7 @@ tags:
 - ricreazione
 - spirito
 title: Il cieco e il pubblicitario
-slug: /2006/05/05/il-cieco-e-il-pubblicitario/
+slug: /2006/05/il-cieco-e-il-pubblicitario/
 ---
 
 Un giorno, un uomo non vedente stava seduto sui gradini di un edificio con un cappello ai suoi piedi ed un cartello recante la scritta: "Sono cieco, aiutatemi per favore".

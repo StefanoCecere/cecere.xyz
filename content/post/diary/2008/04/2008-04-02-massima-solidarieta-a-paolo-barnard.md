@@ -8,7 +8,7 @@ tags:
 - report
 - TV
 title: Massima solidarietà a Paolo Barnard
-slug: /2008/04/02/massima-solidarieta-a-paolo-barnard/
+slug: /2008/04/massima-solidarieta-a-paolo-barnard/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/paolo-barnard.jpeg' alt='paolo-barnard.jpeg' align="left" />forse pochi sano della vicenda di uno dei più interessanti (ex)giornalisti del programma televisivo Report.

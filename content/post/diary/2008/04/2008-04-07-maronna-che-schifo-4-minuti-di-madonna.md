@@ -8,7 +8,7 @@ tags:
 - madonna
 - music
 title: Maronna che schifo 4 minuti di Madonna!
-slug: /2008/04/07/maronna-che-schifo-4-minuti-di-madonna/
+slug: /2008/04/maronna-che-schifo-4-minuti-di-madonna/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/madonna_4_minues.jpeg' alt='madonna_4_minues.jpeg' align="left" />la nuova canzone e il nuovo video sono davvero inutili!

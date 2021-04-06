@@ -4,7 +4,7 @@ date: 2006-10-03T10:15:44Z
 guid: http://stefanocecere.com/2006/10/03/come-stanno-andando-le-cose/
 id: 437
 title: Come stanno andando le cose…
-slug: /2006/10/03/come-stanno-andando-le-cose/
+slug: /2006/10/come-stanno-andando-le-cose/
 ---
 
 Nell'ultima settimana sono successe molte cose interessanti:

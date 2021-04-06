@@ -12,7 +12,7 @@ tags:
 - universo
 - video
 title: Alla ricerca del silenzio
-slug: /2011/05/26/alla-ricerca-del-silenzio/
+slug: /2011/05/alla-ricerca-del-silenzio/
 ---
 
 senza silenzio, non saremmo in grado di ascoltare i segnali più sottili.. quelli che vengono dalla profondità dell'Universo e dalla profondità della nostra Coscienza.

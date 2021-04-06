@@ -10,7 +10,7 @@ tags:
 - regole
 - ridere
 title: Rimedio per la gotta!
-slug: /2008/08/19/rimedio-per-la-gotta/
+slug: /2008/08/rimedio-per-la-gotta/
 ---
 
 _ovvero: come interpretare a proprio uso e godimento tutto ciò che c'è._

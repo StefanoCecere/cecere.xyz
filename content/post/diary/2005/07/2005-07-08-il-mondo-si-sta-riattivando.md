@@ -7,7 +7,7 @@ id: 11
 tags:
 - umanista
 title: Il mondo si sta riattivando…
-slug: /2005/07/08/il-mondo-si-sta-riattivando/
+slug: /2005/07/il-mondo-si-sta-riattivando/
 ---
 
 <img src='/wp-content/hirsch_lula_0005.jpg' alt='' align='left' />

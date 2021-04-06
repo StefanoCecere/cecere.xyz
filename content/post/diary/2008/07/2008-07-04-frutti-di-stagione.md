@@ -7,7 +7,7 @@ tags:
 - frutta
 - stagione
 title: Frutti di stagione
-slug: /2008/07/04/frutti-di-stagione/
+slug: /2008/07/frutti-di-stagione/
 ---
 
 ti sei mai chiesto quando è il mese "giusto" per mangiare un frutto?

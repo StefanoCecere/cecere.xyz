@@ -10,7 +10,7 @@ tags:
 - Europe for Peace
 - Terra 2.0
 title: 'Dario Fo: diamo una possibilità alla pace'
-slug: /2008/05/26/dario-fo-diamo-una-possibilita-alla-pace/
+slug: /2008/05/dario-fo-diamo-una-possibilita-alla-pace/
 ---
 
 condivido totalmente (nonostante i perbenisti la possano considerare un po' troppo "forte"): **"chi non prende posizione… è una povera persona."**

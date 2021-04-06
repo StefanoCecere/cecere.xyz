@@ -8,7 +8,7 @@ tags:
 - Barcellona
 - Mondo Senza Guerre
 title: da Barcellona
-slug: /2008/07/18/da-barcellona/
+slug: /2008/07/da-barcellona/
 ---
 
 [<img class="aligncenter size-medium wp-image-1101" title="Gruppo preparazione Marcia Mondiale a Barcellona - venerdì" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/07/2680189609_391254e8f4_o-400x300.jpg" alt="" width="400" height="300" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/07/2680189609_391254e8f4_o.jpg)

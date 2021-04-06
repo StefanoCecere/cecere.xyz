@@ -8,7 +8,7 @@ tags:
 - Monza
 - umanista
 title: 'Elezioni a Monza: mi candido!'
-slug: /2007/03/29/elezioni-a-monza-mi-candido/
+slug: /2007/03/elezioni-a-monza-mi-candido/
 ---
 
 <img src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/03/small_logo_pu.jpg" title="Logo Partito Umanista" alt="Logo Partito Umanista" align="left" />il Partito Umanista si presenta a Monza.

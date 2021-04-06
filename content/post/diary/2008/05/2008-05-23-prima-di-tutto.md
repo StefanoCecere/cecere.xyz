@@ -7,7 +7,7 @@ tags:
 - arte
 - poesia
 title: Prima di tutto…
-slug: /2008/05/23/prima-di-tutto/
+slug: /2008/05/prima-di-tutto/
 ---
 
 **Prima di tutto vennero a prendere gli zingari

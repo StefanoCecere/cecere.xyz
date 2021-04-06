@@ -8,7 +8,7 @@ tags:
 - ricreazione
 - spirito
 title: Se non hai una vita ti impicci di quella degli altri…
-slug: /2007/07/14/se-non-hai-una-vita-ti-impicci-di-quella-degli-altri/
+slug: /2007/07/se-non-hai-una-vita-ti-impicci-di-quella-degli-altri/
 ---
 
 <img src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/07/le_vite_degli_altri.jpg" title="Le Vite degli altri - locandina" alt="Le Vite degli altri - locandina" align="left" />

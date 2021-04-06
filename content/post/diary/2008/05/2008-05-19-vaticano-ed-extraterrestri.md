@@ -11,7 +11,7 @@ tags:
 - ufo
 - vaticano
 title: Vaticano ed Extraterrestri
-slug: /2008/05/19/vaticano-ed-extraterrestri/
+slug: /2008/05/vaticano-ed-extraterrestri/
 ---
 
 non resisto a riportare il commento di Daniele Luttazzi sull' "apertura" dei cattolici alla possibile esistenza di UFO / extraterrestri:

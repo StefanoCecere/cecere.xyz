@@ -9,7 +9,7 @@ tags:
 - Tomas Hirsch
 - umanista
 title: Umanisti in libreria
-slug: /2008/05/11/umanisti-in-libreria/
+slug: /2008/05/umanisti-in-libreria/
 ---
 
 Finalmente nelle librerie di tutta italia (Feltrinelli in primis, ma anche molte altre) due fondamentali libri per tutti gli umanisti:

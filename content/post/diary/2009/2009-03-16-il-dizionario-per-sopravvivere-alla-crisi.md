@@ -7,7 +7,7 @@ tags:
 - crisi
 - idee
 title: Il Dizionario per sopravvivere alla crisi
-slug: /2009/03/16/il-dizionario-per-sopravvivere-alla-crisi/
+slug: /2009/03/il-dizionario-per-sopravvivere-alla-crisi/
 ---
 
 per chi non legge giornali "alternativi" (e ancora vivi.. dato che stanno per chiudere quasi tutti) in questo caso [l'Unità](http://www.unita.it/news/82870/lalfabeto_della_crisi_cosa_fare_per_sopravvivere), riporto qui un interessantissima guida di buone pratiche in vista dei prossimi due anni. sperando poi che si continui la ripresa tenendo a mente un nuovo modello di sviluppo.

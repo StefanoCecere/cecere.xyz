@@ -18,7 +18,7 @@ tags:
 - TV
 - USA
 title: L&#039;Iran distruggerà l&#039;universo!
-slug: /2008/07/13/liran-distruggera-luniverso/
+slug: /2008/07/liran-distruggera-luniverso/
 ---
 
 > Amhadinejad rinnova le minacce contro gli Stati Uniti e Israele,

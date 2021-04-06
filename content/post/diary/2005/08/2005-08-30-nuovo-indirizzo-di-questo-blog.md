@@ -7,7 +7,7 @@ tags:
 - blog
 - internet
 title: nuovo indirizzo di questo blog
-slug: /2005/08/30/nuovo-indirizzo-di-questo-blog/
+slug: /2005/08/nuovo-indirizzo-di-questo-blog/
 ---
 
 oggi ho spostato il mio blog a questo nuovo indirizzo (su un mio server)

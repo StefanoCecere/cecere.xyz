@@ -4,7 +4,7 @@ date: 2005-06-14T14:36:03Z
 guid: http://stefanocecere.com/?p=25
 id: 25
 title: qualcuno si è….
-slug: /2005/06/14/qualcuno-si/
+slug: /2005/06/qualcuno-si/
 ---
 
 una delle cose che si può imparare dalla Storia

@@ -8,6 +8,6 @@ tags:
 - sport
 - video
 title: Ecco cosa può fare un corpo umano ben allenato
-slug: /2009/06/02/ecco-cosa-puo-fare-un-corpo-umano-ben-allenato/
+slug: /2009/06/ecco-cosa-puo-fare-un-corpo-umano-ben-allenato/
 ---
 

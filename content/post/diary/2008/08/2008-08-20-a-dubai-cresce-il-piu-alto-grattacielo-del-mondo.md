@@ -11,7 +11,7 @@ tags:
 - record
 - umanità
 title: a Dubai cresce il più alto grattacielo del mondo
-slug: /2008/08/20/a-dubai-cresce-il-piu-alto-grattacielo-del-mondo/
+slug: /2008/08/a-dubai-cresce-il-piu-alto-grattacielo-del-mondo/
 ---
 
 mentre continuano le evidenze di crisi economiche mondiali e si avvicinano momenti critici, a Dubai (Emirati Arabi) continua veloce la costruzione del più alto grattacielo del mondo, la Burj Dubai Tower…

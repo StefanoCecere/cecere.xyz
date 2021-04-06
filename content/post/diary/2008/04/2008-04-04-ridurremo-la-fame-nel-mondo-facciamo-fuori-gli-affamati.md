@@ -8,7 +8,7 @@ tags:
 - vergogna!
 - violenza
 title: '&quot;Ridurremo la fame nel mondo!&quot; (= facciamo fuori gli affamati!)'
-slug: /2008/04/04/ridurremo-la-fame-nel-mondo-facciamo-fuori-gli-affamati/
+slug: /2008/04/ridurremo-la-fame-nel-mondo-facciamo-fuori-gli-affamati/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/third-world-starvation.thumbnail.jpg' alt='third-world-starvation.jpg' align="left" />sono decenni che continuano a propinare il modello "umanitario" e a dichiararsi solidali con i paesi del terzo mondo.

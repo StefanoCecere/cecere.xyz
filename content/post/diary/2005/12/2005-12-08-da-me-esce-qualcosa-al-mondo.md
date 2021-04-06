@@ -7,7 +7,7 @@ tags:
 - spirito
 - umanista
 title: '…da me esce qualcosa al mondo'
-slug: /2005/12/08/da-me-esce-qualcosa-al-mondo/
+slug: /2005/12/da-me-esce-qualcosa-al-mondo/
 ---
 
 <img src='/wp-content/krur_quadro.jpg' alt='' align='left' />guardo il lato positivo: sempre più persone si stanno accorgendo della criticità del momento storico che stiamo vivendo. e in più risponde! siamo testimoni di risposte (intendendo risposte date con **azioni** nel mondo) che 30, 20 o solo 10, 5 ma anche 3 anni fa erano auspicate ma inesistenti (la realtà era fatta più che altro di sconnessione, di derisione o disinteresse).

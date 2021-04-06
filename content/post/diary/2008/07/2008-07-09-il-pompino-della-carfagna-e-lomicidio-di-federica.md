@@ -15,7 +15,7 @@ tags:
 - tasse
 - vergogna!
 title: Il pompino della Carfagna e l&#039;omicidio di Federica
-slug: /2008/07/09/il-pompino-della-carfagna-e-lomicidio-di-federica/
+slug: /2008/07/il-pompino-della-carfagna-e-lomicidio-di-federica/
 ---
 
 giusto due righe per dichiarare il mio totale continuato e ribollito imbarazzo di fronte ai primi 5 minuti di (quasi) tutti i telegiornali nazionali e i maggiori quotidiani.

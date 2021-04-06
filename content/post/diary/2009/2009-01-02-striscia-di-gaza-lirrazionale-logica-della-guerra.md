@@ -8,7 +8,7 @@ tags:
 - Israele
 - Palestina
 title: 'Striscia di Gaza: L&#039;irrazionale logica della Guerra'
-slug: /2009/01/02/striscia-di-gaza-lirrazionale-logica-della-guerra/
+slug: /2009/01/striscia-di-gaza-lirrazionale-logica-della-guerra/
 ---
 
 _27 dicembre 2008_

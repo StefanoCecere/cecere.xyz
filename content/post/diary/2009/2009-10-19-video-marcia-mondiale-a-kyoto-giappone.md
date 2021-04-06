@@ -7,6 +7,6 @@ id: 1962
 tags:
 - video
 title: Video Marcia Mondiale a Kyoto, Giappone
-slug: /2009/10/19/video-marcia-mondiale-a-kyoto-giappone/
+slug: /2009/10/video-marcia-mondiale-a-kyoto-giappone/
 ---
 

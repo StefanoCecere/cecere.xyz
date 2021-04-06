@@ -8,7 +8,7 @@ tags:
 - ricreazione
 - umanista
 title: 'agosto 2006: tutti in campeggio!'
-slug: /2006/06/15/agosto-2006-tutti-in-campeggio/
+slug: /2006/06/agosto-2006-tutti-in-campeggio/
 ---
 
 se ci sei già stato vorrai solo sapere dove è e non vedi l'ora che arrivi il 1 agosto per partire..

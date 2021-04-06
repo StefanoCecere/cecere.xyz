@@ -7,7 +7,7 @@ tags:
 - spirito
 - umanista
 title: Principio di comprensione dell'azione
-slug: /2005/12/13/principio-di-comprensione-dellazione/
+slug: /2005/12/principio-di-comprensione-dellazione/
 ---
 
 [<img src="http://www.clum.net/md/upload/sub/principi08.jpg" align='left' />](http://www.clum.net/md/mod-subjects-viewpage-pageid-16.html)**"Farai sparire i tuoi conflitti quando li avrai compresi nella loro radice ultima, non quando li vorrai risolvere."**

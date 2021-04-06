@@ -8,7 +8,7 @@ tags:
 - Iraq
 - umanista
 title: "sabato 26 a Monza: via dall'Iraq"
-slug: /2005/11/22/sabato-26-a-monza-via-dalliraq/
+slug: /2005/11/sabato-26-a-monza-via-dalliraq/
 ---
 
 ![](/wp-content/strisciavideo.jpg)

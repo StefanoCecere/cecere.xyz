@@ -10,7 +10,7 @@ tags:
 - USA
 - video
 title: Video sintesi campagna No allo Scudo Spaziale
-slug: /2008/07/09/video-sintesi-campagna-no-allo-scudo-spaziale/
+slug: /2008/07/video-sintesi-campagna-no-allo-scudo-spaziale/
 ---
 
 sebbene ieri a Praga abbiano firmato l'accordo (e qualche giornale oggi ne ha parlato .. soprattutto per via del commento di Mosca "dovremo reagire militarmente, e non più diplomaticamente, a tale progetto") le cose vanno avanti.

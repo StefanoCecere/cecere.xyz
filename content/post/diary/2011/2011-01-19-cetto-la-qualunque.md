@@ -10,7 +10,7 @@ tags:
 - Politica
 - TV
 title: Cetto la Qualunque
-slug: /2011/01/19/cetto-la-qualunque/
+slug: /2011/01/cetto-la-qualunque/
 ---
 
 di video su Youtube ce ne sono a centinaia.. ne riporto i primi due che ho trovato.. grazie Antonio!

@@ -9,7 +9,7 @@ tags:
 - ricreazione
 - ridere
 title: Giuliano Ferrara partorirà con dolore (di Stefano Disegni)
-slug: /2008/03/31/giuliano-ferrara-partorira-con-dolore-di-stefano-disegni/
+slug: /2008/03/giuliano-ferrara-partorira-con-dolore-di-stefano-disegni/
 ---
 
 adoro la rivista [Linus](http://www.linus.net). e in questo numero in edicola è assolutamente strepitosa la vignetta di S[tefano Disegni](http://www.stefanodisegni.it/) su Giuliano Ferrara e il suo pallino anti-abortista. leggere per credere!

@@ -9,7 +9,7 @@ tags:
 - finanza
 - video
 title: Mandateli tutti in galera
-slug: /2008/09/30/mandateli-tutti-in-galera/
+slug: /2008/09/mandateli-tutti-in-galera/
 ---
 
 non posso non avere il dente avvelenato.

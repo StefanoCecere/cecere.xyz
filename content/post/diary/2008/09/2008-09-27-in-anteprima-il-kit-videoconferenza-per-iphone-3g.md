@@ -8,7 +8,7 @@ tags:
 - ridere
 - tecnologia
 title: In anteprima il Kit videoconferenza per iPhone 3G!!
-slug: /2008/09/27/in-anteprima-il-kit-videoconferenza-per-iphone-3g/
+slug: /2008/09/in-anteprima-il-kit-videoconferenza-per-iphone-3g/
 ---
 
 è quello che tutti i (fortunati) possessori del nuovo iPhone 3G aspettavano.. e l'ha fatto proprio la Apple ufficiale.. sono troppo avanti… non c'è altro da dire.

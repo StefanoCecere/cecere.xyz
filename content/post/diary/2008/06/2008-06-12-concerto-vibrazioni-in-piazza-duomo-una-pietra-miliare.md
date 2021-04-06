@@ -13,7 +13,7 @@ tags:
 - umanista
 - Vibrazioni
 title: 'Concerto Vibrazioni in Piazza Duomo: una pietra miliare'
-slug: /2008/06/12/concerto-vibrazioni-in-piazza-duomo-una-pietra-miliare/
+slug: /2008/06/concerto-vibrazioni-in-piazza-duomo-una-pietra-miliare/
 ---
 
 **mercoledì 11 giugno 2008** credo passerà alla storia (quanto meno la mia personale) come **una pietra miliare per l'umanizzazione della terra.**

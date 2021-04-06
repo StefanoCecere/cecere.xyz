@@ -7,7 +7,7 @@ tags:
 - ricreazione
 - tecnologia
 title: 'Signore e Signori.. ecco a voi il mondo:'
-slug: /2006/06/07/signore-e-signori-ecco-a-voi-il-mondo/
+slug: /2006/06/signore-e-signori-ecco-a-voi-il-mondo/
 ---
 
 <a target="_blank" href="http://tools.google.com/gapminder/"></p> 

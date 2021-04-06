@@ -10,7 +10,7 @@ tags:
 - vergogna!
 - violenza
 title: 'film &quot;Redacted&quot;: ecco cosa è veramente la guerra'
-slug: /2008/04/22/film-redacted-ecco-cosa-e-veramente-la-guerra/
+slug: /2008/04/film-redacted-ecco-cosa-e-veramente-la-guerra/
 ---
 
 Il film di Brian de Palma su cosa sta succedendo davvero(e non in modo "rielaborato", come il titolo in inglese ben indica) in Iraq.

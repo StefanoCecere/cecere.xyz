@@ -6,7 +6,7 @@ id: 468
 tags:
 - umanista
 title: 'Gli Umanisti:'
-slug: /2006/12/12/gli-umanisti/
+slug: /2006/12/gli-umanisti/
 ---
 
 sono molto felice di tutto, ma anche un po' stanco di sentire e vedere nichilismo, rassegnazione, sconnessione,  incoerenza, superficialità, violenza e superbia.

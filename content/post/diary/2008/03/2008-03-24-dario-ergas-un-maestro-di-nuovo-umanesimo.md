@@ -10,7 +10,7 @@ tags:
 - Terra 2.0
 - umanista
 title: 'Dario Ergas: un maestro di nuovo umanesimo'
-slug: /2008/03/24/dario-ergas-un-maestro-di-nuovo-umanesimo/
+slug: /2008/03/dario-ergas-un-maestro-di-nuovo-umanesimo/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/dario_ergas_b.jpg' alt='dario_ergas_b.jpg' align="left" />Non ho alcuna difficoltà a ricordare il cileno Dario Ergas quale uno dei miei maestri. Ho letto i suoi libri (fulminante è stato "il Senso del Nonsenso") e l'ho conosciuto incontrandolo più volte in giro per il mondo.

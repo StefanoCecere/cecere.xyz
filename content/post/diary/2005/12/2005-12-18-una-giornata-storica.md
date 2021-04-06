@@ -6,7 +6,7 @@ id: 186
 tags:
 - spirito
 title: una giornata storica
-slug: /2005/12/18/una-giornata-storica/
+slug: /2005/12/una-giornata-storica/
 ---
 
 <img src='/wp-content/senti_come_te_la_suono.jpg' alt='guarda come te la suono!' title='guarda come te la suono!' align='left' />per quanto mi riguarda, ieri è stata una giornata da segnarmi nel libro della storia della mia vita:

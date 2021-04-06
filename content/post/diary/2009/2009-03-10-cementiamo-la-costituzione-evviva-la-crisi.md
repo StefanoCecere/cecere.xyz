@@ -11,7 +11,7 @@ tags:
 - ridere
 - speculazione
 title: Cementiamo la costituzione! evviva la crisi!
-slug: /2009/03/10/cementiamo-la-costituzione-evviva-la-crisi/
+slug: /2009/03/cementiamo-la-costituzione-evviva-la-crisi/
 ---
 
 nonostante il mio essere non proprietario di alcun immobile sinceramente non ho grandi motivazioni per essere \_contro\_ le idee di cemento dell'attuale governo.. certo da un **palazzinaro furbacchione** non ci si può certo aspettare che individui nella riduzione dei consumi e nella produzione di energie alternative il business del futuro (e che forse ci può aiutare ad uscire sani).

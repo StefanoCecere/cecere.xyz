@@ -12,7 +12,7 @@ tags:
 - soldi
 - video
 title: i soldi vengono creati dal nulla
-slug: /2012/05/21/i-soldi-vengono-creati-dal-nulla/
+slug: /2012/05/i-soldi-vengono-creati-dal-nulla/
 ---
 
 guardate questa video intervista a [Warren Mosler](http://it.wikipedia.org/wiki/Warren_Mosler) tenuta sabato scorso a Venezia (evento organizzato da Paolo Barnard)

@@ -6,7 +6,7 @@ id: 175
 tags:
 - Cile
 title: 'elezioni in Cile: tre uomini e una…'
-slug: /2005/12/11/elezioni-in-cile-tre-uomini-e-una/
+slug: /2005/12/elezioni-in-cile-tre-uomini-e-una/
 ---
 
 <img src='/wp-content/4amigos.jpg' alt='' align='left' />oggi in Cile ci sono le tanto attese elezioni presidenziali, dove l’umanista Tomas Hirsch (alla guida della coalizione di vera sinistra Juntos Podemos Mas), è in lizza insieme alla (favorita) candidata della Concertation (centrosinistra al governo da tre legislature), e due di destra.

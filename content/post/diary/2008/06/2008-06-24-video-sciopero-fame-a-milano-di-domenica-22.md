@@ -14,7 +14,7 @@ tags:
 - sushi
 - video
 title: Video Sciopero Fame a Milano di domenica 22
-slug: /2008/06/24/video-sciopero-fame-a-milano-di-domenica-22/
+slug: /2008/06/video-sciopero-fame-a-milano-di-domenica-22/
 ---
 
 ecco una video sintesi di domenica pomeriggio scorso in Cordusio (Duomo di Milano):

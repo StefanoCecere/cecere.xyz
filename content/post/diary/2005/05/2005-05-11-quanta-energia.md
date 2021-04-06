@@ -4,7 +4,7 @@ date: 2005-05-11T18:36:17Z
 guid: http://stefanocecere.com/?p=47
 id: 47
 title: quanta energia…
-slug: /2005/05/11/quanta-energia/
+slug: /2005/05/quanta-energia/
 ---
 
 <img src="http://idd02n82.eresmas.net/esoterismo/fotos/energia.jpg" width="250" height="160" align="left" />avete mai pensato a quanta energia.. e con energia intendo: intelligenza, creatività, soldi, materie prime, tempo, muscoli, pensieri… viene dedicata a cose inutili o secondarie? o ancora peggio viene strumentalizzata dalla speculazione?

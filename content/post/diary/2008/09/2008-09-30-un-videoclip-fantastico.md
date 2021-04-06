@@ -11,7 +11,7 @@ tags:
 - riconciliazione
 - video
 title: un videoclip fantastico
-slug: /2008/09/30/un-videoclip-fantastico/
+slug: /2008/09/un-videoclip-fantastico/
 ---
 
 un videoclip del gruppo tedesco [Sportfreunde Stiller](http://it.wikipedia.org/wiki/Sportfreunde_Stiller).

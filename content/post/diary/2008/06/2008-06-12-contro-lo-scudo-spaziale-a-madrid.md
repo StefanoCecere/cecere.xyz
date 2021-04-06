@@ -8,7 +8,7 @@ tags:
 - madrid
 - scudo spaziale
 title: contro lo Scudo Spaziale a Madrid
-slug: /2008/06/12/contro-lo-scudo-spaziale-a-madrid/
+slug: /2008/06/contro-lo-scudo-spaziale-a-madrid/
 ---
 
 bella idea vero?

@@ -7,7 +7,7 @@ id: 1807
 tags:
 - spagna
 title: 'Marcia Mondiale in Spagna: Pedro Almodovar!'
-slug: /2009/05/21/marcia-mondiale-in-spagna-pedro-almodovar/
+slug: /2009/05/marcia-mondiale-in-spagna-pedro-almodovar/
 ---
 
 chissà quanti stanno seguendo le evoluzioni del progetto della Marcia Mondiale per la Pace e la Nonviolenza.. che si sta configurando come il più grande progetto pacifista della storia umana.

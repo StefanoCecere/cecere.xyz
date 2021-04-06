@@ -8,7 +8,7 @@ tags:
 - Parigi
 - violenza
 title: Parigi in fiamme… presto la pillola!
-slug: /2005/11/06/parigi-in-fiamme-presto-la-pillola/
+slug: /2005/11/parigi-in-fiamme-presto-la-pillola/
 ---
 
 <img src='/wp-content/pariginfiamme.jpg' alt='' align='left' />spero che qualcuno si connetta veramente con quello che sta succedendo.

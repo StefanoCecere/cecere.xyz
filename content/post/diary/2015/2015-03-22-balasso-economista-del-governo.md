@@ -8,7 +8,7 @@ tags:
 - Balasso
 - economia
 title: Balasso economista del governo
-slug: /2015/03/22/balasso-economista-del-governo/
+slug: /2015/03/balasso-economista-del-governo/
 ---
 
 sarà, ma a me il [Natalino Balasso](http://www.natalinobalasso.net/){.profileLink} mi è estremamente simpatico

@@ -7,7 +7,7 @@ tags:
 - Berlusconi
 - vignetta
 title: Io gli avrei dato un ceffone o una ginocchiata nelle palle…
-slug: /2009/05/08/io-gli-avrei-dato-un-ceffone-o-una-ginocchiata-nelle-palle/
+slug: /2009/05/io-gli-avrei-dato-un-ceffone-o-una-ginocchiata-nelle-palle/
 ---
 
 non so quanti hanno visto e riflettuto sulla "malattia" del nostro premiere (il "primo cittadino" d'Italia? tipo il capo classe o il capitano di una nave… che dovrebbe rappresentarci, guidarci etc?.. oddio)

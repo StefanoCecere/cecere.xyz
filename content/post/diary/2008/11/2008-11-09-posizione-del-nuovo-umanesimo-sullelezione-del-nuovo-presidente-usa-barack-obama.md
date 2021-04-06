@@ -13,7 +13,7 @@ tags:
 - USA
 title: Posizione del Nuovo Umanesimo sull'elezione del nuovo presidente USA
   Barack Obama.
-slug: /2008/11/09/posizione-del-nuovo-umanesimo-sullelezione-del-nuovo-presidente-usa-barack-obama/
+slug: /2008/11/posizione-del-nuovo-umanesimo-sullelezione-del-nuovo-presidente-usa-barack-obama/
 ---
 
 _leggo, condivido, diffondo:_

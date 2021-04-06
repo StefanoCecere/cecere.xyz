@@ -7,6 +7,6 @@ tags:
 - arte
 - video
 title: Un anno in 40 secondi….
-slug: /2009/01/04/un-anno-in-40-secondi/
+slug: /2009/01/un-anno-in-40-secondi/
 ---
 

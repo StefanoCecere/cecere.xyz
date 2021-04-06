@@ -8,7 +8,7 @@ tags:
 - economia
 - finanza
 title: Assassini finanziari
-slug: /2011/07/10/assassini-finanziari/
+slug: /2011/07/assassini-finanziari/
 ---
 
 rigiro questo articolino di Jacopo Fo, perché riesce con parole molto semplici ad accennare ai veri criminali di questo periodo. Per chi volesse approfondire suggerisco il saggio "Il Più Grande Crimine" di [Paolo Barnard](http://paolobarnard.info/interventi_indice.php). Ma vi avviso: **conoscere questa verità cambierà per sempre il modo in cui si vedono il mondo e i suoi più idolatrati abitanti**.

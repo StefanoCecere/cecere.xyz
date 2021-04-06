@@ -8,7 +8,7 @@ tags:
 - Noam Chomsky
 - umanista
 title: Incontro con Noam Chomsky e Forum Umanista a New York
-slug: /2007/09/06/incontro-con-noam-chomsky-e-forum-umanista-a-new-york/
+slug: /2007/09/incontro-con-noam-chomsky-e-forum-umanista-a-new-york/
 ---
 
 <img src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/09/noam_chomsky.jpg" title="noam_chomsky.jpg" alt="noam_chomsky.jpg" align="left" height="190" width="132" />dal 16 al 18 novembre sarò a New York a partecipare al Forum Umanista Nordamericano: vedi <a href="http://www.newhumanistforum.org" target="_blank">www.newhumanistforum.org</a> per i dettagli o contattami se vuoi venire con me.

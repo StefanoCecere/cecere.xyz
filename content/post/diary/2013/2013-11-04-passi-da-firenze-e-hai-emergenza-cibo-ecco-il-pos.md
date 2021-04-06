@@ -6,7 +6,7 @@ format: status
 guid: http://twitter-397341293439102976-post
 id: 4791
 title: Passi da Firenze e hai emergenza cibo? Ecco il pos…
-slug: /2013/11/04/passi-da-firenze-e-hai-emergenza-cibo-ecco-il-pos/
+slug: /2013/11/passi-da-firenze-e-hai-emergenza-cibo-ecco-il-pos/
 ---
 
 Passi da Firenze e hai emergenza cibo? Ecco il posto definitivo! Panino più buono mai mangiato (cheap also) http://t.co/KJ64O9msTm

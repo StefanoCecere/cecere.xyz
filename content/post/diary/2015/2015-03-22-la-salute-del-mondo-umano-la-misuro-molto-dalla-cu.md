@@ -6,7 +6,7 @@ format: status
 guid: http://twitter-579593817818591232-post
 id: 5623
 title: la salute del mondo umano la misuro molto dalla cu…
-slug: /2015/03/22/la-salute-del-mondo-umano-la-misuro-molto-dalla-cu/
+slug: /2015/03/la-salute-del-mondo-umano-la-misuro-molto-dalla-cu/
 ---
 
 la salute del mondo umano la misuro molto dalla cura che si ha per i più deboli e sfortunati.

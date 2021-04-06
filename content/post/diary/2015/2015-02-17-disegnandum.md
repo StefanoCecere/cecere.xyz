@@ -8,7 +8,7 @@ tags:
 - design
 - libri
 title: disegnandum
-slug: /2015/02/17/disegnandum/
+slug: /2015/02/disegnandum/
 ---
 
 <img class="alignnone size-medium wp-image-5698" src="http://stefanocecere.com/wp-content/uploads/sites/3/2015/03/disegnum-427x320.jpg" alt="disegnum" width="427" height="320" />

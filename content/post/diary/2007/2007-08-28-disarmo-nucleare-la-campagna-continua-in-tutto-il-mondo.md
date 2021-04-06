@@ -9,7 +9,7 @@ tags:
 - Politica
 - umanista
 title: 'disarmo nucleare: la Campagna continua in tutto il mondo'
-slug: /2007/08/28/disarmo-nucleare-la-campagna-continua-in-tutto-il-mondo/
+slug: /2007/08/disarmo-nucleare-la-campagna-continua-in-tutto-il-mondo/
 ---
 
 [<img src="http://www.europeforpeace.eu/images/declaration.jpg" alt="" align="left" />](http://www.europeforpeace.eu/)è bello agire in una direzione sapendo che intorno molti altri lo stanno facendo.

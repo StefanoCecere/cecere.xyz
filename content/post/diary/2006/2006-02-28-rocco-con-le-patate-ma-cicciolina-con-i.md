@@ -9,7 +9,7 @@ tags:
 - ridere
 - sesso
 title: rocco con le patate, ma cicciolina con i…
-slug: /2006/02/28/rocco-con-le-patate-ma-cicciolina-con-i/
+slug: /2006/02/rocco-con-le-patate-ma-cicciolina-con-i/
 ---
 
 ![Cicciolina e i bastoncini](/wp-content/cicciolina_e_i_bastoncini.jpg)

@@ -10,7 +10,7 @@ tags:
 - spirito
 title: 'Video di Hugo Chavez all&#039;ONU: il diavolo, l&#039;imperialismo e Noam
   Chomsky'
-slug: /2006/09/23/video-di-hugo-chavez-allonu-il-diavolo-limperialismo-e-noam-chomsky/
+slug: /2006/09/video-di-hugo-chavez-allonu-il-diavolo-limperialismo-e-noam-chomsky/
 ---
 
 <img align="left" alt="chavez_onu_chomsky.jpg" id="image426" title="chavez_onu_chomsky.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/09/chavez_onu_chomsky.jpg" />

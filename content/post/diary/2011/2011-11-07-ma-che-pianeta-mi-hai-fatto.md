@@ -10,7 +10,7 @@ tags:
 - mondo
 - società
 title: Ma che pianeta mi hai fatto?
-slug: /2011/11/07/ma-che-pianeta-mi-hai-fatto/
+slug: /2011/11/ma-che-pianeta-mi-hai-fatto/
 ---
 
 _erano mesi che non davo un occhio al blog di Beppe Grillo.. l'ho fatto poco fa (con il caffé in mano) dato che giornali e telegiornali sono inguardabili e volevo vedere cosa diceva di questi tempi.. ho trovato il seguente [post](http://www.beppegrillo.it/2011/11/ma_che_pianeta_mi_hai_fatto/index.html) molto simpatico e in tono _

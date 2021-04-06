@@ -6,7 +6,7 @@ id: 198
 tags:
 - umanista
 title: Anno nuovo, Locale nuovo, Sito Nuovo
-slug: /2005/12/30/anno-nuovo-locale-nuovo-sito-nuovo/
+slug: /2005/12/anno-nuovo-locale-nuovo-sito-nuovo/
 ---
 
 molte attività in questi giorni.

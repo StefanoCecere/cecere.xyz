@@ -6,7 +6,7 @@ id: 227
 tags:
 - ricreazione
 title: 'STORACE: SE L’UCCELLO NON SI MUOVE, NON TOCCATELO!'
-slug: /2006/02/16/storace-se-luccello-non-si-muove-non-toccatelo/
+slug: /2006/02/storace-se-luccello-non-si-muove-non-toccatelo/
 ---
 
 PROGRAMMA DI 278 PAGINE DELLA SINISTRA: PAGINA UNO: LA TAV SI FARA’ E BASTA !!

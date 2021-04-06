@@ -10,7 +10,7 @@ tags:
 - Terra 2.0
 - umanista
 title: DON&#039;T WAR. BE HAPPY!
-slug: /2008/03/12/no-war-be-happy/
+slug: /2008/03/no-war-be-happy/
 ---
 
 ![DON’T WAR. BE HAPPY](http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/dont-war-be-happy_500.png)

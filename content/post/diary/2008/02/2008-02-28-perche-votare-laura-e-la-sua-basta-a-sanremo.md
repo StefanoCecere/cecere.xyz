@@ -9,7 +9,7 @@ tags:
 - Terra 2.0
 - violenza
 title: Perché votare L&#039;Aura e la sua &quot;Basta!&quot; a Sanremo
-slug: /2008/02/28/perche-votare-laura-e-la-sua-basta-a-sanremo/
+slug: /2008/02/perche-votare-laura-e-la-sua-basta-a-sanremo/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/02/l_aura_sanremo_2008.png' alt='l_aura_sanremo_2008.png' align="left" />sapevo che L'Aura avrebbe portato a Sanremo una canzone contro la violenza.

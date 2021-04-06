@@ -12,7 +12,7 @@ tags:
 - Monza
 - ricreazione
 title: 'Cineforum: Sicko'
-slug: /2008/04/09/cineforum-sicko/
+slug: /2008/04/cineforum-sicko/
 ---
 
 **giovedì questo 10 aprile il film al cineforum è Sicko.**

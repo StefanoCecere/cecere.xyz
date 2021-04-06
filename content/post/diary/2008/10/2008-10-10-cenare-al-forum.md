@@ -7,7 +7,7 @@ tags:
 - comunicazione
 - Forum
 title: Cenare al Forum
-slug: /2008/10/10/cenare-al-forum/
+slug: /2008/10/cenare-al-forum/
 ---
 
 comunicazione di servizio per chi vuole partecipare alle due gradi cene (del venerdì e del sabato):

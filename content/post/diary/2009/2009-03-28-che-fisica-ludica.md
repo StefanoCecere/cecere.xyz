@@ -7,7 +7,7 @@ tags:
 - scienza
 - videogiochi
 title: Che fisica! (ludica)
-slug: /2009/03/28/che-fisica-ludica/
+slug: /2009/03/che-fisica-ludica/
 ---
 
 ci sono dei videogiochi che sono davvero avanti:

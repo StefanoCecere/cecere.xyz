@@ -7,7 +7,7 @@ tags:
 - elezioni
 - Politica
 title: Io sono qui (per chi voto?)
-slug: /2008/04/08/io-sono-qui/
+slug: /2008/04/io-sono-qui/
 ---
 
 ![io_sono_qui.png](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/io_sono_qui.png)

@@ -7,7 +7,7 @@ tags:
 - violenza
 - Tempi moderni
 title: attentati a Londra..
-slug: /2005/07/07/attentati-a-londra/
+slug: /2005/07/attentati-a-londra/
 ---
 
 lasciano sempre molto vuoto del cuore, certi eventi…

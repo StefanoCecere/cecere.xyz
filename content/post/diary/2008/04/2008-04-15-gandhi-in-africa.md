@@ -11,7 +11,7 @@ tags:
 - Terra 2.0
 - umanista
 title: Gandhi in Africa
-slug: /2008/04/15/gandhi-in-africa/
+slug: /2008/04/gandhi-in-africa/
 ---
 
 l'amica Elena sono molti mesi ormai che è in Tanzania come volontaria per diversi progetti umanitari.

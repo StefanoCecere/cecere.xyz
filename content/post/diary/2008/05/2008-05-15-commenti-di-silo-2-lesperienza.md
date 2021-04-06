@@ -10,7 +10,7 @@ tags:
 - spiritualità
 - video
 title: 'Commenti di Silo #2: L&#039;ESPERIENZA'
-slug: /2008/05/15/commenti-di-silo-2-lesperienza/
+slug: /2008/05/commenti-di-silo-2-lesperienza/
 ---
 
 per ora solo in spagnolo.. a breve in italiano.

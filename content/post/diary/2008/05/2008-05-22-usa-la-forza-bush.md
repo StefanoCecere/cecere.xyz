@@ -14,7 +14,7 @@ tags:
 - petizione
 - scudo spaziale
 title: USA LA FORZA, BUSH!
-slug: /2008/05/22/usa-la-forza-bush/
+slug: /2008/05/usa-la-forza-bush/
 ---
 
 Venerdì dale 17:00 alle 19:30 … davanti al consolato americano in Via Turati:

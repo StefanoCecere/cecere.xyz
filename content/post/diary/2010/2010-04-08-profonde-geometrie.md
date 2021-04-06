@@ -11,7 +11,7 @@ tags:
 - spazio
 - video
 title: profonde geometrie
-slug: /2010/04/08/profonde-geometrie/
+slug: /2010/04/profonde-geometrie/
 ---
 
 a me questo video commuove

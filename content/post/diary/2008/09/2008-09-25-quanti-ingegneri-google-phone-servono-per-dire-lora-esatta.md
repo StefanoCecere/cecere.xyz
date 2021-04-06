@@ -8,7 +8,7 @@ tags:
 - ridere
 - tecnologia
 title: Quanti ingegneri Google Phone servono per dire l&#039;ora esatta?
-slug: /2008/09/25/quanti-ingegneri-google-phone-servono-per-dire-lora-esatta/
+slug: /2008/09/quanti-ingegneri-google-phone-servono-per-dire-lora-esatta/
 ---
 
 ecco una delle immagini promozionali in anteprima del nuovo telefono Android firmato Google.. direi che la Apple può stare tranquilla ancora per qualche ora 🙂

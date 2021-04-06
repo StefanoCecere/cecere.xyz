@@ -7,7 +7,7 @@ tags:
 - Futuro
 - umanista
 title: uomini con qualcosa in comune…
-slug: /2005/10/23/uomini-con-qualcosa-in-comune/
+slug: /2005/10/uomini-con-qualcosa-in-comune/
 ---
 
 1 - Leonardo Da Vinci

@@ -9,7 +9,7 @@ tags:
 - simboli
 - votare
 title: Sulla falsa argomentazione delle preferenze nominali alle elezioni
-slug: /2008/04/09/sulla-falsa-argomentazione-delle-preferenze-nominali-alle-elezioni/
+slug: /2008/04/sulla-falsa-argomentazione-delle-preferenze-nominali-alle-elezioni/
 ---
 
 molto argomentare si sta facendo sul fatto che la nostra democrazia è in pericolo perché non si può scegliere direttamente il proprio candidato alle elezioni.

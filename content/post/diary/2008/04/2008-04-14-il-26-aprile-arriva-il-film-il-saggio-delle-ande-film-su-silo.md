@@ -10,7 +10,7 @@ tags:
 - spirito
 - Terra 2.0
 title: il 26 aprile arriva il film &quot;Il Saggio delle Ande&quot; (film su Silo)
-slug: /2008/04/14/il-26-aprile-arriva-il-film-il-saggio-delle-ande-film-su-silo/
+slug: /2008/04/il-26-aprile-arriva-il-film-il-saggio-delle-ande-film-su-silo/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/silo.png' alt='silo.png' align="left" />sarà presentato in anteprima mondiale in california il film "Sage of the Andes", un film documentario del regista internazionale Daniel Zuckerbrot, sulla vita dell'argentino Mario Rodriguez Cobos, detto "Silo".

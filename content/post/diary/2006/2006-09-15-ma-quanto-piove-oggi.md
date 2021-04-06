@@ -6,7 +6,7 @@ id: 417
 tags:
 - ricreazione
 title: MA QUANTO PIOVE OGGI!!??!?!?!
-slug: /2006/09/15/ma-quanto-piove-oggi/
+slug: /2006/09/ma-quanto-piove-oggi/
 ---
 
 hanno messo il mare in cielo e poi l'hanno lasciato andare? 🙂

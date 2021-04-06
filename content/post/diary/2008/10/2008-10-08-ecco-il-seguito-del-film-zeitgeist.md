@@ -11,7 +11,7 @@ tags:
 - violenza
 - zeitgeist
 title: Ecco il seguito del film Zeitgeist
-slug: /2008/10/08/ecco-il-seguito-del-film-zeitgeist/
+slug: /2008/10/ecco-il-seguito-del-film-zeitgeist/
 ---
 
 chi ha già visto il film sa di cosa parliamo. da qualche giorno è disponibile sul sito ufficiale [http://www.zeitgeistmovie.com](http://www.zeitgeistmovie.com/)

@@ -8,7 +8,7 @@ tags:
 - ridere
 - video
 title: Un gatto e la sua scatola
-slug: /2008/11/02/un-gatto-e-la-sua-scatola/
+slug: /2008/11/un-gatto-e-la-sua-scatola/
 ---
 
 troppo simpatico 🙂

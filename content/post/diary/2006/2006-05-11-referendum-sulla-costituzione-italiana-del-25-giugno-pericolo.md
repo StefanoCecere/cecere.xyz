@@ -7,7 +7,7 @@ tags:
 - referendum
 - umanista
 title: 'Referendum sulla Costituzione Italiana del 25 giugno: PERICOLO!'
-slug: /2006/05/11/referendum-sulla-costituzione-italiana-del-25-giugno-pericolo/
+slug: /2006/05/referendum-sulla-costituzione-italiana-del-25-giugno-pericolo/
 ---
 
 se ne è parlato un poco a novembre, e poi silenzio… ma sta arrivando il giorno politico più importante della storia italiana degli ultimi 50 anni (altro che elezioni di quell'uno o quell'altro): il Referendum Costituzionale del 25/26 giugno 2006.

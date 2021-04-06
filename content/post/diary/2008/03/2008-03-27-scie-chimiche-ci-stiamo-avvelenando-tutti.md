@@ -6,7 +6,7 @@ id: 781
 tags:
 - video
 title: 'Scie chimiche: ci stiamo avvelenando tutti?'
-slug: /2008/03/27/scie-chimiche-ci-stiamo-avvelenando-tutti/
+slug: /2008/03/scie-chimiche-ci-stiamo-avvelenando-tutti/
 ---
  
 una cosa a sfavore delle scie chimiche (o quanto meno della loro totale malvagità) è: esse sono molto "democratiche".. ovvero non distinguono scienziati, politici, dagli uomini comuni… siamo sicuri che qualcuno si butterebbe tali robe sulla propria testa?

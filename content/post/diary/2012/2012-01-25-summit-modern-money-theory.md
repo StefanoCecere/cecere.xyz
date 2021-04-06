@@ -10,7 +10,7 @@ tags:
 - economia
 - evento
 title: Summit Modern Money Theory
-slug: /2012/01/25/summit-modern-money-theory/
+slug: /2012/01/summit-modern-money-theory/
 ---
 
 dal 24 al 26 febbraio sarò a Rimini assieme ad altre centinaia di interessati/attivisti per partecipare a questo evento. Non ometto di invitarti a prenderne conoscenza ed eventualmente parteciparvi. Altri dettagli sul sito [www.democraziammt.info](http://www.democraziammt.info)

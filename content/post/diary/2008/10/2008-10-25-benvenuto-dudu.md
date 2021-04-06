@@ -7,7 +7,7 @@ tags:
 - amici
 - famiglia
 title: Benvenuto Dudù!
-slug: /2008/10/25/benvenuto-dudu/
+slug: /2008/10/benvenuto-dudu/
 ---
 
 è nato Edoardo Marino "Dudù" Miconi.. figlio di Claudio e Rachele. riporto la mail di Claudio che ne annuncia l'arrivo. ovviamente siamo estremamente felici e commossi! presto giocherà assieme a GeiGei e questo sarà meraviglia!

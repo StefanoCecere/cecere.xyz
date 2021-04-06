@@ -9,7 +9,7 @@ tags:
 - spirito
 - umanista
 title: continuano i banchini raccolta firme anti bombe atomiche
-slug: /2007/11/07/continuano-i-banchini-raccolta-firme-anti-nucleare/
+slug: /2007/11/continuano-i-banchini-raccolta-firme-anti-nucleare/
 ---
 
 dopo il bellissimo articolo apparso sul Giornale di Monza di settimana scorsa (eccolo qui:)

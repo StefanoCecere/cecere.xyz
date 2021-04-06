@@ -9,7 +9,7 @@ tags:
 - personaggi
 - spot
 title: Gianluca Pessotto e il Forum
-slug: /2008/10/14/gianluca-pessotto-e-il-forum/
+slug: /2008/10/gianluca-pessotto-e-il-forum/
 ---
 
 per gli amici juventini, ma anche no (io ad esempio tifo il Lecce ma solo per simpatia 🙂

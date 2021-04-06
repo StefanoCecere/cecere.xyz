@@ -14,7 +14,7 @@ tags:
 - video
 - Wall Street
 title: Scena finale del film Capitalism a Love Story
-slug: /2012/01/31/scena-finale-del-film-capitalism-a-love-story/
+slug: /2012/01/scena-finale-del-film-capitalism-a-love-story/
 ---
 
 invito a (ri)vedere questo [film](http://it.wikipedia.org/wiki/Capitalism:_A_Love_Story). oggi. tanto fra poco cade la neve ci saranno diversi giorni per stare tranquilli a casa malati.

@@ -6,7 +6,7 @@ id: 606
 tags:
 - sushi
 title: Sushi in Central Park
-slug: /2007/11/20/sushi-in-central-park/
+slug: /2007/11/sushi-in-central-park/
 ---
 
 <div>

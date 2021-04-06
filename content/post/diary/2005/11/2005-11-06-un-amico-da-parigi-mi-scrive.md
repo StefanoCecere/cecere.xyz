@@ -8,7 +8,7 @@ tags:
 - Parigi
 - violenza
 title: un amico da Parigi mi scrive..
-slug: /2005/11/06/un-amico-da-parigi-mi-scrive/
+slug: /2005/11/un-amico-da-parigi-mi-scrive/
 ---
 
 ho scritto ad alcuni amici di Parigi per chiedere come stanno e com'è la situazione… ecco cosa mi ha scritto uno di loro:

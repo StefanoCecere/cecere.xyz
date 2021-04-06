@@ -5,7 +5,7 @@ date: 2015-02-11T06:04:31Z
 guid: http://stefanocecere.com/?p=5669
 id: 5669
 title: vorrei avere 22 anni
-slug: /2015/02/11/vorrei-avere-22-anni/
+slug: /2015/02/vorrei-avere-22-anni/
 ---
 
 "sai papà… vorrei avere 22 anni"

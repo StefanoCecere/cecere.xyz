@@ -9,7 +9,7 @@ tags:
 - muratore
 - offizio
 title: Fondamenta armata per raccogliere il Cielo
-slug: /2012/03/30/fondamenta-armata-per-raccogliere-il-cielo/
+slug: /2012/03/fondamenta-armata-per-raccogliere-il-cielo/
 ---
 
 oggi ho gettato le mie prima fondamenta in cemento armato per reggere uno spazio concavo per contenere l'acqua del cielo (che Totalità!)

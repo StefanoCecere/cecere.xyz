@@ -8,7 +8,7 @@ id: 4827
 title: |
   13 libri da non leggere ai bambini
    http://t.co/CD…
-slug: /2013/11/14/13-libri-da-non-leggere-ai-bambini-httpt-cocd/
+slug: /2013/11/13-libri-da-non-leggere-ai-bambini-httpt-cocd/
 ---
 
 13 libri da non leggere ai bambini

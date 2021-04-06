@@ -7,7 +7,7 @@ tags:
 - Papa
 - vergogna!
 title: otto per mille non al Vaticano
-slug: /2007/03/31/otto-per-mille-non-al-vaticano/
+slug: /2007/03/otto-per-mille-non-al-vaticano/
 ---
 
 pubblico la email che mi ha appena inviato l'amico Aldo che ringrazio. Condivido in pieno e ricordo che molte associazioni e onlus (anche del Movimento Umanista) possono beneficiare del tuo 8 x 1000

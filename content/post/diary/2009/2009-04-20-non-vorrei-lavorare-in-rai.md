@@ -9,7 +9,7 @@ tags:
 - TV
 - Vauro
 title: non vorrei lavorare in RAI
-slug: /2009/04/20/non-vorrei-lavorare-in-rai/
+slug: /2009/04/non-vorrei-lavorare-in-rai/
 ---
 
 ieri a Domenica In è sucesso quanto segue:

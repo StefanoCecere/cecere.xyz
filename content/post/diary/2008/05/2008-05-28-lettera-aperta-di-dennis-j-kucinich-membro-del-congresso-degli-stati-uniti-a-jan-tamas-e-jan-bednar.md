@@ -15,7 +15,7 @@ tags:
 - USA
 title: Lettera aperta di Dennis J. Kucinich, membro del Congresso degli Stati Uniti,
   a Jan Tamas e Jan Bednar
-slug: /2008/05/28/lettera-aperta-di-dennis-j-kucinich-membro-del-congresso-degli-stati-uniti-a-jan-tamas-e-jan-bednar/
+slug: /2008/05/lettera-aperta-di-dennis-j-kucinich-membro-del-congresso-degli-stati-uniti-a-jan-tamas-e-jan-bednar/
 ---
 
 _per la serie: ci sono azioni valide e persone valide nel mondo… ( i neretti sono miei)_

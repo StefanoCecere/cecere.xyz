@@ -10,7 +10,7 @@ tags:
 - terra
 - universo
 title: Universo mon amour
-slug: /2006/01/31/universo-mon-amour/
+slug: /2006/01/universo-mon-amour/
 ---
 
 ![](/wp-content/universomonamour.jpg)

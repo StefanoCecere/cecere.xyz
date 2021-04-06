@@ -8,7 +8,7 @@ tags:
 - discriminazione
 - Milano
 title: A Milano presidio &quot;Io non respingo&quot;
-slug: /2009/06/09/a-milano-presidio-io-non-respingo/
+slug: /2009/06/a-milano-presidio-io-non-respingo/
 ---
 
 <span style="font-family: Tahoma">Dal 10 al 12 giugno prossimi sarà in visita ufficiale in Italia il presidente libico Muhamad Gheddafi. La visita giunge a coronamento di un periodo segnato da un ricorso sistematico da parte del governo italiano alla cosiddetta politica dei respingimenti ovvero al dirottamento verso le coste della Libia delle navi che trasportano migranti e richiedenti asilo.</span>

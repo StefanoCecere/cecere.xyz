@@ -9,6 +9,6 @@ tags:
 - scudo spaziale
 - video
 title: Intervista a Vittorio Agnoletto - Europe for Peace
-slug: /2008/06/13/intervista-a-vittorio-agnoletto-europe-for-peace/
+slug: /2008/06/intervista-a-vittorio-agnoletto-europe-for-peace/
 ---
 

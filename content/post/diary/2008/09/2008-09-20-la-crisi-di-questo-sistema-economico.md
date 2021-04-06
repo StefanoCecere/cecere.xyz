@@ -13,7 +13,7 @@ tags:
 - Stati Uniti
 - USA
 title: la crisi di questo sistema economico
-slug: /2008/09/20/la-crisi-di-questo-sistema-economico/
+slug: /2008/09/la-crisi-di-questo-sistema-economico/
 ---
 
 Un paio di articoli che fanno un po’ di chiarezza sulla crisi economica sta avvenendo in USA.

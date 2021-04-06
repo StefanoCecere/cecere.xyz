@@ -6,7 +6,7 @@ id: 701
 tags:
 - Sanremo
 title: Massima solidarietà a Pippo Baudo
-slug: /2008/02/27/massima-solidarieta-a-pippo-baudo/
+slug: /2008/02/massima-solidarieta-a-pippo-baudo/
 ---
 
 ha messo a nudo un una molto importante: la complicità dei media nella crescita dell'ignoranza, della superficialità e della volgarità della gente.

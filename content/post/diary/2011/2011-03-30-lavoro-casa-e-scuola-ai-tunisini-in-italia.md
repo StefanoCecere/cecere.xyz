@@ -12,7 +12,7 @@ tags:
 - Politica
 - video
 title: '&quot;Lavoro, casa e scuola ai tunisini in Italia&quot;'
-slug: /2011/03/30/lavoro-casa-e-scuola-ai-tunisini-in-italia/
+slug: /2011/03/lavoro-casa-e-scuola-ai-tunisini-in-italia/
 ---
 
 Television tunisina, anno 2009:

@@ -8,7 +8,7 @@ tags:
 - scienza
 - umanisti
 title: Galleo Galilei, Giordano Bruno.. umanisti e il Papa
-slug: /2008/01/15/galleo-galilei-giordano-bruno-umanisti-e-il-papa/
+slug: /2008/01/galleo-galilei-giordano-bruno-umanisti-e-il-papa/
 ---
 
 sono felice che il tema sia tornato attuale.

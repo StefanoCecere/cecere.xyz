@@ -11,7 +11,7 @@ tags:
 - Europe for Peace
 - scudo spaziale
 title: Newsletter Europe for Peace – giugno 2009
-slug: /2009/06/02/newsletter-europe-for-peace-giugno-2009/
+slug: /2009/06/newsletter-europe-for-peace-giugno-2009/
 ---
 
 **ecco un po' di informazioni che \_devi\_ sapere.**

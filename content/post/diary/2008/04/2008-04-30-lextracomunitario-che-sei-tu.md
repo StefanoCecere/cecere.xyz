@@ -9,7 +9,7 @@ tags:
 - ricreazione
 - ridere
 title: L&#039;extracomunitario che sei tu
-slug: /2008/04/30/lextracomunitario-che-sei-tu/
+slug: /2008/04/lextracomunitario-che-sei-tu/
 ---
 
 ![qualcuno-che-ti-somiglia.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/qualcuno-che-ti-somiglia.jpg)

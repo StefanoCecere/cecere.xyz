@@ -11,7 +11,7 @@ tags:
 - umanista
 - volantino
 title: Volantino Forum Umanista Europea 17 ottobre
-slug: /2008/09/20/volantino-forum-umanista-europea-17-ottobre/
+slug: /2008/09/volantino-forum-umanista-europea-17-ottobre/
 ---
 
 **"la Forza della Nonviolenza" <span style="font-weight: normal">è la priorità del momento.</span>**

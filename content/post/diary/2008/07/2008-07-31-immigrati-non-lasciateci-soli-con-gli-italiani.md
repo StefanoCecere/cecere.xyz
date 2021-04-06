@@ -7,7 +7,7 @@ tags:
 - immigrazione
 - vacanze
 title: Immigrati, non lasciateci soli con gli italiani!!
-slug: /2008/07/31/immigrati-non-lasciateci-soli-con-gli-italiani/
+slug: /2008/07/immigrati-non-lasciateci-soli-con-gli-italiani/
 ---
 
 la tecnologia permette che da una nave in mezzo la tirreno possa connettermi a internet e praticamente non essere mai in vacanza!

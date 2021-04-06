@@ -11,7 +11,7 @@ tags:
 - vergogna!
 - violenza
 title: ce n&#039;è per tutti
-slug: /2010/04/09/ce-ne-per-tutti/
+slug: /2010/04/ce-ne-per-tutti/
 ---
 
 da oggi provo a fare delle sintesi giornaliere un po’ aforismatiche

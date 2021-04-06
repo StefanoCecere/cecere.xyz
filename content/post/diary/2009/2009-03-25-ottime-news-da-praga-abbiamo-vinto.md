@@ -7,7 +7,7 @@ id: 1621
 tags:
 - scudo spaziale
 title: 'ottime news da Praga: abbiamo vinto?'
-slug: /2009/03/25/ottime-news-da-praga-abbiamo-vinto/
+slug: /2009/03/ottime-news-da-praga-abbiamo-vinto/
 ---
 
 _nell'ultimo anno saprete che abbiamo continuato la battaglia contro lo Scudo Stellare in Repubblica Ceca. sembrerebbe che siamo giunti ad un traguardo importante. riporto il messaggio di Jan Tamas, attivista umanista portavoce della protesta._

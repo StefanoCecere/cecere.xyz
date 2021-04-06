@@ -10,7 +10,7 @@ tags:
 - ricreazione
 - sesso
 title: Musica romantica (ovvero il Preludio della fornica)
-slug: /2008/03/15/musica-romantica/
+slug: /2008/03/musica-romantica/
 ---
 
 ragazzi sto preparando il mio primo vero album di musiche…

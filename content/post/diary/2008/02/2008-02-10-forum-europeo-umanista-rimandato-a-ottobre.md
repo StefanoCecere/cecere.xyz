@@ -7,7 +7,7 @@ tags:
 - Forum
 - umanista
 title: Forum Europeo Umanista rimandato a ottobre
-slug: /2008/02/10/forum-europeo-umanista-rimandato-a-ottobre/
+slug: /2008/02/forum-europeo-umanista-rimandato-a-ottobre/
 ---
 
 A 2 mesi dal suo inizio, il Forum Umanista Europeo che si sarebbe tenuto a Milano il 4,5,6 aprile, è stato rimandato al 10,11,12 ottobre.

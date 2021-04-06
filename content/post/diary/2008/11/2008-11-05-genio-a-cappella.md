@@ -9,6 +9,6 @@ tags:
 - music
 - video
 title: Genio a cappella
-slug: /2008/11/05/genio-a-cappella/
+slug: /2008/11/genio-a-cappella/
 ---
 

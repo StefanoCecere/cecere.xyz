@@ -6,7 +6,7 @@ id: 2063
 tags:
 - eroi
 title: 'Esseri Umani: Giorgio Ambrosoli'
-slug: /2010/04/06/esseri-umani-giorgio-ambrosoli/
+slug: /2010/04/esseri-umani-giorgio-ambrosoli/
 ---
 
 la storia è piena di veri Esseri Umani:

@@ -12,7 +12,7 @@ tags:
 - educazione
 - google
 title: Ecco come imparo l&#039;alfabeto oggi…
-slug: /2010/10/12/ecco-come-imparo-lalfabeto-oggi/
+slug: /2010/10/ecco-come-imparo-lalfabeto-oggi/
 ---
 
 all'asilo oggi ho giocato 2 ore con i miei nuovi amici.. su una parete ho trovato questo poster che ho fotografato col pod

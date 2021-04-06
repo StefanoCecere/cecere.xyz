@@ -8,7 +8,7 @@ tags:
 - Barnard
 - Media
 title: Il complotto degli idioti
-slug: /2009/09/07/il-complotto-degli-idioti/
+slug: /2009/09/il-complotto-degli-idioti/
 ---
 
 amici, sto per tornare a fare meta-informazione, più cattivo che mai!

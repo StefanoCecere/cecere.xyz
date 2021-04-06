@@ -10,7 +10,7 @@ tags:
 - Mondo Senza Guerre
 - nonviolenza
 title: '2 ottobre 2009: si parte da Wellington (Nuova Zelanda)'
-slug: /2008/07/04/2-ottobre-2009-si-parte-da-wellington-nuova-zelanda/
+slug: /2008/07/2-ottobre-2009-si-parte-da-wellington-nuova-zelanda/
 ---
 
 andrò presto a Barcellona a collaborare alla creazione della comunicazione multimediale di quello che sarà il progetto più mondiale di inizio millennio! intanto ecco un'anticipazione del tragitto

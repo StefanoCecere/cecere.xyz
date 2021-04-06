@@ -13,7 +13,7 @@ tags:
 - valori
 - violenza
 title: Non è vero che il mondo va peggio…
-slug: /2008/08/19/non-e-vero-che-il-mondo-va-peggio/
+slug: /2008/08/non-e-vero-che-il-mondo-va-peggio/
 ---
 
 mi sono portato in campeggio da leggere un librino che racconta il "lato oscuro" del progresso contemporaneo: ovvero che _nonostante_ questo mondo sia guidato da poteri concentratori, violenti e molto miopi, ci sono molti aspetti del mondo che progrediscono e migliorano le condizioni di vita.

@@ -6,7 +6,7 @@ date: 2012-10-31T09:49:05Z
 guid: http://stefanocecere.com/?p=3890
 id: 3890
 title: L&#039;ultima domanda (il miglior racconto breve di fantascienza)
-slug: /2012/10/31/ultima-domanda/
+slug: /2012/10/ultima-domanda/
 ---
 
 **L’ULTIMA DOMANDA**

@@ -11,7 +11,7 @@ tags:
 - mondo
 - Monza
 title: 'Giovedì 17: cineforum &quot;Corporation&quot;'
-slug: /2008/04/14/giovedi-17-cineforum-corporation/
+slug: /2008/04/giovedi-17-cineforum-corporation/
 ---
 
 è inutile e controproducente rimanere ingenui e ignoranti sulla direzione che ha preso il mondo, e soprattutto su CHI lo dirige.

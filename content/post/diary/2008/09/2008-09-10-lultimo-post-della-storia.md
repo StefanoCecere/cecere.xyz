@@ -9,7 +9,7 @@ tags:
 - ridere
 - scienza
 title: L&#039;ultimo post della storia?
-slug: /2008/09/10/lultimo-post-della-storia/
+slug: /2008/09/lultimo-post-della-storia/
 ---
 
 in anteprima assoluta la pagina di Repubblica di domani.

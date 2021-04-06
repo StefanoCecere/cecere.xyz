@@ -13,7 +13,7 @@ tags:
 - music
 - video
 title: JJ on tour - l&#039;intervista
-slug: /2012/06/07/jj-on-tour-lintervista/
+slug: /2012/06/jj-on-tour-lintervista/
 ---
 
 solo per amici cari e parenti!

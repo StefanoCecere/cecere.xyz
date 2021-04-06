@@ -9,7 +9,7 @@ tags:
 - votare
 title: alcune considerazioni di amici sulle votazioni e il &quot;rischio berlusconi&quot;
   e il non voto
-slug: /2008/04/09/alcune-considerazioni-di-amici-sulle-votazioni-e-il-rischio-berlusconi-e-il-non-voto/
+slug: /2008/04/alcune-considerazioni-di-amici-sulle-votazioni-e-il-rischio-berlusconi-e-il-non-voto/
 ---
 
 pur non condividendo la scelta di votare il "meno peggio" (soprattutto il PD!!), e tantomeno il semplice votare "contro" l'ennesima minaccia del signor Berlusconi (che dovrebbe essere ineleggibile per legge non capisco come fanno ad accettare la sua candidatura), condivido i pensieri di due amici.

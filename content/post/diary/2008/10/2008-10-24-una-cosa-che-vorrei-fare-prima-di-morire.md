@@ -10,7 +10,7 @@ tags:
 - spazio
 - terra
 title: una cosa che vorrei fare prima di morire…
-slug: /2008/10/24/una-cosa-che-vorrei-fare-prima-di-morire/
+slug: /2008/10/una-cosa-che-vorrei-fare-prima-di-morire/
 ---
 
 [<img class="aligncenter size-full wp-image-1435" title="room_with_a_best_view" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/room_with_a_best_view.jpg" alt="" width="400" height="300" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/room_with_a_best_view.jpg 400w, http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/room_with_a_best_view-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/room_with_a_best_view.jpg)

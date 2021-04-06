@@ -5,7 +5,7 @@ date: 2010-10-12T09:20:21Z
 guid: http://stefanocecere.com/?p=2237
 id: 2237
 title: Il genio in tempi di crisi
-slug: /2010/10/12/il-genio-in-tempi-di-crisi/
+slug: /2010/10/il-genio-in-tempi-di-crisi/
 ---
 
 Una donna sta passeggiando in un bosco alla ricerca di funghi, quando si imbatte in un'antica lampada ad olio; inizia subito a strofinarla e appare il Genio: "Posso avere i miei tre desideri?" - chiede la donna.

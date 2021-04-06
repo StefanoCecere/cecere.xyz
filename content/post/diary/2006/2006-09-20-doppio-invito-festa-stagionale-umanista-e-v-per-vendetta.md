@@ -8,7 +8,7 @@ tags:
 - ricreazione
 - umanista
 title: 'doppio invito: Festa stagionale umanista e V per Vendetta'
-slug: /2006/09/20/doppio-invito-festa-stagionale-umanista-e-v-per-vendetta/
+slug: /2006/09/doppio-invito-festa-stagionale-umanista-e-v-per-vendetta/
 ---
 
 il momento storico è tragico, te ne sei accorta?

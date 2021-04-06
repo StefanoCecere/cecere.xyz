@@ -9,7 +9,7 @@ tags:
 - petizione
 - scudo spaziale
 title: 'IMPORTANTE: petizione no alla base radar'
-slug: /2008/03/27/importante-petizione-no-alla-base-radar/
+slug: /2008/03/importante-petizione-no-alla-base-radar/
 ---
 
 [![NO BASE RADAR](http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/no_radar.jpg)](http://www.nonviolence.cz)

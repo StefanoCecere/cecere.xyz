@@ -8,7 +8,7 @@ tags:
 - Terra 2.0
 - viaggio
 title: Di ritorno da New York
-slug: /2007/11/28/di-ritorno-da-new-york/
+slug: /2007/11/di-ritorno-da-new-york/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2007/11/cecio_newyork.jpg' alt='cecio_newyork.jpg' align='left' />ieri siamo tornati dalla bolivia a new york… e fra poco si riparte per l'Italia!

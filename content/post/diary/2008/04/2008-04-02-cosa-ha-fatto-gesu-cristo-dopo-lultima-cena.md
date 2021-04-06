@@ -10,7 +10,7 @@ tags:
 - quadro
 - ridere
 title: Cosa ha fatto Gesù Cristo dopo l&#039;ultima cena?
-slug: /2008/04/02/cosa-ha-fatto-gesu-cristo-dopo-lultima-cena/
+slug: /2008/04/cosa-ha-fatto-gesu-cristo-dopo-lultima-cena/
 ---
 
 concorderai che l'Ultima Cena di Leonardo è un quadro con qualche mistero.

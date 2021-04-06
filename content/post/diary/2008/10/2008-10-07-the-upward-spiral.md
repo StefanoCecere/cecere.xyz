@@ -7,7 +7,7 @@ tags:
 - film
 - spiritualità
 title: The Upward Spiral
-slug: /2008/10/07/the-upward-spiral/
+slug: /2008/10/the-upward-spiral/
 ---
 
 un film/documento da vedere con attenzione.

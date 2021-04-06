@@ -4,7 +4,7 @@ date: 2006-05-24T16:08:39Z
 guid: http://stefanocecere.com/2006/05/24/lettera-al-rosy-bindi/
 id: 279
 title: Lettera a Rosy Bindi
-slug: /2006/05/24/lettera-a-rosy-bindi/
+slug: /2006/05/lettera-a-rosy-bindi/
 ---
 
 _(lettere inviatami dall'amica Daniela Tuscano)_ 

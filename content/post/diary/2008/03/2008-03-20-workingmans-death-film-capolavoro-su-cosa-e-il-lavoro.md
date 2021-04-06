@@ -9,7 +9,7 @@ tags:
 - mondo
 - vergogna!
 title: '&quot;Workingman&#039;s death&quot;: film capolavoro su cosa è il lavoro'
-slug: /2008/03/20/workingmans-death-film-capolavoro-su-cosa-e-il-lavoro/
+slug: /2008/03/workingmans-death-film-capolavoro-su-cosa-e-il-lavoro/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/working_men_death.thumbnail.gif' alt='working_men_death.gif' align="left" />ieri sera mi sono concesso un po' di svago e sono andato a vedere (tra l'altro in un magnifico ambiente a Carate Brianza - [www.centrosule.org](http://www.centrosule.org/) ) il film/documentario "Workingman's death" (ovvero "la morte del lavoratore").

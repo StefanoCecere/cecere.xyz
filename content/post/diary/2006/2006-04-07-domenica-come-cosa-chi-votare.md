@@ -6,7 +6,7 @@ id: 256
 tags:
 - umanista
 title: 'domenica: come, cosa, chi votare?'
-slug: /2006/04/07/domenica-come-cosa-chi-votare/
+slug: /2006/04/domenica-come-cosa-chi-votare/
 ---
 
 questa la domanda di non pochi.

@@ -12,7 +12,7 @@ tags:
 - evento
 - Forum
 title: Forum dedicato all&#039;Esperienza spirituale nell’espressione artistica
-slug: /2011/10/23/forum-dedicato-allesperienza-spirituale-nellespressione-artistica/
+slug: /2011/10/forum-dedicato-allesperienza-spirituale-nellespressione-artistica/
 ---
 
 _cari amici, segnalo questo evento a cui parteciperò (almeno nella giornata di domenica)_

@@ -10,7 +10,7 @@ tags:
 - poster
 - umanista
 title: 'Pace è Forza: il poster della pace'
-slug: /2006/10/31/il-poster-della-pace/
+slug: /2006/10/il-poster-della-pace/
 ---
 
 giovedì parto per il Forum Umanista Europeo di Lisbona. starò via 6 giorni.

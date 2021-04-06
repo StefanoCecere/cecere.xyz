@@ -7,7 +7,7 @@ tags:
 - Events
 - Milano
 title: incontro &quot;La PAURA – radice del dolore, strumento di controllo di massa&quot;
-slug: /2008/10/07/incontro-la-paura-radice-del-dolore-strumento-di-controllo-di-massa/
+slug: /2008/10/incontro-la-paura-radice-del-dolore-strumento-di-controllo-di-massa/
 ---
 
 <div>

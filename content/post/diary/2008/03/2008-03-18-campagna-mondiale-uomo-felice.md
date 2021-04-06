@@ -20,7 +20,7 @@ tags:
 - ridere
 - sesso
 title: Campagna mondiale “uomo felice”
-slug: /2008/03/18/campagna-mondiale-uomo-felice/
+slug: /2008/03/campagna-mondiale-uomo-felice/
 ---
 
 ovvero "Dalla" non è solo un cantante..

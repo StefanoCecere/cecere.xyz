@@ -7,7 +7,7 @@ tags:
 - ridere
 - video
 title: Nel mondo tutto è possibile!!
-slug: /2009/03/12/nel-mondo-tutto-e-possibile/
+slug: /2009/03/nel-mondo-tutto-e-possibile/
 ---
 
 il nostro mondo è incredibile… si ammirano e idolatrano personaggi che poi si scopre architettare truffe da 50 miliardi di dollari (mettendoli magari alla presidenza di uno dei più importanti istituti finanziari del mondo).. si distruggono (o si lasciano distruggere) cose e popoli, per poi speculare e guadagnarci sulla ricostruzione e sulla ribilitazione, si crede a tutto quello che si vede mentre si è distratti e stanchi, e sopratutto.. si continua a votare e dare fiducia alle stesse persone che creano disastri!

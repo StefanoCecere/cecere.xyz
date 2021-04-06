@@ -7,7 +7,7 @@ tags:
 - film
 - New York
 title: Angelina Jolie in Beowulf
-slug: /2007/11/20/angelina-jolie-in-beowulf/
+slug: /2007/11/angelina-jolie-in-beowulf/
 ---
 
 <div>

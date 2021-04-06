@@ -10,7 +10,7 @@ tags:
 - Sanremo
 - Terra 2.0
 title: L&#039;Aura a Sanremo 2008.. &quot;Basta!&quot; con la violenza… votiamola!
-slug: /2008/02/25/laura-a-sanremo-2008-votiamola/
+slug: /2008/02/laura-a-sanremo-2008-votiamola/
 ---
 
 L'aura partecipa al Festival di SanRemo (tra i big) con una canzone veramente bella, che tratta di un tema a me molto caro : **basta!** alla violenza e un invito alla strada della nonviolenza attiva e all'uso della propria testa. la definirei una canzone umanista.

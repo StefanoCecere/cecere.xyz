@@ -10,7 +10,7 @@ tags:
 - spirito
 - umanista
 title: Un poster di emozione umana.
-slug: /2006/12/18/un-poster-di-emozione-umana/
+slug: /2006/12/un-poster-di-emozione-umana/
 ---
 
 <a target="_blank" href="http://www.ilfannullone.it/fileadmin/multimedia/posters/poster_fannullone_2006.jpg"><img alt="Poster Fannullone 2006" id="image477" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/12/poster_fannullone_2006.jpg" /></a>

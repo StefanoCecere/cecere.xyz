@@ -8,7 +8,7 @@ tags:
 - Bolivia
 - Telecom
 title: Intanto in Bolivia la Telecom
-slug: /2008/06/11/intanto-in-bolivia-la-telecom/
+slug: /2008/06/intanto-in-bolivia-la-telecom/
 ---
 
 avevo già deciso di uscire da TIM (per via dei suoi costi enormi nei contratti DATI)

@@ -12,7 +12,7 @@ tags:
 - Media
 - video
 title: Repubblica è un giornale di fogna?
-slug: /2009/07/03/repubblica-e-un-giornale-di-fogna/
+slug: /2009/07/repubblica-e-un-giornale-di-fogna/
 ---
 
 non possono pubblicare un articolo sul video dei mostri nelle fognature e farlo passare praticamente per vero.

@@ -12,7 +12,7 @@ tags:
 - montatura
 - ROM
 title: Smontato anche il caso dei Rom croati. Ora riapriamo il caso Reggiani
-slug: /2008/07/03/smontato-anche-il-caso-dei-rom/
+slug: /2008/07/smontato-anche-il-caso-dei-rom/
 ---
 
 _Vi giro questa mail un po' lunga, ma piena di notizie interessanti sulle balle che vengono raccontate sui rom. (per chi non avesse notato la veloce coincidenza della legge vergogna e il caso di codesta famiglia rom… lascio ai commentatori ogni interpretazione)_

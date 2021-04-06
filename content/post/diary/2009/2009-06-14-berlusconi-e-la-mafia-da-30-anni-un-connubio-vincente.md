@@ -10,7 +10,7 @@ tags:
 - Politica
 - video
 title: 'Berlusconi e la mafia: da 30 anni un connubio vincente'
-slug: /2009/06/14/berlusconi-e-la-mafia-da-30-anni-un-connubio-vincente/
+slug: /2009/06/berlusconi-e-la-mafia-da-30-anni-un-connubio-vincente/
 ---
 
 penso non ci sia nulla di nuovo nel parlare di queste cose: **la mafia è nel DNA di buona parte dell'economia mondiale** (italiana soprattutto).. per qualcuno essa non esiste neanche .. di fatto quando una cosa è "normale" coem l'aria.. l'aria esiste?

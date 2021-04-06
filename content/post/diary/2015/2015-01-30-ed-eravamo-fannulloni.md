@@ -4,7 +4,7 @@ date: 2015-01-30T06:23:59Z
 guid: http://stefanocecere.com/?p=5688
 id: 5688
 title: ed eravamo Fannulloni
-slug: /2015/01/30/ed-eravamo-fannulloni/
+slug: /2015/01/ed-eravamo-fannulloni/
 ---
 
 nel cercar di ricordare il primo momento in cui fui unto dal sugo degli spaghetti spaziali, ho ritrovato il n.7 del [ilfannullone](https://www.facebook.com/ilFannullone) una rivista/giornalino che producevamo gratuitamente in quel di Monza ormai 10 anni fa!

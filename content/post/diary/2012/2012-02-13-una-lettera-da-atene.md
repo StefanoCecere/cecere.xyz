@@ -11,7 +11,7 @@ tags:
 - indignati
 - nonviolenza
 title: Una lettera da Atene
-slug: /2012/02/13/una-lettera-da-atene/
+slug: /2012/02/una-lettera-da-atene/
 ---
 
 _pubblico questa lettera scritta stamani da un'amica di Atene. interessante leggere anche il commento di Paolo Barnard sul momento greco : [_pubblico questa lettera scritta stamani da un'amica di Atene. interessante leggere anche il commento di Paolo Barnard sul momento greco :](http://paolobarnard.info/intervento_mostra_go.php?id=328) baci _

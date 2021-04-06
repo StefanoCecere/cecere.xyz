@@ -9,7 +9,7 @@ tags:
 - ricreazione
 - spirito
 title: 'Lezione Jedi: Il cane, il leone e la scimmia'
-slug: /2008/04/14/lezione-jedi-il-cane-il-leone-e-la-scimmia/
+slug: /2008/04/lezione-jedi-il-cane-il-leone-e-la-scimmia/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/cane.jpg' alt='cane.jpg' align="left" />Un signore va a caccia grossa in Africa e porta con se il suo cucciolo.

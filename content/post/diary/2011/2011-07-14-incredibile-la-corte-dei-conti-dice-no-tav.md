@@ -11,7 +11,7 @@ tags:
 - NOTAV
 - Politica
 title: 'Incredibile: la Corte dei Conti dice NO TAV'
-slug: /2011/07/14/incredibile-la-corte-dei-conti-dice-no-tav/
+slug: /2011/07/incredibile-la-corte-dei-conti-dice-no-tav/
 ---
 
 _postpremessa: mi piacciono sti Conti! questo documento mi arriva dalla lista MondoSenzaGuerre a cui era arrivato da una lista del Movimento 5 Stelle_

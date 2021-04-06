@@ -7,7 +7,7 @@ tags:
 - Tomas Hirsch
 - umanista
 title: TOMAS HIRSCH A MAR DEL PLATA
-slug: /2005/11/07/tomas-hirsch-a-mar-del-plata/
+slug: /2005/11/tomas-hirsch-a-mar-del-plata/
 ---
 
 <img src='/wp-content/hirschmaradonachavez.jpg' alt='' align='left' />_(premessa: per chi non lo sapesse il Juntos Podemos è la coalizione cilena promossa dal Partito Umanista)_

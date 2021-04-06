@@ -9,7 +9,7 @@ tags:
 - spirito
 - Terra 2.0
 title: Il Parco sta crescendo
-slug: /2008/02/07/il-parco-sta-crescendo/
+slug: /2008/02/il-parco-sta-crescendo/
 ---
 
 no non è il parco di Monza, ma quello di Attigliano (vicino Orte), il Parco che stiamo costruendo e che diverrà un importante luogo di ricerca.

@@ -7,7 +7,7 @@ tags:
 - ridere
 - video
 title: Sarà pirateria?!!??!
-slug: /2009/03/18/sara-pirateria/
+slug: /2009/03/sara-pirateria/
 ---
 
 non trovo molte differenze tra i film di animazione giapponesi e quelli indiani di Bollywood! forse il ceppo linguistico è lo stesso? oppure la mobilità degli sceneggiatori (dopo lo sciopero dell'anno scorso) è ormai internazionale?

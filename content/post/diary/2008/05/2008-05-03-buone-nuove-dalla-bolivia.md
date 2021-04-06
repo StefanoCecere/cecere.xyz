@@ -9,7 +9,7 @@ tags:
 - Evo Morales
 - Terra 2.0
 title: Buone nuove dalla Bolivia
-slug: /2008/05/03/buone-nuove-dalla-bolivia/
+slug: /2008/05/buone-nuove-dalla-bolivia/
 ---
 
 mentre pomeriggio si presenta in Italia il libro "La fine della preistoria" di Thomas Hirsch, con l'eccellente prefazione di Evo Morales (il libro lo rovi in tutte le librerie Feltrinelli), ecco alcune buone nuove proprio dalla Bolivia:

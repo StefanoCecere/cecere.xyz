@@ -8,7 +8,7 @@ tags:
 - rivoluzione
 - senso della vita
 title: La rivoluzione riparte da qui
-slug: /2011/09/30/la-rivoluzione-riparte-da-qui/
+slug: /2011/09/la-rivoluzione-riparte-da-qui/
 ---
 
 erano almeno 18 anni che non affrontavo la situazione in questo modo.

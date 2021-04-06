@@ -8,7 +8,7 @@ tags:
 - economia
 - Silo
 title: E lo chiamavano utopico visionario
-slug: /2009/04/30/e-lo-chiamavano-utopico-visionario/
+slug: /2009/04/e-lo-chiamavano-utopico-visionario/
 ---
 
 _"Il grande capitale ha ormai esaurito lo stadio corrispondente all'economia di mercato e cerca ora di disciplinare la società in modo da far fronte al caos che esso stesso ha generato. Contro tale irrazionalità non si levano, dialetticamente, le voci della ragione, ma i più oscuri razzismi, integralismi e fanatismi"._

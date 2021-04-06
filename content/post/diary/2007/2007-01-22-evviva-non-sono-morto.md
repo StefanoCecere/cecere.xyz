@@ -10,7 +10,7 @@ tags:
 - spirito
 - stefano cecere
 title: evviva non sono morto!
-slug: /2007/01/22/evviva-non-sono-morto/
+slug: /2007/01/evviva-non-sono-morto/
 ---
 
 <img id="image483" title="Essere Digitale.. di Stefano Cecere" src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/01/essere_digitale.jpg" alt="essere_digitale.jpg" />

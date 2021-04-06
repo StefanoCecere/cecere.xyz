@@ -10,7 +10,7 @@ tags:
 - foto
 - umanista
 title: Il Futuro si può cambiare.. alcune foto
-slug: /2005/10/17/il-futuro-si-puo-cambiare-alcune-foto/
+slug: /2005/10/il-futuro-si-puo-cambiare-alcune-foto/
 ---
 
 ![](/wp-content/peace1510.jpg)

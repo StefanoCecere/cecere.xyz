@@ -14,7 +14,7 @@ tags:
 - petizione
 - scudo spaziale
 title: Aggiornamenti sciopero della fame contro lo SCUDO SPAZIALE
-slug: /2008/05/24/aggiornamenti-sciopero-della-fame-contro-lo-scudo-spaziale/
+slug: /2008/05/aggiornamenti-sciopero-della-fame-contro-lo-scudo-spaziale/
 ---
 
 Le condizioni di salute di Jan Bednar, che insieme a Jan Tamas, è al 12° giorno di sciopero della fame si stanno aggravando giorno dopo giorno. E' soprattutto un'**insufficenza al fegato** a destare preoccupazione nei medici che lo seguono, che lo hanno consigliato, insieme agli amici e parenti, di interrompere lo sciopero della fame. Jan Bednar, tuttavia, **ha deciso di andare avanti** perché, _"Il governo ceco non ha dato alcun segnale di voler aprire il dialogo e il Parlamento europeo tace"_

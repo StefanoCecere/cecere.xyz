@@ -11,7 +11,7 @@ tags:
 - partito umanista
 - Politica
 title: I responsabili della guerra in Libia?
-slug: /2011/03/20/i-responsabili-della-guerra-in-libia/
+slug: /2011/03/i-responsabili-della-guerra-in-libia/
 ---
 
 _condivido:_

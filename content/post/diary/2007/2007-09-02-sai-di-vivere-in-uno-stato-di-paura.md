@@ -8,7 +8,7 @@ tags:
 - Michael Crichton
 - Politica
 title: sai di vivere in uno Stato di Paura?!
-slug: /2007/09/02/sai-di-vivere-in-uno-stato-di-paura/
+slug: /2007/09/sai-di-vivere-in-uno-stato-di-paura/
 ---
 
 Non ti viene mai il sospetto che spesso **ciò che credi** non l'hai deciso o scoperto tu, ma **l'hanno deciso i telegiornali, le riviste, i films**, le propagande politiche?

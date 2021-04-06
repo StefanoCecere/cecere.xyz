@@ -9,7 +9,7 @@ tags:
 - umanista
 - volantino
 title: Newsletter n.2 La Forza della Nonviolenza
-slug: /2008/09/22/newsletter-n2-la-forza-della-nonviolenza/
+slug: /2008/09/newsletter-n2-la-forza-della-nonviolenza/
 ---
 
 fresca fresca di aggiornamenti sull'evento più importane di Ottobre 2008!

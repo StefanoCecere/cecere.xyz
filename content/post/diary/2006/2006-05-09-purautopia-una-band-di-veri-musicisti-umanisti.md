@@ -10,7 +10,7 @@ tags:
 - umanista
 - umanisti
 title: Pura Utopia? una band di veri musicisti umanisti
-slug: /2006/05/09/purautopia-una-band-di-veri-musicisti-umanisti/
+slug: /2006/05/purautopia-una-band-di-veri-musicisti-umanisti/
 ---
 
 ![](/wp-content/pura_utopia.jpg)

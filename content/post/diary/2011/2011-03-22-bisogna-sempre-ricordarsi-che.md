@@ -7,7 +7,7 @@ tags:
 - diversità
 - senso della vita
 title: bisogna sempre ricordarsi che…
-slug: /2011/03/22/bisogna-sempre-ricordarsi-che/
+slug: /2011/03/bisogna-sempre-ricordarsi-che/
 ---
 
 esistono diversi livelli di sensibilità,

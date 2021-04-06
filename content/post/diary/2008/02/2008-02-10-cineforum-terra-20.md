@@ -9,7 +9,7 @@ tags:
 - Terra 2.0
 - video
 title: Cineforum Terra 1.0
-slug: /2008/02/10/cineforum-terra-20/
+slug: /2008/02/cineforum-terra-20/
 ---
 
 a marzo partirà il cineforum Terra 1.0: delle serate con proiezione film e dibattito su questioni "grosse", di cui normalmente si sa davvero poco…

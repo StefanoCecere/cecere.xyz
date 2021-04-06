@@ -10,7 +10,7 @@ tags:
 - Monti
 title: Gli inganni del “risanamento” dello Stato e del “pareggio di bilancio” spiegati
   a due pensionati.
-slug: /2012/03/28/gli-inganni-del-risanamento-dello-stato-e-del-pareggio-di-bilancio-spiegati-a-due-pensionati/
+slug: /2012/03/gli-inganni-del-risanamento-dello-stato-e-del-pareggio-di-bilancio-spiegati-a-due-pensionati/
 ---
 
 _"storiella" che spiega semplicemente quell oche ta succedendo… (di [Paolo Barnard](http://paolobarnard.info/intervento_mostra_go.php?id=353))_

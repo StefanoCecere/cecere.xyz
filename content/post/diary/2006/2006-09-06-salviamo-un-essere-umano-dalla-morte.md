@@ -7,7 +7,7 @@ tags:
 - vergogna!
 - violenza
 title: 'salviamo un essere umano dalla morte:'
-slug: /2006/09/06/salviamo-un-essere-umano-dalla-morte/
+slug: /2006/09/salviamo-un-essere-umano-dalla-morte/
 ---
 
 rigiro questo appello urgententissimo:

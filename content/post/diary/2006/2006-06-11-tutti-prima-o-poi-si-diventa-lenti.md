@@ -8,7 +8,7 @@ tags:
 - ricreazione
 - spirito
 title: Tutti prima o poi si diventa lenti…
-slug: /2006/06/11/tutti-prima-o-poi-si-diventa-lenti/
+slug: /2006/06/tutti-prima-o-poi-si-diventa-lenti/
 ---
 
 _un omaggio all'anziano che inevitabilmente saremo._

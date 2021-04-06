@@ -5,7 +5,7 @@ guid: http://stefanocecere.com/2008/01/10/illuminati/
 id: 644
 tags: [GdT]
 title: Illuminati
-slug: /2008/01/10/illuminati/
+slug: /2008/01/illuminati/
 ---
 
 ![](illuminati1.jpg)

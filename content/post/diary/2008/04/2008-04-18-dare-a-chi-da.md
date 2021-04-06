@@ -9,7 +9,7 @@ tags:
 - reciprocita
 - umanista
 title: dare a chi dà
-slug: /2008/04/18/dare-a-chi-da/
+slug: /2008/04/dare-a-chi-da/
 ---
 
 poche parole ma grandi momenti:

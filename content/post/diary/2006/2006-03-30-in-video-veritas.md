@@ -7,7 +7,7 @@ id: 251
 tags:
 - vergogna!
 title: in video veritas
-slug: /2006/03/30/in-video-veritas/
+slug: /2006/03/in-video-veritas/
 ---
 
 apprezzo questo semplice sito che ripropone, senza commenti ma neanche censure, diversi episodi delle dichiarazioni ufficiali di un attuale schieramento politico:

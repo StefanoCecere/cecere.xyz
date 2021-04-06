@@ -4,7 +4,7 @@ date: 2005-09-07T13:11:25Z
 guid: http://stefanocecere.com/2005/09/09/tessuto-sociale/
 id: 82
 title: tessuto sociale
-slug: /2005/09/07/tessuto-sociale/
+slug: /2005/09/tessuto-sociale/
 ---
 
 no , non è un nuovo prodotto dei Missoni, o tantomeno dei cinesi-vi-tessiamo-tutti, ma il nome che usiamo per definirel'insieme delle relazioni personali ed extrapersonali tra gente che vive prossima.

@@ -11,7 +11,7 @@ tags:
 - tecnologia
 - vignetta
 title: Ecco perchè ho bisogno di un iPad!!
-slug: /2010/02/17/ecco-perche-ho-bisogno-di-un-ipad/
+slug: /2010/02/ecco-perche-ho-bisogno-di-un-ipad/
 ---
 
 <p style="text-align: center">

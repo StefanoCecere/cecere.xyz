@@ -7,7 +7,7 @@ tags:
 - calcio
 - Mondo Senza Guerre
 title: Juventus e Inter in Marcia per la Nonviolenza
-slug: /2009/04/20/juventus-e-inter-in-marcia-per-la-nonviolenza/
+slug: /2009/04/juventus-e-inter-in-marcia-per-la-nonviolenza/
 ---
 
 non sono un fan del calcio ma questa notizia dovrebbe interessare molti:

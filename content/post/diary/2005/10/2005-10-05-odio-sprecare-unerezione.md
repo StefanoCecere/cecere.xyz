@@ -6,7 +6,7 @@ id: 101
 tags:
 - sesso
 title: odio sprecare un'erezione…
-slug: /2005/10/05/odio-sprecare-unerezione/
+slug: /2005/10/odio-sprecare-unerezione/
 ---
 
 <p style="text-align: center">

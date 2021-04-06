@@ -7,7 +7,7 @@ tags:
 - campeggio
 - vacanze
 title: Traghetto in Sardegna
-slug: /2008/01/11/traghetto-in-sardegna/
+slug: /2008/01/traghetto-in-sardegna/
 ---
 
 <div>

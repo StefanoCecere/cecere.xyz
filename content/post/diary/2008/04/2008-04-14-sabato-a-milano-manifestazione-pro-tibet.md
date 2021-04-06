@@ -8,7 +8,7 @@ tags:
 - Milano
 - Tibet
 title: 'sabato a Milano: manifestazione pro-Tibet'
-slug: /2008/04/14/sabato-a-milano-manifestazione-pro-tibet/
+slug: /2008/04/sabato-a-milano-manifestazione-pro-tibet/
 ---
 
 questo sabato. tra i promotori il Centro delle Culture, un organismo del Movimento Umanista.

@@ -7,7 +7,7 @@ tags:
 - pace
 - vergogna!
 title: premio nobel ad Al Gore
-slug: /2007/10/12/premio-nobel-ad-al-gore/
+slug: /2007/10/premio-nobel-ad-al-gore/
 ---
 
 oggi era iniziata veramente una gran bella giornata.

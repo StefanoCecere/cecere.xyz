@@ -9,7 +9,7 @@ tags:
 - spirito
 - umanista
 title: Goditi Il Fannullone 14
-slug: /2007/03/10/goditi-il-fannullone-14/
+slug: /2007/03/goditi-il-fannullone-14/
 ---
 
 <a href="http://www.ilfannullone.it/ilfannullone_14/" rel="attachment wp-att-490" title="ilfannullone_14_cover.jpg"><img src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/03/ilfannullone_14_cover.jpg" alt="ilfannullone_14_cover.jpg" /></a>

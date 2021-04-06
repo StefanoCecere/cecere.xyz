@@ -7,7 +7,7 @@ tags:
 - Repubblica Ceca
 - scudo spaziale
 title: Vittoria a Praga!
-slug: /2008/10/31/vittoria-a-praga/
+slug: /2008/10/vittoria-a-praga/
 ---
 
 Cari amici,

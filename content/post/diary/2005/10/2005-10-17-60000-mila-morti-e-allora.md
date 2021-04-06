@@ -6,7 +6,7 @@ id: 109
 tags:
 - vergogna!
 title: 60.000 mila morti e allora?
-slug: /2005/10/17/60000-mila-morti-e-allora/
+slug: /2005/10/60000-mila-morti-e-allora/
 ---
 
 Il terremoto del Pakistan sta raggiungendo le dimensioni della tragedia dello Tsunami di 10 mesi fa.

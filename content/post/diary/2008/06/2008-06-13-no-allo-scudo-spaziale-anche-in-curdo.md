@@ -7,7 +7,7 @@ tags:
 - Europe for Peace
 - scudo spaziale
 title: No allo Scudo Spaziale anche in curdo
-slug: /2008/06/13/no-allo-scudo-spaziale-anche-in-curdo/
+slug: /2008/06/no-allo-scudo-spaziale-anche-in-curdo/
 ---
 
 So che è incomprensibile, ma questa è la traduzione in curdo della dichiarazione di Giorgio Schultze (portavoce europeo del Nuovo Umanesimo) sullo scudo spaziale che sta girando in liste del Kurdistan.

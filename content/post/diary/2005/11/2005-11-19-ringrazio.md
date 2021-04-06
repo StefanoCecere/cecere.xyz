@@ -4,7 +4,7 @@ date: 2005-11-19T13:56:53Z
 guid: http://stefanocecere.com/2005/11/19/ringrazio/
 id: 152
 title: ringrazio
-slug: /2005/11/19/ringrazio/
+slug: /2005/11/ringrazio/
 ---
 
 innanzitutto Giovanni Giavelli, che mi ha celermente spedito due DVD sul tema dell'11 settembre (uno è <www.reopen911.org> ).

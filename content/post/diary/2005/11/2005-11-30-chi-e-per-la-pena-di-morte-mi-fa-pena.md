@@ -6,7 +6,7 @@ id: 163
 tags:
 - violenza
 title: chi è per la pena di morte mi fa pena
-slug: /2005/11/30/chi-e-per-la-pena-di-morte-mi-fa-pena/
+slug: /2005/11/chi-e-per-la-pena-di-morte-mi-fa-pena/
 ---
 
 <img src='/wp-content/pena_di_morte.jpg' alt='' align='left' />(che bello sto scrivendo attraversando pianure imbiancate.. grazie linguaggio, grazie tecnologia, grazie treni, grazie neve)

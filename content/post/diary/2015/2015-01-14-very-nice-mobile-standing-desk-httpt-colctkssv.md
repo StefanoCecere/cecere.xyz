@@ -8,7 +8,7 @@ id: 5588
 tags:
 - tweet
 title: very nice mobile standing desk http://t.co/lcTKSSV…
-slug: /2015/01/14/very-nice-mobile-standing-desk-httpt-colctkssv/
+slug: /2015/01/very-nice-mobile-standing-desk-httpt-colctkssv/
 ---
 
 very nice mobile standing desk [vimeo.com/108188796](http://vimeo.com/108188796) by [@RefoldNZ](http://twitter.com/RefoldNZ)

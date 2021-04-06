@@ -9,7 +9,7 @@ tags:
 - Monza
 - sciopero della fame
 title: Appuntamenti
-slug: /2008/06/19/appuntamenti/
+slug: /2008/06/appuntamenti/
 ---
 
 da oggi (forse) inizio un nuovo formato: un solo post al giorno in cui sintetizzo il (??) ieri, l'oggi e il domani.

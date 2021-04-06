@@ -10,7 +10,7 @@ tags:
 - ricreazione
 - Terra 2.0
 title: 'Giovedì cineforumanista Monza: &quot;Train de Vie&quot;'
-slug: /2008/05/11/giovedi-cineforum-monza-train-de-vie/
+slug: /2008/05/giovedi-cineforum-monza-train-de-vie/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/train_de_vie.jpg' alt='train_de_vie.jpg' align="left" />Giovedì 15 maggio ricomincia il Cineforumanista a Monza, con la fase 2: "Vedo, Sento, Penso, Rido"

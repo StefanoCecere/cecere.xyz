@@ -13,7 +13,7 @@ tags:
 - misteri
 - video
 title: JJ e il mistero di ANTINACO
-slug: /2011/06/25/jj-e-il-mistero-di-antinaco/
+slug: /2011/06/jj-e-il-mistero-di-antinaco/
 ---
 
 da un mesetto, ogni volta che Fabio vede una barca a vela (sia in foto che al mare).. esclama entusiasta ANTINACO! ANTINACOO!!

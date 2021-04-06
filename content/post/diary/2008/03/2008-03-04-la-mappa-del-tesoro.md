@@ -9,7 +9,7 @@ tags:
 - spirito
 - Terra 2.0
 title: La mappa del tesoro…
-slug: /2008/03/04/la-mappa-del-tesoro/
+slug: /2008/03/la-mappa-del-tesoro/
 ---
 
 ![struttura_sala_attigliano.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/struttura_sala_attigliano.jpg)

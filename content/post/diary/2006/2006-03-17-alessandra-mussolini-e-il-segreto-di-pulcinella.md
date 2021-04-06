@@ -7,7 +7,7 @@ id: 245
 tags:
 - vergogna!
 title: Alessandra Mussolini e il segreto di pulcinella
-slug: /2006/03/17/alessandra-mussolini-e-il-segreto-di-pulcinella/
+slug: /2006/03/alessandra-mussolini-e-il-segreto-di-pulcinella/
 ---
 
 mentre stiamo continuando a raccogleire le firme per presentare candidati umanisti alle prossime elezioni (ehi ma lo sapete che siamo davvero pochi in Italia, a raccogliere le firme in modo veramente onesto e preciso?), riporto questo comunicato dell'amica Daniela che risale a settimana scorsa, ma non per questo ha perso validità:

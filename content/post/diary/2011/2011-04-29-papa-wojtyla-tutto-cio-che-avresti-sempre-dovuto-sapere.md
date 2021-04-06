@@ -9,7 +9,7 @@ tags:
 - contraddizioni
 - Papa
 title: 'Papa Wojtyla: tutto ciò che avresti sempre dovuto sapere'
-slug: /2011/04/29/papa-wojtyla-tutto-cio-che-avresti-sempre-dovuto-sapere/
+slug: /2011/04/papa-wojtyla-tutto-cio-che-avresti-sempre-dovuto-sapere/
 ---
 
 _(tutto ciò che segue è tratto dal lavoro di molte persone raccolte dal blog di Daniele Luttazzi )_

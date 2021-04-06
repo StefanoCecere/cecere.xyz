@@ -8,7 +8,7 @@ tags:
 - Politica
 - ridere
 title: Pensieri e parole del nuovo capo dell&#039;opposizione
-slug: /2009/04/30/pensieri-e-parole-del-nuovo-capo-dellopposizione/
+slug: /2009/04/pensieri-e-parole-del-nuovo-capo-dellopposizione/
 ---
 
 non posso non riportare questo articolo dal Il Manifesto di oggi.. bravo Alessandro Robecchi!!!

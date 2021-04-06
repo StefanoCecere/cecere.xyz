@@ -9,7 +9,7 @@ tags:
 - tecnologia
 - umanista
 title: referendum 25 giugno 2006, google, Ruby on Rails e le multe da pagare
-slug: /2006/05/27/referendum-25-giugno-google-ruby-on-rails-e-le-multe-da-pagare/
+slug: /2006/05/referendum-25-giugno-google-ruby-on-rails-e-le-multe-da-pagare/
 ---
 
 Sembra proprio che a Google piaccia il mio blog.. molto spesso cercando cose semplici lo indica in cima ai risultati trovati.. provate ad esempio a cercare "referendum 25 giugno"… 😀

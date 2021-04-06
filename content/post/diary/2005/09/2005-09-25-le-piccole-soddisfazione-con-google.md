@@ -6,7 +6,7 @@ id: 95
 tags:
 - internet
 title: le piccole soddisfazione con Google
-slug: /2005/09/25/le-piccole-soddisfazione-con-google/
+slug: /2005/09/le-piccole-soddisfazione-con-google/
 ---
 
 oggi.. cercando &#x201c;cecio&#x201d; su google, questo blog compare in prima posizione!

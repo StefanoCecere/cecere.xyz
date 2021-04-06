@@ -14,7 +14,7 @@ tags:
 - petizione
 - scudo spaziale
 title: 15 città in sciopero della fame contro lo Scudo Stellare
-slug: /2008/05/21/15-citta-in-sciopero-della-fame-contro-lo-scudo-stellare/
+slug: /2008/05/15-citta-in-sciopero-della-fame-contro-lo-scudo-stellare/
 ---
 
 ieri sono stato ad un'importante riunione del coordinamento milanese della campagna.

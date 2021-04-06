@@ -7,7 +7,7 @@ tags:
 - disinformazione
 - umanista
 title: I mezzi d’informazione parlano di alcuni scandali per nasconderne altri
-slug: /2006/05/13/i-mezzi-dinformazione-parlano-di-alcuni-scandali-per-nasconderne-altri/
+slug: /2006/05/i-mezzi-dinformazione-parlano-di-alcuni-scandali-per-nasconderne-altri/
 ---
 
 riporto dal sito del giornale L'Umanista [www.umanista.org](http://www.umanista.org) che consiglio a tutti di seguire con regolarità, e che esprime straordinariamente anche il mio punto di vista:

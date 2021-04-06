@@ -11,7 +11,7 @@ tags:
 - Politica
 - Stati Uniti
 title: Al Gore, una scomoda verità?
-slug: /2010/04/27/al-gore-una-scomoda-verita/
+slug: /2010/04/al-gore-una-scomoda-verita/
 ---
 
 Spero tu abbia voglia di meditare e di approfondire su quanto segue.. io lo sto facendo. E **che la tua indignazione si faccia azione nel mondo**.

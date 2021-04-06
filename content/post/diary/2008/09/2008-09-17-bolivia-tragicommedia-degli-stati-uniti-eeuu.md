@@ -11,7 +11,7 @@ tags:
 - USA
 - violenza
 title: 'Bolivia: Tragicommedia degli Stati Uniti (EE.UU.)'
-slug: /2008/09/17/bolivia-tragicommedia-degli-stati-uniti-eeuu/
+slug: /2008/09/bolivia-tragicommedia-degli-stati-uniti-eeuu/
 ---
 
 <div>

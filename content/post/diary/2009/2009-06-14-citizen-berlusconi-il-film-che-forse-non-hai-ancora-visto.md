@@ -8,7 +8,7 @@ tags:
 - film
 - Politica
 title: 'Citizen Berlusconi: il film che forse non hai ancora visto'
-slug: /2009/06/14/citizen-berlusconi-il-film-che-forse-non-hai-ancora-visto/
+slug: /2009/06/citizen-berlusconi-il-film-che-forse-non-hai-ancora-visto/
 ---
 
 diversi anni fa (nel 2003.. 6 anni fa!!) negli Stati Uniti hanno realizzato questo [documentario](http://www.imdb.com/title/tt0415710/), qui presentato in forma integrale con i sottotitoli in italiano. L'avevo sicuramente già segnalato e diffuso.. ma credo che mai come oggi sia interessante vederlo con attenzione.

@@ -12,7 +12,7 @@ tags:
 - mondo
 - spot
 title: 100 idee per cambiare il mondo!
-slug: /2008/09/25/100-idee-per-cambiare-il-mondo/
+slug: /2008/09/100-idee-per-cambiare-il-mondo/
 ---
 
 perteciperò attivamente a questo concorso di Google, che stanzia 10 milioni di dollari per far realizzare 5 tra le migliori idee/progetti per cambiare il mondo (in ambito sociale, culturale, educativo, sanitario, ambientale…)

@@ -12,7 +12,7 @@ tags:
 - ricreazione
 - sesso
 title: Immagine vagina (ovvero tutto dentro)
-slug: /2007/09/03/immagine-vagina-ovvero-tutto-dentro/
+slug: /2007/09/immagine-vagina-ovvero-tutto-dentro/
 ---
 
 ![Immagine Vagina](http://stefanocecere.com/wp-content/uploads/sites/3/2007/09/immagine_vagina_500.jpg)

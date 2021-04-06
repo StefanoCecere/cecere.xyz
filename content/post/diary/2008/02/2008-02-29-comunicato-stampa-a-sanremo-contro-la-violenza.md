@@ -9,7 +9,7 @@ tags:
 - music
 - nonviolenza
 title: 'Comunicato Stampa: A Sanremo contro la violenza'
-slug: /2008/02/29/comunicato-stampa-a-sanremo-contro-la-violenza/
+slug: /2008/02/comunicato-stampa-a-sanremo-contro-la-violenza/
 ---
 
 **COMUNICATO CON PREGHIERA DI DIFFUSIONE A TUTTE LE ASSOCIAZIONI E PERSONE ATTIVE PER LA PACE E LA NONVIOLENZA

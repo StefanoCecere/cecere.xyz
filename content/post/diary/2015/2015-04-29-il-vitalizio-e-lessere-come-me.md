@@ -8,7 +8,7 @@ tags:
 - Roma
 - soldi
 title: il vitalizio e l'essere come me
-slug: /2015/04/29/il-vitalizio-e-lessere-come-me/
+slug: /2015/04/il-vitalizio-e-lessere-come-me/
 ---
 
 ho la fortuna (o la capacità) di ottenere un bel lavoro:

@@ -10,7 +10,7 @@ tags:
 - spirito
 - umanista
 title: Simbolo della pace umano a Budapest
-slug: /2006/03/31/simbolo-della-pace-umano-a-budapest/
+slug: /2006/03/simbolo-della-pace-umano-a-budapest/
 ---
 
 <img src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/03/cerchio_pace_budapest.jpg" alt="cerchio_pace_budapest" width="400" height="300" class="alignnone size-full wp-image-5482" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2006/03/cerchio_pace_budapest.jpg 400w, http://stefanocecere.com/wp-content/uploads/sites/3/2006/03/cerchio_pace_budapest-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />

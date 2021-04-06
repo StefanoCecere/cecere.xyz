@@ -6,7 +6,7 @@ id: 126
 tags:
 - vergogna!
 title: mannaggia non posso andare a roma!
-slug: /2005/11/03/mannaggia-non-posso-andare-a-roma/
+slug: /2005/11/mannaggia-non-posso-andare-a-roma/
 ---
 
 <img src='/wp-content/lucamannaggia.jpg' alt='' align='left' />quindi, secondo il grande appello di Ferrara.. da stasera divento un antisemita?

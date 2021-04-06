@@ -8,7 +8,7 @@ tags:
 - sito
 - umanista
 title: E&#039; online l&#039;Enciclopedia Umanista
-slug: /2008/09/23/e-online-lenciclopedia-umanista/
+slug: /2008/09/e-online-lenciclopedia-umanista/
 ---
 
 _toc toc. "chi è?"  "buongiorno signora.. sono qui per venderle un'enciclopedia!"_

@@ -7,6 +7,6 @@ tags:
 - chiesa cattolica
 - video
 title: '8 x mille alla Chiesa Cattolica: ora anche basta'
-slug: /2010/04/10/8-x-mille-alla-chiesa-cattolica-ora-anche-basta/
+slug: /2010/04/8-x-mille-alla-chiesa-cattolica-ora-anche-basta/
 ---
 

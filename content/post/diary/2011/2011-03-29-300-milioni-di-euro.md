@@ -11,7 +11,7 @@ tags:
 - soldi
 - vergogna!
 title: 300 milioni di euro
-slug: /2011/03/29/300-milioni-di-euro/
+slug: /2011/03/300-milioni-di-euro/
 ---
 
 _questa la condivido.. non perché sia eclatante (di atti trogloditi ne conto un centinaio al giorno) ma soprattutto perché ricordo che il Referendum è forse l'ultimo strumento di partecipazione pubblica che abbiamo. il diritto di scegliere è stata una conquista sudata col sangue di troppi nostri predecessori. la loro morte non deve tornare vana._

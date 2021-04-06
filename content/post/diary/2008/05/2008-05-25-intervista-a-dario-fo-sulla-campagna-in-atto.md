@@ -9,6 +9,6 @@ tags:
 - intervista
 - video
 title: Intervista a Dario Fo sulla Campagna in atto
-slug: /2008/05/25/intervista-a-dario-fo-sulla-campagna-in-atto/
+slug: /2008/05/intervista-a-dario-fo-sulla-campagna-in-atto/
 ---
 

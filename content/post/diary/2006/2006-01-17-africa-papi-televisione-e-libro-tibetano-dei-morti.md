@@ -8,7 +8,7 @@ tags:
 - Papa
 - spirito
 title: Africa, Papi, televisione e libro tibetano dei morti
-slug: /2006/01/17/africa-papi-televisione-e-libro-tibetano-dei-morti/
+slug: /2006/01/africa-papi-televisione-e-libro-tibetano-dei-morti/
 ---
 
 trovo molto gusto nella miscela di buoni ingredienti.

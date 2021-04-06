@@ -8,6 +8,6 @@ tags:
 - video
 title: 16 giorni per costruire un castello di sabbia… poi arrivano i giornalisti…
   :)
-slug: /2008/09/27/16-giorni-per-costruire-un-castello-di-sabbia-poi-arrivano-i-giornalisti/
+slug: /2008/09/16-giorni-per-costruire-un-castello-di-sabbia-poi-arrivano-i-giornalisti/
 ---
 

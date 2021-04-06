@@ -8,7 +8,7 @@ tags:
 - morale
 - punti di vista
 title: i soliti punti di vista
-slug: /2015/03/24/i-soliti-punti-di-vista/
+slug: /2015/03/i-soliti-punti-di-vista/
 ---
 
 bisogna accettare che ognuno ha il suo punto di vista e i suoi interessi.

@@ -8,7 +8,7 @@ tags:
 - legge
 - multe
 title: Lavoro socialmente utile anzichè pagare le multe
-slug: /2009/04/27/lavoro-socialmente-utile-anziche-pagare-le-multe/
+slug: /2009/04/lavoro-socialmente-utile-anziche-pagare-le-multe/
 ---
 
 se mai fossi diventato un politico, questa sarebbe stata tra le mie cose a proporre**: perché le multe devono essere pagate sempre e solo con i soldi?** una procedura controproducente perchè chi ne ha tanti (di soldi) se ne frega di eventuali multe per parcheggi in doppia fila o di infrangere le regole base… chi ci rimette sono sempre i soliti che di soldi ne hanno pochi e magari si sono dimenticati l'auto con il lavaggio strade che capita ogni secondo sabato dispari…

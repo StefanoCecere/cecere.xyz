@@ -8,7 +8,7 @@ tags:
 - tecnologia
 - video
 title: '&quot;Big Dog&quot; : i mega robots sono tra noi! (video)'
-slug: /2008/03/19/big-dog-i-mega-robots-sono-tra-noi-video/
+slug: /2008/03/big-dog-i-mega-robots-sono-tra-noi-video/
 ---
 
 sembra incredibile.

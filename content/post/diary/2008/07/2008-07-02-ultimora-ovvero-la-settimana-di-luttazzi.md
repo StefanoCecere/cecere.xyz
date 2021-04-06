@@ -15,7 +15,7 @@ tags:
 - satira
 - veltroni
 title: Ultim&#039;ora (ovvero la settimana di Luttazzi)
-slug: /2008/07/02/ultimora-ovvero-la-settimana-di-luttazzi/
+slug: /2008/07/ultimora-ovvero-la-settimana-di-luttazzi/
 ---
 
 ecco una raccolta di "pilloline" di Daniele Luttazzi per la prima pagina de Il Manifesto negli ultimi giorni (forse qualcuno non se ne era accorto che da circa un mese si occupa di questa importante rubrica):

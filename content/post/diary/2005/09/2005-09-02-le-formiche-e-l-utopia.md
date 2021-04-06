@@ -7,7 +7,7 @@ tags:
 - umanista
 - Futuro
 title: le formiche e l'utopia
-slug: /2005/09/02/le-formiche-e-l-utopia/
+slug: /2005/09/le-formiche-e-l-utopia/
 ---
 
 <img src="http://www.inea.it/prog/iira/atti1/ants1.gif" width="150" height="150" align="left" />le formiche, se solo si mettessero d’accordo, coi loro piccoli passettini, sposterebbero un grattacielo..

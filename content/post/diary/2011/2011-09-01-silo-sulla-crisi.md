@@ -22,7 +22,7 @@ tags:
 - società
 - storia
 title: 'Silo: sulla crisi'
-slug: /2011/09/01/silo-sulla-crisi/
+slug: /2011/09/silo-sulla-crisi/
 ---
 
 _amici.. trovo veramente opportuno la ripresentazione del libro "Lettere ai miei amici", fatta da Silo nel 1994, che non solo già prevedeva lo scenario drammaticamente attuale, ma lo inquadrava introducendo punti di vista e possibili atteggiamenti di risposta quanto mai validi._

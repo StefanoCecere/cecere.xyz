@@ -6,7 +6,7 @@ id: 1756
 tags:
 - dio
 title: Orto benedetto
-slug: /2009/05/08/orto-benedetto/
+slug: /2009/05/orto-benedetto/
 ---
 
 amici.. avevo solo piantato un pomodoro.. che a lassù piacciono i pomodori?

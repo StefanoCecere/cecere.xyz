@@ -8,7 +8,7 @@ tags:
 - spirito
 - umanista
 title: Abbracci gratis si sta diffondendo!
-slug: /2006/11/14/abbracci-gratis/
+slug: /2006/11/abbracci-gratis/
 ---
 
 <img id="image458" alt="abbraccio.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/11/abbraccio.jpg" />Ne avrete sentito parlare.. forse l'avete visto.. di certo posso dirvi che ne sentirete parlare, che lo vedrete.. che lo sperimenterete e vi chiederete perché ce ne stiamo rendendo solo ora.. questo mondo sta diventanto un grigio ufficio da un lato e una fossa comune dall'altro… e non volevamo vederlo.

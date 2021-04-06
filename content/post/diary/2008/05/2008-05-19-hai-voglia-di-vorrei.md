@@ -10,7 +10,7 @@ tags:
 - Monza
 - ricreazione
 title: Hai voglia di Vorrei?
-slug: /2008/05/19/hai-voglia-di-vorrei/
+slug: /2008/05/hai-voglia-di-vorrei/
 ---
 
 è online:

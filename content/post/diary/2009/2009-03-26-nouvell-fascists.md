@@ -9,7 +9,7 @@ tags:
 - Politica
 - video
 title: Nouvell Fascists
-slug: /2009/03/26/nouvell-fascists/
+slug: /2009/03/nouvell-fascists/
 ---
 
 Beppe Grillo segnala questo video che riproduco senza esitazione!

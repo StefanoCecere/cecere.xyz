@@ -7,7 +7,7 @@ id: 2320
 tags:
 - senso della vita
 title: Cosa è necessario
-slug: /2011/01/09/cosa-e-necessario/
+slug: /2011/01/cosa-e-necessario/
 ---
 
 <div>

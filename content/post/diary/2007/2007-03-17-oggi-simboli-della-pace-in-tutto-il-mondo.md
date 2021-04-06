@@ -9,7 +9,7 @@ tags:
 - spirito
 - umanista
 title: Oggi Simboli della Pace in tutto il mondo.
-slug: /2007/03/17/oggi-simboli-della-pace-in-tutto-il-mondo/
+slug: /2007/03/oggi-simboli-della-pace-in-tutto-il-mondo/
 ---
 
 credo siamo rimasti in pochi. sempre meno. ma il futuro ci darà ragione.

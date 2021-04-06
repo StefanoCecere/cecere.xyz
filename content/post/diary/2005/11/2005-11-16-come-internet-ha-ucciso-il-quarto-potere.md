@@ -8,7 +8,7 @@ tags:
 - internet
 - tecnologia
 title: Come internet ha ucciso il Quarto Potere
-slug: /2005/11/16/come-internet-ha-ucciso-il-quarto-potere/
+slug: /2005/11/come-internet-ha-ucciso-il-quarto-potere/
 ---
 
 <img src='/wp-content/terra_dallo_spazio.jpg' alt='' align='left' />_Nel 2014 il New York Times andò offline.

@@ -4,7 +4,7 @@ date: 2005-06-01T13:24:17Z
 guid: http://stefanocecere.com/?p=33
 id: 33
 title: calciatori e attori
-slug: /2005/06/01/calciatori-e-attori/
+slug: /2005/06/calciatori-e-attori/
 ---
 
 <img src="http://digilander.libero.it/mieiviaggi/grecia/116%20Museo%20Archeologico,%20maschera%20di%20Agamennone.jpg" align="left" width="120" height="120" />mi piaceva molto, quando al liceo imparavo usi e costumi di altri tempi e civiltà..

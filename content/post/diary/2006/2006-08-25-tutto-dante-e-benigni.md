@@ -10,7 +10,7 @@ tags:
 - Firenze
 - ricreazione
 title: Tutto Dante e Benigni
-slug: /2006/08/25/tutto-dante-e-benigni/
+slug: /2006/08/tutto-dante-e-benigni/
 ---
 
 <img align="left" title="Dante Alighieri e Roberto Benigni" id="image397" alt="Dante Alighieri e Roberto Benigni" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/Tutto_Dante_Roberto_Benigni.jpg" />Tra luglio e agosto Roberto Benigni ha tenuto una serie di spettacoli, in piazza Santa Croce a Firenze, sulla Divina Commedia.

@@ -9,7 +9,7 @@ tags:
 - umanista
 - volontariato
 title: 'festa del volontariato: per te, per me'
-slug: /2005/09/12/festa-del-volontariato-per-te-per-me/
+slug: /2005/09/festa-del-volontariato-per-te-per-me/
 ---
 
 <img src="http://www.ilfannullone.it/uploads/RTEmagicC_volantino_coglimi.jpg.jpg" align="left" width="142" height="243" />abbiamo passato il finesettimana a partecipare ad una bella festa del volontariato, a Monza.

@@ -8,7 +8,7 @@ tags:
 - Media
 - TV
 title: 'Ascolti tv: De Filippi batte Pupo'
-slug: /2008/09/21/ascolti-tv-de-filippi-batte-pupo/
+slug: /2008/09/ascolti-tv-de-filippi-batte-pupo/
 ---
 
 <http://www.ansa.it/site/notizie/awnplus/spettacolo/news/2008-09-21_121251561.html>

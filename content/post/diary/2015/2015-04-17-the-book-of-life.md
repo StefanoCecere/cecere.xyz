@@ -11,7 +11,7 @@ tags:
 - film
 - JJ
 title: The Book of Life
-slug: /2015/04/17/the-book-of-life/
+slug: /2015/04/the-book-of-life/
 ---
 
 una bella sorpresa, questo The Book of Life

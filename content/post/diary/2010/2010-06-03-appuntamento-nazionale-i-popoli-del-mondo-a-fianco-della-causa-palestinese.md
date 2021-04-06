@@ -8,7 +8,7 @@ tags:
 - manifestazione
 - Palestina
 title: 'Appuntamento nazionale: I POPOLI DEL MONDO A FIANCO DELLA CAUSA PALESTINESE'
-slug: /2010/06/03/appuntamento-nazionale-i-popoli-del-mondo-a-fianco-della-causa-palestinese/
+slug: /2010/06/appuntamento-nazionale-i-popoli-del-mondo-a-fianco-della-causa-palestinese/
 ---
 
 <div>

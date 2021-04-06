@@ -8,7 +8,7 @@ tags:
 - ricreazione
 - spirito
 title: una storiella
-slug: /2005/12/14/una-storiella/
+slug: /2005/12/una-storiella/
 ---
 
 condivido questa storiella che mi è arrivata perché è davvero simpatica. il commento dell’amico è:

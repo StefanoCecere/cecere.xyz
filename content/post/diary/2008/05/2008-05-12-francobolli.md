@@ -8,7 +8,7 @@ tags:
 - ricreazione
 - ridere
 title: Francobolli
-slug: /2008/05/12/francobolli/
+slug: /2008/05/francobolli/
 ---
 
 Scusami non avevo il tempo di comprare i francobolli!

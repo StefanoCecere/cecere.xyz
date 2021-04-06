@@ -8,7 +8,7 @@ tags:
 - spirito
 - umanista
 title: 'Disarmiamoli tutti: foto degli eventi del 17 marzo nel mondo'
-slug: /2007/03/19/disarmiamoli-tutti-foto-degli-eventi-del-17-marzo-nel-mondo/
+slug: /2007/03/disarmiamoli-tutti-foto-degli-eventi-del-17-marzo-nel-mondo/
 ---
 
 mi ritengo molto fortunato… e forse no. me la sono davvero cercata questa situazione in cui ho centinaia di amici, partecipo attivamente a numerosi progetti validi, ho bellissime relazioni con tutti e vado a letto la sera con la soddisfazione di **avere dato un altro po' di senso a questa vita**.

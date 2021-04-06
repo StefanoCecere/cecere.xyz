@@ -9,6 +9,6 @@ tags:
 - spot
 - video
 title: anche Moni Ovadia appoggia la faccenda
-slug: /2008/09/23/anche-moni-ovadia-appoggia-la-faccenda/
+slug: /2008/09/anche-moni-ovadia-appoggia-la-faccenda/
 ---
 

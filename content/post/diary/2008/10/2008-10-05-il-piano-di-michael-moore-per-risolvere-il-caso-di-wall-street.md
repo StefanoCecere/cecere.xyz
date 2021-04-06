@@ -10,7 +10,7 @@ tags:
 - soldi
 - USA
 title: Il piano di Michael Moore per risolvere il caso di Wall Street
-slug: /2008/10/05/il-piano-di-michael-moore-per-risolvere-il-caso-di-wall-street/
+slug: /2008/10/il-piano-di-michael-moore-per-risolvere-il-caso-di-wall-street/
 ---
 
 riporto questi commenti e queste proposte di di Michael Moore che condivido appieno.

@@ -7,7 +7,7 @@ excerpt: |
 guid: http://stefanocecere.com/?p=5
 id: 5
 title: Piu' mangi, meno paghi.
-slug: /2005/08/02/piu-mangi-meno-paghi/
+slug: /2005/08/piu-mangi-meno-paghi/
 ---
 
 La sfida ha qualcosa di perverso: **la bistecca supera i 2 Kg. di peso**, e ordinarla al "Big Texan" di Amarillo ti costa la bella cifra di 52 dollari - circa 40 euro. Ma se riesci a mangiarla tutta in meno di un'ora, compresi lo sfilatino di pane e la patata bollita di contorno, la bistecca diventa gratis.

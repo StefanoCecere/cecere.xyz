@@ -9,7 +9,7 @@ tags:
 - Iran
 - violenza
 title: pronti per la prossima guerra in Iran?
-slug: /2005/11/05/pronti-per-la-prossima-guerra-in-iran/
+slug: /2005/11/pronti-per-la-prossima-guerra-in-iran/
 ---
 
 <img src='/wp-content/eski_iran.jpg' alt='' align='left' />vogliamo vedere che entro primavera si passa all'Iran, nello stesso modo in cui &#x201c;magicamente&#x201d; sono passati dall'Afghanistan all'Iraq?

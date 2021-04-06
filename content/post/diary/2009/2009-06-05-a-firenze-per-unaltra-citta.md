@@ -8,7 +8,7 @@ tags:
 - elezioni
 - Firenze
 title: A Firenze Per un&#039;altra Città!!
-slug: /2009/06/05/a-firenze-per-unaltra-citta/
+slug: /2009/06/a-firenze-per-unaltra-citta/
 ---
 
 <http://www.perunaltracitta.org/>

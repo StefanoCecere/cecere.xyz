@@ -8,7 +8,7 @@ tags:
 - Papa
 - Rassegna Stampa
 title: no comment
-slug: /2008/10/06/no-comment/
+slug: /2008/10/no-comment/
 ---
 
 dal corriere.it di oggi:

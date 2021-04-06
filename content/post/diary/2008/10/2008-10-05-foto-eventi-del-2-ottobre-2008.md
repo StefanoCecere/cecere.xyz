@@ -9,7 +9,7 @@ tags:
 - Gandhi
 - nonviolenza
 title: Foto eventi del 2 ottobre 2008
-slug: /2008/10/05/foto-eventi-del-2-ottobre-2008/
+slug: /2008/10/foto-eventi-del-2-ottobre-2008/
 ---
 
 il 2 ottobre, giornata mondiale delle nonviolenza, si sono svolti eventi eventi in moltissime città del mondo.

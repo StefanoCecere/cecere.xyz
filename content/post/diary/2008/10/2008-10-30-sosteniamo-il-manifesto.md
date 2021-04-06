@@ -9,7 +9,7 @@ tags:
 - Media
 - petizione
 title: Sosteniamo Il Manifesto
-slug: /2008/10/30/sosteniamo-il-manifesto/
+slug: /2008/10/sosteniamo-il-manifesto/
 ---
 
 se [Il Manifesto](http://www.ilmanifesto.it) non trova nuove forme di finanziamento, grazie alla nuova finanziaria che taglia i fondi pubblici all'editoria cooperativa, entro Natale molto probabilmente morirà.

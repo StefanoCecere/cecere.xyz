@@ -11,7 +11,7 @@ tags:
 - idee
 - nonviolenza
 title: Un esercito della nonviolenza
-slug: /2012/01/30/un-esercito-della-nonviolenza/
+slug: /2012/01/un-esercito-della-nonviolenza/
 ---
 
 Riescono a fermare i singoli uomini.. ma non le Idee

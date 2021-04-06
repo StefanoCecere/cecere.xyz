@@ -6,7 +6,7 @@ id: 2032
 tags:
 - scuola
 title: Si torna a scuola
-slug: /2010/03/05/si-torna-a-scuola/
+slug: /2010/03/si-torna-a-scuola/
 ---
 
 [<img class="aligncenter size-full wp-image-2033" title="cartella_scuola" src="http://stefanocecere.com/wp-content/uploads/sites/3/2010/03/cartella_scuola.jpg" alt="" width="350" height="302" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2010/03/cartella_scuola.jpg 350w, http://stefanocecere.com/wp-content/uploads/sites/3/2010/03/cartella_scuola-300x259.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" />](http://stefanocecere.com/wp-content/uploads/sites/3/2010/03/cartella_scuola.jpg)

@@ -8,7 +8,7 @@ tags:
 - nonviolenza
 - personaggi
 title: personaggi da nonviolenza
-slug: /2008/10/10/personaggi-da-nonviolenza/
+slug: /2008/10/personaggi-da-nonviolenza/
 ---
 
 crescono i personaggi che stanno aderendo al Forum sulla non violenza di settimana prossima.

@@ -12,7 +12,7 @@ tags:
 - video
 - vintage
 title: Questi dischi contengono materiale classificato dell&#039;Impero
-slug: /2011/10/10/questi-dischi-contengono-materiale-classificato-dellimpero/
+slug: /2011/10/questi-dischi-contengono-materiale-classificato-dellimpero/
 ---
 
 provate a farlo con le chiavette USB o gli SSD! 🙂

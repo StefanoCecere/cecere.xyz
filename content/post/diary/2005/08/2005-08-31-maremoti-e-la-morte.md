@@ -4,7 +4,7 @@ date: 2005-08-31T10:07:03Z
 guid: http://stefanocecere.com/2005/08/31/maremoti-e-la-morte/
 id: 75
 title: maremoti e la morte
-slug: /2005/08/31/maremoti-e-la-morte/
+slug: /2005/08/maremoti-e-la-morte/
 ---
 
 tutte donne, ste tempeste.. la donna è potenza, per chi sa vederla.

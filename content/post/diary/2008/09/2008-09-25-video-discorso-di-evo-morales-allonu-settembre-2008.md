@@ -13,7 +13,7 @@ tags:
 - speculazione
 - USA
 title: Video discorso di Evo Morales all&#039;ONU - settembre 2008
-slug: /2008/09/25/video-discorso-di-evo-morales-allonu-settembre-2008/
+slug: /2008/09/video-discorso-di-evo-morales-allonu-settembre-2008/
 ---
 
 dopo le recenti vicessitudini in Bolivia e il rapporto Bolivia/Venezuela e Stati Uniti, il discorso di Evo Morales è particolarmente interessante:

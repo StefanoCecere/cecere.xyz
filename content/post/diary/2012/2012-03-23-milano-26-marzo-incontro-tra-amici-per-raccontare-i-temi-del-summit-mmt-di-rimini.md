@@ -11,7 +11,7 @@ tags:
 - MMT
 title: 'Milano: 26 Marzo Incontro tra amici per raccontare i temi del Summit MMT di
   Rimini'
-slug: /2012/03/23/milano-26-marzo-incontro-tra-amici-per-raccontare-i-temi-del-summit-mmt-di-rimini/
+slug: /2012/03/milano-26-marzo-incontro-tra-amici-per-raccontare-i-temi-del-summit-mmt-di-rimini/
 ---
 
 **per gli amici di Milano, rigiro questo appuntamento di lunedì prossimo!**

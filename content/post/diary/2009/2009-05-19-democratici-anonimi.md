@@ -9,7 +9,7 @@ tags:
 - Politica
 - video
 title: Democratici Anonimi
-slug: /2009/05/19/democratici-anonimi/
+slug: /2009/05/democratici-anonimi/
 ---
 
 mooolto carino questo spot!

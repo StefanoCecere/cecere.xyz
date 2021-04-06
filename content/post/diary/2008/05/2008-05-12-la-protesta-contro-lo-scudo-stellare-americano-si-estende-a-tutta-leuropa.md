@@ -13,7 +13,7 @@ tags:
 - petizione
 - scudo spaziale
 title: La protesta contro lo scudo stellare americano si estende a tutta l&#039;Europa
-slug: /2008/05/12/la-protesta-contro-lo-scudo-stellare-americano-si-estende-a-tutta-leuropa/
+slug: /2008/05/la-protesta-contro-lo-scudo-stellare-americano-si-estende-a-tutta-leuropa/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/tami.jpg' alt='tami.jpg' align="left" />Martedì 13 maggio J**an Tamas**, leader del movimento ceco contro la base radar USA, comincerà uno **sciopero della fame** insieme all'attivista Jan Bednar **20 città europee** - Parigi, Madrid, Roma, Atene, Berlino, Bruxelles, Amsterdam, Copenhagen, Budapest, Zurigo, Tolosa, Malaga, Porto, Colonia, Milano, Trieste e Torino - **si uniranno alla protesta** portata avanti a Praga.

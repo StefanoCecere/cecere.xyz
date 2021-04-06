@@ -8,7 +8,7 @@ tags:
 - elezioni
 - Politica
 title: Cosa votare? ecco la mia dichiarazione di voto
-slug: /2008/04/08/cosa-votare-ecco-la-mia-dichiarazione-di-voto/
+slug: /2008/04/cosa-votare-ecco-la-mia-dichiarazione-di-voto/
 ---
 
 _la seguente è una mia posizione personale e non quella del Movimento o del Partito Umanista._

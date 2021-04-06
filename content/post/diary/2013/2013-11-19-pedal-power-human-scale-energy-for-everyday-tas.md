@@ -7,7 +7,7 @@ tags:
 - idea
 - tech
 title: Pedal Power - Human Scale Energy For Everyday Tasks
-slug: /2013/11/19/pedal-power-human-scale-energy-for-everyday-tas/
+slug: /2013/11/pedal-power-human-scale-energy-for-everyday-tas/
 ---
 
 i really like this project

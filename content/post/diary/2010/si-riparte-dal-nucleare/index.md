@@ -10,7 +10,7 @@ tags:
 - energia nucleare
 - MsG
 title: si riparte! dal nucleare
-slug: /2010/04/23/si-riparte-dal-nucleare/
+slug: /2010/04/si-riparte-dal-nucleare/
 ---
 
 finalmente.. dopo un anno praticamente dedicato al progetto della Marcia Mondiale.. e un'inverno dedito allo studio e un po' di riposo… si torna in piena attività!

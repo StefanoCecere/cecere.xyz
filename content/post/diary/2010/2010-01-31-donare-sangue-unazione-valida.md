@@ -10,7 +10,7 @@ tags:
 - senso della vita
 - solidarietà
 title: 'Donare sangue: un&#039;azione valida'
-slug: /2010/01/31/donare-sangue-unazione-valida/
+slug: /2010/01/donare-sangue-unazione-valida/
 ---
 
 <img class="alignleft size-full wp-image-1993" title="donare-sangue" src="http://stefanocecere.com/wp-content/uploads/sites/3/2010/01/donare-sangue.gif" alt="" width="179" height="237" />Non so perché ho aspettato tanto. A trentasei anni suonati stamani sono andato a donare un po' di sangue. Me ne hanno preso quasi mezzo litro. Non me ne sono neanche accorto, e la colazione offerta non è stata l'unica cosa che mi è piaciuta molto.

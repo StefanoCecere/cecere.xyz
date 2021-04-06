@@ -11,6 +11,6 @@ tags:
 - scudo spaziale
 - video
 title: Rezophonic per Europe for Peace e No allo Scudo Spaziale
-slug: /2008/06/13/rezophonic-per-europe-for-peace-e-no-allo-scudo-spaziale/
+slug: /2008/06/rezophonic-per-europe-for-peace-e-no-allo-scudo-spaziale/
 ---
 

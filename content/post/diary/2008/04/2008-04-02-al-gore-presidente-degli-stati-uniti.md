@@ -8,7 +8,7 @@ tags:
 - Politica
 - USA
 title: Al Gore presidente degli Stati Uniti
-slug: /2008/04/02/al-gore-presidente-degli-stati-uniti/
+slug: /2008/04/al-gore-presidente-degli-stati-uniti/
 ---
 
 <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/al-gore.jpeg' alt='al-gore.jpeg' align="left" />e avremo tutti un suo pannello solare sul tetto! 😉

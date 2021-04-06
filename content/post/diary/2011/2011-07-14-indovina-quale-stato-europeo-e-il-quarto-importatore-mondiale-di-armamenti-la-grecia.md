@@ -15,7 +15,7 @@ tags:
 - speculazione
 title: Indovina quale Stato europeo è il quarto importatore mondiale di armamenti?
   La GRECIA
-slug: /2011/07/14/indovina-quale-stato-europeo-e-il-quarto-importatore-mondiale-di-armamenti-la-grecia/
+slug: /2011/07/indovina-quale-stato-europeo-e-il-quarto-importatore-mondiale-di-armamenti-la-grecia/
 ---
 
 di Steve McGiffen</span>

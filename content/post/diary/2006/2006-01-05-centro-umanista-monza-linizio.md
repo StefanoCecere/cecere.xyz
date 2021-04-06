@@ -10,7 +10,7 @@ tags:
 - ricreazione
 - umanista
 title: "Centro Umanista Monza: l'inizio"
-slug: /2006/01/05/centro-umanista-monza-linizio/
+slug: /2006/01/centro-umanista-monza-linizio/
 ---
 
 [<img src='/wp-content/centro_umanista_monza.jpg' alt='' align='left' />](http://www.ilfannullone.it/new/centro-umanista-in-cerca-di-nome-le-prime-foto/64/)

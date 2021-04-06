@@ -8,7 +8,7 @@ tags:
 - terrorismo
 - umanista
 title: Cosa fare in caso di attacco terroristico
-slug: /2005/12/20/cosa-fare-in-caso-di-attacco-terroristico/
+slug: /2005/12/cosa-fare-in-caso-di-attacco-terroristico/
 ---
 
 [<img src='/wp-content/csoafareincasodiattentatoterroristico.jpg' alt='' align='left' />](/wp-content/Cosafareincasodiattaccoterroristico.pdf "")non se ne parla più tanto, ma il tema è sempre attuale.

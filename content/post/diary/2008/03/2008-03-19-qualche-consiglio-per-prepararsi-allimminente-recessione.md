@@ -9,7 +9,7 @@ tags:
 - mondo
 - recessione
 title: Qualche consiglio per prepararsi all&#039;imminente recessione.
-slug: /2008/03/19/qualche-consiglio-per-prepararsi-allimminente-recessione/
+slug: /2008/03/qualche-consiglio-per-prepararsi-allimminente-recessione/
 ---
 
 Per quanto i media diano eco solo alle voci ottimiste e mistificatrici per l’economia europea è alle porte una recessione senza precedenti che inizierà dalle periferie (Italia, Spagna, Grecia) ed infine colpirà anche i paesi più forti.

@@ -8,7 +8,7 @@ tags:
 - ricreazione
 - ridere
 title: Ridi! e paga le tasse! (11 mesi l&#039;anno però ;)
-slug: /2008/04/10/ridi-e-paga-le-tasse-11-mesi-lanno-pero/
+slug: /2008/04/ridi-e-paga-le-tasse-11-mesi-lanno-pero/
 ---
 
 (inizio oggi la rubrica quotidiana "Ridi!")
