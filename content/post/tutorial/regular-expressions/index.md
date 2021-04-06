@@ -15,6 +15,7 @@ image:
   preview_only: false
 projects: []
 ---
+> Se una procedura ha una regola, allora può essere automatizzata. Scopriamolo con questo semplice sistema per cercare e sostituire del testo.
 
 Ho 1200 files di testo che presentano tutti una sequenza di parole con lo stesso formato, e voglio cambiarli tutti.
 
