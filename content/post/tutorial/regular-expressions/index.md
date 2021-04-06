@@ -53,3 +53,5 @@ Le Regular Expressions sono estremamente potenti, inventate già negli anni 1950
 E ci permette di capire una cosa: se qualcosa ha delle regole che possono essere formalizzate, allora può farla una macchina, e presto potremo chiedere alla nostra A.I. (Intelligenza Artificiale) di eseguire la procedura per noi.
 
 PS: l'ho usata per riorganizzare i vecchi post del mio blog
+
+{{< post_footer>}}
