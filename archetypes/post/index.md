@@ -1,12 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-slug:
+slug: {{ .Name }}
 subtitle: ""
 summary: ""
+categories: [blog]
 tags: []
-categories: []
 date: {{ .Date }}
-lastmod: {{ .Date }}
 featured: false
 draft: false
 image:
