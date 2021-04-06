@@ -5,7 +5,7 @@ author: Stefano Cecere
 categories:
 - Buone Nuove
 - Eventi
-date: "2008-09-24T11:29:11Z"
+date: 2008-09-24T11:29:11Z
 guid: http://stefanocecere.com/?p=1244
 id: 1244
 tags:
@@ -28,7 +28,7 @@ slug: /2008/09/24/stop-razzismo-a-milano-concerti-e-presidi/
   
   <div>
     <p>
-      <strong><span>Continua la mobilitazione verso il 4 ottobre con nuovi appuntamenti dove rilanciare l&#8217;appello a tutte le forze antirazziste ad aderire alla manifestazione di sabato 4 ottobre a Roma (partenza ore 14.30, piazza della Repubblica).</span></strong></div> 
+      <strong><span>Continua la mobilitazione verso il 4 ottobre con nuovi appuntamenti dove rilanciare l'appello a tutte le forze antirazziste ad aderire alla manifestazione di sabato 4 ottobre a Roma (partenza ore 14.30, piazza della Repubblica).</span></strong></div> 
       
       <p>
         </span></div> 
@@ -55,11 +55,11 @@ slug: /2008/09/24/stop-razzismo-a-milano-concerti-e-presidi/
         </ul>
         
         <p>
-          Ancora una volta le forze antirazziste fanno sentire la laro voce per affermare solidarietà e accoglienza per ogni essere umano, libera circolazione degli individui, libertà e sicurezza di ognuno, ritiro immediato del &#8220;pacchetto sicurezza&#8221;, opposizione alla direttiva della UE sul rimpatrio e alle logiche repressive, criminali, discriminatorie e di sfruttamento.
+          Ancora una volta le forze antirazziste fanno sentire la laro voce per affermare solidarietà e accoglienza per ogni essere umano, libera circolazione degli individui, libertà e sicurezza di ognuno, ritiro immediato del "pacchetto sicurezza", opposizione alla direttiva della UE sul rimpatrio e alle logiche repressive, criminali, discriminatorie e di sfruttamento.
         </p>
         
         <p>
-          <em><span>Per informazioni, sottoscrizioni e prenotazione pullman:<br /> </span><span><span>Eleonora Scabbia &#8211; cell. 340 2347207; </span></span></em><a href="mailto:eleonora.scabbia@fastwebnet.it"><em><span><span>eleonora.scabbia@fastwebnet.it</span></span></em></a><br /> <em><span><span>Giorgio Floridia &#8211; cell. 339 6603952; </span></span></em><a href="mailto:flos15@libero.it"><em><span><span>flos15@libero.it</span></span></em></a>
+          <em><span>Per informazioni, sottoscrizioni e prenotazione pullman:<br /> </span><span><span>Eleonora Scabbia - cell. 340 2347207; </span></span></em><a href="mailto:eleonora.scabbia@fastwebnet.it"><em><span><span>eleonora.scabbia@fastwebnet.it</span></span></em></a><br /> <em><span><span>Giorgio Floridia - cell. 339 6603952; </span></span></em><a href="mailto:flos15@libero.it"><em><span><span>flos15@libero.it</span></span></em></a>
         </p>
         
         <p>

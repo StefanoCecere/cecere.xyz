@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-08-19T14:40:42Z"
+categories: [blog]
+date: 2008-08-19T14:40:42Z
 guid: http://stefanocecere.com/?p=1118
 id: 1118
 tags:
@@ -15,7 +14,7 @@ title: Rimedio per la gotta!
 slug: /2008/08/19/rimedio-per-la-gotta/
 ---
 
-_ovvero: come interpretare a proprio uso e godimento tutto ciò che c&#8217;è._
+_ovvero: come interpretare a proprio uso e godimento tutto ciò che c'è._
 
 <span>Per guarire dalla gotta si consiglia di bere al massimo un bicchiere di vino al giorno, mangiare poco di carne, forse un hamburger una volta a settimana.</span> <span>Con questi due consigli di seguire presto vi sentirete meglio.</span>
 

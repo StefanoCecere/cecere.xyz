@@ -2,7 +2,7 @@
 author: Stefano Cecere
 categories:
 - Media
-date: "2009-07-03T13:28:04Z"
+date: 2009-07-03T13:28:04Z
 guid: http://stefanocecere.com/?p=1913
 id: 1913
 tags:
@@ -20,7 +20,7 @@ non possono pubblicare un articolo sul video dei mostri nelle fognature e farlo 
 
 <http://www.repubblica.it/2009/07/sezioni/esteri/mostro-fogne/mostro-fogne/mostro-fogne.html?ref=hpspr1>
 
-vedi il video e ti servono 5 secondi per capire che è una colonscopia.. o quantomeno (dal movimentodell&#8217;acqua) capisci che è una MICRO-camera in un tubino molto piccolo.. quindi certo non una fognatura.
+vedi il video e ti servono 5 secondi per capire che è una colonscopia.. o quantomeno (dal movimentodell'acqua) capisci che è una MICRO-camera in un tubino molto piccolo.. quindi certo non una fognatura.
 
 ok che è estate e tutti devono fare audience.. ma consideriamo bene da dove arrivano le credenze che abbiamo.
 

@@ -1,7 +1,7 @@
 ---
 title: quando vado in giro...
 url: 2005/03/30/quando-vado-in-giro
-categories: [diary]
+categories: [blog]
 date: 2005-03-30T01:10:27Z
 ---
 

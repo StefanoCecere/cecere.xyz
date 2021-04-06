@@ -1,13 +1,9 @@
 ---
-author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2005-04-19T09:43:32Z"
+categories: [blog]
+tags: [Tempi moderni]
+date: 2005-04-19T09:43:32Z
 guid: http://stefanocecere.com/?p=59
 id: 59
-related_posts:
-- null
 title: 'Borse europee in picchiata: bruciati 109 miliardi di euro'
 slug: /2005/04/19/borse-europee-in-picchiata-bruciati-109-miliardi-di-euro/
 ---

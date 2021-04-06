@@ -1,18 +1,14 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2007-07-14T16:38:59Z"
+categories: [blog]
+date: 2007-07-14T16:38:59Z
 guid: http://stefanocecere.com/2007/07/14/se-non-hai-una-vita-ti-impicci-di-quella-degli-altri/
 id: 528
-related_posts:
-- null
 tags:
 - arte
 - ricreazione
 - spirito
-title: Se non hai una vita ti impicci di quella degli altri&#8230;
+title: Se non hai una vita ti impicci di quella degli altri…
 slug: /2007/07/14/se-non-hai-una-vita-ti-impicci-di-quella-degli-altri/
 ---
 
@@ -20,13 +16,13 @@ slug: /2007/07/14/se-non-hai-una-vita-ti-impicci-di-quella-degli-altri/
 
 Chi non ha ancora visto questo film è pregato di farlo e di meditarci sopra una paio di giorni.
 
-Di cosa parla questo film? .. mah.. se non fosse per alcuni dettagli ambientali.. sembrerebbe parlare della nostra vita, qui e oggi: gente succobe o complice di un sistema disumano che vive con il **controllo e la repressione**. persone che **non avendo un propria vita** (sentimentale, culturale, sociale) vive cercando di carpire quella degli altri. **politici approfittatori e prepotenti**, che abusano della loro carica per esplodere la propria deficienza. **persone sensibili che gettano la spugna**, non vedendo più futuro. l&#8217;**adattamento** (ovviamente a 90 gradi, detto anche adattamento decrescente) a tutto questo pur di non soffrire.  **persone che cercano di organizzarsi per cambiare tutto. l&#8217;amore per una vita semplice e la capacità di ognuno di riscattarsi e di compiere azioni valide.**
+Di cosa parla questo film? .. mah.. se non fosse per alcuni dettagli ambientali.. sembrerebbe parlare della nostra vita, qui e oggi: gente succobe o complice di un sistema disumano che vive con il **controllo e la repressione**. persone che **non avendo un propria vita** (sentimentale, culturale, sociale) vive cercando di carpire quella degli altri. **politici approfittatori e prepotenti**, che abusano della loro carica per esplodere la propria deficienza. **persone sensibili che gettano la spugna**, non vedendo più futuro. l'**adattamento** (ovviamente a 90 gradi, detto anche adattamento decrescente) a tutto questo pur di non soffrire.  **persone che cercano di organizzarsi per cambiare tutto. l'amore per una vita semplice e la capacità di ognuno di riscattarsi e di compiere azioni valide.**
 
 Insomma davvero un bel film. molto più attuale di quanto sembri.. non crediate che sia qualcosa di passato  e di demolito con la caduta del muro di Berlino.
 
-Oggi come non mai il non senso di questo mondo avanza, portando con sè la violenza, la depressione, il futile, l&#8217;ipocrisia.
+Oggi come non mai il non senso di questo mondo avanza, portando con sè la violenza, la depressione, il futile, l'ipocrisia.
 
-QUANDO OGNI MATTINA MI SVEGLIO E MI CHIEDO &#8220;bene caro Stefano, ti ricordi qual&#8217;è il motivo della tua esistenza qui e oggi?&#8221;, prendo il mio caro bel corpicino, guardo il mio amato pianeta, penso ai miei sette miliardi di potenziali amici, penso alla mia esistenza&#8230; quindi ringrazio dentro e dò un bel bacio a tutto!
+QUANDO OGNI MATTINA MI SVEGLIO E MI CHIEDO "bene caro Stefano, ti ricordi qual'è il motivo della tua esistenza qui e oggi?", prendo il mio caro bel corpicino, guardo il mio amato pianeta, penso ai miei sette miliardi di potenziali amici, penso alla mia esistenza… quindi ringrazio dentro e dò un bel bacio a tutto!
 
 :*
 

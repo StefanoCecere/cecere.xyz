@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-04-10T15:21:43Z"
+categories: [blog]
+date: 2008-04-10T15:21:43Z
 guid: http://stefanocecere.com/2008/04/10/perche-da-umanista-voto-per-il-bene-comune/
 id: 843
-related_posts:
-- null
 tags:
 - elezioni
 - partito umanista
@@ -36,18 +32,18 @@ Il programma elettorale è stato scritto in collaborazione coi nostri, e contien
 
 Ecco i punti essenziali:
 
-  * pace e disarmo, con appello alla metodologia della nonviolenza attiva.
-  * uguali diritti e opportunità per tutti
-  * istruzione e sanità di buon livello e gratuita ed accessibile a tutti
-  * difesa dell’ambiente, rilancio delle energie rinnovabili
-  * abolizione delle Leggi Biagi e Treu, abbattimento della precarietà e sicurezza sul lavoro
-  * risoluzione dei conflitti d’interessi tra incarici politici, mediatici e proprietà economiche
-  * democrazia reale, diretta e partecipata, responsabilità politica e decentramento del potere
-  * risoluzione dell’emergenza abitativa
-  * abolizione della Legge Bossi-Fini e chiusura dei CPT
-  * no alle grandi opere inutili e dannose come il Tav in Val di Susa, il Ponte sullo Stretto, i rigassificatori e i ermovalorizzatori
-  * no alle basi americane (Dal Molin innanzitutto).
-  * riaffermazione della laicità dello Stato.
+- pace e disarmo, con appello alla metodologia della nonviolenza attiva.
+- uguali diritti e opportunità per tutti
+- istruzione e sanità di buon livello e gratuita ed accessibile a tutti
+- difesa dell’ambiente, rilancio delle energie rinnovabili
+- abolizione delle Leggi Biagi e Treu, abbattimento della precarietà e sicurezza sul lavoro
+- risoluzione dei conflitti d’interessi tra incarici politici, mediatici e proprietà economiche
+- democrazia reale, diretta e partecipata, responsabilità politica e decentramento del potere
+- risoluzione dell’emergenza abitativa
+- abolizione della Legge Bossi-Fini e chiusura dei CPT
+- no alle grandi opere inutili e dannose come il Tav in Val di Susa, il Ponte sullo Stretto, i rigassificatori e i ermovalorizzatori
+- no alle basi americane (Dal Molin innanzitutto).
+- riaffermazione della laicità dello Stato.
 
 Non importa dove abiti o dove voti, perché la ripartizione dei seggi si fa sui voti ottenuti su scala nazionale. Se la lista superasse il 4% c’è il “rischio” che Ivo Ghignoli, segretario del Partito Umanista di Torino, venga eletto!
   

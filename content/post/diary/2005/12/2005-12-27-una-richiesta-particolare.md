@@ -1,24 +1,20 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Futuro
-date: "2005-12-27T12:59:36Z"
+categories: [blog]
+date: 2005-12-27T12:59:36Z
 guid: http://stefanocecere.com/2005/12/27/una-richiesta-particolare/
 id: 196
-related_posts:
-- null
 tags:
 - spirito
 title: una richiesta particolare
 slug: /2005/12/27/una-richiesta-particolare/
 ---
 
-in questi giorni particolari, molti sentono l&#8217;esigenza di un **profondo rinnovamento**.
+in questi giorni particolari, molti sentono l'esigenza di un **profondo rinnovamento**.
 
 nella propria vita personale, per essere più coerenti, sensibili, forti, lucidi, ottimisti…
   
-nel mondo sociale in cui viviamo, per rilassare le tensioni e iniziare a sentire un po&#8217; di più gli altri…
+nel mondo sociale in cui viviamo, per rilassare le tensioni e iniziare a sentire un po' di più gli altri…
 
 che anche tu possa fermarti un minuto e fare questa richiesta di rinnovamento dal profondo di te stesso.
 

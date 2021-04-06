@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-07-18T18:12:55Z"
+date: 2013-07-18T18:12:55Z
 format: status
 guid: http://twitter-357910867620282368-post
 id: 4593
-title: ma prima del filmone ma dopo il fulmine.. pizza di&#8230;
+title: ma prima del filmone ma dopo il fulmine.. pizza di…
 slug: /2013/07/18/ma-prima-del-filmone-ma-dopo-il-fulmine-pizza-di/
 ---
 

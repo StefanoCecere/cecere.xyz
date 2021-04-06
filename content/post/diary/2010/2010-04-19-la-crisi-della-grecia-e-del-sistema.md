@@ -1,12 +1,7 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2010-04-19T08:49:00Z"
+categories: [blog]
+date: 2010-04-19T08:49:00Z
 guid: http://stefanocecere.com/?p=2149
 id: 2149
 tags:
@@ -17,13 +12,13 @@ title: La crisi della Grecia e del Sistema
 slug: /2010/04/19/la-crisi-della-grecia-e-del-sistema/
 ---
 
-è possibile che il nostro &#8220;**Sistema**&#8221; sia agli sgoccioli? ovvero che presto **crollerà**? Per Sistema intendo quel complesso insieme di relazioni economiche,politiche,sociali e valori, credenze e leggi che fino ad oggi ci ha tenuto assieme. Qualcuno crede che il sistema sia morto già da diverso tempo e che sta giusto iniziando a sentirsi la sua &#8220;puzza di cadavere&#8221; .
+è possibile che il nostro "**Sistema**" sia agli sgoccioli? ovvero che presto **crollerà**? Per Sistema intendo quel complesso insieme di relazioni economiche,politiche,sociali e valori, credenze e leggi che fino ad oggi ci ha tenuto assieme. Qualcuno crede che il sistema sia morto già da diverso tempo e che sta giusto iniziando a sentirsi la sua "puzza di cadavere" .
 
 Sicuramente **chi** **ha tessuto la tela di questo Sistema è stato molto bravo a non fare i nostri interessi** (mi metto dalla parte dei normali esseri umani, solidali con i più poveri e bisognosi, che aspirano ad una vita pacifica, dignitosa e onesta in armonia con ogni altro essere umano).
 
 Vorrei sperare che abbiano tirato troppo la corda e che il tutto gli stia tornando contro.
 
-Intanto riporto e [linko](http://paolobarnard.info/intervento_mostra_go.php?id=179) un articolo del giornalista **Paolo Barnard** che descrive come in non saprei fare la faccenda Grecia e del grande casino in cui ci troviamo (ovvero **abbiamo lasciato** che ci portassero qui&#8230;)
+Intanto riporto e [linko](http://paolobarnard.info/intervento_mostra_go.php?id=179) un articolo del giornalista **Paolo Barnard** che descrive come in non saprei fare la faccenda Grecia e del grande casino in cui ci troviamo (ovvero **abbiamo lasciato** che ci portassero qui…)
 
 
   

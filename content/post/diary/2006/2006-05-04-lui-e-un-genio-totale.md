@@ -1,13 +1,10 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2006-05-04T16:03:20Z"
+categories: [blog]
+date: 2006-05-04T16:03:20Z
 format: image
 guid: http://stefanocecere.com/2006/05/04/lui-e-un-genio-totale/
 id: 263
-related_posts:
-- null
 tags:
 - arte
 - genio

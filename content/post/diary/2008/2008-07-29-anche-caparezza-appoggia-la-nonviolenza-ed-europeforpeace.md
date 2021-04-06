@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-07-29T14:29:17Z"
+categories: [blog]
+date: 2008-07-29T14:29:17Z
 guid: http://stefanocecere.com/?p=1108
 id: 1108
 tags:
@@ -17,7 +16,7 @@ slug: /2008/07/29/anche-caparezza-appoggia-la-nonviolenza-ed-europeforpeace/
 
 ieri sera ho assistito ad uno dei concerti più divertenti della mia vita.
   
-è stata una sorpresa! dovevo incontrare &#8220;Caparezza&#8221; che faceva tappa a Firenze per un concerto alla Fortezza, per fare lo spot video per la Campagna Scudo Spaziale / disarmo nucleare e lancio del forum non violenza e la marcia dell&#8217;anno prossimo (il video arriverà presto!)
+è stata una sorpresa! dovevo incontrare "Caparezza" che faceva tappa a Firenze per un concerto alla Fortezza, per fare lo spot video per la Campagna Scudo Spaziale / disarmo nucleare e lancio del forum non violenza e la marcia dell'anno prossimo (il video arriverà presto!)
 
 ovviamente ci siamo fermati per il concerto!
   

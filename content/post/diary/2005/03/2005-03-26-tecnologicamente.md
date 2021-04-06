@@ -1,7 +1,7 @@
 ---
 title: tecnologicamente..
 url: 2005/03/26/tecnologicamente
-categories: [diary]
+categories: [blog]
 date: 2005-03-26T11:10:53Z
 tags:
 - Movimento
@@ -13,9 +13,9 @@ e così in un mese mi sono rifatto tutto..
 
 dopo ben 5 anni è passati in compagnia di un affidabilissimo Pismo (portatile Apple.. e qualcuno sa quante cose ci ho fatto, con quel computer negli ultimi 5 anni), appena mi arrivato quello nuovo (sempre un Apple Powerbook)..
   
-era così pi&#xf9; bello.. così pi&#xf9; potente.. così pi&#xf9; veloce … insomma così tanto &#8220;pi&#xf9;&#8221; di quello precedente..
+era così pi&#xf9; bello.. così pi&#xf9; potente.. così pi&#xf9; veloce … insomma così tanto "pi&#xf9;" di quello precedente..
   
-che ho esclamato: &#8220;NON VEDO L’ORA DI CAMBIARLO PER AVEREE QUELLO NUOVO!!!!!!!!&#8221;
+che ho esclamato: "NON VEDO L’ORA DI CAMBIARLO PER AVEREE QUELLO NUOVO!!!!!!!!"
 
 !!!!######!! mannaggia non diventerò mica un feticista tecnologico!?!?
 

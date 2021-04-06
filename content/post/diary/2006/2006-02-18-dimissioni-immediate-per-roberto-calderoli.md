@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2006-02-18T01:56:44Z"
+date: 2006-02-18T01:56:44Z
 guid: http://stefanocecere.com/2006/02/18/dimissioni-immediate-per-roberto-calderoli/
 id: 230
-related_posts:
-- null
 tags:
 - umanista
 - vergogna!
@@ -14,9 +12,9 @@ title: DIMISSIONI IMMEDIATE PER ROBERTO CALDEROLI
 slug: /2006/02/18/dimissioni-immediate-per-roberto-calderoli/
 ---
 
-<img src='/wp-content/roberto_calderoli.jpg' alt='' align='left' />scusami, potresti non essere d&#8217;accordo, ma non posso non girarti il seguente comunicato stampa, è troppo importante..
+<img src='/wp-content/roberto_calderoli.jpg' alt='' align='left' />scusami, potresti non essere d'accordo, ma non posso non girarti il seguente comunicato stampa, è troppo importante..
   
-saprai cosa ha fatto ieri il nostro &#8220;ministro&#8221;, indossando una maglietta con su una vignetta anti-maometto&#8230;bene:
+saprai cosa ha fatto ieri il nostro "ministro", indossando una maglietta con su una vignetta anti-maometto…bene:
 
 **Il Partito Umanista chiede:
   
@@ -30,7 +28,7 @@ Se veramente si vuole combattere il terrorismo, bisogna innanzitutto smettere di
 
 Nel corso della campagna nazionale **“il futuro si può cambiare”** il Partito Umanista Italiano insieme a decine di altre associazioni ha già raccolto migliaia di firme a supporto di una lettera al Presidente della Repubblica nella quale si richiede un Suo intervento pubblico in relazione alle numerose dichiarazioni incivili razziste e offensive da parte di alte cariche dello stato e del governo tra i quali: Roberto Calderoli, Marcello Pera Presidente del Senato, Roberto Castelli Ministro della Giustizia, che mettono in pericolo una popolazione in gran parte contraria alla guerra in Iraq, esponendola al rischio di un attentato terroristico.
   
-In un momento di grave tensione tra il mondo islamico e quello occidentale l&#8217;iniziativa del ministro Calderoli di indossare una maglietta con le vignette su Maometto, rappresenta un ulteriore provocazione che semina il vento della discordia e del terrore nella speranza di raccogliere tempeste di guerra.
+In un momento di grave tensione tra il mondo islamico e quello occidentale l'iniziativa del ministro Calderoli di indossare una maglietta con le vignette su Maometto, rappresenta un ulteriore provocazione che semina il vento della discordia e del terrore nella speranza di raccogliere tempeste di guerra.
 
 **Oggi una manifestazione in Libia
   
@@ -38,12 +36,12 @@ contro il consolato italiano repressa nel sangue, domani cosa potrà impedire un
   
 [www.partitoumanista.it](http://www.partitoumanista.it)
 
-NOTA: il Partito Umanista è un organismo del Movimento Umanista.. è la sua &#8220;espressione politica&#8221;, diciamo.
+NOTA: il Partito Umanista è un organismo del Movimento Umanista.. è la sua "espressione politica", diciamo.
   
 se hai la residenza a Milano, questo finesettimana e il prossimo si stanno raccogliendo le firme per presentare un **candidato sindaco umanista alle prossime elezioni.**
   
-se vuoi dare una mano a presentare una valida e coerente alternativa alla CdL e all&#8217;Unione, vieni ad un banchino a dare una firma?
+se vuoi dare una mano a presentare una valida e coerente alternativa alla CdL e all'Unione, vieni ad un banchino a dare una firma?
   
 guarda qui il calendario e i luoghi:
 
-grazie per l&#8217;attenzione.
+grazie per l'attenzione.

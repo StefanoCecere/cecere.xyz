@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Eventi
-date: "2010-04-23T02:54:57Z"
+date: 2010-04-23T02:54:57Z
 guid: http://stefanocecere.com/?p=2171
 id: 2171
 tags:
@@ -21,11 +17,11 @@ title: si riparte! dal nucleare
 slug: /2010/04/23/si-riparte-dal-nucleare/
 ---
 
-finalmente.. dopo un anno praticamente dedicato al progetto della Marcia Mondiale.. e un&#8217;inverno dedito allo studio e un po&#8217; di riposo&#8230; si torna in piena attività!
+finalmente.. dopo un anno praticamente dedicato al progetto della Marcia Mondiale.. e un'inverno dedito allo studio e un po' di riposo… si torna in piena attività!
 
 con Mondo Senza Guerre Firenze stiamo promuovendo la conferenza di lunedì prossimo sul nucleare civile e militare.
 
-intanto oggi continuato il volantinaggio per la città e le università&#8230;
+intanto oggi continuato il volantinaggio per la città e le università…
 
 <img class="aligncenter size-medium wp-image-2172" title="220420103022" src="http://stefanocecere.com/wp-content/uploads/sites/3/2010/04/220420103022-426x320.jpg" alt="" width="426" height="320" />
 
@@ -39,15 +35,15 @@ Mondo Senza Guerre Firenze invita a questo incontro di informazione e approfondi
 
 Relatori:
   
-* Giuseppe Onufrio &#8211; direttore esecutivo Greenpeace Italia
+* Giuseppe Onufrio - direttore esecutivo Greenpeace Italia
   
-* Bruno Chareyron &#8211; ingegnere nucleare &#8211; Francia
+* Bruno Chareyron - ingegnere nucleare - Francia
   
-* Claudio Pagliara &#8211; medico oncologo
+* Claudio Pagliara - medico oncologo
   
-* Angelo Baracca &#8211; fisico
+* Angelo Baracca - fisico
   
-* Gianni Mattioli &#8211; fisico
+* Gianni Mattioli - fisico
   
 * Mariella Gavarini- WWF Toscana (moderatrice)
 

@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-09-20T11:16:35Z"
+categories: [blog]
+date: 2008-09-20T11:16:35Z
 guid: http://stefanocecere.com/?p=1135
 id: 1135
 tags:
@@ -16,9 +15,9 @@ title: Volantino Forum Umanista Europea 17 ottobre
 slug: /2008/09/20/volantino-forum-umanista-europea-17-ottobre/
 ---
 
-**&#8220;la Forza della Nonviolenza&#8221; <span style="font-weight: normal">è la priorità del momento.</span>**
+**"la Forza della Nonviolenza" <span style="font-weight: normal">è la priorità del momento.</span>**
 
-il 17 ottobre al Palalido (Milano) iniziano questi importanti tre giorni di incontri, conferenze, tavole rotonde, eventi. sarà presentata la Marcia Mondiale dell&#8217;anno prossimo. ci sarà gente da tutta europa.ingresso libero aperto a tutti. consiglio di farci un salto (su tre giorni!)
+il 17 ottobre al Palalido (Milano) iniziano questi importanti tre giorni di incontri, conferenze, tavole rotonde, eventi. sarà presentata la Marcia Mondiale dell'anno prossimo. ci sarà gente da tutta europa.ingresso libero aperto a tutti. consiglio di farci un salto (su tre giorni!)
 
 allego un primo volantino ufficiale
 

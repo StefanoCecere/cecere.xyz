@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2009-06-01T11:41:01Z"
+categories: [blog]
+date: 2009-06-01T11:41:01Z
 guid: http://stefanocecere.com/2009/06/01/un-po-di-teoria/
 id: 1828
 tags:
@@ -11,7 +10,7 @@ title: un po&#039; di teoria
 slug: /2009/06/01/un-po-di-teoria/
 ---
 
-il 30 maggio 2009, nel mondo&#8230;
+il 30 maggio 2009, nel mondo…
 
 <div style="width: 500px" class="wp-caption alignnone">
   <a title="30 maggio 2009 di Stefano Cecere, su Flickr" href="http://www.flickr.com/photos/krur/3587903843/"><img src="http://farm4.static.flickr.com/3327/3587903843_699061aa48.jpg" alt="30 maggio 2009" width="500" height="375" /></a>

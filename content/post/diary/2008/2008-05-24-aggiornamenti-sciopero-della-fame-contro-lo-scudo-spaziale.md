@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2008-05-24T19:08:44Z"
+date: 2008-05-24T19:08:44Z
 guid: http://stefanocecere.com/2008/05/24/aggiornamenti-sciopero-della-fame-contro-lo-scudo-spaziale/
 id: 975
-related_posts:
-- null
 tags:
 - azioni
 - digiuno
@@ -20,9 +18,9 @@ title: Aggiornamenti sciopero della fame contro lo SCUDO SPAZIALE
 slug: /2008/05/24/aggiornamenti-sciopero-della-fame-contro-lo-scudo-spaziale/
 ---
 
-Le condizioni di salute di Jan Bednar, che insieme a Jan Tamas, è al 12° giorno di sciopero della fame si stanno aggravando giorno dopo giorno. E&#8217; soprattutto un&#8217;**insufficenza al fegato** a destare preoccupazione nei medici che lo seguono, che lo hanno consigliato, insieme agli amici e parenti, di interrompere lo sciopero della fame. Jan Bednar, tuttavia, **ha deciso di andare avanti** perché, _&#8220;Il governo ceco non ha dato alcun segnale di voler aprire il dialogo e il Parlamento europeo tace&#8221;_
+Le condizioni di salute di Jan Bednar, che insieme a Jan Tamas, è al 12° giorno di sciopero della fame si stanno aggravando giorno dopo giorno. E' soprattutto un'**insufficenza al fegato** a destare preoccupazione nei medici che lo seguono, che lo hanno consigliato, insieme agli amici e parenti, di interrompere lo sciopero della fame. Jan Bednar, tuttavia, **ha deciso di andare avanti** perché, _"Il governo ceco non ha dato alcun segnale di voler aprire il dialogo e il Parlamento europeo tace"_
 
-Continuano le **proteste, e gli innumerevoli digiuni di solidarietà contro l&#8217;occupazione silenziosa della Repubblica Ceca da parte degli Stati Uniti** e la politica di riarmo nucleare europea a: Amsterdam, Berlino, Bologna, Budapest, České Budějovice, Copenhagen, Firenze, Londra, Malaga, Milano, Parigi, Tolosa, Trieste e Torino e trovano eco in America, Australia e Corea del Sud.
+Continuano le **proteste, e gli innumerevoli digiuni di solidarietà contro l'occupazione silenziosa della Repubblica Ceca da parte degli Stati Uniti** e la politica di riarmo nucleare europea a: Amsterdam, Berlino, Bologna, Budapest, České Budějovice, Copenhagen, Firenze, Londra, Malaga, Milano, Parigi, Tolosa, Trieste e Torino e trovano eco in America, Australia e Corea del Sud.
 
 Continuano ad arrivare i **messaggi di solidarietà** da centinaia di organizzazioni e da personaggi quali: Noam Chomsky, Dario Fo (premio nobel) e Franca Rame, Giorgio Schultze, Giulietto Chiesa (europarlamentare), Giorgio Schultze, Luisa Morgantini (vice-presidente del Parlamento europeo) Nichi Vendola (presidente della Regione Puglia), il vescovo francese Jacques Gaillot e il giornalista statunitense vincitore del Premio Pulitzer Chris Hedges
 

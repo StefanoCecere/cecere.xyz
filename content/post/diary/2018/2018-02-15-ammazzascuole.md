@@ -1,7 +1,7 @@
 ---
 title: Ammazza che scuola
 slug: 2018/02/ammazza-che-scuole
-date: "2018-02-15T00:00:00Z"
+date: 2018-02-15T00:00:00Z
 tags: [papa2042]
 categories: [JJ]
 ---

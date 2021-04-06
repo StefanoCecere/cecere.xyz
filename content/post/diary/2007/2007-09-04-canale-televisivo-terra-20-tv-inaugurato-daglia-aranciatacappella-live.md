@@ -1,14 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Futuro
-- Tempi moderni
-date: "2007-09-04T08:08:13Z"
+categories: [blog]
+date: 2007-09-04T08:08:13Z
 guid: http://stefanocecere.com/2007/09/04/canale-televisivo-terra-20-tv-inaugurato-daglia-aranciatacappella-live/
 id: 559
-related_posts:
-- null
 tags:
 - arte
 - ricreazione
@@ -24,7 +19,7 @@ slug: /2007/09/04/canale-televisivo-terra-20-tv-inaugurato-daglia-aranciatacappe
 
 è con grande gioia che condividiamo col mondo la nascita del canale televisivo Terra 2.0 TV.
 
-per l&#8217;occasione l&#8217;acclamata band AranciataCappella hanno deciso di pubblicare la loro prima performances mondiale, con la quale hanno vinto il premio TRASH al Karraoke del Campeggio Umanista Linibari 2007
+per l'occasione l'acclamata band AranciataCappella hanno deciso di pubblicare la loro prima performances mondiale, con la quale hanno vinto il premio TRASH al Karraoke del Campeggio Umanista Linibari 2007
 
 per maggiori dettagli: [www.terra2.tv](http://www.terra2.tv)
 

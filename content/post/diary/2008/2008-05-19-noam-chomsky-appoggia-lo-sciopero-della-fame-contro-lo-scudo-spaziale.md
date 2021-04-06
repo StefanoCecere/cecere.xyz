@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-05-19T06:54:49Z"
+categories: [blog]
+date: 2008-05-19T06:54:49Z
 guid: http://stefanocecere.com/2008/05/19/noam-chomsky-appoggia-lo-sciopero-della-fame-contro-lo-scudo-spaziale/
 id: 944
-related_posts:
-- null
 tags:
 - azioni
 - digiuno

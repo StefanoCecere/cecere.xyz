@@ -1,13 +1,9 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Smile
 - Spirito
-date: "2011-05-21T10:56:42Z"
+date: 2011-05-21T10:56:42Z
 guid: http://stefanocecere.com/?p=2479
 id: 2479
 tags:
@@ -15,7 +11,7 @@ tags:
 - azione valida
 - principio
 - violenza
-title: Cosa mi fai se io ti &#8230;
+title: Cosa mi fai se io ti …
 slug: /2011/05/21/cosa-mi-fai-se-io-ti/
 ---
 

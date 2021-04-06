@@ -4,7 +4,7 @@ slug: 2014/11/vita-in-gioco
 subtitle: ""
 summary: ""
 tags: [vita]
-categories: [diary]
+categories: [blog]
 date: 2014-11-14T15:42:08+01:00
 featured: false
 draft: false

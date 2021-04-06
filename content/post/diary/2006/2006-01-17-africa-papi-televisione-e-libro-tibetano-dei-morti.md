@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-01-17T12:10:00Z"
+categories: [blog]
+date: 2006-01-17T12:10:00Z
 guid: http://stefanocecere.com/2006/01/17/africa-papi-televisione-e-libro-tibetano-dei-morti/
 id: 211
-related_posts:
-- null
 tags:
 - africa
 - Papa
@@ -28,7 +24,7 @@ in tantissimi si sono poi mobilitati sabato scorso a difesa della 194 e dei PACS
   
 mi ha fatto molto piacere la email di una giovane amica che mi dice:
   
-_“ciaooo sono contenta del risultato della manifestazione, per impedire ad uno stato laico (e pieno di guai) di esistere proprio quei vecchiacci in palandrana dovevano intervenire? E bada bene io sono cattolica praticante. Non sopporto quel Ruini, ma con tutta la gente che muore di fame viene a rompere le balle a chi si sta evolvendo? Papa Dorothy,invece,non vuole le/la PACS Io voglio un papa che nel 2000 non porti teste arrugginite, vecchie e del carlo codega , ma che si interessi dell&#8217;Africa, Asia, dell&#8217;evoluzione dellEuropa della Pace tra Religioni, come  Giovanni Paolo II, del Sud America e anche del nord, dell&#8217; Australia della Consacrazione del Pane fatta dalle Donne, della non discriminazione delle coppie di fatto, insomma dovremmo eleggerli noi i Papi&#8230;”_
+_“ciaooo sono contenta del risultato della manifestazione, per impedire ad uno stato laico (e pieno di guai) di esistere proprio quei vecchiacci in palandrana dovevano intervenire? E bada bene io sono cattolica praticante. Non sopporto quel Ruini, ma con tutta la gente che muore di fame viene a rompere le balle a chi si sta evolvendo? Papa Dorothy,invece,non vuole le/la PACS Io voglio un papa che nel 2000 non porti teste arrugginite, vecchie e del carlo codega , ma che si interessi dell'Africa, Asia, dell'evoluzione dellEuropa della Pace tra Religioni, come  Giovanni Paolo II, del Sud America e anche del nord, dell' Australia della Consacrazione del Pane fatta dalle Donne, della non discriminazione delle coppie di fatto, insomma dovremmo eleggerli noi i Papi…”_
 
 <img src='/wp-content/tv.jpg' alt='' align='left' />TV: mezzi di telecomunicazione
   

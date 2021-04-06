@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2014-12-19T05:48:45Z"
+categories: [blog]
+date: 2014-12-19T05:48:45Z
 format: video
 guid: http://stefanocecere.com/?p=5515
 id: 5515
@@ -15,23 +14,23 @@ title: Burning Man
 slug: /2014/12/19/burning-man/
 ---
 
-soon or later i&#8217;ll go to a Burning Man
+soon or later i'll go to a Burning Man
 
 <div class="jetpack-video-wrapper">
 </div>
 
 the annual social/artistic event where to live
 
-  * radical inclusion
-  * gifting
-  * decommodification
-  * radical self-reliance
-  * radical self-expression
-  * communal effort
-  * civic responsibility
-  * leaving no trace
-  * participation
-  * immediacy
+- radical inclusion
+- gifting
+- decommodification
+- radical self-reliance
+- radical self-expression
+- communal effort
+- civic responsibility
+- leaving no trace
+- participation
+- immediacy
 
 <http://burningman.org>
 

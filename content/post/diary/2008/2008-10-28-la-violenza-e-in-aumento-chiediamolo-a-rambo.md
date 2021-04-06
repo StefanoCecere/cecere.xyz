@@ -1,15 +1,14 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-10-28T02:13:27Z"
+categories: [blog]
+date: 2008-10-28T02:13:27Z
 guid: http://stefanocecere.com/?p=1457
 id: 1457
 tags:
 - grafico
 - Rambo
 - violenza
-title: La violenza è in aumento? chiediamolo a Rambo&#8230;
+title: La violenza è in aumento? chiediamolo a Rambo…
 slug: /2008/10/28/la-violenza-e-in-aumento-chiediamolo-a-rambo/
 ---
 

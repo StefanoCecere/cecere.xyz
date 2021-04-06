@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-06-14T08:31:56Z"
+categories: [blog]
+date: 2008-06-14T08:31:56Z
 guid: http://stefanocecere.com/2008/06/14/svegliati-america-stiamo-guidando-vero-il-disastro/
 id: 1038
-related_posts:
-- null
 tags:
 - credenze
 - crisi energetica
@@ -18,9 +14,9 @@ title: Svegliati America! Stiamo guidando vero il disastro
 slug: /2008/06/14/svegliati-america-stiamo-guidando-vero-il-disastro/
 ---
 
-mi è piaciuto molto questo articolo sull&#8217;incapacità di prendere sul serio la necessità di un cambio dei nostri usi e consumi.
+mi è piaciuto molto questo articolo sull'incapacità di prendere sul serio la necessità di un cambio dei nostri usi e consumi.
   
-soppratutto perché mette in luce due attuali credenze molto diffuse&#8230;
+soppratutto perché mette in luce due attuali credenze molto diffuse…
   
 buona lettura e tornami attivato.
 

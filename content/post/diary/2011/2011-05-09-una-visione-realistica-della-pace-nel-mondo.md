@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Mondo Senza Guerre
-date: "2011-05-09T14:22:18Z"
+date: 2011-05-09T14:22:18Z
 guid: http://stefanocecere.com/?p=2473
 id: 2473
 tags:

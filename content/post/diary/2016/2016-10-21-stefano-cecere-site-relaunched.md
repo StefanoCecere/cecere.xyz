@@ -1,5 +1,5 @@
 ---
-date: "2016-10-21T00:00:00Z"
+date: 2016-10-21T00:00:00Z
 title: Stefano Cecere, Multimedia Developer, Launches Site
 ---
 

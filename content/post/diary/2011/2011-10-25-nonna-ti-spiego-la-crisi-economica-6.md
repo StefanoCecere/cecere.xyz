@@ -1,13 +1,9 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Economia
 - Tempi moderni
-date: "2011-10-25T12:20:27Z"
+date: 2011-10-25T12:20:27Z
 guid: http://stefanocecere.com/?p=2753
 id: 2753
 tags:
@@ -20,7 +16,7 @@ title: Nonna, ti spiego la crisi economica. 6
 slug: /2011/10/25/nonna-ti-spiego-la-crisi-economica-6/
 ---
 
-_(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del tutto digiune di economia, scritto da Paolo Barnard &#8211; leggi [introduzione e sommario qui](http://stefanocecere.com/2011/10/24/vi-spiego-la-crisi-economica/ "Vi spiego la crisi economica"))_
+_(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del tutto digiune di economia, scritto da Paolo Barnard - leggi [introduzione e sommario qui](http://stefanocecere.com/2011/10/24/vi-spiego-la-crisi-economica/ "Vi spiego la crisi economica"))_
 
 **Nonna:** Però ci pensavo, va bene che volevano che gli Stati non ci dessero i soldi a noi cittadini per stare tutti bene. Ma alla fine gli Stati ci sono ancora, mica li hanno aboliti. E allora perché non tornano a spendere per noi col debito buono?
 
@@ -58,4 +54,4 @@ _(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del
 
 **P.** Baci nonna, passa qua la teglia, e la risposta alla prossima.
 
-([Continua&#8230;](http://stefanocecere.com/2011/10/27/nonna-ti-spiego-la-crisi-economica-7/ "Nonna, ti spiego la crisi economica. 7"))
+([Continua…](http://stefanocecere.com/2011/10/27/nonna-ti-spiego-la-crisi-economica-7/ "Nonna, ti spiego la crisi economica. 7"))

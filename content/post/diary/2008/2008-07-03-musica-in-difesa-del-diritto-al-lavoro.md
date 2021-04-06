@@ -2,7 +2,7 @@
 author: Stefano Cecere
 categories:
 - Eventi
-date: "2008-07-03T08:41:51Z"
+date: 2008-07-03T08:41:51Z
 guid: http://stefanocecere.com/?p=1070
 id: 1070
 tags:
@@ -32,7 +32,7 @@ slug: /2008/07/03/musica-in-difesa-del-diritto-al-lavoro/
 </p>
 
 <p style="text-align: center">
-  Il Festival alla sua settima edizione, quest&#8217;anno ospita sul palco del Politecnico di Milano la musica coinvolgente di <strong><span>CISCO</span></strong> e dei <span><strong>PORTO FLAMINGO</strong></span>.
+  Il Festival alla sua settima edizione, quest'anno ospita sul palco del Politecnico di Milano la musica coinvolgente di <strong><span>CISCO</span></strong> e dei <span><strong>PORTO FLAMINGO</strong></span>.
 </p>
 
 <p style="text-align: center">
@@ -40,14 +40,14 @@ slug: /2008/07/03/musica-in-difesa-del-diritto-al-lavoro/
 </p>
 
 <div style="text-align: center">
-  Il tema centrale della serata sarà:<br /> <strong>IL LAVORO MOBILITA L&#8217;UOMO</strong><br /> cioè lo spinge ad associarsi, a protestare e ad ribellarsi!
+  Il tema centrale della serata sarà:<br /> <strong>IL LAVORO MOBILITA L'UOMO</strong><br /> cioè lo spinge ad associarsi, a protestare e ad ribellarsi!
 </div>
 
 <div style="text-align: center">
 </div>
 
 <div style="text-align: center">
-  <strong>Mondo Senza Guerre,</strong> da sempre attiva nel campo dei diritti umani,<br /> dedica questa serata al lavoro perché è un diritto sancito dalla nostra costituzione: <br /> <strong>&#8220;L&#8217;Italia è una Repubblica democratica, fondata sul lavoro.&#8221;</strong><br /> <em>(Principi Fondamentali, art.1 della Costituzione Italiana).</em>
+  <strong>Mondo Senza Guerre,</strong> da sempre attiva nel campo dei diritti umani,<br /> dedica questa serata al lavoro perché è un diritto sancito dalla nostra costituzione: <br /> <strong>"L'Italia è una Repubblica democratica, fondata sul lavoro."</strong><br /> <em>(Principi Fondamentali, art.1 della Costituzione Italiana).</em>
 </div>
 
 <div style="text-align: center">

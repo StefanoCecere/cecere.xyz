@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2007-11-24T17:28:55Z"
+categories: [blog]
+date: 2007-11-24T17:28:55Z
 guid: http://stefanocecere.com/2007/11/24/inizia-il-forum-umanista-di-la-paz-con-un-discorso-di-evo-morales/
 id: 610
-related_posts:
-- null
 tags:
 - Bolivia
 - Evo Morales
@@ -25,29 +21,29 @@ siamo partiti la mattina presto per andare a Tiwanaku, una delle più antiche ci
 
 Il popolo che ha costruito questa città non ha lasciato armi, era non violento, e aveva sviluppato notevolmente la scienza e la tecnologia.
 
-Dopo un po&#8217; di giri tra le rovine in ristrutturazione (fantastico vedere donne in costume tradizionale indigeno con la pala in mano) inizia la cerimonia di apertura.
+Dopo un po' di giri tra le rovine in ristrutturazione (fantastico vedere donne in costume tradizionale indigeno con la pala in mano) inizia la cerimonia di apertura.
 
 Celebrata da uno sciamano e con la partecipazione de sindaco di Tiwanaku e di tutto il consiglio comunale, la cerimonia ci riconnette on la sacralità della terra (la grande madre) e con tutti i fratelli e sorelle che la abitano.
 
-Poi il sindaco di Tiwanaku consegna la cittadinanza onoraria a Tomas Hirsch, a Giorgio Schultze e a Chris Wells (i poravoci dell&#8217;umanesimo di sudamerica, europa e nord-america), e poi a tutti gli umanisti presenti!
+Poi il sindaco di Tiwanaku consegna la cittadinanza onoraria a Tomas Hirsch, a Giorgio Schultze e a Chris Wells (i poravoci dell'umanesimo di sudamerica, europa e nord-america), e poi a tutti gli umanisti presenti!
 
-E&#8217; stata una cosa incredibile! non tanto un riconoscimento tanto importante, quanto il sentir una sindaco di una città parlare di plitica, di società, di religione e di sacralità come se fossero un tutt&#8217;uno.
+E' stata una cosa incredibile! non tanto un riconoscimento tanto importante, quanto il sentir una sindaco di una città parlare di plitica, di società, di religione e di sacralità come se fossero un tutt'uno.
 
-E&#8217; seguito un uffizio (cerimonia umanista di connessione con il profondo) e credo di parlare a nome di tutti: ci sentivamo davvero a casa.
+E' seguito un uffizio (cerimonia umanista di connessione con il profondo) e credo di parlare a nome di tutti: ci sentivamo davvero a casa.
 
-Poi siamo tornati a La Paz e l&#8217;apertura del Forum è continuata presso l&#8217;Università di Diritto Sociale.
+Poi siamo tornati a La Paz e l'apertura del Forum è continuata presso l'Università di Diritto Sociale.
 
 Migliaia i partecipanti, moltissimi giovani, la maggior parte indigeni.
 
-DOpo una prima parte di eventi musicali, sul palco salgono il rettore dell&#8217;università, un senatore, un premio nobel per la pace, ambasciatori, rappresentanti del Movimento Umanista nel latino-america.. e poi arriva, con gran putiferio, il presidente Evo Morales.
+DOpo una prima parte di eventi musicali, sul palco salgono il rettore dell'università, un senatore, un premio nobel per la pace, ambasciatori, rappresentanti del Movimento Umanista nel latino-america.. e poi arriva, con gran putiferio, il presidente Evo Morales.
 
-Dopo alcune introduzioni parla Tomas Hirsch per circa 40 minuti.. dà il &#8220;premio alla coerenza&#8221; (difficle trova ogni anno qualcuno a cu darlo, fa notare) a Evo, parla del &#8220;Virus di Altura&#8221; (quella cosa che prende praticamente tutti i politici che una volta al poere si dimenticano le proprie origini) e di come Evo è uno dei pochi casi di immunità.
+Dopo alcune introduzioni parla Tomas Hirsch per circa 40 minuti.. dà il "premio alla coerenza" (difficle trova ogni anno qualcuno a cu darlo, fa notare) a Evo, parla del "Virus di Altura" (quella cosa che prende praticamente tutti i politici che una volta al poere si dimenticano le proprie origini) e di come Evo è uno dei pochi casi di immunità.
 
-Dopo di lui (con un cambio di programma perché dovevano parlare anche gli altri ma Evo ha chiesto in modo confidenziale se poteva parlare per un&#8217;ora), in diretta televisiva su due canali nazionali, prende la parola il presindente.
+Dopo di lui (con un cambio di programma perché dovevano parlare anche gli altri ma Evo ha chiesto in modo confidenziale se poteva parlare per un'ora), in diretta televisiva su due canali nazionali, prende la parola il presindente.
 
 Ha iniziato il suo discorso di 45 mintui con:
 
-&#8220;Mi chiedono se sono di destra o di sinistra. Io rispondo che non sono assolutamente di destra (putiferio), ma vedendo come si comporta la &#8220;sinistra&#8221; nel mondo.. non posso neanche dichiararmi di sinistra&#8230; io sono un Umanista&#8221;
+"Mi chiedono se sono di destra o di sinistra. Io rispondo che non sono assolutamente di destra (putiferio), ma vedendo come si comporta la "sinistra" nel mondo.. non posso neanche dichiararmi di sinistra… io sono un Umanista"
 
 Poi parla dei problemi del suo governo.. delle enormi difficiltà che stanno cercando di superare.. si compara a Salvator Allende, e del boicottaggio che sta subendo da parte delle aziende private.
 

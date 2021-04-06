@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Uncategorized
-date: "2008-04-14T00:38:31Z"
+date: 2008-04-14T00:38:31Z
 guid: http://stefanocecere.com/2008/04/14/un-gatto-invasato/
 id: 845
-related_posts:
-- null
 tags:
 - animali
 - gatto

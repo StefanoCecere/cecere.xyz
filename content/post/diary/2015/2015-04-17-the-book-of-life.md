@@ -2,7 +2,7 @@
 author: Stefano Cecere
 categories:
 - Media
-date: "2015-04-17T09:46:38Z"
+date: 2015-04-17T09:46:38Z
 format: video
 guid: http://stefanocecere.com/?p=5764
 id: 5764

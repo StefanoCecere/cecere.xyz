@@ -1,24 +1,23 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2009-05-08T14:22:08Z"
+categories: [blog]
+date: 2009-05-08T14:22:08Z
 guid: http://stefanocecere.com/?p=1749
 id: 1749
 tags:
 - Berlusconi
 - vignetta
-title: Io gli avrei dato un ceffone o una ginocchiata nelle palle&#8230;
+title: Io gli avrei dato un ceffone o una ginocchiata nelle palle…
 slug: /2009/05/08/io-gli-avrei-dato-un-ceffone-o-una-ginocchiata-nelle-palle/
 ---
 
-non so quanti hanno visto e riflettuto sulla &#8220;malattia&#8221; del nostro premiere (il &#8220;primo cittadino&#8221; d&#8217;Italia? tipo il capo classe o il capitano di una nave&#8230; che dovrebbe rappresentarci, guidarci etc?.. oddio)
+non so quanti hanno visto e riflettuto sulla "malattia" del nostro premiere (il "primo cittadino" d'Italia? tipo il capo classe o il capitano di una nave… che dovrebbe rappresentarci, guidarci etc?.. oddio)
 
-beh il video è [qui](http://www.youtube.com/watch?v=8SRhU_li53c): direi che non c&#8217;è molto da sbagliarsi o da smentire.
+beh il video è [qui](http://www.youtube.com/watch?v=8SRhU_li53c): direi che non c'è molto da sbagliarsi o da smentire.
 
 mi sarebbe molto piaciuto che la signora Beltrami gli avesse risposto con un ceffone oppure una bella ginocchiata nelle palle.. oppure che i vigili del fuoco insorgessero portandolo via con una camicia di forza..
 
-lo so l&#8217;episodio fa ridere.. ma dovrebbe far riflettere: il pesce puzza dalla testa.
+lo so l'episodio fa ridere.. ma dovrebbe far riflettere: il pesce puzza dalla testa.
   
 ecco la vignetta di Roberto che mi piace molto:
 

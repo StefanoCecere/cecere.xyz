@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-09-25T01:30:17Z"
+categories: [blog]
+date: 2008-09-25T01:30:17Z
 guid: http://stefanocecere.com/?p=1248
 id: 1248
 tags:
@@ -15,9 +14,9 @@ title: Tecniche di auto-difesa per donne giapponesi
 slug: /2008/09/25/tecniche-di-auto-difesa-per-donne-giapponesi/
 ---
 
-_&#8220;Fujiko! ma quanto tempo che non ci vediamo! come stai amica mia&#8230;&#8221;_
+_"Fujiko! ma quanto tempo che non ci vediamo! come stai amica mia…"_
 
-_&#8220;NON AVVICINARTI NON TI RICONOSCO&#8230;&#8221;_
+_"NON AVVICINARTI NON TI RICONOSCO…"_
 
 ragazzi in giappone non si scherza! soprattutto cone le ragazze ok? limitarsi ai videogiochi e ai manga! 🙂
 

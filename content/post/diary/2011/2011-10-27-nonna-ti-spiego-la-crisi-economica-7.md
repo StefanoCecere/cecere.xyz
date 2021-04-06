@@ -1,13 +1,9 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Economia
 - Tempi moderni
-date: "2011-10-27T18:54:57Z"
+date: 2011-10-27T18:54:57Z
 guid: http://stefanocecere.com/?p=2756
 id: 2756
 tags:
@@ -20,7 +16,7 @@ title: Nonna, ti spiego la crisi economica. 7
 slug: /2011/10/27/nonna-ti-spiego-la-crisi-economica-7/
 ---
 
-_(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del tutto digiune di economia, scritto da Paolo Barnard &#8211; leggi [introduzione e sommario qui](http://stefanocecere.com/2011/10/24/vi-spiego-la-crisi-economica/ "Vi spiego la crisi economica"))_
+_(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del tutto digiune di economia, scritto da Paolo Barnard - leggi [introduzione e sommario qui](http://stefanocecere.com/2011/10/24/vi-spiego-la-crisi-economica/ "Vi spiego la crisi economica"))_
 
 **Nonna:** Allora chi sono sti delinquenti che ci tolgono i soldi dello Stato, quelli che dicono che il debito pubblico è un nostro debito, quando invece non lo è, insomma, sti qui che con l’Euro ci hanno fatto sto brutto scherzo. Perché guardavo la televisione ieri e mi dicevo _“ma sta a vedere che quel politico lì è uno di loro”_. Dimmi mò.
 
@@ -46,4 +42,4 @@ _(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del
 
 **P.** Non importa, sono organizzazioni di investitori potentissimi che possono fare quello che gli pare con montagne di soldi che tu neppure t’immagini, tipo fa conto, 40 volte tutta la ricchezza dell’America, non scherzo. Nessun governo li regolamenta, e fra l’altro fanno parte anche loro di quelli che poi gridano agli Stati _“Oddio! Siete molto indebitati!”_ e così succede quel disastro a catena che ti ho detto già due volte. Ora capisci questo: i signori e gli istituti che ho appena listato lavorano in combutta fra di loro, ma hanno al loro servizio anche moltissimi politici e giornalisti prezzolati, e anche professori universitari che insegnano le loro teorie micidiali come se fossero invece il Vangelo. Sono proprio una rete di potentissimi che fra l’altro si ritrovano ogni anno in club super riservati dove fanno i loro piani. Tutta sta macchina è quello che io chiamo le **elite del Vero Potere** di cui parlo da quando ci incontriamo. E a proposito di macchina, tira fuori la macchina da cucire nonna, che sti jeans qui c’hanno un buco che ci passa un aereo. Baci.
 
-([Continua&#8230;](http://stefanocecere.com/2011/10/27/nonna-ti-spiego-la-crisi-economica-8/ "Nonna, ti spiego la crisi economica. 8"))
+([Continua…](http://stefanocecere.com/2011/10/27/nonna-ti-spiego-la-crisi-economica-8/ "Nonna, ti spiego la crisi economica. 8"))

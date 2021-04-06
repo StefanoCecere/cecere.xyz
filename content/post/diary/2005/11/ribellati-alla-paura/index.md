@@ -4,7 +4,7 @@ slug:
 subtitle: ""
 summary: ""
 tags: [attivista,disarmo,umanista,violenza]
-categories: [diary]
+categories: [blog]
 date: 2005-11-10T17:16:24Z
 featured: false
 draft: false

@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-01-06T11:32:06Z"
+categories: [blog]
+date: 2008-01-06T11:32:06Z
 guid: http://stefanocecere.com/2008/01/06/sullazione-valida/
 id: 633
-related_posts:
-- null
 tags:
 - spirito
 - umanista
@@ -14,9 +11,9 @@ title: sull&#039;Azione Valida
 slug: /2008/01/06/sullazione-valida/
 ---
 
-stamani mi sono svegliato con la volontà di approfondire un tema: quello dell&#8217;Azione Valida.
+stamani mi sono svegliato con la volontà di approfondire un tema: quello dell'Azione Valida.
 
-cosa è che giustifica un&#8217;azione?
+cosa è che giustifica un'azione?
   
 cosa possiamo ritenere davvero una buona azione?
   
@@ -24,13 +21,13 @@ perché mi dovrei comportare in un modo e non in un altro?
   
 perché _oggi_ mi comporto così?
 
-sono sicuro di aver già parlato del tema dell&#8217;azione valida tempo fa.
+sono sicuro di aver già parlato del tema dell'azione valida tempo fa.
   
 ma qui lo ripropongo e invito alla lettura di questo breve ma illuminante scritto di Silo a riguardo:
 
 [azione-valida.rtf](http://stefanocecere.com/wp-content/uploads/2008/01/azione-valida.rtf "azione-valida.rtf")
 
-ed ecco poi i 12 Principi dell&#8217;Azione Valida.. su cui forse imposto tutte le prossime attività del semestre:
+ed ecco poi i 12 Principi dell'Azione Valida.. su cui forse imposto tutte le prossime attività del semestre:
 
   1. Andare contro l’evoluzione delle cose è andare contro se stessi.
   2. Quando forzi qualcosa verso un fine, produci il contrario.

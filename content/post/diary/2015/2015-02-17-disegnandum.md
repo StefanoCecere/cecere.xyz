@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2015-02-17T06:33:05Z"
+categories: [blog]
+date: 2015-02-17T06:33:05Z
 format: image
 guid: http://stefanocecere.com/?p=5697
 id: 5697
@@ -19,4 +18,4 @@ Forme, matematica, disegno, spazi, ricorsività, design. Con tanto di algoritmi 
 
 Ps: libri del genere non possono essere eBook.
 
-Ps2: c&#8217;è pure tutto un capitolo sulle grafiche &#8220;islamiche&#8221; 🙂
+Ps2: c'è pure tutto un capitolo sulle grafiche "islamiche" 🙂

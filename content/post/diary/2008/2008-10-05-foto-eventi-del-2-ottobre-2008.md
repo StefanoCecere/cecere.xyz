@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-10-05T10:46:15Z"
+categories: [blog]
+date: 2008-10-05T10:46:15Z
 guid: http://stefanocecere.com/?p=1330
 id: 1330
 tags:
@@ -18,27 +17,27 @@ il 2 ottobre, giornata mondiale delle nonviolenza, si sono svolti eventi eventi 
 
 ecco [qui](http://www.marchamundial.org/es/iniciativas/fotos-2-de-octubre-2008) una serie di foto di
 
-  * Manila &#8211; Filipinas
-  * San Petersburgo &#8211; Rusia
-  * Mar del Plata &#8211; Argentina
-  * Santiago &#8211; Chile
-  * Aubangue &#8211; Belgica
-  * Buenos Aires &#8211; Argentina
-  * Paris &#8211; Francia
-  * Colonia &#8211; Alemania
-  * Congo
-  * Amsterdam &#8211; Holanda
-  * Toulouse &#8211; Francia
-  * Munich &#8211; Alemania
-  * Berazategui &#8211; Argentina
-  * New York &#8211; Estados Unidos
-  * Arequipa &#8211; Peru
-  * Ghana
-  * Marsella &#8211; Francia
-  * Sao Pablo &#8211; Brasil
-  * Buin &#8211; Chile
-  * Neuquen &#8211; Argentina
-  * Florencia &#8211; Italia
-  * Madrid &#8211; España
+- Manila - Filipinas
+- San Petersburgo - Rusia
+- Mar del Plata - Argentina
+- Santiago - Chile
+- Aubangue - Belgica
+- Buenos Aires - Argentina
+- Paris - Francia
+- Colonia - Alemania
+- Congo
+- Amsterdam - Holanda
+- Toulouse - Francia
+- Munich - Alemania
+- Berazategui - Argentina
+- New York - Estados Unidos
+- Arequipa - Peru
+- Ghana
+- Marsella - Francia
+- Sao Pablo - Brasil
+- Buin - Chile
+- Neuquen - Argentina
+- Florencia - Italia
+- Madrid - España
 
 <http://www.marchamundial.org/es/iniciativas/fotos-2-de-octubre-2008>

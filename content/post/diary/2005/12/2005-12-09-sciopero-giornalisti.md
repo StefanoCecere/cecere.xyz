@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2005-12-09T11:49:56Z"
+categories: [blog]
+date: 2005-12-09T11:49:56Z
 guid: http://stefanocecere.com/2005/12/09/sciopero-giornalisti/
 id: 173
-related_posts:
-- null
 tags:
 - giornalista
 - vergogna!

@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-06-06T02:56:53Z"
+categories: [blog]
+date: 2008-06-06T02:56:53Z
 guid: http://stefanocecere.com/2008/06/06/domenica-22-giungo-sciopero-mondiale-della-fame/
 id: 1006
-related_posts:
-- null
 tags:
 - Events
 - Movimento

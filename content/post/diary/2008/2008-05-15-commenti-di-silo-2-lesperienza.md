@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Uncategorized
-date: "2008-05-15T15:04:45Z"
+date: 2008-05-15T15:04:45Z
 guid: http://stefanocecere.com/2008/05/15/commenti-di-silo-2-lesperienza/
 id: 939
-related_posts:
-- null
 tags:
 - Silo
 - spirito
@@ -18,7 +16,7 @@ slug: /2008/05/15/commenti-di-silo-2-lesperienza/
 
 per ora solo in spagnolo.. a breve in italiano.
   
-questo è l&#8217;estratto del video mensile (di 25 minuti) che vedremo al Parco di Attigliano questo 31 maggio.
+questo è l'estratto del video mensile (di 25 minuti) che vedremo al Parco di Attigliano questo 31 maggio.
 
 **COMENTARIOS DE SILO
   
@@ -54,7 +52,7 @@ Entonces pongámoslo más simple, pongámoslo más fácil: dios es algo no segur
   
 Nosotros explicamos nuestras cosas porque hay gente que le interesan esas cosas y hay mucha gente que le interesan esas cosas y me parece que cada vez hay más gente.
 
-**Silo &#8211; Profeta mito hombre común**
+**Silo - Profeta mito hombre común**
   
 (Pregunta) Hay gente que dice que tú eres un hombre como otros (Silo: muy bien) y otros que dicen que tú eres un profeta.
   

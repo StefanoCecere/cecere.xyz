@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2007-09-10T01:01:36Z"
+categories: [blog]
+date: 2007-09-10T01:01:36Z
 guid: http://stefanocecere.com/2007/09/10/terra-20-news-992007-speciale-v-day-e-v-per-vendetta/
 id: 567
-related_posts:
-- null
 tags:
 - Politica
 - ricreazione

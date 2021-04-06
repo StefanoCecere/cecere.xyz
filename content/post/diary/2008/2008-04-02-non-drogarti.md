@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-04-02T20:43:22Z"
+categories: [blog]
+date: 2008-04-02T20:43:22Z
 guid: http://stefanocecere.com/2008/04/02/non-drogarti/
 id: 796
-related_posts:
-- null
 tags:
 - droga
 - rivoluzione
@@ -24,4 +20,4 @@ ps: lunedì è Lunedì Jedi
   
 ps2: questa è la foto di chie è venuto il 15 marzo a vedere il film Zeitgeist al Centro Umanista Il Fannullone di Monza!
   
-_la rivoluzione continua&#8230;_
+_la rivoluzione continua…_

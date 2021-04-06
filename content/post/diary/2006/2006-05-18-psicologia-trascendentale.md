@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2006-05-18T19:58:10Z"
+categories: [blog]
+date: 2006-05-18T19:58:10Z
 guid: http://stefanocecere.com/2006/05/18/psicologia-trascendentale/
 id: 272
-related_posts:
-- null
 tags:
 - psicologia
 - spirito
@@ -15,7 +12,7 @@ title: Psicologia Trascendentale
 slug: /2006/05/18/psicologia-trascendentale/
 ---
 
-<img src='/wp-content/PsicologiaIV3thumb.jpg' alt='' align='left' />Questa notte (erano le 21, a Buenos Aires), Mario Rodriguez Cobos, detto Silo, il fondatore storico del Movimento Umanista, ha tenuto una conferenza pubblica con la quale dice di aver &#8220;chiuso&#8221; quanto ha dire riguardo alla Psicologia.
+<img src='/wp-content/PsicologiaIV3thumb.jpg' alt='' align='left' />Questa notte (erano le 21, a Buenos Aires), Mario Rodriguez Cobos, detto Silo, il fondatore storico del Movimento Umanista, ha tenuto una conferenza pubblica con la quale dice di aver "chiuso" quanto ha dire riguardo alla Psicologia.
 
 Il testo (e anche qualche foto) è qui: <http://silo.net/Conferencia-2006-05-17.shtml> (ovviamente gratuito, per ora solo in spagnolo)
 

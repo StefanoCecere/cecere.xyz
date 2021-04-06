@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2005-11-29T12:47:46Z"
+categories: [blog]
+date: 2005-11-29T12:47:46Z
 guid: http://stefanocecere.com/2005/11/29/come-cambia-la-legge-elettorale/
 id: 162
-related_posts:
-- null
 tags:
 - vergogna!
 title: come cambia la legge elettorale
@@ -20,7 +16,7 @@ ovvero &#x201c;tutto cambia, tutto rimane lo stesso&#x201d;.. mah..
 
 ok, per un po' non volevo pi&#xf9; parlare di politica.. però credo sia mio dovere contribuire a far conoscere diversi punti di vista, che ognuno ci mediti.
   
-allego qui un semplice powerpoint nel quale viene spiegato come cambia&#xa0;la&#xa0;legge elettorale col sistema in discussione in Parlamento.
+allego qui un semplice powerpoint nel quale viene spiegato come cambia la legge elettorale col sistema in discussione in Parlamento.
   
 Se cambia qualcosa…
 

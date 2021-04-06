@@ -2,13 +2,13 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-04-19T16:47:31Z"
+date: 2013-04-19T16:47:31Z
 format: status
 guid: http://twitter-325274470954721280-post
 id: 4301
 title: |
   sono anni che lo diciamo #Barnard #MMT
-  “I numeri s&#8230;
+  “I numeri s…
 slug: /2013/04/19/sono-anni-che-lo-diciamo-barnard-mmti-numeri-s/
 ---
 

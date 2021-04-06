@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-10-19T08:04:54Z"
+date: 2013-10-19T08:04:54Z
 format: status
 guid: http://twitter-391459928470466560-post
 id: 4716
-title: Incomincia la nuova svendita di beni pubblici! htt&#8230;
+title: Incomincia la nuova svendita di beni pubblici! htt…
 slug: /2013/10/19/incomincia-la-nuova-svendita-di-beni-pubblici-htt/
 ---
 

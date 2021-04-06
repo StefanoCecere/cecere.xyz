@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2008-05-22T10:06:37Z"
+date: 2008-05-22T10:06:37Z
 guid: http://stefanocecere.com/2008/05/22/usa-la-forza-bush/
 id: 967
-related_posts:
-- null
 tags:
 - azioni
 - digiuno
@@ -20,7 +18,7 @@ title: USA LA FORZA, BUSH!
 slug: /2008/05/22/usa-la-forza-bush/
 ---
 
-Venerdì dale 17:00 alle 19:30 &#8230; davanti al consolato americano in Via Turati:
+Venerdì dale 17:00 alle 19:30 … davanti al consolato americano in Via Turati:
 
 ![stop_bush.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/stop_bush.jpg)
 

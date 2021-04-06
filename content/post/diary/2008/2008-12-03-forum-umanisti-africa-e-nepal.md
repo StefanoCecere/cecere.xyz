@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-12-03T09:55:00Z"
+categories: [blog]
+date: 2008-12-03T09:55:00Z
 guid: http://stefanocecere.com/?p=1494
 id: 1494
 tags:
@@ -16,7 +15,7 @@ slug: /2008/12/03/forum-umanisti-africa-e-nepal/
 
 amici sono settimane che non scrivo qui perchè i ritmi si sono accelerati e ho davvero poco tempo! entro Natale arriveranno due nuove creature: un/una cecina 😮 e il portale web della marcia mondiale.
 
-intanto nei giorni passati si sono svolti i forum umanisti dell&#8217;Africa (a Nairobi) e in Nepal.
+intanto nei giorni passati si sono svolti i forum umanisti dell'Africa (a Nairobi) e in Nepal.
 
 ecco alcune foto per la gioia dei fotofili:
 

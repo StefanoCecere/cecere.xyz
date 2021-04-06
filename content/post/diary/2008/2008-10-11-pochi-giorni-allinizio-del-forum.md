@@ -4,7 +4,7 @@ aktt_notify_twitter:
 author: Stefano Cecere
 categories:
 - Buone Nuove
-date: "2008-10-11T12:10:44Z"
+date: 2008-10-11T12:10:44Z
 guid: http://stefanocecere.com/?p=1381
 id: 1381
 tags:
@@ -33,21 +33,21 @@ slug: /2008/10/11/pochi-giorni-allinizio-del-forum/
 </div>
 
 <div>
-  <strong><a href="http://it.youtube.com/watch?v=pNqY0g__c9o" target="_self"><br /> Link per vedere lo spot su youtube</a>Venerdì 17, alle 13.30 prima dell&#8217;apertura del Forum al Palalido in Piazza Stuparich: incontro con la stampa, rinfresco e spazio interviste.  </p> 
+  <strong><a href="http://it.youtube.com/watch?v=pNqY0g__c9o" target="_self"><br /> Link per vedere lo spot su youtube</a>Venerdì 17, alle 13.30 prima dell'apertura del Forum al Palalido in Piazza Stuparich: incontro con la stampa, rinfresco e spazio interviste.  </p> 
   
   <p>
     </strong> </div> 
     
     <div>
-      Tre giorni di conferenze, tavole rotonde, dibattiti, laboratori, testimonianze e spettacoli, esposizioni di artisti vari. 10.000 partecipanti previsti da tutta Europa. Centinaia di associazioni e persone impegnate nel mondo del pacifismo e del volontariato che lavoreranno per la costruzione di un&#8217;Europa aperta al futuro, ricca nelle sue diversità, accogliente nelle istituzioni, nonviolenta e solidale.
+      Tre giorni di conferenze, tavole rotonde, dibattiti, laboratori, testimonianze e spettacoli, esposizioni di artisti vari. 10.000 partecipanti previsti da tutta Europa. Centinaia di associazioni e persone impegnate nel mondo del pacifismo e del volontariato che lavoreranno per la costruzione di un'Europa aperta al futuro, ricca nelle sue diversità, accogliente nelle istituzioni, nonviolenta e solidale.
     </div>
     
     <div>
-      <em><span style="color: #ff6600"><strong> Orari d&#8217;apertura:</strong></span></em>Venerdì 17 Palalido, Piazza Stuparich: 15.30 &#8211; 24.00<br /> Sabato 18 Università Bicocca, Piazza dell&#8217;Ateneo Nuovo: 11.00 &#8211; 19.00<br /> Palalido, Piazza Stuparich: 19.30 &#8211; 24.00
+      <em><span style="color: #ff6600"><strong> Orari d'apertura:</strong></span></em>Venerdì 17 Palalido, Piazza Stuparich: 15.30 - 24.00<br /> Sabato 18 Università Bicocca, Piazza dell'Ateneo Nuovo: 11.00 - 19.00<br /> Palalido, Piazza Stuparich: 19.30 - 24.00
     </div>
     
     <div>
-      Domenica 19 Palalido, Piazza Stuparich: 14.30 &#8211; 19.00
+      Domenica 19 Palalido, Piazza Stuparich: 14.30 - 19.00
     </div>
     
     <div>
@@ -60,7 +60,7 @@ slug: /2008/10/11/pochi-giorni-allinizio-del-forum/
         
         <ul>
           <li>
-            <span>Venerdì 17, alle 18,30 al Palalido<br /> Tavola rotonda: <span style="color: #ff6600"><strong>Fermare la guerra nucleare.</strong> </span><span style="color: #ff6600"><strong>Il ruolo dell&#8217;Europa.</strong><br /> </span>Oratori: Giorgio Schultze, Hans Kristensen, Angelo Baracca, Giulietto Chiesa, Pol D&#8217;Huyvetter.</span>
+            <span>Venerdì 17, alle 18,30 al Palalido<br /> Tavola rotonda: <span style="color: #ff6600"><strong>Fermare la guerra nucleare.</strong> </span><span style="color: #ff6600"><strong>Il ruolo dell'Europa.</strong><br /> </span>Oratori: Giorgio Schultze, Hans Kristensen, Angelo Baracca, Giulietto Chiesa, Pol D'Huyvetter.</span>
           </li>
           <li>
             <span>Venerdì 17, alle 21.30 al Palalido<br /> <strong><span style="color: #ff6600">Fateci uscire! serata in appoggio al Manifesto</span></strong><br /> con la partecipazione del direttore Valentino Parlato.</span>
@@ -69,7 +69,7 @@ slug: /2008/10/11/pochi-giorni-allinizio-del-forum/
             <span>Sabato 18, alle 17.00 alla Bicocca.<br /> Conferenza:<strong> Una soluzione nonviolenta al conflitto Palestina-Israele.<br /> <span style="color: #000000;font-weight: normal">Oratori: Luisa Morgantini, Noam Livne, Monica Czyza, Giorgio Forti, Felicity de Zulueta.</span></strong></span>
           </li>
           <li>
-            <span>Domenica 19 alle 14.30 al Palalido<br /> Conferenza: <span style="color: #ff6600"><strong>Oltre la giustizia, al di la&#8217; della vendetta, testimonianze di chi ha trasformato il dolore in impegno sociale e nuova umanità.<br /> </strong></span>Moderatore: Maria Cuffaro. Oratori: Giovanni Impastato, Pina Grassi, Manuela Dviri Vitali Norsa, Giuseppe Santagada, Paolo Bolognesi.<br /> </span>
+            <span>Domenica 19 alle 14.30 al Palalido<br /> Conferenza: <span style="color: #ff6600"><strong>Oltre la giustizia, al di la' della vendetta, testimonianze di chi ha trasformato il dolore in impegno sociale e nuova umanità.<br /> </strong></span>Moderatore: Maria Cuffaro. Oratori: Giovanni Impastato, Pina Grassi, Manuela Dviri Vitali Norsa, Giuseppe Santagada, Paolo Bolognesi.<br /> </span>
           </li>
         </ul>
         
@@ -129,7 +129,7 @@ slug: /2008/10/11/pochi-giorni-allinizio-del-forum/
             Nuove generazioni
           </li>
           <li>
-            La menzogna dell&#8217;informazione
+            La menzogna dell'informazione
           </li>
         </ul>
         
@@ -138,15 +138,15 @@ slug: /2008/10/11/pochi-giorni-allinizio-del-forum/
         </div>
         
         <div>
-          <span style="color: #ff6600"><em><strong><br /> Un po&#8217; di storia:</strong></em><br /> </span><br /> I Forum Umanisti iniziano nel 1993, con il Primo Forum Mondiale che si è svolto a Mosca il 7 Ottobre, il secondo nel 1994 a Città del Messico e il terzo nel 1995 a Santiago del Cile. Negli anni successivi si è avviato un processo di regionalizzazione. Vaste aree geografiche, nelle quali i popoli che lì risiedono condividono storia, tradizioni e cultura comuni, hanno cominciato ad assumere un&#8217;importanza crescente nel contesto più generale della mondializzazione. Si è reso quindi necessario l&#8217;incontro fra i popoli che convivono all&#8217;interno di queste grandi regioni e così hanno iniziato a svilupparsi i Forum Umanisti Regionali. In Europa il primo Forum Umanista, si è tenuto a Lisbona nel novembre 2006, preceduto dagli incontri di Madrid (1999), Praga (2003) e Budapest (2004).   </p> 
+          <span style="color: #ff6600"><em><strong><br /> Un po' di storia:</strong></em><br /> </span><br /> I Forum Umanisti iniziano nel 1993, con il Primo Forum Mondiale che si è svolto a Mosca il 7 Ottobre, il secondo nel 1994 a Città del Messico e il terzo nel 1995 a Santiago del Cile. Negli anni successivi si è avviato un processo di regionalizzazione. Vaste aree geografiche, nelle quali i popoli che lì risiedono condividono storia, tradizioni e cultura comuni, hanno cominciato ad assumere un'importanza crescente nel contesto più generale della mondializzazione. Si è reso quindi necessario l'incontro fra i popoli che convivono all'interno di queste grandi regioni e così hanno iniziato a svilupparsi i Forum Umanisti Regionali. In Europa il primo Forum Umanista, si è tenuto a Lisbona nel novembre 2006, preceduto dagli incontri di Madrid (1999), Praga (2003) e Budapest (2004).   </p> 
           
           <p>
-            Nell&#8217;anno 2006 si sono realizzati il primo Forum Africano, il primo Forum Asiatico-Pacifico, il primo Forum Latino-Americano e il primo Forum Europeo. Nel 2007 a New York, si è svolto il primo Forum della regionale Nord Americana.
+            Nell'anno 2006 si sono realizzati il primo Forum Africano, il primo Forum Asiatico-Pacifico, il primo Forum Latino-Americano e il primo Forum Europeo. Nel 2007 a New York, si è svolto il primo Forum della regionale Nord Americana.
           </p>
         </div>
         
         <p>
-          <em><strong><span style="color: #ff6600"> Per scaricare tutta la documentazione:</span></strong></em><a href="http://www.pressenza.org/site/index.php/View-document-details/4-Forum-Europeo-Milano.html" target="_blank"><br /> Forum Europeo &#8211; Milano<br /> </a>
+          <em><strong><span style="color: #ff6600"> Per scaricare tutta la documentazione:</span></strong></em><a href="http://www.pressenza.org/site/index.php/View-document-details/4-Forum-Europeo-Milano.html" target="_blank"><br /> Forum Europeo - Milano<br /> </a>
         </p>
         
         <p>
@@ -158,7 +158,7 @@ slug: /2008/10/11/pochi-giorni-allinizio-del-forum/
         </p>
         
         <p>
-          <em><span style="color: #ff6600"><strong><span> Si ringrazia:</span></strong></span></em><br /> <span><br /> Interzone Comunicazione per il supporto all&#8217;organizzazione dell&#8217;evento &#8211; <a href="http://www.interzone.it" target="_self">www.interzone.it<br /> </a></span><span>La community di Creathead per la realizzazione della campagna promozionale &#8211; <a href="http://www.creathead.it" target="_self">www.creathead.it<br /> </a></span><span>Università degli Studi di Milano &#8211; Bicocca &#8211; <a href="http://www.unimib.it" target="_blank">www.unimib.it<br /> </a></span><span>C6Tv -media partner &#8211; <a href="http://www.c6tv.it" target="_blank">www.c6tv.it<br /> </a></span><span>Quintessenza Network &#8211; per la produzione video &#8211; <a href="http://www.quintessenzanet.org" target="_blank">www.quintessenzanet.org<br /> </a></span><span>La Esco Del Sole &#8211; <a href="http://www.laescodelsole.com" target="_blank">www.laescodelsole.com<br /> </a></span>
+          <em><span style="color: #ff6600"><strong><span> Si ringrazia:</span></strong></span></em><br /> <span><br /> Interzone Comunicazione per il supporto all'organizzazione dell'evento - <a href="http://www.interzone.it" target="_self">www.interzone.it<br /> </a></span><span>La community di Creathead per la realizzazione della campagna promozionale - <a href="http://www.creathead.it" target="_self">www.creathead.it<br /> </a></span><span>Università degli Studi di Milano - Bicocca - <a href="http://www.unimib.it" target="_blank">www.unimib.it<br /> </a></span><span>C6Tv -media partner - <a href="http://www.c6tv.it" target="_blank">www.c6tv.it<br /> </a></span><span>Quintessenza Network - per la produzione video - <a href="http://www.quintessenzanet.org" target="_blank">www.quintessenzanet.org<br /> </a></span><span>La Esco Del Sole - <a href="http://www.laescodelsole.com" target="_blank">www.laescodelsole.com<br /> </a></span>
         </p>
         
         <p>

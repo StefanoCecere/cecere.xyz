@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-01-22T12:27:04Z"
+categories: [blog]
+date: 2006-01-22T12:27:04Z
 guid: http://stefanocecere.com/2006/01/22/viuleeenza/
 id: 215
-related_posts:
-- null
 tags:
 - Berlusconi
 - Rassegna Stampa

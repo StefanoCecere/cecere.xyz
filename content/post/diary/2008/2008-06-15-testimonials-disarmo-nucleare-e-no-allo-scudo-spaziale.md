@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-06-15T22:38:18Z"
+categories: [blog]
+date: 2008-06-15T22:38:18Z
 guid: http://stefanocecere.com/2008/06/15/testimonials-disarmo-nucleare-e-no-allo-scudo-spaziale/
 id: 1041
-related_posts:
-- null
 tags:
 - disarmo nucleare
 - Europe for Peace

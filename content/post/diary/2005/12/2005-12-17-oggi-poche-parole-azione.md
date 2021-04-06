@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-12-17T08:37:20Z"
+categories: [blog]
+date: 2005-12-17T08:37:20Z
 guid: http://stefanocecere.com/2005/12/17/oggi-poche-parole-azione/
 id: 184
-related_posts:
-- null
 title: oggi poche parole.. AZIONE!
 slug: /2005/12/17/oggi-poche-parole-azione/
 ---

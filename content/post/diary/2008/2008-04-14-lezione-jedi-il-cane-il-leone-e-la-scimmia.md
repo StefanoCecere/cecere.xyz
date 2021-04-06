@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-04-14T08:39:34Z"
+categories: [blog]
+date: 2008-04-14T08:39:34Z
 guid: http://stefanocecere.com/2008/04/14/lezione-jedi-il-cane-il-leone-e-la-scimmia/
 id: 856
-related_posts:
-- null
 tags:
 - Jedi
 - lezione
@@ -28,28 +25,28 @@ Impaurito si guarda intorno e vede poco lontano la carcassa di un grosso animale
   
 La raggiunge e comincia a leccare un osso.
   
-Quando il leone sta per attaccarlo il cagnolino dice a voce alta: &#8220;Mmm, che buon leone mi sono mangiato. Me ne farei un altro subito.&#8221;
+Quando il leone sta per attaccarlo il cagnolino dice a voce alta: "Mmm, che buon leone mi sono mangiato. Me ne farei un altro subito."
   
-Il leone si ferma e sentendo quelle parole pensa: &#8220;Che razza di animale sarà? E se poi faccio la stessa fine di quello lì?, meglio sparire! &#8221;
+Il leone si ferma e sentendo quelle parole pensa: "Che razza di animale sarà? E se poi faccio la stessa fine di quello lì?, meglio sparire! "
   
-Una scimmia che stava appollaiata su un ramo e aveva assistito a tutta la scena scende dall&#8217;albero e dice al leone: &#8220;Ma va là, stupido, e&#8217; tutta una finta. Quella carcassa era già lì da un pezzo. Quello è semplicemente un cane e ti ha fregato.&#8221;
+Una scimmia che stava appollaiata su un ramo e aveva assistito a tutta la scena scende dall'albero e dice al leone: "Ma va là, stupido, e' tutta una finta. Quella carcassa era già lì da un pezzo. Quello è semplicemente un cane e ti ha fregato."
   
-Il leone dice alla scimmia: &#8220;Ah si? Allora vieni con me che andiamo a trovare quel cane e poi vediamo chi mangia chi!&#8221;.
+Il leone dice alla scimmia: "Ah si? Allora vieni con me che andiamo a trovare quel cane e poi vediamo chi mangia chi!".
   
 E si mette a correre verso il cucciolo con la scimmia sulla groppa.
   
-Il cagnolino che aveva sentito tutto si rende conto della vigliaccata della scimmia e atterrito si chiede: &#8220;E adesso cosa faccio?&#8221;
+Il cagnolino che aveva sentito tutto si rende conto della vigliaccata della scimmia e atterrito si chiede: "E adesso cosa faccio?"
   
-Ci pensa su un attimo poi, invece di scappare, si siede dando le spalle al leone e dice a voce alta: &#8220;Quella maledetta scimmia!, Mezz&#8217;ora fa le ho detto di portarmi un altro bel leone grasso e ancora non si fa vedere.&#8221;
+Ci pensa su un attimo poi, invece di scappare, si siede dando le spalle al leone e dice a voce alta: "Quella maledetta scimmia!, Mezz'ora fa le ho detto di portarmi un altro bel leone grasso e ancora non si fa vedere."
   
 A quelle parole il leone incavolatissimo mangia la Scimmia in un boccone e il cagnolino fugge mettendosi in salvo.
 
 **MORALE:
   
-NEI MOMENTI DI CRISI IL SAPER MANTENERE LA CALMA E USARE IL CERVELLO LUCIDAMENTE E&#8217; PIU&#8217; IMPORTANTE DELLA FORZA O DELL&#8217;APPARIRE.**
+NEI MOMENTI DI CRISI IL SAPER MANTENERE LA CALMA E USARE IL CERVELLO LUCIDAMENTE E' PIU' IMPORTANTE DELLA FORZA O DELL'APPARIRE.**
 
 Cerca di essere calmo e furbo come il cane, evita di essere stupido come il leone ma non essere mai tanto figlio di puttana come la scimmia.
 
-ps: per chi desidera imparare l&#8217;autocontrollo e diventare un cavaliere Jedi, questa sera è lunedì!
+ps: per chi desidera imparare l'autocontrollo e diventare un cavaliere Jedi, questa sera è lunedì!
   
 ciao

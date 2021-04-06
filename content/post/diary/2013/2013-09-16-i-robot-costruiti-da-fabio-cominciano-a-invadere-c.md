@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-09-16T21:22:41Z"
+date: 2013-09-16T21:22:41Z
 format: status
 guid: http://twitter-379701898359898112-post
 id: 4645
-title: i robot costruiti da Fabio cominciano a invadere c&#8230;
+title: i robot costruiti da Fabio cominciano a invadere c…
 slug: /2013/09/16/i-robot-costruiti-da-fabio-cominciano-a-invadere-c/
 ---
 

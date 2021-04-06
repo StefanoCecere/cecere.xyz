@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2007-10-12T13:08:15Z"
+categories: [blog]
+date: 2007-10-12T13:08:15Z
 guid: http://stefanocecere.com/2007/10/12/premio-nobel-ad-al-gore/
 id: 585
-related_posts:
-- null
 tags:
 - pace
 - vergogna!
@@ -17,6 +13,6 @@ slug: /2007/10/12/premio-nobel-ad-al-gore/
 
 oggi era iniziata veramente una gran bella giornata.
   
-finché non ho letto dell&#8217;assegnazione del premio Nobel per la Pace al Gore.
+finché non ho letto dell'assegnazione del premio Nobel per la Pace al Gore.
 
 _se vieni a trovarmi ti darò delle ottime ragioni per capire il perché sono davvero preoccupato_

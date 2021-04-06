@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2008-05-14T11:06:49Z"
+date: 2008-05-14T11:06:49Z
 guid: http://stefanocecere.com/2008/05/14/iniziato-lo-sciopero-della-fame-contro-lo-scudo-stellare/
 id: 931
-related_posts:
-- null
 tags:
 - azioni
 - disarmo nucleare
@@ -31,7 +29,7 @@ In 20 città europee si stanno organizzando eventi, manifestazioni, altri sciope
 
 **In ITALIA oggi ha inziato lo sciopero della fame Lucia Rimoldi**
   
-**a Milano l&#8217;appuntamento è tutte le sere (da ieri) in Piazza Sant Eustorgio**
+**a Milano l'appuntamento è tutte le sere (da ieri) in Piazza Sant Eustorgio**
 
 ecco la dichiarazione di Jan Tamas:
 

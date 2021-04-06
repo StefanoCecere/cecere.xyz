@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2006-01-21T15:44:24Z"
+categories: [blog]
+date: 2006-01-21T15:44:24Z
 guid: http://stefanocecere.com/2006/01/21/king-kong-e-luomo-moderno/
 id: 214
-related_posts:
-- null
 title: King Kong e l&#039;uomo moderno
 slug: /2006/01/21/king-kong-e-luomo-moderno/
 ---
@@ -19,11 +16,11 @@ Mentre questa notte vedevo la fine del battibecco Berlusconi vs Rutelli, mi chie
   
 “ma dove vogliono andare?”
 
-medito sugli strani comportamenti delle persone che mi sono intorno, sulla manipolazione e contraffazione di ogni forma di comunicazione, sull’impossibilità di vedere le stelle, sul miraggio che i soldi o un vestito più bello risolveranno tutto, sui miliardi di persone che ogni giorno soffrono, sulla potenzialità della nostra vita, sulla spudorata violenza che subiamo, che accettiamo e che quindi riproponiamo&#8230;
+medito sugli strani comportamenti delle persone che mi sono intorno, sulla manipolazione e contraffazione di ogni forma di comunicazione, sull’impossibilità di vedere le stelle, sul miraggio che i soldi o un vestito più bello risolveranno tutto, sui miliardi di persone che ogni giorno soffrono, sulla potenzialità della nostra vita, sulla spudorata violenza che subiamo, che accettiamo e che quindi riproponiamo…
 
-Vedo molto “calcolo” in giro&#8230; tutti a calcolare se una cosa gli conviene o meno, se quello ha detto più verità dell’altro o meno, se essere amico di caio è meglio che non di sempronio..
+Vedo molto “calcolo” in giro… tutti a calcolare se una cosa gli conviene o meno, se quello ha detto più verità dell’altro o meno, se essere amico di caio è meglio che non di sempronio..
 
-l’unica alternativa a calcolare, a intelettualizzare, è la “sconnessione”.. cioè l’evitare di vedere ed affrontare le questioni&#8230;
+l’unica alternativa a calcolare, a intelettualizzare, è la “sconnessione”.. cioè l’evitare di vedere ed affrontare le questioni…
   
 questa cosa accresce l’isolamento, l’individualismo, l’accettazione dello stato di fatto delle cose e la perdita di senso della vita.
 

@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2009-03-10T23:16:39Z"
+categories: [blog]
+date: 2009-03-10T23:16:39Z
 guid: http://stefanocecere.com/?p=1597
 id: 1597
 tags:
@@ -16,17 +15,17 @@ title: Cementiamo la costituzione! evviva la crisi!
 slug: /2009/03/10/cementiamo-la-costituzione-evviva-la-crisi/
 ---
 
-nonostante il mio essere non proprietario di alcun immobile sinceramente non ho grandi motivazioni per essere \_contro\_ le idee di cemento dell&#8217;attuale governo.. certo da un **palazzinaro furbacchione** non ci si può certo aspettare che individui nella riduzione dei consumi e nella produzione di energie alternative il business del futuro (e che forse ci può aiutare ad uscire sani).
+nonostante il mio essere non proprietario di alcun immobile sinceramente non ho grandi motivazioni per essere \_contro\_ le idee di cemento dell'attuale governo.. certo da un **palazzinaro furbacchione** non ci si può certo aspettare che individui nella riduzione dei consumi e nella produzione di energie alternative il business del futuro (e che forse ci può aiutare ad uscire sani).
 
-So che sta facendo gli interessi suoi e di circa il 50% degli italiani che sbavano dall&#8217;ampliare la propria casa (magari **investendo qualche soldo in banca prima che crollino le banche**.)
+So che sta facendo gli interessi suoi e di circa il 50% degli italiani che sbavano dall'ampliare la propria casa (magari **investendo qualche soldo in banca prima che crollino le banche**.)
 
-Io spero sia solo un demagogo affarista in preda al panico da crollo economico (e giudiziario penale) e che non ci sia dell&#8217;attiva complicità con tutto quel sistema finanziario/economico che sta sfruttando questa **&#8220;crisi&#8221; venuta dal cielo** (ma arrivano davvero così per caso e inaspettate queste sciagure? 😉 **per poter licenziare centinaia di migliaia di persone, mettere la croce defnitiva sui sindacati, straziare le attuali condizioni di lavoro e insomma chiedere tutti quei sacrifici in nome della salvezza comune**.
+Io spero sia solo un demagogo affarista in preda al panico da crollo economico (e giudiziario penale) e che non ci sia dell'attiva complicità con tutto quel sistema finanziario/economico che sta sfruttando questa **"crisi" venuta dal cielo** (ma arrivano davvero così per caso e inaspettate queste sciagure? 😉 **per poter licenziare centinaia di migliaia di persone, mettere la croce defnitiva sui sindacati, straziare le attuali condizioni di lavoro e insomma chiedere tutti quei sacrifici in nome della salvezza comune**.
 
-fino all&#8217;anno scorso prima di licenziare qualcuno ci volevano iter e permessi e condizioni molto particolari.. oggi c&#8217;è la crisi che giustifica tutto! presto tutti licenziati (tanto paga tutto lo stato ovvero io e te)&#8230; non ricordate un film già visto pochi anni fa.. in nome dell&#8217;anti terrorismo?
+fino all'anno scorso prima di licenziare qualcuno ci volevano iter e permessi e condizioni molto particolari.. oggi c'è la crisi che giustifica tutto! presto tutti licenziati (tanto paga tutto lo stato ovvero io e te)… non ricordate un film già visto pochi anni fa.. in nome dell'anti terrorismo?
 
-**dall&#8217;altra parte** parlano solo di assegni a chi viene licenziato.. come se fosse una meccanica ormai normale e sacrosanta e intoccabile il licenziare tutti.. **l&#8217;unico interesse è aiutare quelli che abbiamo bombardato per aiutarli**. .altra logica abbastanza collaudata nevvero? a hah a
+**dall'altra parte** parlano solo di assegni a chi viene licenziato.. come se fosse una meccanica ormai normale e sacrosanta e intoccabile il licenziare tutti.. **l'unico interesse è aiutare quelli che abbiamo bombardato per aiutarli**. .altra logica abbastanza collaudata nevvero? a hah a
 
-vabbeh il succo l&#8217;ho detto.. chi ha orecchie lo lo ha sentito.. chi ha cervello lo aveva già capito.. quindi godiamoci un po&#8217; divertimento e crediamo a chi dice che la crisi non è così grave! è vero! qualcuno ci sta sguazzando dentro questa crisi!
+vabbeh il succo l'ho detto.. chi ha orecchie lo lo ha sentito.. chi ha cervello lo aveva già capito.. quindi godiamoci un po' divertimento e crediamo a chi dice che la crisi non è così grave! è vero! qualcuno ci sta sguazzando dentro questa crisi!
 
 tornando al cemento:
 

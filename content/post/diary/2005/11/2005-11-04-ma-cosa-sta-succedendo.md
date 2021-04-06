@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2005-11-04T11:06:29Z"
+date: 2005-11-04T11:06:29Z
 guid: http://stefanocecere.com/2005/11/04/ma-cosa-sta-succedendo/
 id: 129
-related_posts:
-- null
 tags:
 - umanista
 title: ma cosa sta succedendo?

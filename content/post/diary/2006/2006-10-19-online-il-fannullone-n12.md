@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-10-19T01:01:25Z"
+categories: [blog]
+date: 2006-10-19T01:01:25Z
 guid: http://stefanocecere.com/2006/10/19/online-il-fannullone-n12/
 id: 450
-related_posts:
-- null
 tags:
 - arte
 - Il Fannullone

@@ -1,13 +1,9 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Arte
 - Tecnologia
-date: "2011-02-11T08:42:24Z"
+date: 2011-02-11T08:42:24Z
 guid: http://stefanocecere.com/?p=2378
 id: 2378
 tags:

@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2007-09-13T09:20:49Z"
+categories: [blog]
+date: 2007-09-13T09:20:49Z
 guid: http://stefanocecere.com/2007/09/13/2-ottobre-volantino-buon-compleanno-gandhi/
 id: 571
-related_posts:
-- null
 tags:
 - arte
 - Gandhi
@@ -21,7 +17,7 @@ slug: /2007/09/13/2-ottobre-volantino-buon-compleanno-gandhi/
 
 ![2-ottobre-buon-compleanno-gandhi.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2007/09/2-ottobre-buon-compleanno-gandhi.jpg)
 
-stasera alla festa dell&#8217;Unità a Milano, durante il concerto dei Mercanti di Liquore, distribuiremo questi volantini.
+stasera alla festa dell'Unità a Milano, durante il concerto dei Mercanti di Liquore, distribuiremo questi volantini.
   
 intanto stiamo organizzando gli eventi!
 

@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-05-01T12:40:39Z"
+categories: [blog]
+date: 2005-05-01T12:40:39Z
 guid: http://stefanocecere.com/?p=54
 id: 54
-related_posts:
-- null
 title: non sottovalutiamoci…
 slug: /2005/05/01/non-sottovalutiamoci/
 ---

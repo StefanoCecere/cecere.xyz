@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2008-05-15T10:30:31Z"
+date: 2008-05-15T10:30:31Z
 guid: http://stefanocecere.com/2008/05/15/appello-della-campagna-%e2%80%9cl%e2%80%99europa-dice-no-allo-scudo-spaziale%e2%80%9d/
 id: 936
-related_posts:
-- null
 tags:
 - azioni
 - disarmo nucleare
@@ -19,7 +17,7 @@ title: Appello della campagna “L’Europa dice no allo scudo spaziale”
 slug: /2008/05/15/appello-della-campagna-leuropa-dice-no-allo-scudo-spaziale/
 ---
 
-se sei un&#8217;associazione o partito o altro, sottoscrivi l&#8217;appello con la mail a fondo, se no sappilo e diffondi!
+se sei un'associazione o partito o altro, sottoscrivi l'appello con la mail a fondo, se no sappilo e diffondi!
 
 Il governo degli Stati Uniti vuole installare una base radar in Repubblica Ceca, come parte del sistema di difesa antimissile detto “Scudo spaziale”.
 
@@ -27,7 +25,7 @@ Lo scudo spaziale è un’arma di offesa e uno strumento per il dominio globale 
 
 La lotta contro questo progetto non riguarda solo la Repubblica Ceca (dove il 70% della popolazione è contraria alla base radar), ma deve estendersi a tutta l’Europa. Non possiamo permettere ai nostri politici di assecondare la folle intenzione degli Stati Uniti di trasformare l’Europa nel teatro di una possibile guerra nucleare, minacciando la pace e la sopravvivenza stessa dell’umanità.
 
-Il 13 maggio Jan Tamas e Jan Bednar, del movimento ceco contro la base radar USA hanno iniziato uno sciopero della fame e varie città europee &#8211; Parigi, Madrid, Roma, Atene, Berlino, Bruxelles, Amsterdam, Copenhagen, Budapest, Zurigo, Tolosa, Malaga, Porto, Colonia, Milano, Trieste e Torino &#8211; si sono unite alla protesta portata avanti a Praga con diverse iniziative di denuncia e solidarietà.
+Il 13 maggio Jan Tamas e Jan Bednar, del movimento ceco contro la base radar USA hanno iniziato uno sciopero della fame e varie città europee - Parigi, Madrid, Roma, Atene, Berlino, Bruxelles, Amsterdam, Copenhagen, Budapest, Zurigo, Tolosa, Malaga, Porto, Colonia, Milano, Trieste e Torino - si sono unite alla protesta portata avanti a Praga con diverse iniziative di denuncia e solidarietà.
 
 Nel nostro paese sono partite iniziative a Trieste, Torino, Milano e Roma, sul tema dello scudo spaziale, delle basi militari e in generale del riarmo.
 

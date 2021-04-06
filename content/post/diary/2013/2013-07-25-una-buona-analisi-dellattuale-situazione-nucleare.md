@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-07-25T13:12:55Z"
+date: 2013-07-25T13:12:55Z
 format: status
 guid: http://twitter-360372084532199424-post
 id: 4605
-title: una buona analisi dell’attuale situazione nucleare&#8230;
+title: una buona analisi dell’attuale situazione nucleare…
 slug: /2013/07/25/una-buona-analisi-dellattuale-situazione-nucleare/
 ---
 

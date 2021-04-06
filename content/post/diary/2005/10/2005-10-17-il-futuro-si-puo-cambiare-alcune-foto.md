@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2005-10-17T17:49:29Z"
+date: 2005-10-17T17:49:29Z
 guid: http://stefanocecere.com/2005/10/17/il-futuro-si-puo-cambiare-alcune-foto/
 id: 112
-related_posts:
-- null
 tags:
 - disarmo nucleare
 - Events

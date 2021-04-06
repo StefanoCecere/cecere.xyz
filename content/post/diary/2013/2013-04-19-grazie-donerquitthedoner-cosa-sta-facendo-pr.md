@@ -2,14 +2,14 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-04-19T11:18:33Z"
+date: 2013-04-19T11:18:33Z
 format: status
 guid: http://twitter-325191682486321153-post
 id: 4298
 title: |
   grazie doner!
 
-  “@quitthedoner: COSA STA FACENDO PR&#8230;
+  “@quitthedoner: COSA STA FACENDO PR…
 slug: /2013/04/19/grazie-donerquitthedoner-cosa-sta-facendo-pr/
 ---
 

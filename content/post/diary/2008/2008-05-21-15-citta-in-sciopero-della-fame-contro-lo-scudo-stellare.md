@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2008-05-21T07:16:32Z"
+date: 2008-05-21T07:16:32Z
 guid: http://stefanocecere.com/2008/05/21/15-citta-in-sciopero-della-fame-contro-lo-scudo-stellare/
 id: 962
-related_posts:
-- null
 tags:
 - azioni
 - digiuno
@@ -20,11 +18,11 @@ title: 15 città in sciopero della fame contro lo Scudo Stellare
 slug: /2008/05/21/15-citta-in-sciopero-della-fame-contro-lo-scudo-stellare/
 ---
 
-ieri sono stato ad un&#8217;importante riunione del coordinamento milanese della campagna.
+ieri sono stato ad un'importante riunione del coordinamento milanese della campagna.
 
 almeno qui in Italia non smetteranno lo sciopero dela fame finché in tv non parleranno della questione dello scudo spaziale.
   
-sappiamo che ci sono state precise indicazioni (almeno per la RAI) di non parlarne, tantomeno dell&#8217;espansione delle basi NATO in Italia grazie a quell&#8217;accordo &#8220;segreto&#8221; firmato l&#8217;anno scorso.
+sappiamo che ci sono state precise indicazioni (almeno per la RAI) di non parlarne, tantomeno dell'espansione delle basi NATO in Italia grazie a quell'accordo "segreto" firmato l'anno scorso.
 
 ecco due importanti resoconti (di cui ci dobbiamo fidare):
   
@@ -32,7 +30,7 @@ ecco due importanti resoconti (di cui ci dobbiamo fidare):
   
 <http://news.xinmin.cn/world/shehui/2008/05/20/1160641.html>
 
-intanto le cose vanno avanti. domani si aggiunge Firenze alle 14 città già attive. ecco l&#8217;elenco:
+intanto le cose vanno avanti. domani si aggiunge Firenze alle 14 città già attive. ecco l'elenco:
 
 [Praga](http://nenasili.cz/it/734_homepage/2)
   

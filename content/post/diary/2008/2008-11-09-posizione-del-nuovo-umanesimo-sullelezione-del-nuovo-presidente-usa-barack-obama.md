@@ -2,7 +2,7 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2008-11-09T16:05:24Z"
+date: 2008-11-09T16:05:24Z
 guid: http://stefanocecere.com/?p=1487
 id: 1487
 tags:
@@ -12,7 +12,7 @@ tags:
 - italian
 - Politica
 - USA
-title: Posizione del Nuovo Umanesimo sull&#8217;elezione del nuovo presidente USA
+title: Posizione del Nuovo Umanesimo sull'elezione del nuovo presidente USA
   Barack Obama.
 slug: /2008/11/09/posizione-del-nuovo-umanesimo-sullelezione-del-nuovo-presidente-usa-barack-obama/
 ---

@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-03-04T00:42:16Z"
+categories: [blog]
+date: 2008-03-04T00:42:16Z
 guid: http://stefanocecere.com/2008/03/04/corrado-guzzanti-in-don-pizzarro/
 id: 713
-related_posts:
-- null
 tags:
 - guzzanti
 - Politica

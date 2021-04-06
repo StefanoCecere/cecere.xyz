@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2007-01-22T18:08:08Z"
+categories: [blog]
+date: 2007-01-22T18:08:08Z
 guid: http://stefanocecere.com/2007/01/22/articolo-sullinaugurazione-del-parco-di-attigliano/
 id: 487
-related_posts:
-- null
 tags:
 - Parco Attigliano
 - spirito

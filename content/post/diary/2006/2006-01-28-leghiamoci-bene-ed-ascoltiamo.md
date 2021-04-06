@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-01-28T23:38:07Z"
+categories: [blog]
+date: 2006-01-28T23:38:07Z
 guid: http://stefanocecere.com/2006/01/28/leghiamoci-bene-ed-ascoltiamo/
 id: 217
-related_posts:
-- null
 tags:
 - arte
 - come fare
@@ -17,13 +13,13 @@ tags:
 - sirene
 - tempesta
 - Ulisse
-title: Leghiamoci bene ed ascoltiamo&#8230;
+title: Leghiamoci bene ed ascoltiamo…
 slug: /2006/01/28/leghiamoci-bene-ed-ascoltiamo/
 ---
 
 ![](/wp-content/ulisse_legato_albero.jpg)
 
-Nella mitologia greca le **sirene** non erano come la nostra &#8220;Ariel&#8221;.. giovane innoncente ragazzina.. bensì erano più degli esseri mostruosi che con le loro irresistibili melodie incantavano i marinai per farli naufragare sugli scogli delle loro isole rocciose.
+Nella mitologia greca le **sirene** non erano come la nostra "Ariel".. giovane innoncente ragazzina.. bensì erano più degli esseri mostruosi che con le loro irresistibili melodie incantavano i marinai per farli naufragare sugli scogli delle loro isole rocciose.
   
 Delle tipe dalle quali stare alla larga, insomma. Un vero disastro per il mondo marinaio.
 
@@ -31,16 +27,16 @@ Delle tipe dalle quali stare alla larga, insomma. Un vero disastro per il mondo 
   
 E per questo prese delle precauzioni:
   
-mise i tappi alle orecchie dei suoi marinai, e si fece legare all&#8217;albero della nave. per poter sentire e non rischiare l&#8217;irreristibile.
+mise i tappi alle orecchie dei suoi marinai, e si fece legare all'albero della nave. per poter sentire e non rischiare l'irreristibile.
 
-Qualcuno può vedere in questo episodio dell&#8217;Odissea qualcosa di molto interessante anche per i nostri giorni&#8230;
+Qualcuno può vedere in questo episodio dell'Odissea qualcosa di molto interessante anche per i nostri giorni…
   
-dove abbiamo un mondo che in continuazione cerca di ipnotizzarci e farci andare verso determinate situazioni, incantando con le sue immagini false e assurde. portando tutto e tutti alla rovina o all&#8217;alienazione.
+dove abbiamo un mondo che in continuazione cerca di ipnotizzarci e farci andare verso determinate situazioni, incantando con le sue immagini false e assurde. portando tutto e tutti alla rovina o all'alienazione.
 
 **Forse è bene cominciare a cercarci dei bei alberi. molto robusti, e legarci insieme ai nostri cari e amici.**
   
-Non vogliamo e non possiamo più sconnettere queste &#8220;sirene&#8221;, ma neanche lasciarci andare ad un adattamento autodistruttivo.
+Non vogliamo e non possiamo più sconnettere queste "sirene", ma neanche lasciarci andare ad un adattamento autodistruttivo.
   
-se poi arriva la grande onda&#8230;
+se poi arriva la grande onda…
 
 .. ah: domani si dovrebbe chiudere il prossimo [Fannullone](http://www.ilfannullone.it)! 🙂

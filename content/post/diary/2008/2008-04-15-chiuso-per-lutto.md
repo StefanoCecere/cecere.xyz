@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-04-15T08:01:49Z"
+categories: [blog]
+date: 2008-04-15T08:01:49Z
 guid: http://stefanocecere.com/2008/04/15/chiuso-per-lutto/
 id: 869
-related_posts:
-- null
 tags:
 - democrazia
 - Italia
@@ -36,7 +32,7 @@ slug: /2008/04/15/chiuso-per-lutto/
 </strong>  
 
 <p style="text-align: center">
-  la piangono i pochissimi nipoti che vedono nel bipolarismo neo-liberale e nell&#8217;autoritarismo dei grandi poteri economico-mediatici la fine della possibilità di una democrazia diretta e rappresentativa fondata sulla forza della non-violenza e sull&#8217;essere umano come valore centrale.
+  la piangono i pochissimi nipoti che vedono nel bipolarismo neo-liberale e nell'autoritarismo dei grandi poteri economico-mediatici la fine della possibilità di una democrazia diretta e rappresentativa fondata sulla forza della non-violenza e sull'essere umano come valore centrale.
 </p>
 
 <p style="text-align: center">
@@ -48,11 +44,11 @@ slug: /2008/04/15/chiuso-per-lutto/
 </p>
 
 <p style="text-align: left">
-  <span style="font-style: italic" class="Apple-style-span">ps: ma come siamo arrivati a tutto ciò? il film/documentario di giovedì &#8220;Corporation&#8221; può dare delle ottime indicazioni. ti aspetto! </span>
+  <span style="font-style: italic" class="Apple-style-span">ps: ma come siamo arrivati a tutto ciò? il film/documentario di giovedì "Corporation" può dare delle ottime indicazioni. ti aspetto! </span>
 </p>
 
 <p style="text-align: left">
-  <span style="font-style: italic" class="Apple-style-span">ps2: la morte non esiste: è la più grande illusione di sempre&#8230; vedrete! 😉</span>
+  <span style="font-style: italic" class="Apple-style-span">ps2: la morte non esiste: è la più grande illusione di sempre… vedrete! 😉</span>
 </p>
 
 <p style="text-align: left">

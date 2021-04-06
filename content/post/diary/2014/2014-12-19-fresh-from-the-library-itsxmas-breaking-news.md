@@ -2,7 +2,7 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2014-12-19T19:51:32Z"
+date: 2014-12-19T19:51:32Z
 format: status
 guid: http://twitter-546014987383476224-post
 id: 5569
@@ -10,7 +10,7 @@ tags:
 - tweet
 title: |
   Fresh from the library! It’s
-  Xmas! Breaking News,&#8230;
+  Xmas! Breaking News,…
 slug: /2014/12/19/fresh-from-the-library-itsxmas-breaking-news/
 ---
 

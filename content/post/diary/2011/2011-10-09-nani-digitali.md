@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - JJ
-date: "2011-10-09T14:04:06Z"
+date: 2011-10-09T14:04:06Z
 guid: http://stefanocecere.com/?p=2703
 id: 2703
 tags:

@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-04-22T23:10:35Z"
+categories: [blog]
+date: 2008-04-22T23:10:35Z
 guid: http://stefanocecere.com/2008/04/22/si-apre-il-nuovo-umanesimo/
 id: 889
-related_posts:
-- null
 tags:
 - Parco Attigliano
 - Silo

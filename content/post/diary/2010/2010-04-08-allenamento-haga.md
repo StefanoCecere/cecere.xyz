@@ -1,12 +1,7 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2010-04-08T17:51:31Z"
+categories: [blog]
+date: 2010-04-08T17:51:31Z
 guid: http://stefanocecere.com/?p=1920
 id: 1920
 tags:

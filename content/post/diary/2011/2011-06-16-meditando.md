@@ -1,18 +1,14 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Arte
-date: "2011-06-16T16:26:08Z"
+date: 2011-06-16T16:26:08Z
 guid: http://stefanocecere.com/?p=2499
 id: 2499
 tags:
 - disegno
 - meditazione
-title: Meditando&#8230;.
+title: Meditando….
 slug: /2011/06/16/meditando/
 ---
 

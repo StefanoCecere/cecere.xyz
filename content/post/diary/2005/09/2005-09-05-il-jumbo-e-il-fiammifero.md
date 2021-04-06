@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-09-05T12:36:44Z"
+categories: [blog]
+date: 2005-09-05T12:36:44Z
 guid: http://stefanocecere.com/2005/09/05/il-jumbo-e-il-fiammifero/
 id: 80
-related_posts:
-- null
 title: il jumbo e il fiammifero
 slug: /2005/09/05/il-jumbo-e-il-fiammifero/
 ---
@@ -17,7 +14,7 @@ stessa cosa con i jet: la mia prima domanda è: 5 grandi disastri aerei in un me
 
 credo comunque che, nel valutare tali incidenti, sia bene tenere conto le proporzioni e altri punti di vista: ogni giorno muoiono decine di persone in incidenti stradali, e molte di pi&#xf9; muoiono in casa per incidenti domestici.
   
-non si deve cadere nel pozzo del temere la teconologia e il progresso, quanto bisogna sforzarsi che la tecnologia e il progresso vadano nella direzione di servire l&#8217;essere umano: &#8220;umanizzare la tecnologia&#8221;.
+non si deve cadere nel pozzo del temere la teconologia e il progresso, quanto bisogna sforzarsi che la tecnologia e il progresso vadano nella direzione di servire l'essere umano: "umanizzare la tecnologia".
 
 questa notte ho visto &#x201c;Cast Away&#x201d; (il film con Tom Hanks che finisce a vivere per 4 anni su un'isola deserta)..
   

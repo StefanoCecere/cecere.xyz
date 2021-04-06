@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-09-11T08:05:49Z"
+date: 2013-09-11T08:05:49Z
 format: status
 guid: http://twitter-377689417991065603-post
 id: 4635
-title: da oggi ascolterò solo la radio (via internet).. s&#8230;
+title: da oggi ascolterò solo la radio (via internet).. s…
 slug: /2013/09/11/da-oggi-ascoltero-solo-la-radio-via-internet-s/
 ---
 

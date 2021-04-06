@@ -2,13 +2,13 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2014-12-07T09:43:46Z"
+date: 2014-12-07T09:43:46Z
 format: status
 guid: http://twitter-541513384978817024-post
 id: 5561
 tags:
 - tweet
-title: want to play the original Adventure game? here is&#8230;
+title: want to play the original Adventure game? here is…
 slug: /2014/12/07/want-to-play-the-original-adventure-game-here-is/
 ---
 

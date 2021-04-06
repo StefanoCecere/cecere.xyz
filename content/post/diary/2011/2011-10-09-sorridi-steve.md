@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Smile
-date: "2011-10-09T04:54:40Z"
+date: 2011-10-09T04:54:40Z
 guid: http://stefanocecere.com/?p=2695
 id: 2695
 tags:
@@ -16,9 +12,9 @@ title: Sorridi, Steve!
 slug: /2011/10/09/sorridi-steve/
 ---
 
-<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2011/10/steve.jpg" alt="" title="steve" width="300" height="201" class="alignright size-full wp-image-2697" />la mia premessa &#8220;seria&#8221; è che la morte è una questione strettamente personale, a cui è bene arrivarci preparati bene, perché, considerandola un &#8220;cambiamento di stato&#8221;, li ti giochi tutto!
+<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2011/10/steve.jpg" alt="" title="steve" width="300" height="201" class="alignright size-full wp-image-2697" />la mia premessa "seria" è che la morte è una questione strettamente personale, a cui è bene arrivarci preparati bene, perché, considerandola un "cambiamento di stato", li ti giochi tutto!
 
-non ho quindi remore al ripubblicare alcune battutacce dei ragazzi di [spinoza.it](http://www.spinoza.it/2011/10/08/la-dolce-vita/) riguardo il &#8220;fu&#8221; Steve Jobs.
+non ho quindi remore al ripubblicare alcune battutacce dei ragazzi di [spinoza.it](http://www.spinoza.it/2011/10/08/la-dolce-vita/) riguardo il "fu" Steve Jobs.
   
 non so lui, ma io apprezzerei e me la riderei facendo esplodere qualche supernova oppure inghiottendo la via lattea in un buconero supermassiccio!
   
@@ -26,7 +22,7 @@ baci
   
 ah: sono tornato da San Francisco eh! il pensare che ero proprio là mercoledì scorso.. che coincidenza!
 
-&#8211; &#8211;
+- -
 
 È morto Steve Jobs. Ma lui l’avrebbe annunciato meglio.
 

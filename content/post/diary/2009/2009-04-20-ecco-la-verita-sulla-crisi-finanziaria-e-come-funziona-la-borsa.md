@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2009-04-20T11:44:17Z"
+categories: [blog]
+date: 2009-04-20T11:44:17Z
 guid: http://stefanocecere.com/?p=1670
 id: 1670
 tags:
@@ -16,7 +15,7 @@ title: Ecco la verità sulla Crisi finanziaria (e come funziona la &quot;Borsa&q
 slug: /2009/04/20/ecco-la-verita-sulla-crisi-finanziaria-e-come-funziona-la-borsa/
 ---
 
-se volete una descrizione veramente dettagliata e semplice sull&#8217;origine matematica della crisi finanziaria, andate a comprarvi il WIred (edizione italiana!!) in edicola (oppure [leggi qui](#mce_temp_url#))
+se volete una descrizione veramente dettagliata e semplice sull'origine matematica della crisi finanziaria, andate a comprarvi il WIred (edizione italiana!!) in edicola (oppure [leggi qui](#mce_temp_url#))
 
 altrimenti accontentati di questa vignetta:
 

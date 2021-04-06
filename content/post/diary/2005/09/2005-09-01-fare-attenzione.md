@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-09-01T12:37:47Z"
+categories: [blog]
+date: 2005-09-01T12:37:47Z
 guid: http://stefanocecere.com/2005/09/01/fare-attenzione/
 id: 77
-related_posts:
-- null
 title: fare attenzione
 slug: /2005/09/01/fare-attenzione/
 ---
@@ -21,7 +18,7 @@ tanto meno cosa è l'attenzione.
 
 ringraziando Silo e tutto il Movimento Umanista, da diverso tempo ho iniziato ad esercitarmi con l'attenzione, e a studiare come funziona la coscienza, i sensi, i rumori/errori di traduzione dei rispettivi segnali, la psicofisica, e come tutte queste cose sono un tutt'uno con il modo in cui ci relazioniamo ed agiamo nel mondo.
 
-e dato che ad alcuni di noi interessa assai fare qualcosa di significativo dentro e per questo mondo (che in linea di massima ci fa schifo, da quanto è diventato violento ed assurdo), esercitare l'attenzione diventa fondamentale, perchè è da essa che dipendono una buoan disposizione all'apprendimento, una buona memoria, una maggiore costanza nei propositi e, cosa molto importante, l'aumento della capacit&#xe0; di cambiamento
+e dato che ad alcuni di noi interessa assai fare qualcosa di significativo dentro e per questo mondo (che in linea di massima ci fa schifo, da quanto è diventato violento ed assurdo), esercitare l'attenzione diventa fondamentale, perchè è da essa che dipendono una buoan disposizione all'apprendimento, una buona memoria, una maggiore costanza nei propositi e, cosa molto importante, l'aumento della capacità di cambiamento
 
 cosa è l'attenzione? è un meccanismo della coscienza che permette di osservare i fenomeni interni ed esterni… (se vuoi spiegazioni pi&#xf9; tecniche e precise leggi da qui: <http://www.clum.net/md/mod-Encyclopedia-displayterm-id-170-vid-3.html> )
 

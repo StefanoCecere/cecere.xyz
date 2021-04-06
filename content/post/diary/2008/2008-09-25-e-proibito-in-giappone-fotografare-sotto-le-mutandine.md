@@ -1,19 +1,18 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-09-25T01:32:32Z"
+categories: [blog]
+date: 2008-09-25T01:32:32Z
 guid: http://stefanocecere.com/?p=1260
 id: 1260
 tags:
 - giappone
 - proibito
 - segnaletica
-title: E&#039; proibito in Giappone fotografare sotto le mutandine&#8230;
+title: E&#039; proibito in Giappone fotografare sotto le mutandine…
 slug: /2008/09/25/e-proibito-in-giappone-fotografare-sotto-le-mutandine/
 ---
 
-ora si capisce meglio il perchè di efficaci metodi di autodifesa&#8230;.
+ora si capisce meglio il perchè di efficaci metodi di autodifesa….
 
  
 

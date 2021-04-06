@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2015-03-22T05:52:17Z"
+categories: [blog]
+date: 2015-03-22T05:52:17Z
 guid: http://stefanocecere.com/?p=5649
 id: 5649
 title: quello che uno fa

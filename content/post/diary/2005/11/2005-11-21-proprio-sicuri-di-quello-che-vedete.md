@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-11-21T11:30:21Z"
+categories: [blog]
+date: 2005-11-21T11:30:21Z
 guid: http://stefanocecere.com/2005/11/21/proprio-sicuri-di-quello-che-vedete/
 id: 153
-related_posts:
-- null
 tags:
 - ricreazione
 - tecnologia
@@ -18,7 +15,7 @@ segui con gli occhi il movimento del pallino.. i puntini sono tutti ROSA.
   
 se ora fissi il + nero al centro, il pallino che si muove diventa VERDE.
   
-ora.. CONCENTRATI sul + nero al centro.. dopo un po&#8217; i pallini rosa scompariranno, e vedrai soltanto il pallino verde che ruota.. (salvo rari casi)
+ora.. CONCENTRATI sul + nero al centro.. dopo un po' i pallini rosa scompariranno, e vedrai soltanto il pallino verde che ruota.. (salvo rari casi)
 
 INCREDIBILE come lavora il nostro cervello, vero?
 

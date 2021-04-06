@@ -1,13 +1,7 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Spirito
-date: "2011-11-10T13:05:39Z"
+categories: [blog]
+date: 2011-11-10T13:05:39Z
 guid: http://stefanocecere.com/?p=2794
 id: 2794
 tags:

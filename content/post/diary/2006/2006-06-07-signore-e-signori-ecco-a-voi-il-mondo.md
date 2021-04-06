@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-06-07T03:13:50Z"
+categories: [blog]
+date: 2006-06-07T03:13:50Z
 guid: http://stefanocecere.com/2006/06/07/signore-e-signori-ecco-a-voi-il-mondo/
 id: 322
-related_posts:
-- null
 tags:
 - ricreazione
 - tecnologia
@@ -26,11 +22,11 @@ slug: /2006/06/07/signore-e-signori-ecco-a-voi-il-mondo/
 </p>
 
 <p>
-  un nuovo giocattolino di Google permette di vedere la situazione mondiale (e le diversità/disparità) di vari aspetti delle nostre società (dall&#8217;aspettativa di vita alle spese militari, dal PIL al numero di utenti Internet)..
+  un nuovo giocattolino di Google permette di vedere la situazione mondiale (e le diversità/disparità) di vari aspetti delle nostre società (dall'aspettativa di vita alle spese militari, dal PIL al numero di utenti Internet)..
 </p>
 
 <p>
-  lo hanno chiamato &#8220;The Gapminder World 2006&#8221; .. i dati sembrano abbastanza aggiornati..
+  lo hanno chiamato "The Gapminder World 2006" .. i dati sembrano abbastanza aggiornati..
 </p>
 
 <p>

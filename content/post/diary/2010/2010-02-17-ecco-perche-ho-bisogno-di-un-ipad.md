@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Smile
-date: "2010-02-17T10:16:13Z"
+date: 2010-02-17T10:16:13Z
 guid: http://stefanocecere.com/?p=2021
 id: 2021
 tags:
@@ -24,7 +20,7 @@ slug: /2010/02/17/ecco-perche-ho-bisogno-di-un-ipad/
 </p>
 
 <p style="text-align: center">
-  per chi non lo sapesse l&#8217;iPad è il nuovo aggeggio della Apple annunciato a gennaio e che arriverà fra un paio di mesi
+  per chi non lo sapesse l'iPad è il nuovo aggeggio della Apple annunciato a gennaio e che arriverà fra un paio di mesi
 </p>
 
 <p style="text-align: center">

@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-01-06T11:20:32Z"
+categories: [blog]
+date: 2008-01-06T11:20:32Z
 guid: http://stefanocecere.com/2008/01/06/sulla-massoneria/
 id: 631
-related_posts:
-- null
 tags:
 - massoneria
 title: sulla Massoneria
@@ -24,8 +20,8 @@ slug: /2008/01/06/sulla-massoneria/
 
 consiglio di dare loro una lettura, soprattutto a chi non ne sa molto.
 
-in sintesi: parteciperesti ad un progetto di cambiamento del mondo a favore dell&#8217;essere umano, della libertà, della democrazia, se ti facessero giurare sulla tua vita di dover innanzitutto rispettare ed aiutare i tuoi &#8220;fratelli&#8221; di missione, per quanto delinquenti o assassini possano essere, e perseguire le iniziative prese non si sa bene con quali metodi?
+in sintesi: parteciperesti ad un progetto di cambiamento del mondo a favore dell'essere umano, della libertà, della democrazia, se ti facessero giurare sulla tua vita di dover innanzitutto rispettare ed aiutare i tuoi "fratelli" di missione, per quanto delinquenti o assassini possano essere, e perseguire le iniziative prese non si sa bene con quali metodi?
 
 il problema non è minore.
 
-accolgo volentieri i commenti di tutti i &#8220;liberi&#8221;
+accolgo volentieri i commenti di tutti i "liberi"

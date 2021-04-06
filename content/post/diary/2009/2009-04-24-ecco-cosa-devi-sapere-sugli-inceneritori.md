@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2009-04-24T00:08:42Z"
+categories: [blog]
+date: 2009-04-24T00:08:42Z
 guid: http://stefanocecere.com/?p=1691
 id: 1691
 title: Ecco cosa devi sapere sugli inceneritori

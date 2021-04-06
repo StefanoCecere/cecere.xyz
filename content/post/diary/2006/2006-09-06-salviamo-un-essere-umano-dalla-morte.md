@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-09-06T19:27:13Z"
+categories: [blog]
+date: 2006-09-06T19:27:13Z
 guid: http://stefanocecere.com/2006/09/06/salviamo-un-essere-umano-dalla-morte/
 id: 414
-related_posts:
-- null
 tags:
 - vergogna!
 - violenza

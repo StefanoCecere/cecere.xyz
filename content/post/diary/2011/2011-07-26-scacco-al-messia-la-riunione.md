@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Spirito
-date: "2011-07-26T10:48:06Z"
+date: 2011-07-26T10:48:06Z
 guid: http://stefanocecere.com/?p=2524
 id: 2524
 tags:
@@ -34,7 +30,7 @@ Mentre le culture e le civiltà decadevano una dopo l’altra, gli elementi più
   
 Le culture isolate dell’inizio divennero complementari tra loro grazie ai contatti che si stabilivano, grazie allo scambio economico, lo sviluppo delle comunicazioni, il confronto delle loro politiche, delle loro espressioni artistiche e delle loro religioni.
   
-Il fenomeno andò aumentando di triade in triade, simile ad una spirale ascendente, in cui ogni voluta ha maggior diametro della voluta precedente.”. &#8211; Rama fece una pausa, poi riprese:
+Il fenomeno andò aumentando di triade in triade, simile ad una spirale ascendente, in cui ogni voluta ha maggior diametro della voluta precedente.”. - Rama fece una pausa, poi riprese:
   
 “Considerando tali processi, i pensatori elaborarono due concezione principali, antagoniste tra loro: quella ciclica e quella lineare.
   
@@ -60,7 +56,7 @@ In tale contesto ha senso parlare di un Destino dell’uomo.
   
 Coloro che sono avvezzi ai termini tecnici della biologia possono considerarlo, se preferiscono, come la preparazione del codice genetico elementare dell’essere vivente che si limita a sviluppare nel confronto con l’ambiente i caratteri “registrati” nel DNA basico.
   
-Gli uomini credono di fare la storia, quando in realtà è il loro condizionamento genetico che li evolve lungo una retta determinata. E’ chiaro che ad ogni tappa assistiamo a correzioni di rotta che impediscono la deviazione, così come la lotta con la natura e il confronto con l’ambiente imprimono nuovi caratteri all’essere vivente che modificano la sua esperienza e gli consentono una migliore utilizzazione di possibilità&#8230;.ma sempre possibilità relative al sistema nel quale è inserito.
+Gli uomini credono di fare la storia, quando in realtà è il loro condizionamento genetico che li evolve lungo una retta determinata. E’ chiaro che ad ogni tappa assistiamo a correzioni di rotta che impediscono la deviazione, così come la lotta con la natura e il confronto con l’ambiente imprimono nuovi caratteri all’essere vivente che modificano la sua esperienza e gli consentono una migliore utilizzazione di possibilità….ma sempre possibilità relative al sistema nel quale è inserito.
   
 Se la storia sembra ripetersi ad ogni tappa, nel processo generale essa cambia sempre.
   
@@ -108,19 +104,19 @@ Pochi istanti dopo, un tale dall’accento straniero osservò:
   
 “Per tutto ciò che hai detto e spiegato comprendiamo che hai fatto la tua parte, ma noi che cosa dobbiamo fare?”
   
-“Produrre il numero che manca” &#8211; rispose Rama.
+“Produrre il numero che manca” - rispose Rama.
   
-“Il numero è sufficiente” &#8211; replicò lo straniero.
+“Il numero è sufficiente” - replicò lo straniero.
   
-“Senza dubbio, ma è necessario ottenere un numero altamente qualificato e distribuirlo nei luoghi più adatti. E’ dagli Stati Uniti (prima che crollino) che soffierà il nostro messaggio&#8230;&#8230;” &#8211; Poiché aveva notato una certa insofferenza nel gruppo, aggiunse motteggiando: -“A coloro che guardano quel popolo con disprezzo, conviene che si ricordino del detto gallego: “Dio scrive diritto con linee storte”.
+“Senza dubbio, ma è necessario ottenere un numero altamente qualificato e distribuirlo nei luoghi più adatti. E’ dagli Stati Uniti (prima che crollino) che soffierà il nostro messaggio……” - Poiché aveva notato una certa insofferenza nel gruppo, aggiunse motteggiando: -“A coloro che guardano quel popolo con disprezzo, conviene che si ricordino del detto gallego: “Dio scrive diritto con linee storte”.
   
 In quell’istante entrò nella stanza Fernando, un compagno dei primi tempi.
   
-“Cos’è successo?” &#8211; domandò qualcuno.
+“Cos’è successo?” - domandò qualcuno.
   
 “Decidono oggi alle venti. Ma lo faranno a partire da domani. Per adesso cercano soltanto di misurare la nostra capacità di reazione.”.
   
-“Bene” &#8211; interloquì una ragazza rivolgendosi a Rama &#8211; “Stanotte alle ventiquattro bisogna che tu ti faccia trovare all’angolo di via Ayacucho e Paso con via Vicente Lopez. Arriveranno i nostri e faranno la loro parte.”
+“Bene” - interloquì una ragazza rivolgendosi a Rama - “Stanotte alle ventiquattro bisogna che tu ti faccia trovare all’angolo di via Ayacucho e Paso con via Vicente Lopez. Arriveranno i nostri e faranno la loro parte.”
   
 Rama, vedendo che la notte era piuttosto avanzata, si rivolse a Fernando e gli disse con tono vivace:
   
@@ -128,9 +124,9 @@ Rama, vedendo che la notte era piuttosto avanzata, si rivolse a Fernando e gli d
   
 Il giovane guardò Rama e gli altri con calma e prima di uscire osservò:
   
-“Peccato che questi paesi del Sud America non abbiano la pena di morte. Un giudizio pubblico, invece delle notizie che pubblicherà la stampa, avrebbe un risultato molto più istruttivo. E poi un attentato non ha né la forza morale né coinvolge il sistema così totalmente quanto un’esecuzione che possa poi alimentare il complesso di colpa di tutta una società” &#8211; fece un gesto spiritoso e guadagnò l’uscita.
+“Peccato che questi paesi del Sud America non abbiano la pena di morte. Un giudizio pubblico, invece delle notizie che pubblicherà la stampa, avrebbe un risultato molto più istruttivo. E poi un attentato non ha né la forza morale né coinvolge il sistema così totalmente quanto un’esecuzione che possa poi alimentare il complesso di colpa di tutta una società” - fece un gesto spiritoso e guadagnò l’uscita.
   
-“Li anticiperemo sempre, forzando le conseguenze.” &#8211; aggiunse la ragazza a bassa voce.
+“Li anticiperemo sempre, forzando le conseguenze.” - aggiunse la ragazza a bassa voce.
   
 Tutti assentirono.
   

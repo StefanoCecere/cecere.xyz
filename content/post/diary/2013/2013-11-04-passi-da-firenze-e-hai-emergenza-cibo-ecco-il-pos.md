@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-11-04T13:35:21Z"
+date: 2013-11-04T13:35:21Z
 format: status
 guid: http://twitter-397341293439102976-post
 id: 4791
-title: Passi da Firenze e hai emergenza cibo? Ecco il pos&#8230;
+title: Passi da Firenze e hai emergenza cibo? Ecco il pos…
 slug: /2013/11/04/passi-da-firenze-e-hai-emergenza-cibo-ecco-il-pos/
 ---
 

@@ -2,13 +2,10 @@
 aktt_notify_twitter:
 - true
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-03-08T18:00:59Z"
+categories: [blog]
+date: 2008-03-08T18:00:59Z
 guid: http://stefanocecere.com/2008/03/08/una-mimosa-virtuale-per-tutte-le-donne/
 id: 727
-related_posts:
-- null
 tags:
 - donne
 - rivoluzione

@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-09-18T13:34:29Z"
+categories: [blog]
+date: 2008-09-18T13:34:29Z
 guid: http://stefanocecere.com/?p=1163
 id: 1163
 tags:
@@ -14,7 +13,7 @@ title: Il crollo è pubblicato
 slug: /2008/09/18/il-crollo-e-pubblicato/
 ---
 
-_&#8220;il crollo è pubblicato.&#8221;_
+_"il crollo è pubblicato."_
 
 questa frase sintetizza molte cose: 
 

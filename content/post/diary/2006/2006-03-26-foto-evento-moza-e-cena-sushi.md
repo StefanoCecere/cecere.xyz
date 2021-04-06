@@ -1,14 +1,10 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-03-26T15:33:56Z"
+categories: [blog]
+date: 2006-03-26T15:33:56Z
 format: image
 guid: http://stefanocecere.com/?p=253
 id: 253
-related_posts:
-- null
 tags:
 - Events
 - Monza

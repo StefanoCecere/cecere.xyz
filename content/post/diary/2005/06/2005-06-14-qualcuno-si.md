@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-06-14T14:36:03Z"
+categories: [blog]
+date: 2005-06-14T14:36:03Z
 guid: http://stefanocecere.com/?p=25
 id: 25
-related_posts:
-- null
 title: qualcuno si è….
 slug: /2005/06/14/qualcuno-si/
 ---

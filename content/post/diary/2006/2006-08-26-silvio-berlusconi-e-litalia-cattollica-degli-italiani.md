@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-08-26T23:54:04Z"
+categories: [blog]
+date: 2006-08-26T23:54:04Z
 guid: http://stefanocecere.com/2006/08/26/silvio-berlusconi-e-litalia-cattollica-degli-italiani/
 id: 401
-related_posts:
-- null
 tags:
 - Berlusconi
 - vergogna!
@@ -15,11 +11,11 @@ title: Silvio Berlusconi e l&#039;Italia Cattolica degli italiani
 slug: /2006/08/26/silvio-berlusconi-e-litalia-cattollica-degli-italiani/
 ---
 
-<img align="right" title="Silvio Berlusconi al Metting dei Cattolici" id="image400" alt="Silvio Berlusconi al Metting dei Cattolici" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/berlusconi_cattolico.jpg" />E&#8217; stato difficile non vedere ieri l&#8217;intervento di Silvio Berlusconi al meeting di Comunione e Liberazione, anche per uno come me che accende la tv 10 minuti al giorno&#8230;
+<img align="right" title="Silvio Berlusconi al Metting dei Cattolici" id="image400" alt="Silvio Berlusconi al Metting dei Cattolici" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/berlusconi_cattolico.jpg" />E' stato difficile non vedere ieri l'intervento di Silvio Berlusconi al meeting di Comunione e Liberazione, anche per uno come me che accende la tv 10 minuti al giorno…
 
 Del suo lungo e articolato intervento, una semplice frase mi ha particolarmente colpito e agghiacciato:
 
-&#8220;**La sinistra pensa a un paese plurietnico e pluriculturale. Noi invece riteniamo che l&#8217;Italia debba essere l&#8217;Italia degli italiani, l&#8217;Italia cattolica degli italiani**&#8220;.
+"**La sinistra pensa a un paese plurietnico e pluriculturale. Noi invece riteniamo che l'Italia debba essere l'Italia degli italiani, l'Italia cattolica degli italiani**".
 
 non so se tutto questo necessita di molti commenti.
 

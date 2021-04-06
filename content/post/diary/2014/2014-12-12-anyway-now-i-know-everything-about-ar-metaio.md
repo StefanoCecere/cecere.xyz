@@ -2,13 +2,13 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2014-12-12T11:47:09Z"
+date: 2014-12-12T11:47:09Z
 format: status
 guid: http://twitter-543356373103546369-post
 id: 5542
 tags:
 - tweet
-title: anyway now i know everything about AR &amp; METAIO&#8230;
+title: anyway now i know everything about AR &amp; METAIO…
 slug: /2014/12/12/anyway-now-i-know-everything-about-ar-metaio/
 ---
 

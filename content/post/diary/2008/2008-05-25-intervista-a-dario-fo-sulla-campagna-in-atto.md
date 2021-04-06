@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-05-25T22:28:38Z"
+categories: [blog]
+date: 2008-05-25T22:28:38Z
 guid: http://stefanocecere.com/2008/05/25/intervista-a-dario-fo-sulla-campagna-in-atto/
 id: 978
-related_posts:
-- null
 tags:
 - Dario Fo
 - Europe for Peace

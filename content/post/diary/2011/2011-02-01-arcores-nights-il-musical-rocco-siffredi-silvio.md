@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Smile
-date: "2011-02-01T11:10:39Z"
+date: 2011-02-01T11:10:39Z
 guid: http://stefanocecere.com/?p=2356
 id: 2356
 tags:

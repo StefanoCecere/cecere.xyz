@@ -1,8 +1,8 @@
 ---
 title: coincidenze, Gurdjieff e la morte
 slug: 2006/01/coincidenze-gurdjieff-e-la-morte
-date: "2006-01-10T08:30:46Z"
-categories: [diary]
+date: 2006-01-10T08:30:46Z"
+categories: [blog]
 tags: [filosofia, morte, Gurdjieff, spirito]
 ---
 la sinusite non mi è ancora passata, così ieri sera prendo il mio fido portatile per vedere un film a letto.

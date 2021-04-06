@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-10-05T20:54:27Z"
+categories: [blog]
+date: 2008-10-05T20:54:27Z
 guid: http://stefanocecere.com/?p=1332
 id: 1332
 tags:
@@ -21,7 +20,7 @@ riporto questi commenti e queste proposte di di Michael Moore che condivido appi
 
 <img class="alignleft size-medium wp-image-1333" title="michael-moore" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/10/michael-moore-375x300.jpg" alt="" width="225" height="180" />
 
-**I 400 americani più ricchi – sì, proprio così, sono solo 400 persone – posseggono DI PIU&#8217; dei 150 milioni di americani dei ceti più bassi messi insieme.** 400 ricconi posseggono più beni nascosti di metà della nazione! La somma netta totale dei loro averi è pari a 1.6 trilione di dollari. Durante gli otto anni dell’amministrazione Bush, si sono arricchiti di quasi 700 miliardi di dollari – la stessa cifra che ci stanno chiedendo di dargli per tirarli fuori dai guai. Perché non usano i soldi che si sono fatti sotto Bush per uscirne? Resterebbe loro circa un trilione di dollari da suddividersi!
+**I 400 americani più ricchi – sì, proprio così, sono solo 400 persone – posseggono DI PIU' dei 150 milioni di americani dei ceti più bassi messi insieme.** 400 ricconi posseggono più beni nascosti di metà della nazione! La somma netta totale dei loro averi è pari a 1.6 trilione di dollari. Durante gli otto anni dell’amministrazione Bush, si sono arricchiti di quasi 700 miliardi di dollari – la stessa cifra che ci stanno chiedendo di dargli per tirarli fuori dai guai. Perché non usano i soldi che si sono fatti sotto Bush per uscirne? Resterebbe loro circa un trilione di dollari da suddividersi!
 
 Ovviamente non lo faranno – perlomeno non di propria volontà. A George Bush erano stati consegnati 127 miliardi di dollari quando Bill Clinton lasciò la presidenza. Siccome quei soldi erano NOSTRI soldi, e non suoi, lui ne fece quello che piace fare ai ricchi – spenderli e non pensarci più. Adesso abbiamo un deficit di 9.5 trilioni di dollari, perché mai dovremmo anche solo pensare di dare a questi ladri patentati altri soldi nostri? 
 

@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2006-08-24T23:42:01Z"
+categories: [blog]
+date: 2006-08-24T23:42:01Z
 guid: http://stefanocecere.com/2006/08/24/castel-del-monte-un-aula-di-scuola/
 id: 396
-related_posts:
-- null
 tags:
 - ricreazione
 - spirito

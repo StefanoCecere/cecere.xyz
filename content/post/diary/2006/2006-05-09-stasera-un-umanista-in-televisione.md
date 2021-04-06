@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-05-09T12:56:04Z"
+categories: [blog]
+date: 2006-05-09T12:56:04Z
 guid: http://stefanocecere.com/2006/05/09/stasera-un-umanista-in-televisione/
 id: 266
-related_posts:
-- null
 tags:
 - umanista
 title: stasera un umanista in televisione
@@ -20,7 +16,7 @@ Credo possa essere interessante provare ad ascoltarlo!
   
 dettagli: [www.valeriosindaco.org](http://www.valeriosindaco.org) e [www.pumilano.it](http://www.pumilano.it)
 
-a, se non l&#8217;avessi già segnalato, guardate il video dell&#8217;incontro con Tomas Hirsch alla Camera del lavoro di Milano:
+a, se non l'avessi già segnalato, guardate il video dell'incontro con Tomas Hirsch alla Camera del lavoro di Milano:
   
 [video](http://www.humanisteurope.org/en/tomas-hirsch/tomy-mm/milan-incontro-pubblico/)
 

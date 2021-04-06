@@ -4,7 +4,7 @@ aktt_notify_twitter:
 author: Stefano Cecere
 categories:
 - JJ
-date: "2009-12-10T02:46:57Z"
+date: 2009-12-10T02:46:57Z
 guid: http://stefanocecere.com/?p=1982
 id: 1982
 tags:
@@ -16,7 +16,7 @@ title: the JJ Music Experience (primo anno)
 slug: /2009/12/10/the-jj-music-experience-primo-anno/
 ---
 
-ebbene sì.. JJ si avvia all&#8217;anno! esattamente fra 4 giorni. mi sembra ieri che siamo corsi, un bel sabato notte, alla sala parto della Margherita, e gli ho tagliato il cordone ombelicale cantandogli i Bee Gees..
+ebbene sì.. JJ si avvia all'anno! esattamente fra 4 giorni. mi sembra ieri che siamo corsi, un bel sabato notte, alla sala parto della Margherita, e gli ho tagliato il cordone ombelicale cantandogli i Bee Gees..
 
 ho voluto sintetizzare alcuni momenti di questo anno.. quelli (pochi ma sufficienti) ripresi in video in cui si cimenta con la musica! nostra grande compagna (direi che non sono mai passati due giorni senza che abbia messo le mani su qualche strumento musicale o simili)
 

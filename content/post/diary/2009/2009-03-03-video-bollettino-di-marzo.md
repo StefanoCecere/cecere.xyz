@@ -2,7 +2,7 @@
 author: Stefano Cecere
 categories:
 - Mondo Senza Guerre
-date: "2009-03-03T22:20:12Z"
+date: 2009-03-03T22:20:12Z
 guid: http://stefanocecere.com/?p=1554
 id: 1554
 tags:

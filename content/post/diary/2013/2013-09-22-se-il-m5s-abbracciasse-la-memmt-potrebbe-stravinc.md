@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-09-22T21:03:58Z"
+date: 2013-09-22T21:03:58Z
 format: status
 guid: http://twitter-381871512195964928-post
 id: 4658
-title: Se il M5S abbracciasse la MEMMT, potrebbe stravinc&#8230;
+title: Se il M5S abbracciasse la MEMMT, potrebbe stravinc…
 slug: /2013/09/22/se-il-m5s-abbracciasse-la-memmt-potrebbe-stravinc/
 ---
 

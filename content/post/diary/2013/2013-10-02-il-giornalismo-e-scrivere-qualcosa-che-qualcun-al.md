@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-10-02T08:56:45Z"
+date: 2013-10-02T08:56:45Z
 format: status
 guid: http://twitter-385312382631038976-post
 id: 4682
-title: “il giornalismo è scrivere qualcosa che qualcun al&#8230;
+title: “il giornalismo è scrivere qualcosa che qualcun al…
 slug: /2013/10/02/il-giornalismo-e-scrivere-qualcosa-che-qualcun-al/
 ---
 

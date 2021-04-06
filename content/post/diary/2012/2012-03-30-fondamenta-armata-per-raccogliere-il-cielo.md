@@ -1,12 +1,7 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2012-03-30T23:58:53Z"
+categories: [blog]
+date: 2012-03-30T23:58:53Z
 guid: http://stefanocecere.com/?p=2891
 id: 2891
 tags:
@@ -18,7 +13,7 @@ title: Fondamenta armata per raccogliere il Cielo
 slug: /2012/03/30/fondamenta-armata-per-raccogliere-il-cielo/
 ---
 
-oggi ho gettato le mie prima fondamenta in cemento armato per reggere uno spazio concavo per contenere l&#8217;acqua del cielo (che Totalità!)
+oggi ho gettato le mie prima fondamenta in cemento armato per reggere uno spazio concavo per contenere l'acqua del cielo (che Totalità!)
 
 e con un grande grazie alla cara GrigliaTutto che ci ha accompagnato per tanti anni!
 

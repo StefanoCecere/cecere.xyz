@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Uncategorized
-date: "2008-06-05T23:36:37Z"
+date: 2008-06-05T23:36:37Z
 guid: http://stefanocecere.com/2008/06/05/lo-scudo-spaziale/
 id: 1008
-related_posts:
-- null
 tags:
 - ricreazione
 - ridere
@@ -16,9 +14,9 @@ title: Lo Scudo Spaziale
 slug: /2008/06/05/lo-scudo-spaziale/
 ---
 
-vorrei far conoscere il genio di Roberto Mangosi, che ha creato le vignette (questa fatta apposta!) per l&#8217;opuscolo di Francesco.
+vorrei far conoscere il genio di Roberto Mangosi, che ha creato le vignette (questa fatta apposta!) per l'opuscolo di Francesco.
   
-l&#8217;avevo scoperto tempo fa cercando vignette per [ilfannullone.it](http://www.ilfannullone.it)&#8230;
+l'avevo scoperto tempo fa cercando vignette per [ilfannullone.it](http://www.ilfannullone.it)…
 
 questo il suo blog: [Ridere è una cosa seria](http://enteroclisma.blogspot.com)
 

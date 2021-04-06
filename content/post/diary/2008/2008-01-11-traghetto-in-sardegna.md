@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-01-11T02:16:07Z"
+categories: [blog]
+date: 2008-01-11T02:16:07Z
 guid: http://stefanocecere.com/2008/01/11/traghetto-in-sardegna/
 id: 647
-related_posts:
-- null
 tags:
 - campeggio
 - vacanze
@@ -20,9 +17,9 @@ slug: /2008/01/11/traghetto-in-sardegna/
 
 ebbene sì.. con un anticipo di 6 mesi.. ho appena acquistato il biglietto del traghetto per la sardegna!
 
-perché **è confermato che anche quest&#8217;anno il campeggio umanista sarà in Sardegna, vicino a Porto Torres!!!**
+perché **è confermato che anche quest'anno il campeggio umanista sarà in Sardegna, vicino a Porto Torres!!!**
 
-colgo l&#8217;occasione per invitare tutti gli amici a trascorrere le vacanze assieme.
+colgo l'occasione per invitare tutti gli amici a trascorrere le vacanze assieme.
   
 sarà un momento importante.
 

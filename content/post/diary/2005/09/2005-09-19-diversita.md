@@ -1,25 +1,22 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-09-19T23:24:55Z"
+categories: [blog]
+date: 2005-09-19T23:24:55Z
 guid: http://stefanocecere.com/2005/09/19/diversita/
 id: 89
-related_posts:
-- null
 title: Diversità
 slug: /2005/09/19/diversita/
 ---
 
 ecco l'editoriale che ho scritto per il nuovo [Fannullone](http://www.ilfannullone.it):
 
-cosa provi di fronte alla diversit&#xe0;?
+cosa provi di fronte alla diversità?
   
 provi pi&#xf9; tensione e disappunto,
   
-o curiosit&#xe0; e allegria?
+o curiosità e allegria?
   
-oggi pi&#xf9; che mai stiamo vivendo l'incontro delle diversit&#xe0;.
+oggi pi&#xf9; che mai stiamo vivendo l'incontro delle diversità.
   
 culturali, razziali, generazionali, religiose, personali, editoriali! 😉
 
@@ -29,7 +26,7 @@ al quale forse non eravamo preparati.
   
 è cos&#xec; che si sta reagendo con diversi atteggiamenti:
   
-c'è chi teme di &#x201c;perderci&#x201d; qualcosa (la propria identit&#xe0;?) e si irrigidisce
+c'è chi teme di &#x201c;perderci&#x201d; qualcosa (la propria identità?) e si irrigidisce
   
 c'è chi vede solo bianco o nero, e si prepara a combattere
   
@@ -41,15 +38,15 @@ purtroppo (per tutti noi) in queste direzioni c'è solo violenza…
 
 a noi piace vedere il futuro a colori
   
-sappiamo che c'è tanta bont&#xe0;, in fondo al cuore
+sappiamo che c'è tanta bontà, in fondo al cuore
   
 e siamo certi della potenza dell'intenzione umana
   
-e non solo pensiamo che la convergenza delle diversit&#xe0;
+e non solo pensiamo che la convergenza delle diversità
   
-sar&#xe0; la nostra chiave di salvezza,
+sarà la nostra chiave di salvezza,
   
-ma che ci arricchir&#xe0; tutti.
+ma che ci arricchirà tutti.
 
 può non sembrare la strada pi&#xf9; facile,
   

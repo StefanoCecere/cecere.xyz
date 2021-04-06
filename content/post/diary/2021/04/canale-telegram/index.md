@@ -4,7 +4,7 @@ slug:
 subtitle: ""
 summary: ""
 tags: []
-categories: [diary]
+categories: [blog]
 date: 2021-04-03T14:34:00+02:00
 lastmod: 2021-04-03T14:34:00+02:00
 featured: false

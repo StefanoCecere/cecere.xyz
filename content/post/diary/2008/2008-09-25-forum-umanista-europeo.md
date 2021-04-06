@@ -4,7 +4,7 @@ aktt_notify_twitter:
 author: Stefano Cecere
 categories:
 - Buone Nuove
-date: "2008-09-25T02:07:56Z"
+date: 2008-09-25T02:07:56Z
 guid: http://stefanocecere.com/?p=1263
 id: 1263
 tags:
@@ -32,28 +32,28 @@ slug: /2008/09/25/forum-umanista-europeo/
   </div>
   
   <div style="text-align: center">
-    <strong>Venerdì 17, alle 13.30 prima dell&#8217;apertura del Forum </strong><strong>al Palalido in Piazza Stuparich  </strong><br /> <strong>incontro con la stampa, rinfresco e spazio interviste.</strong>
+    <strong>Venerdì 17, alle 13.30 prima dell'apertura del Forum </strong><strong>al Palalido in Piazza Stuparich  </strong><br /> <strong>incontro con la stampa, rinfresco e spazio interviste.</strong>
   </div>
   
   <p>
-    <strong><br /> </strong>Tre giorni di conferenze, tavole rotonde, dibattiti, laboratori, testimonianze e spettacoli, esposizioni di artisti vari. 10.000 partecipanti previsti da tutta Europa. Centinaia di associazioni e persone impegnate nel mondo del pacifismo e del volontariato che lavoreranno per la costruzione di un&#8217;Europa aperta al futuro, ricca nelle sue diversità, accogliente nelle istituzioni, nonviolenta e solidale.</div> 
+    <strong><br /> </strong>Tre giorni di conferenze, tavole rotonde, dibattiti, laboratori, testimonianze e spettacoli, esposizioni di artisti vari. 10.000 partecipanti previsti da tutta Europa. Centinaia di associazioni e persone impegnate nel mondo del pacifismo e del volontariato che lavoreranno per la costruzione di un'Europa aperta al futuro, ricca nelle sue diversità, accogliente nelle istituzioni, nonviolenta e solidale.</div> 
     
     <p>
       <strong></strong>
     </p>
     
     <div>
-      <em><strong>Orari d&#8217;apertura:</strong></em>   </p> 
+      <em><strong>Orari d'apertura:</strong></em>   </p> 
       
       <ul>
         <li>
-          <strong>Venerdì 17</strong><br />   Palalido, Piazza Stuparich: 15.30 &#8211; 24.00    
+          <strong>Venerdì 17</strong><br />   Palalido, Piazza Stuparich: 15.30 - 24.00    
         </li>
         <li>
-          <strong>Sabato 18</strong><br />   Università Bicocca, Piazza dell&#8217;Ateneo Nuovo: 11.00 &#8211; 19.00 <br />   Palalido, Piazza Stuparich: 19.30 &#8211; 24.00
+          <strong>Sabato 18</strong><br />   Università Bicocca, Piazza dell'Ateneo Nuovo: 11.00 - 19.00 <br />   Palalido, Piazza Stuparich: 19.30 - 24.00
         </li>
         <li>
-          <strong>Domenica<br />   19</strong> Palalido, Piazza Stuparich: 14.30 &#8211; 19.00 
+          <strong>Domenica<br />   19</strong> Palalido, Piazza Stuparich: 14.30 - 19.00 
         </li>
       </ul>
     </div>
@@ -127,7 +127,7 @@ slug: /2008/09/25/forum-umanista-europeo/
         Nuove generazioni
       </li>
       <li>
-        La menzogna dell&#8217;informazione
+        La menzogna dell'informazione
       </li>
     </ul>
     
@@ -136,15 +136,15 @@ slug: /2008/09/25/forum-umanista-europeo/
     </p>
     
     <p>
-      <em><span><span><strong>Un po&#8217; di storia:</strong></span></span></em> I Forum Umanisti iniziano nel 1993, con il Primo Forum Mondiale che si è svolto a Mosca il 7 Ottobre, il secondo nel 1994 a Città del Messico e il terzo nel 1995 a Santiago del Cile. Negli anni successivi si è avviato un processo di regionalizzazione. Vaste aree geografiche, nelle quali i popoli che lì risiedono condividono storia, tradizioni e cultura comuni, hanno cominciato ad assumere un&#8217;importanza crescente nel contesto più generale della mondializzazione. Si è reso quindi necessario l&#8217;incontro fra i popoli che convivono all&#8217;interno di queste grandi regioni e così hanno iniziato a svilupparsi i Forum Umanisti Regionali. In Europa il primo Forum Umanista, si è tenuto a Lisbona nel novembre 2006, preceduto dagli incontri di Madrid (1999), Praga (2003) e Budapest (2004).<br /> Nell&#8217;anno 2006 si sono realizzati il primo Forum Africano, il primo Forum Asiatico-Pacifico, il primo Forum Latino-Americano e il primo Forum Europeo. Nel 2007 a New York, si è svolto il primo Forum della regionale Nord Americana.
+      <em><span><span><strong>Un po' di storia:</strong></span></span></em> I Forum Umanisti iniziano nel 1993, con il Primo Forum Mondiale che si è svolto a Mosca il 7 Ottobre, il secondo nel 1994 a Città del Messico e il terzo nel 1995 a Santiago del Cile. Negli anni successivi si è avviato un processo di regionalizzazione. Vaste aree geografiche, nelle quali i popoli che lì risiedono condividono storia, tradizioni e cultura comuni, hanno cominciato ad assumere un'importanza crescente nel contesto più generale della mondializzazione. Si è reso quindi necessario l'incontro fra i popoli che convivono all'interno di queste grandi regioni e così hanno iniziato a svilupparsi i Forum Umanisti Regionali. In Europa il primo Forum Umanista, si è tenuto a Lisbona nel novembre 2006, preceduto dagli incontri di Madrid (1999), Praga (2003) e Budapest (2004).<br /> Nell'anno 2006 si sono realizzati il primo Forum Africano, il primo Forum Asiatico-Pacifico, il primo Forum Latino-Americano e il primo Forum Europeo. Nel 2007 a New York, si è svolto il primo Forum della regionale Nord Americana.
     </p>
     
     <p>
-      <em><span><span><strong>Alcune informazioni per la stampa:</strong></span></span></em> Per avere l&#8217;accredito stampa, usufruire della saletta stampa, intervistare i personaggi che interverranno nel corso dell&#8217;evento e ricevere materiali, è necessario iscriversi alla press room sul sito del forum (<a href="http://www.humanistforum.eu/it/press" target="_self">www.humanistforum.eu/it/press</a>), verrete contattati da un addetto stampa che vi assisterà per tutta la durata del forum. Vi preghiamo di contattarci entro il 10 ottobre per darci il tempo di organizzare gli appuntamenti per le interviste. Nel sito troverete l&#8217;elenco dei testimonial e il programma aggiornato quotidianamente.
+      <em><span><span><strong>Alcune informazioni per la stampa:</strong></span></span></em> Per avere l'accredito stampa, usufruire della saletta stampa, intervistare i personaggi che interverranno nel corso dell'evento e ricevere materiali, è necessario iscriversi alla press room sul sito del forum (<a href="http://www.humanistforum.eu/it/press" target="_self">www.humanistforum.eu/it/press</a>), verrete contattati da un addetto stampa che vi assisterà per tutta la durata del forum. Vi preghiamo di contattarci entro il 10 ottobre per darci il tempo di organizzare gli appuntamenti per le interviste. Nel sito troverete l'elenco dei testimonial e il programma aggiornato quotidianamente.
     </p>
     
     <p>
-      Per scaricare tutta la documentazione<br /> <a class="jce_doclink" title="Forum Europeo - Milano" href="http://www.pressenza.org/site/index.php?option=com_docman&task=doc_download&gid=4" target="_self">Forum Europeo &#8211; Milano</a> 
+      Per scaricare tutta la documentazione<br /> <a class="jce_doclink" title="Forum Europeo - Milano" href="http://www.pressenza.org/site/index.php?option=com_docman&task=doc_download&gid=4" target="_self">Forum Europeo - Milano</a> 
     </p>
     
     <p>

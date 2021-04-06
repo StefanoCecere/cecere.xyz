@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-12-16T01:14:29Z"
+categories: [blog]
+date: 2005-12-16T01:14:29Z
 guid: http://stefanocecere.com/2005/12/16/una-micro-poesia-e-bill-gates-e-collettivo-musicisti/
 id: 182
-related_posts:
-- null
 tags:
 - ricreazione
 - spirito
@@ -28,7 +25,7 @@ e sono un pennello.
   
 </em>
   
-&#8212; &#8211;
+&#8212; -
 
 domani nascerà ufficialmente un nuovo progetto umanista: un collettivo di musicisti e poeti multimediali.
   

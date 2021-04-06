@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-04-11T11:45:29Z"
+categories: [blog]
+date: 2005-04-11T11:45:29Z
 guid: http://stefanocecere.com/?p=63
 id: 63
-related_posts:
-- null
 tags:
 - spirito
 - umanista

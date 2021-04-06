@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-03-17T12:13:44Z"
+categories: [blog]
+date: 2008-03-17T12:13:44Z
 guid: http://stefanocecere.com/2008/03/17/petizione-on-line-contro-l%e2%80%99istallazione-della-base-radar-degli-stati-uniti-in-repubblica-ceca/
 id: 752
-related_posts:
-- null
 tags:
 - disarmo nucleare
 - guerra
@@ -19,17 +15,17 @@ title: PETIZIONE ON LINE CONTRO L’ISTALLAZIONE DELLA BASE RADAR DEGLI STATI UN
 slug: /2008/03/17/petizione-on-line-contro-listallazione-della-base-radar-degli-stati-uniti-in-repubblica-ceca/
 ---
 
-C&#8217;è pochissimo tempo per firmare questa petizione essenziale per fermare l&#8217;installazione del Radar Militare che verrà installato in Repubblica Ceca e che sarà un passo in più per armare l&#8217;Europa e complicare le relazioni diplomatiche nel nostro continente. Oltre allo scempio ambientale che dovranno subire le popolazioni residenti nei paraggi di questo insediamento.
+C'è pochissimo tempo per firmare questa petizione essenziale per fermare l'installazione del Radar Militare che verrà installato in Repubblica Ceca e che sarà un passo in più per armare l'Europa e complicare le relazioni diplomatiche nel nostro continente. Oltre allo scempio ambientale che dovranno subire le popolazioni residenti nei paraggi di questo insediamento.
   
-Il Parlamento ceco voterà in aprile e l&#8217;obiettivo, come sempre è super-ambizioso: 500.000 di firme.
+Il Parlamento ceco voterà in aprile e l'obiettivo, come sempre è super-ambizioso: 500.000 di firme.
   
 Vale la pena provarci! Firmiamo e diffondiamo il più possibile.
 
 ci vuole un minuto: [www.nonviolence.cz](http://www.nonviolence.cz)
 
-se pensi che non la cosa non ti interessa&#8230; per piacere guarda questo video:
+se pensi che non la cosa non ti interessa… per piacere guarda questo video:
 
-&#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211;
+- - - - - - - -
 
 Caro amico,
 

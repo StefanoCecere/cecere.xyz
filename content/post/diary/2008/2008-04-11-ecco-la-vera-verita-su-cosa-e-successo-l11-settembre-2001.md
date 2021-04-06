@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2008-04-11T09:50:54Z"
+date: 2008-04-11T09:50:54Z
 guid: http://stefanocecere.com/2008/04/11/ecco-la-vera-verita-su-cosa-e-successo-l11-settembre-2001/
 id: 847
-related_posts:
-- null
 tags:
 - 11 settembre
 - New York

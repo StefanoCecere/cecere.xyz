@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-05-31T03:24:00Z"
+categories: [blog]
+date: 2006-05-31T03:24:00Z
 guid: http://stefanocecere.com/2006/05/31/ancora-referendum-25-giugno-cosa-fare/
 id: 299
-related_posts:
-- null
 tags:
 - referendum
 - spirito
@@ -20,17 +16,17 @@ slug: /2006/05/31/ancora-referendum-25-giugno-cosa-fare/
 
 Scrivere su questo blog comincia ad essere faccenda da non sottovalutare, date le centinaia di persone (robots esclusi) che quotidianamente passano di qua.
 
-Negli ultimi giorni moltissimi arrivano cercando &#8220;referendum 25 giugno&#8221; o &#8220;riforma costituzionale&#8221; o cose del genere. OTTIMO. è un segnale che il tema è d&#8217;interesse, nonostante l&#8217;attuale imbarazzante silenzio dei più.
+Negli ultimi giorni moltissimi arrivano cercando "referendum 25 giugno" o "riforma costituzionale" o cose del genere. OTTIMO. è un segnale che il tema è d'interesse, nonostante l'attuale imbarazzante silenzio dei più.
 
 Segnalo quindi la manifestazione di domani a Firenze.
 
-Ho già pubblicato diversi materiali di approfondimento sull&#8217;essenza di questo referendum (vedi link a lato o [clicca qui](http://stefanocecere.com/2006/05/27/referendum-25-giugno-google-ruby-on-rails-e-le-multe-da-pagare/)), e sul perché sia **IMPORTANTISSIMO ANDARE A VOTARE NO**, e **cercare di persuadere quanta più gente possibile a fare altrettanto**.
+Ho già pubblicato diversi materiali di approfondimento sull'essenza di questo referendum (vedi link a lato o [clicca qui](http://stefanocecere.com/2006/05/27/referendum-25-giugno-google-ruby-on-rails-e-le-multe-da-pagare/)), e sul perché sia **IMPORTANTISSIMO ANDARE A VOTARE NO**, e **cercare di persuadere quanta più gente possibile a fare altrettanto**.
 
-Dopo la batosta alle elezioni di ieri, c&#8217;è pure da aspettarsi un ultimo colpo di coda d parte della Casa delle Libertà che vorrà far vincere il SI. Vuoi per l&#8217;assenza di quorum, vuoi per il periodo di inizio estate (e moltissimi giovani saranno già in giro), vuoi per la sensazione diffusa di sottovalutare questo evento, il rischio di far arretrare la nostra Costituzione ad infimi livelli è davvero alto.
+Dopo la batosta alle elezioni di ieri, c'è pure da aspettarsi un ultimo colpo di coda d parte della Casa delle Libertà che vorrà far vincere il SI. Vuoi per l'assenza di quorum, vuoi per il periodo di inizio estate (e moltissimi giovani saranno già in giro), vuoi per la sensazione diffusa di sottovalutare questo evento, il rischio di far arretrare la nostra Costituzione ad infimi livelli è davvero alto.
 
 Ma oltre a fare quanto detto.. chi non si sta scoraggiando sente la forte esigenza di dover (e di voler) fare qualcosa di più.. si ma cosa?
 
-Come diceva l&#8217;amico Mario Rodriguez, fondatore del Movimento Umanista, due anni fa: _<img align="left" title="2004_silo.jpg" id="image298" alt="2004_silo.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/05/2004_silo.jpg" />_
+Come diceva l'amico Mario Rodriguez, fondatore del Movimento Umanista, due anni fa: _<img align="left" title="2004_silo.jpg" id="image298" alt="2004_silo.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/05/2004_silo.jpg" />_
 
  ___“Ma bisogna fare qualcosa”, si sente dire dappertutto. Va bene, io dirò cosa bisogna fare, ma non servirà a niente dirlo perché nessuno l’ascolterà._
 
@@ -43,7 +39,7 @@ Come diceva l&#8217;amico Mario Rodriguez, fondatore del Movimento Umanista, due
 
 ovviamente partecipare ad un progetto quale il Movimento Umanista rasenta la trascendenza.
 
-PS: se vuoi contribuire alla diffusione del Nuovo Umanesimo nel mondo.. perché non devolvi anche tu il 5 per mille delle prossime tasse ad una ONLUS amica? tipo ENERGIA Onlus &#8211; Codice Fiscale **97289510584**
+PS: se vuoi contribuire alla diffusione del Nuovo Umanesimo nel mondo.. perché non devolvi anche tu il 5 per mille delle prossime tasse ad una ONLUS amica? tipo ENERGIA Onlus - Codice Fiscale **97289510584**
 
 I soldi raccolti da questa onlus saranno interamente dedicati alla costruzione di un luogo di incontro e di ricerca nei pressi di Attigliano (il terreno è già acquistato, si sta finalizzando il progetto.. vedi <http://www.silo.net/Halls.shtml> e <http://www.eurosala.org/index.html>
 

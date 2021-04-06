@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Futuro
-date: "2005-12-11T11:10:45Z"
+categories: [blog]
+date: 2005-12-11T11:10:45Z
 guid: http://stefanocecere.com/2005/12/11/elezioni-in-cile-tre-uomini-e-una/
 id: 175
-related_posts:
-- null
 tags:
 - Cile
 title: 'elezioni in Cile: tre uomini e una…'

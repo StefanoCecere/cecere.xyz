@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2007-07-07T23:33:56Z"
+categories: [blog]
+date: 2007-07-07T23:33:56Z
 guid: http://stefanocecere.com/2007/07/07/video-di-unp-spettacolo-incredibile/
 id: 515
-related_posts:
-- null
 tags:
 - arte
 - ricreazione

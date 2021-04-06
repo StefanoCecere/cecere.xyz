@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2009-04-21T12:23:18Z"
+categories: [blog]
+date: 2009-04-21T12:23:18Z
 guid: http://stefanocecere.com/?p=1685
 id: 1685
 tags:
@@ -15,15 +14,15 @@ title: Cosa non sai dei pirati somali
 slug: /2009/04/21/cosa-non-sai-dei-pirati-somali/
 ---
 
-normalmente quando ai tg cominciano a passare qualche notizia che parla di un &#8220;pericolo&#8221; per noi, magari reiterando un &#8220;crimine&#8221; che minaccia la nostra sicurezza.. non so perchè ma alzo le antennine e sento odore di &#8220;non ce la stanno dicendo tutta&#8221;.
+normalmente quando ai tg cominciano a passare qualche notizia che parla di un "pericolo" per noi, magari reiterando un "crimine" che minaccia la nostra sicurezza.. non so perchè ma alzo le antennine e sento odore di "non ce la stanno dicendo tutta".
 
-il seguente articolo (tratto da the independent inglese e tradotto da www.comedonchisciotte.org ) dà un&#8217;altro punto di vista sui pirati somali he credo sia bene tenere bene a mente.
+il seguente articolo (tratto da the independent inglese e tradotto da www.comedonchisciotte.org ) dà un'altro punto di vista sui pirati somali he credo sia bene tenere bene a mente.
 
 <img class="aligncenter size-full wp-image-1686" title="somali_pirates" src="http://stefanocecere.com/wp-content/uploads/sites/3/2009/04/somali_pirates.jpg" alt="somali_pirates" width="290" height="194" />DI JOHANN HARI
   
 _The Independent_
 
-_Da [Repubblica.it](http://www.repubblica.it/2009/04/sezioni/esteri/somalia-pirati/accuse-puntland/accuse-puntland.html) (20/04)**: &#8220;Il Puntland contro il Buccaneer &#8216;Doveva sversare rifiuti tossici'&#8221;**. Le accuse mosse dalle autorità della regione semi-autonoma della Somalia al rimorchiatore italiano sequestrato dai pirati. La società Micoperi: &#8220;Era vuoto&#8221;._
+_Da [Repubblica.it](http://www.repubblica.it/2009/04/sezioni/esteri/somalia-pirati/accuse-puntland/accuse-puntland.html) (20/04)**: "Il Puntland contro il Buccaneer &#8216;Doveva sversare rifiuti tossici'"**. Le accuse mosse dalle autorità della regione semi-autonoma della Somalia al rimorchiatore italiano sequestrato dai pirati. La società Micoperi: "Era vuoto"._
 
 Chi avrebbe immaginato che, nel 2009, i governi mondiali avrebbero dichiarato una nuova Guerra ai Pirati? Mentre state leggendo quest’articolo, la British Royal Navy – con il sostegno dalle navi di più di due dozzine di stati, dall’America alla Cina- sta navigando verso le acque somale per affrontare uomini che noi ci figuriamo ancora come furfanti da sceneggiata con tanto di pappagallo sulla spalla. Presto inizieranno a combattere le navi somale e a cacciare i pirati sulla terraferma, in una delle regioni più piegate della terra. Ma dietro alla stravaganza del tipo ‘avanti-miei-prodi’ che questa storia racchiude, si nasconde uno scandalo non confessato. Le persone che i nostri governi stanno etichettando come “una delle più grandi minacce del nostro tempo” hanno delle storie incredibili da raccontare – e un po’ di giustizia dalla loro parte.
 
@@ -41,15 +40,15 @@ E’ questo il contesto da cui emergono gli uomini che noi ora chiamiamo “pira
 
 No, tutto questo non giustifica la cattura di prigionieri e sì, alcuni sono evidentemente solo dei gangster – specialmente quelli che si sono impossessati delle scorte inviate dal World Food Programme. Ma i “pirati” godono del massiccio sostegno della popolazione locale per una ragione. Il sito somalo d’informazione indipendente WardherNews ha condotto l’indagine più approfondita che abbiamo a disposizione riguardo a ciò che la gente somala pensa e ha scoperto che il 70% della popolazione “sostiene fermamente la pirateria come una forma di difesa nazionale delle acque territoriali del paese”. Durante la guerra rivoluzionaria in America, George Washington e i padri fondatori americani pagarono i pirati affinché proteggessero le acque territoriali americane perché non avevano una loro marina o una guardia costiera. La maggior parte degli americani li sosteneva. E’ tanto diverso?
 
-Ci aspettavamo forse che i somali affamati restassero passivi sulle loro spiagge, a fare il bagno nelle nostre scorie nucleari guardandoci mentre rubiamo loro il pesce che verrà mangiato nei ristoranti di Londra, Parigi e Roma? Non abbiamo fatto nulla per fermare quei crimini &#8211; ma quando qualche pescatore reagisce interrompendo il corridoio di transito del 20 percento della fornitura mondiale di petrolio, allora noi iniziamo a gridare al “male”. Se veramente vogliamo occuparci della pirateria, dobbiamo arrestarne la causa originaria – i nostri crimini – prima di spedire navi armate a scovare i criminali somali.
+Ci aspettavamo forse che i somali affamati restassero passivi sulle loro spiagge, a fare il bagno nelle nostre scorie nucleari guardandoci mentre rubiamo loro il pesce che verrà mangiato nei ristoranti di Londra, Parigi e Roma? Non abbiamo fatto nulla per fermare quei crimini - ma quando qualche pescatore reagisce interrompendo il corridoio di transito del 20 percento della fornitura mondiale di petrolio, allora noi iniziamo a gridare al “male”. Se veramente vogliamo occuparci della pirateria, dobbiamo arrestarne la causa originaria – i nostri crimini – prima di spedire navi armate a scovare i criminali somali.
 
-La storia della guerra ai pirati del 2009 è stata riassunta nel modo migliore da un altro pirata, che è vissuto e morto nel IV secolo avanti cristo. Egli era stato catturato e portato davanti ad Alessandro Magno, il quale voleva sapere “a cosa mirasse prendendo possesso del mare”. Il pirata sorrise e rispose: “A ciò a cui miri tu impadronendoti di tutta la terra; ma io, che lo faccio con una barca insignificante, vengo chiamato ladro mentre tu, che lo fai con una grande flotta, vieni chiamato imperatore”. E di nuovo, le nostre grandi navi imperiali oggi navigano per i mari &#8211; ma chi è il ladro?
+La storia della guerra ai pirati del 2009 è stata riassunta nel modo migliore da un altro pirata, che è vissuto e morto nel IV secolo avanti cristo. Egli era stato catturato e portato davanti ad Alessandro Magno, il quale voleva sapere “a cosa mirasse prendendo possesso del mare”. Il pirata sorrise e rispose: “A ciò a cui miri tu impadronendoti di tutta la terra; ma io, che lo faccio con una barca insignificante, vengo chiamato ladro mentre tu, che lo fai con una grande flotta, vieni chiamato imperatore”. E di nuovo, le nostre grandi navi imperiali oggi navigano per i mari - ma chi è il ladro?
 
 _POST SCRIPTUM: Alcuni commentatori guardano con perplessità al fatto che sia lo scarico delle scorie tossiche sia il furto di pesce avvengano nello stesso posto –il pesce non viene contaminato? Di fatto, [la costa somala è vasta](http://www.lonelyplanet.com/maps/africa/somalia/), estendendosi per 3.300 km. Per rendere l’idea, pensate a quanto sarebbe facile – se non ci fossero la guardia costiera o l’esercito- rubare pesce dalla Florida o gettare scorie nucleari in California. Questi sono eventi che accadono in posti diversi ma con gli stessi terribili effetti: morte della popolazione locale e incoraggiamento del la pirateria. Non c’è nessuna contraddizione._
 
 _**Johann Hari** scrive per il quotidiano The Independent_.
 
-_Titolo originale: &#8220;You Are Being Lied to About Pirates&#8221;_
+_Titolo originale: "You Are Being Lied to About Pirates"_
 
 Fonte: http://www.independent.co.uk/
   

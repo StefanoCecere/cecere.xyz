@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2005-12-20T01:52:07Z"
+categories: [blog]
+date: 2005-12-20T01:52:07Z
 guid: http://stefanocecere.com/2005/12/20/cosa-fare-in-caso-di-attacco-terroristico/
 id: 188
-related_posts:
-- null
 tags:
 - ricreazione
 - terrorismo
@@ -28,7 +24,7 @@ ps-1: grazie Giovanna! 😉
   
 ps: oggi quasi tutti i tg hanno fatto dei servizi da funerale sulle dimissioni del nostro zio Fazio.. quasi mi mettevo a piangere..
   
-ps2: sono felicissimo per l&#8217;elezione di Evo Morales in Bolivia! ragazzi in sudamerica sono davvero avanti! personaggi come Silo, Hirsch, Lula, Chavez, Morales…
+ps2: sono felicissimo per l'elezione di Evo Morales in Bolivia! ragazzi in sudamerica sono davvero avanti! personaggi come Silo, Hirsch, Lula, Chavez, Morales…
   
 ricordo appunto che il Movimento Umanista è nato in Argentina nel 1969 (in piena dittatura militare!)
 

@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-02-25T09:36:23Z"
+categories: [blog]
+date: 2008-02-25T09:36:23Z
 guid: http://stefanocecere.com/2008/02/25/intervista-a-silo/
 id: 695
-related_posts:
-- null
 tags:
 - intervista
 - Silo

@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2008-03-07T09:38:28Z"
+date: 2008-03-07T09:38:28Z
 guid: http://stefanocecere.com/2008/03/07/condanniamo-energicamente-la-sanguinaria-incursione-militare-del-governo-colombiano-in-territorio-ecuadoriano/
 id: 724
-related_posts:
-- null
 tags:
 - america latina
 - colombia

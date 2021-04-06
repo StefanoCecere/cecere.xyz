@@ -1,14 +1,13 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2013-11-19T14:57:39Z"
+categories: [blog]
+date: 2013-11-19T14:57:39Z
 guid: http://twitter-402797825261858816-post
 id: 4837
 tags:
 - idea
 - tech
-title: Pedal Power &#8211; Human Scale Energy For Everyday Tasks
+title: Pedal Power - Human Scale Energy For Everyday Tasks
 slug: /2013/11/19/pedal-power-human-scale-energy-for-everyday-tas/
 ---
 

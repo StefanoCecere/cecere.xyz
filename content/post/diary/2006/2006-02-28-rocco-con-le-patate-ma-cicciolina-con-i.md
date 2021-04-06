@@ -2,16 +2,14 @@
 author: Stefano Cecere
 categories:
 - Uncategorized
-date: "2006-02-28T11:31:20Z"
+date: 2006-02-28T11:31:20Z
 guid: http://stefanocecere.com/?p=237
 id: 237
-related_posts:
-- null
 tags:
 - ricreazione
 - ridere
 - sesso
-title: rocco con le patate, ma cicciolina con i&#8230;
+title: rocco con le patate, ma cicciolina con i…
 slug: /2006/02/28/rocco-con-le-patate-ma-cicciolina-con-i/
 ---
 

@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-10-07T10:32:45Z"
+categories: [blog]
+date: 2005-10-07T10:32:45Z
 guid: http://stefanocecere.com/2005/10/07/campagna-nazionale-il-futuro-si-puo-cambiare/
 id: 102
-related_posts:
-- null
 tags:
 - umanista
 title: "CAMPAGNA NAZIONALE: IL FUTURO SI PUO' CAMBIARE"
@@ -19,7 +16,7 @@ slug: /2005/10/07/campagna-nazionale-il-futuro-si-puo-cambiare/
   
 Il terrorismo incalza (leggete i vari documenti allegati e avrete delle belle sorprese)</p> 
 
-Si sta lanciando Campagna Nazionale &#x2028;IL FUTURO SI PU&#xd2; CAMBIARE &#x2028;promossa dal Centro delle Culture, dalla Comunit&#xe0; per lo sviluppo umano e dal Partito Umanista</strong> &#x2028;
+Si sta lanciando Campagna Nazionale &#x2028;IL FUTURO SI PU&#xd2; CAMBIARE &#x2028;promossa dal Centro delle Culture, dalla Comunità per lo sviluppo umano e dal Partito Umanista</strong> &#x2028;
   
 per approfondimenti:
   
@@ -29,7 +26,7 @@ per approfondimenti:
   
 Il terrorismo incalza (leggete i vari documenti allegati e avrete delle belle sorprese)</p> 
 
-Si sta lanciando Campagna Nazionale &#x2028;IL FUTURO SI PU&#xd2; CAMBIARE &#x2028;promossa dal Centro delle Culture, dalla Comunit&#xe0; per lo sviluppo umano e dal Partito Umanista</strong> &#x2028;
+Si sta lanciando Campagna Nazionale &#x2028;IL FUTURO SI PU&#xd2; CAMBIARE &#x2028;promossa dal Centro delle Culture, dalla Comunità per lo sviluppo umano e dal Partito Umanista</strong> &#x2028;
   
 per approfondimenti:
   

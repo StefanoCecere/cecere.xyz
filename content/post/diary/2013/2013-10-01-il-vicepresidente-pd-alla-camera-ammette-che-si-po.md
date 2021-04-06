@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-10-01T10:34:52Z"
+date: 2013-10-01T10:34:52Z
 format: status
 guid: http://twitter-384974686733729792-post
 id: 4680
-title: il vicepresidente PD alla camera ammette che si po&#8230;
+title: il vicepresidente PD alla camera ammette che si po…
 slug: /2013/10/01/il-vicepresidente-pd-alla-camera-ammette-che-si-po/
 ---
 

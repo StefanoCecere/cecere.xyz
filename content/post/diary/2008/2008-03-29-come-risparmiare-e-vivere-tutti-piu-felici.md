@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Uncategorized
-date: "2008-03-29T09:09:42Z"
+date: 2008-03-29T09:09:42Z
 guid: http://stefanocecere.com/2008/03/29/come-risparmiare-e-vivere-tutti-piu-felici/
 id: 774
-related_posts:
-- null
 tags:
 - arte
 - consigli
@@ -22,7 +20,7 @@ riporto questa bellissima lista pubblicata dal [Manifesto](http://www.ilmanifest
 
 **Acqua del rubinetto**
   
-Non comprando l&#8217;acqua ferma in bottiglia risparmiamo mezzo euro a testa al giorno, e 200.000 tonnellate di plastica all&#8217;anno in Italia, enormi quantità di petrolio per la produzione e i trasporti. Lettura: Piccola guida al consumo critico dell&#8217;acqua (Altreconomia, 2 euro).
+Non comprando l'acqua ferma in bottiglia risparmiamo mezzo euro a testa al giorno, e 200.000 tonnellate di plastica all'anno in Italia, enormi quantità di petrolio per la produzione e i trasporti. Lettura: Piccola guida al consumo critico dell'acqua (Altreconomia, 2 euro).
   
 **Acqua da non sprecare**
   
@@ -38,11 +36,11 @@ Se la carne porta via un quarto del bilancio alimentare, ragione in più per sos
   
 **Alimenti biologici**
   
-Il cibo bio costa quanto l&#8217;altro se: a) si comprano le materie prime (frutta, ortaggi, cereali) per trasformarle in casa; b) si preferiscono le bancarelle bio o i Gas (v.oltre); c) si usano cucinando anche le bucce, le scorze.
+Il cibo bio costa quanto l'altro se: a) si comprano le materie prime (frutta, ortaggi, cereali) per trasformarle in casa; b) si preferiscono le bancarelle bio o i Gas (v.oltre); c) si usano cucinando anche le bucce, le scorze.
   
 **Alimenti non pronti** 
   
-Gli ortaggi già lavati, i piatti già cotti costano anche 5 volte più delle materie prime &#8211; sfuse o con piccolo imballaggio &#8211; necessarie a produrli. Evitarli risparmia soldi, plastica, polistirolo, e i tanti giri di fabbriche.
+Gli ortaggi già lavati, i piatti già cotti costano anche 5 volte più delle materie prime - sfuse o con piccolo imballaggio - necessarie a produrli. Evitarli risparmia soldi, plastica, polistirolo, e i tanti giri di fabbriche.
   
 **Alimenti «vicini» e di stagione**
   
@@ -52,13 +50,13 @@ Leggendo la provenienza di frutta, verdura e trasformati ed evitando pesche a Na
   
 Dai mobili ai tendaggi, dagli oggettini agli scaffali, pescare dalla miniera del già esistente fa risparmiare euri e legno (magari di foresta); e può essere un acquisto solidale (www.manitese.it; www.emmaus.it)
   
-**Artigianato d&#8217;uso**
+**Artigianato d'uso**
   
 Una brocca, un piatto, un asciugamano fatti da artigiani italiani o del commercio equo costano di più, ma belli come sono li faremo durare moltissimo. Pagheremo lavoro più che materie prime.
   
 **Bicicletta**
   
-In media ogni 15 km percorsi in bici si risparmiano 3 kg di anidride carbonica e almeno 1,5 euro se si lascia l&#8217;auto e fino a 2 kg di anidride carbonica e un euro se si lascia la moto. Bici usate (con marce) presso le ciclofficine.
+In media ogni 15 km percorsi in bici si risparmiano 3 kg di anidride carbonica e almeno 1,5 euro se si lascia l'auto e fino a 2 kg di anidride carbonica e un euro se si lascia la moto. Bici usate (con marce) presso le ciclofficine.
   
 **Borraccia, bicchiere e thermos**
   
@@ -70,7 +68,7 @@ Belle comode e durevoli sostituiscono gli inutilissimi nove miliardi di shopper 
   
 Caffé che sia equo
   
-Al bar costa almeno 70 cent; quanti ne prendiamo al giorno al mese all&#8217;anno? Conviene farlo in casa o in ufficio. Quello equo costa forse due miseri euro al mese più dell&#8217;altro&#8230;
+Al bar costa almeno 70 cent; quanti ne prendiamo al giorno al mese all'anno? Conviene farlo in casa o in ufficio. Quello equo costa forse due miseri euro al mese più dell'altro…
   
 **Caldo saggio/1**
   
@@ -78,23 +76,23 @@ Due gradi in meno, una sciarpa in più e il clima ringrazia. Pure il portafogli:
   
 **Caldo saggio/2**
   
-Una valvola termostatica applicata ai radiatori costa una ventina di euro e può far risparmiare fino al 20 per cento dell&#8217;energia, dunque molti gas serra.
+Una valvola termostatica applicata ai radiatori costa una ventina di euro e può far risparmiare fino al 20 per cento dell'energia, dunque molti gas serra.
   
 **Caldo saggio/3**
   
-Sostituire lo scaldacqua elettrico con uno a metano o solare fa risparmiare centinaia di euro e di kg di CO2 all&#8217;anno. E poi scoprire l&#8217;acqua fredda!
+Sostituire lo scaldacqua elettrico con uno a metano o solare fa risparmiare centinaia di euro e di kg di CO2 all'anno. E poi scoprire l'acqua fredda!
   
 **Car pooling**
   
-Se proprio serve l&#8217;auto su un dato tragitto, verso il lavoro o la scuola dei figli, almeno condividiamola con altri viaggiatori a turno (individuandoli fra i vicini). Così la spesa e il carburante fossile si dimezzano, o più.
+Se proprio serve l'auto su un dato tragitto, verso il lavoro o la scuola dei figli, almeno condividiamola con altri viaggiatori a turno (individuandoli fra i vicini). Così la spesa e il carburante fossile si dimezzano, o più.
   
 **Car sharing**
   
-Attivo in varie città, supera l&#8217;auto in proprietà (www.icscarsharing.it). L&#8217;auto condivisa si prende a pagamento solo quando serve. Risparmi di centinaia di euro all&#8217;anno in spese fisse e minimizzazione dell&#8217;uso non avendola a portata d&#8217;occhio.
+Attivo in varie città, supera l'auto in proprietà (www.icscarsharing.it). L'auto condivisa si prende a pagamento solo quando serve. Risparmi di centinaia di euro all'anno in spese fisse e minimizzazione dell'uso non avendola a portata d'occhio.
   
 **Carta riciclata** 
   
-Igienica o da fotocopie, da scuola o da ufficio, non costa più dell&#8217;altra, basta trovarla (www.cartierraverdedellaliguria.it). Inoltre riciclare i fogli e fotocopiare meno fa risparmiare energia, acqua e alberi e qualche cent.
+Igienica o da fotocopie, da scuola o da ufficio, non costa più dell'altra, basta trovarla (www.cartierraverdedellaliguria.it). Inoltre riciclare i fogli e fotocopiare meno fa risparmiare energia, acqua e alberi e qualche cent.
   
 **Comunicare anziché cellulare**
   
@@ -102,31 +100,31 @@ Evviva chi risparmia coltan e rifiuti elettronici tenendo il vecchio modello e p
   
 **Elettrodomestici**
   
-Fanno l&#8217;80 per cento della bolletta elettrica. Quelli di classe energetica migliore costano di più ma si ammortizzano in pochi anni. Inoltre: molti si possono sostituire con i manodomestici a energia umana (v. energia umana).
+Fanno l'80 per cento della bolletta elettrica. Quelli di classe energetica migliore costano di più ma si ammortizzano in pochi anni. Inoltre: molti si possono sostituire con i manodomestici a energia umana (v. energia umana).
   
 **Energia umana** 
   
-Perché sprecarla in enervigore palestre anziché usarla produttivamente con pedali e manovelle per sostituire macchinari a energia fossile? Biciclette. Radio a manovella, come pile e mulini. Mani per lavare i piatti. Piedi per camminare. I parchi sono ottime palestre; chiedere l&#8217;installazione degli economici percorsi vita.
+Perché sprecarla in enervigore palestre anziché usarla produttivamente con pedali e manovelle per sostituire macchinari a energia fossile? Biciclette. Radio a manovella, come pile e mulini. Mani per lavare i piatti. Piedi per camminare. I parchi sono ottime palestre; chiedere l'installazione degli economici percorsi vita.
   
 **Fotovoltaico**
   
-Un impianto per produrre elettricità dal sole richiede almeno 15.000 euro ma con il conto energia (http://www.conto-energia-online.it/) si ammortizzano in pochi anni e il resto è guadagno. Ci sono anche gruppi d&#8217;acquisto (www.jacopofo.com/pannellisolari)
+Un impianto per produrre elettricità dal sole richiede almeno 15.000 euro ma con il conto energia (http://www.conto-energia-online.it/) si ammortizzano in pochi anni e il resto è guadagno. Ci sono anche gruppi d'acquisto (www.jacopofo.com/pannellisolari)
   
 **Fresco**
   
-Mai superare i sei gradi di differenza fra dentro e fuori. Perché ghiacciare in estate sforando tutti i picchi nel consumo di energia? Meglio il ventilatore, la coibentazione, le tende e&#8230;al bando le cravatte e le giacche.
+Mai superare i sei gradi di differenza fra dentro e fuori. Perché ghiacciare in estate sforando tutti i picchi nel consumo di energia? Meglio il ventilatore, la coibentazione, le tende e…al bando le cravatte e le giacche.
   
 **Giochi e regali**
   
-Fra le regole d&#8217;oro del neuropsichiatra infantile Giovanni Bollea: «Dar loro meno, il consumismo apre le porte alla noia». Meglio i giochi meno elettronici, quelli manual-mentali da tavolo, i giochi solari, quelli autocostruibili, gli ecolibri costruiti insieme, i libri ecologisti. Lettura: Il pianeta lo salvo io (Edt).
+Fra le regole d'oro del neuropsichiatra infantile Giovanni Bollea: «Dar loro meno, il consumismo apre le porte alla noia». Meglio i giochi meno elettronici, quelli manual-mentali da tavolo, i giochi solari, quelli autocostruibili, gli ecolibri costruiti insieme, i libri ecologisti. Lettura: Il pianeta lo salvo io (Edt).
   
 **Gita fuori porta**
   
-Non solo a Pasquetta, ma tutto l&#8217;anno, scoprire bei luoghi vicini a cui si arriva con i mezzi pubblici per un bel picnic al sacco ci permette anche di trovare erbe e frutti abbandonati o selvatici.
+Non solo a Pasquetta, ma tutto l'anno, scoprire bei luoghi vicini a cui si arriva con i mezzi pubblici per un bel picnic al sacco ci permette anche di trovare erbe e frutti abbandonati o selvatici.
   
-Gruppi d&#8217;acquisto solidale
+Gruppi d'acquisto solidale
   
-Associarsi a un Gas o fondarne uno con altri amici o colleghi è un modo per ottenere beni di qualità &#8211; alimenti, detersivi, pannelli solari, ecovernici, cancelleria&#8230; &#8211; a prezzi inferiori e conoscendo i produttori.
+Associarsi a un Gas o fondarne uno con altri amici o colleghi è un modo per ottenere beni di qualità - alimenti, detersivi, pannelli solari, ecovernici, cancelleria… - a prezzi inferiori e conoscendo i produttori.
   
 **Igiene, lavaggi e cosmesi**
   
@@ -138,19 +136,19 @@ Le lampadine a basso consumo costano dieci volte più di quelle a incandescenza 
   
 **Luci**
   
-Spegnerle sempre quando non servono; idem per gli stand by che totalizzano se accesi l&#8217;8 per cento in media della spesa elettrica. Ecoducatori: contestare le luminarie comunali!
+Spegnerle sempre quando non servono; idem per gli stand by che totalizzano se accesi l'8 per cento in media della spesa elettrica. Ecoducatori: contestare le luminarie comunali!
   
 **Pannolini lavabili**
   
-Senza richiedere fatica o operazioni spiacevoli, l&#8217;abbandono dei pannolini usa e getta multinazionali fa risparmiare nei primi due-tre anni di vita circa 2.000 euro, una tonnellata di rifiuti, molta acqua, cellulosa ed energia. Incentivando i nuovi modelli di pannolini lavabili in cotone bio, con sconti ai genitori, i comuni risparmiano 220 euro di smaltimento rifiuti per ogni bambino (http://www.provincia.fe.it/ecoidea/eco-vetrine/pannolini/comuni_ecopannolini.pdf)
+Senza richiedere fatica o operazioni spiacevoli, l'abbandono dei pannolini usa e getta multinazionali fa risparmiare nei primi due-tre anni di vita circa 2.000 euro, una tonnellata di rifiuti, molta acqua, cellulosa ed energia. Incentivando i nuovi modelli di pannolini lavabili in cotone bio, con sconti ai genitori, i comuni risparmiano 220 euro di smaltimento rifiuti per ogni bambino (http://www.provincia.fe.it/ecoidea/eco-vetrine/pannolini/comuni_ecopannolini.pdf)
   
 **Pannelli solari autoprodotti** 
   
-La Rete per l&#8217;aucostruzione solare (www.autocostruzionesolare.it) organizza corsi, laboratori, assistenza, gruppi d&#8217;acquisto per ridurre anche a un terzo il costo dell&#8217;impianto, facendo in buona parte da sé (come in Austria).
+La Rete per l'aucostruzione solare (www.autocostruzionesolare.it) organizza corsi, laboratori, assistenza, gruppi d'acquisto per ridurre anche a un terzo il costo dell'impianto, facendo in buona parte da sé (come in Austria).
   
 **Piaceri e divertimenti** 
   
-«La maggior parte dei piaceri non richiede il consumo di energia da macchinari» (dal saggio-manuale utopico Bolo&#8217;Bolo). Consumi zero di materia e di euri. Vedasi una camminata sotto un viale di tigli fiorito esercitando i cinque sensi (anche il palato, quando si berrà la tisana fatta con i fiori di tiglio raccolti, messi a essiccare all&#8217;ombra e conservati in vasetti al buio).
+«La maggior parte dei piaceri non richiede il consumo di energia da macchinari» (dal saggio-manuale utopico Bolo'Bolo). Consumi zero di materia e di euri. Vedasi una camminata sotto un viale di tigli fiorito esercitando i cinque sensi (anche il palato, quando si berrà la tisana fatta con i fiori di tiglio raccolti, messi a essiccare all'ombra e conservati in vasetti al buio).
   
 **Piatti da campeggio**
   
@@ -166,23 +164,23 @@ Buste e cartoncini da lettera autorealizzati con collage di fiori secchi, foglie
   
 **Rifiuti zero**
   
-Minimizzarli, compostarli in condominio (chiedendo lo sconto sulla tariffa). Ecoeducatori: chiedere la raccolta porta a porta, per non doversi caricare del costo ecologico ed economico degli inceneritori&#8230;.
+Minimizzarli, compostarli in condominio (chiedendo lo sconto sulla tariffa). Ecoeducatori: chiedere la raccolta porta a porta, per non doversi caricare del costo ecologico ed economico degli inceneritori….
   
 Riparare
   
 Se una riparazione costa tanto quanto un nuovo oggetto, scegliamo quella: si sosterrà il lavoro di qualcuno ma senza sprecare materia.
   
-Ristoranti d&#8217;amici
+Ristoranti d'amici
   
 Invitarsi a turno la sera è un buon modo per risparmiare convivialmente decine di euro.
   
 Scambio di ospitalità per viaggi e vacanze
   
-Macché seconde case cemento-vacanza, o costosi alberghi. Io presto la mia a te, lei presta la sua a me e via triangolando a seconda dei bisogni (www.scambiocasa.com). Ancor meglio l&#8217;ospitalità solidale Servas (www.servas.it).
+Macché seconde case cemento-vacanza, o costosi alberghi. Io presto la mia a te, lei presta la sua a me e via triangolando a seconda dei bisogni (www.scambiocasa.com). Ancor meglio l'ospitalità solidale Servas (www.servas.it).
   
 **Sigarette**
   
-Anche 150 euro al mese (1.750 all&#8217;anno) se ne vanno in fumo per un male che mina la salute, arricchisce multinazionali anglosassoni, è coltivato con pesticidi, tanta acqua e danni ai lavoratori&#8230;Lettura: E&#8217; facile smettere di fumare se lo sai fare (Allen Carr). Costo 10 euro che si ammortizza in pochi giorni smoke-free.
+Anche 150 euro al mese (1.750 all'anno) se ne vanno in fumo per un male che mina la salute, arricchisce multinazionali anglosassoni, è coltivato con pesticidi, tanta acqua e danni ai lavoratori…Lettura: E' facile smettere di fumare se lo sai fare (Allen Carr). Costo 10 euro che si ammortizza in pochi giorni smoke-free.
   
 **Telefono fisso**
   
@@ -194,4 +192,4 @@ Il valore di usare abiti più volte in più persone è anche economico. Altro ch
   
 **Viaggi vicini**
   
-Gli aerei low cost costano poco ma sono micidiali per il clima. Scoprire le meraviglie che abbiamo intorno, o almeno a portata di treno, pulman, traghetto. E su meno di 700 km l&#8217;aereo alla fin fine non è più veloce (se mettiamo nel conto anche i cambi e le attese).
+Gli aerei low cost costano poco ma sono micidiali per il clima. Scoprire le meraviglie che abbiamo intorno, o almeno a portata di treno, pulman, traghetto. E su meno di 700 km l'aereo alla fin fine non è più veloce (se mettiamo nel conto anche i cambi e le attese).

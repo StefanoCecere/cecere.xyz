@@ -1,7 +1,7 @@
 ---
 title: Sul treno roma -> milano
 slug: 2002/04/sul-treno-roma-milano
-categories: [diary]
+categories: [blog]
 date: 2002-04-07T14:42:20Z
 id: 829
 tags: []

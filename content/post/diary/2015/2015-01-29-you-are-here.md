@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2015-01-29T06:19:00Z"
+categories: [blog]
+date: 2015-01-29T06:19:00Z
 guid: http://stefanocecere.com/?p=5685
 id: 5685
 tags:
@@ -15,6 +14,6 @@ slug: /2015/01/29/you-are-here/
 
 mio figlio dice che ci sono almeno 7 pianeti abitati nella nostra Galassia (per il momento stiamo qui e non spaziamo tra le altre centinaia di miliardi di galassie)
 
-è poi impensabile che l&#8217;umanità riesca a sopravvivere a lungo confinata nel &#8220;sistema chiuso&#8221; pianeta terra.. con la velocità di crescita che abbiamo, entro pochi secoli dovremo iniziare a diventare una civiltà multiplanetaria
+è poi impensabile che l'umanità riesca a sopravvivere a lungo confinata nel "sistema chiuso" pianeta terra.. con la velocità di crescita che abbiamo, entro pochi secoli dovremo iniziare a diventare una civiltà multiplanetaria
 
-tutto è collegato a tutto. e in qualche momento speciale è possibile averne l&#8217;esperienza
+tutto è collegato a tutto. e in qualche momento speciale è possibile averne l'esperienza

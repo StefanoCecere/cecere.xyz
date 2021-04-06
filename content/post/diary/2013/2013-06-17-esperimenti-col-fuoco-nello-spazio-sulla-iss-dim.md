@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-06-17T20:28:41Z"
+date: 2013-06-17T20:28:41Z
 format: status
 guid: http://twitter-346711011941814273-post
 id: 4577
-title: esperimenti col fuoco nello spazio (sulla ISS) dim&#8230;
+title: esperimenti col fuoco nello spazio (sulla ISS) dim…
 slug: /2013/06/17/esperimenti-col-fuoco-nello-spazio-sulla-iss-dim/
 ---
 

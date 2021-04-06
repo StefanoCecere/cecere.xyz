@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Futuro
-date: "2006-12-18T10:48:17Z"
+categories: [blog]
+date: 2006-12-18T10:48:17Z
 guid: http://stefanocecere.com/2006/12/18/un-poster-di-emozione-umana/
 id: 478
-related_posts:
-- null
 tags:
 - amici
 - arte

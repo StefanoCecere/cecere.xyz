@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2007-08-31T10:17:15Z"
+categories: [blog]
+date: 2007-08-31T10:17:15Z
 guid: http://stefanocecere.com/2007/08/31/in-cile-sta-tornando-la-violenza-repressione-di-una-manifestazione-pacifica/
 id: 550
-related_posts:
-- null
 tags:
 - Cile
 - umanista
@@ -16,11 +12,11 @@ title: 'In Cile sta tornando la violenza: repressione di una manifestazione paci
 slug: /2007/08/31/in-cile-sta-tornando-la-violenza-repressione-di-una-manifestazione-pacifica/
 ---
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2007/08/repressione_dimostrazione_cile.jpg' alt='repressione dimostrazione in cile' align="left" />forse a qualcuno i &#8220;modelli forti&#8221; (vedi Pinochet) fanno molta nostalgia&#8230;
+<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2007/08/repressione_dimostrazione_cile.jpg' alt='repressione dimostrazione in cile' align="left" />forse a qualcuno i "modelli forti" (vedi Pinochet) fanno molta nostalgia…
   
-in Cile dall&#8217;anno scorso c&#8217;è un Governo di centro-sinistra , la Concertation. e come un po&#8217; tutti questi centro-sinistri hanno qualche contraddizione di fondo, nel momento in cui hanno sacrificato una propria ideologia sociale in nome del pragmatismo (economico e di governo).
+in Cile dall'anno scorso c'è un Governo di centro-sinistra , la Concertation. e come un po' tutti questi centro-sinistri hanno qualche contraddizione di fondo, nel momento in cui hanno sacrificato una propria ideologia sociale in nome del pragmatismo (economico e di governo).
 
-Nonostante comunque partecipassero anche esponenti del Governo, una pacifica dimostrazione di lavoratori e studenti ha subito maltrattamenti dalla polizia. Diversi umanisti (tra cui l&#8217;ex candidato alle presidenziali e protavoce umanista per il latino-america Tomas Hirsch) stanno cercando di rendere nota cosa sia successo, ricordando che non è un caso isolato.
+Nonostante comunque partecipassero anche esponenti del Governo, una pacifica dimostrazione di lavoratori e studenti ha subito maltrattamenti dalla polizia. Diversi umanisti (tra cui l'ex candidato alle presidenziali e protavoce umanista per il latino-america Tomas Hirsch) stanno cercando di rendere nota cosa sia successo, ricordando che non è un caso isolato.
 
 In diverso paesi del mondo ci stiamo muovendo contattando tutte le ambasciate del Cile e cheidendo spiegazioni al governo cileno.
   

@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-06-01T21:47:29Z"
+date: 2013-06-01T21:47:29Z
 format: status
 guid: http://twitter-340932637822701568-post
 id: 4383
-title: alcune informazioni direttamente dalla Turchia “@P&#8230;
+title: alcune informazioni direttamente dalla Turchia “@P…
 slug: /2013/06/01/alcune-informazioni-direttamente-dalla-turchia-p/
 ---
 

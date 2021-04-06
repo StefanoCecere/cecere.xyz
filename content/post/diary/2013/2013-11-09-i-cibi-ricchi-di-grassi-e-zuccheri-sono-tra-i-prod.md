@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-11-09T07:36:22Z"
+date: 2013-11-09T07:36:22Z
 format: status
 guid: http://twitter-399062890894098433-post
 id: 4803
-title: I cibi ricchi di grassi e zuccheri sono tra i prod&#8230;
+title: I cibi ricchi di grassi e zuccheri sono tra i prod…
 slug: /2013/11/09/i-cibi-ricchi-di-grassi-e-zuccheri-sono-tra-i-prod/
 ---
 

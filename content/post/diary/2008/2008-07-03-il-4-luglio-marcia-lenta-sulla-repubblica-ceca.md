@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-07-03T08:48:54Z"
+categories: [blog]
+date: 2008-07-03T08:48:54Z
 guid: http://stefanocecere.com/?p=1071
 id: 1071
 tags:
@@ -23,7 +22,7 @@ slug: /2008/07/03/il-4-luglio-marcia-lenta-sulla-repubblica-ceca/
 </div>
 
 <div>
-  <span style="font-family: Verdana;font-size: medium"><strong>venerdi 4 luglio dalle 16,00 alle 19,00  </strong>una marcia lenta davanti all&#8217;<strong>ambasciata CECA</strong> di Roma per rivendicare l&#8217;<strong>indipendenza dal governo USA</strong> continuando a manifestare il nostro dissenso all&#8217;installazione dello scudo.</span>
+  <span style="font-family: Verdana;font-size: medium"><strong>venerdi 4 luglio dalle 16,00 alle 19,00  </strong>una marcia lenta davanti all'<strong>ambasciata CECA</strong> di Roma per rivendicare l'<strong>indipendenza dal governo USA</strong> continuando a manifestare il nostro dissenso all'installazione dello scudo.</span>
 </div>
 
 <div>
@@ -31,7 +30,7 @@ slug: /2008/07/03/il-4-luglio-marcia-lenta-sulla-repubblica-ceca/
 </div>
 
 <div>
-  <span style="font-family: Verdana;font-size: medium"><strong>Il momento è topico</strong> rispetto a quel che sta accadendo in repubblica ceca. Tanto clamore, stampa, lotte ecc&#8230; forse per la prima volta si apre realmente uno spiraglio di POTER CAMBIARE IL CORSO DEGLI EVENTI&#8230; </span>
+  <span style="font-family: Verdana;font-size: medium"><strong>Il momento è topico</strong> rispetto a quel che sta accadendo in repubblica ceca. Tanto clamore, stampa, lotte ecc… forse per la prima volta si apre realmente uno spiraglio di POTER CAMBIARE IL CORSO DEGLI EVENTI… </span>
 </div>
 
 <div>
@@ -43,7 +42,7 @@ slug: /2008/07/03/il-4-luglio-marcia-lenta-sulla-repubblica-ceca/
 </div>
 
 <div>
-  <span style="font-family: Verdana;font-size: medium"><strong>In questi giorni, l&#8217;8 luglio (data supposta ma probabilissima), Condoleeza Rice sarà a Praga per firmare il protocollo di intesa col governo ceco.</strong> </span>
+  <span style="font-family: Verdana;font-size: medium"><strong>In questi giorni, l'8 luglio (data supposta ma probabilissima), Condoleeza Rice sarà a Praga per firmare il protocollo di intesa col governo ceco.</strong> </span>
 </div>
 
 <div>
@@ -79,7 +78,7 @@ slug: /2008/07/03/il-4-luglio-marcia-lenta-sulla-repubblica-ceca/
 </div>
 
 <div>
-  <span style="font-family: Verdana;font-size: medium">Fino ad ora siamo andati in dieci a portare una lettera all&#8217;ambasciata.</span>
+  <span style="font-family: Verdana;font-size: medium">Fino ad ora siamo andati in dieci a portare una lettera all'ambasciata.</span>
 </div>
 
 <div>
@@ -99,5 +98,5 @@ slug: /2008/07/03/il-4-luglio-marcia-lenta-sulla-repubblica-ceca/
 </div>
 
 <div>
-  <a href="http://stefanocecere.com/wp-content/uploads/2008/07/lettera-ambasciata-ceca_20080704.rtf">allego qui</a> un prototipo di lettera per l&#8217;ambasciata ceca.
+  <a href="http://stefanocecere.com/wp-content/uploads/2008/07/lettera-ambasciata-ceca_20080704.rtf">allego qui</a> un prototipo di lettera per l'ambasciata ceca.
 </div>

@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-12-01T07:54:08Z"
+categories: [blog]
+date: 2005-12-01T07:54:08Z
 guid: http://stefanocecere.com/2005/12/01/le-azioni-hanno-un-senso/
 id: 164
-related_posts:
-- null
 tags:
 - spirito
 title: le azioni hanno un senso
@@ -27,7 +24,7 @@ ribadisco la parola AZIONE (non tanto un pensiero, o un sentimento..)
 
 non solo è importante cosa facciamo, ma anche cosa NON facciamo.
 
-anticipo uno schema mooolto semplificato (su cui torneremo presto), che cerca un po&#8217; di sintetizzare come funzioniamo (ovviamente per chi interessa approfondire il tema): si può vedere come la relazione che ognuno ha col il mondo esterno è
+anticipo uno schema mooolto semplificato (su cui torneremo presto), che cerca un po' di sintetizzare come funzioniamo (ovviamente per chi interessa approfondire il tema): si può vedere come la relazione che ognuno ha col il mondo esterno è
   
 1) **impulsi (che verranno poi tradotti) in entrata**
   

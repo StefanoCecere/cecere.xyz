@@ -1,7 +1,7 @@
 ---
 title: Cose da fare per un futuro spaziale
 slug: 2018/02/schema-futuro-spaziale
-date: "2018-02-07T00:00:00Z"
+date: 2018-02-07T00:00:00Z
 tags:
 - papa2042
 categories:

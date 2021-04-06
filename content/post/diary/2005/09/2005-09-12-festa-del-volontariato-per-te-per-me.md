@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-09-12T10:28:33Z"
+categories: [blog]
+date: 2005-09-12T10:28:33Z
 guid: http://stefanocecere.com/2005/09/13/festa-del-volontariato-per-te-per-me/
 id: 86
-related_posts:
-- null
 tags:
 - festa
 - Monza
@@ -24,4 +21,4 @@ guarda un po' di foto qui: [http://www.ilfannullone.it](http://www.ilfannullone.
 
 peccato che per qualcuno il &#x201c;volontariato&#x201d; cominci a diventare &#x201c;business&#x201d;…
   
-(sul prossimo numero del Fannullone si parler&#xe0; meglio di questa cosa..)
+(sul prossimo numero del Fannullone si parlerà meglio di questa cosa..)

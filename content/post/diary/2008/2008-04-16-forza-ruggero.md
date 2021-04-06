@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-04-16T19:51:52Z"
+categories: [blog]
+date: 2008-04-16T19:51:52Z
 guid: http://stefanocecere.com/2008/04/16/forza-ruggero/
 id: 882
-related_posts:
-- null
 tags:
 - amici
 - salute
@@ -28,7 +25,7 @@ a non dimenticarsi di quanto siamo fortunati a stare qui
   
 a dare importanza alle cose importanti
   
-a non dare importanza alla superficie e all&#8217;effimero
+a non dare importanza alla superficie e all'effimero
   
 a ricordarsi che la vita (anche se non sembra) ha un Senso.
 
@@ -36,13 +33,13 @@ a Ruggè.. se non il 4 maggio .. ti voglio vedere ad agosto in campeggio! 😉
   
 stefano
 
-&#8211; &#8211; &#8211; &#8211; &#8211;
+- - - - -
 
 Ciao a tutti
   
 vi scrivo per il nostro caro Ruggero,
   
-l&#8217;appo di kiara
+l'appo di kiara
   
 dei corvi
   
@@ -54,7 +51,7 @@ impegna il pelato
   
 in una probabile operazione
   
-dove dovrebbero portargli via gran parte dell&#8217;ormai affezionatissimo stomaco
+dove dovrebbero portargli via gran parte dell'ormai affezionatissimo stomaco
 
 Egli, previe analisi finali dovrebbe ricevere questo intervento nel finire di aprile
 
@@ -74,7 +71,7 @@ il venerdì saremo a via bezzecca
   
 e se il numero dei partecipanti cresce kiederemo asilo in un locale
 
-Naturalmente l&#8217;azione a distanza di tanti altri amici
+Naturalmente l'azione a distanza di tanti altri amici
   
 rinforzerà ancora di più Lui
   
@@ -82,13 +79,13 @@ migliorando nel modo migliore la sua situazione
 
 cosa kiedere:
 
-&#8211; curviamo lo spazio tempo e kiediamo ke un evento mostri l&#8217;innecessarietà di questo scomodo, ma non drammatico anke fosse, intervento.
+- curviamo lo spazio tempo e kiediamo ke un evento mostri l'innecessarietà di questo scomodo, ma non drammatico anke fosse, intervento.
   
-&#8211; ke il 4 Maggio lo possa passare con noi
+- ke il 4 Maggio lo possa passare con noi
   
-&#8211; ke non risultino altri focolari in altri organi
+- ke non risultino altri focolari in altri organi
   
-&#8211; ke se la passi bene, nel migliore dei modi e ke questa esperienza semmai sarà il suo gran trampolino x saltare.
+- ke se la passi bene, nel migliore dei modi e ke questa esperienza semmai sarà il suo gran trampolino x saltare.
 
 ![ruggero_1.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/ruggero_1.jpg)
   

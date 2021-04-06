@@ -2,7 +2,7 @@
 author: Stefano Cecere
 categories:
 - JJ
-date: "2015-01-31T06:12:43Z"
+date: 2015-01-31T06:12:43Z
 guid: http://stefanocecere.com/?p=5676
 id: 5676
 tags:
@@ -12,15 +12,15 @@ title: non devi aiutare chi ti aiuta
 slug: /2015/01/31/non-devi-aiutare-chi-ti-aiuta/
 ---
 
-&#8220;papà, dopo mi aiuti con quel livello del gioco?&#8221;
+"papà, dopo mi aiuti con quel livello del gioco?"
   
-&#8220;si, fabio, ma io ho una regola: aiuto solo chi aiuta qualcun&#8217;altro&#8221;
+"si, fabio, ma io ho una regola: aiuto solo chi aiuta qualcun'altro"
   
-&#8220;allora ti aiuto a fare qualcosa!&#8221;
+"allora ti aiuto a fare qualcosa!"
   
-&#8220;no, non devi aiutare chi ti aiuta, ma qualcun&#8217;altro&#8221;
+"no, non devi aiutare chi ti aiuta, ma qualcun'altro"
   
-&#8220;allora aiuto la mamma a sparecchiare.. vado subito!&#8221;
+"allora aiuto la mamma a sparecchiare.. vado subito!"
 
 <div class="text_exposed_show">
   <p>

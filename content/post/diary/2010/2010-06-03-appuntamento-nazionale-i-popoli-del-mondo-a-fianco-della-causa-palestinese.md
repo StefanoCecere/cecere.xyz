@@ -1,12 +1,7 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2010-06-03T15:15:28Z"
+categories: [blog]
+date: 2010-06-03T15:15:28Z
 guid: http://stefanocecere.com/?p=2191
 id: 2191
 tags:
@@ -29,7 +24,7 @@ slug: /2010/06/03/appuntamento-nazionale-i-popoli-del-mondo-a-fianco-della-causa
     GIORNATA DI MOBILITAZIONE NAZIONALE</p> 
     
     <p>
-      MANIFESTAZIONE A MILANO<br /> PIAZZA SAN BABILA &#8211; ORE 17,30
+      MANIFESTAZIONE A MILANO<br /> PIAZZA SAN BABILA - ORE 17,30
     </p>
   </div>
   
@@ -39,7 +34,7 @@ slug: /2010/06/03/appuntamento-nazionale-i-popoli-del-mondo-a-fianco-della-causa
         GUAI AI VINTI O GUAI AI TAGLIAGOLE ISRAELIANI?<br /> I POPOLI DEL MONDO A FIANCO DELLA CAUSA PALESTINESE</p> 
         
         <p>
-          Invitiamo tutte e tutti a partecipare alle manifestazioni di domani venerdì 4 giugno, in primo luogo quella nazionale a <strong>Roma</strong>. Contro il recente crimine israeliano e per la pace in Palestina e la fine del vergognoso e disumano embargo di Gaza, a fianco della Freedom Flotilla. Qui sotto l&#8217;appuntamento di <strong>Milano</strong>.<br /> Inoltre vi facciamo avere la dichiarazione del Presidente<strong> Hugo Chavez</strong>, pervenutaci dal Consolato Generale del Venezuela di Milano e, in allegato, l&#8217;appello diramato dalla rete mondiale di intellettuali e artisti In difesa dell&#8217;Umanità, della quale l&#8217;Associazione Culturale Punto Rosso fa parte.<br /> A oggi hanno già firmato l&#8217;appello migliaia di intellettuali e artisti da tutto il mondo (a cominciare da Eduardo Galeano, Adolfo Perez Esquivel, Ignacio Ramonet, Samir Amin, François Houtart, Enrique Dussel ecc.).
+          Invitiamo tutte e tutti a partecipare alle manifestazioni di domani venerdì 4 giugno, in primo luogo quella nazionale a <strong>Roma</strong>. Contro il recente crimine israeliano e per la pace in Palestina e la fine del vergognoso e disumano embargo di Gaza, a fianco della Freedom Flotilla. Qui sotto l'appuntamento di <strong>Milano</strong>.<br /> Inoltre vi facciamo avere la dichiarazione del Presidente<strong> Hugo Chavez</strong>, pervenutaci dal Consolato Generale del Venezuela di Milano e, in allegato, l'appello diramato dalla rete mondiale di intellettuali e artisti In difesa dell'Umanità, della quale l'Associazione Culturale Punto Rosso fa parte.<br /> A oggi hanno già firmato l'appello migliaia di intellettuali e artisti da tutto il mondo (a cominciare da Eduardo Galeano, Adolfo Perez Esquivel, Ignacio Ramonet, Samir Amin, François Houtart, Enrique Dussel ecc.).
         </p>
         
         <p>
@@ -47,11 +42,11 @@ slug: /2010/06/03/appuntamento-nazionale-i-popoli-del-mondo-a-fianco-della-causa
         </p>
         
         <p>
-          All&#8217;alba del 31 maggio la Marina militare israeliana ha attaccato in acque internazionali le navi della Freedom Flotilla che, con 10.000 tonnellate di aiuti umanitari e circa 700 attivisti internazionali a bordo, si dirigevano verso le coste di Gaza. L&#8217;assalto ha provocato una strage tra gli internazionali, decine di feriti e il sequestro degli attivisti; a diverse ore dall&#8217;attacco non si hanno ancora notizie sulle loro condizioni, se non che sono ancora rinchiusi nelle prigioni israeliane del deserto del Neghev.<br /> Con l&#8217;arrembaggio delle navi della Freedom Flotilla, cariche di civili, armati unicamente della loro solidarietà alla popolazione palestinese di Gaza da tre anni sotto embargo, Israele ha compiuto un vero e proprio atto di pirateria e di palese violazione del diritto internazionale. Come durante l&#8217;operazione Piombo Fuso, che a cavallo tra il 2008 e il 2009 ha provocato l&#8217;uccisione di oltre 1.400 palestinesi di Gaza e il ferimento di oltre 5.000, lo Stato di Israele continua a ritenersi sollevato da ogni regola del diritto internazionale, fino a compiere atti di terrorismo di Stato come quello che ha violentemente bloccato le imbarcazioni della Freedom Flotilla.<br /> Nel nostro paese, come in tutto il mondo, tante manifestazioni hanno espresso una determinata protesta contro l&#8217;arroganza e la violenza militare israeliana e contro l&#8217;atteggiamento di una comunità internazionale che continua a rendersi complice garantendo l&#8217;impunità ai crimini di un paese ancora una volta immune da atti concreti di condanna delle sue politiche. Continueremo a scendere in piazza e invitiamo alla mobilitazione in tutte le città italiane finché tutti gli attivisti internazionali sequestrati da Israele non saranno liberati.
+          All'alba del 31 maggio la Marina militare israeliana ha attaccato in acque internazionali le navi della Freedom Flotilla che, con 10.000 tonnellate di aiuti umanitari e circa 700 attivisti internazionali a bordo, si dirigevano verso le coste di Gaza. L'assalto ha provocato una strage tra gli internazionali, decine di feriti e il sequestro degli attivisti; a diverse ore dall'attacco non si hanno ancora notizie sulle loro condizioni, se non che sono ancora rinchiusi nelle prigioni israeliane del deserto del Neghev.<br /> Con l'arrembaggio delle navi della Freedom Flotilla, cariche di civili, armati unicamente della loro solidarietà alla popolazione palestinese di Gaza da tre anni sotto embargo, Israele ha compiuto un vero e proprio atto di pirateria e di palese violazione del diritto internazionale. Come durante l'operazione Piombo Fuso, che a cavallo tra il 2008 e il 2009 ha provocato l'uccisione di oltre 1.400 palestinesi di Gaza e il ferimento di oltre 5.000, lo Stato di Israele continua a ritenersi sollevato da ogni regola del diritto internazionale, fino a compiere atti di terrorismo di Stato come quello che ha violentemente bloccato le imbarcazioni della Freedom Flotilla.<br /> Nel nostro paese, come in tutto il mondo, tante manifestazioni hanno espresso una determinata protesta contro l'arroganza e la violenza militare israeliana e contro l'atteggiamento di una comunità internazionale che continua a rendersi complice garantendo l'impunità ai crimini di un paese ancora una volta immune da atti concreti di condanna delle sue politiche. Continueremo a scendere in piazza e invitiamo alla mobilitazione in tutte le città italiane finché tutti gli attivisti internazionali sequestrati da Israele non saranno liberati.
         </p>
         
         <p>
-          Israele non può rimanere impunita<br /> Basta con il blocco di Gaza<br /> Basta con l&#8217;occupazione
+          Israele non può rimanere impunita<br /> Basta con il blocco di Gaza<br /> Basta con l'occupazione
         </p>
         
         <p>
@@ -59,7 +54,7 @@ slug: /2010/06/03/appuntamento-nazionale-i-popoli-del-mondo-a-fianco-della-causa
         </p>
         
         <p>
-          &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;
+          &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-
         </p>
         
         <p>

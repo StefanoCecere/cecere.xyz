@@ -1,7 +1,7 @@
 ---
 title: da Lecce a Teramo.. pellegrinaggio in Occidente ^_^
 slug: 2002/07/da-lecce-a-teramo-pellegrinaggio-in-occidente
-categories: [diary]
+categories: [blog]
 date: 2002-07-29T17:06:35Z
 id: 828
 tags: []

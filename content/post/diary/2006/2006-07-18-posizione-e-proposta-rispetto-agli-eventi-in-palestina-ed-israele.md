@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2006-07-18T12:19:52Z"
+date: 2006-07-18T12:19:52Z
 guid: http://stefanocecere.com/2006/07/18/posizione-e-proposta-rispetto-agli-eventi-in-palestina-ed-israele/
 id: 369
-related_posts:
-- null
 tags:
 - umanista
 - violenza

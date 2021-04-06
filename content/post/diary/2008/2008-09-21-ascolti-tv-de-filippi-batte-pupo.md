@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-09-21T12:24:25Z"
+categories: [blog]
+date: 2008-09-21T12:24:25Z
 guid: http://stefanocecere.com/?p=1182
 id: 1182
 tags:
@@ -15,4 +14,4 @@ slug: /2008/09/21/ascolti-tv-de-filippi-batte-pupo/
 
 <http://www.ansa.it/site/notizie/awnplus/spettacolo/news/2008-09-21_121251561.html>
 
-il no comment è d&#8217;obbligo 😉
+il no comment è d'obbligo 😉

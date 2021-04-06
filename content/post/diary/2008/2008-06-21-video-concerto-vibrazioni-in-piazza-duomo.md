@@ -1,14 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Eventi
-- Tempi moderni
-date: "2008-06-21T21:37:04Z"
+categories: [blog]
+date: 2008-06-21T21:37:04Z
 guid: http://stefanocecere.com/2008/06/21/video-concerto-vibrazioni-in-piazza-duomo/
 id: 1056
-related_posts:
-- null
 tags:
 - arte
 - concerto
@@ -25,7 +20,7 @@ title: Video concerto Vibrazioni in Piazza Duomo
 slug: /2008/06/21/video-concerto-vibrazioni-in-piazza-duomo/
 ---
 
-ecco un estratto del concerto dell 11 giugno 2008 in Piazza Duomo a Milano, dove Francesco ha &#8220;lanciato&#8221; la campagna Europe for Peace per il NO allo Scudo Spaziale, e anche un bel po&#8217; di opuscoli fatti apposta ([leggilo qui](http://stefanocecere.com/2008/06/04/europe-4-peace-francesco-sarcina/)):
+ecco un estratto del concerto dell 11 giugno 2008 in Piazza Duomo a Milano, dove Francesco ha "lanciato" la campagna Europe for Peace per il NO allo Scudo Spaziale, e anche un bel po' di opuscoli fatti apposta ([leggilo qui](http://stefanocecere.com/2008/06/04/europe-4-peace-francesco-sarcina/)):
 
 e qui il bellissimo intervento di Francesco:
 

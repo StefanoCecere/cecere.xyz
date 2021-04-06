@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2008-04-14T18:06:29Z"
+date: 2008-04-14T18:06:29Z
 guid: http://stefanocecere.com/2008/04/14/no-non-e-un-incubo/
 id: 868
-related_posts:
-- null
 tags:
 - elezioni
 - Politica
@@ -15,13 +13,13 @@ title: No, non è un incubo
 slug: /2008/04/14/no-non-e-un-incubo/
 ---
 
-spero solo che da domani nasca forte l&#8217;esigenza comune di un ambio politico serio e concentrato nel porre la non-violenza e l&#8217;essere umano come valori centrali.
+spero solo che da domani nasca forte l'esigenza comune di un ambio politico serio e concentrato nel porre la non-violenza e l'essere umano come valori centrali.
 
 mi riferisco specialmente agli (ex?) militanti di sinistra (??) e delle varie liste civiche più o meno nazionali.
 
 (dato che non credo che (nonostante tutto il bene che voglio ad alcuni militanti PD che conosco) il PD possa mai uscire dalla direzione neo-liberale e catto-nato )
 
-certo, l&#8217;Italia è in piena crisi e la destrutturazione è in crescita, la TV dilaga etc.. ma non posso ancora credere che così tanta gente voti rappresentanti indecenti!
+certo, l'Italia è in piena crisi e la destrutturazione è in crescita, la TV dilaga etc.. ma non posso ancora credere che così tanta gente voti rappresentanti indecenti!
 
 ho seguito alcuni commenti sul canale tv del Corriere della Sera e , oltre al fatto che hanno censurato un mio emplice commento al blog, sono stati altrettanto ignobili!
 

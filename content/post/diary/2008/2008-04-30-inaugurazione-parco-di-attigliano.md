@@ -3,11 +3,9 @@ author: Stefano Cecere
 categories:
 - Futuro
 - Tempi moderni
-date: "2008-04-30T10:27:18Z"
+date: 2008-04-30T10:27:18Z
 guid: http://stefanocecere.com/2008/04/30/inaugurazione-parco-di-attigliano/
 id: 898
-related_posts:
-- null
 tags:
 - Parco Attigliano
 - Silo
@@ -22,9 +20,9 @@ slug: /2008/04/30/inaugurazione-parco-di-attigliano/
 
 buongiorno.
   
-forse penserai che il momento attuale abbia diverse emergenze imbarazzanti (l&#8217;improvvisa fame nel mondo, l&#8217;esplosione di nuove tensioni armate, le destre al potere, la crisi finanziaria mondiale e l&#8217;imminente recessione, l&#8217;informazione disgustosa, il clima tragicomico, il nonsenso generalizzato etc etc)
+forse penserai che il momento attuale abbia diverse emergenze imbarazzanti (l'improvvisa fame nel mondo, l'esplosione di nuove tensioni armate, le destre al potere, la crisi finanziaria mondiale e l'imminente recessione, l'informazione disgustosa, il clima tragicomico, il nonsenso generalizzato etc etc)
 
-ma cercare di risolvere tutto ciò in questo momento è impossibile, nel momento in cui **NULLA SI PUO&#8217; FARE**, tantomeno pensare, **SENZA UNA SOLIDA BASE E VALIDI PUNTI DI RIFERIMENTO**.
+ma cercare di risolvere tutto ciò in questo momento è impossibile, nel momento in cui **NULLA SI PUO' FARE**, tantomeno pensare, **SENZA UNA SOLIDA BASE E VALIDI PUNTI DI RIFERIMENTO**.
 
 ed è per questo che ti propongo due cose ENORMI:
 
@@ -47,7 +45,7 @@ un luogo aperto a tutti coloro che desiderano meditare in profondità, incontrar
 
 **STRUTTURA DEL PARCO**
   
-il Parco che comprende una **sala** (rigorosamente vuota e sferica, nella quale l&#8217;unica cosa importante è colui che vi entra e la sua energia), un **edificio multiuso** (per conferenze, seminari, eventi), una sorgente di acqua pura, un monolito e una stele per segnare il dove il quando e chi ha dato il via a tutto questo.
+il Parco che comprende una **sala** (rigorosamente vuota e sferica, nella quale l'unica cosa importante è colui che vi entra e la sua energia), un **edificio multiuso** (per conferenze, seminari, eventi), una sorgente di acqua pura, un monolito e una stele per segnare il dove il quando e chi ha dato il via a tutto questo.
 
 se sei curioso e vuoi **approfondire la simbologia** e il significato morfologico del Parco, <a href="http://stefanocecere.com/fileadmin/cosa_rappresentano_le_Sale_e_Parchi.ppt" target="_blank">ecco un file Powerpoint.</a>
 
@@ -67,7 +65,7 @@ Ore 11.00: Firma dell’edizione italiana del libro di Tomas Hirsch “La fine d
   
 Ore 16.00: Incontro con i portavoce del Movimento Umanista europeo Giorgio Shultze e latinoamericano Tomas Hirsch (Anfiteatro del centro storico di Attigliano).
   
-Ore 19.00: Presentazione dell’edizione italiana del libro “Il Messaggio di Silo” (Sala Partecipazione del Comune di Attigliano &#8211; piazza centrale). 
+Ore 19.00: Presentazione dell’edizione italiana del libro “Il Messaggio di Silo” (Sala Partecipazione del Comune di Attigliano - piazza centrale). 
 
 **4 Maggio 2008**
 
@@ -87,26 +85,26 @@ Ore 19.00: Chiusura del Parco.
 
 **LO IMMAGINI?**
   
-se vuoi vedere un po&#8217; di foto della costruzione e di alcuni eventi preliminari ([su Flickr](http://www.flickr.com/photos/krur/sets/72157603591791873/)):
+se vuoi vedere un po' di foto della costruzione e di alcuni eventi preliminari ([su Flickr](http://www.flickr.com/photos/krur/sets/72157603591791873/)):
 
 <a href="http://www.flickr.com/photos/krur/sets/72157603591791873/" target="_blank"><img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/parco_attigliano_collage.jpg' alt='parco_attigliano_collage.jpg' /></a>
 
 **COME ARRIVARCI?**
   
-è semplice: autostrada uscita &#8220;Attigliano-Bomarzo&#8221;, oppure treno regionale da Firenze o Roma, fermata &#8220;Attigliano&#8221;.
+è semplice: autostrada uscita "Attigliano-Bomarzo", oppure treno regionale da Firenze o Roma, fermata "Attigliano".
   
 da Milano, Torino, Roma, Napoli partono diversi bus e macchine
 
 **DOVE ALLOGGIARE?**
   
-se non vieni in giornata, ci sono dozzine di soluzioni&#8230; [guarda qui](http://www.parcoattigliano.it/index.php?id=137) per i dettagli.
+se non vieni in giornata, ci sono dozzine di soluzioni… [guarda qui](http://www.parcoattigliano.it/index.php?id=137) per i dettagli.
 
 contattami per maggiori informazioni o organizzare il viaggio.
 
 **SOSTEGNO 5 PER MILLE**
   
-Infine: se non vuoi dare il tuo 5 per mille delle tasse allo stato o alla chiesa, prendi seriamene in considerazione di darlo al supporto della costruzione di questo parco: abbiamo creato una ONLUS, la Pangea per una Nazione Umana Universale &#8211; Codice Fiscale 97421930153 &#8211; [www.pangeaitalia.net](http://www.pangeaitalia.net)
+Infine: se non vuoi dare il tuo 5 per mille delle tasse allo stato o alla chiesa, prendi seriamene in considerazione di darlo al supporto della costruzione di questo parco: abbiamo creato una ONLUS, la Pangea per una Nazione Umana Universale - Codice Fiscale 97421930153 - [www.pangeaitalia.net](http://www.pangeaitalia.net)
 
 ![5xmille_pangea4.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/5xmille_pangea41.jpg)
 
-_&#8220;non immaginare di essere solo nel tuo villaggio, nella tua città, sulla Terra e negli infiniti mondi&#8221;. Silo, Il Cammino_
+_"non immaginare di essere solo nel tuo villaggio, nella tua città, sulla Terra e negli infiniti mondi". Silo, Il Cammino_

@@ -1,13 +1,9 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Mondo Senza Guerre
 - Tempi moderni
-date: "2011-03-14T22:43:30Z"
+date: 2011-03-14T22:43:30Z
 guid: http://stefanocecere.com/?p=2403
 id: 2403
 tags:

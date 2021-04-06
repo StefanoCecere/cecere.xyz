@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-01-31T03:08:37Z"
+categories: [blog]
+date: 2008-01-31T03:08:37Z
 guid: http://stefanocecere.com/2008/01/31/nuova-arma-segreta-dellesercito-iraniano-terrorizza-i-fattori/
 id: 669
-related_posts:
-- null
 tags:
 - guerra
 - Iran

@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Economia
-date: "2012-02-05T21:53:19Z"
+date: 2012-02-05T21:53:19Z
 guid: http://stefanocecere.com/?p=2849
 id: 2849
 tags:

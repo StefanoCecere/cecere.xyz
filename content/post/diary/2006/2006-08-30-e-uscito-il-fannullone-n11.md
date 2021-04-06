@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-08-30T23:49:02Z"
+categories: [blog]
+date: 2006-08-30T23:49:02Z
 guid: http://stefanocecere.com/2006/08/30/e-uscito-il-fannullone-n11/
 id: 410
-related_posts:
-- null
 tags:
 - arte
 - Il Fannullone
@@ -26,12 +22,12 @@ GODITELO!
 
 in questo numero:
 
-  * speciale Cerchio della Pace
-  * Forum Umanista Europeo
-  * Fitness trimetalogico (ginnastica, danza e sesso)
-  * Fisica quantistica e il Fannullone
-  * La realtà e l&#8217;apparenza
-  * Fotofumetto campeggio umanista 2006
-  * ..e tanto ma tanto di +
+- speciale Cerchio della Pace
+- Forum Umanista Europeo
+- Fitness trimetalogico (ginnastica, danza e sesso)
+- Fisica quantistica e il Fannullone
+- La realtà e l'apparenza
+- Fotofumetto campeggio umanista 2006
+- ..e tanto ma tanto di +
 
 tutto su <a target="_blank" href="http://www.ilfannullone.it">www.ilfannullone.it</a>

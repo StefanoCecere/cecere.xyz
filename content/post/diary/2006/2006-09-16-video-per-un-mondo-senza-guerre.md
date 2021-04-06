@@ -1,14 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Futuro
-- Tempi moderni
-date: "2006-09-16T02:37:56Z"
+categories: [blog]
+date: 2006-09-16T02:37:56Z
 guid: http://stefanocecere.com/2006/09/16/video-per-un-mondo-senza-guerre/
 id: 418
-related_posts:
-- null
 tags:
 - arte
 - documentario
@@ -17,7 +12,7 @@ tags:
 - umanista
 - video
 - violenza
-title: Video per un Mondo Senza Guerre&#8230;
+title: Video per un Mondo Senza Guerre…
 slug: /2006/09/16/video-per-un-mondo-senza-guerre/
 ---
 

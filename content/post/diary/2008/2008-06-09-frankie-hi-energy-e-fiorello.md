@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-06-09T12:02:28Z"
+categories: [blog]
+date: 2008-06-09T12:02:28Z
 guid: http://stefanocecere.com/2008/06/09/frankie-hi-energy-e-fiorello/
 id: 1014
-related_posts:
-- null
 tags:
 - disarmo nucleare
 - scudo spaziale

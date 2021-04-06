@@ -1,13 +1,9 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Economia
 - Tempi moderni
-date: "2011-10-23T16:15:56Z"
+date: 2011-10-23T16:15:56Z
 guid: http://stefanocecere.com/2011/10/23/nonna-ti-spiego-la-crisi-economica-4/
 id: 2717
 tags:
@@ -20,7 +16,7 @@ title: Nonna, ti spiego la crisi economica. 4
 slug: /2011/10/23/nonna-ti-spiego-la-crisi-economica-4/
 ---
 
-__(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del tutto digiune di economia, scritto da Paolo Barnard &#8211; leggi [introduzione e sommario qui](http://stefanocecere.com/2011/10/24/vi-spiego-la-crisi-economica/ "Vi spiego la crisi economica"))_
+__(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del tutto digiune di economia, scritto da Paolo Barnard - leggi [introduzione e sommario qui](http://stefanocecere.com/2011/10/24/vi-spiego-la-crisi-economica/ "Vi spiego la crisi economica"))_
   
 _ 
 
@@ -54,7 +50,7 @@ _
 
 **Nonna:** Spendere?
 
-**P.** Nonna genio! Esatto! **No spesa a debito dello Stato**, no Gallina dalle Uova d’Oro per noi. Ok. Poi le elite ripescarono questa idea: _se si pagano troppi stipendi, cioè se si eliminano tutti i disoccupati, allora arriva l’inflazione, cioè ci saranno troppi soldi in giro e il prezzo delle merci salirà troppo e sempre di più._ Questa la pensò un economista americano degli anni ’60, Milton Friedman. Ma cosa significa in pratica? Che per carità!!&#8230; lo Stato NON spenda per creare la piena occupazione, se no le sigarette domani costeranno 1 milione al pacchetto, la carne 2 milioni al chilo. Ma nonna, era una fesseria, che nascondeva sempre la solita storia: lo Stato non spenda. Cioè: la Gallina dalle Uova d’Oro dei cittadini, che poteva dare lavoro a tutti, non doveva cantare. Anzi, doveva morire. Ma ti rendi conto che hanno tenuto milioni di italiani senza lavoro, costretti a emigrare per mangiare, e tutto per una bugia?
+**P.** Nonna genio! Esatto! **No spesa a debito dello Stato**, no Gallina dalle Uova d’Oro per noi. Ok. Poi le elite ripescarono questa idea: _se si pagano troppi stipendi, cioè se si eliminano tutti i disoccupati, allora arriva l’inflazione, cioè ci saranno troppi soldi in giro e il prezzo delle merci salirà troppo e sempre di più._ Questa la pensò un economista americano degli anni ’60, Milton Friedman. Ma cosa significa in pratica? Che per carità!!… lo Stato NON spenda per creare la piena occupazione, se no le sigarette domani costeranno 1 milione al pacchetto, la carne 2 milioni al chilo. Ma nonna, era una fesseria, che nascondeva sempre la solita storia: lo Stato non spenda. Cioè: la Gallina dalle Uova d’Oro dei cittadini, che poteva dare lavoro a tutti, non doveva cantare. Anzi, doveva morire. Ma ti rendi conto che hanno tenuto milioni di italiani senza lavoro, costretti a emigrare per mangiare, e tutto per una bugia?
 
 **Nonna:** Che schifo. Il fratello di zia Laura, che era di Avellino, è morto in Belgio coi gas della miniera. Non vide mai i suoi due gemellini.
 
@@ -72,4 +68,4 @@ _
 
 **P.** Concludo. Hai visto quelle idee, che furono ripescate. Col sistema che ti ho descritto nell’esempio delle tonsille, quelle idee furono spinte dalle elite a suon di miliardi e di professoroni indottrinati, che poi indottrinavano fior di studenti, che poi andavano a fare i politici o i funzionari, che poi andavano sui giornali e in televisione, e alla fine quelle idee convinsero tutti e divennero politica nazionale, sia in Italia che in tutti gli altri Paesi che contano. Cioè, nonna, **divenne vergogna nazionale che gli Stati spendessero a debito, quando sappiamo che è invece l’unico modo per noi cittadini di avere più benessere e una democrazia compiuta**. Noi sappiamo, nonna, che se lo Stato non spende a debito la propria moneta, noi cittadini non potremo mai avere la piena occupazione, le case per tutti, l’istruzione piena e la Sanità piena per tutti, pensioni decenti per tutti, e le aziende stesse non faranno mai profitti a sufficienza. Rimarremo gente insicura e in affanno, e sempre più povera, e la democrazia sempre meno vera. Mentre le elite si intascano già ora tutto quello che a noi non viene. Adesso basta, ma da qui in poi ne sentirai delle belle. Baci.
 
-([Continua&#8230;](http://stefanocecere.com/2011/10/24/nonna-ti-spiego-la-crisi-economica-5/ "Nonna, ti spiego la crisi economica. 5"))
+([Continua…](http://stefanocecere.com/2011/10/24/nonna-ti-spiego-la-crisi-economica-5/ "Nonna, ti spiego la crisi economica. 5"))

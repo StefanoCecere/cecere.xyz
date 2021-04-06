@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-10-13T15:02:19Z"
+categories: [blog]
+date: 2008-10-13T15:02:19Z
 guid: http://stefanocecere.com/?p=1399
 id: 1399
 tags:
@@ -15,7 +14,7 @@ title: Newsletter Forum n.3
 slug: /2008/10/13/newsletter-forum-n3/
 ---
 
-ecco la terza Newsletter, con info sulla partecipazione dell&#8217;ambasciatore boliviano (che porta i saluti di Evo Morales) e altri dettagli sul forum che inizierà fra qualche giorno a Milano&#8230;
+ecco la terza Newsletter, con info sulla partecipazione dell'ambasciatore boliviano (che porta i saluti di Evo Morales) e altri dettagli sul forum che inizierà fra qualche giorno a Milano…
 
 [clicca](http://www.humanisteurope.org/europeanhumanistforum/download/Italiano/Newsletter/newsletter3_ita.pdf) per scaricare il PDF
 

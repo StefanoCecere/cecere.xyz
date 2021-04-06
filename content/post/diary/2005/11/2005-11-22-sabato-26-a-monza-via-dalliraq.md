@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2005-11-22T11:11:38Z"
+categories: [blog]
+date: 2005-11-22T11:11:38Z
 guid: http://stefanocecere.com/2005/11/22/sabato-26-a-monza-via-dalliraq/
 id: 154
-related_posts:
-- null
 tags:
 - Events
 - Iraq
@@ -38,11 +34,11 @@ faremo vedere [il video di Fallujia (GUARDALO QUI)](http://stefanocecere.com/200
 
 ](http://stefanocecere.com/2005/11/13/via-dalliraq-le-foto/) 
 
-riporto, per rimanere in tema, il discorso fatto dall&#8217;umanista Marina Larena, in occasione della fiaccolata a Roma di due settimane fa:
+riporto, per rimanere in tema, il discorso fatto dall'umanista Marina Larena, in occasione della fiaccolata a Roma di due settimane fa:
 
-_&#8220;Le immagini strazianti di Falluja hanno mostrato finalmente la vera faccia di questa guerra, una guerra ingiusta, fatta per sporchi guadagni, una guerra dove tanta gente innocente ha perso la vita, dove la dignità umana è stata calpestata.</p> 
+_"Le immagini strazianti di Falluja hanno mostrato finalmente la vera faccia di questa guerra, una guerra ingiusta, fatta per sporchi guadagni, una guerra dove tanta gente innocente ha perso la vita, dove la dignità umana è stata calpestata.</p> 
 
-È doloroso constatare come certe azioni dimostrino che la preistoria non è qualcosa che fa parte del passato. Hanno chiamato un vero e proprio atto di violenza &#8220;guerra umanitaria&#8221;, &#8220;guerra per esportare la democrazia&#8221;. Non basta uccidere innocenti, questi signori della morte hanno bisogno di mentire, di mascherarsi……vi dico però che noi non abbiamo mai creduto alle vostre bugie e le vostre maschere ci appaiono ridicole.
+È doloroso constatare come certe azioni dimostrino che la preistoria non è qualcosa che fa parte del passato. Hanno chiamato un vero e proprio atto di violenza "guerra umanitaria", "guerra per esportare la democrazia". Non basta uccidere innocenti, questi signori della morte hanno bisogno di mentire, di mascherarsi……vi dico però che noi non abbiamo mai creduto alle vostre bugie e le vostre maschere ci appaiono ridicole.
 
 Avete ucciso, ingannato, depredato risorse umane e materiali, continuato ad impoverire il mondo. Persi nei vostri freddi calcoli ritenete più importante un dollaro che un essere umano. Siete freddi, spietati, incolleriti, siete veramente un pessimo esempio.
 
@@ -64,4 +60,4 @@ Le parole sono terminate però resta indelebile la nostra forza e il nostro impe
 
 Pace, forza e allegria!</i>
 
-Marina Larena &#8211; Segretario Generale del Partito Umanista&#8221;
+Marina Larena - Segretario Generale del Partito Umanista"

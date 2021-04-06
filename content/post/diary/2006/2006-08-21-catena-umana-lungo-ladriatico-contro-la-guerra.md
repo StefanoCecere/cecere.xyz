@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2006-08-21T18:16:37Z"
+date: 2006-08-21T18:16:37Z
 guid: http://stefanocecere.com/2006/08/21/catena-umana-lungo-ladriatico-contro-la-guerra/
 id: 391
-related_posts:
-- null
 tags:
 - campeggio
 - Events
@@ -18,7 +16,7 @@ slug: /2006/08/21/catena-umana-lungo-ladriatico-contro-la-guerra/
 
 <img align="left" title="Catena Umana per la pace" id="image390" alt="Catena Umana per la pace" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/catena_di_pace.jpg" />Torno oggi dopo una bella vacanza!
   
-Ho così tanto da raccontare e mostrare che mi sono preparato uno schemino per i prossimi 10 articoli&#8230;
+Ho così tanto da raccontare e mostrare che mi sono preparato uno schemino per i prossimi 10 articoli…
 
 Da dove cominciare? Beh, direi dalla questione più “urgente”: **il pericolo di una prossima guerra mondiale e il tema del disarmo nucleare globale.**
 
@@ -30,7 +28,7 @@ Non so come è andata altrove, ma noi del Movimento Umanista eravamo (circa un m
   
 Certo non è stato banale organizzare tale cosa.. ma siamo abituati a ben altro 😉**
   
-Puoi vedere in questo primo filmato anche il clima di pace e allegria che c&#8217;era in tutti noi:
+Puoi vedere in questo primo filmato anche il clima di pace e allegria che c'era in tutti noi:
   
 <a target="_blank" title="Video catena umana contro la guerra" href="http://www.arcoiris.tv/modules.php?name=Unique&id=5384">http://www.arcoiris.tv/modules.php?name=Unique&id=5384</a>
 

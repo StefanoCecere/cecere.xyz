@@ -1,15 +1,12 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Futuro
-date: "2005-09-02T13:45:06Z"
+categories: [blog]
+date: 2005-09-02T13:45:06Z
 guid: http://stefanocecere.com/?p=78
 id: 78
-related_posts:
-- null
 tags:
 - umanista
+- Futuro
 title: le formiche e l'utopia
 slug: /2005/09/02/le-formiche-e-l-utopia/
 ---
@@ -22,13 +19,13 @@ per qualcuno utopica.. ma 1) a me le utopie piacciono 2) stanno iniziando a succ
 
 riguardo all’utopia: ecco cose diceva un’amico:
 
-_&#8220;Domanda: Questa terra è in una costante disumanizzazione. Umanizzare la terra non è un&#8217;utopia, qualcosa che può accadere in qualunque luogo tranne qui?
+_"Domanda: Questa terra è in una costante disumanizzazione. Umanizzare la terra non è un'utopia, qualcosa che può accadere in qualunque luogo tranne qui?
   
-Risposta (Silo): E&#8217; vero; credo tuttavia che siano state le grandi utopie (la mia non è grande, è semplicemente un&#8217;utopia e basta) a determinare in buona misura il progresso umano. L&#8217;ambizione di volare, l&#8217;ambizione di raggiungere le stelle, l&#8217;ambizione di risolvere i problemi dell&#8217;essere umano erano utopie, perché nel momento in cui sono state formulate non esistevano le condizioni materiali per attuarle.
+Risposta (Silo): E' vero; credo tuttavia che siano state le grandi utopie (la mia non è grande, è semplicemente un'utopia e basta) a determinare in buona misura il progresso umano. L'ambizione di volare, l'ambizione di raggiungere le stelle, l'ambizione di risolvere i problemi dell'essere umano erano utopie, perché nel momento in cui sono state formulate non esistevano le condizioni materiali per attuarle.
   
 In quel momento erano utopie, però grazie a ciò la gente si è messa in moto.
   
-Umanizzare la terra è un&#8217;utopia, ma credo che contribuisca a migliorare la vita.&#8221; (silo, 1990 &#8211; messico)_
+Umanizzare la terra è un'utopia, ma credo che contribuisca a migliorare la vita." (silo, 1990 - messico)_
 
 e cosa sta succedendo?
   

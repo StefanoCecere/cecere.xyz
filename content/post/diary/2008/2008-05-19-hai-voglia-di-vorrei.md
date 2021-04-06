@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Futuro
-date: "2008-05-19T23:10:50Z"
+date: 2008-05-19T23:10:50Z
 guid: http://stefanocecere.com/2008/05/18/hai-voglia-di-vorrei/
 id: 958
-related_posts:
-- null
 tags:
 - arte
 - giornale

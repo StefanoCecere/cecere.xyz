@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2014-07-12T08:06:06Z"
+date: 2014-07-12T08:06:06Z
 format: status
 guid: http://twitter-487855403284561920-post
 id: 5637
-title: approvo quasi tutta questa lista dei 10 film più “&#8230;
+title: approvo quasi tutta questa lista dei 10 film più “…
 slug: /2014/07/12/approvo-quasi-tutta-questa-lista-dei-10-film-piu/
 ---
 

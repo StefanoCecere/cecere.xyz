@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-05-08T15:05:21Z"
+categories: [blog]
+date: 2008-05-08T15:05:21Z
 guid: http://stefanocecere.com/2008/05/08/ecco-unaltra-felice-rivoluzione-in-arrivo/
 id: 914
-related_posts:
-- null
 tags:
 - Antonella
 - JJ

@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-10-06T18:30:35Z"
+categories: [blog]
+date: 2005-10-06T18:30:35Z
 guid: http://stefanocecere.com/2005/10/06/mircea-eliade-un-maestro/
 id: 100
-related_posts:
-- null
 tags:
 - maestro
 - spirito
@@ -24,4 +21,4 @@ grazie, Mircea.
 
 ps: consiglio, tra le tante sue opere: “storia delle credenze e delle idee religiose” e “Yoga: Immortalità e libertà”
 
-chissà se, avvicinandosi all&#8217;inizio di una nuova era, crescerà la curiosità e l&#8217;interesse per il Profondo che c&#8217;è in ognuno di noi…
+chissà se, avvicinandosi all'inizio di una nuova era, crescerà la curiosità e l'interesse per il Profondo che c'è in ognuno di noi…

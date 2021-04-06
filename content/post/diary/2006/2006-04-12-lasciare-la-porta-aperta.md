@@ -1,40 +1,36 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-04-12T15:03:42Z"
+categories: [blog]
+date: 2006-04-12T15:03:42Z
 guid: http://stefanocecere.com/2006/04/12/lasciare-la-porta-aperta/
 id: 258
-related_posts:
-- null
-title: lasciare la porta aperta&#8230;
+title: lasciare la porta aperta…
 slug: /2006/04/12/lasciare-la-porta-aperta/
 ---
 
 non è facile, ma sento che sia la cosa migliore da fare:
 
-non chiduere mai la porta in faccia alla gente. continuare a dare l&#8217;opportunità di accorgersi che esisto, e quindi entrare.
+non chiduere mai la porta in faccia alla gente. continuare a dare l'opportunità di accorgersi che esisto, e quindi entrare.
 
-c&#8217;è solo un principio che mi dà abbastanza carica per mantenere questo atteggiamento con allegria: &#8220;tratta gli altri come vuoi essere trattato&#8221;.
+c'è solo un principio che mi dà abbastanza carica per mantenere questo atteggiamento con allegria: "tratta gli altri come vuoi essere trattato".
 
-una consapevole lucidità permette comunque di constatare nella gente che sta intorno una crescente sconnessione emotiva, l&#8217;irrazionalità, disinteresse per tutto ciò che sta fuori dalla proria aurea, una &#8220;ubriachezza&#8221; della mente e dello spirito (quasi sempre corroborata da alcolici o droghette affini).
+una consapevole lucidità permette comunque di constatare nella gente che sta intorno una crescente sconnessione emotiva, l'irrazionalità, disinteresse per tutto ciò che sta fuori dalla proria aurea, una "ubriachezza" della mente e dello spirito (quasi sempre corroborata da alcolici o droghette affini).
 
 per questo è importante continuare a lasciare la porta aperta.
   
-perché sono sicuro (e in questo mi colloco con gli Umanisti) che l&#8217;essere umano sceglie.
+perché sono sicuro (e in questo mi colloco con gli Umanisti) che l'essere umano sceglie.
   
-L&#8217;essere umano è intenzionale, e ha costantemente la possibilità di scegliere.. cosa fare della propria vita, ad esempio.
+L'essere umano è intenzionale, e ha costantemente la possibilità di scegliere.. cosa fare della propria vita, ad esempio.
 
 ah cosa penso delle elezioni:
   
-l&#8217;altra notte è stata un&#8217;agonia.. ancora un po&#8217; c&#8217;erano tutti i termini per supporre qualcosa di strano&#8230;
+l'altra notte è stata un'agonia.. ancora un po' c'erano tutti i termini per supporre qualcosa di strano…
   
-cmq sono molto contento che avremo l&#8217;Unione al governo. per un semplice motivo: ora nessuno potrà giustificarsi in nome della &#8220;minaccia Berlusconi&#8221;.
+cmq sono molto contento che avremo l'Unione al governo. per un semplice motivo: ora nessuno potrà giustificarsi in nome della "minaccia Berlusconi".
   
 condivido appieno le posizioni del Partito Umanista a riguardo:
   
-<a href="http://www.partitoumanista.it/index.php?option=com_content&task=view&id=199&Itemid=0" target="_blank">comunicato del Partito Umanista</a> e riportare il discorso dell&#8217;amico Paolo Vecchi (PU di Firenze):
+<a href="http://www.partitoumanista.it/index.php?option=com_content&task=view&id=199&Itemid=0" target="_blank">comunicato del Partito Umanista</a> e riportare il discorso dell'amico Paolo Vecchi (PU di Firenze):
 
 **Sconfitta la destra è necessario costruire un’alternativa veramente di sinistra**
 

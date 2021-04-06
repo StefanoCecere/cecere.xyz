@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-10-14T11:47:16Z"
+date: 2013-10-14T11:47:16Z
 format: status
 guid: http://twitter-389703951157059584-post
 id: 4698
-title: consiglio di seguire @bottegapartigia (cittadini,&#8230;
+title: consiglio di seguire @bottegapartigia (cittadini,…
 slug: /2013/10/14/consiglio-di-seguire-bottegapartigia-cittadini/
 ---
 

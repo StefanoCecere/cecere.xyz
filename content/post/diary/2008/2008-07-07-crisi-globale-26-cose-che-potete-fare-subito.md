@@ -2,7 +2,7 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2008-07-07T09:53:08Z"
+date: 2008-07-07T09:53:08Z
 guid: http://stefanocecere.com/?p=1082
 id: 1082
 tags:
@@ -168,7 +168,7 @@ Mi chiamo Kathy McMahon, (Dott. Psicologia) e sono la fondatrice e contributrice
   
 Abbiamo un piccolo team di scrittori che sono esperti nei loro campi (passati e presenti) e cercano di concentrarsi sul lato personale della loro professione, sia questa la psicoterapia, la pianificazione per casi di emergenza, la finanza, l’energia alternativa o l’allevamento.</em>
 
-_Titolo originale: &#8220;26 things you can do to RIGHT NOW manage your anxiety&#8221;_
+_Titolo originale: "26 things you can do to RIGHT NOW manage your anxiety"_
 
 Fonte: http://www.energybulletin.net
   

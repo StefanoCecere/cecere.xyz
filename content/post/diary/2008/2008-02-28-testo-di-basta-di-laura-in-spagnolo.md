@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-02-28T14:08:49Z"
+categories: [blog]
+date: 2008-02-28T14:08:49Z
 guid: http://stefanocecere.com/2008/02/28/testo-di-basta-di-laura-in-spagnolo/
 id: 704
-related_posts:
-- null
 tags:
 - arte
 - L'Aura
@@ -16,7 +13,7 @@ title: Testo di &quot;Basta!&quot; di L&#039;Aura in spagnolo
 slug: /2008/02/28/testo-di-basta-di-laura-in-spagnolo/
 ---
 
-arrivata fresca fresca dal sud&#8217;america dove sta piacendo molto.. L&#8217;Aura me sa che te tocca a cantà en er spagnolo! 😉
+arrivata fresca fresca dal sud'america dove sta piacendo molto.. L'Aura me sa che te tocca a cantà en er spagnolo! 😉
 
 _¿Sabes qué sucede amiga mía?
   
@@ -38,7 +35,7 @@ La Madre Guerra absolverá pecados
   
 Que ayudará
   
-A decir &#8220;¡basta!&#8221; ?
+A decir "¡basta!" ?
   
 Hay alguien allí que
   
@@ -58,7 +55,7 @@ Y será verdad.
   
 Que ayudará
   
-A decir &#8220;¡basta!&#8221;?
+A decir "¡basta!"?
   
 Hay alguien allí que
   
@@ -94,7 +91,7 @@ Terminarán entre las cenizas?
   
 Que ayudará
   
-A decir &#8220;¡basta!&#8221;?
+A decir "¡basta!"?
   
 ¿Hay alguien allí que
   

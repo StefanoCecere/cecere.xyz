@@ -1,14 +1,10 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Scienza
 - Spirito
 - Tempi moderni
-date: "2011-05-19T03:03:38Z"
+date: 2011-05-19T03:03:38Z
 guid: http://stefanocecere.com/?p=2477
 id: 2477
 tags:
@@ -22,15 +18,15 @@ title: 'La riunione: ovvero siamo degni di portare la vita nell&#039;universo?'
 slug: /2011/05/19/la-riunione-siamo-degni-di-portare-la-vita-universo/
 ---
 
-“Considerando tutta la cosa precedente, ma dall&#8217;angolo della Tradizione, la leggenda è questa: il Creatore fece l&#8217;uomo a sua immagine, ma lo lasciò incompiuto affinché si sviluppasse armonicamente d&#8217;accordo al processo della natura, sulla quale lo aveva collocato per dirigerla.”
+“Considerando tutta la cosa precedente, ma dall'angolo della Tradizione, la leggenda è questa: il Creatore fece l'uomo a sua immagine, ma lo lasciò incompiuto affinché si sviluppasse armonicamente d'accordo al processo della natura, sulla quale lo aveva collocato per dirigerla.”
   
-“D&#8217;altra parte fino a quanto non avesse popolato tutto il pianeta e non avesse formato una rete di comunicazioni tra tutti gli angoli del mondo, non avrebbe potuto manifestare un altro livello di coscienza. Se fosse riuscito che la sua specie come un delicato tessuto coprisse tutta la Terra,  si sarebbe potuto dire che questa specie  aveva raggiunto la sua coscienza e stava in condizioni di espandere la vita verso altri punti del sistema solare.”
+“D'altra parte fino a quanto non avesse popolato tutto il pianeta e non avesse formato una rete di comunicazioni tra tutti gli angoli del mondo, non avrebbe potuto manifestare un altro livello di coscienza. Se fosse riuscito che la sua specie come un delicato tessuto coprisse tutta la Terra,  si sarebbe potuto dire che questa specie  aveva raggiunto la sua coscienza e stava in condizioni di espandere la vita verso altri punti del sistema solare.”
   
-“Come in ogni processo, fin dall&#8217;inizio agirono qui tre forze: la differenziatrice, la complementatrice, e la sintetizzatrice.”
+“Come in ogni processo, fin dall'inizio agirono qui tre forze: la differenziatrice, la complementatrice, e la sintetizzatrice.”
   
 “Trattandosi di una sequenza evolutiva, ogni nuova sintesi si ampliava rispetto a quella precedente e arrivata al suo punto massimo cominciava un nuovo processo di differenziazione fino a consumare la triade, rimpiazzando gli elementi vecchi, che si erano consumati nel suo interno, con i nuovi.”
   
-“Mentre le culture e le civiltà cadevano una dietro l&#8217;altra, gli elementi più sviluppati di un livello creavano le condizioni per la nascita del livello successivo.”
+“Mentre le culture e le civiltà cadevano una dietro l'altra, gli elementi più sviluppati di un livello creavano le condizioni per la nascita del livello successivo.”
   
 “Le culture isolate degli inizi si sono complementate grazie ai contatti che stabilivano tra di loro, per lo scambio economico, per lo sviluppo delle loro comunicazioni, per il confronto delle loro politiche, della loro arte e della loro religione.”
   
@@ -42,35 +38,35 @@ slug: /2011/05/19/la-riunione-siamo-degni-di-portare-la-vita-universo/
   
 “A dire il vero succede che in ogni tappa  i processi nascono, crescono e si riproducono, però gli elementi progressivi passano alla tappa seguente, mentre i regressivi decadono e muoiono.”
   
-“Dunque, quando le culture erano isolate potevano svilupparsi a loro modo senza influirsi maggiormente. Però questo con il tempo è cambiato fino ad arrivare alla tappa attuale nella quale tutte le culture esistenti nel pianeta sono in comunicazione e appartengono alla stessa struttura. Di conseguenza tutto ciò  che succede in un punto si ripercuote in tutto il pianeta e niente di quello che succede può stare isolato dall&#8217;insieme.
+“Dunque, quando le culture erano isolate potevano svilupparsi a loro modo senza influirsi maggiormente. Però questo con il tempo è cambiato fino ad arrivare alla tappa attuale nella quale tutte le culture esistenti nel pianeta sono in comunicazione e appartengono alla stessa struttura. Di conseguenza tutto ciò  che succede in un punto si ripercuote in tutto il pianeta e niente di quello che succede può stare isolato dall'insieme.
   
-“Questo sistema globale al quale si è arrivati (e che tende a interrelazionare i suoi elementi interni ogni volta in modo più stretto) impedisce l&#8217;esistenza di fenomeni indipendenti.
+“Questo sistema globale al quale si è arrivati (e che tende a interrelazionare i suoi elementi interni ogni volta in modo più stretto) impedisce l'esistenza di fenomeni indipendenti.
   
 “Come esempio del sistema in movimento, consideriamo un razzo che si allontana dalla Terra. Se un astronauta esce dal suo interno, continua comunque trasportato dalla forza inerziale del sistema al quale appartiene e la sua libertà di movimento è sempre relativa ad esso.”
   
-“Supponiamo che il navigatore possa muoversi dalla prua alla zona di propulsione a 3 km all&#8217;ora. Ci arriverebbe in meno di tre minuti. Apparentemente allora si sarebbe avvicinato alla Terra. Infatti si sarebbe avvicinato in riferimento alla prua in quel momento, ma in quel minuto di camminata tutto il sistema si troverebbe a cinquecento km in più di distanza da detto pianeta (supponendo che la velocità del razzo fosse di trenta mila chilometri all&#8217;ora).”
+“Supponiamo che il navigatore possa muoversi dalla prua alla zona di propulsione a 3 km all'ora. Ci arriverebbe in meno di tre minuti. Apparentemente allora si sarebbe avvicinato alla Terra. Infatti si sarebbe avvicinato in riferimento alla prua in quel momento, ma in quel minuto di camminata tutto il sistema si troverebbe a cinquecento km in più di distanza da detto pianeta (supponendo che la velocità del razzo fosse di trenta mila chilometri all'ora).”
   
-“Quindi, il sistema mondiale attuale ubica qualsiasi fenomeno in situazione dipendente dall&#8217;insieme. Nel processo storico nel quale ci troviamo immersi, siamo trascinati da esso con la velocità che ci impone. I nostri movimenti sono relativi a tutto il sistema in marcia e in nessun modo indipendenti.”
+“Quindi, il sistema mondiale attuale ubica qualsiasi fenomeno in situazione dipendente dall'insieme. Nel processo storico nel quale ci troviamo immersi, siamo trascinati da esso con la velocità che ci impone. I nostri movimenti sono relativi a tutto il sistema in marcia e in nessun modo indipendenti.”
   
-“Se per l&#8217;evoluzione dell&#8217;uomo furono lanciati in ogni tappa (da un certo circolo che non disconosciamo) esseri eccezionali che riuscirono ad orientare tutto il processo nella direzione che proponevano, è inutile che  i fattori regressivi cerchino di camminare dalla prua alla zona di propulsione.”
+“Se per l'evoluzione dell'uomo furono lanciati in ogni tappa (da un certo circolo che non disconosciamo) esseri eccezionali che riuscirono ad orientare tutto il processo nella direzione che proponevano, è inutile che  i fattori regressivi cerchino di camminare dalla prua alla zona di propulsione.”
   
-Il  momento attuale include tutta la storia precedente dell&#8217;uomo e lo  proietta verso il suo sviluppo nella direzione verso la quale puntava  sin dal suo lancio.”
+Il  momento attuale include tutta la storia precedente dell'uomo e lo  proietta verso il suo sviluppo nella direzione verso la quale puntava  sin dal suo lancio.”
   
-“Viste le cose così, ha senso parlare di un Destino dell&#8217;uomo.”
+“Viste le cose così, ha senso parlare di un Destino dell'uomo.”
   
-“Gli affetti vedeteli, con il gergo biologico se più vi piace, come la preparazione del codice genetico elementare dell&#8217;essere vivo, che si limita a sviluppare nel confronto con l’ambiente  i caratteri “registrati” nel DNA. basico.
+“Gli affetti vedeteli, con il gergo biologico se più vi piace, come la preparazione del codice genetico elementare dell'essere vivo, che si limita a sviluppare nel confronto con l’ambiente  i caratteri “registrati” nel DNA. basico.
   
 “Gli uomini credono di fare la storia, quando di fatto è il loro condizionamento di base quello che li sviluppa nella linea proposta.”
   
-“Certamente in ogni tappa si producono correzioni di rotta che evitano la deviazione, come la lotta con la natura e il riscontro con l’ambiente, che  imprimono nuovi caratteri nell&#8217;essere vivo, modificando la sua esperienza e fornendogli un maggiore maneggio di possibilità&#8230;.Però sempre possibilità relative al sistema nel quale sta incluso.”
+“Certamente in ogni tappa si producono correzioni di rotta che evitano la deviazione, come la lotta con la natura e il riscontro con l’ambiente, che  imprimono nuovi caratteri nell'essere vivo, modificando la sua esperienza e fornendogli un maggiore maneggio di possibilità….Però sempre possibilità relative al sistema nel quale sta incluso.”
   
 “Se in ogni tappa la storia sembra ripetersi, nel processo generale essa è sempre in cambiamento.”
   
-“In momenti opportuni,  quegli esseri prima menzionati provocarono correzioni di rotta e le loro lotte furono sempre quelle del cambiamento e dell&#8217;evoluzione contro l&#8217;inerzia e stupidità.”
+“In momenti opportuni,  quegli esseri prima menzionati provocarono correzioni di rotta e le loro lotte furono sempre quelle del cambiamento e dell'evoluzione contro l'inerzia e stupidità.”
   
-“Quei momenti opportuni sono conosciuti come “messianismo” e poco importa se gli uomini che si fecero carico di tale situazione erano Messia in senso oggettivo, o se rispondevano alla necessità spirituale dell&#8217;epoca.”
+“Quei momenti opportuni sono conosciuti come “messianismo” e poco importa se gli uomini che si fecero carico di tale situazione erano Messia in senso oggettivo, o se rispondevano alla necessità spirituale dell'epoca.”
   
-“Ogni volta che essi sorsero apportarono una nuova rivelazione dell&#8217;Essere, un nuovo stile di vita e un nuovo livello di coscienza, ma lo fecero nel momento in cui si concludeva una grande tappa, fungendo essi da collegamento tra un mondo agonizzante e un altro giovane e luminoso che i migliori spiriti di ogni epoca potevano intuire nell’orizzonte che toccava loro contemplare.”
+“Ogni volta che essi sorsero apportarono una nuova rivelazione dell'Essere, un nuovo stile di vita e un nuovo livello di coscienza, ma lo fecero nel momento in cui si concludeva una grande tappa, fungendo essi da collegamento tra un mondo agonizzante e un altro giovane e luminoso che i migliori spiriti di ogni epoca potevano intuire nell’orizzonte che toccava loro contemplare.”
   
 “E’ sempre bastata una piccola quantità di quegli uomini per provocare nei grandi insiemi shocks adeguati alle circostanze materiali e allo stato psicologico nel quale gli corrispose agire.”
   
@@ -78,7 +74,7 @@ Il  momento attuale include tutta la storia precedente dell&#8217;uomo e lo  p
   
 “Oggi non si può negare che il piombo possa trasmutarsi in oro. E coloro che perseguitarono i nostri alchimisti,  adesso brontolano di fronte ai ciclotroni dei fisici sebbene siano costretti ad ammetterli.”
   
-&#8221; Si sa che l’accelerazione delle particelle produce trasmutazioni; ma per adesso risulta inammissibile per l’opinione generale, che l’uomo possa accelerasi nel suo interno, accelerarsi psicologicamente in modo da provocare  in sé stesso la sua trasmutazione.”
+" Si sa che l’accelerazione delle particelle produce trasmutazioni; ma per adesso risulta inammissibile per l’opinione generale, che l’uomo possa accelerasi nel suo interno, accelerarsi psicologicamente in modo da provocare  in sé stesso la sua trasmutazione.”
   
 “Nella Chimica nessuno ignora che fattori catalizzatori introdotti in piccolissima quantità operino enormi accelerazioni su  grandi insiemi. Allo stesso modo, nelle diverse epoche uomini trasmutati modificarono il codice degli insegnamenti dei grandi insiemi. Nonostante,  passando (tali insegnamenti) da una tappa all’altra, inevitabilmente aumentò, come direbbero i cibernetici, il “rumore dell’informazione”. Cioè si è degradato ciò che fu spiegato all’inizio.”
   

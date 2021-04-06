@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2009-02-26T01:28:28Z"
+categories: [blog]
+date: 2009-02-26T01:28:28Z
 guid: http://stefanocecere.com/?p=1540
 id: 1540
 tags:
@@ -21,11 +20,11 @@ Nel mondo si sta verificando un aumento esponenziale della violenza in tutti i c
 
 Con questa grande mobilitazione mondiale chiediamo:****
 
-  * **Lo smantellamento totale ed immediato di tutti gli arsenali nucleari** 
-  * **Il ritiro delle truppe d’invasione dai territori occupati** 
-  * **La riduzione progressiva degli armamenti e delle spese militari** 
-  * **La rinuncia dei governi a  utilizzare la guerra come mezzo di risoluzione dei conflitti**
-  * **La fine di ogni forma di violenza in tutti i campi della vita sociale**
+- **Lo smantellamento totale ed immediato di tutti gli arsenali nucleari** 
+- **Il ritiro delle truppe d’invasione dai territori occupati** 
+- **La riduzione progressiva degli armamenti e delle spese militari** 
+- **La rinuncia dei governi a  utilizzare la guerra come mezzo di risoluzione dei conflitti**
+- **La fine di ogni forma di violenza in tutti i campi della vita sociale**
 
 ****
 
@@ -57,7 +56,7 @@ Le organizzazioni internazionali **Abolition 2000, Amnesty International** in Me
 
 Organizzazioni italiane come **Emergency, Un ponte per, il Gruppo Abele, Lilliput, Movimento Nonviolento, Rete Semprecontrolaguerra, PeaceLink,** padre **Alex Zanotelli** ed il **Comitato pace, disarmo, smilitarizzazione del territorio Campania, Tavola della Consultazione – Vicenza,** <span></span>**S.O.M.S. Società Operaia di Mutuo Soccorso – Ghilarza,** <span></span>**Rete per la Tutela della Valle del Sacco, Associazione Comboniana Servizio Emigranti e Profughi (A.C.S.E.), Servas-Porte Aperte Italia,**
 
-**Women International Leage for Peace and Freedom – Italia, Students for a Free Tibet – Italia, Per il Bene Comune, Forum Sudpontino per la Pace, RdB CUB Rappresentanze Sindacali di Base – Firenze, CSM Coordinamento Studenti Medi di Firenze, Cantieri di Pace Torino, Di&#8217;Gay Project,  Libera Emilia Romagna, UISP, Peace Games**.
+**Women International Leage for Peace and Freedom – Italia, Students for a Free Tibet – Italia, Per il Bene Comune, Forum Sudpontino per la Pace, RdB CUB Rappresentanze Sindacali di Base – Firenze, CSM Coordinamento Studenti Medi di Firenze, Cantieri di Pace Torino, Di'Gay Project,  Libera Emilia Romagna, UISP, Peace Games**.
 
 Gli artisti italiani **Corrado Guzzanti, Carmen Consoli, Francesca Neri, Ascanio Celestini, Claudia Gerini, Dario Vergassola, Paola Turci, Lella Costa, Ottavia Piccolo, David Riondino, Maria Amelia Monti, Vladimir Luxuria, Paolo Belli, Claudio Bisio, Moni Ovadia, Francesco Sarcina (Le Vibrazioni), Modena City Ramblers**.
 

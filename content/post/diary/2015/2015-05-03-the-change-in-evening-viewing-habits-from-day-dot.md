@@ -2,7 +2,7 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2015-05-03T09:19:23Z"
+date: 2015-05-03T09:19:23Z
 format: image
 guid: http://stefanocecere.com/?p=5794
 id: 5794

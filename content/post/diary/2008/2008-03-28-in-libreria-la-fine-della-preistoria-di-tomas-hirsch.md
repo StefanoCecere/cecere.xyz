@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-03-28T16:59:22Z"
+categories: [blog]
+date: 2008-03-28T16:59:22Z
 guid: http://stefanocecere.com/2008/03/28/in-libreria-la-fine-della-preistoria-di-tomas-hirsch/
 id: 783
-related_posts:
-- null
 tags:
 - libro
 - Terra 2.0
@@ -38,7 +35,7 @@ In questo libro, Tomás Hirsch esamina un pianeta la cui situazione non consente
 
 La sfida dei popoli è prendere atto della direzione presa dalla globalizzazione e dal modello neoliberista, riprendersi il potere che troppo a lungo è stato delegato a “capi” e “leader” che non rappresentavano la base, operando un cambiamento a partire dal basso, dalle comunità locali.
 
-Sin dall’inizio del saggio, Hirsch indaga sulle radici della violenza che permea tutto il sistema sociale. “La violenza fisica, razziale, religiosa, psicologica, sessuale e soprattutto economica, derivata dall’ingiustizia sociale e dalla disuguaglianza di diritti e opportunità, è arrivata fino al presente come un sinistro lascito. È possibile sradicare una volta per tutte la maledizione della violenza dalle società umane?”. Sì, è possibile, nonostante finora i movimenti politici e le minoranze arroccate al potere si siano mossi per sfruttare tale violenza anziché debellarla. Con un occhio di riguardo alla situazione latinoamericana, Hirsch denuncia situazioni di dittatura politica ma soprattutto economica, all’interno delle quali i popoli vengono ridotti in uno stato di schiavitù. Da qui – dal basso, dal micro, dall’individuo &#8211; deve nascere e svilupparsi il cambiamento, la rinascita che porrà al centro l’uomo, i suoi diritti e le sue esigenze primarie e getterà le basi di un nuovo rapporto tra capitale e lavoro, rivalutando l’importanza e la dignità produttiva dei lavoratori.
+Sin dall’inizio del saggio, Hirsch indaga sulle radici della violenza che permea tutto il sistema sociale. “La violenza fisica, razziale, religiosa, psicologica, sessuale e soprattutto economica, derivata dall’ingiustizia sociale e dalla disuguaglianza di diritti e opportunità, è arrivata fino al presente come un sinistro lascito. È possibile sradicare una volta per tutte la maledizione della violenza dalle società umane?”. Sì, è possibile, nonostante finora i movimenti politici e le minoranze arroccate al potere si siano mossi per sfruttare tale violenza anziché debellarla. Con un occhio di riguardo alla situazione latinoamericana, Hirsch denuncia situazioni di dittatura politica ma soprattutto economica, all’interno delle quali i popoli vengono ridotti in uno stato di schiavitù. Da qui – dal basso, dal micro, dall’individuo - deve nascere e svilupparsi il cambiamento, la rinascita che porrà al centro l’uomo, i suoi diritti e le sue esigenze primarie e getterà le basi di un nuovo rapporto tra capitale e lavoro, rivalutando l’importanza e la dignità produttiva dei lavoratori.
 
 L’inversione di rotta non potrà venire dalle destre, ma nemmeno dalle sinistre totalitarie. Quando “Mao lanciò la rivoluzione culturale, disse: ‘Che mille fiori fioriscano’. Lo slogan suonava bene, però poi si affrettarono a precisare che tutti i fiori dovevano essere uguali”. Questo appiattimento annulla l’umanità, che non è fatta di assoluti, ma di sfumature e diversità. Il riscatto dei popoli non è utopico poiché la rivolta alla subordinazione è profondamente insita nell’essere umano. L’uomo anela alla libertà e a imprigionarlo ora non sono soltanto i limiti naturali, verso i quali da sempre si ribella, ma anche i giganteschi ingranaggi bellici e di potere.
 

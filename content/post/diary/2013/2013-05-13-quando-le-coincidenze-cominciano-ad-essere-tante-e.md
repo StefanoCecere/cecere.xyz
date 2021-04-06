@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-05-13T14:43:29Z"
+date: 2013-05-13T14:43:29Z
 format: status
 guid: http://twitter-333940563843899393-post
 id: 4360
-title: quando le coincidenze cominciano ad essere tante e&#8230;
+title: quando le coincidenze cominciano ad essere tante e…
 slug: /2013/05/13/quando-le-coincidenze-cominciano-ad-essere-tante-e/
 ---
 

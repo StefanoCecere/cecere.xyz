@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-10-07T09:12:01Z"
+categories: [blog]
+date: 2008-10-07T09:12:01Z
 guid: http://stefanocecere.com/?p=1352
 id: 1352
 tags:
@@ -24,12 +23,12 @@ slug: /2008/10/07/incontro-la-paura-radice-del-dolore-strumento-di-controllo-di-
 
 <div>
   <p class="MsoNormal">
-    <span>&#8211;</span><span>         <span> </span></span><strong><em><span>10 Ottobre 2008, ore 20:30</span></em></strong><span></span>
+    <span>-</span><span>         <span> </span></span><strong><em><span>10 Ottobre 2008, ore 20:30</span></em></strong><span></span>
   </p>
 </div>
 
 <div>
   <p class="MsoNormal">
-    <span>&#8211;</span><span>         <span> </span></span><strong><em><span>Ingresso gratuito</span></em></strong>
+    <span>-</span><span>         <span> </span></span><strong><em><span>Ingresso gratuito</span></em></strong>
   </p>
 </div>

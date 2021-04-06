@@ -1,14 +1,7 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Politica
-- Tempi moderni
-date: "2011-02-27T11:49:04Z"
+categories: [blog]
+date: 2011-02-27T11:49:04Z
 guid: http://stefanocecere.com/?p=2390
 id: 2390
 tags:
@@ -17,11 +10,11 @@ tags:
 - energia
 - Politica
 - sistema
-title: Un po&#039; sul cosa se pò fare ora&#8230;
+title: Un po&#039; sul cosa se pò fare ora…
 slug: /2011/02/27/un-po-sul-cosa-se-po-fare-ora/
 ---
 
-riporto qui un [articolo](http://www.jacopofo.com/gheddafi-balle-crisi-economica-sistema-burocrazia-ecovillaggi-gruppi-acquisto) (di oggi) di Jacopo Fo, che in parte mi risuona.. sarà perché sto cercando un bel casolare generatore di ecofelicità, sarà perché non mi sono mai aspettato che l&#8217;umanizzazione della terra arriverà mai &#8220;dall&#8217;alto&#8221;, sarà perchè viviamo con punti di vista ormai totalmente distorti.. sarà perché siamo nel baratro e tutto non potrà che cambiare, non c&#8217;è alternativa!
+riporto qui un [articolo](http://www.jacopofo.com/gheddafi-balle-crisi-economica-sistema-burocrazia-ecovillaggi-gruppi-acquisto) (di oggi) di Jacopo Fo, che in parte mi risuona.. sarà perché sto cercando un bel casolare generatore di ecofelicità, sarà perché non mi sono mai aspettato che l'umanizzazione della terra arriverà mai "dall'alto", sarà perchè viviamo con punti di vista ormai totalmente distorti.. sarà perché siamo nel baratro e tutto non potrà che cambiare, non c'è alternativa!
   
 baci
 

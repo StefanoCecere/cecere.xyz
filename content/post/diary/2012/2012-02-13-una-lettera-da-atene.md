@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2012-02-13T16:12:37Z"
+date: 2012-02-13T16:12:37Z
 guid: http://stefanocecere.com/?p=2853
 id: 2853
 tags:
@@ -19,7 +15,7 @@ title: Una lettera da Atene
 slug: /2012/02/13/una-lettera-da-atene/
 ---
 
-_pubblico questa lettera scritta stamani da un&#8217;amica di Atene. interessante leggere anche il commento di Paolo Barnard sul momento greco : [_pubblico questa lettera scritta stamani da un&#8217;amica di Atene. interessante leggere anche il commento di Paolo Barnard sul momento greco :](http://paolobarnard.info/intervento_mostra_go.php?id=328) baci _
+_pubblico questa lettera scritta stamani da un'amica di Atene. interessante leggere anche il commento di Paolo Barnard sul momento greco : [_pubblico questa lettera scritta stamani da un'amica di Atene. interessante leggere anche il commento di Paolo Barnard sul momento greco :](http://paolobarnard.info/intervento_mostra_go.php?id=328) baci _
 
 * * *
 

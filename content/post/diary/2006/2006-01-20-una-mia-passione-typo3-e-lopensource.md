@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2006-01-20T02:54:46Z"
+categories: [blog]
+date: 2006-01-20T02:54:46Z
 guid: http://stefanocecere.com/2006/01/20/una-mia-passione-typo3-e-lopensource/
 id: 213
-related_posts:
-- null
 tags:
 - internet
 - tecnologia
@@ -35,7 +32,7 @@ devo dire che ha proprio il sapore del frutto del genio e della passione.
   
 proprio come piace a noi ☺
   
-centinaia di sviluppatori (spesso giovani e simpatici) collaborano a questo software per gestire i contenuti dinamici sui siti web&#8230;
+centinaia di sviluppatori (spesso giovani e simpatici) collaborano a questo software per gestire i contenuti dinamici sui siti web…
 
 ad esempio il nuovo [www.umanisti.it](http://www.umanisti.it) l’ho sviluppato con typo3, così come [www.humanisteurope.org](http://www.humanisteurope.org)
 

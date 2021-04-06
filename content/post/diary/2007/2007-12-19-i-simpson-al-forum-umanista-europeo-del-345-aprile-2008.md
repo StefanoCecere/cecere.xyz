@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2007-12-19T02:36:56Z"
+categories: [blog]
+date: 2007-12-19T02:36:56Z
 guid: http://stefanocecere.com/2007/12/19/i-simpson-al-forum-umanista-europeo-del-345-aprile-2008/
 id: 625
-related_posts:
-- null
 tags:
 - arte
 - Forum

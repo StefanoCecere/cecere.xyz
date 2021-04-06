@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-07-30T13:47:37Z"
+categories: [blog]
+date: 2005-07-30T13:47:37Z
 guid: http://stefanocecere.com/?p=6
 id: 6
-related_posts:
-- null
 title: ancora sangue amaro…
 slug: /2005/07/30/ancora-sangue-amaro/
 ---

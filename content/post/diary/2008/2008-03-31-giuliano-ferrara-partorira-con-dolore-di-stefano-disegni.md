@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-03-31T23:55:57Z"
+categories: [blog]
+date: 2008-03-31T23:55:57Z
 guid: http://stefanocecere.com/2008/03/31/giuliano-ferrara-partorira-con-dolore-di-stefano-disegni/
 id: 789
-related_posts:
-- null
 tags:
 - aborto
 - arte

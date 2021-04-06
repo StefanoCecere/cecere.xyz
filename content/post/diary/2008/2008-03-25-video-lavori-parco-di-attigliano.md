@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-03-25T10:12:56Z"
+categories: [blog]
+date: 2008-03-25T10:12:56Z
 guid: http://stefanocecere.com/2008/03/25/video-lavori-parco-di-attigliano/
 id: 775
-related_posts:
-- null
 tags:
 - Parco Attigliano
 - Silo

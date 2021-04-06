@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Tecnologia
-date: "2011-09-21T00:15:30Z"
+date: 2011-09-21T00:15:30Z
 guid: http://stefanocecere.com/?p=2638
 id: 2638
 tags:
@@ -16,7 +12,7 @@ title: iPad scrivania
 slug: /2011/09/21/ipad-scrivania/
 ---
 
-lo so.. è cosa molto da &#8220;geek&#8221; (ovvero superappassionati di computers) lo scambiarsi le scrivanie dei propri iPhone o iPad
+lo so.. è cosa molto da "geek" (ovvero superappassionati di computers) lo scambiarsi le scrivanie dei propri iPhone o iPad
   
 dato che sto preparando il mio aggeggio ecco la mia!
   

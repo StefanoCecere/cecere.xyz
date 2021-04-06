@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-10-26T10:19:50Z"
+date: 2013-10-26T10:19:50Z
 format: status
 guid: http://twitter-394030600770048000-post
 id: 4745
-title: Ricordarsi che esistono diversi tipi di galassie&#8230;.
+title: Ricordarsi che esistono diversi tipi di galassie….
 slug: /2013/10/26/ricordarsi-che-esistono-diversi-tipi-di-galassie/
 ---
 

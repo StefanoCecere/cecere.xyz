@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-10-27T03:54:20Z"
+categories: [blog]
+date: 2005-10-27T03:54:20Z
 guid: http://stefanocecere.com/2005/10/27/fannullone-bubu7te/
 id: 119
-related_posts:
-- null
 tags:
 - Il Fannullone
 - umanista

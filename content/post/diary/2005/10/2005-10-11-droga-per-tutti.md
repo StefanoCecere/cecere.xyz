@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-10-11T09:06:03Z"
+categories: [blog]
+date: 2005-10-11T09:06:03Z
 guid: http://stefanocecere.com/2005/10/11/droga-per-tutti/
 id: 103
-related_posts:
-- null
 tags:
 - droga
 title: droga per tutti

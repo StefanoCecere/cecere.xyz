@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-10-24T08:53:47Z"
+categories: [blog]
+date: 2008-10-24T08:53:47Z
 guid: http://stefanocecere.com/?p=1439
 id: 1439
 tags:
@@ -16,27 +15,27 @@ title: Massacreresti a sangue gli studenti?
 slug: /2008/10/24/massacreresti-a-sangue-gli-studenti/
 ---
 
-premessa: sono molto contento nel vedere ultimamente un movimento studentesco che si sta risvegliando. vedere intere scuole che protestano, con l&#8217;appoggio di moli professori. la situazione è gravissima e ogni forma di opposizione nonviolenta è necessaria più che mai. ovviamente chi detiene il potere sa benissimo cosa potrebbe nascere da lì. ([avevo già riportato](http://stefanocecere.com/2008/10/11/presto-la-legge-marziale-cadrai-dal-pero/) i piani degli Stati Uniti che si sono preparati alla ribellione civile nei campus americani&#8230;). beh mi arriva ora questa intervista al nostro ex presidente della Repubblica e senatore a vita (e dal mio punto di vista personaggio alquanto controverso) **Francesco Cossiga**.
+premessa: sono molto contento nel vedere ultimamente un movimento studentesco che si sta risvegliando. vedere intere scuole che protestano, con l'appoggio di moli professori. la situazione è gravissima e ogni forma di opposizione nonviolenta è necessaria più che mai. ovviamente chi detiene il potere sa benissimo cosa potrebbe nascere da lì. ([avevo già riportato](http://stefanocecere.com/2008/10/11/presto-la-legge-marziale-cadrai-dal-pero/) i piani degli Stati Uniti che si sono preparati alla ribellione civile nei campus americani…). beh mi arriva ora questa intervista al nostro ex presidente della Repubblica e senatore a vita (e dal mio punto di vista personaggio alquanto controverso) **Francesco Cossiga**.
 
-l&#8217;articolo è tratto da [www.faceforpeace.org](http://www.faceforpeace.org/node/11)
+l'articolo è tratto da [www.faceforpeace.org](http://www.faceforpeace.org/node/11)
 
-<span style="text-decoration: line-through">Devo verificare ancora quanto ci sia di vero</span> Ho verificato credendo e sperando di trovare una smentita, di scoprire l&#8217;ennesima bufala&#8230; ma questa intervista sembra essere reale, uscita su &#8220;RESTO DEL CARLINO/NAZIONE/IL GIORNO&#8221; e<a href="http://rassegna.governo.it/testo.asp?d=32976406" target="_blank">pubblicata sul sito della rassegna stampa del Governo</a>.
+<span style="text-decoration: line-through">Devo verificare ancora quanto ci sia di vero</span> Ho verificato credendo e sperando di trovare una smentita, di scoprire l'ennesima bufala… ma questa intervista sembra essere reale, uscita su "RESTO DEL CARLINO/NAZIONE/IL GIORNO" e<a href="http://rassegna.governo.it/testo.asp?d=32976406" target="_blank">pubblicata sul sito della rassegna stampa del Governo</a>.
 
-**In allegato, anche il PDF dell&#8217;articolo originale.**
+**In allegato, anche il PDF dell'articolo originale.**
 
-Riporto una sintesi dell&#8217;intervista all&#8217;ex presidente <a href="http://it.wikipedia.org/wiki/Francesco_Cossiga" target="_blank">Francesco Cossiga</a>. Quello che è certo che è una <a href="http://www.google.it/search?hl=it&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&hs=0FM&q=cossiga+%22maroni+dovrebbe+fare%22&btnG=Cerca&meta=" target="_blank">semplice ricerca si google</a> rende circa 200 risultati di questa intervista.
+Riporto una sintesi dell'intervista all'ex presidente <a href="http://it.wikipedia.org/wiki/Francesco_Cossiga" target="_blank">Francesco Cossiga</a>. Quello che è certo che è una <a href="http://www.google.it/search?hl=it&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&hs=0FM&q=cossiga+%22maroni+dovrebbe+fare%22&btnG=Cerca&meta=" target="_blank">semplice ricerca si google</a> rende circa 200 risultati di questa intervista.
 
-Intanto ci stiamo ponendo domande su quale possa essere **un&#8217;azione esemplare <a href="http://it.wikipedia.org/wiki/Nonviolenza" target="_blank">nonviolenta</a>** in risposta a questa manica di imbecilli.
+Intanto ci stiamo ponendo domande su quale possa essere **un'azione esemplare <a href="http://it.wikipedia.org/wiki/Nonviolenza" target="_blank">nonviolenta</a>** in risposta a questa manica di imbecilli.
 
 _“Maroni dovrebbe fare quel che feci io quand’ero ministro dell’Interni (…). Gli universitari? Lasciarli fare. Ritirare le forze di polizia dalle strade e dalle università, infiltrare il movimento con agenti provocatori pronti a tutto, e lasciare che per una decina di giorni i manifestanti devastino i negozi, diano fuoco alle macchine e mettano a ferro e fuoco le città. Dopo di che, forti del consenso popolare, il suono delle sirene delle ambulanze dovrà sovrastare quello delle auto di polizia e carabinieri. Le forze dell’ordine dovrebbero massacrare i manifestanti senza pietà e mandarli tutti in ospedale. Non arrestarli, che tanto poi i magistrati li rimetterebbero subito in libertà, ma picchiarli a sangue e picchiare a sangue anche quei docenti che li fomentano. Non quelli anziani, certo, ma le maestre ragazzine sì.”_
 
-_A seguito il testo completo&#8230;_
+_A seguito il testo completo…_
 
  
 
 <div class="dvtesto">
   <p>
-    INTERVISTA A COSSIGA «Bisogna fermarli, anche il terrorismo partì dagli atenei» di ANDREA CANGINI &#8211; ROMA PRESIDENTE Cossiga, pensa che minacciando l`uso della forza pubblica contro gli studenti Berlusconi abbia esagerato? «Dipende, se ritiene d`essere il presidente del Consiglio di uno Stato forte, no, ha fatto benissimo.
+    INTERVISTA A COSSIGA «Bisogna fermarli, anche il terrorismo partì dagli atenei» di ANDREA CANGINI - ROMA PRESIDENTE Cossiga, pensa che minacciando l`uso della forza pubblica contro gli studenti Berlusconi abbia esagerato? «Dipende, se ritiene d`essere il presidente del Consiglio di uno Stato forte, no, ha fatto benissimo.
   </p>
   
   <p>
@@ -48,7 +47,7 @@ _A seguito il testo completo&#8230;_
   </p>
   
   <p>
-    Ossia? «In primo luogo, lasciare perdere gli studenti dei licei, perché pensi a cosa succederebbe se un ragazzino rimanesse ucciso o gravemente ferito&#8230;».
+    Ossia? «In primo luogo, lasciare perdere gli studenti dei licei, perché pensi a cosa succederebbe se un ragazzino rimanesse ucciso o gravemente ferito…».
   </p>
   
   <p>
@@ -60,7 +59,7 @@ _A seguito il testo completo&#8230;_
   </p>
   
   <p>
-    Nel senso che&#8230;
+    Nel senso che…
   </p>
   
   <p>
@@ -108,11 +107,11 @@ _A seguito il testo completo&#8230;_
   </p>
   
   <p>
-    «Mah, guardi, francamente io Veltroni che va in piazza col rischio di prendersi le botte non ce lo vedo. Lo vedo meglio in un club esclusivo di Chicago ad applaudire Obama&#8230;».
+    «Mah, guardi, francamente io Veltroni che va in piazza col rischio di prendersi le botte non ce lo vedo. Lo vedo meglio in un club esclusivo di Chicago ad applaudire Obama…».
   </p>
   
   <p>
-    Non andrà in piazza con un bastone, certo, ma politicamente&#8230;
+    Non andrà in piazza con un bastone, certo, ma politicamente…
   </p>
   
   <p>
@@ -120,7 +119,7 @@ _A seguito il testo completo&#8230;_
   </p>
   
   <p>
-    La cosiddetta linea della fermezza applicata da Andreotti, da Zaccagnini e da me, era stato Berlinguer a volerla&#8230; Ma oggi c`è il Pd, un ectoplasma guidato da un ectoplasma. Ed è anche per questo che Berlusconi farebbe bene ad essere più prudente».
+    La cosiddetta linea della fermezza applicata da Andreotti, da Zaccagnini e da me, era stato Berlinguer a volerla… Ma oggi c`è il Pd, un ectoplasma guidato da un ectoplasma. Ed è anche per questo che Berlusconi farebbe bene ad essere più prudente».
   </p>
   
   <p>

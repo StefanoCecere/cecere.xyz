@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-01-15T09:27:31Z"
+categories: [blog]
+date: 2008-01-15T09:27:31Z
 guid: http://stefanocecere.com/2008/01/15/galleo-galilei-giordano-bruno-umanisti-e-il-papa/
 id: 652
-related_posts:
-- null
 tags:
 - Papa
 - scienza

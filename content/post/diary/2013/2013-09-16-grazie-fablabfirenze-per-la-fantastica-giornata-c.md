@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-09-16T21:15:21Z"
+date: 2013-09-16T21:15:21Z
 format: status
 guid: http://twitter-379700050936745985-post
 id: 4642
-title: grazie @fablabfirenze per la fantastica giornata c&#8230;
+title: grazie @fablabfirenze per la fantastica giornata c…
 slug: /2013/09/16/grazie-fablabfirenze-per-la-fantastica-giornata-c/
 ---
 

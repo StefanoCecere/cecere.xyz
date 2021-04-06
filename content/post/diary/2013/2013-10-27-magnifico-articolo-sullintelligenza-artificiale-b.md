@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-10-27T15:19:14Z"
+date: 2013-10-27T15:19:14Z
 format: status
 guid: http://twitter-394468335980924928-post
 id: 4752
-title: Magnifico articolo sull’intelligenza artificiale b&#8230;
+title: Magnifico articolo sull’intelligenza artificiale b…
 slug: /2013/10/27/magnifico-articolo-sullintelligenza-artificiale-b/
 ---
 

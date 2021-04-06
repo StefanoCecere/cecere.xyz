@@ -1,13 +1,9 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Economia
 - Tempi moderni
-date: "2011-10-21T17:33:00Z"
+date: 2011-10-21T17:33:00Z
 guid: http://stefanocecere.com/?p=2713
 id: 2713
 tags:
@@ -19,7 +15,7 @@ title: Nonna, ti spiego la crisi economica. 2
 slug: /2011/10/21/nonna-ti-spiego-la-crisi-economica-2/
 ---
 
-_(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del tutto digiune di economia, scritto da Paolo Barnard &#8211; leggi [introduzione e sommario qui](http://stefanocecere.com/2011/10/24/vi-spiego-la-crisi-economica/ "Vi spiego la crisi economica"))_
+_(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del tutto digiune di economia, scritto da Paolo Barnard - leggi [introduzione e sommario qui](http://stefanocecere.com/2011/10/24/vi-spiego-la-crisi-economica/ "Vi spiego la crisi economica"))_
 
 **Nonna:** Paolo, tu spieghi tante cose, ma insomma, mi dici perché c’è la crisi?
 
@@ -31,11 +27,11 @@ _(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del
 
 **Nonna:** Anche se c’erano i comunisti… lo diceva sempre il nonno “totta colpa dal sindaché”…
 
-**P.** Bè, no. Guarda che i comunisti anche allora, sotto sotto, avevano rassicurato sia gli Agnelli che gli americani che il capitalismo era ok per loro, poi in piazza facevano i sovietici&#8230; vabbè, questa è un’altra storia. Come ho detto, furono proprio due contenitori esterni al contenitore di noi cittadini privati che ci diedero i soldi del baby boom, il governo e l’America. Intendo soprattutto loro, per essere semplice.
+**P.** Bè, no. Guarda che i comunisti anche allora, sotto sotto, avevano rassicurato sia gli Agnelli che gli americani che il capitalismo era ok per loro, poi in piazza facevano i sovietici… vabbè, questa è un’altra storia. Come ho detto, furono proprio due contenitori esterni al contenitore di noi cittadini privati che ci diedero i soldi del baby boom, il governo e l’America. Intendo soprattutto loro, per essere semplice.
 
 **Nonna:** Ma con che soldi? E dove sono oggi quei soldi, che siamo con sto debito pubblico che dicono tutti che è un disastro?
 
-**P.** Giusto, con che soldi. L&#8217;America aveva i suoi e l&#8217;Italia pure. Ma dove li pescavano? Ecco come può usare i soldi uno Stato. Pensa a una cosa: pensa all’Italia di allora. Fatti questa domanda: chi dava le lire all’Italia? Qualcuno per caso arrivava da noi con delle navi cariche di lire? No. Le portavano dall’estero sui camion? No. Erano i tedeschi a fabbricare le lire? No. Eravamo noi italiani a farle in cantina? No. E allora chi le creava le lire?
+**P.** Giusto, con che soldi. L'America aveva i suoi e l'Italia pure. Ma dove li pescavano? Ecco come può usare i soldi uno Stato. Pensa a una cosa: pensa all’Italia di allora. Fatti questa domanda: chi dava le lire all’Italia? Qualcuno per caso arrivava da noi con delle navi cariche di lire? No. Le portavano dall’estero sui camion? No. Erano i tedeschi a fabbricare le lire? No. Eravamo noi italiani a farle in cantina? No. E allora chi le creava le lire?
 
 **Nonna:** Lo Stato.
 
@@ -81,4 +77,4 @@ _(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del
 
 **P.** Nonna, stai buona! Porta pazienza. Capirai tutto. Vado ora. Baci.
 
-([Continua&#8230;](http://stefanocecere.com/2011/10/23/nonna-ti-spiego-la-crisi-economica-3/ "Nonna, ti spiego la crisi economica. 3"))
+([Continua…](http://stefanocecere.com/2011/10/23/nonna-ti-spiego-la-crisi-economica-3/ "Nonna, ti spiego la crisi economica. 3"))

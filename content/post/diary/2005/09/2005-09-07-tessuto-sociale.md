@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-09-07T13:11:25Z"
+categories: [blog]
+date: 2005-09-07T13:11:25Z
 guid: http://stefanocecere.com/2005/09/09/tessuto-sociale/
 id: 82
-related_posts:
-- null
 title: tessuto sociale
 slug: /2005/09/07/tessuto-sociale/
 ---

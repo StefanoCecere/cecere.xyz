@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-12-10T11:03:12Z"
+categories: [blog]
+date: 2005-12-10T11:03:12Z
 guid: http://stefanocecere.com/2005/12/10/alcune-cose-che-mi-illuminano-la-vita/
 id: 174
-related_posts:
-- null
 tags:
 - spirito
 title: alcune cose che mi illuminano la vita

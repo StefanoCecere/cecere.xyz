@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-03-14T08:54:40Z"
+categories: [blog]
+date: 2008-03-14T08:54:40Z
 guid: http://stefanocecere.com/2008/03/14/sai-cosa-sta-sucedendo-la-fuori-dollaro-a-picco-petrolio-alle-stelle-fallimento-dei-grandi-sistemi/
 id: 742
-related_posts:
-- null
 tags:
 - fallimento
 - mondo
@@ -18,19 +14,19 @@ title: Sai cosa sta sucedendo la fuori? dollaro a picco, petrolio alle stelle, f
 slug: /2008/03/14/sai-cosa-sta-sucedendo-la-fuori-dollaro-a-picco-petrolio-alle-stelle-fallimento-dei-grandi-sistemi/
 ---
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/0_22_dollar_euro_450.jpg' alt='0_22_dollar_euro_450.jpg' align="left" />E&#8217; possibile che oggi anche mia nonna sappia che stanno succedendo cose un po&#8217; strane, quasi preoccupanti, in campo economico planetario..
+<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/0_22_dollar_euro_450.jpg' alt='0_22_dollar_euro_450.jpg' align="left" />E' possibile che oggi anche mia nonna sappia che stanno succedendo cose un po' strane, quasi preoccupanti, in campo economico planetario..
   
-ogni giorno il dollaro va giù, il petrolio sale senza tetto, borse che perdono miliardi in pochi secondi&#8230;
+ogni giorno il dollaro va giù, il petrolio sale senza tetto, borse che perdono miliardi in pochi secondi…
   
-e la cosa non sembra una moda del momento. se uno ci fa attenzione **può vedere il processo** che ci sta dietro (e quindi capire perché già da decenni si metteva in guardia su questi temi&#8230;)
+e la cosa non sembra una moda del momento. se uno ci fa attenzione **può vedere il processo** che ci sta dietro (e quindi capire perché già da decenni si metteva in guardia su questi temi…)
 
 Ora.. a provare a pensarci del perché di tutto questo, le opzioni sono due:
   
-1) tutto è stato previsto e segue un piano che noi non conosciamo (ma che immaginiamo dove porterà: grazie &#8220;all&#8217;emergenza del momento&#8221; si piglieranno tutto, cambieranno il concetto di proprietà privata prima, e inizieranno la più grande guerra planetaria.. tanto nessuno sarà cosa farci)
+1) tutto è stato previsto e segue un piano che noi non conosciamo (ma che immaginiamo dove porterà: grazie "all'emergenza del momento" si piglieranno tutto, cambieranno il concetto di proprietà privata prima, e inizieranno la più grande guerra planetaria.. tanto nessuno sarà cosa farci)
   
-2) gli sta fallendo tutto in mano. non sanno letteralmente come cavolo uscirne. (questa è l&#8217;opzione che senti di più).
+2) gli sta fallendo tutto in mano. non sanno letteralmente come cavolo uscirne. (questa è l'opzione che senti di più).
   
-vorrebbero mantenere capra e cavoli: il monopolio del potere economico e contemporaneamente non modificare la direzione presa.. **mantenere lo stabilito**&#8230; anche a costo di..? una guerra mondiale? rendere indigenti milioni di persone?
+vorrebbero mantenere capra e cavoli: il monopolio del potere economico e contemporaneamente non modificare la direzione presa.. **mantenere lo stabilito**… anche a costo di..? una guerra mondiale? rendere indigenti milioni di persone?
   
 far sposare miliardari a tutte?
 
@@ -42,22 +38,22 @@ Sono preoccupato perché la gente che ha il potere non è saggia né lucida. e s
   
 sembra una contraddizione senza futuro, vero?
 
-una bella gatta da pelare se non fosse che&#8230;
+una bella gatta da pelare se non fosse che…
   
-e qui da bravo umanista trovo sempre una via di uscita che porta agli Dei&#8230; se non fosse che **la gente sta iniziando ad alzare le antennine**.
+e qui da bravo umanista trovo sempre una via di uscita che porta agli Dei… se non fosse che **la gente sta iniziando ad alzare le antennine**.
   
 e se alzando le proprie antennine uno:
   
-&#8211; si fermasse un attimo a chiedersi dove si sta andando e perché&#8230;
+- si fermasse un attimo a chiedersi dove si sta andando e perché…
   
-&#8211; cercasse di smettere di farsi distrarre dalla tv, dai media, dalle droghe, da tutto ciò che ci riempe inutilmente la vita (o meglio _utilmente_ a non farci pensare)
+- cercasse di smettere di farsi distrarre dalla tv, dai media, dalle droghe, da tutto ciò che ci riempe inutilmente la vita (o meglio _utilmente_ a non farci pensare)
   
-&#8211; iniziasse a chiedere ai propri amici e conoscenti come stanno e cosa ne pensano
+- iniziasse a chiedere ai propri amici e conoscenti come stanno e cosa ne pensano
   
-&#8211; si accorgesse che ci sono in giro dei progetti e dei fenomeni interessanti, che ci sono idee, persone, luoghi che stanno già in un&#8217;altra frequenza e dirette in una nuova direzione.
+- si accorgesse che ci sono in giro dei progetti e dei fenomeni interessanti, che ci sono idee, persone, luoghi che stanno già in un'altra frequenza e dirette in una nuova direzione.
   
-&#8211; infine aprisse il proprio cuore per dargli un po&#8217; di aria lasciandolo andare&#8230;
+- infine aprisse il proprio cuore per dargli un po' di aria lasciandolo andare…
 
 beh.. forse qualcosa di veramente interessante potrebbe manifestarsi.
   
-questo mondo fallirà lo stesso. perchè DEVE fallire, ma noi saremo già lì a ricostruirlo su nuove basi con l&#8217;enorme pace, forza e allegria che abbiamo dentro!
+questo mondo fallirà lo stesso. perchè DEVE fallire, ma noi saremo già lì a ricostruirlo su nuove basi con l'enorme pace, forza e allegria che abbiamo dentro!

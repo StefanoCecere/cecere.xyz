@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-03-07T19:19:30Z"
+categories: [blog]
+date: 2008-03-07T19:19:30Z
 guid: http://stefanocecere.com/2008/03/07/z-day-zeitgeist-ed-invito-al-cineforum/
 id: 726
-related_posts:
-- null
 tags:
 - cineforum
 - Events
@@ -16,19 +13,19 @@ tags:
 - Terra 2.0
 - umanista
 - zeitgeist
-title: Z-day &#8211; Zeitgeist ed Invito al Cineforum
+title: Z-day - Zeitgeist ed Invito al Cineforum
 slug: /2008/03/07/z-day-zeitgeist-ed-invito-al-cineforum/
 ---
 
 sabato 15 marzo, ore 21:00
   
-inizia l&#8217;inizio del futuro.
+inizia l'inizio del futuro.
 
-**&#8220;Occhio non vede, cuore non duole&#8230; cervello non pensa?&#8221;**
+**"Occhio non vede, cuore non duole… cervello non pensa?"**
   
 Cineforum per nuovi orizzonti
 
-_A partire dall&#8217;anteprima mondiale (in contemporanea in centinaia di paesi) del film Zeitgeist il 15 marzo, ogni settimana avrete la possibilità di scoprire, approfondire, mettere in discussione nuovi orizzonti del tempo che viviamo.
+_A partire dall'anteprima mondiale (in contemporanea in centinaia di paesi) del film Zeitgeist il 15 marzo, ogni settimana avrete la possibilità di scoprire, approfondire, mettere in discussione nuovi orizzonti del tempo che viviamo.
   
 Dopo aver visto questi 7 film che vi proponiamo è possibile che non penserete più come prima,
   
@@ -48,27 +45,27 @@ Storicamente accurato, narrativamente coinvolgente, è senza dubbio uno dei migl
 
 **3) Viva Zapatero (giovedì 27 marzo)**
      
- _l&#8217;opinione pubblica è ciò che pensa la gente, o semplicemente ciò che viene pubblicato?_
+ _l'opinione pubblica è ciò che pensa la gente, o semplicemente ciò che viene pubblicato?_
   
-Dalle vicende di &#8216;RaiOt&#8217;, l&#8217;ultimo spettacolo di Sabina Guzzanti sospeso dalla Rai dopo una sola puntata, nasce questo film che propone interviste, documenti, celebri imitazioni e scenette comiche, il cui tema centrale è la libertà di parola e di informazione in Italia. Ecco il terribile quadro della situazione dei mass-media e della censura oggigiorno nel nostro paese.
+Dalle vicende di &#8216;RaiOt', l'ultimo spettacolo di Sabina Guzzanti sospeso dalla Rai dopo una sola puntata, nasce questo film che propone interviste, documenti, celebri imitazioni e scenette comiche, il cui tema centrale è la libertà di parola e di informazione in Italia. Ecco il terribile quadro della situazione dei mass-media e della censura oggigiorno nel nostro paese.
 
 **4) Cocaina (giovedì 3 aprile)**
       
-_un poliziotto antidroga e un ex-spacciatore mostrano l&#8217;uso e l&#8217;abuso di stupefacenti nelle nostre città_
+_un poliziotto antidroga e un ex-spacciatore mostrano l'uso e l'abuso di stupefacenti nelle nostre città_
   
-Realizzato in due mesi nel capoluogo lombardo e nella provincia di Brescia, mostra come la cocaina, da droga dei ricchi, famosi e potenti, è ormai diventata la droga per tutti. E&#8217; usata per divertirsi, ma anche da chi lavora, come operai, commesse, camionisti, manovali cottimisti, per lavorare di più. Un documentario shockante che mostra cose che sono sotto gli occhi di tutti, ma di cui non ci accorgiamo.
+Realizzato in due mesi nel capoluogo lombardo e nella provincia di Brescia, mostra come la cocaina, da droga dei ricchi, famosi e potenti, è ormai diventata la droga per tutti. E' usata per divertirsi, ma anche da chi lavora, come operai, commesse, camionisti, manovali cottimisti, per lavorare di più. Un documentario shockante che mostra cose che sono sotto gli occhi di tutti, ma di cui non ci accorgiamo.
 
 **5) Sicko (giovedì 10 aprile)**
       
 _gli Stati Uniti sono un modello per tutti. ma siamo sicuri che anche il loro sistema sanitario sia un esempio da inseguire?_
   
-Ecco un viaggio nello spaventoso universo della sanità statunitense, l&#8217;unica &#8211; tra i paesi industrializzati &#8211; a non prevedere assistenza sociale ai ceti poveri o medi. Michael Moore lancia una denuncia contro la politica americana, privatizzatrice e guerrafondaia, le cui potenti società di assicurazioni e i loro complici (dai politici ai medici) sono gli imputati.
+Ecco un viaggio nello spaventoso universo della sanità statunitense, l'unica - tra i paesi industrializzati - a non prevedere assistenza sociale ai ceti poveri o medi. Michael Moore lancia una denuncia contro la politica americana, privatizzatrice e guerrafondaia, le cui potenti società di assicurazioni e i loro complici (dai politici ai medici) sono gli imputati.
 
 **6) Corporation (giovedì 17 aprile)**
       
-_ma come sono nate le multinazionali e perché oggi c&#8217;è tutta questa violenza economica?_
+_ma come sono nate le multinazionali e perché oggi c'è tutta questa violenza economica?_
   
-E’ forse l&#8217;opera più interessante prodotta in questi anni dalla critica alla globalizzazione. E’ un film ricco di documenti, testimonianze, memorie e pentimenti di economisti, amministratori delegati, professori, antagonisti e supporter del “big business”. Un importante affresco che analizza in modo critico e al tempo stesso divertente la vera natura delle multinazionali, il loro impatto sul nostro pianeta, e come le popolazioni stiano reagendo.
+E’ forse l'opera più interessante prodotta in questi anni dalla critica alla globalizzazione. E’ un film ricco di documenti, testimonianze, memorie e pentimenti di economisti, amministratori delegati, professori, antagonisti e supporter del “big business”. Un importante affresco che analizza in modo critico e al tempo stesso divertente la vera natura delle multinazionali, il loro impatto sul nostro pianeta, e come le popolazioni stiano reagendo.
 
 **7) What the Bleep do we Know? (giovedì 24 aprile)**
       
@@ -76,12 +73,12 @@ _sei proprio sicuro che quello che pensi non influisca sulla realtà che vivi?_
   
 Siamo artefici della nostra vita? E’ vero che la nostra mente crea la realtà che viviamo? Abbiamo davvero in mano il vero segreto per un’esistenza felice e appagata? Pare che scienza e spiritualità si prendano finalmente per mano per risponder si! Mai un film aveva affrontato un tema tanto profondo ed universale, attraverso le più recenti teorie e dimostrazioni di fisica quantistica, biologia molecolare e spiritualità. Mai lo si era presentato in modo semplice, divertente e così stupefacente, al contempo. Dopo averlo visto, è difficile rimanere gli stessi.
 
-&#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211;
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 In coda ad ogni film è prevista scheda di approfondimento ed eventuale interscambio di opinioni ed esperienze.
   
 Ingresso libero con piccolo e volontario contributo. salvo cambiamenti (controllare i siti) tutte le proiezioni:
 
-ore 21:00 &#8211; [Centro Umanista Il Fannullone](http://www.ilfannullone.it/spazio/cartina/) &#8211; via Borgazzi 105 ( cortile interno ) &#8211; Monza
+ore 21:00 - [Centro Umanista Il Fannullone](http://www.ilfannullone.it/spazio/cartina/) - via Borgazzi 105 ( cortile interno ) - Monza
   
-[www.terra2.tv](http://www.terra2.tv) &#8211; [www.ilfannullone.it](http://www.ilfannullone.it)
+[www.terra2.tv](http://www.terra2.tv) - [www.ilfannullone.it](http://www.ilfannullone.it)

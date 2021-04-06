@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-05-11T23:06:33Z"
+categories: [blog]
+date: 2008-05-11T23:06:33Z
 guid: http://stefanocecere.com/2008/05/11/umanisti-in-libreria/
 id: 921
-related_posts:
-- null
 tags:
 - libri
 - Silo
@@ -22,7 +19,7 @@ Finalmente nelle librerie di tutta italia (Feltrinelli in primis, ma anche molte
   
 [Macro Edizioni](http://www.macroedizioni.it/)
 
-&#8220;Qui si racconta come il non-senso della vita si trasformi in senso e pienezza. Qui c’è allegria, amore per il corpo, per la natura, per l&#8217;umanità e per lo spirito. Qui si rinnegano i sacrifici, il senso di colpa e le minacce dell&#8217;oltretomba. Qui ciò che è terreno non si oppone a ciò che è eterno. Qui si parla della rivelazione interiore a cui giunge chi medita in umile e attenta ricerca&#8221;.
+"Qui si racconta come il non-senso della vita si trasformi in senso e pienezza. Qui c’è allegria, amore per il corpo, per la natura, per l'umanità e per lo spirito. Qui si rinnegano i sacrifici, il senso di colpa e le minacce dell'oltretomba. Qui ciò che è terreno non si oppone a ciò che è eterno. Qui si parla della rivelazione interiore a cui giunge chi medita in umile e attenta ricerca".
 
 [Scheda del libro.](http://macroedizioni.it/libro.php?id_libro=1355)
 

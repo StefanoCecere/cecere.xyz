@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Eventi
-date: "2008-06-22T20:25:36Z"
+date: 2008-06-22T20:25:36Z
 guid: http://stefanocecere.com/?p=1059
 id: 1059
-related_posts:
-- null
 tags:
 - digiuno
 - disarmo nucleare
@@ -23,7 +21,7 @@ title: Giornata Sciopero Fame a Milano
 slug: /2008/06/22/giornata-sciopero-fame-a-milano/
 ---
 
-ecco un po&#8217; di foto del pomeriggio a Milano.
+ecco un po' di foto del pomeriggio a Milano.
 
 guarda altre foto della giornata <a href="http://www.flickr.com/photos/krur/sets/72157605570109044/" target="_blank">qui (Flickr)</a>
 

@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-05-02T12:42:58Z"
+categories: [blog]
+date: 2008-05-02T12:42:58Z
 guid: http://stefanocecere.com/2008/05/02/zeitgeist-a-firenze-le-foto/
 id: 908
-related_posts:
-- null
 tags:
 - cineforum
 - Firenze
@@ -16,7 +13,7 @@ title: 'Zeitgeist a Firenze: le foto'
 slug: /2008/05/02/zeitgeist-a-firenze-le-foto/
 ---
 
-nelle ultime settimane ho collaborato all&#8217;organizzazione del Cineforum &#8220;Okkio non vede, cuore nn duole&#8230; cervello nn pensa?&#8221;
+nelle ultime settimane ho collaborato all'organizzazione del Cineforum "Okkio non vede, cuore nn duole… cervello nn pensa?"
   
 anche a Firenze.
 
@@ -28,7 +25,7 @@ dopo numerosi volantinaggi e attacchinaggi (piazze e università), la serata è 
   
 (clicca sulla foto per vederne molte altre!)
 
-l&#8217;occasione è stata ottima per invitare tutti all&#8217;inaugurazione del Parco di Attigliano, e a rimanere in contatto per i prossimi films, che saranno Cocaina, Sicko, The Corporation e What the Bleep do we Know?
+l'occasione è stata ottima per invitare tutti all'inaugurazione del Parco di Attigliano, e a rimanere in contatto per i prossimi films, che saranno Cocaina, Sicko, The Corporation e What the Bleep do we Know?
 
 se sei di zona firenze, fammi sapere!
 

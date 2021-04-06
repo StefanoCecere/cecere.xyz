@@ -4,7 +4,7 @@ aktt_notify_twitter:
 author: Stefano Cecere
 categories:
 - Politica
-date: "2009-06-04T12:22:09Z"
+date: 2009-06-04T12:22:09Z
 guid: http://stefanocecere.com/?p=1849
 id: 1849
 tags:
@@ -15,9 +15,9 @@ title: Mio appello per le Elezioni Europee
 slug: /2009/06/04/mio-appello-per-le-elezioni-europee/
 ---
 
-_Berlusconi: &#8220;Giornali più interessati al gossip che ai problemi del Paese. Non capisco, è questo il risultato dopo decenni di programmazione Mediaset?_&#8221;
+_Berlusconi: "Giornali più interessati al gossip che ai problemi del Paese. Non capisco, è questo il risultato dopo decenni di programmazione Mediaset?_"
 
-**credo che questa battutina sia l&#8217;essenza di molte questioni.** 
+**credo che questa battutina sia l'essenza di molte questioni.** 
 
 ma dato che non abbiamo troppo tempo ecco il mio messaggio:
 
@@ -35,9 +35,9 @@ ma dato che non abbiamo troppo tempo ecco il mio messaggio:
 
 Alle elezioni europee **voterò**, e vorrei che in molti lo votassero, **Giorgio Schultze**, che si presenta come **indipendente umanista con Italia dei Valori**.
 
-Portavoce europeo del Movimento Umanista e della Marcia Mondiale, dovrebbe esserti già noto per le nostre numerose campagne (ultima quella dello **Scudo Spaziale** in Rep.Ceca dove siamo riusciti a fare cadere il governo, e poi per il **disarmo nucleare**, contro i caccia **F35**, assolutamente contro l&#8217;energia nucleare, psicofarmaci ai bambini.. è inoltre architetto tra pionieri dell&#8217;<a href="http://www.laescodelsole.com/" target="_blank">energia solare in italia</a>).
+Portavoce europeo del Movimento Umanista e della Marcia Mondiale, dovrebbe esserti già noto per le nostre numerose campagne (ultima quella dello **Scudo Spaziale** in Rep.Ceca dove siamo riusciti a fare cadere il governo, e poi per il **disarmo nucleare**, contro i caccia **F35**, assolutamente contro l'energia nucleare, psicofarmaci ai bambini.. è inoltre architetto tra pionieri dell'<a href="http://www.laescodelsole.com/" target="_blank">energia solare in italia</a>).
 
-E&#8217; un caro amico da molti anni e come molti umanisti da sempre unisce buone idee ad azioni coerenti, oltre che ad avere un **mondo interiore decisamente sviluppato**.
+E' un caro amico da molti anni e come molti umanisti da sempre unisce buone idee ad azioni coerenti, oltre che ad avere un **mondo interiore decisamente sviluppato**.
 
 Ovviamente non è un consiglio solo di cuore, ma anche di testa:
 

@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-11-12T17:46:38Z"
+date: 2013-11-12T17:46:38Z
 format: status
 guid: http://twitter-400303636435451904-post
 id: 4824
-title: '“@fablabfirenze: Cosa significha essere un #artigi&#8230;'
+title: '“@fablabfirenze: Cosa significha essere un #artigi…'
 slug: /2013/11/12/fablabfirenze-cosa-significha-essere-un-artigi/
 ---
 

@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2009-04-20T13:04:53Z"
+categories: [blog]
+date: 2009-04-20T13:04:53Z
 guid: http://stefanocecere.com/?p=1673
 id: 1673
 tags:
@@ -16,15 +15,15 @@ slug: /2009/04/20/la-scuola-verso-labisso/
 
 spero tu ieri sera abbia visto la puntata di **Report** sulla situazione del sistema scolastico italiano e gli effetti delle varie riforme in atto.
 
-se non l&#8217;hai visto cercala in rete..([eccola qui](#mce_temp_url#) sul sito ufficiale di Report) **la devi vedere e assimilare. meditare e preoccuparti perchè la scuola, insieme alla sanità, è il motore dell&#8217;umanità.**
+se non l'hai visto cercala in rete..([eccola qui](#mce_temp_url#) sul sito ufficiale di Report) **la devi vedere e assimilare. meditare e preoccuparti perchè la scuola, insieme alla sanità, è il motore dell'umanità.**
 
-sarebbero da esiliare, o almeno da licenziare, personaggi istituzionali e di &#8220;potere&#8221; che la pensano e agiscono diversamente.
+sarebbero da esiliare, o almeno da licenziare, personaggi istituzionali e di "potere" che la pensano e agiscono diversamente.
 
-**dateci un&#8217;educazione di altissimo livello e gratuita per tutti per 20 anni, e vedrai come ti si cambia la vita di un Paese degno di considerarsi tale.**
+**dateci un'educazione di altissimo livello e gratuita per tutti per 20 anni, e vedrai come ti si cambia la vita di un Paese degno di considerarsi tale.**
 
-ovviamente una popolazione &#8220;liberata&#8221; da una buona educazione non voterebbe più una classe politica il cui interesse è il mantenimento del potere e il blocco della dialettica generazionale.. quindi il panorama è presto illustrato.
+ovviamente una popolazione "liberata" da una buona educazione non voterebbe più una classe politica il cui interesse è il mantenimento del potere e il blocco della dialettica generazionale.. quindi il panorama è presto illustrato.
 
-chiudo riportando una dichiarazione dell&#8217;amica Paola Poggi, fiorentina, di pochi giorni fa:
+chiudo riportando una dichiarazione dell'amica Paola Poggi, fiorentina, di pochi giorni fa:
 
 <p class="MsoNormal">
   <img class="aligncenter size-full wp-image-1674" title="paola-poggi-300x225" src="http://stefanocecere.com/wp-content/uploads/sites/3/2009/04/paola-poggi-300x225.jpg" alt="paola-poggi-300x225" width="300" height="225" />

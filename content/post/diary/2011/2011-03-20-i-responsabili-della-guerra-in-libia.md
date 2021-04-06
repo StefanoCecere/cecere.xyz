@@ -1,13 +1,9 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Politica
 - Tempi moderni
-date: "2011-03-20T07:41:37Z"
+date: 2011-03-20T07:41:37Z
 guid: http://stefanocecere.com/?p=2411
 id: 2411
 tags:

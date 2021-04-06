@@ -2,7 +2,7 @@
 author: Stefano Cecere
 categories:
 - Scienza
-date: "2015-04-22T09:41:38Z"
+date: 2015-04-22T09:41:38Z
 guid: http://stefanocecere.com/?p=5759
 id: 5759
 tags:

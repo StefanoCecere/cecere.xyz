@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-04-14T00:42:12Z"
+categories: [blog]
+date: 2008-04-14T00:42:12Z
 guid: http://stefanocecere.com/2008/04/14/il-piu-grande-maiale-di-attigliano/
 id: 851
-related_posts:
-- null
 tags:
 - animali
 - foto
@@ -25,6 +22,6 @@ intanto ho scoperto delle meraviglie di Attigliano che non sospettavo: tutto il 
 
 [<img src="http://farm3.static.flickr.com/2312/2411547738_49b30013fc.jpg" width="500" height="375" alt="Attigliano" />](http://www.flickr.com/photos/krur/2411547738/ "Attigliano di Humanist 2.0, su Flickr")
   
-(clicca sull&#8217;immagine per andare a vedere le altre)
+(clicca sull'immagine per andare a vedere le altre)
 
 a presto

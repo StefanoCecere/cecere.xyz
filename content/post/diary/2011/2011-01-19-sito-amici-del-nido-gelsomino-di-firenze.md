@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - JJ
-date: "2011-01-19T15:28:40Z"
+date: 2011-01-19T15:28:40Z
 guid: http://stefanocecere.com/?p=2345
 id: 2345
 title: Sito amici del Nido Gelsomino di Firenze

@@ -1,13 +1,9 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Economia
 - Tempi moderni
-date: "2011-11-03T06:41:18Z"
+date: 2011-11-03T06:41:18Z
 guid: http://stefanocecere.com/?p=2776
 id: 2776
 tags:
@@ -21,7 +17,7 @@ title: Nonna, ti spiego la crisi economica. 10
 slug: /2011/11/03/nonna-ti-spiego-la-crisi-economica-10/
 ---
 
-_(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del tutto digiune di economia, scritto da Paolo Barnard &#8211; leggi [introduzione e sommario qui](http://stefanocecere.com/2011/10/24/vi-spiego-la-crisi-economica/ "Vi spiego la crisi economica"))_
+_(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del tutto digiune di economia, scritto da Paolo Barnard - leggi [introduzione e sommario qui](http://stefanocecere.com/2011/10/24/vi-spiego-la-crisi-economica/ "Vi spiego la crisi economica"))_
 
 **P.** Visto il telegiornale nonna? Hai fatto 2 + 2?
 

@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Tecnologia
-date: "2011-10-10T04:07:01Z"
+date: 2011-10-10T04:07:01Z
 guid: http://stefanocecere.com/?p=2706
 id: 2706
 tags:

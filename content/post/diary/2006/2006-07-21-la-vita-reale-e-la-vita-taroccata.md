@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-07-21T01:40:15Z"
+categories: [blog]
+date: 2006-07-21T01:40:15Z
 guid: http://stefanocecere.com/2006/07/21/la-vita-reale-e-la-vita-taroccata/
 id: 380
-related_posts:
-- null
 tags:
 - ricreazione
 title: la vita reale e la vita sui media
@@ -23,7 +19,7 @@ slug: /2006/07/21/la-vita-reale-e-la-vita-taroccata/
 </div>
 
 <div style="text-align: center">
-  se non hai capito eccone altre&#8230; :
+  se non hai capito eccone altre… :
 </div>
 
 <div style="text-align: center">

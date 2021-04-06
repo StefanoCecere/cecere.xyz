@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Uncategorized
-date: "2006-01-11T00:50:10Z"
+date: 2006-01-11T00:50:10Z
 guid: http://stefanocecere.com/2006/01/11/la-forza-del-cibo/
 id: 208
-related_posts:
-- null
 tags:
 - cibo
 - gioco

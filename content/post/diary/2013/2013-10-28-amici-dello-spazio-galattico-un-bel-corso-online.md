@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-10-28T13:09:19Z"
+date: 2013-10-28T13:09:19Z
 format: status
 guid: http://twitter-394798028835803136-post
 id: 4768
-title: amici dello spazio galattico.. un bel corso online&#8230;
+title: amici dello spazio galattico.. un bel corso online…
 slug: /2013/10/28/amici-dello-spazio-galattico-un-bel-corso-online/
 ---
 

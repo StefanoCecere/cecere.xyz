@@ -1,13 +1,7 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2011-10-24T10:48:34Z"
+categories: [blog]
+date: 2011-10-24T10:48:34Z
 guid: http://stefanocecere.com/?p=2735
 id: 2735
 tags:
@@ -71,7 +65,7 @@ slug: /2011/10/24/la-ranocchia-che-non-sapeva-di-essere-cotta/
 </p>
 
 <p style="text-align: center">
-  Il martellamento continuo<br /> di informazioni<br /> da parte dei media<br /> satura i cervelli<br /> che non sono più in grado<br /> di distinguere le cose &#8230;
+  Il martellamento continuo<br /> di informazioni<br /> da parte dei media<br /> satura i cervelli<br /> che non sono più in grado<br /> di distinguere le cose …
 </p>
 
 <p style="text-align: center">

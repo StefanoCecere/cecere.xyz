@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2005-12-05T02:15:27Z"
+categories: [blog]
+date: 2005-12-05T02:15:27Z
 guid: http://stefanocecere.com/2005/12/05/la-violenza-ce-labbiamo-in-casa/
 id: 166
-related_posts:
-- null
 tags:
 - violenza
 title: la violenza ce l'abbiamo in casa

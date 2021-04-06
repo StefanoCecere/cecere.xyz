@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2014-07-11T13:05:37Z"
+date: 2014-07-11T13:05:37Z
 format: status
 guid: http://twitter-487568392099209216-post
 id: 5642
-title: se ti interessa “il colpevole” tra Israele e Pales&#8230;
+title: se ti interessa “il colpevole” tra Israele e Pales…
 slug: /2014/07/11/se-ti-interessa-il-colpevole-tra-israele-e-pales/
 ---
 

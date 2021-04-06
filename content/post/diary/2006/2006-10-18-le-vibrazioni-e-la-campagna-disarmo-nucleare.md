@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-10-18T17:48:13Z"
+categories: [blog]
+date: 2006-10-18T17:48:13Z
 guid: http://stefanocecere.com/2006/10/18/le-vibrazioni-e-la-campagna-disarmo-nucleare/
 id: 447
-related_posts:
-- null
 tags:
 - arte
 - disarmo nucleare

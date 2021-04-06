@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-05-20T13:49:04Z"
+categories: [blog]
+date: 2008-05-20T13:49:04Z
 guid: http://stefanocecere.com/2008/05/20/presentazione-de-%e2%80%9cla-fine-della-preistoria%e2%80%9d-a-milano/
 id: 946
-related_posts:
-- null
 tags:
 - Events
 - libro
@@ -22,6 +19,6 @@ slug: /2008/05/20/presentazione-de-la-fine-della-preistoria-a-milano/
 
 Tomás Hirsch presenta il suo ultimo libro.
   
-Oltre all&#8217;autore, saranno presenti: Giorgio Schultze, portavoce europeo del Nuovo Umanesimo.
+Oltre all'autore, saranno presenti: Giorgio Schultze, portavoce europeo del Nuovo Umanesimo.
 
-Porterà il saluto della Provincia di Milano Pietro Mezzi, Assessore Politica del territorio e parchi Agenda 21 &#8211; Mobilità ciclabile &#8211; Diritti degli animali.
+Porterà il saluto della Provincia di Milano Pietro Mezzi, Assessore Politica del territorio e parchi Agenda 21 - Mobilità ciclabile - Diritti degli animali.

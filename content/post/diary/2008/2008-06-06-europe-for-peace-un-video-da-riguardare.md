@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-06-06T14:34:46Z"
+categories: [blog]
+date: 2008-06-06T14:34:46Z
 guid: http://stefanocecere.com/2008/06/06/europe-for-peace-un-video-da-riguardare/
 id: 1010
-related_posts:
-- null
 tags:
 - disarmo nucleare
 - Europe for Peace
@@ -18,4 +14,4 @@ title: 'Europe for Peace: un video da riguardare'
 slug: /2008/06/06/europe-for-peace-un-video-da-riguardare/
 ---
 
-abbi 10 minuti per rivedere questo video. poi accendi un telegiornale e guarda un po&#8217; avanti il futuro.
+abbi 10 minuti per rivedere questo video. poi accendi un telegiornale e guarda un po' avanti il futuro.

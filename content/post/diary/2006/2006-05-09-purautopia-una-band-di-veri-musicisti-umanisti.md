@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2006-05-09T23:28:28Z"
+categories: [blog]
+date: 2006-05-09T23:28:28Z
 guid: http://stefanocecere.com/2006/05/09/purautopia-una-band-di-veri-musicisti-umanisti/
 id: 268
-related_posts:
-- null
 tags:
 - arte
 - music
@@ -21,9 +18,9 @@ slug: /2006/05/09/purautopia-una-band-di-veri-musicisti-umanisti/
 
 il loro album è davvero un capolavoro. specialmente i testi.. ce ne fossero di musicisti/parolieri così coerenti!
 
-vi chiedo di aiutarli a &#8220;scalare&#8221; una piccola classifica per poter essere ascoltati in Radio Rai:
+vi chiedo di aiutarli a "scalare" una piccola classifica per poter essere ascoltati in Radio Rai:
 
-[CLICCATE QUI](http://www.radio.rai.it/radio1/demo/concorso_ultimo_best.cfm), quindi selezionate la P e poi &#8220;Pura Utopia&#8221;. potete votarli 5 volte di seguito.
+[CLICCATE QUI](http://www.radio.rai.it/radio1/demo/concorso_ultimo_best.cfm), quindi selezionate la P e poi "Pura Utopia". potete votarli 5 volte di seguito.
 
 MERITANO!
 

@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-10-30T06:30:55Z"
+date: 2013-10-30T06:30:55Z
 format: status
 guid: http://twitter-395422541151731712-post
 id: 4774
-title: 'Da leggere: Tre vie di uscita da questa crisi econ&#8230;'
+title: 'Da leggere: Tre vie di uscita da questa crisi econ…'
 slug: /2013/10/30/da-leggere-tre-vie-di-uscita-da-questa-crisi-econ/
 ---
 

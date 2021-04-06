@@ -2,16 +2,14 @@
 author: Stefano Cecere
 categories:
 - Uncategorized
-date: "2008-03-04T02:11:51Z"
+date: 2008-03-04T02:11:51Z
 guid: http://stefanocecere.com/2008/03/04/la-mappa-del-tesoro/
 id: 716
-related_posts:
-- null
 tags:
 - Silo
 - spirito
 - Terra 2.0
-title: La mappa del tesoro&#8230;
+title: La mappa del tesoro…
 slug: /2008/03/04/la-mappa-del-tesoro/
 ---
 

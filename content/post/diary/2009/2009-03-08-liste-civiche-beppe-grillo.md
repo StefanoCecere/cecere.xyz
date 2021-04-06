@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2009-03-08T16:51:01Z"
+categories: [blog]
+date: 2009-03-08T16:51:01Z
 guid: http://stefanocecere.com/?p=1576
 id: 1576
 title: Liste civiche Beppe Grillo
@@ -15,6 +14,6 @@ non ho mai nascosto la mia vicinanza e in diversi casi collaborazione e comparte
 
 mi sono molto piaciuti tutti gli interventi, e spero davvero che continui la collaborazione su più livelli.
 
-chi non può esserci c&#8217;è una diretta video qui: <http://www.ustream.tv/channel/i°-incontro-nazionale-delle-liste-civiche>
+chi non può esserci c'è una diretta video qui: <http://www.ustream.tv/channel/i°-incontro-nazionale-delle-liste-civiche>
 
 il futuro è sempre più vicino

@@ -1,20 +1,13 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Spirito
-- Tempi moderni
-date: "2011-03-22T23:00:05Z"
+categories: [blog]
+date: 2011-03-22T23:00:05Z
 guid: http://stefanocecere.com/?p=2418
 id: 2418
 tags:
 - diversità
 - senso della vita
-title: bisogna sempre ricordarsi che&#8230;
+title: bisogna sempre ricordarsi che…
 slug: /2011/03/22/bisogna-sempre-ricordarsi-che/
 ---
 
@@ -32,4 +25,4 @@ diverse volontà di mettersi in gioco,
   
 diverse disponibilità di aiutare gli altri.
 
-ci accomuna solo l&#8217;essere umani e l&#8217;avere tutti lo stesso potenziale.
+ci accomuna solo l'essere umani e l'avere tutti lo stesso potenziale.

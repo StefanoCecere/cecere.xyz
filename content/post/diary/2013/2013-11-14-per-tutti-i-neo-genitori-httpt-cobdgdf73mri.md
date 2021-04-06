@@ -2,7 +2,7 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-11-14T10:33:25Z"
+date: 2013-11-14T10:33:25Z
 format: status
 guid: http://twitter-400919389270474752-post
 id: 4829

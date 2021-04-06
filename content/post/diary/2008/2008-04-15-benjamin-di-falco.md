@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-04-15T09:38:01Z"
+categories: [blog]
+date: 2008-04-15T09:38:01Z
 guid: http://stefanocecere.com/2008/04/15/benjamin-di-falco/
 id: 871
-related_posts:
-- null
 tags:
 - amici
 title: Benjamin di Falco

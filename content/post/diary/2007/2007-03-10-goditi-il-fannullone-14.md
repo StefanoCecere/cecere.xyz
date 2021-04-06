@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2007-03-10T02:11:44Z"
+categories: [blog]
+date: 2007-03-10T02:11:44Z
 guid: http://stefanocecere.com/2007/03/10/goditi-il-fannullone-14/
 id: 491
-related_posts:
-- null
 tags:
 - Il Fannullone
 - ricreazione

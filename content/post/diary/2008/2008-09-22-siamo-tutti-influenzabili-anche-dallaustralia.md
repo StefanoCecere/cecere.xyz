@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-09-22T23:15:33Z"
+categories: [blog]
+date: 2008-09-22T23:15:33Z
 guid: http://stefanocecere.com/?p=1232
 id: 1232
 tags:
@@ -12,7 +11,7 @@ title: Siamo tutti influenzabili. anche dall&#039;Australia
 slug: /2008/09/22/siamo-tutti-influenzabili-anche-dallaustralia/
 ---
 
-quando leggevo i vari &#8220;attenzioni arriva l&#8217;australiana e sarà cattiva.. ridicolizzavo.. i soliti allarmismi&#8230;.
+quando leggevo i vari "attenzioni arriva l'australiana e sarà cattiva.. ridicolizzavo.. i soliti allarmismi….
 
 oggi sul treno per milano ho fatto il peggio viaggio della mia vita.. sono arrivato a casa e credo proprio di averla presa (nausea, febbre, vomito e tutto il connesso)
 

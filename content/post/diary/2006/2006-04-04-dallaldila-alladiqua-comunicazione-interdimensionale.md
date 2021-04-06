@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-04-04T15:08:32Z"
+categories: [blog]
+date: 2006-04-04T15:08:32Z
 guid: http://stefanocecere.com/2006/04/04/dallaldila-alladiqua-comunicazione-interdimensionale/
 id: 250
-related_posts:
-- null
 tags:
 - morte
 - video
@@ -19,7 +15,7 @@ sto partecipando alla realizzazione del video che sarà presentato durante quest
   
 le testimonianze che abbiam oregistrato sono davvero interessanti, e aprono delle porte a numerose e profonde riflessioni sulla nostra esistenza.
 
-<a href='/wp-content/pieghAMAcopertina.pdf' title='' target="_blank">allego qui il volantino dell&#8217;evento e la sua introduzione&#8230;</a>
+<a href='/wp-content/pieghAMAcopertina.pdf' title='' target="_blank">allego qui il volantino dell'evento e la sua introduzione…</a>
 
 _Sappiamo oggi, che la grande legge della crescita e dell’evoluzione umana è quella “dell’incontro con altri”, cioè di poter fare scambi a vari livelli (consci, subconsci e superconsci) così come a livello fisico, emotivo, mentale e spirituale.
   

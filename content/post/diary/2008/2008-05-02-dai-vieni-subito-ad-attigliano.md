@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-05-02T13:02:45Z"
+categories: [blog]
+date: 2008-05-02T13:02:45Z
 guid: http://stefanocecere.com/2008/05/02/dai-vieni-subito-ad-attigliano/
 id: 909
-related_posts:
-- null
 tags:
 - Parco Attigliano
 - Silo
@@ -26,10 +23,10 @@ stamani il sindaco e un assessore di Attigliano sono venuti al Parco a vedere co
   
 domani la proloco ha organizzato una cena per tutti nella piazza centrale del paese.
 
-insomma.. c&#8217;è aria di festa ma anche di profondo cambiamento.
+insomma.. c'è aria di festa ma anche di profondo cambiamento.
 
-uomo avvisato.. mezzo&#8230;
+uomo avvisato.. mezzo…
 
-guarda un po&#8217; di foto qui: <http://www.flickr.com/photos/krur/>
+guarda un po' di foto qui: <http://www.flickr.com/photos/krur/>
 
 [<img src="http://farm3.static.flickr.com/2204/2458474963_61be4b3e63.jpg" width="500" height="375" alt="Parco Attigliano - lavori in corso" />](http://www.flickr.com/photos/krur/2458474963/ "Parco Attigliano - lavori in corso di Humanist 2.0, su Flickr")

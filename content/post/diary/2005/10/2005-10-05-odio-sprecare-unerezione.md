@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-10-05T18:36:28Z"
+categories: [blog]
+date: 2005-10-05T18:36:28Z
 guid: http://stefanocecere.com/2005/10/06/odio-sprecare-unerezione/
 id: 101
-related_posts:
-- null
 tags:
 - sesso
 title: odio sprecare un'erezione…

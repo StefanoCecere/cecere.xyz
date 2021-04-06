@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-01-31T09:29:43Z"
+categories: [blog]
+date: 2008-01-31T09:29:43Z
 guid: http://stefanocecere.com/2008/01/31/questa-sera-un-umanista-da-santoro/
 id: 673
-related_posts:
-- null
 tags:
 - Politica
 - Terra 2.0

@@ -1,16 +1,13 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-05-23T06:52:01Z"
+categories: [blog]
+date: 2008-05-23T06:52:01Z
 guid: http://stefanocecere.com/2008/05/23/prima-di-tutto/
 id: 973
-related_posts:
-- null
 tags:
 - arte
 - poesia
-title: Prima di tutto&#8230;
+title: Prima di tutto…
 slug: /2008/05/23/prima-di-tutto/
 ---
 
@@ -32,7 +29,7 @@ ed io non dissi niente, perchè non ero comunista.
 
 Un giorno vennero a prendere me,
   
-e non c&#8217;era rimasto nessuno a protestare.</strong>
+e non c'era rimasto nessuno a protestare.</strong>
 
 _Martin Niemoeller (pastore evangelico tedesco
   

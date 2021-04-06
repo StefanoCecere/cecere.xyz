@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-03-29T09:16:36Z"
+categories: [blog]
+date: 2008-03-29T09:16:36Z
 guid: http://stefanocecere.com/2008/03/29/costruzione-della-base-usa-dal-molin-si-fara-e-sono-tutti-complici/
 id: 785
-related_posts:
-- null
 tags:
 - comunicato
 - disarmo nucleare
@@ -19,7 +15,7 @@ title: 'Costruzione della base USA Dal Molin: sì farà e sono tutti complici.'
 slug: /2008/03/29/costruzione-della-base-usa-dal-molin-si-fara-e-sono-tutti-complici/
 ---
 
-nel pregare TUTTI di FIRMARE la petizione per FERMARE la costruzione della mega base radar USA in Repubblica Ceca (vai qui: [www.nonviolence.cz](http://petice.nenasili.cz/index.php?lang=it) ) riporto questo comunicato stampa di ieri del Comitato NO DAL MOLIN (mi dispiace per chi vota PD&#8230; ragazzi **non è interessante né necessario amalgamarsi con tutto e tutti pur di avere il potere se poi si deve scendere a compromessi e risultare vergognosamente incoerenti e ipocriti sulle questioni importanti&#8230;**):
+nel pregare TUTTI di FIRMARE la petizione per FERMARE la costruzione della mega base radar USA in Repubblica Ceca (vai qui: [www.nonviolence.cz](http://petice.nenasili.cz/index.php?lang=it) ) riporto questo comunicato stampa di ieri del Comitato NO DAL MOLIN (mi dispiace per chi vota PD… ragazzi **non è interessante né necessario amalgamarsi con tutto e tutti pur di avere il potere se poi si deve scendere a compromessi e risultare vergognosamente incoerenti e ipocriti sulle questioni importanti…**):
 
 VICENZA BASE USA DAL MOLIN
 

@@ -4,7 +4,7 @@ slug:
 subtitle: ""
 summary: ""
 tags: [EdTips, lingue]
-categories: [diary]
+categories: [blog]
 date: 2021-03-29T00:29:50+02:00
 #lastmod: 2021-04-04T00:29:50+02:00
 featured: false

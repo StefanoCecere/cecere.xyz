@@ -1,14 +1,10 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Politica
 - Smile
 - Tempi moderni
-date: "2011-01-19T09:32:03Z"
+date: 2011-01-19T09:32:03Z
 guid: http://stefanocecere.com/?p=2340
 id: 2340
 tags:

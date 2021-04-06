@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2008-04-10T09:42:54Z"
+date: 2008-04-10T09:42:54Z
 guid: http://stefanocecere.com/2008/04/10/articolo-sulle-basi-radar-in-repubblica-ceca/
 id: 838
-related_posts:
-- null
 tags:
 - comunicato
 - disarmo nucleare

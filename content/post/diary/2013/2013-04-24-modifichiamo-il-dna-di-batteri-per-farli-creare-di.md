@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-04-24T06:09:35Z"
+date: 2013-04-24T06:09:35Z
 format: status
 guid: http://twitter-326925865923514368-post
 id: 4331
-title: modifichiamo il DNA di batteri per farli creare di&#8230;
+title: modifichiamo il DNA di batteri per farli creare di…
 slug: /2013/04/24/modifichiamo-il-dna-di-batteri-per-farli-creare-di/
 ---
 

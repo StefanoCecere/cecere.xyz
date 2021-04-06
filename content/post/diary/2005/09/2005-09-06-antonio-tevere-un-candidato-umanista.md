@@ -1,13 +1,10 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-09-06T09:12:23Z"
+categories: [blog]
+date: 2005-09-06T09:12:23Z"
 excerpt: L'Uomo al centro dei programmi
 guid: http://stefanocecere.com/?p=79
 id: 79
-related_posts:
-- null
 tags:
 - partito umanista
 - umanista
@@ -17,7 +14,7 @@ slug: /2005/09/06/antonio-tevere-un-candidato-umanista/
 
 riporto questa breve descrizione di un candidato per il Partito Umanista a non so quale elezione del 2000.
   
-credo sia abbastanza interessante. a voi constatare la &#8220;differenza&#8221; con gli altri..
+credo sia abbastanza interessante. a voi constatare la "differenza" con gli altri..
   
 ciao
 
@@ -29,7 +26,7 @@ Un partito che ha scelto di rilanciare "l’Umanesimo". Di porre al centro della
 
 Per queste elezioni regionali, il Partito Umanista &egrave; riuscito a presentare soltanto il "listino" per la quota maggioritaria uguale in tutto il Piemonte. I militanti hanno raccolto 3500 firme che sono state al centro di un contenzioso giuridico sull’interpretazione della normativa elettorale. In un primo tempo esclusi dalle elezioni, gli umanisti sono stati subito riammessi e il numero delle firme giudicato sufficiente.
 
-I temi delle elezioni regionali sono tutti pervasi dai grandi valori dell’uomo. Il punto di riferimento degli umanisti &egrave; la "Dichiarazione dei diritti dell’uomo" delle Nazioni unite, del 1949. Da questa sorta di costituzione umanista discendono le proposte concrete. "Tutte le proposte di legge devono essere ispirate ai diritti dell’uomo &#8211; spiega Tevere &#8211; Proponiamo che il Piemonte si doti di un assessorato dei diritti umani che sostituisca gli attuali assessorati delle pari opportunit&agrave;, degli affari sociali, ecc. Questo assessorato deve tutelare le persone nei loro diritti elementari, proteggerle dalle discriminazioni".
+I temi delle elezioni regionali sono tutti pervasi dai grandi valori dell’uomo. Il punto di riferimento degli umanisti &egrave; la "Dichiarazione dei diritti dell’uomo" delle Nazioni unite, del 1949. Da questa sorta di costituzione umanista discendono le proposte concrete. "Tutte le proposte di legge devono essere ispirate ai diritti dell’uomo - spiega Tevere - Proponiamo che il Piemonte si doti di un assessorato dei diritti umani che sostituisca gli attuali assessorati delle pari opportunit&agrave;, degli affari sociali, ecc. Questo assessorato deve tutelare le persone nei loro diritti elementari, proteggerle dalle discriminazioni".
 
 Altri temi umanisti riguardano sempre le condizioni della vita umana: da livellare verso l’alto. Per questo, Tevere propone una sanit&agrave; al servizio dei cittadini e gratuita. Un ambiente dove siano i cittadini a decidere se vogliono vivere accanto ad un’autostrada, a campi elettromagnetici, immersi nell’inquinamento. "Per questo chiediamo che il Tav in valle di Susa non si faccia. L&igrave; le popolazioni hanno chiaramente espresso la loro volont&agrave;: non lo vogliono. Bisogna quindi rispettarle e non fare l’alta velocit&agrave;. Le alternative alle grandi esigenze dei trasporti si possono trovare nei potenziamenti aeroportuali: per esempio l’aeroporto di Caselle".
 
@@ -44,5 +41,5 @@ Anche nelle fabbriche, gli umanisti propongono la ricetta del consenso. "Nelle a
 &nbsp;
 
 <p class="ngiornale" align="right">
-  articolo di Massimiliano Borgia &#8211; luna nuova n. 28 marted&igrave; 11 aprile 2000
+  articolo di Massimiliano Borgia - luna nuova n. 28 marted&igrave; 11 aprile 2000
 </p>

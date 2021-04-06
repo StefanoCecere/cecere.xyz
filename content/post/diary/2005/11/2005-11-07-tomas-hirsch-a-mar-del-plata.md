@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-11-07T00:03:54Z"
+categories: [blog]
+date: 2005-11-07T00:03:54Z
 guid: http://stefanocecere.com/?p=135
 id: 135
-related_posts:
-- null
 tags:
 - Tomas Hirsch
 - umanista

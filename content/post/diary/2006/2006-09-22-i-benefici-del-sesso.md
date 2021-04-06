@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2006-09-22T10:31:31Z"
+categories: [blog]
+date: 2006-09-22T10:31:31Z
 guid: http://stefanocecere.com/2006/09/22/i-benefici-del-sesso/
 id: 424
-related_posts:
-- null
 tags:
 - ricreazione
 - sesso

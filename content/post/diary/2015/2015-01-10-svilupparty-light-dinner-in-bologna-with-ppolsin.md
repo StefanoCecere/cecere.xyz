@@ -2,13 +2,13 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2015-01-10T20:59:05Z"
+date: 2015-01-10T20:59:05Z
 format: status
 guid: http://twitter-554004523011035136-post
 id: 5581
 tags:
 - tweet
-title: Svilupparty light dinner in Bologna. With @ppolsin&#8230;
+title: Svilupparty light dinner in Bologna. With @ppolsin…
 slug: /2015/01/10/svilupparty-light-dinner-in-bologna-with-ppolsin/
 ---
 

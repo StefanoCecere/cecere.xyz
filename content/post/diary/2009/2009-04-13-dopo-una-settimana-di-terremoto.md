@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2009-04-13T21:10:14Z"
+categories: [blog]
+date: 2009-04-13T21:10:14Z
 guid: http://stefanocecere.com/?p=1642
 id: 1642
 tags:

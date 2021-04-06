@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2008-05-15T09:55:32Z"
+date: 2008-05-15T09:55:32Z
 guid: http://stefanocecere.com/2008/05/15/l%e2%80%99europa-dice-no-allo-scudo-spaziale/
 id: 937
-related_posts:
-- null
 tags:
 - azioni
 - disarmo nucleare
@@ -20,7 +18,7 @@ title: L’Europa dice NO allo Scudo spaziale
 slug: /2008/05/15/leuropa-dice-no-allo-scudo-spaziale/
 ---
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/giorgio_shultze.png' alt='giorgio_shultze.png' align="left" />Presentato come un sistema di difesa contro i possibili attacchi dei missili iraniani, il progetto degli Stati Uniti NMD – sistema missilistico nazionale, conosciuto come “Scudo spaziale” &#8211; è in realtà un’arma di offesa e mira alla militarizzazione ed al controllo dello spazio. Come sostiene **Noam Chomsky, “l’installazione da parte degli Stati Uniti di un sistema di difesa missilistica in Europa orientale è praticamente una dichiarazione di guerra, uno strumento per il dominio globale”.** 
+<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/giorgio_shultze.png' alt='giorgio_shultze.png' align="left" />Presentato come un sistema di difesa contro i possibili attacchi dei missili iraniani, il progetto degli Stati Uniti NMD – sistema missilistico nazionale, conosciuto come “Scudo spaziale” - è in realtà un’arma di offesa e mira alla militarizzazione ed al controllo dello spazio. Come sostiene **Noam Chomsky, “l’installazione da parte degli Stati Uniti di un sistema di difesa missilistica in Europa orientale è praticamente una dichiarazione di guerra, uno strumento per il dominio globale”.** 
 
 Il progetto è avvolto in un alone di mistero, con accordi segreti tra gli Stati Uniti e vari paesi europei, tagliando fuori l’opinione pubblica e gli stessi Parlamenti. L’Europa non è riuscita a dare una risposta unitaria, coerente e nonviolenta alla politica aggressiva degli Stati Uniti e questa sua inerzia ha contribuito a spingere la Russia, che si sente direttamente minacciata dal progetto americano, sulla strada del riarmo, ricreando un’atmosfera da “guerra fredda”.
 

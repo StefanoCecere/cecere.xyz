@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Futuro
-date: "2007-06-25T18:40:38Z"
+date: 2007-06-25T18:40:38Z
 guid: http://stefanocecere.com/2007/06/25/fannullone-party-la-festa-dellozio-e-non-solo/
 id: 513
-related_posts:
-- null
 tags:
 - arte
 - Events

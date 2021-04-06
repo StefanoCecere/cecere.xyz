@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-02-21T11:27:46Z"
+categories: [blog]
+date: 2008-02-21T11:27:46Z
 guid: http://stefanocecere.com/2008/02/21/proseguono-i-lavori-al-parco-di-punta-de-vacas/
 id: 690
-related_posts:
-- null
 tags:
 - Ande
 - Parco Punta de Vacas
@@ -24,8 +21,8 @@ slug: /2008/02/21/proseguono-i-lavori-al-parco-di-punta-de-vacas/
 
 in queste foto si possono vedere i progressi del Centro di Studi e del Laboratorio
 
-Nota: Punta de Vacas si trova sulle Ande, ai piedi dell&#8217;Aconcagua (il monte più alto del sudamerica)
+Nota: Punta de Vacas si trova sulle Ande, ai piedi dell'Aconcagua (il monte più alto del sudamerica)
   
-laggiù, il 4 gennaio 2010, ci sarà qualcuno che&#8230;.
+laggiù, il 4 gennaio 2010, ci sarà qualcuno che….
 
 <http://www.parquepuntadevacas.org/>

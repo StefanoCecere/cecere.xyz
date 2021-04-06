@@ -1,14 +1,11 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2005-10-31T23:33:19Z"
+categories: [blog]
+date: 2005-10-31T23:33:19Z
 guid: http://stefanocecere.com/2005/10/31/tutto-quello-che-sai-e-falso/
 id: 124
-related_posts:
-- null
 tags:
+- Tempi moderni
 - disinformazione
 - droga
 - libri
@@ -17,7 +14,7 @@ title: Tutto quello che sai è FALSO
 slug: /2005/10/31/tutto-quello-che-sai-e-falso/
 ---
 
-un po' lo sapevo gi&#xe0;, ma ricordarmelo non fa mai male…
+un po' lo sapevo già, ma ricordarmelo non fa mai male…
 
 ieri ho comprato due libri: il Pimandro (del buon ermete trismegisto .. volevo rileggerlo) e &#x201c;Tutto ciò che sai è FALSO 2&#x201d;, edizioni <http://www.nuovimondimedia.com>
 

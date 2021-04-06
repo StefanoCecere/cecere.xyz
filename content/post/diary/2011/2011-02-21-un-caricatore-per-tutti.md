@@ -1,13 +1,9 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Futuro
 - Tecnologia
-date: "2011-02-21T22:32:53Z"
+date: 2011-02-21T22:32:53Z
 guid: http://stefanocecere.com/?p=2385
 id: 2385
 tags:

@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-10-23T22:34:12Z"
+date: 2013-10-23T22:34:12Z
 format: status
 guid: http://twitter-393128245480013824-post
 id: 4735
-title: si, Fabio, è proprio lui! e riusciremo a costruirn&#8230;
+title: si, Fabio, è proprio lui! e riusciremo a costruirn…
 slug: /2013/10/23/si-fabio-e-proprio-lui-e-riusciremo-a-costruirn/
 ---
 

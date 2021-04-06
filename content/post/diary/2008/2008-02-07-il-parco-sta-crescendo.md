@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-02-07T18:56:26Z"
+categories: [blog]
+date: 2008-02-07T18:56:26Z
 guid: http://stefanocecere.com/2008/02/07/il-parco-sta-crescendo/
 id: 677
-related_posts:
-- null
 tags:
 - Parco Attigliano
 - Silo

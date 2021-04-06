@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-10-19T08:00:58Z"
+date: 2013-10-19T08:00:58Z
 format: status
 guid: http://twitter-391458937842962432-post
 id: 4718
-title: 'Tutti i lavoratori e i politici (sopratutto #m5s )&#8230;'
+title: 'Tutti i lavoratori e i politici (sopratutto #m5s )…'
 slug: /2013/10/19/tutti-i-lavoratori-e-i-politici-sopratutto-m5s/
 ---
 

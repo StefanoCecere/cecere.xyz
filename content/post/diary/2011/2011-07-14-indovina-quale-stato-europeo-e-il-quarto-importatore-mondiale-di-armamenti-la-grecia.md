@@ -1,13 +1,9 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Mondo Senza Guerre
 - Politica
-date: "2011-07-14T16:27:00Z"
+date: 2011-07-14T16:27:00Z
 guid: http://stefanocecere.com/?p=2520
 id: 2520
 tags:
@@ -27,7 +23,7 @@ di Steve McGiffen</span>
   
 Fonte: <a href="http://www.spectrezine.org/guess-which-bankrupt-eu-state-world’s-fourth-biggest-arms-importer" target="_blank">http://www.spectrezine.org/guess-which-bankrupt-eu-state-world’s-fourth-biggest-arms-importer</a>
 
-Traduzione di Marcello Gentile per l&#8217;Ernesto online
+Traduzione di Marcello Gentile per l'Ernesto online
 
 Nulla di meglio mette a nudo l’ipocrisia di chi governa oggi l’Unione Europea e di tutti i suoi stati, della recente scoperta di un giornalista francese, Jean-Luis Denier, secondo il quale **stanno incoraggiando il governo greco a spendere grandi somme di denaro in un’ampia gamma di prodotti di cui non ha necessità e che nessuno sano di mente vorrebbe**.
 

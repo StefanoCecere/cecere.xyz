@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-10-21T10:03:08Z"
+date: 2013-10-21T10:03:08Z
 format: status
 guid: http://twitter-392214456861982720-post
 id: 4727
-title: vero, la Lamborghini Veneno è wow, ma non tiene la&#8230;
+title: vero, la Lamborghini Veneno è wow, ma non tiene la…
 slug: /2013/10/21/vero-la-lamborghini-veneno-e-wow-ma-non-tiene-la/
 ---
 

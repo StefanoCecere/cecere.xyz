@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-04-20T21:29:48Z"
+date: 2013-04-20T21:29:48Z
 format: status
 guid: http://twitter-325707896346267649-post
 id: 4315
-title: cmq l’album Discovery dei DaftPunk (e sopratutto i&#8230;
+title: cmq l’album Discovery dei DaftPunk (e sopratutto i…
 slug: /2013/04/20/cmq-lalbum-discovery-dei-daftpunk-e-sopratutto-i/
 ---
 

@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2009-04-07T09:24:29Z"
+categories: [blog]
+date: 2009-04-07T09:24:29Z
 guid: http://stefanocecere.com/?p=1637
 id: 1637
 tags:
@@ -22,4 +21,4 @@ guarda la danzatrice qui sotto. in che senso sta ruotando? chiedi in giro ai tuo
 
 <img class="aligncenter size-full wp-image-1638" title="illusione_ottica_danzatrice" src="http://stefanocecere.com/wp-content/uploads/sites/3/2009/04/illusione_ottica_danzatrice.gif" alt="illusione_ottica_danzatrice" width="300" height="400" />
 
-suggerimento: se non vedi nulla di anomalo.. prova a concentrarti solo sull&#8217;ombra.. e poi torna sulla figura
+suggerimento: se non vedi nulla di anomalo.. prova a concentrarti solo sull'ombra.. e poi torna sulla figura

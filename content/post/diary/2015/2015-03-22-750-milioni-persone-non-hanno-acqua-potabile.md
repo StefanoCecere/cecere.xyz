@@ -1,9 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2015-03-22T06:38:12Z"
+categories: [blog]
+date: 2015-03-22T06:38:12Z
 guid: http://stefanocecere.com/?p=5705
 id: 5705
 tags:

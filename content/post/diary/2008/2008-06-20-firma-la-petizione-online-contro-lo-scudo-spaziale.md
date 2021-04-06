@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-06-20T10:10:47Z"
+categories: [blog]
+date: 2008-06-20T10:10:47Z
 guid: http://stefanocecere.com/2008/06/20/firma-la-petizione-online-contro-lo-scudo-spaziale/
 id: 1051
-related_posts:
-- null
 tags:
 - nonviolenza
 - petizione

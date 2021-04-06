@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-01-09T02:26:11Z"
+categories: [blog]
+date: 2008-01-09T02:26:11Z
 guid: http://stefanocecere.com/2008/01/09/non-ci-sono-colpevoli-che-fare-non-ci-sara-cambiamento-senza-riconciliazione/
 id: 645
-related_posts:
-- null
 tags:
 - spirito
 - Terra 2.0
@@ -36,15 +32,15 @@ Questo comincerà qui e ora, in te e in me, e saremo responsabili del fatto che 
 
 Se la direzione della tua vita non è ancora cambiata hai bisogno di farlo, ma se è già cambiata hai bisogno di rafforzarla.
 
-Affinché tutto questo sia possibile, accompagnami in un atto libero, coraggioso e profondo che sia inoltre un impegno: mettiamoci in piedi…e di fronte al nostro futuro chiediamo: “E’ necessario per me e per altri che cambi o si rafforzi la direzione della mia vita?&#8230;”
+Affinché tutto questo sia possibile, accompagnami in un atto libero, coraggioso e profondo che sia inoltre un impegno: mettiamoci in piedi…e di fronte al nostro futuro chiediamo: “E’ necessario per me e per altri che cambi o si rafforzi la direzione della mia vita?…”
 
 Allora in silenzio ascoltiamo la nostra voce interna.
 
-“E’ necessario per me e per altri che cambi o si rafforzi la direzione della mia vita?&#8230;”
+“E’ necessario per me e per altri che cambi o si rafforzi la direzione della mia vita?…”
 
-“Voglio cambiare o rafforzare la direzione della mia vita?&#8230;”
+“Voglio cambiare o rafforzare la direzione della mia vita?…”
 
-“Ho speranza che cambierà o si rafforzerà la direzione della mia vita?&#8230;”
+“Ho speranza che cambierà o si rafforzerà la direzione della mia vita?…”
 
 “Allora che sgorghi in me la Forza e la Luce della vita”.
 
@@ -58,4 +54,4 @@ Oggi e non domani va verso la riconciliazione; abbraccia tua moglie o tuo marito
 
 Pace, Forza e Allegria!
 
-_Silo &#8211; Milano, teatro Carcano, 18/10/1981_
+_Silo - Milano, teatro Carcano, 18/10/1981_

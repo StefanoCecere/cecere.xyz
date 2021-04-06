@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2006-04-03T14:47:16Z"
+categories: [blog]
+date: 2006-04-03T14:47:16Z
 guid: http://stefanocecere.com/?p=249
 id: 249
-related_posts:
-- null
 tags:
 - Firenze
 title: Terra Futura
@@ -17,6 +14,6 @@ slug: /2006/04/03/terra_futura/
 
 davvero tanta roba, e tantissima gente! questo il fatto secondo me più interessante.
 
-<img src='/wp-content/terra_futura_2.jpg' alt='' align='left' />gironzolando ho scoperto una rivista che fa proprio al caso mio: [www.scienzaeconoscenza.it](http://www.scienzaeconoscenza.it/)&#8230; tenetela sott&#8217;occhio.
+<img src='/wp-content/terra_futura_2.jpg' alt='' align='left' />gironzolando ho scoperto una rivista che fa proprio al caso mio: [www.scienzaeconoscenza.it](http://www.scienzaeconoscenza.it/)… tenetela sott'occhio.
 
 il sito di Terra Futura è [www.terrafutura.it](http://www.terrafutura.it/)

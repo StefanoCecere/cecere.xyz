@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-09-21T12:20:36Z"
+categories: [blog]
+date: 2005-09-21T12:20:36Z
 guid: http://stefanocecere.com/2005/09/22/fannullone-sei/
 id: 91
-related_posts:
-- null
 tags:
 - Il Fannullone
 title: fannullone sei

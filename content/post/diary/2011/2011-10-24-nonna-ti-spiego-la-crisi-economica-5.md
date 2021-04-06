@@ -1,13 +1,9 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Economia
 - Tempi moderni
-date: "2011-10-24T08:29:07Z"
+date: 2011-10-24T08:29:07Z
 guid: http://stefanocecere.com/?p=2724
 id: 2724
 tags:
@@ -20,7 +16,7 @@ title: Nonna, ti spiego la crisi economica. 5
 slug: /2011/10/24/nonna-ti-spiego-la-crisi-economica-5/
 ---
 
-_(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del tutto digiune di economia, scritto da Paolo Barnard &#8211; leggi [introduzione e sommario qui](http://stefanocecere.com/2011/10/24/vi-spiego-la-crisi-economica/ "Vi spiego la crisi economica"))_
+_(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del tutto digiune di economia, scritto da Paolo Barnard - leggi [introduzione e sommario qui](http://stefanocecere.com/2011/10/24/vi-spiego-la-crisi-economica/ "Vi spiego la crisi economica"))_
 
 **Nonna:** Senti, però ci sono due cose dell’altra volta che non ho capito. Tu dici che se lo Stato spende per darci tutto quello ci manca, e magari compra le cose che le fabbriche non vendono, allora tutti noi stiamo meglio. Bè, stamattina ero dal dottore per l’anca, e lui mi diceva che per l’operazione ci vogliono 7-8 mesi. Io gli ho detto: _“Mio nipote dice che se lo Stato spende di più, può fare altri ospedali e assumere tutti i medici che vuole”_. E sai lui cosa ha risposto? Ha risposto che è d’accordo, ma poi c’abbiamo l’inflazione. Cosa vuol dire?
 
@@ -56,14 +52,14 @@ _(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del
 
 **Nonna:** Cavoli, è vero!
 
-**P.** Ma lasciami arrivare alle parole “debito statale”, per essere preciso. Lo Stato deve però comprare con la sua spesa **di più di quello che toglie** con le tasse ad A) e B), ovvio, se no non ci sono profitti per A) e B); se no crolla tutta quella catena virtuosa. Gli deve **versare più soldi di quanto li tassi**. E lo Stato versa più soldi di quanto tassi solo quando?&#8230; nonna?
+**P.** Ma lasciami arrivare alle parole “debito statale”, per essere preciso. Lo Stato deve però comprare con la sua spesa **di più di quello che toglie** con le tasse ad A) e B), ovvio, se no non ci sono profitti per A) e B); se no crolla tutta quella catena virtuosa. Gli deve **versare più soldi di quanto li tassi**. E lo Stato versa più soldi di quanto tassi solo quando?… nonna?
 
 **Nonna:** Quando?
 
 **P.** Solo quando **spende a DE-BI-TO**, quando cioè spende più di quello che incassa (tassa). Ecco provato il fatto che, di nuovo, **se si elimina la spesa dello Stato a debito è impossibile che il contenitore generale dei cittadini e delle aziende si arricchisca al netto**. Chi va in tv a dirci che la nostra salvezza è nell’eliminazione del debito pubblico, o non capisce niente di economia o vuole uccidere la nostra Gallina dalle Uova d’Oro secondo il piano delle elite di cui abbiamo parlato. Punto. Ti avevo già spiegato che il debito pubblico è la ricchezza dei cittadini, ora sai che è anche il profitto delle aziende in gran parte.
 
-**Nonna:** Ma sto debito, insomma, ma roba da matti&#8230; ma è proprio la nostra fortuna! E allora quella stupida di quella donna in tv cosa va a dire che si deve eliminare il debito dello Stato per fare più profitti alle industrie? Ma non le sa ste cose?
+**Nonna:** Ma sto debito, insomma, ma roba da matti… ma è proprio la nostra fortuna! E allora quella stupida di quella donna in tv cosa va a dire che si deve eliminare il debito dello Stato per fare più profitti alle industrie? Ma non le sa ste cose?
 
 **P.** E’ probabile di no, ricordati che **le elite hanno lavato il cervello proprio alle classi dirigenti e ai politici per uccidere la spesa a debito dello Stato**, che era a nostro favore e a favore della democrazia. Li hanno indottrinati ben bene, ripensa all’esempio delle tonsille. Baci.
 
-([Continua&#8230;](http://stefanocecere.com/2011/10/25/nonna-ti-spiego-la-crisi-economica-6/ "Nonna, ti spiego la crisi economica. 6"))
+([Continua…](http://stefanocecere.com/2011/10/25/nonna-ti-spiego-la-crisi-economica-6/ "Nonna, ti spiego la crisi economica. 6"))

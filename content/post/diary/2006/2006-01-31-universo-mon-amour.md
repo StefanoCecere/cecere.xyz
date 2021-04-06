@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2006-01-31T23:06:08Z"
+categories: [blog]
+date: 2006-01-31T23:06:08Z
 guid: http://stefanocecere.com/2006/02/02/universo-mon-amour/
 id: 220
-related_posts:
-- null
 tags:
 - esistenza
 - poesia

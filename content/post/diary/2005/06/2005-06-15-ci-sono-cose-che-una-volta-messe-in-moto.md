@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-06-15T11:32:20Z"
+categories: [blog]
+date: 2005-06-15T11:32:20Z
 guid: http://stefanocecere.com/?p=24
 id: 24
-related_posts:
-- null
 tags:
 - umanista
 title: ci sono cose che una volta messe in moto…

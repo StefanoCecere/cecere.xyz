@@ -2,14 +2,14 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2009-05-06T09:39:25Z"
+date: 2009-05-06T09:39:25Z
 guid: http://stefanocecere.com/?p=1739
 id: 1739
 tags:
 - arte
 - crisi
 - video
-title: Un video vi spiega la crisi dei mutui &quot;subprime&quot; americani&#8230;
+title: Un video vi spiega la crisi dei mutui &quot;subprime&quot; americani…
 slug: /2009/05/06/un-video-vi-spiega-la-crisi-dei-mutui-subprime-americani/
 ---
 

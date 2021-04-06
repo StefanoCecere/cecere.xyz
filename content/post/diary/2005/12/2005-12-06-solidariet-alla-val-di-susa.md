@@ -2,14 +2,12 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2005-12-06T15:53:57Z"
+date: 2005-12-06T15:53:57Z
 guid: http://stefanocecere.com/2005/12/06/solidariet-alla-val-di-susa/
 id: 169
-related_posts:
-- null
 tags:
 - violenza
-title: solidariet&#xe0; alla Val di Susa
+title: solidarietà alla Val di Susa
 slug: /2005/12/06/solidariet-alla-val-di-susa/
 ---
 

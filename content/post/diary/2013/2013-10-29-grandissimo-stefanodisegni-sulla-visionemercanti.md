@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-10-29T08:45:34Z"
+date: 2013-10-29T08:45:34Z
 format: status
 guid: http://twitter-395094040460668928-post
 id: 4772
-title: 'grandissimo @StefanoDisegni sulla #VisioneMercanti&#8230;'
+title: 'grandissimo @StefanoDisegni sulla #VisioneMercanti…'
 slug: /2013/10/29/grandissimo-stefanodisegni-sulla-visionemercanti/
 ---
 

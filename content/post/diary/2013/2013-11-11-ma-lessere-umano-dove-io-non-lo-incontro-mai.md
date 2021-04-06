@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-11-11T06:29:03Z"
+date: 2013-11-11T06:29:03Z
 format: status
 guid: http://twitter-399770728238972928-post
 id: 4811
-title: “… ma l’essere umano dov’è? Io non lo incontro mai&#8230;
+title: “… ma l’essere umano dov’è? Io non lo incontro mai…
 slug: /2013/11/11/ma-lessere-umano-dove-io-non-lo-incontro-mai/
 ---
 

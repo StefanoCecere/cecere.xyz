@@ -1,13 +1,10 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2005-11-04T09:03:36Z"
+categories: [blog]
+tags: [Tempi moderni]
+date: 2005-11-04T09:03:36Z
 guid: http://stefanocecere.com/2005/11/04/non-e-facile-trovare-sempre-un-sorriso-e-la-repubblica-illuminata/
 id: 128
-related_posts:
-- null
 title: non è facile trovare sempre un sorriso, e la repubblica illuminata
 slug: /2005/11/04/non-e-facile-trovare-sempre-un-sorriso-e-la-repubblica-illuminata/
 ---
@@ -24,13 +21,13 @@ ieri sera ho visto un po' di Celentano (solo perch&#xe9; mi sono fatto la riboll
   
 mi è piaciuto il discorso di andare sul vocabolario a rivedere la definizione di alcuni termini di uso comune (tipo democrazia o demagogia) di cui ormai si è perso il senso..
 
-ma un discorso che ha fatto.. che cioè la &#x201c;via&#x201d; buona non è proprio quella della democrazia (dove il popolo è sovrano e decide) ma, citando Platone, uno stato governato dai filosofi, dalla &#x201c;ragione&#x201d; e dalla &#x201c;verit&#xe0;&#x201d;, è la strada migliore..
+ma un discorso che ha fatto.. che cioè la &#x201c;via&#x201d; buona non è proprio quella della democrazia (dove il popolo è sovrano e decide) ma, citando Platone, uno stato governato dai filosofi, dalla &#x201c;ragione&#x201d; e dalla &#x201c;verità&#x201d;, è la strada migliore..
 
 dicevo questo discorso mi strideva un po'.
 
 io penso che in questo momento storico un'ipotesi del genere sia quanto di pi&#xf9; nefasto ci possa essere.
 
-se oggi il &#x201c;popolo&#x201d; non è &#x201c;ragionevole&#x201d; e non aspira alla &#x201c;verit&#xe0;&#x201d;, forse è perch&#xe9; non viene data abbastanza energia all'educazione, alla libert&#xe0; di espressione, alla possibilit&#xe0; di crescita.. mentre si d&#xe0; gas all'informazione manipolata, all'industria dell'intrattenimento rincoglionante, alla diffusione delle droghe (a qualsiasi livello), si tagliano sanit&#xe0; ed istruzione garantendolo solo a chi può permettersele..
+se oggi il &#x201c;popolo&#x201d; non è &#x201c;ragionevole&#x201d; e non aspira alla &#x201c;verità&#x201d;, forse è perch&#xe9; non viene data abbastanza energia all'educazione, alla libertà di espressione, alla possibilità di crescita.. mentre si dà gas all'informazione manipolata, all'industria dell'intrattenimento rincoglionante, alla diffusione delle droghe (a qualsiasi livello), si tagliano sanità ed istruzione garantendolo solo a chi può permettersele..
 
 insomma: davanti ad un gran casino, il dire &#x201c;ragazzi non c'è niente da fare torniamo indietro&#x201d; non è molto simpatico.
   
@@ -40,7 +37,7 @@ DOVE LI TROVI UOMINI RAGIONEVOLI E VERITIERI?
   
 oggi se ne contano su due mani, nel mondo..
 
-certo: quando al potere andranno personaggi come un Dario Fo o un Tomas Hirsch molto probabilmente sar&#xe0; perch&#xe9; la gente sar&#xe0; cambiata. ma non accetterò mai che questi un giorno prendano una decisione importante dicendomi: non ti preoccupare se non ne capisci il motivo e soffrirai un po', &#x201c;IO SO CHE E' LA COSA MIGLIORE e un giorno mi ringrazierai…&#x201d;
+certo: quando al potere andranno personaggi come un Dario Fo o un Tomas Hirsch molto probabilmente sarà perch&#xe9; la gente sarà cambiata. ma non accetterò mai che questi un giorno prendano una decisione importante dicendomi: non ti preoccupare se non ne capisci il motivo e soffrirai un po', &#x201c;IO SO CHE E' LA COSA MIGLIORE e un giorno mi ringrazierai…&#x201d;
 
 uhmm.. ORA AL LAVORO!
   

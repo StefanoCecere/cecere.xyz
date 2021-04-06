@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Economia
-date: "2012-01-25T19:31:07Z"
+date: 2012-01-25T19:31:07Z
 guid: http://stefanocecere.com/?p=2827
 id: 2827
 tags:
@@ -20,7 +16,7 @@ slug: /2012/01/25/summit-modern-money-theory/
 
 dal 24 al 26 febbraio sarò a Rimini assieme ad altre centinaia di interessati/attivisti per partecipare a questo evento. Non ometto di invitarti a prenderne conoscenza ed eventualmente parteciparvi. Altri dettagli sul sito [www.democraziammt.info](http://www.democraziammt.info)
 
-NOTA: i relatori sono tutti economisti di una &#8220;nuova&#8221; scuola (che si rifà però ai principi base &#8220;pre&#8221; neo-liberismo e privatizzazione selvaggia). In pratica tutto quello che ci stanno propinando i media / politica / economia di turno non sono altro che derivazione di un&#8217;ideologia che mette il potere nelle mani di pochissimi.. quindi c&#8217;è poco da essere felici.
+NOTA: i relatori sono tutti economisti di una "nuova" scuola (che si rifà però ai principi base "pre" neo-liberismo e privatizzazione selvaggia). In pratica tutto quello che ci stanno propinando i media / politica / economia di turno non sono altro che derivazione di un'ideologia che mette il potere nelle mani di pochissimi.. quindi c'è poco da essere felici.
 
 Insomma i links ce li hai, mal che vada si passa assieme un finesettimana a Rimini.
 

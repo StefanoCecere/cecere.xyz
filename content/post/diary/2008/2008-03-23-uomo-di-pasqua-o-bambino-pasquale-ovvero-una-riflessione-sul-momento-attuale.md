@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-03-23T09:10:10Z"
+categories: [blog]
+date: 2008-03-23T09:10:10Z
 guid: http://stefanocecere.com/2008/03/23/uomo-di-pasqua-o-bambino-pasquale-ovvero-una-riflessione-sul-momento-attuale/
 id: 766
-related_posts:
-- null
 tags:
 - pasqua
 - pensieri
@@ -22,7 +19,7 @@ immagino molta gente nel mondo stia aprendo un uovo.
   
 molta di più probabilmente si chiederà cosa mangiare oggi. SE mangerà oggi.
 
-oggi finalmente piove. ieri dicevano oggi ci sarebbe stato il sole. l&#8217;altro ieri garantivano che oggi ci sarebbe stata la neve.
+oggi finalmente piove. ieri dicevano oggi ci sarebbe stato il sole. l'altro ieri garantivano che oggi ci sarebbe stata la neve.
 
 nelle ultime 24 ore saranno morte qualche centinaio di persone vittime di guerre (la maggior parte saranno civili e bambini)
   
@@ -32,9 +29,9 @@ sono appena riuscito a pagare un biglietto del treno di domani comodamente dal m
   
 mi chiedo il giorno in cui spegneranno quel server che succederà.
 
-ieri anche Science (la celebre rivista) ho confermato la constatazione che per un essere umano &#8220;dare è più che ricevere&#8221;.
+ieri anche Science (la celebre rivista) ho confermato la constatazione che per un essere umano "dare è più che ricevere".
   
-non avendo il registro interno delle proprie azioni, loro anno dovuto misurarlo &#8220;scientificamente&#8221; che quando una persona fa qualcosa per un altra, in modo disinteressato e solidale, si arricchisce ed è più felice rispetto a quando fa qualcosa per sé.
+non avendo il registro interno delle proprie azioni, loro anno dovuto misurarlo "scientificamente" che quando una persona fa qualcosa per un altra, in modo disinteressato e solidale, si arricchisce ed è più felice rispetto a quando fa qualcosa per sé.
 
 non so cosa significhi per te la Pasqua.
   

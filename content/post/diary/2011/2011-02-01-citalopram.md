@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2011-02-01T03:54:42Z"
+date: 2011-02-01T03:54:42Z
 guid: http://stefanocecere.com/?p=2351
 id: 2351
 tags:

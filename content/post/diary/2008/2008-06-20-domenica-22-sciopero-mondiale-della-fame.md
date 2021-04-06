@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Eventi
-date: "2008-06-20T10:15:52Z"
+date: 2008-06-20T10:15:52Z
 guid: http://stefanocecere.com/2008/06/20/domenica-22-sciopero-mondiale-della-fame/
 id: 1052
-related_posts:
-- null
 tags:
 - disarmo nucleare
 - Events
@@ -49,7 +47,7 @@ Gazebo, performance teatrali, musica, palloncini colorati e volantini.
   
 Tutti i passanti potranno registrare il proprio spot di denuncia e partecipare alla foto-petizione, ci saranno inoltre giocolieri, musicanti, e blitz scenografici di denuncia
 
-Nel corso di tutte le manifestazioni si potrà firmare la petizione online contro l&#8217;installazione di una base militare americana in Repubblica Ceca su [**DOMENICA 22 GIUGNO 2008**
+Nel corso di tutte le manifestazioni si potrà firmare la petizione online contro l'installazione di una base militare americana in Repubblica Ceca su [**DOMENICA 22 GIUGNO 2008**
   
 **GIORNATA MONDIALE DI SCIOPERO DELLA FAME CONTRO LO SCUDO SPAZIALE**
   
@@ -79,6 +77,6 @@ Gazebo, performance teatrali, musica, palloncini colorati e volantini.
   
 Tutti i passanti potranno registrare il proprio spot di denuncia e partecipare alla foto-petizione, ci saranno inoltre giocolieri, musicanti, e blitz scenografici di denuncia
 
-Nel corso di tutte le manifestazioni si potrà firmare la petizione online contro l&#8217;installazione di una base militare americana in Repubblica Ceca su](http://www.nonviolenza.net) 
+Nel corso di tutte le manifestazioni si potrà firmare la petizione online contro l'installazione di una base militare americana in Repubblica Ceca su](http://www.nonviolenza.net) 
 
 Analoghe iniziative di denuncia e protesta sono in corso ad Amsterdam, Barcellona, Berlino, Bologna, Budapest, České Budějovice, Copenhagen, Colonia, Dusseldorf, Firenze, Londra, Malaga, Madrid, Milano, Parigi, Tolosa, Trieste e Torino, negli Stati Uniti, in Australia, in Cile e in Argentina.

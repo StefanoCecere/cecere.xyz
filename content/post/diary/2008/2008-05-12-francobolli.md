@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Uncategorized
-date: "2008-05-12T00:31:03Z"
+date: 2008-05-12T00:31:03Z
 guid: http://stefanocecere.com/2008/05/12/francobolli/
 id: 923
-related_posts:
-- null
 tags:
 - ricreazione
 - ridere

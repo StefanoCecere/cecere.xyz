@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-09-11T11:45:13Z"
+categories: [blog]
+date: 2008-09-11T11:45:13Z
 guid: http://stefanocecere.com/?p=1139
 id: 1139
 tags:
@@ -18,7 +17,7 @@ title: come un film ti prepara al futuro, quanto buca un&#039;atomica e il bello
 slug: /2008/09/11/come-un-film-ti-prepara-al-futuro-atomica-ricchi/
 ---
 
-molto interessante (seppur è possibile non condividerne diversi punti) questo articolo che commenta una dozzina di film americani usciti negli ultimi anni, e la loro &#8220;sponsorizzazione&#8221; da parte del Pentagono o altri interessati a spingere determinate modificazioni di credenze sociali.
+molto interessante (seppur è possibile non condividerne diversi punti) questo articolo che commenta una dozzina di film americani usciti negli ultimi anni, e la loro "sponsorizzazione" da parte del Pentagono o altri interessati a spingere determinate modificazioni di credenze sociali.
 
 eccolo: [http://www.comedonchisciotte.org](http://www.comedonchisciotte.org/site/modules.php?name=News&file=article&sid=5000)
 

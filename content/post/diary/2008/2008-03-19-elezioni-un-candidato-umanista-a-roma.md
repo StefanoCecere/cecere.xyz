@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-03-19T17:29:40Z"
+categories: [blog]
+date: 2008-03-19T17:29:40Z
 guid: http://stefanocecere.com/2008/03/19/elezioni-un-candidato-umanista-a-roma/
 id: 759
-related_posts:
-- null
 tags:
 - elezioni
 - Politica

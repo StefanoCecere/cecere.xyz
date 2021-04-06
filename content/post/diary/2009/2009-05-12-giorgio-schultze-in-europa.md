@@ -3,7 +3,7 @@ author: Stefano Cecere
 categories:
 - Politica
 - Terra 2.0
-date: "2009-05-12T13:05:59Z"
+date: 2009-05-12T13:05:59Z
 guid: http://stefanocecere.com/?p=1780
 id: 1780
 tags:

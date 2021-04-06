@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2009-03-06T02:17:15Z"
+categories: [blog]
+date: 2009-03-06T02:17:15Z
 guid: http://stefanocecere.com/?p=1560
 id: 1560
 tags:
@@ -16,11 +15,11 @@ slug: /2009/03/06/sono-enormi/
 </p>
 
 <p style="text-align: center">
-  Non sono solito pubblicare foto di questo genere&#8230; suvvia in un blog di un filosofo/intellettuale impegnato in cose serie e astrazioni metafisiche&#8230; perdere la credibilità è una cosa esecrabile nel mondo stabilito!
+  Non sono solito pubblicare foto di questo genere… suvvia in un blog di un filosofo/intellettuale impegnato in cose serie e astrazioni metafisiche… perdere la credibilità è una cosa esecrabile nel mondo stabilito!
 </p>
 
 <p style="text-align: center">
-  ma questa volta ho voluto fare un&#8217;eccezione perchè mi hanno particolarmente colpito le dimensioni che questa ragazza osa mostrare!
+  ma questa volta ho voluto fare un'eccezione perchè mi hanno particolarmente colpito le dimensioni che questa ragazza osa mostrare!
 </p>
 
 <p style="text-align: center">
@@ -39,12 +38,12 @@ slug: /2009/03/06/sono-enormi/
     
     <p style="text-align: center">
       <p style="text-align: center">
-        in ritardo&#8230;
+        in ritardo…
       </p>
       
       <p style="text-align: center">
         <p style="text-align: center">
-          &#8230;credo&#8230;
+          …credo…
         </p>
         
         <p style="text-align: center">

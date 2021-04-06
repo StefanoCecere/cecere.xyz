@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2006-06-14T01:29:48Z"
+categories: [blog]
+date: 2006-06-14T01:29:48Z
 guid: http://stefanocecere.com/2006/06/14/ti-invito-domenica-pomeriggio-ad-una-festa-umanista/
 id: 333
-related_posts:
-- null
 tags:
 - arte
 - ricreazione
@@ -24,11 +21,11 @@ Negli ultimi post parlo molto di Movimento.. di solito non lo faccio ma è un pe
 
 Come a marzo il nostro appuntamento stagionale sarà al rinnovato locale Spazio, domenica 18 dalle 16:00 alle 20:00 circa (in serata filmone sul megaschermo per chi rimane)
 
-l&#8217;occasione è propizia per conoscersi un po&#8217; di più e magari curiosare in progetti inusitati.
+l'occasione è propizia per conoscersi un po' di più e magari curiosare in progetti inusitati.
 
 se la cosa ti interessa e/o ti siamo simpatici sei libera/o di partecipare:
   
-Spazio Fannullone via Borgazzi 105 (cortile interno) &#8211; Monza
+Spazio Fannullone via Borgazzi 105 (cortile interno) - Monza
 
 invitano il Movimento Umanista (il Fannullone di Monza, il Centro delle Culture, la Comunità per lo Sviluppo Umano, il Partito Umanista, il Messaggio di Silo, i Laboratori del Fuoco e un paio di extraterrestri)
 

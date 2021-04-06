@@ -1,14 +1,11 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Futuro
-date: "2005-11-02T18:57:34Z"
+categories: [blog]
+date: 2005-11-02T18:57:34Z
 guid: http://stefanocecere.com/2005/11/02/benigni-tigre-innevata/
 id: 125
-related_posts:
-- null
 tags:
+- Futuro
 - Benigni
 - film
 - recensione

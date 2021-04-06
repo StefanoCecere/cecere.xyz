@@ -1,13 +1,9 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Economia
 - Tempi moderni
-date: "2011-01-10T00:29:46Z"
+date: 2011-01-10T00:29:46Z
 guid: http://stefanocecere.com/?p=2323
 id: 2323
 tags:

@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2015-03-22T06:42:17Z"
+categories: [blog]
+date: 2015-03-22T06:42:17Z
 format: video
 guid: http://stefanocecere.com/?p=5707
 id: 5707

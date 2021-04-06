@@ -1,14 +1,13 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-10-26T11:55:35Z"
+categories: [blog]
+date: 2008-10-26T11:55:35Z
 guid: http://stefanocecere.com/?p=1449
 id: 1449
 tags:
 - partito umanista
 - umanisti
-title: Why Humanist Party?  &#8211;  Mission of Humanist Party
+title: Why Humanist Party?  -  Mission of Humanist Party
 slug: /2008/10/26/why-humanist-party-mission-of-humanist-party/
 ---
 
@@ -42,13 +41,13 @@ Will humans remain doing the same thing for ever ?
   
 Will there be a change in his direction ?
   
-Will there be a change of human&#8217;s aim from Money-Power-Sex ?
+Will there be a change of human's aim from Money-Power-Sex ?
   
 Will the human being evolve further ?
 
-Gandhi said &#8220;The earth has enough for every one&#8217;s needs, but not for one man&#8217;s greed&#8221;.
+Gandhi said "The earth has enough for every one's needs, but not for one man's greed".
   
-UN study has said &#8220;That with current resources and technology, with just 4% of world population working, everyone can be provided with middle-class life standards of north-european countries&#8221;.
+UN study has said "That with current resources and technology, with just 4% of world population working, everyone can be provided with middle-class life standards of north-european countries".
   
 There is enough evidence of this to be around the truth. 
   
@@ -72,6 +71,6 @@ With this faith, HM has formed HP as the instrument to Humanize politics and has
 
 This is the reason, the purpose, the aim of HP and the HP, inspired by the HM has been created to fulfil this mission.
 
-The HP members are not today&#8217;s &#8220;politicians&#8221;. They are true-selfless-volunteers of HM with the mission to transform politics.
+The HP members are not today's "politicians". They are true-selfless-volunteers of HM with the mission to transform politics.
 
 HP has a meaning and this meaning goes beyond the Parliament seats, beyond the Power-seats.

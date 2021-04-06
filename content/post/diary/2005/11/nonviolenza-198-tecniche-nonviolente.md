@@ -1,7 +1,7 @@
 ---
 title: 'Nonviolenza: 198 tecniche nonviolente'
 slug: nonviolenza-198-tecniche-nonviolente
-date: "2005-11-25T00:15:51Z"
+date: 2005-11-25T00:15:51Z"
 categories: [2042]
 tags: [nonviolenza,umanista,attivista]
 ---

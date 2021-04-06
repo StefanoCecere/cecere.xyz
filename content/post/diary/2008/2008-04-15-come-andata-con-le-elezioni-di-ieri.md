@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Uncategorized
-date: "2008-04-15T17:52:29Z"
+date: 2008-04-15T17:52:29Z
 guid: http://stefanocecere.com/2008/04/15/come-andata-con-le-elezioni-di-ieri/
 id: 879
-related_posts:
-- null
 tags:
 - elezioni
 - ricreazione

@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-03-15T18:21:38Z"
+categories: [blog]
+date: 2008-03-15T18:21:38Z
 guid: http://stefanocecere.com/2008/03/15/musica-romantica/
 id: 748
-related_posts:
-- null
 tags:
 - arte
 - krur
@@ -17,7 +14,7 @@ title: Musica romantica (ovvero il Preludio della fornica)
 slug: /2008/03/15/musica-romantica/
 ---
 
-ragazzi sto preparando il mio primo vero album di musiche&#8230;
+ragazzi sto preparando il mio primo vero album di musiche…
   
 alcune sono molto romantiche spero di non nauseare troppo..
   

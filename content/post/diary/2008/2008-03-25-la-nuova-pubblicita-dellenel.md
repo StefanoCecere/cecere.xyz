@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-03-25T12:42:09Z"
+categories: [blog]
+date: 2008-03-25T12:42:09Z
 guid: http://stefanocecere.com/2008/03/25/la-nuova-pubblicita-dellenel/
 id: 777
-related_posts:
-- null
 tags:
 - pubblicità
 - ricreazione

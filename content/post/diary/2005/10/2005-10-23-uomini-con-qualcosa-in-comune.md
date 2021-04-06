@@ -1,61 +1,58 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Futuro
-date: "2005-10-23T15:23:38Z"
+categories: [blog]
+date: 2005-10-23T15:23:38Z
 guid: http://stefanocecere.com/?p=116
 id: 116
-related_posts:
-- null
 tags:
+- Futuro
 - umanista
 title: uomini con qualcosa in comune…
 slug: /2005/10/23/uomini-con-qualcosa-in-comune/
 ---
 
-1 &#8211; Leonardo Da Vinci
+1 - Leonardo Da Vinci
   
-2 &#8211; Hipátia de Alejandría
+2 - Hipátia de Alejandría
   
-3 &#8211; Erasmo de Rótterdam
+3 - Erasmo de Rótterdam
   
-4 &#8211; Giordano Bruno
+4 - Giordano Bruno
   
-5 &#8211; José Ortega y Gasset
+5 - José Ortega y Gasset
   
-6 &#8211; Martín Heidegger
+6 - Martín Heidegger
   
-7 &#8211; Edmund Husserl
+7 - Edmund Husserl
   
-8 &#8211; Silo
+8 - Silo
   
-9 &#8211; Martin L. King
+9 - Martin L. King
   
-10 &#8211; Salvatore Puledda
+10 - Salvatore Puledda
   
-11 &#8211; Leon Tolstoy
+11 - Leon Tolstoy
   
-12 &#8211; Jean Paul Sartre
+12 - Jean Paul Sartre
   
-13 &#8211; Nicolás Copérnico
+13 - Nicolás Copérnico
   
-14 &#8211; Pico de la Mirándola
+14 - Pico de la Mirándola
   
-15 &#8211; Miguel Servet
+15 - Miguel Servet
   
-16 &#8211; Galileo Galilei
+16 - Galileo Galilei
   
-17 &#8211; Averroes &#8211; Ibn Rushd
+17 - Averroes - Ibn Rushd
   
-18 &#8211; Mahatma Gandhi
+18 - Mahatma Gandhi
   
-19 &#8211; Mikhail Gorbachev
+19 - Mikhail Gorbachev
   
-20 &#8211; Karl Marx
+20 - Karl Marx
   
-21 &#8211; Kenneth Kaunda
+21 - Kenneth Kaunda
   
-22 &#8211; Nkrumah Kwame
+22 - Nkrumah Kwame
   
-23 &#8211; Maimónides -Moises ben Maimón
+23 - Maimónides -Moises ben Maimón

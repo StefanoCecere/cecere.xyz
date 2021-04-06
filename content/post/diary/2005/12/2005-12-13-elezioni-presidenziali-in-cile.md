@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2005-12-13T14:32:48Z"
+categories: [blog]
+date: 2005-12-13T14:32:48Z
 guid: http://stefanocecere.com/2005/12/13/elezioni-presidenziali-in-cile/
 id: 179
-related_posts:
-- null
 tags:
 - Cile
 - elezioni
@@ -47,6 +43,6 @@ Per tutte queste ragioni io annullerò il voto, ma rispetterò le posizioni che 
   
 </em>
   
-Tomas Hirsch &#8211; [www.tomashirsch.cl](http://www.tomashirsch.cl)
+Tomas Hirsch - [www.tomashirsch.cl](http://www.tomashirsch.cl)
   
 Candidato a presidente di Juntos Podemos Mas

@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-08-07T12:23:49Z"
+categories: [blog]
+date: 2008-08-07T12:23:49Z
 guid: http://stefanocecere.com/?p=1114
 id: 1114
 tags:
@@ -14,13 +13,13 @@ title: Qualche foto dalla Sardegna!
 slug: /2008/08/07/qualche-foto-dalla-sardegna/
 ---
 
-amici&#8230; sono un po&#8217; assente ultimamente anche se mi connetto tutti i giorni per varie faccende..
+amici… sono un po' assente ultimamente anche se mi connetto tutti i giorni per varie faccende..
 
 siamo in Sardegna.. al campeggio, ormai da 6 giorni.. davvero bello e rilassante! moltissimi amici e ottimo clima!
 
 pubblico qui alcune prime foto!
 
-a presto con aggiornamenti importanti sulla Bolivia, sulla Marcia Mondiale, sul Forum Nonviolenza, su Indeepandance, su JJ, su Firenze, il futuro del Fannullone e &#8230;. baci!
+a presto con aggiornamenti importanti sulla Bolivia, sulla Marcia Mondiale, sul Forum Nonviolenza, su Indeepandance, su JJ, su Firenze, il futuro del Fannullone e …. baci!
 
  
   

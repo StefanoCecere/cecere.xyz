@@ -1,13 +1,13 @@
 ---
 title: e io faccio il Fannullone...
 url: 2005/04/06/e-io-faccio-il-fannullone
-categories: [diary]
+categories: [blog]
 date: 2005-04-06T18:09:36Z
 tags:
 - Il Fannullone
 ---
 
-trovo in giro molta gente che ha fatto dell'&#8221;accontentarsi del meno peggio&#8221; la propria condotta di vita..
+trovo in giro molta gente che ha fatto dell'"accontentarsi del meno peggio" la propria condotta di vita..
 
 che sia una religione, una politica, la compagnia, un modello…
 

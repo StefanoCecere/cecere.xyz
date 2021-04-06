@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-11-05T08:40:50Z"
+categories: [blog]
+date: 2008-11-05T08:40:50Z
 guid: http://stefanocecere.com/?p=1478
 id: 1478
 tags:
@@ -21,7 +20,7 @@ Sono giorni estremamente felici per tutti. godiamone e pensiamoci: fino a pochi 
 
 Oggi uno di loro (o meglio un figlio di uno di loro.. ricordiamoci questa cosa della dialettica generazionale) ne è diventato il presidente, e **potrebbe influire sulla direzione del mondo**.
 
-Non mi faccio grandi illusioni su quello che potrebbe fare, ma godo del fatto che **si sono create le &#8220;condizioni di origine&#8221; per il grande salto evolutivo che l&#8217;umanità deve fare al più presto per evitare di tornare all&#8217;età dela pietra**.
+Non mi faccio grandi illusioni su quello che potrebbe fare, ma godo del fatto che **si sono create le "condizioni di origine" per il grande salto evolutivo che l'umanità deve fare al più presto per evitare di tornare all'età dela pietra**.
 
 ora spero di vedere sempre più gente sapere della <http://www.theworldmarch.org>
 

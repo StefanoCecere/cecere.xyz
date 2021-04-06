@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-07-05T03:59:28Z"
+categories: [blog]
+date: 2005-07-05T03:59:28Z
 guid: http://stefanocecere.com/?p=15
 id: 15
-related_posts:
-- null
 tags:
 - vergogna!
 title: onorevoli…
@@ -17,4 +14,4 @@ slug: /2005/07/05/onorevoli/
 
 onorevole.. dottore… sua eccellenza..
 
-l&#8217;unico uso del dare del &#8220;lei&#8221;, lo vedo ora giusto nel mettere una certa distanza verso persone che di &#8220;onorevole&#8221; hanno ben poco..
+l'unico uso del dare del "lei", lo vedo ora giusto nel mettere una certa distanza verso persone che di "onorevole" hanno ben poco..

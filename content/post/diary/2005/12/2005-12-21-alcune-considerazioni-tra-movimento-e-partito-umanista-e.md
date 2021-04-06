@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2005-12-21T13:04:32Z"
+categories: [blog]
+date: 2005-12-21T13:04:32Z
 guid: http://stefanocecere.com/2005/12/21/alcune-considerazioni-tra-movimento-e-partito-umanista-e/
 id: 191
-related_posts:
-- null
 tags:
 - considerazioni
 - Movimento
@@ -54,17 +50,17 @@ sono le immagini a futuro quelle che muovono le montagne. più che stare a criti
   
 per questo i miei/nostri interventi sono quasi sempre collegati a proposte di azione (che spesso possono essere un semplice alzare il culo e scendere le scale di casa):
   
-&#8211; c’è una schifezza in Iraq? vieni in Centro Milano settimana prossima e mostriamo e denunciamo quello che stanno facendo.
+- c’è una schifezza in Iraq? vieni in Centro Milano settimana prossima e mostriamo e denunciamo quello che stanno facendo.
   
-&#8211; Sei preoccupato per l’Africa e il Terzo Mondo? vieni a cena con noi che stiamo portando avanti dei progetti in Togo.
+- Sei preoccupato per l’Africa e il Terzo Mondo? vieni a cena con noi che stiamo portando avanti dei progetti in Togo.
   
-&#8211; Cazzo senti davvero qualcosa per le vittime dello Tsunami? Aiutaci ad organizzare il concerto e invitaci tutti i tuoi amici!
+- Cazzo senti davvero qualcosa per le vittime dello Tsunami? Aiutaci ad organizzare il concerto e invitaci tutti i tuoi amici!
   
-&#8211; Vaffanculo qui con la NOTAV, le Torri Gemelle, il Referendum, gli affitti delle case ci stanno prendendo per i fondelli.. sei preoccupato e/o incazzato e disilluso dagli attuali schieramenti politici? Prendi consapevolezza dell’esistenza di altri come te che si stanno organizzando nel Partito Umanista (o stanno cercando di cambiare qualcosa dentro il proprio partito..)
+- Vaffanculo qui con la NOTAV, le Torri Gemelle, il Referendum, gli affitti delle case ci stanno prendendo per i fondelli.. sei preoccupato e/o incazzato e disilluso dagli attuali schieramenti politici? Prendi consapevolezza dell’esistenza di altri come te che si stanno organizzando nel Partito Umanista (o stanno cercando di cambiare qualcosa dentro il proprio partito..)
   
-&#8211; qui a Monza non ci sono luoghi di riferimento… Ecco dopo 14 mesi di ricerca abbiamo trovato un locale.. vienici!
+- qui a Monza non ci sono luoghi di riferimento… Ecco dopo 14 mesi di ricerca abbiamo trovato un locale.. vienici!
   
-&#8211; l’informazione è totalmente manipolata e manipolizzante.. Vai in profondità su cosa è un “punto di vista”, e poi decidi se vuoi metterti ad imporne uno nuovo, o se preferisci cercare e proporre TUTTI i punti di vista che trovi..
+- l’informazione è totalmente manipolata e manipolizzante.. Vai in profondità su cosa è un “punto di vista”, e poi decidi se vuoi metterti ad imporne uno nuovo, o se preferisci cercare e proporre TUTTI i punti di vista che trovi..
   
 **scorri un po’ questo blog e i siti umanisti collegati per allargare l’inquadratura**
 
@@ -98,7 +94,7 @@ Ho messo a lato alcuni links dei siti “ufficiali” del Movimento se interessa
 
 10) chiudo con **[Silo](http://www.silo.net)**: è per me uno di quei “uomini straordinari” che ogni tanto camminano su questo pianeta. con la differenza rispetto agli altri che lui è vivo, è attuale, ha fatto profondi studi sull’essere umano insieme ad una precisa analisi del momento storico in cui viviamo. ED HA AVVIATO UN PROCESSO DI AZIONE E TRASFORMAZIONE. che piaccia o meno.
 
-11) il mio riferimento a &#8220;siamo sulla punta dell&#8217;iceberg&#8221; ti sarà palese quando approfondirai.
+11) il mio riferimento a "siamo sulla punta dell'iceberg" ti sarà palese quando approfondirai.
 
 ps: ah mi ricordo solo ora un tema: questo Movimento Umanista non è in alcun modo collegato con le varie associazioni umaniste “secolari” che ci sono nel mondo. è molto indipendente e autonomo. di solito è abbastanza facile capire se un progetto è collegato a noi o meno.
 

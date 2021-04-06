@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2009-04-29T02:00:49Z"
+categories: [blog]
+date: 2009-04-29T02:00:49Z
 guid: http://stefanocecere.com/2009/04/29/barzellettina/
 id: 1703
 tags:
@@ -11,12 +10,12 @@ title: Barzellettina
 slug: /2009/04/29/barzellettina/
 ---
 
-Un carabiniere arriva contento in ufficio: &#8220;Ieri ho finito un bel puzzle&#8221;.
+Un carabiniere arriva contento in ufficio: "Ieri ho finito un bel puzzle".
   
-L&#8217;appuntato: &#8220;E quanto ci hai messo?&#8221;.
+L'appuntato: "E quanto ci hai messo?".
   
-&#8220;Due anni&#8221;.
+"Due anni".
   
-&#8220;Ma, mi sembra molto!!!&#8221;.
+"Ma, mi sembra molto!!!".
   
-&#8220;Ma che dici. Sulla scatola c&#8217;era scritto: da 3 a 6 anni!&#8221;.
+"Ma che dici. Sulla scatola c'era scritto: da 3 a 6 anni!".

@@ -1,7 +1,7 @@
 ---
 title: Beppe Grillo
 categories:
-date: "2005-05-03T15:40:05Z"
+date: 2005-05-03T15:40:05Z"
 tags:
 - Beppe Grillo
 slug: 2005/05/beppe-grillo

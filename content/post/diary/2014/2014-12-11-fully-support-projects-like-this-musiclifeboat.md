@@ -2,13 +2,13 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2014-12-11T08:06:59Z"
+date: 2014-12-11T08:06:59Z
 format: status
 guid: http://twitter-542938579194753024-post
 id: 5556
 tags:
 - tweet
-title: fully support projects like this @musiclifeboat :&#8230;
+title: fully support projects like this @musiclifeboat :…
 slug: /2014/12/11/fully-support-projects-like-this-musiclifeboat/
 ---
 

@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2006-05-07T13:27:58Z"
+categories: [blog]
+date: 2006-05-07T13:27:58Z
 guid: http://stefanocecere.com/2006/05/09/37-anni-di-movimento-umanista/
 id: 267
-related_posts:
-- null
 tags:
 - Movimento
 - spirito

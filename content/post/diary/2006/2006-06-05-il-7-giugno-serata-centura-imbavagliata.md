@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2006-06-05T10:24:56Z"
+date: 2006-06-05T10:24:56Z
 guid: http://stefanocecere.com/2006/06/05/il-7-giugno-serata-centura-imbavagliata/
 id: 324
-related_posts:
-- null
 tags:
 - ricreazione
 title: il 7 giugno serata &quot;centura imbavagliata&quot;
@@ -21,20 +19,20 @@ Il 7 giugno 2006 gli Amici di Beppe Grillo di Milano invitano tutti i cittadini 
 
 Se ne parla con:
 
-  * BEPPE GRILLO
-  * MARCO TRAVAGLIO
-  * ANTONIO CORNACCHIONE
-  * ON. ANTONIO DI PIETRO
-  * NATALINO BALASSO
-  * OLIVIERO BEHA
-  * ON. TANA DE ZULUETA
-  * GIANNI BARBACETTO
+- BEPPE GRILLO
+- MARCO TRAVAGLIO
+- ANTONIO CORNACCHIONE
+- ON. ANTONIO DI PIETRO
+- NATALINO BALASSO
+- OLIVIERO BEHA
+- ON. TANA DE ZULUETA
+- GIANNI BARBACETTO
 
 Ingresso Libero AD ESAURIMENTO POSTI
 
 al Teatro CARCANO
   
-Corso di Porta Romana, 63 &#8211; Milano
+Corso di Porta Romana, 63 - Milano
   
 ore 21.00
 

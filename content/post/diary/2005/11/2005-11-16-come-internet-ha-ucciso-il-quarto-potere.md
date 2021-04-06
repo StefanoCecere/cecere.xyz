@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2005-11-16T08:53:01Z"
+date: 2005-11-16T08:53:01Z
 guid: http://stefanocecere.com/2005/11/16/come-internet-ha-ucciso-il-quarto-potere/
 id: 147
-related_posts:
-- null
 tags:
 - internet
 - tecnologia

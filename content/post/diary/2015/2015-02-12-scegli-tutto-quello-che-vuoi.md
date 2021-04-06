@@ -2,14 +2,14 @@
 author: Stefano Cecere
 categories:
 - JJ
-date: "2015-02-12T09:03:26Z"
+date: 2015-02-12T09:03:26Z
 guid: http://stefanocecere.com/?p=5667
 id: 5667
 title: scegli tutto quello che vuoi
 slug: /2015/02/12/scegli-tutto-quello-che-vuoi/
 ---
 
-ho portato mio figlio in un negozio e per la prima volta ho detto le fatidiche parole: &#8220;SCEGLI TUTTO QUELLO CHE VUOI! NON BADIAMO A SPESE&#8221;
+ho portato mio figlio in un negozio e per la prima volta ho detto le fatidiche parole: "SCEGLI TUTTO QUELLO CHE VUOI! NON BADIAMO A SPESE"
 
 eravamo dal fruttivendolo!
   

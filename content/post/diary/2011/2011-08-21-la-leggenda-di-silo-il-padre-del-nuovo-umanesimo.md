@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Spirito
-date: "2011-08-21T22:08:46Z"
+date: 2011-08-21T22:08:46Z
 guid: http://stefanocecere.com/?p=2568
 id: 2568
 tags:

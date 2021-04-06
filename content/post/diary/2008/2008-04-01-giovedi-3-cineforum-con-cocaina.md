@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-04-01T10:41:24Z"
+categories: [blog]
+date: 2008-04-01T10:41:24Z
 guid: http://stefanocecere.com/2008/04/01/giovedi-3-cineforum-con-cocaina/
 id: 790
-related_posts:
-- null
 tags:
 - cocaina
 - documentario
@@ -27,7 +23,7 @@ a [Firenze](http://www.corriere.it/Primo_Piano/Cronache/2007/02_Febbraio/22/coca
 
 per questo proponiamo questo attualissimo documentario ambientato nelle nostre città.
   
-un film &#8220;dal vivo&#8221;, girato in modo semplice, che racconta chi la usa, chi la vende, chi la combatte.
+un film "dal vivo", girato in modo semplice, che racconta chi la usa, chi la vende, chi la combatte.
   
 rimarrai sorpreso.
 
@@ -37,9 +33,9 @@ perché gli **umanisti** sono contro ogni tipo di droga?
   
 Perchè così come un dolore fisico è un segnale che il corpo ci dà su un suo problema, così la sofferenza è un segnale che la coscienza ci dà su qualcosa che non funziona nella propria vita.
   
-E non è staccando un segnale di allarme che si risolve un problema&#8230; tutt’altro!
+E non è staccando un segnale di allarme che si risolve un problema… tutt’altro!
   
-Ogni tipo di droga (qui si parla di cocaina, ma sono droghe anche gli psicofarmaci, l’alcoolismo, l’apatia&#8230;) non sono che anestetici della coscienza.
+Ogni tipo di droga (qui si parla di cocaina, ma sono droghe anche gli psicofarmaci, l’alcoolismo, l’apatia…) non sono che anestetici della coscienza.
   
 Pensiamo che l’assumere droghe non sia quindi un problema “morale”, o di sicurezza sociale, oppure economico, quanto una questione di lucidità mentale: esse non fanno altro che allontanarci dalla percezione della sofferenza. E non è così, ma neanche proibendole o condannandole,che si risolvono i problemi profondi.
 
@@ -59,7 +55,7 @@ Regia di Roberto Burchielli
 
 Fino a qualche anno fa era la droga dei ricchi. Dei vip, del mondo della moda. Ora è la droga di tutti, è la droga ufficiale del paese. Anzi la droga del sistema-paese, di quell’Italia efficiente e concreta che produce e muove l’economia.
   
-“Cocaina” si occupa dell’allarme sociale cocaina, della montagna di droga che invade ogni giorno il nostro paese E lo fa scrivendo le storie al contrario, demolendo quindi i luoghi comuni che circondano &#8211; e funestano &#8211; sempre questo genere di argomenti.
+“Cocaina” si occupa dell’allarme sociale cocaina, della montagna di droga che invade ogni giorno il nostro paese E lo fa scrivendo le storie al contrario, demolendo quindi i luoghi comuni che circondano - e funestano - sempre questo genere di argomenti.
   
 Il racconto parte dal nord, da Milano, si snoda nelle vie e nelle piazze del capoluogo lombardo per arrivare a Brescia. Terminando la corsa nei paesini del bresciano, i paesini dei lavoratori cottimisti, ossia Chiari, Castelcovati, Castrezzato. Seguendo la lunga e sottile linea di cocaina che collega chi sniffa per noia in città e chi per lavorare di più in provincia.
   

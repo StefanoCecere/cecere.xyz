@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-05-21T12:25:33Z"
+categories: [blog]
+date: 2008-05-21T12:25:33Z
 guid: http://stefanocecere.com/2008/05/21/spot-video-sulla-campagna-in-atto/
 id: 965
-related_posts:
-- null
 tags:
 - azioni
 - digiuno

@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-05-26T14:30:18Z"
+categories: [blog]
+date: 2008-05-26T14:30:18Z
 guid: http://stefanocecere.com/2008/05/26/articolo-sullespresso/
 id: 980
-related_posts:
-- null
 tags:
 - azioni
 - digiuno
@@ -20,7 +17,7 @@ title: Articolo sull&#039;Espresso
 slug: /2008/05/26/articolo-sullespresso/
 ---
 
-Sul&#8217;Espresso in edicola c&#8217;è un ottimo articolo sulla questione Scudo Spaziale.
+Sul'Espresso in edicola c'è un ottimo articolo sulla questione Scudo Spaziale.
   
 finalmente qualche media comincia a parlarne.
 

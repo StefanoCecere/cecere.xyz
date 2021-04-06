@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-06-01T01:11:59Z"
+categories: [blog]
+date: 2006-06-01T01:11:59Z
 guid: http://stefanocecere.com/2006/06/01/guerre-stellari-in-iraq-un-video-agghiacciante/
 id: 303
-related_posts:
-- null
 tags:
 - guerra
 - impressionante

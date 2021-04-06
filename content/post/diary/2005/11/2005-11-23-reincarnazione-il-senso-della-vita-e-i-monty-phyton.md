@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-11-23T01:30:22Z"
+categories: [blog]
+date: 2005-11-23T01:30:22Z
 guid: http://stefanocecere.com/2005/11/23/reincarnazione-il-senso-della-vita-e-i-monty-phyton/
 id: 156
-related_posts:
-- null
 tags:
 - morte
 - ricreazione
@@ -31,7 +28,7 @@ certo: non sono un reincarnazionista ingenuo (ovvero come ce lo vogliono far cre
 
 ma devo constatare che tantissime persone che conosco, alcune anche molto intelligenti, hanno ormai per credenza certa e indiscutibile la certezza della reincarnazione, del karma, etc.
   
-la cosa ovviamente non mi disturba, se non fosse che partendo da tali credenze si arriva spesso ad una serie di azioni un po' incoerenti.. tipo: se uno è nato &#x201d;sfigato&#x201c; o in un paese oppresso, è perch&#xe9; il suo karma necessita di essere purificato e la sua evoluzione richiede che impari a superare quelle difficolt&#xe0;. per lui è bene. noi è meglio che non interveniamo&#x201d;..
+la cosa ovviamente non mi disturba, se non fosse che partendo da tali credenze si arriva spesso ad una serie di azioni un po' incoerenti.. tipo: se uno è nato &#x201d;sfigato&#x201c; o in un paese oppresso, è perch&#xe9; il suo karma necessita di essere purificato e la sua evoluzione richiede che impari a superare quelle difficoltà. per lui è bene. noi è meglio che non interveniamo&#x201d;..
 
 e cos&#xec; via dicendo fino a quelli che vivono di &#x201c;sensazioni&#x201d; o fantasiose ( e quasi sempre estemporanee) ricerche &#x201c;sovrannaturali&#x201c;.
 
@@ -63,7 +60,7 @@ Nell'universo esistono molti campi energetici che non riusciamo normalmente a pe
   
 Alcune energie hanno una fonte spirituale che agisce sull'anima dell'individuo.
   
-Tuttavia tale anima non esiste &#x201c;ab initio&#x201d;, come insegna il cristianesimo ortodosso.. deve essere portata in essere con un processo di auto osservazione controllata.. tuttavia ciò avviene raramente, data la singolare abilit&#xe0; dell'uomo nel farsi distrarre dalle questioni spirituali dalle trivialit&#xe0; quotidiane.
+Tuttavia tale anima non esiste &#x201c;ab initio&#x201d;, come insegna il cristianesimo ortodosso.. deve essere portata in essere con un processo di auto osservazione controllata.. tuttavia ciò avviene raramente, data la singolare abilità dell'uomo nel farsi distrarre dalle questioni spirituali dalle trivialità quotidiane.
   
 …… che cos'era quella storia dei cappelli?&#x201c;_
   

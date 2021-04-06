@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2008-04-08T10:39:23Z"
+date: 2008-04-08T10:39:23Z
 guid: http://stefanocecere.com/2008/04/08/cosa-votare-ecco-la-mia-dichiarazione-di-voto/
 id: 816
-related_posts:
-- null
 tags:
 - elezioni
 - Politica
@@ -20,7 +18,7 @@ forse ti interessa, forse no. sai comunque che ho davvero a cuore la politica e 
   
 ma alla fine ho deciso e \*\\*\* sono felice di non andare ad annullare il voto \*\**:
 
-votando in Lombardia, io voterò per la Camera la lista [&#8220;Per il bene Comune&#8221;](http://www.perilbenecomune.net/) (che ha un programma umanista e conosco molti di loro!), e per il Senato la [Sinistra Arcobaleno](http://www.sinistrarcobaleno.it/) (la Borsellino come capolista che ci è vicina sul tema della Nonviolenza).
+votando in Lombardia, io voterò per la Camera la lista ["Per il bene Comune"](http://www.perilbenecomune.net/) (che ha un programma umanista e conosco molti di loro!), e per il Senato la [Sinistra Arcobaleno](http://www.sinistrarcobaleno.it/) (la Borsellino come capolista che ci è vicina sul tema della Nonviolenza).
 
 se poi vivessi a Roma voterei Lorenzo Palumbo (S.A.) al Comune
   
@@ -30,4 +28,4 @@ se vivessi in Sicilia voterei Fabrizio Ferrandelli (S.A.) alla Regione
 
 e anche questa è fatta..
   
-avanti il prossimoooo&#8230;.
+avanti il prossimoooo….

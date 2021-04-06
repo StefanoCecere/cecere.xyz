@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-09-26T01:38:23Z"
+date: 2013-09-26T01:38:23Z
 format: status
 guid: http://twitter-383027738124488704-post
 id: 4666
-title: 'two masters “@udacity: @khanacademy founder @salkh&#8230;'
+title: 'two masters “@udacity: @khanacademy founder @salkh…'
 slug: /2013/09/26/two-masters-udacity-khanacademy-founder-salkh/
 ---
 

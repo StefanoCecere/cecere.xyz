@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-04-15T14:27:48Z"
+categories: [blog]
+date: 2008-04-15T14:27:48Z
 guid: http://stefanocecere.com/2008/04/15/gandhi-in-africa/
 id: 874
-related_posts:
-- null
 tags:
 - africa
 - Gandhi
@@ -19,7 +15,7 @@ title: Gandhi in Africa
 slug: /2008/04/15/gandhi-in-africa/
 ---
 
-l&#8217;amica Elena sono molti mesi ormai che è in Tanzania come volontaria per diversi progetti umanitari.
+l'amica Elena sono molti mesi ormai che è in Tanzania come volontaria per diversi progetti umanitari.
   
 e guardate cosa mi ha appena inviato?
   

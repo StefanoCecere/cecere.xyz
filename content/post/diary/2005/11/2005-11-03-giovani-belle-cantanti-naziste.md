@@ -1,14 +1,11 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2005-11-03T10:50:48Z"
+categories: [blog]
+date: 2005-11-03T10:50:48Z
 guid: http://stefanocecere.com/2005/11/03/giovani-belle-cantanti-naziste/
 id: 127
-related_posts:
-- null
 tags:
+- Tempi moderni
 - music
 - vergogna!
 - violenza

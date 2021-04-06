@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-06-21T23:56:08Z"
+categories: [blog]
+date: 2008-06-21T23:56:08Z
 guid: http://stefanocecere.com/?p=1058
 id: 1058
-related_posts:
-- null
 tags:
 - amore
 - Antonella

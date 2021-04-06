@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-09-23T07:37:51Z"
+categories: [blog]
+date: 2005-09-23T07:37:51Z
 guid: http://stefanocecere.com/2005/09/23/storace-e-la-pillola-un-rapporto-difficile/
 id: 92
-related_posts:
-- null
 title: 'Storace e la pillola: un rapporto difficile'
 slug: /2005/09/23/storace-e-la-pillola-un-rapporto-difficile/
 ---
@@ -25,10 +22,10 @@ Dati questi presupposti, non ci stupisce affatto che le motivazioni usate per gi
 
 Storace aveva mandato all'ospedale dove si stava verificando la sperimentazione, alcuni ispettori, con una sollecitudine alquanto sospetta tra l'altro, se confrontata con l'assoluta mancanza di controllo su ciò che succede nella migliaia di cliniche private molto spesso gestite da suore e preti.
 
-Ebbene, questi ispettori avrebbero rilevato una serie di irregolarit&#xe0;, che non solo ancora nessuno conosce, ma che addirittura non conoscono neanche i medici responsabili della sperimentazione. Viene solo citato il caso di una donna che, credendo che la sperimentazione non avesse avuto effetto su di lei, aveva deciso di farsi dimettere dall'ospedale. La sperimentazione invece era riuscita: infatti una volta tornata a casa, la donna ha avuto l'espulsione dell'embrione, confondendola però con un ciclo mestruale un po' pi&#xf9; abbondante. In ogni caso la donna si è poi recata all'ospedale e non ci sono stati ulteriori problemi. E questo sarebbe il motivo pi&#xf9; grave alla base del provvedimento ministeriale.
+Ebbene, questi ispettori avrebbero rilevato una serie di irregolarità, che non solo ancora nessuno conosce, ma che addirittura non conoscono neanche i medici responsabili della sperimentazione. Viene solo citato il caso di una donna che, credendo che la sperimentazione non avesse avuto effetto su di lei, aveva deciso di farsi dimettere dall'ospedale. La sperimentazione invece era riuscita: infatti una volta tornata a casa, la donna ha avuto l'espulsione dell'embrione, confondendola però con un ciclo mestruale un po' pi&#xf9; abbondante. In ogni caso la donna si è poi recata all'ospedale e non ci sono stati ulteriori problemi. E questo sarebbe il motivo pi&#xf9; grave alla base del provvedimento ministeriale.
 
 Dopo il risultato negativo del referendum sulla procreazione assistita l'oscurantismo continua ad avanzare in Italia. E la politica italiana non è assolutamente in grado di fermare questo avanzamento.
 
-C'è bisogno di una nuova luce, completamente e assolutamente umanista. Una luce che illumini tutte le nefandezze di una classe politica che si preoccupa pi&#xf9; di seguire i dettami del cardinale di turno, anzich&#xe9; della salute di una donna che preferisce, se può, affrontare senza un intervento chirurgico, un evento gi&#xe0; abbastanza traumatico come l'interruzione di gravidanza. Una luce che illumini le bugie dei vertici ecclesiastici che, pur di non perdere il potere che ancora hanno sulle coscienze, fanno di tutto per incidere sulla vita politica e sociale di un paese. S&#xec;, c'è proprio bisogno della luce di un nuovo umanesimo.
+C'è bisogno di una nuova luce, completamente e assolutamente umanista. Una luce che illumini tutte le nefandezze di una classe politica che si preoccupa pi&#xf9; di seguire i dettami del cardinale di turno, anzich&#xe9; della salute di una donna che preferisce, se può, affrontare senza un intervento chirurgico, un evento già abbastanza traumatico come l'interruzione di gravidanza. Una luce che illumini le bugie dei vertici ecclesiastici che, pur di non perdere il potere che ancora hanno sulle coscienze, fanno di tutto per incidere sulla vita politica e sociale di un paese. S&#xec;, c'è proprio bisogno della luce di un nuovo umanesimo.
 
 ( tratto da [www.partitoumanista.it](http://www.partitoumanista.it) )

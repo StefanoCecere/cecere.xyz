@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-06-12T15:10:19Z"
+categories: [blog]
+date: 2008-06-12T15:10:19Z
 guid: http://stefanocecere.com/2008/06/12/fiorello-europe-for-peace/
 id: 1023
-related_posts:
-- null
 tags:
 - disarmo nucleare
 - Fiorello

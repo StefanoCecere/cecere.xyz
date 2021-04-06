@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-02-26T00:44:29Z"
+categories: [blog]
+date: 2008-02-26T00:44:29Z
 guid: http://stefanocecere.com/2008/02/26/video-laura-basta-a-sanremo-2008/
 id: 696
-related_posts:
-- null
 tags:
 - arte
 - L'Aura
@@ -18,13 +14,13 @@ title: L&#039;Aura &quot;Basta!&quot; Video a Sanremo 2008 (e testo)
 slug: /2008/02/26/video-laura-basta-a-sanremo-2008/
 ---
 
-L&#8217;Aura apre il 58esimo Festival di San Remo con una bellissima canzone. &#8220;Basta!&#8221; mi piace perché suona come un coraggioso invito alla nonviolenza, alla lucidità mentale, ad una trasformazione profonda, umanista.
+L'Aura apre il 58esimo Festival di San Remo con una bellissima canzone. "Basta!" mi piace perché suona come un coraggioso invito alla nonviolenza, alla lucidità mentale, ad una trasformazione profonda, umanista.
 
 **Testo (di Laura Abela):**
   
 _Sai che succede amica mia?
   
-C&#8217;è chi ora prova a portar via
+C'è chi ora prova a portar via
   
 Sogni giovani che il tempo cullerà,
   
@@ -38,13 +34,13 @@ Dai peccati Madre Guerra assolverà
   
 Chi la venererà!
   
-C&#8217;è qualcuno là
+C'è qualcuno là
   
 Che ci aiuterà
   
-A dire &#8220;Basta!&#8221;?
+A dire "Basta!"?
   
-C&#8217;è qualcuno là che
+C'è qualcuno là che
   
 Fermare potrà
   
@@ -54,29 +50,29 @@ Sai che succede amica mia?
   
 Quella che oggi è una bugia
   
-L&#8217;indomani per qualcuno evolverà
+L'indomani per qualcuno evolverà
   
 E sarà verità
   
-C&#8217;è qualcuno là
+C'è qualcuno là
   
 Che ci aiuterà
   
-A dire &#8220;Basta!&#8221;?
+A dire "Basta!"?
   
-C&#8217;è qualcuno là che
+C'è qualcuno là che
   
 Fermare potrà
   
 La violenza?
   
-C&#8217;è qualcuno là
+C'è qualcuno là
   
-Nell&#8217;immensità
+Nell'immensità
   
 della terra?
   
-C&#8217;è qualcuno là che
+C'è qualcuno là che
   
 Vivere saprà
   
@@ -94,25 +90,25 @@ Che in nome del Signore
   
 Finiranno nella cenere?
   
-C&#8217;è qualcuno là
+C'è qualcuno là
   
 Che ci aiuterà
   
-A dire &#8220;Basta!&#8221;?
+A dire "Basta!"?
   
-C&#8217;è qualcuno là che
+C'è qualcuno là che
   
 Fermare potrà
   
 La violenza?
   
-C&#8217;è qualcuno là
+C'è qualcuno là
   
-Nell&#8217;immensità
+Nell'immensità
   
 della terra?
   
-C&#8217;è qualcuno là che
+C'è qualcuno là che
   
 Vivere saprà
   

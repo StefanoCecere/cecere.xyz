@@ -1,13 +1,9 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Economia
 - Eventi
-date: "2012-03-23T07:40:25Z"
+date: 2012-03-23T07:40:25Z
 guid: http://stefanocecere.com/?p=2880
 id: 2880
 tags:

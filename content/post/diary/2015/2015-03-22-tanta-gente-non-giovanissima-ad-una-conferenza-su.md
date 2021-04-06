@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2015-03-22T16:45:03Z"
+date: 2015-03-22T16:45:03Z
 format: status
 guid: http://twitter-579670132059963392-post
 id: 5621
-title: tanta gente non giovanissima ad una conferenza su&#8230;
+title: tanta gente non giovanissima ad una conferenza su…
 slug: /2015/03/22/tanta-gente-non-giovanissima-ad-una-conferenza-su/
 ---
 

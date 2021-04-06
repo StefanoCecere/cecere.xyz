@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2008-03-18T12:13:43Z"
+date: 2008-03-18T12:13:43Z
 guid: http://stefanocecere.com/2008/03/18/solidarieta-con-la-protesta-in-tibet/
 id: 751
-related_posts:
-- null
 tags:
 - comunicato
 - Tibet
@@ -21,9 +19,9 @@ Dopo le proteste dei monaci e della popolazione birmana represse nel sangue poch
 
 **Chiediamo al governo cinese le seguenti misure:**
 
-  * Fine immediata della repressione delle proteste pacifiche
-  * Ritiro dell’ultimatum ai manifestanti
-  * Ripresa immediata dei negoziati con i rappresentanti del Dalai Lama,
+- Fine immediata della repressione delle proteste pacifiche
+- Ritiro dell’ultimatum ai manifestanti
+- Ripresa immediata dei negoziati con i rappresentanti del Dalai Lama,
   
     per arrivare al più presto ad una soluzione accettabile da entrambe le
   
@@ -31,8 +29,8 @@ Dopo le proteste dei monaci e della popolazione birmana represse nel sangue poch
 
 **A livello internazionale chiediamo:**
 
-  * l&#8217;invio di osservatori che documentino, denuncino e fermino le continue violazioni dei diritti umani in atto in Tibet
-  * la pressione sul governo cinese affinché fermi la repressione e intavoli i negoziati.
-  * la minaccia di arrivare al boicottaggio delle Olimpiadi, se la Cina non adotterà le misure richieste.
+- l'invio di osservatori che documentino, denuncino e fermino le continue violazioni dei diritti umani in atto in Tibet
+- la pressione sul governo cinese affinché fermi la repressione e intavoli i negoziati.
+- la minaccia di arrivare al boicottaggio delle Olimpiadi, se la Cina non adotterà le misure richieste.
 
 Movimento Umanista

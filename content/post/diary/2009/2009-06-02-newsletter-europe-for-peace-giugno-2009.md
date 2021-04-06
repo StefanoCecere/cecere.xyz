@@ -4,7 +4,7 @@ aktt_notify_twitter:
 author: Stefano Cecere
 categories:
 - Mondo Senza Guerre
-date: "2009-06-02T17:44:18Z"
+date: 2009-06-02T17:44:18Z
 guid: http://stefanocecere.com/?p=1844
 id: 1844
 tags:
@@ -14,7 +14,7 @@ title: Newsletter Europe for Peace – giugno 2009
 slug: /2009/06/02/newsletter-europe-for-peace-giugno-2009/
 ---
 
-**ecco un po&#8217; di informazioni che \_devi\_ sapere.**
+**ecco un po' di informazioni che \_devi\_ sapere.**
 
 <span lang="it-IT">News letter 0</span><span lang="it-IT">6_2009</span>
 <p lang="it-IT">

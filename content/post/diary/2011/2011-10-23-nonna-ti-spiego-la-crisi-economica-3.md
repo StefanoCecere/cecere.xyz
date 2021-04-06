@@ -1,13 +1,9 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Economia
 - Tempi moderni
-date: "2011-10-23T16:00:30Z"
+date: 2011-10-23T16:00:30Z
 guid: http://stefanocecere.com/2011/10/23/nonna-ti-spiego-la-crisi-economica-3/
 id: 2716
 tags:
@@ -20,7 +16,7 @@ title: Nonna, ti spiego la crisi economica. 3
 slug: /2011/10/23/nonna-ti-spiego-la-crisi-economica-3/
 ---
 
-__(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del tutto digiune di economia, scritto da Paolo Barnard &#8211; leggi [introduzione e sommario qui](http://stefanocecere.com/2011/10/24/vi-spiego-la-crisi-economica/ "Vi spiego la crisi economica"))_
+__(Il Più Grande Crimine spiegato agli anziani, agli adolescenti e a persone del tutto digiune di economia, scritto da Paolo Barnard - leggi [introduzione e sommario qui](http://stefanocecere.com/2011/10/24/vi-spiego-la-crisi-economica/ "Vi spiego la crisi economica"))_
   
 _ 
 
@@ -64,4 +60,4 @@ Nonna, è tutta qui la tragedia economica moderna. Nel momento in cui tutti sono
 
 **P.** Nonna, la crisi economica di oggi viene direttamente da questi fatti, guarda che è tutto lì. La prossima volta ti racconto cosa hanno fatto un nugolo di uomini potentissimi chiusi nelle loro stanze mentre tu, il nonno, i miei e tutti noi persone qualunque credevamo che fosse a Roma che prendevano le decisioni importanti. Nonna, a 87 anni cominci a capire chi è il Vero Potere. Baci.
 
-([Continua&#8230;](http://stefanocecere.com/2011/10/23/nonna-ti-spiego-la-crisi-economica-4/ "Nonna, ti spiego la crisi economica. 4"))
+([Continua…](http://stefanocecere.com/2011/10/23/nonna-ti-spiego-la-crisi-economica-4/ "Nonna, ti spiego la crisi economica. 4"))

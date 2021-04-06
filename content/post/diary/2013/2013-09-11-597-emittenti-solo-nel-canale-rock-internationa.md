@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-09-11T08:10:12Z"
+date: 2013-09-11T08:10:12Z
 format: status
 guid: http://twitter-377690522267418625-post
 id: 4637
-title: 597 emittenti solo nel canale rock!! “internationa&#8230;
+title: 597 emittenti solo nel canale rock!! “internationa…
 slug: /2013/09/11/597-emittenti-solo-nel-canale-rock-internationa/
 ---
 

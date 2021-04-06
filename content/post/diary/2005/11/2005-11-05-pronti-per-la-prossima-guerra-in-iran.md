@@ -1,14 +1,11 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2005-11-05T17:26:29Z"
+categories: [blog]
+date: 2005-11-05T17:26:29Z
 guid: http://stefanocecere.com/2005/11/05/pronti-per-la-prossima-guerra-in-iran/
 id: 132
-related_posts:
-- null
 tags:
+- Tempi moderni
 - guerra
 - Iran
 - violenza
@@ -20,7 +17,7 @@ slug: /2005/11/05/pronti-per-la-prossima-guerra-in-iran/
 
 e poi via.. verso nuove avventure!
 
-riguardo a Cofferati… raccontavo a mia mamma proprio ieri quanto oggi ha scritto Beppe Grillo: l'illegalit&#xe0; di certi extracomunitari &#x201c;abusivi&#x201d; non è da chiuderci due occhi sopra.. però vediamo le cose in una prospettiva di priorit&#xe0;!
+riguardo a Cofferati… raccontavo a mia mamma proprio ieri quanto oggi ha scritto Beppe Grillo: l'illegalità di certi extracomunitari &#x201c;abusivi&#x201d; non è da chiuderci due occhi sopra.. però vediamo le cose in una prospettiva di priorità!
   
 abbiamo un sistema di governo che rasenta il carcere a vita.. e noi ce la prendiamo coi lavavetri! ha ah
 

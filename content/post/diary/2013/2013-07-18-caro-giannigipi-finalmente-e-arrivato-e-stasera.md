@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-07-18T18:11:02Z"
+date: 2013-07-18T18:11:02Z
 format: status
 guid: http://twitter-357910394553118720-post
 id: 4596
-title: caro @giannigipi finalmente è arrivato e stasera,&#8230;
+title: caro @giannigipi finalmente è arrivato e stasera,…
 slug: /2013/07/18/caro-giannigipi-finalmente-e-arrivato-e-stasera/
 ---
 

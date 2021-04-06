@@ -1,13 +1,9 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Mondo Senza Guerre
 - Tempi moderni
-date: "2011-09-21T20:49:40Z"
+date: 2011-09-21T20:49:40Z
 guid: http://stefanocecere.com/?p=2657
 id: 2657
 tags:
@@ -23,4 +19,4 @@ slug: /2011/09/21/quando-un-generale-nato-parla-liberamente-iraq-libia/
 
 un video inutile come il 99% di tutto quello che circola, ma giusto per tenere sveglio il neurone.
 
-ah.. Wesley Clark non è né un complottista né l&#8217;ultimo arrivato.. è stato generale NATO capo delle faccende in Kossovo dal 1997 al 2000 ([vedi](http://en.wikipedia.org/wiki/Wesley_Clark))
+ah.. Wesley Clark non è né un complottista né l'ultimo arrivato.. è stato generale NATO capo delle faccende in Kossovo dal 1997 al 2000 ([vedi](http://en.wikipedia.org/wiki/Wesley_Clark))

@@ -1,12 +1,7 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2011-09-18T23:58:17Z"
+categories: [blog]
+date: 2011-09-18T23:58:17Z
 guid: http://stefanocecere.com/2011/09/18/mi-sto-preparando/
 id: 2637
 tags:
@@ -18,13 +13,13 @@ slug: /2011/09/18/mi-sto-preparando/
 
 fra 10 gg parto per San Francisco.
   
-non porterò il portatile (perché senza batteria, senza alcuni tasti e senza monitor ben funzionante non è più molto&#8230;. portatile )
+non porterò il portatile (perché senza batteria, senza alcuni tasti e senza monitor ben funzionante non è più molto…. portatile )
   
-e dato che uno scopo del viaggio sarà iniziarmi al mondo &#8220;mobile&#8221; multimediale&#8230;
+e dato che uno scopo del viaggio sarà iniziarmi al mondo "mobile" multimediale…
   
-ecco che il pad sará l&#8217;unico mio gingillo ( la videocamera ieri Fabio l&#8217;ha fatta cadere rendendola solo&#8230;camera 🙂
+ecco che il pad sará l'unico mio gingillo ( la videocamera ieri Fabio l'ha fatta cadere rendendola solo…camera 🙂
   
-e così queto post lo scrivo con l&#8217;app di wordpress.. vediamo come va!
+e così queto post lo scrivo con l'app di wordpress.. vediamo come va!
   
 ci metto anche una foto dai
 

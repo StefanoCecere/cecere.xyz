@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2015-03-22T11:41:49Z"
+date: 2015-03-22T11:41:49Z
 format: status
 guid: http://twitter-579593817818591232-post
 id: 5623
-title: la salute del mondo umano la misuro molto dalla cu&#8230;
+title: la salute del mondo umano la misuro molto dalla cu…
 slug: /2015/03/22/la-salute-del-mondo-umano-la-misuro-molto-dalla-cu/
 ---
 

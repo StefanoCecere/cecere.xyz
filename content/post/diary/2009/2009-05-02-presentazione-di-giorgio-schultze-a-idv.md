@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2009-05-02T18:01:15Z"
+categories: [blog]
+date: 2009-05-02T18:01:15Z
 guid: http://stefanocecere.com/?p=1728
 id: 1728
 tags:
@@ -14,7 +13,7 @@ title: Presentazione di Giorgio Schultze a IdV
 slug: /2009/05/02/presentazione-di-giorgio-schultze-a-idv/
 ---
 
-giovedì scorso a Milano c&#8217;è stata la presentazione ufficiae dei candidati alle elezioni europee (per la circoscrizione nord-ovest) della lista Italia dei Valori.
+giovedì scorso a Milano c'è stata la presentazione ufficiae dei candidati alle elezioni europee (per la circoscrizione nord-ovest) della lista Italia dei Valori.
 
 Giorgio Schultze, portavoce del Movimento Umanista e della Marcia Mondiale, è un candidato indipendente.
 

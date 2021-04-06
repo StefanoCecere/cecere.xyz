@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2006-05-25T11:12:17Z"
+categories: [blog]
+date: 2006-05-25T11:12:17Z
 guid: http://stefanocecere.com/2006/05/25/una-partita-a-tennis-impressionante/
 id: 287
-related_posts:
-- null
 tags:
 - gioco
 - impressionante
@@ -28,9 +25,9 @@ slug: /2006/05/25/una-partita-a-tennis-impressionante/
 
 <img id="image280" alt="Tennis1.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/05/Tennis1.jpg" />
 
-<span style="font-size: 130%">Andrè Agassi (ebbene sì è ancora in giro! 🙂 e Roger Fédérer hanno trovato un bel posticino per farsi una partita di allenamento&#8230; (all&#8217;inizio sono rimasto di sasso nel vedere cosa avevano costruito sti arabi.. poi ho scoperto che è la pista di atterraggio degli elicotteri rivestita di verde)</span>
+<span style="font-size: 130%">Andrè Agassi (ebbene sì è ancora in giro! 🙂 e Roger Fédérer hanno trovato un bel posticino per farsi una partita di allenamento… (all'inizio sono rimasto di sasso nel vedere cosa avevano costruito sti arabi.. poi ho scoperto che è la pista di atterraggio degli elicotteri rivestita di verde)</span>
 
-davvero nel mondo c&#8217;è gente che sa COSTRUIRE BENE!! 😉
+davvero nel mondo c'è gente che sa COSTRUIRE BENE!! 😉
 
 altre foto:
 
@@ -46,9 +43,9 @@ altre foto:
 
 <img id="image280" alt="Tennis1.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/05/Tennis1.jpg" />
 
-<span style="font-size: 130%">Andrè Agassi (ebbene sì è ancora in giro! 🙂 e Roger Fédérer hanno trovato un bel posticino per farsi una partita di allenamento&#8230; (all&#8217;inizio sono rimasto di sasso nel vedere cosa avevano costruito sti arabi.. poi ho scoperto che è la pista di atterraggio degli elicotteri rivestita di verde)</span>
+<span style="font-size: 130%">Andrè Agassi (ebbene sì è ancora in giro! 🙂 e Roger Fédérer hanno trovato un bel posticino per farsi una partita di allenamento… (all'inizio sono rimasto di sasso nel vedere cosa avevano costruito sti arabi.. poi ho scoperto che è la pista di atterraggio degli elicotteri rivestita di verde)</span>
 
-davvero nel mondo c&#8217;è gente che sa COSTRUIRE BENE!! 😉
+davvero nel mondo c'è gente che sa COSTRUIRE BENE!! 😉
 
 altre foto:
 

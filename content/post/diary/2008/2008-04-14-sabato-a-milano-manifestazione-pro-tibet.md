@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-04-14T08:59:59Z"
+categories: [blog]
+date: 2008-04-14T08:59:59Z
 guid: http://stefanocecere.com/2008/04/14/sabato-a-milano-manifestazione-pro-tibet/
 id: 859
-related_posts:
-- null
 tags:
 - Events
 - Milano

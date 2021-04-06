@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-11-03T18:32:45Z"
+date: 2013-11-03T18:32:45Z
 format: status
 guid: http://twitter-397053748281110528-post
 id: 4784
-title: 75 geniali soluzioni fai da te per migliorare la v&#8230;
+title: 75 geniali soluzioni fai da te per migliorare la v…
 slug: /2013/11/03/75-geniali-soluzioni-fai-da-te-per-migliorare-la-v/
 ---
 

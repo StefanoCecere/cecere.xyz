@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-09-20T01:54:40Z"
+categories: [blog]
+date: 2006-09-20T01:54:40Z
 guid: http://stefanocecere.com/2006/09/20/doppio-invito-festa-stagionale-umanista-e-v-per-vendetta/
 id: 421
-related_posts:
-- null
 tags:
 - Events
 - ricreazione
@@ -33,7 +29,7 @@ però dobbiamo stare vicini. ecco quindi due appuntamenti che sei in zona Monza/
 </p>
 
 <p class="bodytext">
-  domenica dalle 16 alle 20, presso il nostro Spazio a Monza, in un&#8217;atmosfera amabile, ludica ed accogliente:
+  domenica dalle 16 alle 20, presso il nostro Spazio a Monza, in un'atmosfera amabile, ludica ed accogliente:
 </p>
 
 <p class="bodytext">
@@ -45,16 +41,16 @@ però dobbiamo stare vicini. ecco quindi due appuntamenti che sei in zona Monza/
 </p>
 
 <p class="bodytext">
-  la causa delle donne e degli uomini valorosi, l&#8217;urgenza del momento:
+  la causa delle donne e degli uomini valorosi, l'urgenza del momento:
 </p>
 
 <p class="bodytext">
   <strong>EVITARE LA CATASTROFE ATOMICA NEL FUTURO</strong>
 </p>
 
-  * ore 17:30 video &#8220;pace crescente o distruzione crescente&#8221;
-  * ore 18:15 anteprima dello spot televisivo di Silo sul disarmo mondiale
-  * ore 18.30 cerimonia di richiesta per il disarmo nucleare immediato
+- ore 17:30 video "pace crescente o distruzione crescente"
+- ore 18:15 anteprima dello spot televisivo di Silo sul disarmo mondiale
+- ore 18.30 cerimonia di richiesta per il disarmo nucleare immediato
 
 <p class="bodytext">
   Il progetto del Parco di Punta de Vacas, centro di irradiazione di una spiritualità
@@ -74,7 +70,7 @@ però dobbiamo stare vicini. ecco quindi due appuntamenti che sei in zona Monza/
   </p>
   
   <p class="bodytext">
-    per l&#8217;occasione proietteremo (su megaschermo con impianto hifi) un film che riteniamo straordinario: sia per la realizzazione che pr la storia, per l&#8217;attualità sociopolitica e le immagini a futuro: <strong>V per Vendetta.</strong>
+    per l'occasione proietteremo (su megaschermo con impianto hifi) un film che riteniamo straordinario: sia per la realizzazione che pr la storia, per l'attualità sociopolitica e le immagini a futuro: <strong>V per Vendetta.</strong>
   </p>
   
   <p class="bodytext">
@@ -82,7 +78,7 @@ però dobbiamo stare vicini. ecco quindi due appuntamenti che sei in zona Monza/
   </p>
   
   <p class="bodytext">
-    venerdì 22 settembre 2006 &#8211; ore 22:00<br /> Spazio Umanista &#8220;Il Fannullone&#8221; &#8211; via Borgazzi 105 &#8211; Monza
+    venerdì 22 settembre 2006 - ore 22:00<br /> Spazio Umanista "Il Fannullone" - via Borgazzi 105 - Monza
   </p>
   
   <p class="bodytext">

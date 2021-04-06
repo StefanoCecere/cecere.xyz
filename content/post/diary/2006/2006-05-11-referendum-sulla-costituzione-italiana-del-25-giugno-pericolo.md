@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2006-05-11T08:58:21Z"
+categories: [blog]
+date: 2006-05-11T08:58:21Z
 guid: http://stefanocecere.com/2006/05/11/referendum-sulla-costituzione-italiana-del-25-giugno-pericolo/
 id: 269
-related_posts:
-- null
 tags:
 - referendum
 - umanista
@@ -15,13 +11,13 @@ title: 'Referendum sulla Costituzione Italiana del 25 giugno: PERICOLO!'
 slug: /2006/05/11/referendum-sulla-costituzione-italiana-del-25-giugno-pericolo/
 ---
 
-se ne è parlato un poco a novembre, e poi silenzio&#8230; ma sta arrivando il giorno politico più importante della storia italiana degli ultimi 50 anni (altro che elezioni di quell&#8217;uno o quell&#8217;altro): il Referendum Costituzionale del 25/26 giugno 2006.
+se ne è parlato un poco a novembre, e poi silenzio… ma sta arrivando il giorno politico più importante della storia italiana degli ultimi 50 anni (altro che elezioni di quell'uno o quell'altro): il Referendum Costituzionale del 25/26 giugno 2006.
 
-Innanzitutto: **E&#8217; IMPORTANTISSIMO ANDARVI A VOTARE E VOTARE NO, NON VOGLIAMO CAMBIARLA.**
+Innanzitutto: **E' IMPORTANTISSIMO ANDARVI A VOTARE E VOTARE NO, NON VOGLIAMO CAMBIARLA.**
 
-<img src='/wp-content/italia_stropicciata.jpg' alt='' align='left' />Le proposte di modifica alla Costituzione (che se vuoi puoi **scaricare qui in PDF**: [Costituzione Italiana](/wp-content/costituzione_italiana.pdf "Costituzione Italiana")) che ha proposto la Casa delle Libertà, se approvate, riapriranno le porte al fascismo e porterebbero l&#8217;Italia al solito primato mondiale in quanto a &#8220;casi emblematici&#8221; di assurdità&#8230; passando dall&#8217;avere una delle Costituzioni più belle del pianeta, ad una delle peggiori.
+<img src='/wp-content/italia_stropicciata.jpg' alt='' align='left' />Le proposte di modifica alla Costituzione (che se vuoi puoi **scaricare qui in PDF**: [Costituzione Italiana](/wp-content/costituzione_italiana.pdf "Costituzione Italiana")) che ha proposto la Casa delle Libertà, se approvate, riapriranno le porte al fascismo e porterebbero l'Italia al solito primato mondiale in quanto a "casi emblematici" di assurdità… passando dall'avere una delle Costituzioni più belle del pianeta, ad una delle peggiori.
 
-dato che non se ne sta (ancora) parlando, e il tema è gravissimo.. per informare bene la gente non basteranno due settimane di spot pubblicitari.. anche perché sono stati i soliti furbetti e hanno messo la data del Referendum DOPO la chiusura delle scuole ed durante il primo fine settimana estivo. E&#8217; bene che tutti siano consapevoli del rischio che corriamo e che si connettano un attimo che **viviamo tutti insieme e il nostro futuro è davvero nelle nostre mani**.
+dato che non se ne sta (ancora) parlando, e il tema è gravissimo.. per informare bene la gente non basteranno due settimane di spot pubblicitari.. anche perché sono stati i soliti furbetti e hanno messo la data del Referendum DOPO la chiusura delle scuole ed durante il primo fine settimana estivo. E' bene che tutti siano consapevoli del rischio che corriamo e che si connettano un attimo che **viviamo tutti insieme e il nostro futuro è davvero nelle nostre mani**.
 
 **Il Movimento Umanista partecipa attivamente alla campagna di informazione e di promozione per il NO a questo Referendum Costituzionale.**
   

@@ -1,18 +1,11 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Economia
-- Tempi moderni
-date: "2011-10-04T15:26:03Z"
+categories: [blog]
+date: 2011-10-04T15:26:03Z
 guid: http://stefanocecere.com/2011/10/04/la-crisi-degli-asini/
 id: 2694
 tags:
-- bache
+- banche
 - crisi
 - finanza
 - indignati
@@ -28,23 +21,23 @@ LA CRISI DEGLI ASINI
 
 Un uomo in giacca e cravatta è apparso un giorno in un villaggio. In piedi su una cassetta della frutta, gridò a chi passava che avrebbe comprato a €100 in contanti ogni asino che gli sarebbe stato offerto.
 
-I contadini erano effettivamente un po&#8217; sorpresi, ma il prezzo era alto e quelli che accettarono tornarono a casa con il portafoglio gonfio, felici come una pasqua.
+I contadini erano effettivamente un po' sorpresi, ma il prezzo era alto e quelli che accettarono tornarono a casa con il portafoglio gonfio, felici come una pasqua.
 
-L&#8217;uomo venne anche il giorno dopo e questa volta offrì 150 € per asino, e di nuovo tante persone gli vendettero i propri animali.
+L'uomo venne anche il giorno dopo e questa volta offrì 150 € per asino, e di nuovo tante persone gli vendettero i propri animali.
 
 Il giorno seguente, offrì 300 € a quelli che non avevano ancora venduto gli ultimi asini del villaggio.
 
 Vedendo che non ne rimaneva nessuno, annunciò che avrebbe comprato asini a 500 € la settimana successiva e se ne andò dal villaggio.
 
-Il giorno dopo, affidò al suo socio la mandria che aveva appena acquistato e lo inviò nello stesso villaggio con l&#8217;ordine di vendere le bestie 400 € l&#8217;una.
+Il giorno dopo, affidò al suo socio la mandria che aveva appena acquistato e lo inviò nello stesso villaggio con l'ordine di vendere le bestie 400 € l'una.
 
 Vedendo la possibilità di realizzare un utile di 100 €, la settimana successiva tutti gli abitanti del villaggio acquistarono asini a quattro volte il prezzo al quale li avevano venduti e, per far ciò, si indebitarono con la banca.
 
-Come era prevedibile, i due uomini d&#8217;affari andarono in vacanza in un paradiso fiscale con i soldi guadagnati e tutti gli abitanti del villaggio rimasero con asini senza valore e debiti fino a sopra i capelli.
+Come era prevedibile, i due uomini d'affari andarono in vacanza in un paradiso fiscale con i soldi guadagnati e tutti gli abitanti del villaggio rimasero con asini senza valore e debiti fino a sopra i capelli.
 
 Gli sfortunati provarono invano a vendere gli asini per rimborsare i prestiti.
 
-Il costo dell&#8217;asino era crollato.
+Il costo dell'asino era crollato.
 
 Gli animali furono sequestrati ed affittati ai loro precedenti proprietari dal banchiere.
 
@@ -52,13 +45,13 @@ Nonostante ciò il banchiere andò a piangere dal sindaco, spiegando che se non 
 
 Per evitare questo disastro, il sindaco, invece di dare i soldi agli abitanti del villaggio perché pagassero i propri debiti, diede i soldi al banchiere (che era, guarda caso, suo caro amico e primo assessore).
 
-Eppure quest&#8217;ultimo, dopo aver rimpinguato la tesoreria, non cancellò i debiti degli abitanti del villaggio ne quelli del Comune e così tutti continuarono a rimanere immersi nei debiti.
+Eppure quest'ultimo, dopo aver rimpinguato la tesoreria, non cancellò i debiti degli abitanti del villaggio ne quelli del Comune e così tutti continuarono a rimanere immersi nei debiti.
 
-Vedendo il proprio disavanzo sul punto di essere declassato e preso alla gola dai tassi di interesse, il Comune chiese l&#8217;aiuto dei villaggi vicini, ma questi risposero che non avrebbero potuto aiutarlo in nessun modo poiché avevano vissuto la medesima disgrazia.
+Vedendo il proprio disavanzo sul punto di essere declassato e preso alla gola dai tassi di interesse, il Comune chiese l'aiuto dei villaggi vicini, ma questi risposero che non avrebbero potuto aiutarlo in nessun modo poiché avevano vissuto la medesima disgrazia.
 
-Su consiglio disinteressato del banchiere, tutti decisero di tagliare le spese: meno soldi per le scuole, per i servizi sociali, per le strade, per la sanità &#8230;
+Su consiglio disinteressato del banchiere, tutti decisero di tagliare le spese: meno soldi per le scuole, per i servizi sociali, per le strade, per la sanità …
 
-Venne innalzata l&#8217;età di pensionamento e licenziati tanti dipendenti pubblici, abbassarono i salari e al contempo le tasse furono aumentate.
+Venne innalzata l'età di pensionamento e licenziati tanti dipendenti pubblici, abbassarono i salari e al contempo le tasse furono aumentate.
 
 Dicevano che era inevitabile e promisero di moralizzare questo scandaloso commercio di asini.
 
@@ -74,4 +67,4 @@ E voi, cosa fareste al posto loro?
 
 Che cosa farete?
 
-Se questa storia vi ricorda qualcosa, ritroviamoci tutti nelle strade delle nostre città e dei nostri villaggi Sabato 15 ottobre 2011 (Giornata internazionale degli indignati) &#8230; e fate circolare questa storiella&#8230;.
+Se questa storia vi ricorda qualcosa, ritroviamoci tutti nelle strade delle nostre città e dei nostri villaggi Sabato 15 ottobre 2011 (Giornata internazionale degli indignati) … e fate circolare questa storiella….

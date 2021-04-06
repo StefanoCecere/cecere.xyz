@@ -1,12 +1,7 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2010-04-27T09:32:26Z"
+categories: [blog]
+date: 2010-04-27T09:32:26Z
 guid: http://stefanocecere.com/?p=2177
 id: 2177
 tags:
@@ -22,25 +17,25 @@ slug: /2010/04/27/al-gore-una-scomoda-verita/
 
 Spero tu abbia voglia di meditare e di approfondire su quanto segue.. io lo sto facendo. E **che la tua indignazione si faccia azione nel mondo**.
 
-Ecco l&#8217;intervento di Al Gore al Festival del Giornalismo, settimana scorsa:
+Ecco l'intervento di Al Gore al Festival del Giornalismo, settimana scorsa:
 
-Sintetizzo velocemente il mio punto di vista e credenze a riguardo: Al Gore è uno dei fomentatori e speculatori del &#8220;pericolo riscaldamento globale&#8221; (e chissà cos&#8217;altro), sicuramente per fare business, forse anche per potere sociale. La presidenza Clinton (di cui era vicepresidente) ha fatto DISASTRI enormi (così come quella Prodi negli stessi anni). (se sei filo berlusconiano e stai godendo.. sappi che ho un&#8217;infima stima per il &#8220;metodo Berlusconi&#8221; e suoi amici/seguaci)
+Sintetizzo velocemente il mio punto di vista e credenze a riguardo: Al Gore è uno dei fomentatori e speculatori del "pericolo riscaldamento globale" (e chissà cos'altro), sicuramente per fare business, forse anche per potere sociale. La presidenza Clinton (di cui era vicepresidente) ha fatto DISASTRI enormi (così come quella Prodi negli stessi anni). (se sei filo berlusconiano e stai godendo.. sappi che ho un'infima stima per il "metodo Berlusconi" e suoi amici/seguaci)
 
-amici.. sto diventando radicalmente intollerante all&#8217;ipocrisia e alla menzogne di politici, giornalisti, banchieri, scienziati, imprenditori!
+amici.. sto diventando radicalmente intollerante all'ipocrisia e alla menzogne di politici, giornalisti, banchieri, scienziati, imprenditori!
 
 Il giornalista **Paolo Barnard** sintetizza bene la situazione in un suo recente articolo che qui riporto integrale ([link](http://paolobarnard.info/intervento_mostra_go.php?id=180)) :
 
 **Al Gore mi assume… almeno così ha detto.**
 
-Al IV Festival del giornalismo di Perugia, Al Gore, l’ex vice presidente USA di Bill Clinton, ha detto: “Se avete un&#8217;inchiesta che nessuno vi vuole pubblicare, venite da noi a Current TV, e noi ve la pubblicheremo!”.
+Al IV Festival del giornalismo di Perugia, Al Gore, l’ex vice presidente USA di Bill Clinton, ha detto: “Se avete un'inchiesta che nessuno vi vuole pubblicare, venite da noi a Current TV, e noi ve la pubblicheremo!”.
 
-Fantastico, ho trovato lavoro. Ecco la mia inchiesta che nessuno in Italia ha pubblicato e che tu Al Gore pubblicherai di certo, un&#8217;inchiesta
+Fantastico, ho trovato lavoro. Ecco la mia inchiesta che nessuno in Italia ha pubblicato e che tu Al Gore pubblicherai di certo, un'inchiesta
 
 1) sul tuo segretario di Stato Madeleine Albright, che descrisse la morte di 350.000 bambini iracheni causata direttamente dalle sanzioni ONU contro l’Iraq come un fatto accettabile. Disse alla CBS: “Penso che questa sia una scelta molto dura, ma il prezzo, pensiamo che il prezzo ne valga la pena.”
 
 2) sulla vostra, tua e di Clinton, dottrina “Full Spectrum Dominance” (dominio a tutto campo) elaborata dal Pentagono sotto la tua amministrazione, che è stata la base materiale e ideologica di tutto ciò che i neocons di Bush hanno potuto fare in questi anni di devastante unilateralismo armato. Il vostro Anthony Lake disse: “In un mondo in cui gli USA non devono più quotidianamente preoccuparsi della minaccia atomica sovietica, la questione del dove e quando interverremo in Paesi esteri è sempre più una nostra scelta”.
 
-3) sulle vostre sciagurate iniziative rivolte al continente africano: il African Growth and Opportunity Act e il African Crisis Response Initiative (ACRI). Nel primo è sancito il tentativo di incatenare sempre più Stati africani ai cosiddetti accordi bilaterali di libero scambio; il secondo è un piano segreto di “programmi di assistenza militare” (leggi vendita illegale di armamenti) a Stati africani in miseria. L’uomo prescelto da voi &#8211; sempre tu e Clinton &#8211; per gestire questi loschi affari si chiamava Nestor Pino Marina, un colonnello esiliato cubano già arruolato nel fallito golpe dello Sbarco della Baia dei Porci a Cuba del 1961, in seguito agente speciale nelle ‘operazioni sporche’ dell’esercito americano in Laos e Vietnam, e consigliere dei Contras nella loro guerra di terrore contro il Nicaragua nei primi anni ’80.
+3) sulle vostre sciagurate iniziative rivolte al continente africano: il African Growth and Opportunity Act e il African Crisis Response Initiative (ACRI). Nel primo è sancito il tentativo di incatenare sempre più Stati africani ai cosiddetti accordi bilaterali di libero scambio; il secondo è un piano segreto di “programmi di assistenza militare” (leggi vendita illegale di armamenti) a Stati africani in miseria. L’uomo prescelto da voi - sempre tu e Clinton - per gestire questi loschi affari si chiamava Nestor Pino Marina, un colonnello esiliato cubano già arruolato nel fallito golpe dello Sbarco della Baia dei Porci a Cuba del 1961, in seguito agente speciale nelle ‘operazioni sporche’ dell’esercito americano in Laos e Vietnam, e consigliere dei Contras nella loro guerra di terrore contro il Nicaragua nei primi anni ’80.
 
 4) sulla vostra pratica di chiudere entrambi gli occhi di fronte ai crimini più orrendi pur di esportare armi e influenza americane, come nell’assistenza militare alla Turchia. In quel Paese, lungo tutti gli anni novanta si verificò una campagna di repressione poliziesca delle minoranze curde del sudest che per la ferocia e l’entità dei crimini commessi contro civili innocenti fu definita dal Ministro turco per i Diritti Umani Azimet Koyluoglu “terrorismo di Stato”. Furono bruciati 3.600 villaggi, torturarono con metodi inauditi migliaia fra uomini donne e persino adolescenti, uccisero, mutilarono e costrinsero alla fuga sulle montagne due milioni di civili in miseria. Tu e Clinton nel solo 1997 decretaste un aumento degli aiuti militari a quell’esercito criminale di tale entità da superare tutte le forniture americane precedenti dal 1950 ad allora.
 

@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2010-12-31T17:36:20Z"
+date: 2010-12-31T17:36:20Z
 guid: http://stefanocecere.com/?p=2303
 id: 2303
 title: Cattivo anno a (quasi) tutti!
@@ -15,27 +11,27 @@ slug: /2010/12/31/cattivo-anno-a-quasi-tutti/
 
 Purtroppo non è un augurio, ma una constatazione amichevole.
 
-Il mio ottimismo per il futuro è sempre molto alto&#8230; ho troppo presente le tante curve, cadute ed impennate dell&#8217;evoluzione umana per scoraggiarmi innanzi al presente, ma è meglio conoscere che disconoscere la situazione in cui ci troviamo: niente di meno che nel vuoto sopra il baratro.
+Il mio ottimismo per il futuro è sempre molto alto… ho troppo presente le tante curve, cadute ed impennate dell'evoluzione umana per scoraggiarmi innanzi al presente, ma è meglio conoscere che disconoscere la situazione in cui ci troviamo: niente di meno che nel vuoto sopra il baratro.
 
 Fra poco riporto un raccontino che spiega tutto nei dettagli, non preoccuparti se non capisci tutto subito.
 
-Non posso tacere sui tanti campanelli di allarme suonati negli ultimi decenni&#8230; Silo e il Movimento Umanista sono stati radicali fin dagli albori sulla gravità della direzione che stava prendendo la società umana. Di proposte di azione ne sono state messe in moto molte. Ma niente da fare. Ci tocca andare a fondo!
+Non posso tacere sui tanti campanelli di allarme suonati negli ultimi decenni… Silo e il Movimento Umanista sono stati radicali fin dagli albori sulla gravità della direzione che stava prendendo la società umana. Di proposte di azione ne sono state messe in moto molte. Ma niente da fare. Ci tocca andare a fondo!
 
 Come in ogni crisi ne usciremo, prima o poi, e spero in tanti e rinnovati.
 
-Il mio augurio per il 2011 è un inizio di risveglio coscienza planetario e di rivolta contro l&#8217;attuale sistema autodistruttivo e antiumano in cui ci hanno cacciato.
+Il mio augurio per il 2011 è un inizio di risveglio coscienza planetario e di rivolta contro l'attuale sistema autodistruttivo e antiumano in cui ci hanno cacciato.
 
-Mi dispiace ma sarà un cattivo anno per la maggior parte dell&#8217;umanità. Anche se a me e alla mia famiglia andrà probabilmente bene.. non riesco a tollerare questa situazione. Aiutiamoci a far si che non sarà così per sempre!
+Mi dispiace ma sarà un cattivo anno per la maggior parte dell'umanità. Anche se a me e alla mia famiglia andrà probabilmente bene.. non riesco a tollerare questa situazione. Aiutiamoci a far si che non sarà così per sempre!
 
 Ora vado a portare lenticchie e purè ai cari amici con cui passerò questa serata. Un forte abbraccio a tutte le persone care e vicine (sopratutto di spirito) !
 
-Ecco dunque il racconto, scritto dall&#8217;amico Paolo Barnard, che &#8220;semplifica&#8221; per i non addetti ai lavori la faccenda.. così come la vedo anch&#8217;io, almeno!
+Ecco dunque il racconto, scritto dall'amico Paolo Barnard, che "semplifica" per i non addetti ai lavori la faccenda.. così come la vedo anch'io, almeno!
 
 ( articolo tratto da [http://paolobarnard.info/intervento\_mostra\_go.php?id=200](http://paolobarnard.info/intervento_mostra_go.php?id=200) )
 
 **Tu che sei in azienda a Ospedaletto e tu di Mirafiori…**
 
-Sia chiaro che io sto parlando a te, tu che stai a Ospedaletto in provincia di Treviso, e che sei appena stato al bar a discutere con un amico sul piano di mobilità presentato ieri nell’azienda dove lavori, gran brutto clima, hai detto. Mi spiace per gli altri lettori, sta roba non è per loro. E sto parlando a te, che abiti a Lodi e hai passato il pomeriggio all’agenzia interinale a litigare con quella sciapa impiegata sul tuo curriculum di lavoro, poi dal padrone di casa a chiedere 15 giorni di pazienza per l’affitto. Tu, se accendi il pc, lo fai al massimo per un quarto d’ora dopo le dieci di sera ad ascoltare Ligabue o un video di Madonna, e Paolo Barnard… ma chi è?&#8230; Belpietro? Minzolini? Booo… E sono qui a scrivere per te, sì proprio tu che hai finito il turno a Mirafiori, nella bolgia della Newco di Marchionne e stasera ti ronza la testa. Per forza, per ogni parola che ti dicono te ne nascondono cinquecento. Parlo anche a voi due, che stavate a 1.400 euro al mese al commerciale e al magazzino in un’azienda di Fossatone di Budrio, ora siete a casa dai genitori di lui col bambino; e sua madre, vecchia santa, vi passa la sua invalidità, Dio grazie che c’è quella. Non che disdegni gli altri lettori, ma chi non è voi queste righe non le ‘_sente_’, non le ‘_sentono’_ quelli del web dell’informazione, quelli ancora all’università, quelli che la crisi la leggono sui giornali. Voi invece sì che la toccate, siete cinque, moltiplicati per un milione, per due, per tre, e per molto di più se si valicano in confini dell’Italia.
+Sia chiaro che io sto parlando a te, tu che stai a Ospedaletto in provincia di Treviso, e che sei appena stato al bar a discutere con un amico sul piano di mobilità presentato ieri nell’azienda dove lavori, gran brutto clima, hai detto. Mi spiace per gli altri lettori, sta roba non è per loro. E sto parlando a te, che abiti a Lodi e hai passato il pomeriggio all’agenzia interinale a litigare con quella sciapa impiegata sul tuo curriculum di lavoro, poi dal padrone di casa a chiedere 15 giorni di pazienza per l’affitto. Tu, se accendi il pc, lo fai al massimo per un quarto d’ora dopo le dieci di sera ad ascoltare Ligabue o un video di Madonna, e Paolo Barnard… ma chi è?… Belpietro? Minzolini? Booo… E sono qui a scrivere per te, sì proprio tu che hai finito il turno a Mirafiori, nella bolgia della Newco di Marchionne e stasera ti ronza la testa. Per forza, per ogni parola che ti dicono te ne nascondono cinquecento. Parlo anche a voi due, che stavate a 1.400 euro al mese al commerciale e al magazzino in un’azienda di Fossatone di Budrio, ora siete a casa dai genitori di lui col bambino; e sua madre, vecchia santa, vi passa la sua invalidità, Dio grazie che c’è quella. Non che disdegni gli altri lettori, ma chi non è voi queste righe non le ‘_sente_’, non le ‘_sentono’_ quelli del web dell’informazione, quelli ancora all’università, quelli che la crisi la leggono sui giornali. Voi invece sì che la toccate, siete cinque, moltiplicati per un milione, per due, per tre, e per molto di più se si valicano in confini dell’Italia.
 
 Voi che da qualche parte vi siete chiesti “_ma cosa succede? com’è possibile che siamo conciati così?_”. Ho risposto a quelle domande con una panoramica completa sulle origini di questa crisi di lacrime e sangue del tutto preordinata, goduta oggi da chi vi lucra sopra, e vi ho avvisati: “_E’ in atto il più feroce assalto ai redditi da lavoro della Storia moderna_”. Ma ora è bene che aggiunga a quelle pagine il dettaglio concreto di come vi hanno portato dove siete ora, e cioè in un bar con l’ansia che ti fa lasciar lì il ‘bianchetto’ prima di cena; davanti al portone del padrone di casa odiando ogni minuto; ad ascoltare i proclami della FIOM con un che dentro che ti dice “_ma daiii… tanto abbiamo perso_”; o a vergognarvi di spendere i 500 euro di pensione di una nonna, ma dovete.
 
@@ -67,9 +63,9 @@ Bill Clinton domina la politica USA per quasi tutti gli anni novanta. E cosa fa?
 
 A questo punto siamo in Europa, sempre in questi anni cruciali che sono le due decadi 1990-2010. Di fatto accade una cosa grave: calano vistosamente, nel tempo, i prestiti delle banche alle aziende. Questo porta a reazioni da parte delle banche e delle aziende che sono prevedibili: entrambe, per racimolare denaro, si gettano ancor più nelle speculazioni finanziarie di cui abbiamo trattato finora. Le aziende lo fecero per motivi ovvi, appunto trovare denaro che non gli veniva più dalle banche, ma soprattutto lucrare soldi facili per i managers e non per i lavoratori; le banche lo fecero perché per esse i prestiti alle aziende sono un attivo, cioè il loro guadagno, e dunque se non prestavano più tanto alle aziende dovevano prestare a chi faceva giochi finanziari o a chi s’indebitava con il credito al consumo. Ma attenzione, avrete notato che in entrambi i casi il risultato è lo stesso: di fatto meno soldi agli investimenti di produzione, cioè all’economia vera. Questo è cruciale.
 
-Si badi a una cosa: se gli Stati con moneta sovrana avessero (fino all’arrivo dell’euro) svolto la loro funzione di creatori di ricchezza per il settore privato spendendo a deficit quanto necessario &#8211; cioè comprando cose, finanziando progetti, e quindi accreditando i c/c di aziende e di lavoratori italiani – forse le aziende non sarebbero così dipese dalle banche e le banche dalle aziende, ed entrambe dalle speculazioni in finanza. Ma in Europa, scrive l’economista Alain Parguez, “_Francia e Germania decisero di imporre a tutti i governi un crollo di spesa pubblica permanente_ (_fiscal deflation_) _per deprimere i consumi e da ciò ottenere alta disoccupazione per infine deprimere i salari_”. Ne ho scritto poco più sopra, siamo sempre al_Neomercantilismo_ franco-tedesco, cioè la politica delle loro industrie maggiori di abbattere i salari per poter primeggiare nell’export.
+Si badi a una cosa: se gli Stati con moneta sovrana avessero (fino all’arrivo dell’euro) svolto la loro funzione di creatori di ricchezza per il settore privato spendendo a deficit quanto necessario - cioè comprando cose, finanziando progetti, e quindi accreditando i c/c di aziende e di lavoratori italiani – forse le aziende non sarebbero così dipese dalle banche e le banche dalle aziende, ed entrambe dalle speculazioni in finanza. Ma in Europa, scrive l’economista Alain Parguez, “_Francia e Germania decisero di imporre a tutti i governi un crollo di spesa pubblica permanente_ (_fiscal deflation_) _per deprimere i consumi e da ciò ottenere alta disoccupazione per infine deprimere i salari_”. Ne ho scritto poco più sopra, siamo sempre al_Neomercantilismo_ franco-tedesco, cioè la politica delle loro industrie maggiori di abbattere i salari per poter primeggiare nell’export.
 
-Quindi in queste acque agitate, il salvataggio della spesa dello Stato non esisteva più, e di fatto la tendenza alla finanziarizzazione sia di banche che di aziende non fece altro che esacerbare ulteriormente due dei fenomeni disastrosi che ci hanno rovinati: la corsa a ingigantire sempre più la colossale bolla speculativa di denaro-aria fritta sparsa per il mondo &#8211; e la sottrazione degli investimenti, che i manager e le banche destinavano ai giochetti col denaro invece che a creare occupazione.
+Quindi in queste acque agitate, il salvataggio della spesa dello Stato non esisteva più, e di fatto la tendenza alla finanziarizzazione sia di banche che di aziende non fece altro che esacerbare ulteriormente due dei fenomeni disastrosi che ci hanno rovinati: la corsa a ingigantire sempre più la colossale bolla speculativa di denaro-aria fritta sparsa per il mondo - e la sottrazione degli investimenti, che i manager e le banche destinavano ai giochetti col denaro invece che a creare occupazione.
 
 Ok, stop e ricapitolo, abbiamo:
 
@@ -85,15 +81,15 @@ E quando l’economia di tutto il mondo che conta si regge su bolle di denaro ar
 
 Ecco la sequenza del crollo: verso il 2004 i prezzi delle case negli Stati Uniti iniziano a scendere, anche perché nell’euforia della bolla speculativa immobiliare i palazzinari ne avevano costruite troppe, che rimanevano invendute. Infine, i prezzi delle materie prime (legno, minerali, cotone, cereali…) iniziarono a salire fuori dal controllo americano, rendendo ancor più costosa la vita dei cittadini USA e ancor più pesante il loro ricorso al debito. Cosa era accaduto? Che Cina e India promettevano crescite economiche favolose, e quindi i mercati si aspettavano che i due giganti asiatici avrebbero richiesto molte materie prime; l’aspettativa crea speculazione, e la speculazione fa schizzare in alto i prezzi di quelle materie. E cosa fece il governo USA per rimediare? La solita cosa: tagliò gli stipendi, perché con paghe meno grosse la gente spende di meno, quindi circola meno denaro e quindi c’è meno inflazione. Cioè: bilanciare l’inflazione dei prezzi generata dall’aumento delle materie prime, abbattendo l’inflazione generata dallo spendere gli stipendi (Bellofiore, Halevi 2010). Il cerino era stato acceso nella stanza piena di gas… Booooommmm! L’effetto domino partì con una violenza inaudita:
 
-&#8211;       crollo del valore degli immobili USA
+-       crollo del valore degli immobili USA
 
-&#8211;       crollo della scommessa di milioni di americani che speravano con quei valori di pagare i loro debiti , e infatti smettono di ripagare i mutui
+-       crollo della scommessa di milioni di americani che speravano con quei valori di pagare i loro debiti , e infatti smettono di ripagare i mutui
 
-&#8211;       crollo dei libri contabili delle banche e di chiunque aveva fatto mutui facili (circa 65 milioni di essi)
+-       crollo dei libri contabili delle banche e di chiunque aveva fatto mutui facili (circa 65 milioni di essi)
 
-&#8211;       crollo degli stipendi, crollo della domanda interna USA e quindi licenziamenti nelle aziende
+-       crollo degli stipendi, crollo della domanda interna USA e quindi licenziamenti nelle aziende
 
-&#8211;       panico da “_Oddio! Qui andiamo tutti sotto!_” e la scoperta che nell’euforia dei giochetti col denaro alcuni immensi istituti finanziari americani avevano fatto cose turche, peggio, infernali, al punto che il quotatissimo economista Nouriel Roubini dichiarò a New York che “_in sostanza l’intero sistema bancario americano è fallito_”.
+-       panico da “_Oddio! Qui andiamo tutti sotto!_” e la scoperta che nell’euforia dei giochetti col denaro alcuni immensi istituti finanziari americani avevano fatto cose turche, peggio, infernali, al punto che il quotatissimo economista Nouriel Roubini dichiarò a New York che “_in sostanza l’intero sistema bancario americano è fallito_”.
 
 Come già detto, l’Europa è a questo punto (primi anni 2000) legata a doppio filo agli USA, soprattutto per due motivi: primo, abbiamo anche noi comprato masse di prodotti finanziari ‘tossici’ americani che infettano i bilanci delle nostre banche, di privati, di aziende e di Comuni; e secondo, a causa della compressione della ricchezza pubblica (e anche privata) voluta da Francia e Germania, il Vecchio Continente conta molto sulla spesa degli statunitensi per incassare denaro. Terzo elemento, e sempre a causa delle politiche franco-germaniche e dell’ideologia economica neoliberale, l’Europa si trova insaccata nel pantano di economie stagnanti da anni, con alta disoccupazione, alto precariato, stipendi depressi, Stati disattivati. E dunque quando l’ondata della crisi americana si abbatté qui, ci fece a pezzi. Bellofiore: “_L’Eurozona era impantanata in una depressione competitiva dei salari e in budget di Stato assai avari. La ricchezza interna era debole, contavamo sull’export. Non ci volle molto a capire che il contagio americano sarebbe diventato europeo… l’infezione attecchì partendo dalla crisi dei mutui inglesi, poi dal crollo della bolla immobiliare spagnola… ci prendevamo sberle finanziarie dall’America bloccati nella nostra gabbia neomercantile, senza una via di fuga_”.
 

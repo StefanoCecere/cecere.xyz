@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2007-03-31T00:45:49Z"
+categories: [blog]
+date: 2007-03-31T00:45:49Z
 guid: http://stefanocecere.com/2007/03/31/otto-per-mille-non-al-vaticano/
 id: 499
-related_posts:
-- null
 tags:
 - Papa
 - vergogna!
@@ -15,9 +11,9 @@ title: otto per mille non al Vaticano
 slug: /2007/03/31/otto-per-mille-non-al-vaticano/
 ---
 
-pubblico la email che mi ha appena inviato l&#8217;amico Aldo che ringrazio. Condivido in pieno e ricordo che molte associazioni e onlus (anche del Movimento Umanista) possono beneficiare del tuo 8 x 1000
+pubblico la email che mi ha appena inviato l'amico Aldo che ringrazio. Condivido in pieno e ricordo che molte associazioni e onlus (anche del Movimento Umanista) possono beneficiare del tuo 8 x 1000
 
-&#8211; &#8211; &#8211;
+- - -
 
 Ciao a tutti.
   

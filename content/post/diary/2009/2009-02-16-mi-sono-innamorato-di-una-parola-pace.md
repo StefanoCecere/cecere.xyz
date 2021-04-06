@@ -2,7 +2,7 @@
 author: Stefano Cecere
 categories:
 - Terra 2.0
-date: "2009-02-16T01:23:41Z"
+date: 2009-02-16T01:23:41Z
 format: video
 guid: http://stefanocecere.com/?p=1525
 id: 1525

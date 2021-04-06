@@ -2,7 +2,7 @@
 author: Stefano Cecere
 categories:
 - JJ
-date: "2015-04-28T01:02:25Z"
+date: 2015-04-28T01:02:25Z
 guid: http://stefanocecere.com/?p=5744
 id: 5744
 tags:

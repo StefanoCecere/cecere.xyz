@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Futuro
-date: "2006-07-03T01:54:44Z"
+categories: [blog]
+date: 2006-07-03T01:54:44Z
 guid: http://stefanocecere.com/2006/07/03/foto-del-simbolo-della-pace-a-monza/
 id: 361
-related_posts:
-- null
 tags:
 - spirito
 - umanista
@@ -21,7 +17,7 @@ slug: /2006/07/03/foto-del-simbolo-della-pace-a-monza/
 
 chissà forse siamo davvero una manica di mezzi matti.. voler cambiare il mondo con la nonviolenza. organizzare eventi, riunioni in continuazione, allestire locali, pubblicare giornali.. centinaia di emails, sms, telefonate, migliaia di volantini con permanenza verso tutti quelli che conosciamo.
 
-contemporaneamente il non cadere nella trappola dell&#8217;esito, nella depressione dell&#8217;insuccesso (che porta sempre al tradimento dei propri ideali e/o alla violenza).. mantenendo invece sempre uno spirito molto alto, una rilassata allegria e una spietata lucidità verso un&#8217;immagine precisa di come vogliamo il futuro.
+contemporaneamente il non cadere nella trappola dell'esito, nella depressione dell'insuccesso (che porta sempre al tradimento dei propri ideali e/o alla violenza).. mantenendo invece sempre uno spirito molto alto, una rilassata allegria e una spietata lucidità verso un'immagine precisa di come vogliamo il futuro.
   
 si, forse siamo una manica di matti.. ma ne vale la pena 😉
 

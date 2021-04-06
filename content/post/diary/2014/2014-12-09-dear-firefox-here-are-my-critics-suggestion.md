@@ -2,13 +2,13 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2014-12-09T09:07:28Z"
+date: 2014-12-09T09:07:28Z
 format: status
 guid: http://twitter-542229025889214464-post
 id: 5558
 tags:
 - tweet
-title: dear @firefox here are my critics &amp; suggestion&#8230;
+title: dear @firefox here are my critics &amp; suggestion…
 slug: /2014/12/09/dear-firefox-here-are-my-critics-suggestion/
 ---
 

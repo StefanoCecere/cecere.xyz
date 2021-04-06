@@ -1,8 +1,7 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-10-30T10:16:36Z"
+categories: [blog]
+date: 2008-10-30T10:16:36Z
 guid: http://stefanocecere.com/?p=1469
 id: 1469
 tags:
@@ -43,7 +42,7 @@ Abbiamo anche scritto al Presidente della Repubblica chiedendo il suo intervento
 
  
 
-Dopo lo sciopero della fame fatto da Jan Bednar e Jan Tamas in maggio, ogni giorno  un personaggio del mondo ceco – artisti, politici, scienziati, dottori, sportivi,&#8230; –  porta avanti  lo sciopero della fame a staffetta per chiedere la sospensione per un anno delle trattative. Tutto questo mostra chiaramente che i cechi hanno grandi dubbi su questo progetto ed in piu’, superando la paura di esprimersi pubblicamente, cominciano a dichiarare chiaramente la loro opinione. Un video sullo sciopero della fame mostra chiaramente come è ampia questa partecipazione:
+Dopo lo sciopero della fame fatto da Jan Bednar e Jan Tamas in maggio, ogni giorno  un personaggio del mondo ceco – artisti, politici, scienziati, dottori, sportivi,… –  porta avanti  lo sciopero della fame a staffetta per chiedere la sospensione per un anno delle trattative. Tutto questo mostra chiaramente che i cechi hanno grandi dubbi su questo progetto ed in piu’, superando la paura di esprimersi pubblicamente, cominciano a dichiarare chiaramente la loro opinione. Un video sullo sciopero della fame mostra chiaramente come è ampia questa partecipazione:
 
 <span><a href="http://www.nenasili.cz/cs/videa">http://www.nenasili.cz/cs/videa</a></span> (solo in ceco)
 
@@ -59,7 +58,7 @@ Ci appelliamo a tutti i senatori e deputati di CSSD e KCSM – i partiti dell’
 
 Chiediamo ai senatori e deputati dei partiti della coalizione, che in buona fede credono che sia giusta la presenza militare USA sul nostro territorio, di riflettere sulla loro posizione una volta in piu’,  e soprattutto di non essere complici di chi tutto vuole tranne che il benessere comune. Se davvero credete che il radar è una cosa utile,  è giusto che fate di tutto per realizzarlo. Ma non in questa forma che degrada la parola stessa “democrazia”!
 
-Vi chiediamo di votare   secondo coscienza  e non per obbedienza al partito. E&#8217; bene ricordare che alla fine  ognuno è responsabile  nei confronti della popolazione che uno rappresenta, verso i propri figli e verso le future generazioni, e non verso il proprio partito.
+Vi chiediamo di votare   secondo coscienza  e non per obbedienza al partito. E' bene ricordare che alla fine  ognuno è responsabile  nei confronti della popolazione che uno rappresenta, verso i propri figli e verso le future generazioni, e non verso il proprio partito.
 
  
 

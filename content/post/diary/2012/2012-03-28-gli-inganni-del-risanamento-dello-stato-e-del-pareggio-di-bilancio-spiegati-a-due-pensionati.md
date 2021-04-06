@@ -1,12 +1,8 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Economia
-date: "2012-03-28T23:09:37Z"
+date: 2012-03-28T23:09:37Z
 guid: http://stefanocecere.com/?p=2886
 id: 2886
 tags:
@@ -18,7 +14,7 @@ title: Gli inganni del “risanamento” dello Stato e del “pareggio di bilanc
 slug: /2012/03/28/gli-inganni-del-risanamento-dello-stato-e-del-pareggio-di-bilancio-spiegati-a-due-pensionati/
 ---
 
-_&#8220;storiella&#8221; che spiega semplicemente quell oche ta succedendo&#8230; (di [Paolo Barnard](http://paolobarnard.info/intervento_mostra_go.php?id=353))_
+_"storiella" che spiega semplicemente quell oche ta succedendo… (di [Paolo Barnard](http://paolobarnard.info/intervento_mostra_go.php?id=353))_
 
 Cara Signora Ida, Caro Signor Ugo.
 
@@ -42,10 +38,10 @@ Eh sì, perché guardate bene le cose: Monti ha anche deciso che lo Stato smette
 
 Guardate la scena: in una stanza c’è il governo Monti, ci siamo noi cittadini e aziende, e c’è il resto del mondo, cioè le altre nazioni. Allora, per riassumere i concetti:
 
-  * Monti come prima cosa ci toglie soldi e ci tassa di più, noi siamo più poveri (il “_risanamento_”)
-  * poi Monti ci darà ZERO soldi (ne spende 100 e ci tassa 100, il “_pareggio di bilancio_”)
-  * a quel punto noi cittadini e aziende dobbiamo trovarli da soli i soldi, ma siccome Monti ci ha tutti impoveriti e non possiamo inventarceli i soldi, siamo con le braghe in mano (la “_crescita_”!!)
-  * Il resto del mondo ci guarda.
+- Monti come prima cosa ci toglie soldi e ci tassa di più, noi siamo più poveri (il “_risanamento_”)
+- poi Monti ci darà ZERO soldi (ne spende 100 e ci tassa 100, il “_pareggio di bilancio_”)
+- a quel punto noi cittadini e aziende dobbiamo trovarli da soli i soldi, ma siccome Monti ci ha tutti impoveriti e non possiamo inventarceli i soldi, siamo con le braghe in mano (la “_crescita_”!!)
+- Il resto del mondo ci guarda.
 
 Fantastico, ci vuole un genio per pensare a una economia così.
 

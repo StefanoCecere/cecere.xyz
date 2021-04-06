@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-03-19T10:27:27Z"
+categories: [blog]
+date: 2008-03-19T10:27:27Z
 guid: http://stefanocecere.com/2008/03/19/big-dog-i-mega-robots-sono-tra-noi-video/
 id: 758
-related_posts:
-- null
 tags:
 - robot
 - tecnologia

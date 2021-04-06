@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-09-25T10:11:05Z"
+categories: [blog]
+date: 2005-09-25T10:11:05Z
 guid: http://stefanocecere.com/2005/09/25/le-piccole-soddisfazione-con-google/
 id: 95
-related_posts:
-- null
 tags:
 - internet
 title: le piccole soddisfazione con Google

@@ -2,11 +2,9 @@
 author: Stefano Cecere
 categories:
 - Tempi moderni
-date: "2005-07-08T00:05:27Z"
+date: 2005-07-08T00:05:27Z
 guid: http://stefanocecere.com/?p=11
 id: 11
-related_posts:
-- null
 tags:
 - umanista
 title: Il mondo si sta riattivando…

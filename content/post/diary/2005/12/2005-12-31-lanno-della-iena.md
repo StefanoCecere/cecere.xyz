@@ -1,12 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2005-12-31T14:39:10Z"
+categories: [blog]
+date: 2005-12-31T14:39:10Z
 guid: http://stefanocecere.com/2005/12/31/lanno-della-iena/
 id: 199
-related_posts:
-- null
 title: l'anno della iena
 slug: /2005/12/31/lanno-della-iena/
 ---

@@ -1,17 +1,14 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-date: "2008-01-30T02:05:08Z"
+categories: [blog]
+date: 2008-01-30T02:05:08Z
 guid: http://stefanocecere.com/2008/01/30/ernesto-e-kenya/
 id: 667
-related_posts:
-- null
 title: Ernesto e Kenya
 slug: /2008/01/30/ernesto-e-kenya/
 ---
 
-l&#8217;amico Ernesto è appena uscito dall&#8217;ennesima operazione chirurgica.
+l'amico Ernesto è appena uscito dall'ennesima operazione chirurgica.
   
 un forte abbraccio, Ernesto, questa volta ce la farai! un abbraccio forte
 

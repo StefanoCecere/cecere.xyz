@@ -1,14 +1,10 @@
 ---
-aktt_notify_twitter:
-- true
-aktt_tweeted:
-- 1
 author: Stefano Cecere
 categories:
 - Media
 - Tecnologia
 - Tempi moderni
-date: "2011-09-05T22:32:15Z"
+date: 2011-09-05T22:32:15Z
 guid: http://stefanocecere.com/?p=2596
 id: 2596
 tags:

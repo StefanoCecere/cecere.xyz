@@ -1,13 +1,9 @@
 ---
 author: Stefano Cecere
-categories:
-- E io cecio..
-- Tempi moderni
-date: "2008-06-16T14:47:26Z"
+categories: [blog]
+date: 2008-06-16T14:47:26Z
 guid: http://stefanocecere.com/2008/06/16/fiorello-per-il-disarmo-canta-lignazio-jouer/
 id: 1046
-related_posts:
-- null
 tags:
 - arte
 - disarmo nucleare

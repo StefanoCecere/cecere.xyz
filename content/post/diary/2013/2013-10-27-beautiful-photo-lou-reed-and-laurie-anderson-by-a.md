@@ -2,11 +2,11 @@
 author: Stefano Cecere
 categories:
 - Tweets
-date: "2013-10-27T23:15:54Z"
+date: 2013-10-27T23:15:54Z
 format: status
 guid: http://twitter-394588293528317952-post
 id: 4757
-title: Beautiful photo. Lou Reed and Laurie Anderson by A&#8230;
+title: Beautiful photo. Lou Reed and Laurie Anderson by A…
 slug: /2013/10/27/beautiful-photo-lou-reed-and-laurie-anderson-by-a/
 ---
 
