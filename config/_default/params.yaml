@@ -129,12 +129,12 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider: algolia
   algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
-    show_logo: false
+    app_id: 'R7FIP8H2C4'
+    api_key: 'a73944b6449c0319fe632f4087dbf66b'
+    index_name: 'stefanocecere.org'
+    show_logo: true
 map:
   provider: ''
   api_key: ''
