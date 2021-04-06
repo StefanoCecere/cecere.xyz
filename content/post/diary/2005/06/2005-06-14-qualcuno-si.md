@@ -19,11 +19,11 @@ si è guardato dentro
 
 ha alzato un poco lo sguardo e…
 
-non temendo pi&#xf9; di essere screditato o diffamanto
+non temendo più di essere screditato o diffamanto
 
-non calcolando pi&#xf9; quanto ci avrebbe guadagnato
+non calcolando più quanto ci avrebbe guadagnato
 
-non preoccupandosi pi&#xf9; di tanto del possibile fallimento
+non preoccupandosi più di tanto del possibile fallimento
 
 non dando ascolto agli scettici o ai rassegnati
 

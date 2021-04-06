@@ -23,7 +23,7 @@ In ogni caso, sono molto interessato a sapere come ne parlano i media in Italia.
   
 Per quanto ci riguarda la situazione è molto preoccupante, ma non dentro Parigi.
   
-Quello che sta succedendo è che il governo e la polizia stanno mettendo pressione sui giovani, sui poveri, sui &#x201c;periferici&#x201d;, sugli stranieri (specialmente se appartieni a tutte e 4 le categorie contemporaneamente). E l'altro giorno sono morti due giovani, e finalmente è riconosciuto che è successo dopo che la polizia li stava inseguendo. Cos&#xec; sono seguite reazioni violente e dimostrazioni. Ma la polizia ha iniziato ad essere aggressiva e provocatrice. Cos&#xec; questi eventi si sono protratti pi&#xf9; a lungo. Dall'altro lato il potere e i media hanno iniziato a parlare di Islam, come al solito, ma la verità è che i musulmani stanno cercando di pacificare i pi&#xf9; arrabbiati, a differenza della polizia.
+Quello che sta succedendo è che il governo e la polizia stanno mettendo pressione sui giovani, sui poveri, sui &#x201c;periferici&#x201d;, sugli stranieri (specialmente se appartieni a tutte e 4 le categorie contemporaneamente). E l'altro giorno sono morti due giovani, e finalmente è riconosciuto che è successo dopo che la polizia li stava inseguendo. Così sono seguite reazioni violente e dimostrazioni. Ma la polizia ha iniziato ad essere aggressiva e provocatrice. Così questi eventi si sono protratti più a lungo. Dall'altro lato il potere e i media hanno iniziato a parlare di Islam, come al solito, ma la verità è che i musulmani stanno cercando di pacificare i più arrabbiati, a differenza della polizia.
   
 Alcuni edifici e molte auto sono state incendiate, ma le aggressioni sulla gente vengono solo dal governo, non dalla gente.
   

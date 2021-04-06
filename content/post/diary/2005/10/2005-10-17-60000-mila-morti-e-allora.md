@@ -15,8 +15,8 @@ Quando la &#x201c;natura&#x201d; falcia centinaia di migliaia di persone.. noi n
   
 Come con l'Emergenza Tsunami, oltre alla compassione e alle &#x201c;gare di solidarietà&#x201d;, in pochissimi hanno alzato il dito sulle condizioni disumane in cui vivevano (e stanno cercando di tornarci a vivere) milioni di persone.
   
-Non è facile connettersi con il dolore e la sofferenza di cos&#xec; tanti esseri umani, vero?
+Non è facile connettersi con il dolore e la sofferenza di così tanti esseri umani, vero?
   
-Quasi subito corrono ad aiutarci i vari sensi di impotenza, di fatalità delle cose, del &#x201c;s&#xec; però ora devo proeccuparmi a mangiare e del mio lavoro&#x201d;, alla fine staranno bene anche loro.. ci penseranno i volontari e i caritatevoli ad aiutarli.. a me non mi aiuta nessuno che ognuno si arrangi come meglio può..
+Quasi subito corrono ad aiutarci i vari sensi di impotenza, di fatalità delle cose, del &#x201c;sì però ora devo proeccuparmi a mangiare e del mio lavoro&#x201d;, alla fine staranno bene anche loro.. ci penseranno i volontari e i caritatevoli ad aiutarli.. a me non mi aiuta nessuno che ognuno si arrangi come meglio può..
   
-S&#xec;, non è facile. Non è facile vedere le cose nel loro insieme e i processi nei loro sviluppi.
+Sì, non è facile. Non è facile vedere le cose nel loro insieme e i processi nei loro sviluppi.

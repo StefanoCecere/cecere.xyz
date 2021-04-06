@@ -13,7 +13,7 @@ le paure e i timori che sarebbero conseguiti ad un aprirla in altri momenti eran
 
 per fortuna i tempi sono cambiati.
   
-nessuno viene pi&#xf9; a metterti un tizzone ardente in bocca se si osa dire &#x201c;verità scottanti&#x201d;..
+nessuno viene più a metterti un tizzone ardente in bocca se si osa dire &#x201c;verità scottanti&#x201d;..
   
 semmai il problema oggi è che anche chi ti sente non ti ascolta, e chi ti ascolta non è interessato, e se è interessato non ti segue, e se ti segue si stanca in fretta.. ma questi sono altri problemi <span style="font-size: 20pt">&#x263a;</span>
 

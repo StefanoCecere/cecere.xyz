@@ -17,7 +17,7 @@ Oggi hanno fatto le prove come se loro fossero preoccupati delle nostre vite e d
   
 Oggi hanno fatto le prove come se loro fossero persone responsabili che sanno cosa fare per affrontare i problemi.
   
-Oggi è come se alcuni di voi si sono sentiti pi&#xf9; protetti e sicuri.
+Oggi è come se alcuni di voi si sono sentiti più protetti e sicuri.
 
 Questi signori &#x201c;come se&#x201d; quando tagliano i soldi per la sanità lo fanno **per davvero**.
   
@@ -41,13 +41,13 @@ E cosa importa se noi dobbiamo, per questo, diventare amici di chi ha sotterrato
   
 Forse il terrore impotente di una donna che stringe al petto il proprio bambino, mentre suonano le sirene e fischiano le bombe che si schiantano al suolo, è diverso dal panico dello scoppio di una bomba in un metrò?
   
-E' diverso perch&#xe9; quella donna è irachena e quelle bombe sono cristiane e americane?
+E' diverso perché quella donna è irachena e quelle bombe sono cristiane e americane?
   
 Cosa ci fanno in Iraq i nostri soldati? Ve lo dico io cosa ci fanno: curano dei buoni affari per l'ENI e per l'AGIP.
 
 E non importa se questo vuol dire allearsi con dei folli guerrafondai incompetenti che non sanno neanche soccorrere la loro popolazione di fronte a una calamità naturale.
   
-E non importa se cos&#xec; ci espongono al pericolo di un **attentato** che farà altre vittime innocenti!
+E non importa se così ci espongono al pericolo di un **attentato** che farà altre vittime innocenti!
 
 I responsabili di questi disastri non dicono: &#x201c;Abbiamo sbagliato!&#x201d;.
   

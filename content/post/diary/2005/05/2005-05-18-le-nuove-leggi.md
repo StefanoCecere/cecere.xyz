@@ -11,7 +11,7 @@ slug: /2005/05/18/le-nuove-leggi/
 
 <span style="font-weight: bold"># Legge del Riconoscimento debole</span>
   
-Mettersi un costume, anche senza maschera, è pi&#xf9; che sufficiente per diventare del tutto irriconoscibile anche ai parenti e agli amici pi&#xf9; stretti.
+Mettersi un costume, anche senza maschera, è più che sufficiente per diventare del tutto irriconoscibile anche ai parenti e agli amici più stretti.
 
 <span style="font-weight: bold"># Legge della Continuità della Metamorfosi</span>
   

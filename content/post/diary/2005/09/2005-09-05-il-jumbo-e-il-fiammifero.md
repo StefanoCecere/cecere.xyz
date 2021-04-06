@@ -11,13 +11,13 @@ slug: /2005/09/05/il-jumbo-e-il-fiammifero/
 
 stessa cosa con i jet: la mia prima domanda è: 5 grandi disastri aerei in un mese.. è fuori norma? oppure prima semplicemente non ne pubblicavano la notizia?
 
-credo comunque che, nel valutare tali incidenti, sia bene tenere conto le proporzioni e altri punti di vista: ogni giorno muoiono decine di persone in incidenti stradali, e molte di pi&#xf9; muoiono in casa per incidenti domestici.
+credo comunque che, nel valutare tali incidenti, sia bene tenere conto le proporzioni e altri punti di vista: ogni giorno muoiono decine di persone in incidenti stradali, e molte di più muoiono in casa per incidenti domestici.
   
 non si deve cadere nel pozzo del temere la teconologia e il progresso, quanto bisogna sforzarsi che la tecnologia e il progresso vadano nella direzione di servire l'essere umano: "umanizzare la tecnologia".
 
 questa notte ho visto &#x201c;Cast Away&#x201d; (il film con Tom Hanks che finisce a vivere per 4 anni su un'isola deserta)..
   
-una delle scene che pi&#xf9; mi ha colpito è alla fine, quando tornato a casa, rimane a fissare l'accendigas automatico, ricordando le fatiche, il dolore e la sofferenza di essere rimasto al buio, al freddo e al cibo crudo per tanto tempo.
+una delle scene che più mi ha colpito è alla fine, quando tornato a casa, rimane a fissare l'accendigas automatico, ricordando le fatiche, il dolore e la sofferenza di essere rimasto al buio, al freddo e al cibo crudo per tanto tempo.
 
 un fiammifero oggi è un'inezia.
   

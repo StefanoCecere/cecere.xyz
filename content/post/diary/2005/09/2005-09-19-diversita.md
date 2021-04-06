@@ -11,11 +11,11 @@ ecco l'editoriale che ho scritto per il nuovo [Fannullone](http://www.ilfannullo
 
 cosa provi di fronte alla diversità?
   
-provi pi&#xf9; tensione e disappunto,
+provi più tensione e disappunto,
   
 o curiosità e allegria?
   
-oggi pi&#xf9; che mai stiamo vivendo l'incontro delle diversità.
+oggi più che mai stiamo vivendo l'incontro delle diversità.
   
 culturali, razziali, generazionali, religiose, personali, editoriali! 😉
 
@@ -23,7 +23,7 @@ culturali, razziali, generazionali, religiose, personali, editoriali! 😉
   
 al quale forse non eravamo preparati.
   
-è cos&#xec; che si sta reagendo con diversi atteggiamenti:
+è così che si sta reagendo con diversi atteggiamenti:
   
 c'è chi teme di &#x201c;perderci&#x201d; qualcosa (la propria identità?) e si irrigidisce
   
@@ -47,7 +47,7 @@ sarà la nostra chiave di salvezza,
   
 ma che ci arricchirà tutti.
 
-può non sembrare la strada pi&#xf9; facile,
+può non sembrare la strada più facile,
   
 ma non ti lascerai scoraggiare dalla buccia,
    

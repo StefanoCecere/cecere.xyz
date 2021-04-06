@@ -9,7 +9,7 @@ slug: /2005/07/03/aiutare-lafrica-serve-una-rivoluzione/
 
 <img src="http://www.liceoeleonora.com/filosofia/rinascimento/leonardo.jpg" align="left" />"io credo che i musicisti e gli artisti in generale.. possano davvero essere d'aiuto in queste situazioni…
   
-questo perch&#xe9; _si suppone che siano sensibili, che abbiano dei sentimenti…_"
+questo perché _si suppone che siano sensibili, che abbiano dei sentimenti…_"
 
 cito l'amico Morgan (nelle interviste dopo il concerto Emergenza Tsunami dell'8 febbraio scorso, vedi <http://www.clum.net> ) per introdurre il tema del Live8.
 
@@ -25,7 +25,7 @@ illudersi che le cose andranno a sistemarsi da sole, o che i "potenti" diano abb
   
 se mai faranno qualcosa sarà l'ennesimo "cambio di superficie".. un cerottino et voilà.. tutti contenti fino alla prossima volta.
 
-la radici del mondo che viviamo sono poi cos&#xec; radicate che non è neanche cos&#xec; facile immaginarsi delle soluzioni facili e immediate.
+la radici del mondo che viviamo sono poi così radicate che non è neanche così facile immaginarsi delle soluzioni facili e immediate.
 
 per fortuna c'è chi a tutto questo ci dedica temp oed energia da diversi decenni.
   

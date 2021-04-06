@@ -21,7 +21,7 @@ sebbene non basta (le dichiarazioni di Bush di questi giorni, e i commenti sulla
 
 cambiando tema, e continuando i ringraziamenti, vorrei ricordare tutti quelli che ci hanno preceduto.
   
-come dimenticare il fatto che se oggi siamo qui, nella situazione in cui siamo (e se stai leggendo questo blog di certo non te la stai passando cos&#xec; male), è grazie all'attività di chi ci ha preceduto.
+come dimenticare il fatto che se oggi siamo qui, nella situazione in cui siamo (e se stai leggendo questo blog di certo non te la stai passando così male), è grazie all'attività di chi ci ha preceduto.
   
 milioni di persone che hanno accumulato esperienza, tramandata da generazione in generazione, e che ora ce l'hanno data..
 
@@ -33,11 +33,11 @@ che senso avrebbe la nostra vita, se non ci mettessimo un po' nella direzione di
   
 magari approfondita, amplificata, migliorata, adattata ai nuovi tempi?
 
-penso che ad entrare nell'ottica che la nostra vita ha senso perch&#xe9; esistono gli altri.. la faccenda cambia.
+penso che ad entrare nell'ottica che la nostra vita ha senso perché esistono gli altri.. la faccenda cambia.
 
-per qualcuno (e mi metto fra loro) la ricerca di un nuovo tipo di atteggiamento, veramente solidale, aperto al futuro, integrale e coerente, è pi&#xf9; di una moda o di un'esigenza contingente. è davvero la base per dare un senso allo stare qui, in questo spazio e in questo tempo.
+per qualcuno (e mi metto fra loro) la ricerca di un nuovo tipo di atteggiamento, veramente solidale, aperto al futuro, integrale e coerente, è più di una moda o di un'esigenza contingente. è davvero la base per dare un senso allo stare qui, in questo spazio e in questo tempo.
 
-qualcuno si chiederà: ma perch&#xe9; tutta quell'energia a cercare di diffondere tali idee e progetti?
+qualcuno si chiederà: ma perché tutta quell'energia a cercare di diffondere tali idee e progetti?
   
 io dico questo: mi sento davvero male quando non ho aiutato qualcuno e so che avrei potuto farlo.
   

@@ -9,7 +9,7 @@ slug: /2005/10/10/figliol-prodi-go/
 
 <img src='/wp-content/prodi.jpg' alt='' align='left' />negli ultimi giorni si stanno mobilitando un po' di persone intorno a Prodi
 
-lasciando stare il discorso di tutta la gente che si mobilita e tira fuori le &#x201c;palle&#x201d; sono in prossimità delle elezioni, vorrei dire due cose a riguardo, dato che l'attacco pi&#xf9; frequente che mi fanno (e &#x201c;ci&#x201d; fanno a tutti gli umanisti) è riguardo alla non partecipazione del Partito Umanista all'Unione. &#x201c;se siete di sinistra.. perch&#xe9; fate i solitari?&#x201d;
+lasciando stare il discorso di tutta la gente che si mobilita e tira fuori le &#x201c;palle&#x201d; sono in prossimità delle elezioni, vorrei dire due cose a riguardo, dato che l'attacco più frequente che mi fanno (e &#x201c;ci&#x201d; fanno a tutti gli umanisti) è riguardo alla non partecipazione del Partito Umanista all'Unione. &#x201c;se siete di sinistra.. perché fate i solitari?&#x201d;
 
 la cosa è semplice: che questi signori definiscano cosa intendono essere di sinistra e quindi lo confrontino quello che hanno fatto (quando erano al potere a fine anni 90) e quello che hanno in programma. noi si è certi di avere sufficienti differenze, tali da non giustificare un'alleanza così stretta e importante, specialmente nell'ottica di dare alla gente un'ALTRA OPZIONE, un'ALTRA POSSIBILITA' DI SCELTA.
 

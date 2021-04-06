@@ -9,19 +9,19 @@ title: soldi.. soldi… non toccarmi il mio tessoro
 slug: /2005/07/01/soldi-soldi-non-toccarmi-il-mio-tessoro/
 ---
 
-<img src="http://www.iliumsoft.com/site/ew/cards/money.jpg" align="left" />questo mondo fa cos&#xec; schifo perch&#xe9; oggi tutto è in funzione del denaro.
+<img src="http://www.iliumsoft.com/site/ew/cards/money.jpg" align="left" />questo mondo fa così schifo perché oggi tutto è in funzione del denaro.
 
 esso è il valore principale che ha ormai scalzato anche i suoi due amichetti "prestigio" e "sesso"..
 
 sono abbastanza puerili i tentativi di chi vorrebbe "cambiare le cose".. aiutare gli altri, salvare il mondo, diffondere la pace etc, se sotto sotto non si inizia una profonda rivoluzione nel sistema di valori che sottende tutto. anche la nostra vita!
   
-certo, perch&#xe9; sfido chiunque a farsi un esame di coscienza e definire la propria scala di valori.
+certo, perché sfido chiunque a farsi un esame di coscienza e definire la propria scala di valori.
   
 e quindi confrontarla con il proprio agire.
 
-uno dei tanti motivi per cui ringrazio il Movimento Umanista, è per il fatto che tutto viene autofinanziato, e ogni sei mesi si raccolgono le "collette" di autofinanziamento tra le persone che in modo pi&#xf9; o meno attivo partecipano a questo progetto…
+uno dei tanti motivi per cui ringrazio il Movimento Umanista, è per il fatto che tutto viene autofinanziato, e ogni sei mesi si raccolgono le "collette" di autofinanziamento tra le persone che in modo più o meno attivo partecipano a questo progetto…
 
-dicevo che ringrazio, perch&#xe9; grazie a questa cosa si dà la possibilità ad ognuno di confrontarsi col tema dei soldi..
+dicevo che ringrazio, perché grazie a questa cosa si dà la possibilità ad ognuno di confrontarsi col tema dei soldi..
 
 per noi umanisti il denaro è un mezzo. uno strumento.
   
@@ -29,7 +29,7 @@ non ha valore in sè.
 
 un giorno ti chiedo una mano per fare una cosa… magari ti impegna 3 giorni.. è possibile che tu mi aiuti..
   
-un giorno ti chiedo di scrivere un articolo… e lo fai, magari anche con paicere e "compromettendoti".. perch&#xe9; esprimi qualcosa di tuo…
+un giorno ti chiedo di scrivere un articolo… e lo fai, magari anche con paicere e "compromettendoti".. perché esprimi qualcosa di tuo…
   
 un giorno ti chiedo del materiale scolastico.. stiamo allestendo una scuola in Togo, sai… sei felicissimo di contribuire..
   

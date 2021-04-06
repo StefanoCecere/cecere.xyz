@@ -16,7 +16,7 @@ direi che questo è un buon esempio dell'avere a cuore non soltanto gli incassi 
   
 emozionante vedere diverse persone che passeggiando si fermano per leggere e informasi.
 
-perch&#xe9; non dobbiamo dimenticarci che il nostro buon internet è ancora uno strumento in mano ad una (minoritaria) parte dell'umanità.
+perché non dobbiamo dimenticarci che il nostro buon internet è ancora uno strumento in mano ad una (minoritaria) parte dell'umanità.
 
 una nota incoraggiante: con l'obbligarietà del digitale terrestre, a partire dall'anno prossimo, forse qualcuno deciderà di abbandonare quei "caldi" (per dirla alla Marshall Mcluhan.. perché "saturano" il canale) mezzi di comunicazione e passare qui, dove si può sviluppare l'interazione ed esprimersi..
 

@@ -17,11 +17,11 @@ insomma: di <span style="font-weight: bold">scegliere le condizioni in cui si vu
 
 per molti è facile lottare per imporre le proprie condizioni, o cercare di raggiungerle.
   
-molto pi&#xf9; difficile è accettare la diversità delle aspirazioni degli altri, e lasciare loro aria affinchè le possano raggiungere.
+molto più difficile è accettare la diversità delle aspirazioni degli altri, e lasciare loro aria affinchè le possano raggiungere.
 
 un esempio molto attuale su questo tema è la fecondazione eterologa:
   
-è facile imporre il proprio modo di vedere le cose agli altri (la famiglia deve essere cos&#xec; e non cosà, i figli devono sapere tal cosa e non tal'altra, è meglio se adotti un extracomunitario, oppure la natura ha voluto che tu non abbia figli e quindi non ne avrai..)
+è facile imporre il proprio modo di vedere le cose agli altri (la famiglia deve essere così e non cosà, i figli devono sapere tal cosa e non tal'altra, è meglio se adotti un extracomunitario, oppure la natura ha voluto che tu non abbia figli e quindi non ne avrai..)
   
 diverso è l'atteggiamento di dare ad ognuno la possibilità di scegliere.
 

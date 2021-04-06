@@ -21,7 +21,7 @@ Questo principio fa notare che le persone e le cose hanno comportamenti e funzio
 
 **L'essere umano è creatore di avvenimenti**; dà direzione alle cose, tende a pianificare e a realizzare progetti; in sintesi si dirige verso determinati fini. Ma la domanda da porre è: **come si dirige verso i suoi fini?** Come, per esempio cerca di far comprendere ad un'altra persona il modo di risolvere un certo problema? **Lo fa con la violenza o con la persuasione?** Se gli fa violenza, prima o poi subirà una reazione alla sua azione, se invece lo persuade, prima o poi le forze di entrambi si uniranno.
 
-**Molte persone pensano che " il fine giustifica i mezzi "**, e pertanto forzano tutto ciò che trovano intorno a loro; sul momento possono anche ottenere risultati soddisfacenti, ma sicuramente in seguito incontreranno difficoltà, perch&#xe9; il fine raggiunto non potrà essere mantenuto per molto tempo.
+**Molte persone pensano che " il fine giustifica i mezzi "**, e pertanto forzano tutto ciò che trovano intorno a loro; sul momento possono anche ottenere risultati soddisfacenti, ma sicuramente in seguito incontreranno difficoltà, perché il fine raggiunto non potrà essere mantenuto per molto tempo.
 
 Il principio che stiamo commentando può riferirsi a due situazioni diverse. Nella prima, il fine cercato viene raggiunto, ma le conseguenze sono opposte a quelle che si sperava di ottenere. Nell'altra, per aver forzato qualcosa, si ottiene immediatamente una reazione sfavorevole.
 

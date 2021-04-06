@@ -19,6 +19,6 @@ nella vita puoi fare tutto quello che puoi fare..
 
 nella vita sarebbe meglio tu facessi tutto quello che potresti fare..
 
-e cos&#xec; sabato prossimo 25 giugno suonerò con alcuni amici (any, garbo, L'aura e marchino trentacoste) al festival sulla Nonviolenza, davanti al Castello Sforzesco a Milano. festival di due giorni. potresti venire a trovarmi.
+e così sabato prossimo 25 giugno suonerò con alcuni amici (any, garbo, L'aura e marchino trentacoste) al festival sulla Nonviolenza, davanti al Castello Sforzesco a Milano. festival di due giorni. potresti venire a trovarmi.
 
 [<img src="http://www.ilfannullone.it/uploads/tx_macinabanners/banner_festival.gif" border="0" />](http://www.iosonononviolento.it/)

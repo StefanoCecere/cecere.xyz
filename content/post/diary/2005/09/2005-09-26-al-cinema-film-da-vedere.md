@@ -10,7 +10,7 @@ title: 'al cinema: film da vedere'
 slug: /2005/09/26/al-cinema-film-da-vedere/
 ---
 
-non avendo tempo e voglia di sparlare di quante schifezze girano sul grande (e ancor di pi&#xf9; piccolo!!) schermo, ecco un elenchino di film che sicuramente sarebbe interessante aver visto e meditatoci sopra:
+non avendo tempo e voglia di sparlare di quante schifezze girano sul grande (e ancor di più piccolo!!) schermo, ecco un elenchino di film che sicuramente sarebbe interessante aver visto e meditatoci sopra:
 
 - la guerra del fuoco - di Jan Jack Annaud
   

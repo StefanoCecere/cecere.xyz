@@ -1,10 +1,9 @@
 ---
-categories: [blog]
-date: 2005-05-01T12:40:39Z
-guid: http://stefanocecere.com/?p=54
-id: 54
 title: non sottovalutiamoci…
-slug: /2005/05/01/non-sottovalutiamoci/
+slug: /2005/05/non-sottovalutiamoci/
+date: 2005-05-01T12:40:39Z
+id: 54
+categories: [blog]
 ---
 
 siamo molto più capaci e potenti (nel vero senso di: poter fare delle cose) di quanto crediamo.

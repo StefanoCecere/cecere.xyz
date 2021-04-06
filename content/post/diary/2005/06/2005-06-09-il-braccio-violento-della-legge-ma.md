@@ -11,9 +11,9 @@ Matteo segnala questa testimonianza di una donna che è stata sottoposta alla Le
   
 da leggere e riflettere: [leggi l'articolo](http://www.repubblica.it/supplementi/salute/2005/06/09/primopiano/006let4526.html)
 
-intanto sto vivendo uno degli aspetti pi&#xf9; positivi di questo Referendum: si comincia a parlare.
+intanto sto vivendo uno degli aspetti più positivi di questo Referendum: si comincia a parlare.
   
-tra amici, familiari, colleghi.. nelle ultime settimane non si cerca pi&#xf9; di far passare i minuti cazzeggiando o pappagallando di tal'uno o tal'altra..
+tra amici, familiari, colleghi.. nelle ultime settimane non si cerca più di far passare i minuti cazzeggiando o pappagallando di tal'uno o tal'altra..
 
 un Referendum è davvero un <span style="font-weight: bold">bene per la società</span>. alla faccia di chi vuole togliercelo promuovendo l'astensionismo.
   
@@ -21,6 +21,6 @@ personalmente ho messo alla gogna tutta la schiera di politici e personaggi che 
   
 e comincerò a soffiare sull'idea di istituzionalizzare almeno un referendum all'anno.
 
-cos&#xec; noi si comincia a prendere consapevolezza delle cose e impariamo a dialogare, "loro" si devono esporre dichiarando il loro pensiero, e quindi possiamo conoscerli meglio.
+così noi si comincia a prendere consapevolezza delle cose e impariamo a dialogare, "loro" si devono esporre dichiarando il loro pensiero, e quindi possiamo conoscerli meglio.
 
-tutto questo ha un suo senso. s&#xec;.
+tutto questo ha un suo senso. sì.

@@ -1,8 +1,9 @@
 ---
 title: grazie, corpicino mio!
-url: 2005/03/22/grazie-corpicino-mio
-categories: [blog]
+slug: 2005/03/grazie-corpicino-mio
 date: 2005-03-22T21:11:59Z
+categories: [blog]
+tags: [considerazione]
 ---
 
 quasi per caso ho comprato un librino di fisiologia umana, ier l'altro, per il viaggio in treno..

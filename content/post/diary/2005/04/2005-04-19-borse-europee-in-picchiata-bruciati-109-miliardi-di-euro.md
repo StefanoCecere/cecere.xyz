@@ -1,11 +1,10 @@
 ---
-categories: [blog]
-tags: [Tempi moderni]
-date: 2005-04-19T09:43:32Z
-guid: http://stefanocecere.com/?p=59
-id: 59
 title: 'Borse europee in picchiata: bruciati 109 miliardi di euro'
-slug: /2005/04/19/borse-europee-in-picchiata-bruciati-109-miliardi-di-euro/
+slug: /2005/04/borse-europee-in-picchiata-bruciati-109-miliardi-di-euro/
+date: 2005-04-19T09:43:32Z
+id: 59
+categories: [blog]
+tags: [finanza]
 ---
 
 sono titoli come questi che mi fanno veramente incazzare..

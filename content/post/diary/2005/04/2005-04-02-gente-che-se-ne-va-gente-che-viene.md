@@ -1,10 +1,9 @@
 ---
 title: gente che se ne va, gente che viene…
-url: 2005/04/02/gente-che-se-ne-va-gente-che-viene
-categories: [blog]
+slug: 2005/04/gente-che-se-ne-va-gente-che-viene
 date: 2005-04-02T12:10:02Z
-tags:
-- spirito
+categories: [blog]
+tags: [spirito]
 ---
 
 poteva essere il più grande pesce d'aprile della storia.. e invece sembra proprio che il vecchio uomo in bianco se ne stia andando…
@@ -13,7 +12,7 @@ in questo momento miliardi di attenzioni sono direzionate nello stesso punto…
   
 quale energia…
 
-ho sentito delle parole che mi sono davvero piaciute.. suonavano all'incirca: il Papa desidera che la gente non sia pi&#xf9; mera "spettatrice"… ma che inizi ad "imitare"…
+ho sentito delle parole che mi sono davvero piaciute.. suonavano all'incirca: il Papa desidera che la gente non sia più mera "spettatrice"… ma che inizi ad "imitare"…
 
 ok.. imitare potrebbe non essere il massimo.. ma è pur sempre un cercare di agire
 
@@ -31,6 +30,6 @@ spero di riuscire a fare altrettanto, e di contagiare chi mi sta vicino ad imita
 
 se no.. amen
 
-<span style="font-size: 20pt">&#x263a;</span>
+:relaxed:
 
 ciao, vecchio biancone

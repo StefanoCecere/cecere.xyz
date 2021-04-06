@@ -12,7 +12,7 @@ slug: /2005/11/14/a-parigi-non-puoi-rispondere-e-un-saluto-agli-amici/
 
 <img src='/wp-content/pecorelle.jpg' alt='' align='left' />mi scrivono da Parigi che sabato dovevano fare une manifestazione per la pace e la nonviolenza in centro città:
 
-_&#x201c;Impossibile di farla perch&#xe9; la riunione di piu di 3 persone è vietata ! Leggetevi il decreto qui sotto.
+_&#x201c;Impossibile di farla perché la riunione di piu di 3 persone è vietata ! Leggetevi il decreto qui sotto.
   
 puo essere interpretato "disordine sulla via pubblica" una semplice distribuzione di volantini. Quando poi dovevamo alla fine fare un discorso è adesso impossibile.
   

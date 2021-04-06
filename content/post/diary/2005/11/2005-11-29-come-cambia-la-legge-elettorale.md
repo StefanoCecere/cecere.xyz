@@ -13,7 +13,7 @@ slug: /2005/11/29/come-cambia-la-legge-elettorale/
   
 ovvero &#x201c;tutto cambia, tutto rimane lo stesso&#x201d;.. mah..
 
-ok, per un po' non volevo pi&#xf9; parlare di politica.. però credo sia mio dovere contribuire a far conoscere diversi punti di vista, che ognuno ci mediti.
+ok, per un po' non volevo più parlare di politica.. però credo sia mio dovere contribuire a far conoscere diversi punti di vista, che ognuno ci mediti.
   
 allego qui un semplice powerpoint nel quale viene spiegato come cambia la legge elettorale col sistema in discussione in Parlamento.
   

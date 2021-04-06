@@ -20,8 +20,8 @@ riguardo a Cofferati… raccontavo a mia mamma proprio ieri quanto oggi ha scrit
   
 abbiamo un sistema di governo che rasenta il carcere a vita.. e noi ce la prendiamo coi lavavetri! ha ah
 
-dai meno mane che c'è il calcio e i reality show.. cos&#xec; non ci pensiamo pi&#xf9;!
+dai meno mane che c'è il calcio e i reality show.. così non ci pensiamo più!
 
 oggi è una giornata molto uggiosa.. stamani ho girato per Monza a portare un po' di Fannulloni.. ho incontrato diversi amici e molte persone davvero simpatiche! che bello sono proprio contento.. e tutto questo retroalimenta la mia immagine di un futuro diverso. un futuro luminoso e allegro!
 
-perch&#xe9; le formiche, se si mettono d'accordo.. SPOSTANO L'ELEFANTE!! 😀 😀
+perché le formiche, se si mettono d'accordo.. SPOSTANO L'ELEFANTE!! 😀 😀

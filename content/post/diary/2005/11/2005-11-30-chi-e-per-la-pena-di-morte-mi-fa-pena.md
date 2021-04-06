@@ -11,7 +11,7 @@ slug: /2005/11/30/chi-e-per-la-pena-di-morte-mi-fa-pena/
 
 <img src='/wp-content/pena_di_morte.jpg' alt='' align='left' />(che bello sto scrivendo attraversando pianure imbiancate.. grazie linguaggio, grazie tecnologia, grazie treni, grazie neve)
 
-ieri sera siamo riusciti a fare un salto al concerto per la festa della Toscana, non so precisamente in che termini coordinato da Piero Pel&#xf9; e orientato contro la pena di morte. Nonostante la pioggia il palasport era gremito.
+ieri sera siamo riusciti a fare un salto al concerto per la festa della Toscana, non so precisamente in che termini coordinato da Piero Pelù e orientato contro la pena di morte. Nonostante la pioggia il palasport era gremito.
   
 Piero è riuscito a coinvolgere una dozzina di artisti (da Jovanotti a Irene Grandi a Pau Negrita ) e ho riconosciuto molti musicisti ad accompagnarli.
 

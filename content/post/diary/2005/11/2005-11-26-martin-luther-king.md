@@ -12,4 +12,4 @@ title: Martin Luther King
 slug: /2005/11/26/martin-luther-king/
 ---
 
-"la pi&#xf9; grande tragedia di questo periodo di trasformazione sociale non è nei clamori chiassosi dei cattivi ma nel silenzio spaventoso delle persone oneste."
+"la più grande tragedia di questo periodo di trasformazione sociale non è nei clamori chiassosi dei cattivi ma nel silenzio spaventoso delle persone oneste."

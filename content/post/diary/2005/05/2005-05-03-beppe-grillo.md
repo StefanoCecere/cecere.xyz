@@ -1,10 +1,9 @@
 ---
 title: Beppe Grillo
-categories:
-date: 2005-05-03T15:40:05Z"
-tags:
-- Beppe Grillo
 slug: 2005/05/beppe-grillo
+date: 2005-05-03T15:40:05Z
+categories: [blog]
+tags: [BeppeGrillo]
 ---
 
 stanotte ho visto la registrazione dell'ultimo spettacolo di Beppe Grillo al Forum di Milano, trasmesso (ringraziamola) dalla tv svizzera italiana.

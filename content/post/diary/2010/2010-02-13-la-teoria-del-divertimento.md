@@ -1,8 +1,5 @@
 ---
-categories:
-- Buone Nuove
-- E io cecio..
-- Tempi moderni
+categories: [blog]
 date: 2010-02-13T15:45:17Z
 guid: http://stefanocecere.com/?p=2003
 id: 2003

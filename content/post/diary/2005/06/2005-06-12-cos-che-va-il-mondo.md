@@ -3,7 +3,7 @@ categories: [blog]
 date: 2005-06-12T20:59:16Z
 guid: http://stefanocecere.com/?p=27
 id: 27
-title: 'è cos&#xec; che va il mondo?'
+title: 'è così che va il mondo?'
 slug: /2005/06/12/cos-che-va-il-mondo/
 ---
 
@@ -23,4 +23,4 @@ ti senti dentro le ossa di <span style="font-weight: bold">partecipare</span>, d
 
 ora torno a finire il Fannullone n.5 , che arriverà alla grigliata di domenica prossima ( vedi [www.ilfannullone.it](http://www.ilfannullone.it) )
   
-l&#xec; si sveleranno molte cose..
+lì si sveleranno molte cose..

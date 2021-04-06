@@ -1,13 +1,15 @@
 ---
 title: il grande dittatore
-categories: ["E io cecio"]
+slug: /2005/12/il-grande-dittatore/
 date: 2005-12-12T10:38:15Z
 id: 176
-tags: ["Tempi moderni"]
-slug: /12/il-grande-dittatore/
+categories: [blog]
+tags: [video, Chaplin]
 ---
 
-<img src='/wp-content/ilgrandedittatore.jpg' alt='' align='left' />ho intravisto (davvero per caso) ieri sera su MTV un video clip musicale fantastico.. che mi sono detto: “questo avrei davvero voluto farlo io!!”
+{{< youtube 9U-MWPqoL8A >}}
+
+ho intravisto (davvero per caso) ieri sera su MTV un video clip musicale fantastico.. che mi sono detto: “questo avrei davvero voluto farlo io!!”
   
 ho visto solo la fine.. il pezzo si chiama “il grande dittatore” si rifà un po’ al film di Chaplin, riprendendone l’indole di **grande umanista**.
 
@@ -47,3 +49,5 @@ Soldati, in nome della democrazia, uniamo queste forze. **Uniamoci tutti! Combat
 **Promettendovi queste cose degli uomini sono andati al potere. Mentivano!** Non hanno mantenuto quelle promesse e mai lo faranno. E non ne daranno conto a nessuno. Forse i dittatori sono liberi perché rendono schiavo il popolo.
 
 **Combattiamo per mantenere quelle promesse. Per abbattere i confini e le barriere. Combattiamo per eliminare l’avidità e l’odio.** Un mondo ragionevole in cui la scienza ed il progresso diano a tutti gli uomini il benessere. Soldati! Nel nome della democrazia siate tutti uniti!”
+
+![](il-grande-dittatore-chaplin.jpg)

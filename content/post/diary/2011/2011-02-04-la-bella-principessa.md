@@ -1,26 +1,15 @@
 ---
-categories:
-- Arte
-- E io cecio..
-- Smile
-- Tempi moderni
+title: La bella principessa
+slug: /2011/02/la-bella-principessa/
 date: 2011-02-04T09:33:21Z
-guid: http://stefanocecere.com/?p=2364
 id: 2364
-tags:
-- bellezza
-- favola
-- principesse
-- solitudine
-- storia
-- vanità
-title: LA BELLA PRINCIPESSA
-slug: /2011/02/04/la-bella-principessa/
+categories: [blog]
+tags: [favole]
 ---
 
 ovvero: _la fregatura vestita da favola_
 
-<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2011/02/principesse-480x309.jpg" alt="" title="principesse" width="480" height="309" class="alignnone size-medium wp-image-2370" />
+![](/assets/images/2011/02/principesse.jpg)
 
 C'era una volta una principessa, era bella e con un mucchio di capelli che scendevano in verticale!
   

@@ -7,7 +7,7 @@ tags:
 - ricreazione
 - tecnologia
 - vergogna!
-title: il pi&#xf9; bel campo di gioco col Grande Fratello
+title: il più bel campo di gioco col Grande Fratello
 slug: /2005/12/15/il-pi-bel-campo-di-gioco-col-grande-fratello/
 ---
 

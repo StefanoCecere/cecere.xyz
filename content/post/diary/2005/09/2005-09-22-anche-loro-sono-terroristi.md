@@ -23,7 +23,7 @@ Le battaglie non si vincono soltanto con gli eserciti, ma si vincono anche con i
   
 Il mondo che processa Oriana Fallaci e promuove il giudice che lascia liberi i terroristi scambiandoli per guerriglieri, ha già perso la partita. Siamo di fronte a una vera guerra dove il nemico usa l'arma del terrorismo e noi il linguaggio dei figli dei fiori.
   
-Al terrorismo non si può rispondere porgendo l'altra guancia, ma con la legge del taglione: oggi piangiamo i morti di Londra, oggi soffriamo al fianco dei feriti e dei loro congiunti, ma domani dovremo reagire applicando la legge dell'occhio per occhio e dente per dente.&#x2026; Domani dovremo reagire anche attraverso il ritiro progressivo delle nostre truppe dall'Iraq, le risorse che oggi investiamo nella missione di pace in territorio iracheno potremmo impiegarle pi&#xf9; utilmente per prevenire e respingere a casa nostra il terrorismo.
+Al terrorismo non si può rispondere porgendo l'altra guancia, ma con la legge del taglione: oggi piangiamo i morti di Londra, oggi soffriamo al fianco dei feriti e dei loro congiunti, ma domani dovremo reagire applicando la legge dell'occhio per occhio e dente per dente.&#x2026; Domani dovremo reagire anche attraverso il ritiro progressivo delle nostre truppe dall'Iraq, le risorse che oggi investiamo nella missione di pace in territorio iracheno potremmo impiegarle più utilmente per prevenire e respingere a casa nostra il terrorismo.
   
 Prepariamoci a mostrare i denti e forse vinceremo la guerra senza colpo ferire, ma disponibili anche a sparare.
 
@@ -37,7 +37,7 @@ Prepariamoci a mostrare i denti e forse vinceremo la guerra senza colpo ferire, 
   
 Discorso del Presidente del Senato Marcello Pera</p> 
 
-</strong>&#x201c;In Europa la popolazione diminuisce, si apre la porta all'immigrazione incontrollata e si diventa meticci. E' necessaria un'alleanza seria e salda fra laici e credenti per riaffermare e salvare la nostra identità occidentale, democratica e liberale perch&#xe9; contro di noi è stata dichiarata "una guerra santa".&#x2028;&#xab;Dobbiamo difendere l'Occidente, perch&#xe9; le nostre libertà e democrazia non sono questioni locali, ma riguardano l'essenza della natura umana. Dobbiamo accettare la sfida e fare la nostra parte.. Ci difendiamo con la diplomazia, la politica, la cultura, i commerci, i negoziati, gli accordi. Ci difendiamo offrendo rispetto e chiedendo rispetto. E alla fine ci difendiamo con la forza delle armi.&#x201d;&#x2028;
+</strong>&#x201c;In Europa la popolazione diminuisce, si apre la porta all'immigrazione incontrollata e si diventa meticci. E' necessaria un'alleanza seria e salda fra laici e credenti per riaffermare e salvare la nostra identità occidentale, democratica e liberale perché contro di noi è stata dichiarata "una guerra santa".&#x2028;&#xab;Dobbiamo difendere l'Occidente, perché le nostre libertà e democrazia non sono questioni locali, ma riguardano l'essenza della natura umana. Dobbiamo accettare la sfida e fare la nostra parte.. Ci difendiamo con la diplomazia, la politica, la cultura, i commerci, i negoziati, gli accordi. Ci difendiamo offrendo rispetto e chiedendo rispetto. E alla fine ci difendiamo con la forza delle armi.&#x201d;&#x2028;
   
 5) Cerimonia dell'acqua del Po organizzata dalla Lega a Venezia, 18 settembre 2005. Dichiarazione del Ministro della Giustizia Roberto Castelli.
 
@@ -47,4 +47,4 @@ Dal palco una madre di famiglia agitando un rosario proclamava la guerra santa.
 
 **6) Commento di Calderoni all'iniziativa del ministro degli interni Pisanu per una consulta degli islamici italiani, 19 settembre 2005.
   
-** <span style="color: #00000B">&#x201c;Loro pretendono di essere una grande civiltà: lo dimostrino, sennò la porta è sempre aperta. Tornino gi&#xf9; a parlare coi cammelli o a discutere con le scimmie&#x2026;&#x201d;</span>
+** <span style="color: #00000B">&#x201c;Loro pretendono di essere una grande civiltà: lo dimostrino, sennò la porta è sempre aperta. Tornino giù a parlare coi cammelli o a discutere con le scimmie&#x2026;&#x201d;</span>

@@ -16,6 +16,6 @@ peccato.. pensavo che almeno i buddhisti potessero rappresentare ancora una mini
 
 per quanti non hanno ancora trovato la via della propria Religione Interiore.. non abbandonate la ricerca!!
   
-esiste, s&#xec; esiste davvero.
+esiste, sì esiste davvero.
 
 ciao

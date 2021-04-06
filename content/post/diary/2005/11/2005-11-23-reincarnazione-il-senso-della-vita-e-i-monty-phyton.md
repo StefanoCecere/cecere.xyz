@@ -27,9 +27,9 @@ certo: non sono un reincarnazionista ingenuo (ovvero come ce lo vogliono far cre
 
 ma devo constatare che tantissime persone che conosco, alcune anche molto intelligenti, hanno ormai per credenza certa e indiscutibile la certezza della reincarnazione, del karma, etc.
   
-la cosa ovviamente non mi disturba, se non fosse che partendo da tali credenze si arriva spesso ad una serie di azioni un po' incoerenti.. tipo: se uno è nato &#x201d;sfigato&#x201c; o in un paese oppresso, è perch&#xe9; il suo karma necessita di essere purificato e la sua evoluzione richiede che impari a superare quelle difficoltà. per lui è bene. noi è meglio che non interveniamo&#x201d;..
+la cosa ovviamente non mi disturba, se non fosse che partendo da tali credenze si arriva spesso ad una serie di azioni un po' incoerenti.. tipo: se uno è nato &#x201d;sfigato&#x201c; o in un paese oppresso, è perché il suo karma necessita di essere purificato e la sua evoluzione richiede che impari a superare quelle difficoltà. per lui è bene. noi è meglio che non interveniamo&#x201d;..
 
-e cos&#xec; via dicendo fino a quelli che vivono di &#x201c;sensazioni&#x201d; o fantasiose ( e quasi sempre estemporanee) ricerche &#x201c;sovrannaturali&#x201c;.
+e così via dicendo fino a quelli che vivono di &#x201c;sensazioni&#x201d; o fantasiose ( e quasi sempre estemporanee) ricerche &#x201c;sovrannaturali&#x201c;.
 
 da buon umanista io dico: cercare la via della sperimentazione e parlare solo di ciò che si è sperimentato.
   
@@ -39,7 +39,7 @@ e a dispetto di molti frettolosi, dirò che l'umanesimo non è ateismo.
   
 tutt'altro.
   
-è forse l'atteggiamento che pi&#xf9; si avvicina lucidamente alla trascendenza.
+è forse l'atteggiamento che più si avvicina lucidamente alla trascendenza.
 
 chi cerca il Senso della Vita non può che sentirsi a casa..
 
@@ -65,6 +65,6 @@ Tuttavia tale anima non esiste &#x201c;ab initio&#x201d;, come insegna il cristi
   
 ah ah
 
-cmq i Monty Python ci sono andati pi&#xf9; vicini di tanti altri.
+cmq i Monty Python ci sono andati più vicini di tanti altri.
   
 [ecco qui invece la summa](http://www.silo.net/Texts-RI/RI-ita.rtf)

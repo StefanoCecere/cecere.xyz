@@ -17,10 +17,10 @@ quando mancano però ci chiediamo come è possibile averle trascurate a tal punt
 
 è la stessa cosa con la nostra cara acqua.
 
-pi&#xf9; che scomparire.. si sta inquinando e sta diventando di &#x201c;qualcuno&#x201d;.
+più che scomparire.. si sta inquinando e sta diventando di &#x201c;qualcuno&#x201d;.
 
-già perch&#xe9; quando qualcuno di potente si accorge di qualcosa di prezioso, inevitabilmente se ne vuole appropriare per speculare ed incrementare il proprio potere.
+già perché quando qualcuno di potente si accorge di qualcosa di prezioso, inevitabilmente se ne vuole appropriare per speculare ed incrementare il proprio potere.
 
-difendiamo l'acqua. facciamo s&#xec; che rimanga per sempre un bene dell'umanità.
+difendiamo l'acqua. facciamo sì che rimanga per sempre un bene dell'umanità.
 
 comincia pure da qui <http://www.contrattoacqua.it>

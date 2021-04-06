@@ -9,8 +9,8 @@ slug: /2005/05/30/mangiare-e-leggere/
 
 a volte (un po' spesso, ultimamente) mi chiedo se non sto mangiando troppo…
 
-ho disimparato la moderazione nell'alimentazione.. il mio corpo non necessita cos&#xec; tanta energia.. inoltre il piatto non necessita di essere spazzolato sempre e ad ogni costo.
+ho disimparato la moderazione nell'alimentazione.. il mio corpo non necessita così tanta energia.. inoltre il piatto non necessita di essere spazzolato sempre e ad ogni costo.
 
-dall'altro lato dovrei accusare la mia progressiva inattività fisica, che richiederebbe s&#xec; tutta quella energia che cerco di infilargli dentro..
+dall'altro lato dovrei accusare la mia progressiva inattività fisica, che richiederebbe sì tutta quella energia che cerco di infilargli dentro..
 
 **dovrei mangiare la metà e leggere il doppio** 😀

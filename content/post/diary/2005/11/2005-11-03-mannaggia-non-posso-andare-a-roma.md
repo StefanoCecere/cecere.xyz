@@ -11,7 +11,7 @@ slug: /2005/11/03/mannaggia-non-posso-andare-a-roma/
 
 <img src='/wp-content/lucamannaggia.jpg' alt='' align='left' />quindi, secondo il grande appello di Ferrara.. da stasera divento un antisemita?
 
-mannaggia ma come si fa a essere pi&#xf9; grassolani?
+mannaggia ma come si fa a essere più grassolani?
   
 il classico: O CON ME O CONTRO DI ME..
 
@@ -25,6 +25,6 @@ terzo: ma come hanno fatto a far dire al presidente dell'Iran quelle aberranti p
 
 ma è possibile poi che quasi tutta la &#x201c;sinistra&#x201c; è caduta nella trappola di Ferrara?
 
-ehi ma a questa stregua perch&#xe9; non emigriamo in giappone e organizziamo una campagna pere andare a liberare l'Italia dalla Lega? ah ah
+ehi ma a questa stregua perché non emigriamo in giappone e organizziamo una campagna pere andare a liberare l'Italia dalla Lega? ah ah
 
 vabbeh.. intanto cassoliamoci <http://www.ilfannullone.it/new/cassoeula-2005-sintesi-e-foto/64/>

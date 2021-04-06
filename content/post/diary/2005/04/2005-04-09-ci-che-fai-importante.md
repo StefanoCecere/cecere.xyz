@@ -1,17 +1,18 @@
 ---
-categories: [blog]
-date: 2005-04-09T11:45:53Z
-guid: http://stefanocecere.com/?p=64
-id: 64
 title: ciò che fai è importante.
 slug: /2005/04/09/cio-che-fai-importante/
+date: 2005-04-09T11:45:53Z
+categories: [blog]
+tags: [considerazioni]
+guid: http://stefanocecere.com/?p=64
+id: 64
 ---
 
-anche ciò che senti è importante.
+anche ciò che _senti_ è importante.
 
-anche ciò che pensi è importante.
+anche ciò che _pensi_ è importante.
 
-non saprei mettere in scala di importanza il sentire, il pensare e l'agire..
+non saprei mettere in scala di importanza il _sentire_, il _pensare_ e l'_agire_...
 
 preferisco considerarli tre aspetti di una persona che, se sono concordi, cioè vanno nella stessa direzione, danno la coerenza.
 

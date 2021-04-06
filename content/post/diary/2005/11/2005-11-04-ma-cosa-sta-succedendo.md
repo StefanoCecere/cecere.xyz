@@ -12,9 +12,9 @@ slug: /2005/11/04/ma-cosa-sta-succedendo/
 
 [http://www.repubblica.it](http://www.repubblica.it/2005/k/sezioni/politica/orlandoesp/orlandoesp/orlandoesp.html)
 
-Rutelli che &#x201c;licenzia&#x201d; Leoluca Orlando perch&#xe9; vuole appoggiare la sorella di Borsellino alla Regione sicilia…
+Rutelli che &#x201c;licenzia&#x201d; Leoluca Orlando perché vuole appoggiare la sorella di Borsellino alla Regione sicilia…
 
-non so perch&#xe9;, ma questa notizia non mi piace affatto.. anzi mi mette un bel po' di malumore..
+non so perché, ma questa notizia non mi piace affatto.. anzi mi mette un bel po' di malumore..
 
 mah..
 

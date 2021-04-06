@@ -17,6 +17,6 @@ solo il 10% va in produzione. (di cui solo una piccola parte in prodotti realmen
 
 vi immaginate il giorno in cui non dico il 100, ma il 50% dell'energia dell'umanità verrà dedicata a progetti cooperativi mondiali?
   
-magari impareremo a guardare un po' pi&#xf9; in alto e in avanti, che non in basso e indietro…
+magari impareremo a guardare un po' più in alto e in avanti, che non in basso e indietro…
 
 guarderemo le stelle, e riprenderemo il cammino che abbiamo un po' trascurato, ultimamente!

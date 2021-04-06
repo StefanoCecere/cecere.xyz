@@ -25,4 +25,4 @@ E cosa è EPIC?_
   
 grazie seawanderer per la segnalazione!]
 
-[[non credo ci vogliano molte argomentazioni per constatare che è un processo molto pi&#xf9; realistico che fantascientifico]]
+[[non credo ci vogliano molte argomentazioni per constatare che è un processo molto più realistico che fantascientifico]]

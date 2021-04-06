@@ -22,17 +22,17 @@ un amico, tempo fa, mi ha raccontato che si può festeggiare il proprio complean
 
 in questa nuova forma, il regalo lo fa il festeggiato agli altri, con un breve discorso davanti ai propri amici (forse questa email non arriverà a tutti, ma è un inizio…)
 
-ed è cos&#xec; che inizio col ringraziarvi tutti. davvero.
+ed è così che inizio col ringraziarvi tutti. davvero.
   
 la mia vita, senza la relazione con voi, non avrebbe molto senso.
 
-negli ultimi anni ho iniziato a dedicarmi con crescente passione ed entusiasmo ad alcuni progetti finalizzati a far crescere e approfondire le relazioni, oltrech&#xe9; aiutare a tirare fuori il meglio di s&#xe9;.
+negli ultimi anni ho iniziato a dedicarmi con crescente passione ed entusiasmo ad alcuni progetti finalizzati a far crescere e approfondire le relazioni, oltreché aiutare a tirare fuori il meglio di sé.
 
 uno degli ultimi (in ordine cronologico) è il "giornalino" Il Fannullone, che col numero 5, appena uscito, ha raggiunto quella che ritengo una perfetta alchimia di creatività, comunicazione, leggerezza, serietà, impegno sociale, bellezza, sentimento e divertimento.
 
-con la "scusa" di realizzare i primi 5 numeri, in 8 mesi sono entrato in contatto, ho approfondito l'amicizia, ho riso e scherzato, abbiamo quasi litigato (su alcuni "temassi" <span style="font-size: 20pt">&#x263a;</span>, insomma ci siamo relazionato per qualcosa che non fosse lavoro o semplice interesse personale, con pi&#xf9; di 140 esseri umani.
+con la "scusa" di realizzare i primi 5 numeri, in 8 mesi sono entrato in contatto, ho approfondito l'amicizia, ho riso e scherzato, abbiamo quasi litigato (su alcuni "temassi" <span style="font-size: 20pt">&#x263a;</span>, insomma ci siamo relazionato per qualcosa che non fosse lavoro o semplice interesse personale, con più di 140 esseri umani.
 
-non credo di poter immaginare regalo pi&#xf9; bello dalla vita!
+non credo di poter immaginare regalo più bello dalla vita!
 
 e dato che il giornale non lo faccio per me, il mio primo regalo è quindi lui:. goditelo: [www.ilfannullone.it](http://www.ilfannullone.it)
 
@@ -40,7 +40,7 @@ un'altro evento del semestre che mi ha profondamente segnato è stato il concert
   
 è stata un'avventura che a rileggerla ha dell'incredibile.. organizzare tale impresa, che si è poi conclusa benissimo, in poche settimane e con pochissimi mezzi…
 
-anche l&#xec;, dozzine di amici coinvolti ognuno a dare quello che poteva.. chi le sale prove, chi la regia video, chi suonava, chi portava da mangiare, chi i banchini di diffusione, chi nulla ma era importante lo stesso… fra poco sarà pronto il DVD dell'evento, per non dimenticarci!! (su clum.net c'è un pezzetto di video)
+anche lì, dozzine di amici coinvolti ognuno a dare quello che poteva.. chi le sale prove, chi la regia video, chi suonava, chi portava da mangiare, chi i banchini di diffusione, chi nulla ma era importante lo stesso… fra poco sarà pronto il DVD dell'evento, per non dimenticarci!! (su clum.net c'è un pezzetto di video)
   
 le attività svolte in India coi soldi raccolti proseguono bene. molto bene. se vorrai ci sono ulteriori informazioni.
 
