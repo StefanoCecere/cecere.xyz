@@ -1,9 +1,9 @@
 ---
 title: "Tonsilla"
-summary: "l'ennesimo videogioco mai pubblicato che avrebbe spaccato il mondo"
+summary: "videogioco in VR dove la tua voce è importante"
 authors: []
 tags: ["game", "audio", "vr"]
-categories: ["Videogames"]
+categories: ["Videogame"]
 date: 2014-10-10
 
 image:
@@ -19,7 +19,6 @@ slides: ""
 ---
 
 {{< youtube EmTNxL-lG9w>}}
-
 
 E se ti risvegliassi gigante nel mondo di un fumetto?  
 Scoprendo che, oltre alla stazza, anche il suono della tua vocina è sentita da tutti? e attento alla potenza!  

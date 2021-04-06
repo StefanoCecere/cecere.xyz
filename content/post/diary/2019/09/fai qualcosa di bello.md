@@ -1,6 +1,7 @@
 ---
 title: Fai qualcosa di bello
 date: 2019-09-22T12:21:11.776+02:00
+categories: [dialoghi]
 ---
 
 - che fai?

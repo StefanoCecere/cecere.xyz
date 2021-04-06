@@ -20,5 +20,4 @@ Puoi leggere quanto ho scritto nel sito di Rousseau come  <a href="/about/presen
 
 Qui quello che scrissi l'anno scorso prima delle elezioni: <a href="/studio/elezioni-2018/">Elezioni 2018 - Se vince il M5S vinciamo tutti</a>
 
-
-
+<!-- #TODO fix links -->

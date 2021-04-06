@@ -4,14 +4,10 @@ date: 2008-03-01T23:10:10Z
 guid: http://stefanocecere.com/2008/03/01/video-laura-basta-finale-sanremo-2008/
 id: 711
 tags:
-- arte
-- L'Aura
-- ricreazione
+- music
 - Sanremo
-- spirito
-- Terra 2.0
 - video
-title: Video L&#039;Aura &quot;Basta!&quot; - Finale Sanremo 2008
+title: "Video L'Aura &quot;Basta!&quot; - Finale Sanremo 2008"
 slug: /2008/03/video-laura-basta-finale-sanremo-2008/
 ---
 

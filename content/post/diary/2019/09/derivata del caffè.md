@@ -1,6 +1,7 @@
 ---
 title: la derivata del caffè
-date: 2019-09-19T11:14:37.976+02:00
+date: 2019-09-19
+categories: [dialoghi]
 ---
 
 - ma perché siamo qui?

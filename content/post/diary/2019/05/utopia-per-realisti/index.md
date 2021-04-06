@@ -1,42 +1,19 @@
-+++
-title = "Utopia per Realisti"
-subtitle = ""
-
-# Add a summary to display on homepage (optional).
-summary = ""
-
-date = 2019-05-28T22:03:22+02:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
-
-# Is this a featured post? (true/false)
-featured = false
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["utopia"]
-categories = ["JJ"]
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects = ["internal-project"]
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
-+++
+---
+title: "Utopia per Realisti"
+slug:
+subtitle: ""
+summary: ""
+tags: [utopia]
+categories: [dialoghi]
+date: 2019-05-28T22:03:22+02:00
+featured: false
+draft: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+projects: []
+---
 
 - cosa leggi?
 - un nuovo libro sull’utopia. sai cos’è?
@@ -60,4 +37,5 @@ categories = ["JJ"]
 - lo sai che i cervelli dei ventenni sono i migliori? dobbiamo far di tutto per dare loro tutto spazio e risorse. e tu intanto preparati che fra 10 anni tocca a te!
 - vado a dormire allora.
 
-PS: Rutger Bergman si è fatto conoscere a gennaio con questo discorso al forum economico di Davos, dicendo a tutti i miliardari presenti: “signori la soluzione è semplice: i ricchi devono pagare più tasse. e la povertà non è una mancanza di “carattere”. è mancanza di denaro.” e mi è piaciuto. vedere https://m.youtube.com/watch?v=P8ijiLqfXP0
+PS: Rutger Bergman si è fatto conoscere a gennaio con questo discorso al forum economico di Davos, dicendo a tutti i miliardari presenti: “signori la soluzione è semplice: i ricchi devono pagare più tasse. e la povertà non è una mancanza di “carattere”. è mancanza di denaro.” e mi è piaciuto. vedere 
+<https://m.youtube.com/watch?v=P8ijiLqfXP0>

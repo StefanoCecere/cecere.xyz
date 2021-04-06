@@ -7,6 +7,7 @@ tags:
 - Sanremo
 title: Emilio Fede a Sanremo 2008
 slug: /2008/03/emilio-fede-a-sanremo-2008/
+draft: true
 ---
 
 è interessante seguire come Emilio Fede sta votando i vari cantanti a Sanremo ….

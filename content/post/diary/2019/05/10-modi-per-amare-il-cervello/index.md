@@ -1,42 +1,19 @@
-+++
-title = "10 MODI PER AMARE IL TUO CERVELLO (e perchè farlo)"
-subtitle = ""
-
-# Add a summary to display on homepage (optional).
-summary = ""
-
-date = 2019-05-29T13:03:06+02:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
-
-# Is this a featured post? (true/false)
-featured = false
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["papa2042","brain"]
-categories = ["JJ"]
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects = ["internal-project"]
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
-+++
+---
+title: "10 MODI PER AMARE IL TUO CERVELLO (e perchè farlo)"
+slug:
+subtitle: ""
+summary: ""
+tags: [brain]
+categories: [Comitato]
+date: 2019-05-29T13:03:06+02:00
+featured: false
+draft: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+projects: []
+---
 
 a me non piacciono gli assiomi "sono tutti deficienti" con cui molti si distaccano dagli altri con giudizi al limite del disumano.
 
@@ -83,5 +60,5 @@ una prima sintesi di buoni suggerimenti (ispirati da nota 2) è:
 ciao
 
 NOTE
-1: https://www.who.int/…/dementia/guidelines_risk_reduction/en/
-2: https://alz.org/hel…/brain_health/10_ways_to_love_your_brain
+1: <https://www.who.int/mental_health/neurology/dementia/guidelines_risk_reduction/en/>
+2: <https://www.alz.org/help-support/brain_health/10_ways_to_love_your_brain>

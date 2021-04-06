@@ -6,7 +6,7 @@ id: 532
 tags:
 - arte
 - film
-- recensione
+- review
 - ricreazione
 title: Harry Plotter .. ops Potter questa volta mi è piaciuto!
 slug: /2007/07/harry-plotter-ops-potter-questa-volta-mi-e-piaciuto/

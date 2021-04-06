@@ -3,14 +3,14 @@ title: PowerParty Biliardino
 summary: potenzia il calcio balilla con le super cards!
 authors: []
 tags: ["game", GlobalGameJam]
-categories: ["games"]
+categories: ["game"]
 date: 2020-01-30
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-url_code: "https://github.com/StefanoCecere/PowerPartyBIliardino"
+url_code: "https://github.com/StefanoCecere/PowerPartyBiliardino"
 url_pdf: ""
 url_slides: ""
 url_video: ""

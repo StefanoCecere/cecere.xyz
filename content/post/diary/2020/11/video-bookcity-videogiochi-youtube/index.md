@@ -2,7 +2,7 @@
 title: "Due chiacchiere su videgiochi, social media e ragazzi"
 subtitle: ""
 summary: ""
-tags: [video, parenting, kids, edtech, youtubers]
+tags: [talk, parenting, kids, edtech, youtubers]
 categories: [video]
 date: 2020-11-14T15:09:04+01:00
 lastmod: 2020-11-14T15:09:04+01:00

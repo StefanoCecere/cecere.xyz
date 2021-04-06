@@ -1,6 +1,7 @@
 ---
 title: mi aiuti
 date: 2019-09-18T04:07:24.775+02:00
+categories: [dialoghi]
 ---
 
 - mi aiuti?

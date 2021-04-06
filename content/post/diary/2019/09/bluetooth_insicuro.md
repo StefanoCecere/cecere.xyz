@@ -1,7 +1,20 @@
 ---
-title: De BLUETOOTH INSICURO
+title: "Sul BLUETOOTH insicuro"
+slug:
+subtitle: ""
+summary: ""
+tags: [tech, tip]
+categories: [dialoghi]
 date: 2019-09-20T11:14:37.976+02:00
+featured: false
+draft: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+projects: []
 ---
+
 - papà ma perché spegni sempre il bluetooth a tutto? i miei amici lo lasciano acceso...
 - 3 motivi semplici da ricordare:
 1) se una cosa consuma energia ma non mi serve sempre accesa, la tengo spenta
@@ -25,6 +38,4 @@ e poi ci sono i casi "nuovi" ad esempio: anche se il tuo cellulare non venisse h
 - ok io il cellulare tanto non lo accendo mai
 - ahah 
 
-#dialoghi #tecnotips
-
-https://www.theverge.com/2019/9/19/20867286/ios-13-bluetooth-permission-privacy-feature-apps
+<https://www.theverge.com/2019/9/19/20867286/ios-13-bluetooth-permission-privacy-feature-apps>

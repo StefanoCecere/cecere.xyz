@@ -1,6 +1,7 @@
 ---
 title: papà ma esistono gli extra-terresti?
 date: 2019-09-13T12:21:11.776+02:00
+categories: [dialoghi]
 ---
 
 - papà ma esistono gli extra-terresti?

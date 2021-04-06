@@ -1,9 +1,9 @@
 ---
 title: attenzione ai falsi amici
 date: 2019-09-22T12:21:11.776+02:00
+categories: [blog]
+tags: [tech, tip]
 ---
-
-# ATTENZIONE AI FALSI AMICI
 (ovvero come ti fregano l'identità su Facebook e poi...)
 
 inizio a parlare del furto dell'identità digitale perché è un problema sempre più grande, che coinvolge anche i giovani digitali
@@ -31,5 +31,3 @@ ma intanto prova a pensare: come reagiresti a scoprire che quello che pensi esse
 👨‍🏫 intanto dò un suggerimento: quando accettate amicizie di persone che già conoscete, verificate se sono proprio loro o dei doppioni.
 
 🔜 continua con #AttenzioneAiFalsiAmici
-
-#tecnotip

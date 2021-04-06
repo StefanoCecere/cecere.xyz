@@ -6,7 +6,6 @@ summary: ""
 tags: [politica]
 categories: [blog]
 date: 2021-04-02T00:26:16+02:00
-lastmod: 2021-04-02T00:26:16+02:00
 featured: false
 draft: false
 image:

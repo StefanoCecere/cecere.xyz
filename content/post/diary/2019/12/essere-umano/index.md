@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: []
 tags: []
-categories: []
+categories: [considerazioni]
 date: 2019-12-17T09:29:14+01:00
 lastmod: 2019-12-17T09:29:14+01:00
 featured: false
