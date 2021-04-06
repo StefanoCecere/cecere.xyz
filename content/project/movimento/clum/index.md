@@ -15,6 +15,12 @@ url_slides: ""
 url_video: ""
 slides: ""
 ---
+un progetto nato nel 1995 che di fatto ha segnato il mio ingresso nel Movimento Umanista.
+per dieci anni costruii un sito web (con varie tecnologie) perché Facebook non c'era (arriverà nel 2008)
+
+{{< gallery "gallery" >}}
+
+## Manifesto
 A Milano tra Settembre e Novembre del 1995 nasce il Club Umanista Multimediale.
 
 Il Club nasce come risposta a varie necessità e come primo atto per concretizzare un punto di vista più ampio sul mondo del lavoro multimediale:
