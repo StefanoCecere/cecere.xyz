@@ -21,11 +21,11 @@ Ho 1200 files di testo che presentano tutti una sequenza di parole con lo stesso
 
 Ad esempio: 
 ```
-url: /parola1/parola2/parola3/parola4 molto lungua
+url: /parola1/parola2/parola3/parola4 con testo a seguire
 ```
 e voglio eliminare la parte parola3, cambiando il tutto in 
 ```
-url: /parola1/parola2/parola4 molto lungua
+url: /parola1/parola2/parola4 con testo a seguire
 ```
 
 Ovviamente a mano impiegherei ore e sarebbe abbastanza stressante.
