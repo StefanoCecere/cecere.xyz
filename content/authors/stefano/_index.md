@@ -1,7 +1,7 @@
 ---
 title: Stefano Cecere
 superuser: true
-role: R&D in Learning Games, Technology, Education and Philosophy for social innovation
+role: R&D in Learning Games, Digital Technology, Education and Philosophy for Humanist Social Innovation
 # Game Based Learning R&D, Educator, Musician
 # Humanist AI+XR+EdTech+Video Games, Educator and Author
 
@@ -92,7 +92,7 @@ highlight_name: false
 # Condividere il proprio meglio è un buon modo per costruire l'_Intelligenza Collettiva_ di cui abbiamo disperatamente bisogno, e ispirare altri a fare lo stesso è ancora meglio.
 ---
 Ciao, mi chiamo Stefano Cecere e sono appassionato dell'arte di **imparare** e **creare**.  
-Creo contenuti che possano aiutare a capire le **nuove tecnologie**, sviluppare la **creatività** e sopravvivere alla **complessità** del mondo in cui viviamo insieme ai nostri **figli**.
+Creo contenuti che possano aiutare a capire le **nuove tecnologie**, sviluppare la **creatività** e sopravvivere alla **complessità** del mondo in cui viviamo insieme ai nostri **figli** con una visione **umanista**.
 
 Questo sito è molto ampio, ecco le sezioni principali:
 
