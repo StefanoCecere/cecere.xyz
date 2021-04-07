@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-03-01T22:24:52Z
 guid: http://stefanocecere.com/2008/03/01/emilio-fede-a-sanremo-2008/

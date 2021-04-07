@@ -1,7 +1,5 @@
 ---
-aktt_notify_twitter:
-- false
-author: Stefano Cecere
+draft: true
 categories:
 - JJ
 date: 2012-06-07T13:29:45Z

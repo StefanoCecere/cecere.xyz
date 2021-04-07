@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-12-18T10:48:17Z
 guid: http://stefanocecere.com/2006/12/18/un-poster-di-emozione-umana/

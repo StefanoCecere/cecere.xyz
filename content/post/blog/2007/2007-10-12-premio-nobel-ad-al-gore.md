@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-10-12T13:08:15Z
 guid: http://stefanocecere.com/2007/10/12/premio-nobel-ad-al-gore/

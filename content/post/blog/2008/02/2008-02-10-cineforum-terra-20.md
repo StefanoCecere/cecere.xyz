@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-02-10T12:38:05Z
 guid: http://stefanocecere.com/2008/02/10/cineforum-terra-20/

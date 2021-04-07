@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-07-14T16:38:59Z
 guid: http://stefanocecere.com/2007/07/14/se-non-hai-una-vita-ti-impicci-di-quella-degli-altri/

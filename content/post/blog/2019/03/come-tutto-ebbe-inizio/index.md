@@ -1,6 +1,6 @@
 ---
 title: "Come Tutto Ebbe Inizio"
-slug:
+slug: 2019/03/come-tutto-ebbe-inizio
 subtitle: ""
 summary: ""
 tags: [universo, 42]

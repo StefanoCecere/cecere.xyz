@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-01-11T14:36:41Z
 guid: http://stefanocecere.com/2008/01/11/il-papa-ha-rotto-i-coglioni/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-03-04T02:07:05Z
 guid: http://stefanocecere.com/2008/03/04/11-marzo-gli-umanisti-incontrano-noam-chomsky/

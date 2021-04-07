@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-01-04T11:51:32Z
 guid: http://stefanocecere.com/2008/01/04/sono-estremamente-felice/

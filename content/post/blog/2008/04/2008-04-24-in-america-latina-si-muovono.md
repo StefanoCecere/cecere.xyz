@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-04-24T14:23:13Z
 guid: http://stefanocecere.com/2008/04/24/in-america-latina-si-muovono/

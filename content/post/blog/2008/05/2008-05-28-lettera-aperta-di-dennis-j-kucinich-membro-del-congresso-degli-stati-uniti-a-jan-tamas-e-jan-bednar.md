@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-05-28T09:19:13Z
 guid: http://stefanocecere.com/2008/05/28/lettera-aperta-di-dennis-j-kucinich-membro-del-congresso-degli-stati-uniti-a-jan-tamas-e-jan-bednar/

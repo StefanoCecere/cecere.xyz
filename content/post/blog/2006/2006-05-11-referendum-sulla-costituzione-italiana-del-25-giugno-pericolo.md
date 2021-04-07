@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-05-11T08:58:21Z
 guid: http://stefanocecere.com/2006/05/11/referendum-sulla-costituzione-italiana-del-25-giugno-pericolo/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-02-26T00:44:29Z
 guid: http://stefanocecere.com/2008/02/26/video-laura-basta-a-sanremo-2008/

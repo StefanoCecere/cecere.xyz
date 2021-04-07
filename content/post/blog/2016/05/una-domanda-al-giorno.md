@@ -1,10 +1,9 @@
 ---
 title: Una domanda al giorno
-slug: una-domanda-al-giorno
+slug: 2016/05/una-domanda-al-giorno
 subtitle: ""
 date: 2016-05-02T05:47:00
-categories: []
-featured: false
+categories: [blog]
 tags: [spazio]
 ---
 

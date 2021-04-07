@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-06-09T12:02:28Z
 guid: http://stefanocecere.com/2008/06/09/frankie-hi-energy-e-fiorello/

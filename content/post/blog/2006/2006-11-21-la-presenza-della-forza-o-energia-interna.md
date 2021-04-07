@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-11-21T03:44:00Z
 guid: http://stefanocecere.com/2006/11/21/la-presenza-della-forza-o-energia-interna/

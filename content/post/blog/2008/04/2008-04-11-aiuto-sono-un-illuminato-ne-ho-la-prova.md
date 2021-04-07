@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-04-11T09:49:23Z
 guid: http://stefanocecere.com/2008/04/11/aiuto-sono-un-illuminato-ne-ho-la-prova/

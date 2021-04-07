@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-03-20T11:46:19Z
 guid: http://stefanocecere.com/2008/03/20/workingmans-death-film-capolavoro-su-cosa-e-il-lavoro/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-02-25T09:36:23Z
 guid: http://stefanocecere.com/2008/02/25/intervista-a-silo/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-04-01T10:41:24Z
 guid: http://stefanocecere.com/2008/04/01/giovedi-3-cineforum-con-cocaina/

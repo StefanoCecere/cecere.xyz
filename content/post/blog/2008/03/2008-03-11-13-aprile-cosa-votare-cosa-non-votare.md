@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-03-11T09:34:25Z
 guid: http://stefanocecere.com/2008/03/11/13-aprile-cosa-votare-cosa-non-votare/

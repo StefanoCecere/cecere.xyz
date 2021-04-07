@@ -1,12 +1,9 @@
 ---
-categories:
-- Scienza
-- Spirito
+title: "L'ultima domanda (il miglior racconto breve di fantascienza)"
+slug: /asimov-ultima-domanda/
 date: 2012-10-31T09:49:05Z
-guid: http://stefanocecere.com/?p=3890
-id: 3890
-title: L&#039;ultima domanda (il miglior racconto breve di fantascienza)
-slug: /2012/10/ultima-domanda/
+categories: [racconti]
+tags: [fantascienza, asimov]
 ---
 
 **L’ULTIMA DOMANDA**
@@ -91,11 +88,11 @@ Adell era abbastanza brillo per provare, abbastanza in sé per poter comporre i 
   
 O magari, in maniera più semplice, si sarebbe potuta formula così: Com'è possibile diminuire in modo massiccio il quantitativo di entropia dell'universo?
   
-“Multivac” si fece immobile e muto. I lenti lampi di luce cessarono lontani rumori del ticchettio dei relais si fermarono. Poi, proprio quando i due tecnici terrorizzati sentivano di non farcela più a trattenere il respiro, vi fu un improvviso ritorno alla vi della telescrivente collegata con quella parte di “Multivac”.
+“Multivac” si fece immobile e muto. I lenti lampi di luce cessarono lontani rumori del ticchettio dei relais si fermarono.Poi, proprio quando i due tecnici terrorizzati sentivano di non farcela più a trattenere il respiro, vi fu un improvviso ritorno alla vi della telescrivente collegata con quella parte di “Multivac”.
   
 Le parole erano cinque in tutto: «DATI INSUFFICIENTI PER RISPOSTA SIGNIFICATIVA.»
   
-«Niente scommessa» bisbigliò Lupov. E insieme si allontanarono in fretta dal sotterraneo. Il mattino dopo i due amici, afflitti dal mal di testa e dalla bocca impastata, avevano già dimenticato l'incidente.
+«Niente scommessa» bisbigliò Lupov. E insieme si allontanarono in fretta dal sotterraneo.Il mattino dopo i due amici, afflitti dal mal di testa e dalla bocca impastata, avevano già dimenticato l'incidente.
 
 Jerrodd, Jerrodine e Jerrodette I e II osservavano sul quadro visivo i cambiamenti dello stellato mentre il passaggio attraverso l'iperspazio veniva completato in un lasso di nontempo. Tutto a un tratto, il pulviscolo di stelle cedette il posto alla predominanza di una singola e vivida biglia, proprio al centro del quadro.
   
@@ -111,7 +108,7 @@ Le piccole Jerrodette, due sorelline, avevano fatto per la prima volta in vita l
   
 Jerrodd non sapeva quasi niente a proposito di quel grosso tubo metallico, salvo che veniva chiamato “Microvac”; che, volendo, era possibile rivolgergli delle domande; che, oltre a rispondere a eventuali domande, aveva il compito di guidare la nave fino a preordinata destinazione. Inoltre, “Microvac” provvedeva a rifornirsi di energia dalle varie Stazioni Erogatrici Sub-Galattiche e, infine, risolveva equazioni per i balzi iperspaziali.
   
-Jerrodd e la sua famiglia non dovevano fare altro che aspettare comodamente alloggiati nelle cabine dell'astronave. Qualcuno, una volta, aveva detto a Jerrodd che "ac", alla fine, “Microvac”, in inglese antico stava per "calcolatore analogico", ma era ormai in procinto di dimenticare perfino questo.
+Jerrodd e la sua famiglia non dovevano fare altro che aspettare comodamente alloggiati nelle cabine dell'astronave.Qualcuno, una volta, aveva detto a Jerrodd che "ac", alla fine, “Microvac”, in inglese antico stava per "calcolatore analogico", ma era ormai in procinto di dimenticare perfino questo.
   
 Jerrodine aveva gli occhi lucidi, nel fissare il quadro visivo. «Non so cosa farci. Mi sento molto scossa al pensiero d'avere lasciato la Terra.»
   
@@ -121,7 +118,7 @@ Jerrodine aveva gli occhi lucidi, nel fissare il quadro visivo. «Non so cosa fa
   
 «Il nostro “Microvac” - saltò su Jerrodette I - è il “Microvac” migliore del mondo.»
   
-«Certo, lo penso anch'io.» disse Jerrodd, arruffandole i riccioli. In effetti era bello poter avere un “Microvac” tutto per sé, e Jerrodd era contento di appartenere alla sua generazione. Al tempo in cui era giovane suo padre, gli unici calcolatori esistenti erano dei tremendi macchinoni che occupavano centinaia di chilometri quadri di terra. Ce n'era non più di uno per pianeta. “AC Planetari”, si chiamavano. Per migliaia d'anni, non avevano fatto che aumentare di dimensioni finché, tutt'a un tratto, era subentrato il raffinamento tecnico. Al posto dei transistori, erano venute le valvole molecolari, per cui perfino il più grande degli “AC Planetari” poteva trovar posto in uno spazio pari alla metà del volume di una astronave.
+«Certo, lo penso anch'io.» disse Jerrodd, arruffandole i riccioli.In effetti era bello poter avere un “Microvac” tutto per sé, e Jerrodd era contento di appartenere alla sua generazione. Al tempo in cui era giovane suo padre, gli unici calcolatori esistenti erano dei tremendi macchinoni che occupavano centinaia di chilometri quadri di terra. Ce n'era non più di uno per pianeta. “AC Planetari”, si chiamavano. Per migliaia d'anni, non avevano fatto che aumentare di dimensioni finché, tutt'a un tratto, era subentrato il raffinamento tecnico. Al posto dei transistori, erano venute le valvole molecolari, per cui perfino il più grande degli “AC Planetari” poteva trovar posto in uno spazio pari alla metà del volume di una astronave.
   
 Jerrodd provava un senso di esaltazione, cosa che sempre gli accadeva quando si ricordava che il suo “Microvac” personale era di gran lunga più complicato dell'antico e primitivo “Multivac” che per primo aveva domato il Sole, nonché quasi altrettanto complesso dell'“AC Planetario Terrestre” (il più grande di tutti) che per primo aveva risolto il problema del viaggio interstellare e reso possibile spostarsi da una stella all'altra.
   
@@ -141,7 +138,7 @@ Jerrodd provava un senso di esaltazione, cosa che sempre gli accadeva quando si 
   
 «Come potevo immaginare che si sarebbero spaventate?» bisbigliò Jerrodd di rimando. «Domandalo al “Microvac” - singhiozzò Jerrodette I. - Domandagli come si fa per riaccendere le stelle.»
   
-«Coraggio, domandaglielo - disse Jerrodine. - Chissà che non serva a calmarle.» (Anche Jerrodette li aveva cominciato a piagnucolare.) Jerrodd si rassegnò. «Buone, su, bambine. Ora sentiamo da “Microvac”, eh? Vedrete che ce lo dirà, state tranquille.»
+«Coraggio, domandaglielo - disse Jerrodine. - Chissà che non serva a calmarle.» (Anche Jerrodette li aveva cominciato a piagnucolare.)Jerrodd si rassegnò. «Buone, su, bambine. Ora sentiamo da “Microvac”, eh? Vedrete che ce lo dirà, state tranquille.»
   
 Rivolse la domanda al “Microvac”, affrettandosi ad aggiungere: «Rispondi per iscritto.»
   
@@ -151,11 +148,11 @@ Prima di distruggere la strisciolina di cellufilm, Jerrodd lesse ancora una volt
   
 Con un'alzata di spalle, riportò l'attenzione sul quadro visivo. X-23 era vicinissimo, ormai.
   
-VJ-23X di Lameth fissò le nere profondità della mappa tridimensionale su scala ridotta della Galassia e domandò: «Che dici, siamo ridicoli a preoccuparci tanto della questione?» MQ-17J di Nicron scosse la testa, «Non direi. Si sa che, al presente tasso di espansione, nel giro di cinque anni la Galassia si popolerà completamente.»
+VJ-23X di Lameth fissò le nere profondità della mappa tridimensionale su scala ridotta della Galassia e domandò: «Che dici, siamo ridicoli a preoccuparci tanto della questione?»MQ-17J di Nicron scosse la testa, «Non direi. Si sa che, al presente tasso di espansione, nel giro di cinque anni la Galassia si popolerà completamente.»
   
 Sembravano entrambi sul principio della ventina, erano tutti e due alti e perfettamente formati. «D'altra parte - osservò VJ-23X - non so se sia il caso di presentare un rapporto pessimistico al Consiglio Galattico.»
   
-«lo non esiterei, invece. È il solo rapporto possibile, secondo me. Li scuoterà un po', si spera. Bisogna scuoterli, caro mio.» VJ-23X sospirò. «Lo spazio è infinito. Cento miliardi di Galassie sono là che aspettano d'essere popolare. Ma che dico, di più!»
+«lo non esiterei, invece. È il solo rapporto possibile, secondo me. Li scuoterà un po', si spera. Bisogna scuoterli, caro mio.»VJ-23X sospirò. «Lo spazio è infinito. Cento miliardi di Galassie sono là che aspettano d'essere popolare. Ma che dico, di più!»
   
 «Cento miliardi non sono affatto l'infinito, e per di più lo sono sempre di meno, a mano a mano che il tempo passa. Ma rifletti! Ventimila anni fa, l'umanità risolse il problema di come utilizzare l'energia stellare e, pochi secoli più tardi, il viaggio interstellare divenne una cosa possibile. Ebbene, l'umanità che aveva impiegato un milione di anni a saturare un unico, piccola mondo, da quel momento ne ha impiegati soltanto quindicimila per riempire il resto del Galassia. Ora, ogni dieci anni la popolazione raddoppia…»
   
@@ -197,7 +194,7 @@ MQ-17J Si soffermò a domandarsi se, nel corso della sua vita immortale, sarebbe
   
 «Perché sappiamo benissimo che non è possibile invertire l'entropia. Non si può ritrasformare fumo e cenere in un albero.»
   
-«Avete alberi sul vostro pianeta?» domandò MQ-I7J. Il suono dell'“AC Galattico” li zittì all'improvviso, facendoli trasalire.
+«Avete alberi sul vostro pianeta?» domandò MQ-I7J.Il suono dell'“AC Galattico” li zittì all'improvviso, facendoli trasalire.
   
 La voce del possente calcolatore usciva bella e un po' fievole dal piccolo “Contatto-AC” posato sulla scrivania. «DATI INSUFFICIENTI PER RISPOSTA SIGNIFICATIVA», disse.
   
@@ -277,7 +274,7 @@ Desolato, Zee Prime cominciò a raccogliere idrogeno interstellare con il quale 
   
 L'Uomo rifletteva tra sé e sé perché in un certo senso, mentalmente, l'Uomo era unico. Era formato da trilioni, trilioni e trilioni di corpi senza età, ciascuno al suo posto, ciascuno immobile e incorruttibile, ciascuno accudito da automi perfetti e altrettanto incorruttibili, mentre le menti di tutti quei corpi si fondevano liberamente l'una nell'altra, indistinguibili.
   
-«L'Universo sta morendo» disse l'Uomo. Guardò, intorno a sé, le Galassie sempre più fioche. Le stelle giganti, così spendaccione, si erano spente da un pezzo, laggiù nel buio del più oscuro passato remoto. Quasi tutte le stelle erano nane bianche, sul punto di spegnersi.
+«L'Universo sta morendo» disse l'Uomo.Guardò, intorno a sé, le Galassie sempre più fioche. Le stelle giganti, così spendaccione, si erano spente da un pezzo, laggiù nel buio del più oscuro passato remoto. Quasi tutte le stelle erano nane bianche, sul punto di spegnersi.
   
 Nuove stelle erano state costruite con la polvere interstellare, alcune per un processo naturale, altre dall'Uomo stesso, e anche quelle stavano per decadere. Era ancora possibile far cozzare tra loro delle nane bianche e, dalle possenti forze così sprigionate, far scaturire nuove stelle; ma una soltanto, ogni mille nane bianche distrutte e anche quelle poche, presto o tardi, avrebbero finito per decadere. «Amministrata con estrema oculatezza, secondo i dettagli dell'“AC Cosmico” - disse l'Uomo - l'energia che ancora rimane nell'Universo durerà miliardi di anni.»
   
@@ -329,9 +326,9 @@ Tutte le altre domande avevano avuto risposta e, finché quell'ultima non fosse 
   
 Tutti i dati raccolti erano arrivati alla fine, ormai. Da raccogliere non rimaneva più niente.
   
-Ma i dati raccolti dovevano ancora essere correlati e accostati secondo tutte le relazioni possibili. Un intervallo senza tempo venne speso a far questo. E accadde, così, che “AC” scoprisse come si poteva invertire l'andamento dell'entropia.
+Ma i dati raccolti dovevano ancora essere correlati e accostati secondo tutte le relazioni possibili.Un intervallo senza tempo venne speso a far questo.E accadde, così, che “AC” scoprisse come si poteva invertire l'andamento dell'entropia.
   
-Ma ormai non c'era nessuno cui “AC” potesse fornire la risposta all'ultima domanda. Pazienza! La risposta - per dimostrazione - avrebbe provveduto anche a questo. Per un altro intervallo senza tempo, “AC” pensò al modo migliore per riuscirci. Con cura, “AC” organizzò il programma.
+Ma ormai non c'era nessuno cui “AC” potesse fornire la risposta all'ultima domanda. Pazienza! La risposta - per dimostrazione - avrebbe provveduto anche a questo.Per un altro intervallo senza tempo, “AC” pensò al modo migliore per riuscirci. Con cura, “AC” organizzò il programma.
   
 La coscienza di “AC” abbracciò tutto quello che un tempo era stato un Universo e meditò sopra quello che adesso era Caos. Un passo alla volta, così bisognava procedere.
   

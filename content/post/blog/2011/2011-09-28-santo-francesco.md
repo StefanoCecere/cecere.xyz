@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2011-09-28T15:02:39Z
 guid: http://stefanocecere.com/2011/09/28/santo-francesco/

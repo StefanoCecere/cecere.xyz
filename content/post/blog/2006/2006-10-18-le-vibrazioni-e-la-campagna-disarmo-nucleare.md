@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-10-18T17:48:13Z
 guid: http://stefanocecere.com/2006/10/18/le-vibrazioni-e-la-campagna-disarmo-nucleare/

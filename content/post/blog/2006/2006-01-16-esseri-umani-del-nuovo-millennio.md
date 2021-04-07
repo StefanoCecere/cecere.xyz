@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-01-16T11:39:45Z
 guid: http://stefanocecere.com/2006/01/16/esseri-umani-del-nuovo-millennio/

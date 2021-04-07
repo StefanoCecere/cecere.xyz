@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-10-10T00:20:13Z
 guid: http://stefanocecere.com/2007/10/10/abbiate-sempre-il-coraggio-di-dire-quello-che-pensate/

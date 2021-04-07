@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-05-12T07:40:42Z
 guid: http://stefanocecere.com/2008/05/12/mercoledi-cineforumanista-firenze-cocaina/

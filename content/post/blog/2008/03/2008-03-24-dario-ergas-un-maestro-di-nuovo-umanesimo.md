@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-03-24T19:48:39Z
 guid: http://stefanocecere.com/2008/03/24/dario-ergas-un-maestro-di-nuovo-umanesimo/

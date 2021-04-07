@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-05-26T02:58:31Z
 guid: http://stefanocecere.com/2006/05/26/lost-serie-2-la-fine/

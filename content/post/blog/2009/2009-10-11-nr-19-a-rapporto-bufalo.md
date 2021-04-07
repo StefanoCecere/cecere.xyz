@@ -1,4 +1,5 @@
 ---
+draft: true
 categories:
 - Mondo Senza Guerre
 date: 2009-10-11T21:02:03Z

@@ -1,6 +1,6 @@
 ---
 title: "Dove Siamo"
-slug:
+slug: 2019/04/dove-siamo
 subtitle: ""
 summary: ""
 tags: []

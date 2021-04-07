@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-05-09T12:56:04Z
 guid: http://stefanocecere.com/2006/05/09/stasera-un-umanista-in-televisione/

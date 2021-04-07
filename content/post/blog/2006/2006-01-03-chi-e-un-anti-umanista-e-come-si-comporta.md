@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-01-03T12:54:57Z
 guid: http://stefanocecere.com/2006/01/03/chi-e-un-anti-umanista-e-come-si-comporta/

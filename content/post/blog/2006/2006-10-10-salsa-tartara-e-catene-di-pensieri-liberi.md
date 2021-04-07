@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-10-10T01:43:29Z
 guid: http://stefanocecere.com/2006/10/10/salsa-tartara-e-catene-di-pensieri-liberi/

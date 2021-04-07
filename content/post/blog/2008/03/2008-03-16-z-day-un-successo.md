@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-03-16T10:06:52Z
 guid: http://stefanocecere.com/2008/03/16/z-day-un-successo/

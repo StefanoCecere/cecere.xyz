@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-04-15T12:49:02Z
 guid: http://stefanocecere.com/2008/04/15/la-nonviolenza-e-in-cammino-2010-anno-mondiale-della-nonviolenza/

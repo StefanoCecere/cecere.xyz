@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-05-20T15:39:51Z
 guid: http://stefanocecere.com/2008/05/20/dottor-stranamore-2008/

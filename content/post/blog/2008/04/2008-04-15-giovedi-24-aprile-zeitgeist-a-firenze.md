@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-04-15T16:26:39Z
 guid: http://stefanocecere.com/2008/04/15/giovedi-24-aprile-zeitgeist-a-firenze/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-03-19T22:35:26Z
 guid: http://stefanocecere.com/2007/03/19/disarmiamoli-tutti-foto-degli-eventi-del-17-marzo-nel-mondo/

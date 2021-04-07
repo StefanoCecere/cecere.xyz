@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-09-04T08:08:13Z
 guid: http://stefanocecere.com/2007/09/04/canale-televisivo-terra-20-tv-inaugurato-daglia-aranciatacappella-live/

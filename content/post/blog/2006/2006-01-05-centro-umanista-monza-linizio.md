@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-01-05T01:16:03Z
 guid: http://stefanocecere.com/2006/01/05/centro-umanista-monza-linizio/

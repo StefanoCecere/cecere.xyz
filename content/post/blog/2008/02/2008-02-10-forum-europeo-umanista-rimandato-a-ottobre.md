@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-02-10T10:46:37Z
 guid: http://stefanocecere.com/2008/02/10/forum-europeo-umanista-rimandato-a-ottobre/

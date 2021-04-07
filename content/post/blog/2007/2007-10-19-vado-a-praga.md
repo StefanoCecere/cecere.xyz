@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-10-19T10:20:55Z
 guid: http://stefanocecere.com/2007/10/19/vado-a-praga/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-02-16T01:03:04Z
 guid: http://stefanocecere.com/2006/02/16/storace-se-l%e2%80%99uccello-non-si-muove-non-toccatelo/

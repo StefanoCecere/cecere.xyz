@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-11-26T20:42:37Z
 guid: http://stefanocecere.com/2007/11/26/evo-morales-si-dichiara-umanista/

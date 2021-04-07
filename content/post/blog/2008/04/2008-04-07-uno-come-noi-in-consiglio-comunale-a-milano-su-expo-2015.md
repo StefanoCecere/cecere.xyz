@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-04-07T09:37:17Z
 guid: http://stefanocecere.com/2008/04/07/uno-come-noi-in-consiglio-comunale-a-milano-su-expo-2015/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-11-27T04:05:44Z
 guid: http://stefanocecere.com/2006/11/27/17-marzo-2007-a-roma-il-piu-grande-simbolo-della-pace-del-mondo/

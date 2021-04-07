@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-06-13T12:46:19Z
 guid: http://stefanocecere.com/2008/06/13/domenica-conferenza-rom-cinesi-e-pregiudizi/

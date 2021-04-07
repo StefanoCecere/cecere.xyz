@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2009-04-29T02:00:49Z
 guid: http://stefanocecere.com/2009/04/29/barzellettina/

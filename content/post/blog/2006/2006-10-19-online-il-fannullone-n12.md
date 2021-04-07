@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-10-19T01:01:25Z
 guid: http://stefanocecere.com/2006/10/19/online-il-fannullone-n12/

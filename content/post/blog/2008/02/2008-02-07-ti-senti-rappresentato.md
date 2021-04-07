@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-02-07T15:06:27Z
 guid: http://stefanocecere.com/2008/02/07/ti-senti-rappresentato/

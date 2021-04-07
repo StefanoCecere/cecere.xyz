@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-06-14T08:31:56Z
 guid: http://stefanocecere.com/2008/06/14/svegliati-america-stiamo-guidando-vero-il-disastro/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2011-09-28T02:56:19Z
 guid: http://stefanocecere.com/2011/09/28/la-vita-e-bella/

@@ -3,8 +3,7 @@ categories: [blog]
 date: 2006-05-24T05:48:53Z
 guid: http://stefanocecere.com/2006/05/24/upgrade-20/
 id: 275
-tags:
-- tecnologia
+tags: [site, wordpress]
 title: Upgrade 2.0
 slug: /2006/05/upgrade-20/
 ---

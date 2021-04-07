@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-06-12T14:24:00Z
 guid: http://stefanocecere.com/2008/06/12/contro-lo-scudo-spaziale-a-madrid/

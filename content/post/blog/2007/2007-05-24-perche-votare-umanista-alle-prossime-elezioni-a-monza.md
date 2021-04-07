@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-05-24T11:14:31Z
 guid: http://stefanocecere.com/2007/05/24/perche-votare-umanista-alle-prossime-elezioni-a-monza/

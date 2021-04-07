@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-01-30T02:05:08Z
 guid: http://stefanocecere.com/2008/01/30/ernesto-e-kenya/

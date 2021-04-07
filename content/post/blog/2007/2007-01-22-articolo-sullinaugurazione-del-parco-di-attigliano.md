@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-01-22T18:08:08Z
 guid: http://stefanocecere.com/2007/01/22/articolo-sullinaugurazione-del-parco-di-attigliano/

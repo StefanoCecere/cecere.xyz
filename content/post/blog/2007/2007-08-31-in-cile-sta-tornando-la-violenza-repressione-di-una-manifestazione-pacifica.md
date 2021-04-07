@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-08-31T10:17:15Z
 guid: http://stefanocecere.com/2007/08/31/in-cile-sta-tornando-la-violenza-repressione-di-una-manifestazione-pacifica/

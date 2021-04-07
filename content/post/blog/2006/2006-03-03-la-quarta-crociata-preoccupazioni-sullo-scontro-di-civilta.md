@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-03-03T13:29:43Z
 guid: http://stefanocecere.com/2006/03/03/la-quarta-crociata-preoccupazioni-sullo-scontro-di-civilta/

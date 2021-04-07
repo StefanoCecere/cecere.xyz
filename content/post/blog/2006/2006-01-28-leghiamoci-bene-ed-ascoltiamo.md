@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-01-28T23:38:07Z
 guid: http://stefanocecere.com/2006/01/28/leghiamoci-bene-ed-ascoltiamo/

@@ -6,7 +6,7 @@ categories: [2042]
 tags: [comunicare,Silo,umanista]
 ---
 
-Accennavo 6 mesi fa al tema del DIALOGO.. dato che il tema è tornato, per via del [post sui Punti di Vista]({{< relref "/post/diary/2005/11/i-punti-di-vista" >}}), credo sia interessante chiarirlo e approfondirlo.. se vuoi leggi questo documento, sulle "Condizione per il Dialogo", tenuto da **Silo** (l'argentino Mario Rodriguez Cobos) all’Accademia delle Scienze, Mosca, il 6 ottobre 1993. (<a href="http://silo.net/en/collected_works/silo_speaks" target="_blank">sito ufficiale</a>)
+Accennavo 6 mesi fa al tema del DIALOGO.. dato che il tema è tornato, per via del [post sui Punti di Vista]({{< relref "/post/blog/2005/11/i-punti-di-vista" >}}), credo sia interessante chiarirlo e approfondirlo.. se vuoi leggi questo documento, sulle "Condizione per il Dialogo", tenuto da **Silo** (l'argentino Mario Rodriguez Cobos) all’Accademia delle Scienze, Mosca, il 6 ottobre 1993. (<a href="http://silo.net/en/collected_works/silo_speaks" target="_blank">sito ufficiale</a>)
 
 ---
 

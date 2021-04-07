@@ -1,4 +1,5 @@
 ---
+draft: true
 categories:
 - Politica
 - Terra 2.0

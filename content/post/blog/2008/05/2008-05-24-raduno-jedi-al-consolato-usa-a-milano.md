@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-05-24T19:05:58Z
 guid: http://stefanocecere.com/2008/05/24/raduno-jedi-al-consolato-usa-a-milano/

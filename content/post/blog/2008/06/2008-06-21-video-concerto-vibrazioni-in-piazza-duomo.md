@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-06-21T21:37:04Z
 guid: http://stefanocecere.com/2008/06/21/video-concerto-vibrazioni-in-piazza-duomo/

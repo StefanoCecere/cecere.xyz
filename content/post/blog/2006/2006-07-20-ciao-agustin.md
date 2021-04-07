@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-07-20T11:19:45Z
 guid: http://stefanocecere.com/2006/07/20/ciao-agustin/

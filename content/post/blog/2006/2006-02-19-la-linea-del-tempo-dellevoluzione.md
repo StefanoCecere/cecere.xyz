@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-02-19T21:59:02Z
 guid: http://stefanocecere.com/2006/02/19/la-linea-del-tempo-dellevoluzione/

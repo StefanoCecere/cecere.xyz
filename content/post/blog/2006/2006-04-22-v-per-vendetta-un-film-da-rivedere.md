@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-04-22T18:41:29Z
 guid: http://stefanocecere.com/2006/04/22/v-per-vendetta-un-film-da-rivedere/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-09-27T00:22:02Z
 guid: http://stefanocecere.com/?p=1285

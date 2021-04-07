@@ -1,6 +1,6 @@
 ---
-title: "Chi Sono I Fascisti"
-slug:
+title: "Chi Sono i Fascisti"
+slug: 2019/03/chi-sono-i-fascisti
 subtitle: ""
 summary: ""
 tags: []

@@ -2,8 +2,8 @@
 title: De Decreto Vaccini
 slug: 2017/07/de-decreto-vaccini
 date: 2017-07-18T00:00:00Z
-tags:
-- vaccini
+categoreis: [blog]
+tags: [vaccini]
 ---
 
 DECRETO VACCINI

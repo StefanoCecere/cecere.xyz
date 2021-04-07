@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-08-30T23:49:02Z
 guid: http://stefanocecere.com/2006/08/30/e-uscito-il-fannullone-n11/

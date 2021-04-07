@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-02-04T17:14:32Z
 guid: http://stefanocecere.com/2006/02/04/ma-siamo-al-circo/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-05-10T07:46:09Z
 guid: http://stefanocecere.com/2008/05/10/foto-dellinaugurazione-del-parco-di-attigliano/

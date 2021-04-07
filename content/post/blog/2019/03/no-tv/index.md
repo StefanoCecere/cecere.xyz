@@ -1,6 +1,6 @@
 ---
 title: "No TV"
-slug:
+slug: 2019/03/no-tv
 subtitle: ""
 summary: ""
 tags: []

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-01-31T23:06:08Z
 guid: http://stefanocecere.com/2006/02/02/universo-mon-amour/

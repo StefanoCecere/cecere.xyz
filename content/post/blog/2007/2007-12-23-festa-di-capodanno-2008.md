@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-12-23T01:48:49Z
 guid: http://stefanocecere.com/2007/12/23/festa-di-capodanno-2008/

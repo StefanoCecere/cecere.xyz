@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-04-14T08:39:34Z
 guid: http://stefanocecere.com/2008/04/14/lezione-jedi-il-cane-il-leone-e-la-scimmia/

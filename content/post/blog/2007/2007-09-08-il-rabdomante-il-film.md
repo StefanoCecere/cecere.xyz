@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-09-08T05:55:38Z
 guid: http://stefanocecere.com/2007/09/08/il-rabdomante-il-film/

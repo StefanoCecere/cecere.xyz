@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-02-21T11:27:46Z
 guid: http://stefanocecere.com/2008/02/21/proseguono-i-lavori-al-parco-di-punta-de-vacas/

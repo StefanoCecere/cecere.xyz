@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2013-09-17T07:59:20Z"
 id: 4647

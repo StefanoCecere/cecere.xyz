@@ -1,4 +1,5 @@
 ---
+draft: true
 categories:
 - Tempi moderni
 date: 2010-12-31T17:36:20Z

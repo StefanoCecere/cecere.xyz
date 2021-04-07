@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-05-20T23:37:54Z
 guid: http://stefanocecere.com/2007/05/20/lo-spot-video-delle-prossime-elezioni-a-monza/

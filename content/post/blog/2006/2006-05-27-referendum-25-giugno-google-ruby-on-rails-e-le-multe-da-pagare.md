@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-05-27T10:26:46Z
 guid: http://stefanocecere.com/2006/05/27/referendum-25-giugno-google-ruby-on-rails-e-le-multe-da-pagare/

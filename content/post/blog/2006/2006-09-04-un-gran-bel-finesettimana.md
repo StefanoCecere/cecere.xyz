@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-09-04T11:53:50Z
 guid: http://stefanocecere.com/2006/09/04/un-gran-bel-finesettimana/

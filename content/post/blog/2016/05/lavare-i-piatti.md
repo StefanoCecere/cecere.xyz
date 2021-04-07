@@ -1,10 +1,8 @@
 ---
 title: lavare i piatti
-subtitle: ""
 slug: 2016/06/lavare-i-piatti
 date: 2016-06-15
-categories: []
-featured: false
+categories: [blog]
 tags: [famiglia]
 # slug: 
 ---

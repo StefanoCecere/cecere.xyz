@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-04-25T03:29:51Z
 guid: http://stefanocecere.com/2008/04/25/io-so-cosa-abbiamo-fatto-ieri-sera-e-tu/

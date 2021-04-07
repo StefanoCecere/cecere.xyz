@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-06-15T20:57:50Z
 guid: http://stefanocecere.com/2008/06/15/angelo-baracca-europe-for-peace/

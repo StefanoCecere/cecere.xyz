@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-06-16T11:53:17Z
 guid: http://stefanocecere.com/2008/06/16/no-scudo-spaziale-sul-corriere-della-sera/

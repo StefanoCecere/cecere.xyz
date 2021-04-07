@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2009-06-01T11:41:01Z
 guid: http://stefanocecere.com/2009/06/01/un-po-di-teoria/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-05-25T11:12:17Z
 guid: http://stefanocecere.com/2006/05/25/una-partita-a-tennis-impressionante/

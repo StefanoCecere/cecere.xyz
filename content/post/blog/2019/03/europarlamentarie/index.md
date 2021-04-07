@@ -1,5 +1,6 @@
 ---
 title: "Europarlamentarie"
+slug: 2019/03/europarlamentarie
 subtitle: ""
 summary: ""
 tags: [politica, m5s]

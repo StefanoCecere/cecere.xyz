@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-09-20T01:54:40Z
 guid: http://stefanocecere.com/2006/09/20/doppio-invito-festa-stagionale-umanista-e-v-per-vendetta/

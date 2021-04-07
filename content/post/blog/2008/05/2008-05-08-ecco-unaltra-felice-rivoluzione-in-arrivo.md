@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-05-08T15:05:21Z
 guid: http://stefanocecere.com/2008/05/08/ecco-unaltra-felice-rivoluzione-in-arrivo/

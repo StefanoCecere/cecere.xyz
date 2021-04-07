@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-03-29T09:16:36Z
 guid: http://stefanocecere.com/2008/03/29/costruzione-della-base-usa-dal-molin-si-fara-e-sono-tutti-complici/

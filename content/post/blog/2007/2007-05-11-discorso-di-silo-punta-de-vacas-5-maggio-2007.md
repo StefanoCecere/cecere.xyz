@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-05-11T15:02:05Z
 guid: http://stefanocecere.com/2007/05/11/discorso-di-silo-punta-de-vacas-5-maggio-2007/

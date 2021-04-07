@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-04-09T10:49:14Z
 guid: http://stefanocecere.com/2008/04/09/alcune-considerazioni-di-amici-sulle-votazioni-e-il-rischio-berlusconi-e-il-non-voto/

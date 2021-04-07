@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-03-05T11:29:57Z
 guid: http://stefanocecere.com/2008/03/05/associazioni-amiche-elogiando-la-dea-madre/

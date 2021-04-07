@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-03-28T22:55:14Z
 guid: http://stefanocecere.com/2006/03/28/lumanista-il-giornale-che-devi-leggere/

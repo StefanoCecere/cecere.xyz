@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-10-28T14:03:48Z
 guid: http://stefanocecere.com/2007/10/28/il-prossimo-sono-io/

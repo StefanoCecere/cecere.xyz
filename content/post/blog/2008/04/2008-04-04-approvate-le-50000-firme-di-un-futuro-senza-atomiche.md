@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-04-04T11:58:51Z
 guid: http://stefanocecere.com/2008/04/04/approvate-le-50000-firme-di-un-futuro-senza-atomiche/

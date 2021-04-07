@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-05-06T14:28:48Z
 guid: http://stefanocecere.com/2008/05/06/news-da-russia-bolivia-e-universo/

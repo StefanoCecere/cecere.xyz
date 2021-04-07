@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-04-10T11:19:15Z
 guid: http://stefanocecere.com/2008/04/10/e-ora-musica/

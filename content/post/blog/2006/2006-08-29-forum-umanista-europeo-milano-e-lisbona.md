@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-08-29T20:51:48Z
 guid: http://stefanocecere.com/2006/08/29/forum-umanista-europeo-milano-e-lisbona/

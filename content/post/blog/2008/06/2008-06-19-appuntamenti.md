@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-06-19T10:17:49Z
 guid: http://stefanocecere.com/2008/06/19/appuntamenti/

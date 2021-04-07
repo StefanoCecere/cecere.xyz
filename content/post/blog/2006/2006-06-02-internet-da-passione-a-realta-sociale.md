@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-06-02T17:17:41Z
 guid: http://stefanocecere.com/2006/06/02/internet-da-passione-a-realta-sociale/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-06-06T02:56:53Z
 guid: http://stefanocecere.com/2008/06/06/domenica-22-giungo-sciopero-mondiale-della-fame/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-01-03T16:01:30Z
 guid: http://stefanocecere.com/2008/01/03/no-end-in-sight-un-film-sulla-guerra-infinita-in-iraq/

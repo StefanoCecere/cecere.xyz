@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-03-23T09:10:10Z
 guid: http://stefanocecere.com/2008/03/23/uomo-di-pasqua-o-bambino-pasquale-ovvero-una-riflessione-sul-momento-attuale/

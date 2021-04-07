@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-12-28T16:47:31Z
 guid: http://stefanocecere.com/2006/12/28/il-parkour-ti-fa-volare/

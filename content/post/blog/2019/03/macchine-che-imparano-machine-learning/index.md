@@ -1,6 +1,6 @@
 ---
 title: "Macchine Che Imparano (Machine Learning)"
-slug:
+slug: 2019/03/macchine-che-imparano-machine-learning
 subtitle: ""
 summary: ""
 tags: [AI]

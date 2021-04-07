@@ -1,4 +1,5 @@
 ---
+draft: true
 categories:
 - Spirito
 date: 2011-05-04T06:15:17Z

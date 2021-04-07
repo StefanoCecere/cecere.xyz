@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-12-12T03:32:01Z
 guid: http://stefanocecere.com/2006/12/12/gli-umanisti/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-03-10T02:11:44Z
 guid: http://stefanocecere.com/2007/03/10/goditi-il-fannullone-14/

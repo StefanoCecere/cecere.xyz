@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-03-12T22:59:57Z
 guid: http://stefanocecere.com/2008/03/12/no-war-be-happy/

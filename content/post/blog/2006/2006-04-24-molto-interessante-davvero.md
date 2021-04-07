@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-04-24T08:59:57Z
 guid: http://stefanocecere.com/2006/04/24/molto-interessante-davvero/

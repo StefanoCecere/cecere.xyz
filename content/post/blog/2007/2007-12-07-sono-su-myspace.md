@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-12-07T04:55:18Z
 guid: http://stefanocecere.com/2007/12/07/sono-su-myspace/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-08-22T17:25:11Z
 guid: http://stefanocecere.com/2006/08/22/acqua-e-benzina/

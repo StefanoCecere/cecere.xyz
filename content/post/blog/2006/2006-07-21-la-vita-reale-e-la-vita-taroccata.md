@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-07-21T01:40:15Z
 guid: http://stefanocecere.com/2006/07/21/la-vita-reale-e-la-vita-taroccata/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-10-31T01:08:07Z
 guid: http://stefanocecere.com/2006/10/31/il-poster-della-pace/

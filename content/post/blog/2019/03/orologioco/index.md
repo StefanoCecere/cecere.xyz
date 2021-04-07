@@ -1,6 +1,6 @@
 ---
 title: "Orologioco"
-slug:
+slug: 2019/03/orologioco
 subtitle: ""
 summary: ""
 tags: [game]

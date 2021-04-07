@@ -1,4 +1,5 @@
 ---
+draft: true
 categories:
 - Filosofia
 date: 2015-04-27T09:35:27Z

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-08-25T12:19:16Z
 guid: http://stefanocecere.com/2006/08/25/tutto-dante-e-benigni/

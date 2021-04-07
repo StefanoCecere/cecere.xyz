@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-12-19T02:36:56Z
 guid: http://stefanocecere.com/2007/12/19/i-simpson-al-forum-umanista-europeo-del-345-aprile-2008/

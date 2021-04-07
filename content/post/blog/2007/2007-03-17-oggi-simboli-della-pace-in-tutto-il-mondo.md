@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-03-17T02:36:00Z
 guid: http://stefanocecere.com/2007/03/17/oggi-simboli-della-pace-in-tutto-il-mondo/

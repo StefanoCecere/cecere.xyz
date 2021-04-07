@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-04-16T19:51:52Z
 guid: http://stefanocecere.com/2008/04/16/forza-ruggero/

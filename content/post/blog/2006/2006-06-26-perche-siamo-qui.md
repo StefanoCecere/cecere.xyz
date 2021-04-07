@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-06-26T14:39:35Z
 guid: http://stefanocecere.com/2006/06/26/perche-siamo-qui/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories:
 - Tecnologia
 - Tempi moderni

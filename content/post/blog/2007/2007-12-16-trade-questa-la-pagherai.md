@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-12-16T06:35:41Z
 guid: http://stefanocecere.com/2007/12/16/trade-questa-la-pagherai/

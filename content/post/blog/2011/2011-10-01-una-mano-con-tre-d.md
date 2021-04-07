@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2011-10-01T15:49:06Z
 guid: http://stefanocecere.com/2011/10/01/una-mano-con-tre-d/

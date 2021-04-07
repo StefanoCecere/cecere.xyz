@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-06-12T14:50:19Z
 guid: http://stefanocecere.com/2008/06/12/concerto-vibrazioni-in-piazza-duomo-una-pietra-miliare/

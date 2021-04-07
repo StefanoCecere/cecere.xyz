@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-03-29T21:50:27Z
 guid: http://stefanocecere.com/2007/03/29/elezioni-a-monza-mi-candido/

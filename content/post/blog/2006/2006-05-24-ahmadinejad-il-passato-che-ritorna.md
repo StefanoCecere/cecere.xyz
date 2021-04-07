@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-05-24T16:04:21Z
 guid: http://stefanocecere.com/2006/05/24/ahmadinejad-il-passato-che-ritorna/

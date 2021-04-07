@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-02-24T11:23:48Z
 guid: http://stefanocecere.com/2006/02/24/bombe-atomiche-con-poesia-sul-ghiaccio/

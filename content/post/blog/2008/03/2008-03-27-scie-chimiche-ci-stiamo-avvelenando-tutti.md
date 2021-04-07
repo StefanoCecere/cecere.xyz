@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-03-27T11:00:39Z
 guid: http://stefanocecere.com/2008/03/27/scie-chimiche-ci-stiamo-avvelenando-tutti/

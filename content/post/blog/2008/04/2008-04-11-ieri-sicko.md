@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-04-11T11:39:09Z
 guid: http://stefanocecere.com/2008/04/11/ieri-sicko/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-01-31T03:08:37Z
 guid: http://stefanocecere.com/2008/01/31/nuova-arma-segreta-dellesercito-iraniano-terrorizza-i-fattori/

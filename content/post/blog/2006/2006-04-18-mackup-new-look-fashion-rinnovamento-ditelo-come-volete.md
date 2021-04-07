@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-04-18T23:46:00Z
 guid: http://stefanocecere.com/2006/04/18/mackup-new-look-fashion-rinnovamento-ditelo-come-volete/

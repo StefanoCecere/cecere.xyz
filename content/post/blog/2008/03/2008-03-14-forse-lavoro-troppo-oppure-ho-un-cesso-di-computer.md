@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-03-14T14:51:05Z
 guid: http://stefanocecere.com/2008/03/14/forse-lavoro-troppo-oppure-ho-un-cesso-di-computer/

@@ -1,6 +1,6 @@
 ---
-title: "Armi E Sistemi Nervosi Deboli"
-slug:
+title: "Armi e Sistemi Nervosi Deboli"
+slug: 2019/03/armi-e-sistemi-nervosi-deboli
 subtitle: ""
 summary: ""
 tags: []
@@ -24,4 +24,4 @@ projects: []
 - ecco quelle lezioni secondo me sono le più importanti. Pian piano stanno arrivando in tutte le scuole, ma é ancora una cosa sperimentale e secondaria.
 - ok
 
-https://blogs.scientificamerican.com/observations/why-are-white-men-stockpiling-guns/
+<https://blogs.scientificamerican.com/observations/why-are-white-men-stockpiling-guns/>

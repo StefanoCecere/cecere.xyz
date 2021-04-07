@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-01-16T01:28:20Z
 guid: http://stefanocecere.com/2008/01/16/le-ultime-cose-da-fare-prima-di-morire/

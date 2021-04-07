@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-04-07T09:07:44Z
 guid: http://stefanocecere.com/2008/04/07/consiglio-di-voto-e-chiarimento-sulla-differenza-tra-il-centro-destra-e-il-centro-sinistra/

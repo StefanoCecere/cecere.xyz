@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-07-03T01:54:44Z
 guid: http://stefanocecere.com/2006/07/03/foto-del-simbolo-della-pace-a-monza/

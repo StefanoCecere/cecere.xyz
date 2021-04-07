@@ -3,7 +3,7 @@ title: "Videogiochi ed App per Bambini con Autismo"
 slug:
 subtitle: ""
 summary: ""
-tags: [G4C, best-of]
+tags: [playED, G4C, best-of]
 categories: [playED]
 date: 2019-04-04T10:25:26+02:00
 featured: false

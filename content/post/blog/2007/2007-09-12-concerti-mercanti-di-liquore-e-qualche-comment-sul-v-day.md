@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-09-12T03:12:11Z
 guid: http://stefanocecere.com/2007/09/12/concerti-mercanti-di-liquore-e-qualche-comment-sul-v-day/

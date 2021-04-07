@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-12-13T00:01:30Z
 guid: http://stefanocecere.com/2006/12/13/sommersi-nella-merda/

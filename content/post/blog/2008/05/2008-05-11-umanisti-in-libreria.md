@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-05-11T23:06:33Z
 guid: http://stefanocecere.com/2008/05/11/umanisti-in-libreria/

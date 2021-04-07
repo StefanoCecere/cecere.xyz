@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2010-04-09T21:26:05Z
 guid: http://stefanocecere.com/2010/04/09/ce-ne-per-tutti/

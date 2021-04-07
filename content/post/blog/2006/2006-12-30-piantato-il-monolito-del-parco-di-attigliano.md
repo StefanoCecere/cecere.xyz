@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-12-30T16:46:54Z
 guid: http://stefanocecere.com/2006/12/30/piantato-il-monolito-del-parco-di-attigliano/

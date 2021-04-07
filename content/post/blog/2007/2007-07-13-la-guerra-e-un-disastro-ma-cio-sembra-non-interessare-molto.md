@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-07-13T00:10:21Z
 guid: http://stefanocecere.com/2007/07/13/la-guerra-e-un-disastro-ma-cio-sembra-non-interessare-molto/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-04-08T19:11:28Z
 guid: http://stefanocecere.com/2008/04/08/io-sono-qui/

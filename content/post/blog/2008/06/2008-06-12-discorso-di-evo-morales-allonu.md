@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-06-12T15:15:53Z
 guid: http://stefanocecere.com/2008/06/12/discorso-di-evo-morales-allonu/

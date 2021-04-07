@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-06-06T14:34:46Z
 guid: http://stefanocecere.com/2008/06/06/europe-for-peace-un-video-da-riguardare/

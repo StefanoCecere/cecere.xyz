@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-05-21T12:25:33Z
 guid: http://stefanocecere.com/2008/05/21/spot-video-sulla-campagna-in-atto/

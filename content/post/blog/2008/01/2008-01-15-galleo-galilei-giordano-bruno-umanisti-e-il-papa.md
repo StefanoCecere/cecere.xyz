@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-01-15T09:27:31Z
 guid: http://stefanocecere.com/2008/01/15/galleo-galilei-giordano-bruno-umanisti-e-il-papa/

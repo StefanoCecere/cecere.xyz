@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-12-27T17:19:49Z
 guid: http://stefanocecere.com/2007/12/27/la-bussola-doro-un-film-da-vedere/

@@ -1,7 +1,5 @@
 ---
-aktt_notify_twitter:
-- true
-author: Stefano Cecere
+draft: true
 categories: [blog]
 date: 2010-02-13T12:32:51Z
 guid: http://stefanocecere.com/?p=2001

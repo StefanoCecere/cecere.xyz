@@ -3,8 +3,8 @@ title: "Un anno pieno di pietre"
 slug: 2010/12/un-anno-pieno-di-pietre
 subtitle: ""
 summary: ""
-tags: [umanista]
 categories: [blog]
+tags: [umanista]
 date: 2010-12-31T19:14:02+01:00
 featured: false
 draft: false

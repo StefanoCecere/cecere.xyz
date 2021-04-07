@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2015-02-22T06:34:56Z
 format: image

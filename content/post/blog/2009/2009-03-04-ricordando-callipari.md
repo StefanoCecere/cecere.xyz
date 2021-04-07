@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2009-03-04T11:33:30Z
 guid: http://stefanocecere.com/2009/03/04/ricordando-callipari/

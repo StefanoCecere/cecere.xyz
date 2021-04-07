@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-01-31T09:29:43Z
 guid: http://stefanocecere.com/2008/01/31/questa-sera-un-umanista-da-santoro/

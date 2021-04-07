@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-09-27T02:35:42Z
 guid: http://stefanocecere.com/2007/09/27/godetevi-il-fannullone-16/

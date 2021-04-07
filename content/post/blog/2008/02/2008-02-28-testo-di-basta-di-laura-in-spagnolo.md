@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-02-28T14:08:49Z
 guid: http://stefanocecere.com/2008/02/28/testo-di-basta-di-laura-in-spagnolo/

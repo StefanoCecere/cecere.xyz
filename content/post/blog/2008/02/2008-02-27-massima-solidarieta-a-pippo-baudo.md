@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-02-27T20:56:06Z
 guid: http://stefanocecere.com/2008/02/27/massima-solidarieta-a-pippo-baudo/

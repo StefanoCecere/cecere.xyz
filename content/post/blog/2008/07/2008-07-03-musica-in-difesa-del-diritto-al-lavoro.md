@@ -1,4 +1,5 @@
 ---
+draft: true
 categories:
 - Eventi
 date: 2008-07-03T08:41:51Z

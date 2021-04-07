@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-03-19T17:29:40Z
 guid: http://stefanocecere.com/2008/03/19/elezioni-un-candidato-umanista-a-roma/

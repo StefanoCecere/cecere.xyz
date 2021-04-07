@@ -1,4 +1,5 @@
 ---
+draft: true
 categories:
 - Smile
 date: 2010-10-12T09:20:21Z

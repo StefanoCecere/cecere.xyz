@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-03-09T02:41:43Z
 guid: http://stefanocecere.com/2007/03/09/perche-e-un-po-che-non-scrivo-piu/

@@ -4,7 +4,6 @@ slug: 2016/05/vegetarianismo
 subtitle: ""
 date: 2016-05-02T05:21:00
 categories: [blog]
-featured: false
 tags: [veg, ambiente]
 ---
 

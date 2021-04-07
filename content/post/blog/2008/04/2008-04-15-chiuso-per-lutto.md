@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-04-15T08:01:49Z
 guid: http://stefanocecere.com/2008/04/15/chiuso-per-lutto/

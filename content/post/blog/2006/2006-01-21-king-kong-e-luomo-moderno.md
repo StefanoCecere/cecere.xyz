@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-01-21T15:44:24Z
 guid: http://stefanocecere.com/2006/01/21/king-kong-e-luomo-moderno/

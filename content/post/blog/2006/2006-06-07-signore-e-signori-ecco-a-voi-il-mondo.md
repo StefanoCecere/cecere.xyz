@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-06-07T03:13:50Z
 guid: http://stefanocecere.com/2006/06/07/signore-e-signori-ecco-a-voi-il-mondo/

@@ -1,6 +1,6 @@
 ---
 title: "Diagrammi Comportamentali"
-slug:
+slug: 2019/03/diagrammi-comportamentali
 subtitle: ""
 summary: ""
 tags: [AI]

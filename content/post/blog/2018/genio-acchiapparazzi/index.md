@@ -2,10 +2,8 @@
 title: Genio acchiapparazzi (con inaspettato finale politico)
 slug: 2018/02/genio-acchiapparazzi
 date: 2018-02-22T00:00:00Z
-tags:
-- papa2042
-categories:
-- JJ
+categories: [dialoghi]
+tags: [dialoghi]
 ---
 
 ![](rocket_catcher.jpg)

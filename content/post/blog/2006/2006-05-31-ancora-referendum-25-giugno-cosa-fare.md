@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-05-31T03:24:00Z
 guid: http://stefanocecere.com/2006/05/31/ancora-referendum-25-giugno-cosa-fare/

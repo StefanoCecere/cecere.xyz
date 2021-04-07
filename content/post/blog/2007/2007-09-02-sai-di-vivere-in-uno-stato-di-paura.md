@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-09-02T12:16:06Z
 guid: http://stefanocecere.com/2007/09/02/sai-di-vivere-in-uno-stato-di-paura/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-04-04T15:08:32Z
 guid: http://stefanocecere.com/2006/04/04/dallaldila-alladiqua-comunicazione-interdimensionale/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-02-18T00:41:15Z
 guid: http://stefanocecere.com/2006/02/18/lesperienza-umana/

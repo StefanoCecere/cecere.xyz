@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-03-19T10:27:27Z
 guid: http://stefanocecere.com/2008/03/19/big-dog-i-mega-robots-sono-tra-noi-video/

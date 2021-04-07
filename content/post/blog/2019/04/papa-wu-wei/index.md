@@ -1,6 +1,6 @@
 ---
 title: "Papà Wu Wei"
-slug:
+slug: 2019/04/papa-wu-wei
 subtitle: ""
 summary: ""
 tags: []

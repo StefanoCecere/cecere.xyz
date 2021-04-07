@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-05-15T08:45:47Z
 guid: http://stefanocecere.com/2007/05/15/mi-sono-candidato-alle-prossime-elezioni-a-monza-e-mercoledi/

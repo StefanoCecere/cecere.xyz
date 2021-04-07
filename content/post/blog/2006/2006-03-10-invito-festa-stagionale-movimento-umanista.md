@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-03-10T11:24:25Z
 guid: http://stefanocecere.com/2006/03/10/invito-festa-stagionale-movimento-umanista/

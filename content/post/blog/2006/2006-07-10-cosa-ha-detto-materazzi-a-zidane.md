@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2006-07-10T02:24:21Z
 guid: http://stefanocecere.com/2006/07/10/cosa-ha-detto-materazzi-a-zidane/

@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2008-01-25T16:48:55Z
 guid: http://stefanocecere.com/2008/01/25/decadenza/

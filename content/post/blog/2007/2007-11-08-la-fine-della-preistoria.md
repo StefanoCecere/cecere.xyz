@@ -1,4 +1,5 @@
 ---
+draft: true
 categories: [blog]
 date: 2007-11-08T10:55:24Z
 guid: http://stefanocecere.com/2007/11/08/la-fine-della-preistoria/
