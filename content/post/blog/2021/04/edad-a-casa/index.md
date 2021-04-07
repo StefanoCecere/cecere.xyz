@@ -3,7 +3,7 @@ title: "eDaD una mattina a casa"
 slug: edad-a-casa
 summary: "un eDaD (Ed + Dad + DAD + D&D :) a casa per una mattina di giochi didattici"
 categories: [played]
-tags: [dad, giochiamo, playED]
+tags: [dad, eDaD, giochiamo, playED]
 date: 2021-04-07T15:39:18+02:00
 featured: false
 draft: false

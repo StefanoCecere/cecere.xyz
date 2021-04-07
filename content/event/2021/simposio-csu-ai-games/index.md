@@ -21,7 +21,7 @@ publishDate: 2020-11-14
 
 authors: []
 categories: [talk]
-tags: [talk]
+tags: [talk, GameDesign, AI, XR, VR, NuovoUmanesimo]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -46,3 +46,13 @@ slides:
 projects:
 ---
 
+Le avanguardie nella ricerca e sviluppo nei campi dell'AI e della VR/AR sono sempre più interconnesse con la fisiologia e la psicologia umana e con questioni filosofiche che richiedono un approccio interdisciplinare e scelte etiche, in vista di un'imminente diffusione massiva e popolare di queste tecnologie.
+
+Il videogioco è già considerabile come un medium "umanista" dove il giocatore è al centro dell'esperienza come protagonista attivo e decisivo. I game designers sono gli architetti delle esperienze più o meno ludiche da far vivere ai giocatori e grazie alle nuove frontiere tecnologiche stiamo arrivando a livelli di immersività che sono sia incredibili e meravigliosi, quanto preoccupanti e pericolosi.
+
+Gli sviluppatori di videogiochi potrebbero essere i prossimi a dover rispettare un "giuramento di Ippocrate"?
+
+---
+
+> ecco il [programma](http://2021.worldsymposium.org/it/program/) dei tre giorni del Simposio.  
+> è gratuito ma bisogna [registrarsi](http://2021.worldsymposium.org/it/registration) per ricevere i links alle conferenze Zoom
