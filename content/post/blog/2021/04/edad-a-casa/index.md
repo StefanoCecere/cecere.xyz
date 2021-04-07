@@ -1,7 +1,7 @@
 ---
-title: "eDaD una mattina a casa"
+title: "una mattina casa diventa scuola con giochi educativi"
 slug: edad-a-casa
-summary: "un eDaD (Ed + Dad + DAD + D&D :) a casa per una mattina di giochi didattici"
+summary: "quando siamo soli io e Bruno proviamo a divertirci imparando giocando"
 categories: [played]
 tags: [dad, eDaD, giochiamo, playED]
 date: 2021-04-07T15:39:18+02:00
