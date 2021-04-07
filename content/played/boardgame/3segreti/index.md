@@ -18,6 +18,8 @@ Diversi livelli di difficoltà che impegneranno dai 5 minuti alla mezz'ora.
 
 > *Fabio:*
 > mi piace perché è molto facile e lo puoi giocare ovunque in tre secondi. 
+{.boxFabio}
 
 > *Stefano:*
 > Una volta assimilato è ancora più divertente inventare noi nuove carte! ed esiste anche una versione app digitale
+{.boxStefano}
