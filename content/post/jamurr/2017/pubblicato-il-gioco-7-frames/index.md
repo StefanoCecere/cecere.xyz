@@ -1,22 +1,11 @@
 ---
 title: pubblicato il gioco 7 FRAMES
 subtitle: 
-
-# Summary for listings and search engines
 summary: 
-
-# Link this post with a project
 projects: []
-
-# Date published
-date: "2017-05-30T00:00:00Z"
-
-# Is this an unpublished draft?
+date: 2017-05-30T00:00:00Z
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
 authors:
 categories: jamurr
 tags: ["7Frames", "KidsGameJam"]

@@ -6,7 +6,6 @@ projects: [jamurr/non-sono-solo-una-pecora]
 date: 2016-01-15T00:00:00Z
 draft: false
 featured: false
-authors:
 categories: jamurr
 tags: [GlobalGameJam, KidsGameJam, Videogame]
 
