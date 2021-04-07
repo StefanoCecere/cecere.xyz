@@ -20,7 +20,8 @@ link to page:
 ## terminal commands
 ```
 hugo new --kind post post/articles/
-hugo new --kind post post/diary/2021/03/title
+hugo new --kind post post/blog/2021/03/
+hugo new --kind played played/boardgame/
 
 hugo serve --gc
 
