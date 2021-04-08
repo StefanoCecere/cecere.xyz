@@ -7,6 +7,7 @@ date: 2018-02-25T00:00:00Z
 lastmod: 2018-02-25T00:00:00Z
 type: book
 weight: 1
+categories: [stefano]
 tags: ["42"]
 ---
 

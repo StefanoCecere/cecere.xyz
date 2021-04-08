@@ -7,6 +7,7 @@ date: 2014-02-25T00:00:00Z
 lastmod: 2014-02-25T00:00:00Z
 type: book
 weight: 30
+categories: [stefano]
 tags: [umanista,NuovoUmanesimo]
 ---
 Mi piacciono una serie di idee, che [qualcuno](http://www.silo.net) ha brillantemente messo insieme sintetizzando un **Nuovo Umanesimo**:

@@ -7,7 +7,7 @@ toc: true
 weight: 1
 authors: []
 tags: [books]
-categories: [about]
+categories: [stefano]
 date: 2018-06-28T00:00:00+02:00
 featured: false
 draft: false
