@@ -1,6 +1,6 @@
 ---
 title: Libreria
-summary: per i bibliofili la libreria è tra le zone più importanti della casa
+summary: siamo anche i libri che abbiamo letto
 slug: libreria
 type: book
 toc: true
@@ -13,7 +13,7 @@ featured: false
 draft: false
 weight: 60
 ---
-Non so voi ma quando vado a trovare qualcuno mi piace curiosare nella sua libreria. Amo anche ricordarli, preziosi compagni di viaggio e guide ispiratrici. Eccone alcuni tra i più significativi per conoscerci meglio.
+Siamo anche i libri che abbiamo letto, preziosi compagni di viaggio e guide ispiratrici. Non so voi, ma per conoscere una persona mi piace curiosare nella sua libreria, così vi condivido una parte della mia, evidenziando quelli che mi stanno più a cuore.
 
 {{< figure src="libreria-featured.jpg" alt="la mia libreria" width="300">}}
 
@@ -23,8 +23,9 @@ Non so voi ma quando vado a trovare qualcuno mi piace curiosare nella sua librer
 ## Saggi
 {{< sc_books url="static/data/sc_books.csv" genere="essay" >}}
 
-## Edu / Game Design
+## Educazione / Game Design
 {{< sc_books url="static/data/sc_books.csv" genere="edugame" >}}
 
-## STEAM / AI
+## AI / STEAM
+(Scienza, Tecnologia, Ingegneria, Arte Matematica)
 {{< sc_books url="static/data/sc_books.csv" genere="steam" >}}
