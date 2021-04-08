@@ -16,7 +16,7 @@ weight: 60
 _Leggere parole pesanti, leggere menti pensanti_  
 Non so a voi ma quando vado a trovare qualcuno mi piace sempre curiosare nella sua libreria. A me piace anche vivere in mezzi ai mille libri compagni di viaggio, eccone alcuni e con ❤️ quelli particolarmente significativi. 
 
-{{< figure src="libreria.jpg" alt="la mia libreria" width="300">}}
+{{< figure src="libreria-featured.jpg" alt="la mia libreria" width="300">}}
 
 ## Romanzi
 {{< sc_books url="static/data/sc_books.csv" genere="novel" >}}
