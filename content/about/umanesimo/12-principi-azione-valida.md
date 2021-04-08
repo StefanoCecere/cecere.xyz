@@ -3,6 +3,7 @@ title: I 12 principi dell'azione valida
 date: 1999-05-05T09:31:30Z
 type: book
 tags: [Silo, NuovoUmanesimo]
+weight: 210
 ---
 1.  Andare contro l’evoluzione delle cose è andare contro se stessi.
 2.  Quando forzi qualcosa per raggiungere un fine, produci il contrario.

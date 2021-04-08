@@ -1,8 +1,15 @@
 {{ $url := .Get "url" }}
-{{ $sep := .Get "sep" }}
-
+{{ $sep := ";" }}
+{{ $gen := .Get "genere" }}
+{{ $genere := ""}}
 <table>
 {{ range $i, $r := getCSV $sep $url }}
-    <tr><td>{{ index $r 1 }}<td>{{ index $r 0 }}</td><td>{{ index $r 3 }}</td></tr> 
+{{ $genere = index $r 3}}
+{{ if in $genere $gen }}
+    <tr><td>{{ index $r 1 }}<td>{{ index $r 0 }}</td>
+    <td>
+        {{if eq (index $r 4) "1"}}❤️{{ end }}
+    </td></tr> 
+{{ end }}
 {{ end }}
 </table>
