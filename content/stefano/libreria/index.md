@@ -1,6 +1,6 @@
 ---
 title: Libreria
-summary: dimmi cosa hai letto, ti dirò chi sei
+summary: per i bibliofili la libreria è tra le zone più importanti della casa
 slug: libreria
 type: book
 toc: true
@@ -13,8 +13,7 @@ featured: false
 draft: false
 weight: 60
 ---
-_Leggere parole pesanti, leggere menti pensanti_  
-Non so a voi ma quando vado a trovare qualcuno mi piace sempre curiosare nella sua libreria. A me piace anche vivere in mezzi ai mille libri compagni di viaggio, eccone alcuni e con ❤️ quelli particolarmente significativi. 
+Non so voi ma quando vado a trovare qualcuno mi piace curiosare nella sua libreria. Amo anche ricordarli, preziosi compagni di viaggio e guide ispiratrici. Eccone alcuni tra i più significativi per conoscerci meglio.
 
 {{< figure src="libreria-featured.jpg" alt="la mia libreria" width="300">}}
 
