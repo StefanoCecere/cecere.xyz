@@ -1,7 +1,7 @@
 ---
-title: Bibliografia
+title: Libreria
 summary: dimmi cosa hai letto, ti dirò chi sei
-slug: read
+slug: libreria
 type: book
 toc: true
 weight: 1

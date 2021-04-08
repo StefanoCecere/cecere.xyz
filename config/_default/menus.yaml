@@ -28,8 +28,8 @@ main:
   - name: Progetti
     url: '/projects'
     weight: 45
-  - name: About
-    url: '/about'
+  - name: Chi sono
+    url: '/stefano'
     weight: 90
   - name: Contatto
     url: '/contact'
