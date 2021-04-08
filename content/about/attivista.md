@@ -1,11 +1,12 @@
 ---
-title: "Stefano Cecere: attivista"
+title: Attivista
 linktitle: Attivista
 summary: Cose che uno fa perché sente che deve farle e che devono essere fatte
+slug: attivista
 date: 2018-02-25T00:00:00Z
 lastmod: 2018-09-09T00:00:00
 type: book
-weight: 10
+weight: 50
 tags: ["umanista","MovimentoUmanista", "M5S", "politica"]
 ---
 Dopo molti anni a studiare e a pensare in solitario, ebbi l'occasione di interagire con il mondo vero, reale, esterno. avevo 23 anni

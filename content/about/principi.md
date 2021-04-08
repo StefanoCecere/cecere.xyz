@@ -2,10 +2,11 @@
 title: "Idee base e Princìpi"
 linktitle: Princìpi
 summary: su quali binari uno si muove? cosa è si e cosa è no?
+slug: principi
 date: 2014-02-25T00:00:00Z
 lastmod: 2014-02-25T00:00:00Z
 type: book
-weight: 60
+weight: 30
 tags: [umanista,NuovoUmanesimo]
 ---
 Mi piacciono una serie di idee, che [qualcuno](http://www.silo.net) ha brillantemente messo insieme sintetizzando un Nuovo Umanesimo:

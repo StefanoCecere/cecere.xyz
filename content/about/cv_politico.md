@@ -1,11 +1,12 @@
 ---
-title: "Stefano Cecere: esperienze politiche"
+title: Politico
 linktitle: Politico
 summary: mi piace la Polis e non riesco a non essere politico
+slug: politico
 date: 2018-02-25T00:00:00Z
 lastmod: 2018-09-09T00:00:00
 type: book
-weight: 40
+weight: 50
 tags: ["politica"]
 ---
 La Politica è l'arte e la scienza del trovare soluzioni win-win per il complesso sistema sociale umano, imparando dalla Storia e tutte le scienze umane e con progetti non per l'immediato tornaconto personale, ma almeno nel medio periodo.

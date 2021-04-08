@@ -28,6 +28,9 @@ main:
   - name: Progetti
     url: '/projects'
     weight: 45
+  - name: Biblio
+    url: '/biblio'
+    weight: 80
   - name: About
     url: '/about'
     weight: 90

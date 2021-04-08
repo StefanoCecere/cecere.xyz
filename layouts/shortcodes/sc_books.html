@@ -1,0 +1,8 @@
+{{ $url := .Get "url" }}
+{{ $sep := .Get "sep" }}
+
+<table>
+{{ range $i, $r := getCSV $sep $url }}
+    <tr><td>{{ index $r 1 }}<td>{{ index $r 0 }}</td></tr> 
+{{ end }}
+</table>
