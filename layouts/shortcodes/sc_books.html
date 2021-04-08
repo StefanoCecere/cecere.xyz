@@ -3,6 +3,6 @@
 
 <table>
 {{ range $i, $r := getCSV $sep $url }}
-    <tr><td>{{ index $r 1 }}<td>{{ index $r 0 }}</td></tr> 
+    <tr><td>{{ index $r 1 }}<td>{{ index $r 0 }}</td><td>{{ index $r 3 }}</td></tr> 
 {{ end }}
 </table>
