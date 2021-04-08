@@ -23,9 +23,18 @@ Siamo anche i libri che abbiamo letto, preziosi compagni di viaggio e guide ispi
 ## Saggi
 {{< sc_books url="static/data/sc_books.csv" genere="essay" >}}
 
-## Educazione / Game Design
-{{< sc_books url="static/data/sc_books.csv" genere="edugame" >}}
+## Classici
+{{< sc_books url="static/data/sc_books.csv" genere="classic" >}}
 
-## AI / STEAM
-(Scienza, Tecnologia, Ingegneria, Arte Matematica)
+## Educazione
+{{< sc_books url="static/data/sc_books.csv" genere="edu" >}}
+
+## Game + Play
+{{< sc_books url="static/data/sc_books.csv" genere="gamedesign" >}}
+
+## AI 
+{{< sc_books url="static/data/sc_books.csv" genere="ai" >}}
+
+## STEAM
+(Scienza, Tecnologia, Ingegneria, Arte, Matematica)
 {{< sc_books url="static/data/sc_books.csv" genere="steam" >}}
