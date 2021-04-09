@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Laboratorio Nintendo LABO VR"
-event:
-event_url:
+event: ''
+event_url: ''
 location: Internet Festival di Pisa
-summary:
-abstract:
+summary: ''
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

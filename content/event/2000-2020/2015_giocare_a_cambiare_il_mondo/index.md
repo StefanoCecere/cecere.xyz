@@ -3,10 +3,10 @@
 
 title: "Giocare a cambiare il mondo"
 event: Game Over
-event_url:
+event_url: ''
 location: Milano
 summary: presentazioni dei mondo del Games 4 Change, ovvero giochi educativi e di impatto sociale
-abstract:
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

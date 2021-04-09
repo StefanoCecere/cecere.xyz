@@ -6,7 +6,7 @@ event: Internet Festival
 event_url: http://2016.internetfestival.it
 location: Pisa
 summary: progetti videoludici applicati all'educazione, alla cultura, all'ambiente, alla solidarietà
-abstract:
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

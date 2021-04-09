@@ -1,31 +1,23 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Giocare insieme"
-subtitle: ""
-summary: ""
+title: Giocare insieme
+subtitle: ''
+summary: ''
 authors: []
-tags: []
-categories: []
-date: 2020-01-30T00:15:25+01:00
-lastmod: 2020-01-30T00:15:25+01:00
+tags:
+  - giocare
+categories:
+  - PlayED
+date: '2020-01-29T23:15:25.000Z'
+lastmod: '2020-01-29T23:15:25.000Z'
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
+resources: []
+
 ---
 
 - allora noi si gioca insieme. ma nel senso che io e te non siamo nemici e vince il più bravo. dobbiamo collaborare per uscire tutti dal deserto prima che ci sommerga la sabbia o moriamo di sete

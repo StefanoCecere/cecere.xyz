@@ -4,7 +4,7 @@ event: Internet Festival
 event_url: http://2016.internetfestival.it
 location: Pisa
 summary: Progettare videogiochi come attività multidisciplinare creativa e ricca di contenuti emotivi
-abstract:
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

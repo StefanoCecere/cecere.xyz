@@ -1,10 +1,10 @@
 ---
 title: "Game Design ed Educazione"
 event: The Next Education
-event_url: 
+event_url: ''
 location: Online
 summary: su videogiochi, educazione e game design
-abstract:
+abstract: ''
 # Talk start and end times.
 date: 2021-03-03
 all_day: true
@@ -17,11 +17,11 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-url_slides:
-url_code:
-url_pdf:
+url_slides: ''
+url_code: ''
+url_pdf: ''
 url_video: https://fb.watch/4e3iNfUmKk/
-slides: ""
+slides: ''
 projects: []
 ---
 Attraverso quali meccanismi psicologici impariamo, e in che modo i videogame possono aiutare l’apprendimento? Un’esperienza ludica, proprio in quanto tale, presuppone un alto livello di coinvolgimento e partecipazione. L’attenzione e la motivazione di chi si presta a un’attività di gioco sono obiettivi centrali nella progettazione di un videogame. Ecco perché oggi, sempre più spesso, realizzare un gioco è estremamente complesso, un lavoro chee necessita di una serie di competenze molto diverse come pedagogia, la psicologia, le neuroscienze, la data science. ne parliamo con un ricercatore e game designer.

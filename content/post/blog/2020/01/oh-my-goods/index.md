@@ -1,31 +1,23 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Oh My Goods"
-subtitle: ""
-summary: ""
+title: Oh My Goods
+subtitle: ''
+summary: ''
 authors: []
-tags: ["giochi"]
-categories: []
-date: 2020-01-18T10:16:10+01:00
-lastmod: 2020-01-18T10:16:10+01:00
+tags:
+  - GdT
+categories:
+  - giochiamo
+date: '2020-01-18T09:16:10.000Z'
+lastmod: '2020-01-18T09:16:10.000Z'
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
+resources: []
+
 ---
 
  un sabato sera a testare un nuovo gioco minimale: 110 carte con le quali sviluppare una propria azienda di produzione: dal carbone alla legna, al grano ai cibi, vestiti, scarpe e merci sempre più elaborate combinando le risorse, costruendo nuovi edifici e assumendo assistenti lavoratori che vanno al mercato all'alba a prendere le materie prime e alla sera a venderle.

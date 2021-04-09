@@ -3,10 +3,10 @@
 
 title: "Milan Games Week"
 event: Milan Games Week
-event_url:
+event_url: ''
 location: Milano
 summary: partecipazione col progetto Antura and the Letters
-abstract:
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

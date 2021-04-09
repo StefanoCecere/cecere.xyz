@@ -4,7 +4,7 @@ event: BookCity Milano
 event_url: https://bookcitymilano.it/eventi/2020/aiuto-ho-ingoitato-uno-youtuber-8-12-anni
 location: Online
 summary: su videogiochi, social media e ragazzi
-abstract:
+abstract: ''
 # Talk start and end times.
 date: 2020-11-14
 # date_end: 2019-09-29T14:22:16+02:00

@@ -1,12 +1,18 @@
 ---
 title: Documento del Movimento Umanista
 slug: documento-del-movimento-umanista
-categories: [libreria]
-date: 2005-11-17T09:31:30Z
-tags: [umanista,MovimentoUmanista]
----
-{{< figure src="omino.gif" >}}
+categories:
+  - libreria
+date: '2005-11-17T09:31:30.000Z'
+tags:
+  - umanista
+  - MovimentoUmanista
+  - docs
+resources: []
 
+---
+
+{{< figure src="omino.gif" >}}
 Nel 1993 Silo, lo pseudonimo dell'argentino Mario Rodriguez Cobos, ha pubblicato quello che potremmo chiamare il &#x201c;manifesto&#x201d; del Movimento Umanista. un documento che definisce in modo semplice ma preciso **le basi e la missione di questo progetto mondiale** di umanizzazione della terra.
 
 Chi fosse minimamente interessato è invitato a leggerlo: [leggi qui]({{< relref "/about/umanesimo/documento-movimento-umanista.md" >}})

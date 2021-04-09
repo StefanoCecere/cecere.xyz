@@ -1,31 +1,23 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "I libri sul comodino"
-subtitle: ""
-summary: ""
+title: I libri sul comodino
+subtitle: ''
+summary: ''
 authors: []
-tags: []
-categories: []
-date: 2020-01-28T00:16:36+01:00
-lastmod: 2020-01-28T00:16:36+01:00
+tags:
+  - libri
+categories:
+  - blog
+date: '2020-01-27T23:16:36.000Z'
+lastmod: '2020-01-27T23:16:36.000Z'
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
+resources: []
+
 ---
 
 i 10 libri sul comodino che mi stanno nutrendo questo trimestre.
@@ -53,5 +45,3 @@ si parte da molto lontano: il gioco nei riti sacri dell’antichità, il fato e 
 - Cloud Atlas è l’unico romanzo... ma che romanzo! il film è eccellente e questo tanto quanto.
 
 ecco ora sapete come sto rielaborando i miei neuroni. e voi?
-
-#iLibriSulComodino

@@ -3,7 +3,7 @@
 
 title: "Kids Lab: Costruiamo un Robot disegnatore"
 event: Centro Estivo
-event_url:
+event_url: ''
 location: Casa del Popolo di Settignano - Firenze
 summary: costruiamo un robot che disegna. laboratorio per i partecipanti al Centro Estivo
 abstract: 

@@ -4,7 +4,7 @@ event: The Next Education
 event_url: 
 location: Online
 summary: su videogiochi e apprendimento
-abstract:
+abstract: ''
 # Talk start and end times.
 date: 2021-02-16
 all_day: true

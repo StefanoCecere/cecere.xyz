@@ -4,7 +4,7 @@ event: Internet Festival 2016
 event_url: 
 location: Pisa
 summary: una Game Jam per i ragazzi
-abstract:
+abstract: ''
 # Talk start and end times.
 date: 2016-10-08
 # date_end: 2019-09-29T14:22:16+02:00
