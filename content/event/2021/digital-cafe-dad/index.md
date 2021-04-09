@@ -1,10 +1,10 @@
 ---
-title: Chiacchiera sulla DAD
+title: Il vero volto della DAD
 slug: digital-cafe-dad
 draft: false
 event: Digital Café
 event_url: https://www.psicologiaetecnologia.it/approfondimenti-digitali/didattica-distanza-criticita-opportunita
-summary: 'Il vero volto della didatticaadistanza, tra criticità e opportunità.'
+summary: 'una chiacchierata sulla didattica a distanza, tra criticità e opportunità.'
 abstract: ''
 location: online
 date: '2021-04-07T21:00:00Z'
@@ -27,7 +27,7 @@ projects: null
 resources: []
 ---
 
-Tra Didattica a Distanza e Didattica Digitale Integrata.
+Una chiacchierata sulla Didattica a Distanza e Didattica Digitale Integrata, tra criticità e opportunità.
 
 Ne parlano insieme Ivan Ferrero (Psicologo Digitale), Stefano Cecere (EdTech e Game Designer), e Gianni Ferrarese (Docente nella scuola Secondaria di secondo grado e formatore sui temi del digitale inclusivo).
 
