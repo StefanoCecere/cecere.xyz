@@ -1,4 +1,5 @@
 ---
+id: e-2001-nextedu
 title: "Game Design ed Educazione"
 event: The Next Education
 event_url: ''

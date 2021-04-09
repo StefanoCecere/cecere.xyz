@@ -2,57 +2,50 @@
 title: Chiacchiera sulla DAD
 slug: digital-cafe-dad
 draft: false
-summary: tra criticità e opportunità
-abstract: ""
-
-#event: Wowchemy Conference
-#event_url: https://example.org
+event: Digital Café
+event_url: https://www.psicologiaetecnologia.it/approfondimenti-digitali/didattica-distanza-criticita-opportunita
+summary: 'Il vero volto della didatticaadistanza, tra criticità e opportunità.'
+abstract: ''
 location: online
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-04-07T21:00:00Z"
-#date_end: "2021-04-06T11:00:00Z"
+date: '2021-04-07T21:00:00Z'
 all_day: false
-publishDate: 2021-02-01T11:00:00Z
-
+publishDate: '2021-02-01T11:00:00.000Z'
 authors: []
-categories: [talk]
-tags: [talk, dad, ]
-
-# Is this a featured talk? (true/false)
+categories:
+  - talk
+tags:
+  - talk
+  - dad
+  - edtech
 featured: false
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: 
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: 'https://www.youtube.com/watch?v=zgWqUr6evNU'
+slides: null
+projects: null
+resources: []
 ---
 
-Tra Didattica a Distanza e Didattica Digitale Integrata?
-E soprattutto come possiamo possiamo permettere a studenti e docenti di vivere questo periodo nel modo più leggero possibile?
+Il vero volto della didatticaadistanza, tra Didattica a Distanza e Didattica Digitale Integrata. E soprattutto come possiamo possiamo permettere a studenti e docenti di vivere questo periodo nel modo più leggero possibile?
 
-Ne parliamo insieme a Stefano Cecere, EdTech e Game Designer, e Gianni Ferrarese, Docente nella scuola Secondaria di secondo grado e formatore sui temi del digitale inclusivo.
+Ne parlano insieme Ivan Ferrero (Psicologo Digitale), Stefano Cecere (EdTech e Game Designer), e Gianni Ferrarese (Docente nella scuola Secondaria di secondo grado e formatore sui temi del digitale inclusivo).
 
 Insieme valuteremo la situazione attuale, capiremo quali sono gli elementi che possiamo migliorare, e parleremo anche di come sfruttare questo periodo per innovare la nostra didattica anche dopo questo periodo.
 
-E come al solito potrete interagire con i relatori con le vostre domande.
+{{< youtube zgWqUr6evNU>}}
 
-Lo trovate qui:
-Facebook: <https://www.facebook.com/ivanferreropsicologo/posts/10224361866824062>
-YouTube: <https://youtu.be/zgWqUr6evNU>
-Twitch: <https://www.twitch.tv/CyberPsicologo>
+Questi alcuni degli argomenti che trovate qui:  
+- 00:00 Introduzione
+- 08:40 Come siamo messi a scuola?
+- 15:00 Ragazzi distratti per via del digitale: veramente?
+- 24:00 L’Economia del Digitale: verso l’Era dell’Accesso
+- 28:58 E in tutto questo le scuole? Quanto sanno cogliere le opportunità del - Digitale?
+- 38:45 I videogiochi per la Didattica e per motivare gli studenti
+- 46:00 Come cambia il ruolo degli insegnanti con il Digitale
+- 53:40 Esperienze di Digitale nella Didattica
+- 1:00:21 Il Digitale che appiana le diversità tra i ragazzi
+- 1:05:35 La vera eredità della DAD
+- 1:14:46 Veramente la DAD impedisce ai ragazzi di imparare?
+- 1:18:59 Necessaria una Scuola che sia realmente parte del suo Territorio
+- 1:26:56 Il Digitale e la DAD come nuove opportunità per il Futuro
