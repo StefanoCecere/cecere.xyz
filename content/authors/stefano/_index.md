@@ -103,7 +103,7 @@ Questo sito è molto ampio, ecco le sezioni principali:
     la guida al giocare bene, imparare insieme
     <h3><a href="/jamurr">Jamurr</a></h3>
     giochi creati dai ragazzi in jam con i genitori
-    <h3><a href="/stefano/who/">Mi presento</a></h3>
+    <h3><a href="/stefano/whoami/">Mi presento</a></h3>
     chi sono? dove vado? perché?
 </div>
 <div class="col-md">

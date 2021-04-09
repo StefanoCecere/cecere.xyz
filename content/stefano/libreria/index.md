@@ -13,7 +13,7 @@ featured: false
 draft: false
 weight: 60
 ---
-Siamo anche i libri che abbiamo letto, preziosi compagni di viaggio e guide ispiratrici. Non so voi, ma per conoscere una persona mi piace curiosare nella sua libreria, così vi condivido una parte della mia, evidenziando quelli che mi stanno più a cuore.
+_Siamo anche i libri che abbiamo letto_, preziosi compagni di viaggio e guide ispiratrici. Non so voi, ma per conoscere una persona mi piace curiosare nella sua libreria, così vi condivido una parte della mia, evidenziando quelli che mi stanno più a ❤️.
 
 {{< figure src="libreria-featured.jpg" alt="la mia libreria" width="300">}}
 
