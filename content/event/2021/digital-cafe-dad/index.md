@@ -27,7 +27,7 @@ projects: null
 resources: []
 ---
 
-Il vero volto della didatticaadistanza, tra Didattica a Distanza e Didattica Digitale Integrata. E soprattutto come possiamo possiamo permettere a studenti e docenti di vivere questo periodo nel modo più leggero possibile?
+Tra Didattica a Distanza e Didattica Digitale Integrata.
 
 Ne parlano insieme Ivan Ferrero (Psicologo Digitale), Stefano Cecere (EdTech e Game Designer), e Gianni Ferrarese (Docente nella scuola Secondaria di secondo grado e formatore sui temi del digitale inclusivo).
 
