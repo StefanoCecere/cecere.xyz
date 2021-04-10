@@ -1,5 +1,6 @@
 ---
 title: "Privacy"
+url: /privacy
 type: page
 subtitle: ""
 summary: ""
@@ -18,5 +19,5 @@ You can turn off the use of cookies at anytime by changing your specific browser
 
 We are not responsible for republished content from this blog on other blogs or websites without our permission.
 
-This privacy policy is subject to change without notice and was last updated on jan 2020. If you have any questions feel free to contact me directly [here](/contact).
+This privacy policy is subject to change without notice and was last updated on jan 2020. If you have any questions feel free to contact me directly [here](../contact).
 

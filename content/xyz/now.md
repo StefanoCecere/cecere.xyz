@@ -2,6 +2,7 @@
 title: now
 date: 2021-04-01
 type: simple
+url: /now
 ---
 cosa sto facendo in questo periodo?
 
