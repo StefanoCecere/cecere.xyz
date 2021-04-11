@@ -13,7 +13,7 @@ main:
   - name: Blog
     url: '/post'
     weight: 15
-  - name: Corsi
+  - name: Scuola
     url: '/edu'
     weight: 20
   - name: PlayED

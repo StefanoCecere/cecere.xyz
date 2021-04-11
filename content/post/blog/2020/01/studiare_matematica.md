@@ -5,7 +5,7 @@ title: "Studiare matematica"
 subtitle: ""
 summary: ""
 authors: []
-tags: ["didattica", "dialoghi"]
+tags: ["didattica", "didattica"]
 categories: []
 date: 2020-01-17T10:27:50+01:00
 lastmod: 2020-01-17T10:27:50+01:00

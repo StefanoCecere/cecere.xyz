@@ -4,7 +4,7 @@ slug:
 subtitle: ""
 summary: ""
 tags: [vr,kids,steam]
-categories: []
+categories: [blog]
 date: 2021-03-20T17:47:06+02:00
 featured: false
 draft: false

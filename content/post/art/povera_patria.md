@@ -2,7 +2,7 @@
 title: Povera Patria
 date: 2021-01-21T12:50:55
 categories: []
-tags: [music, poesia]
+tags: [music, poesia,Battiato]
 ---
 
 {{< youtube gfHpWwWu-qY >}}

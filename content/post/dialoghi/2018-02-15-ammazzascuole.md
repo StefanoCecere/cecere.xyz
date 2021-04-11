@@ -1,6 +1,6 @@
 ---
 title: Ammazza che scuola
-slug: 2018/02/ammazza-che-scuole
+slug: ammazza-che-scuola
 date: 2018-02-15T00:00:00Z
 categories: [dialoghi]
 tags: [dialoghi]

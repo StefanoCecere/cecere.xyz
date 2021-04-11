@@ -3,7 +3,7 @@ title: Macchina da Scrivere
 slug: 
 summary: 
 categories: [steam]
-tags: [scheda_STEAM]
+tags: [scheda_STEAM, Olivetti]
 date: 2020-12-14
 lastmod: 
 url_game: 

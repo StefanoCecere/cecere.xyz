@@ -1,6 +1,7 @@
 ---
 title: I punti di vista
 slug: i-punti-di-vista
+id: p-i-punti-di-vista
 categories: [considerazioni]
 date: 2005-11-15T16:08:08Z
 tags: [psicologia,umanista,punti-di-vista]

@@ -3,8 +3,8 @@ title: "La Prima Dad"
 slug:
 subtitle: ""
 summary: ""
-tags: [dad]
-categories: [storia]
+tags: [dad,storico]
+categories: [blog]
 date: 2021-03-23T00:42:10+02:00
 #lastmod: 2021-04-04T00:42:10+02:00
 featured: true

@@ -4,7 +4,7 @@ slug:
 subtitle: ""
 summary: ""
 tags: [TheRoom,VR]
-categories: [review]
+categories: [blog]
 date: 2021-03-26T00:36:48+02:00
 #lastmod: 2021-03-26T00:36:48+02:00
 featured: false

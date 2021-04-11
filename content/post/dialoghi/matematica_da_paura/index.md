@@ -2,7 +2,7 @@
 title: "Matematica da paura"
 subtitle: ""
 summary: ""
-tags: [libri, dialoghi, matematica, kids ]
+tags: [libri, dialoghi, matematica, kids, bruno ]
 categories: [Leggiamo]
 date: 2020-11-13T21:02:27+01:00
 lastmod: 2020-11-13T21:02:27+01:00

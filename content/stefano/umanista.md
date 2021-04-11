@@ -40,4 +40,4 @@ Mi interessa poi superare il dolore e la sofferenza in modo completo, e in ultim
 c'è chi lo chiama "cambiare il mondo", chi "umanizzare la terra", chi "pensare un po' allo sviluppo del futuro", chi "fare tutto quello che si può fare, né di più, né di meno".
 
 ## Movimento Umanista
-Questo è il [Documento del Movimento Umanista]({{< relref "/about/umanesimo/documento-movimento-umanista.md" >}})
+Questo è il [Documento del Movimento Umanista]({{< relref "/post/about/documento-movimento-umanista.md" >}})

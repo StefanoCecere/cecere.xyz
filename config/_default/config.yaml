@@ -22,6 +22,7 @@ removePathAccents: true
 
 module:
   imports:
+    - path: github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
 
 ############################
@@ -38,11 +39,11 @@ ignoreFiles: [_local, \.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cach
 permalinks:
   post: '/post/:slug/'
   event: '/event/:year/:slug/'
+  played: '/:sections/:slug'
   project: '/project/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
-  played: '/:sections/:slug'
 disableAliases: false
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
@@ -65,8 +66,6 @@ timeout: 600000
 taxonomies:
   tag: tags
   category: categories
-  publication_type: publication_types
-  author: authors
 related:
   threshold: 80
   includeNewer: true

@@ -4,7 +4,7 @@ slug:
 subtitle: ""
 summary: ""
 tags: [economia, "2042"]
-categories: [review]
+categories: [blog]
 date: 2021-03-28T00:33:54+02:00
 #lastmod: 2021-04-04T00:33:54+02:00
 featured: false

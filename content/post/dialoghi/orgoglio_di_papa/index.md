@@ -1,7 +1,7 @@
 ---
 title: Orgoglio di Papà
 date: 2020-11-25T11:28:04
-categories: []
+categories: [dialoghi]
 tags: [HackerKid]
 ------
 

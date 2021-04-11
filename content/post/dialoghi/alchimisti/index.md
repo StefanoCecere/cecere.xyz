@@ -1,7 +1,7 @@
 ---
 title: Alchimisti (con regalo per i ragazzi)
 date: 2020-12-08T22:50:55
-categories: []
+categories: [dialoghi]
 tags: [dialoghi, alchimia, STEAM, regalo]
 ---
 

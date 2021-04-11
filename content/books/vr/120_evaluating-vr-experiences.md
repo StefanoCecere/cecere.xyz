@@ -1,0 +1,40 @@
+---
+title: 12. Evaluating VR Systems and Experiences
+
+linktitle: ''
+summary: ''
+slug: evaluating-vr-experiences
+date: 2018-02-25T00:00:00Z
+lastmod: 2018-09-09T00:00:00
+type: book
+weight: 23
+categories: [book]
+tags: [vr]
+---
+Which headset is better? Which VR experience is more comfortable over a long period of time? How much field of view is enough? What is the most appropriate interaction mechanism? Engineers and developers want to know the answers to these kinds of questions; however, it should be clear at this point that these are difficult to answer because of the way that human physiology and perception operate and interact with engineered systems. By contrast, pure engineering questions, such as \`\`What is the estimated battery life?'' or \`\`What is the vehicle's top speed on level ground?'', are much more approachable.
+
+Recall the definition of VR from Section [1.1](http://lavalle.pl/vr/node385.htmlnode3.html#sec:what), which involves an _organism_. When VR is applied by scientists to study the neural structures and perception of a rat, there is a clear separation between the rat and the scientist. However, in the case of VR for humans, the developer frequently tries out his own creations. In this case, the developer alternates between the role of scientist and rat. This introduces numerous problems, especially if the developer is naive about perceptual issues.
+
+Further complicating matters is adaptation, which occurs on all scales. For example, a person evaluating a VR experience many times over several weeks may initially find it uncomfortable, but later become accustomed to it. Of course this does not imply that its likelihood of making a fresh user sick is lower. There is also great variation across people. Any one person, including the developer, provides just one data point. People who are immune to sickness from vection will have no trouble developing such systems and inflicting them upon others.
+
+Another factor is that most people who create systems are biased toward liking what they create. Furthermore, as discussed in Section [8.4](http://lavalle.pl/vr/node385.htmlnode264.html#sec:vection), just having the knowledge of what the experience represents can effect vection. These issues fall under the general heading of _human factors_, which has been studied for decades. One closely related area is _human-computer interaction_ (_HCI_), which uses the methods discussed in this section. However, since VR works by disrupting the low-level operation of sensory systems that we have trusted for our entire lives, the level of complications from the lowest-level side effects to the highest-level cognitive effects seems unprecedented.
+
+Opportunities for failure exist at all levels, from hardware, to low-level software, to content creation engines. As hardware and low-level software rapidly improve, the burden is shifting more to developers of software engines and VR experiences. This chapter presents several topics that may aid engineers and developers in their quest to build better VR systems and experiences. Section [12.1](http://lavalle.pl/vr/node385.htmlnode386.html#sec:training) introduces methods for guiding them to improve their discriminatory power. Rather than adapting to become oblivious to a problem, a developer could train herself to become more sensitive to problems. Section [12.2](http://lavalle.pl/vr/node385.htmlnode395.html#sec:best) applies the fundamentals from this book to provide simple advice for VR developers. Section [12.3](http://lavalle.pl/vr/node385.htmlnode403.html#sec:sickness) covers VR sickness, including the main symptoms and causes, so that VR systems and experiences may be improved. Section [12.4](http://lavalle.pl/vr/node385.htmlnode420.html#sec:experiments) introduces general methods for designing experiments that involve human subjects, and includes some specific methods from psychophysics. All of the concepts from this chapter should be used to gain critical feedback and avoid pitfalls in an iterative VR development process.
+
+## Examples of perceptual learning
+In everyday life we encounter many examples of perceptual learning, for each of the senses. Regarding vision, doctors and medical technicians are trained to extract relevant information from images that appear to be a confusing jumble to the untrained eye. A cancer specialist can spot tumors in CT and MRI scans. An obstetrician can effortlessly determine, from a hand-held ultrasound scanner, whether structures in a fetus are developing normally. Regarding hearing, musicians learn to distinguish and classify various musical notes after extensive practice. Audiophiles learn to notice particular flaws in music reproduction due to recording, compression, speaker, and room-acoustic issues. Regarding taste and smell, a sommelier learns to distinguish subtle differences between wines. Regarding touch, the blind learn to read Braille, which is expressed as tiny patterns of raised dots that are felt with fingertips. All of these examples seem impossible to a newcomer, to the point that it would seem we do not even have the neural hardware for accomplishing it. Nevertheless, through established perceptual training programs and/or repeated practice, people can acquire surprisingly powerful perceptual abilities. Why not do the same for evaluating VR? 
+
+## Perceptual learning factors and mechanisms
+
+What happens to human perceptual systems when these forms of learning occur? One important factor is _neuroplasticity_, which enables human brains to develop specialized neural structures as an adaptation to environmental stimuli. Although this is much stronger with small children, as exhibited in the case of native language learning, neuroplasticity remains through adults lives; the amount may highly vary across individuals.
+
+Another factor is the way in which the learning occurs. Adaptations might occur from casual observation or targeted strategies that focus on the stimulus. The time and repetition involved for the learning to take place might vary greatly, depending on the task, performance requirements, stimuli, and person. Furthermore, the person might be given _supervised training_, in which feedback is directly provided as she attempts to improve her performance. Alternatively, _unsupervised training_ may occur, in which the trainer has placed sufficient stimuli in the learner's environment, but does not interfere with the learning process.
+
+Four basic mechanisms have been developed to explain perceptual learning \[[99](http://lavalle.pl/vr/node388.htmlnode465.html#Gol98)\]:
+
+1.  **Attentional weighting:** The amount of attention paid to features that are relevant to the task is increased, while decreasing attention to others.
+2.  **Stimulus imprinting:** Specialized receptors are developed that identify part or all of the relevant stimuli. These could be neurological structures or abstract processes that function as such.
+3.  **Differentiation:** Differing stimuli that were once fused together perceptually become separated. Subtle differences appear to be amplified.
+4.  **Unitization:** This process combines or compresses many different stimuli into a single response. This is in contrast to differentiation and becomes useful for classifications in which the differences within a unit become irrelevant.
+
+The remainder of this section offers examples and useful suggestions in the context of VR. The field is far from having standard perceptual training programs that resemble medical image or musical training. Instead, we offer suggestions on how to move and where to focus attention while trying to spot errors in a VR experience. This requires the human to remain aware of the interference caused by artificial stimuli, which goes against the stated definition of VR from Section [1.1](http://lavalle.pl/vr/node388.htmlnode3.html#sec:what).

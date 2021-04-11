@@ -1,12 +1,10 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Le Quattro Stagioni di Vivaldi"
 subtitle: ""
 summary: ""
 authors: []
-tags: ["risveglioMusicale"]
-categories: []
+tags: [risveglioMusicale, musica]
+categories: [blog]
 date: 2020-03-31T17:43:49+02:00
 lastmod: 2020-03-31T17:43:49+02:00
 featured: false

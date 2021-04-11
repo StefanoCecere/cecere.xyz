@@ -1,7 +1,7 @@
 ---
 title: Santa Semplicità
 date: 2021-01-18T22:50:55
-categories: []
+categories: [dialoghi]
 tags: [dialoghi, complottisti]
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: Pianamente
 summary: improvvisazioni al pianoforte
-tags: [music, my, my-m]
+categories: [creation]
+tags: [music]
+featured: true
 date: "2008-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

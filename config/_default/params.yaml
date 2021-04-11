@@ -86,7 +86,8 @@ edit_page:
 show_related:
   book: true
   page: false
-  blog: true
+  post: true
+  played: true
   project: true
   publication: false
   event: true

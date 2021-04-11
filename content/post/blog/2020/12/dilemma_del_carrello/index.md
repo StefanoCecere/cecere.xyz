@@ -1,10 +1,16 @@
 ---
-title: Filosofia
+title: il vero dilemma del carrello
 date: 2020-12-04T22:50:55
-categories: []
-tags: [filosofia]
+categories: [blog]
+tags: [filosofia,economia,etica,politica,AI]
 ---
 
-"A rigore la filosofia è nostalgia, il desiderio di trovarsi dappertutto come a casa propria."
+lo conoscete tutti vero questo "dilemma" etico?
+è un quesito di filosofia etica inventato 50 anni fa, ed è oggi sempre più citato in ambito Intelligenza Artificiale e macchine a guida autonoma:
+"un tram si rompe e se prosegue la sua strada uccide 5 persone,
+c'è solo la possibilità di cambiare il suo percorso dove ne ucciderebbe una sola.
+cosa scegli di fare?"
 
-ricordo come ieri il giorno in cui leggendo i Frammenti di Novalis rimasi folgorato da questa frase. credo sia stata una delle frasi che più mi hanno segnato e guidato.
+beh.. ora possiamo capire tutti la versione economica contemporanea 😉
+
+{{< figure src="dilemma-carrello.jpg" alt="dilemma del carrello classico" >}}

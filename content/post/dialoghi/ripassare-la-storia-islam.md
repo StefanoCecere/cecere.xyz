@@ -5,8 +5,8 @@ title: "Ripassare La Storia Islam"
 subtitle: ""
 summary: ""
 authors: []
-tags: ["storia"]
-categories: []
+tags: [storia,educazione]
+categories: [dialoghi]
 date: 2020-01-21T10:13:59+01:00
 lastmod: 2020-01-21T10:13:59+01:00
 featured: false

@@ -1,8 +1,8 @@
 ---
 title: Filosofia
 date: 2020-12-04T22:50:55
-categories: []
-tags: [filosofia]
+categories: [blog]
+tags: [filosofia, novalis]
 ---
 
 "A rigore la filosofia è nostalgia, il desiderio di trovarsi dappertutto come a casa propria."

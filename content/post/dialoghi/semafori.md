@@ -1,7 +1,7 @@
 ---
 title: Semafori
 date: 2021-01-15T22:50:55
-categories: []
+categories: [dialoghi]
 tags: [dialoghi,tecnologia]
 ---
 

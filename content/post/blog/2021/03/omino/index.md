@@ -3,7 +3,7 @@ title: "Omino"
 slug:
 subtitle: ""
 summary: ""
-tags: [psicofisica]
+tags: [psicofisica,bruno]
 categories: [blog]
 date: 2021-03-31T00:27:51+02:00
 lastmod: 2021-03-31T00:27:51+02:00
