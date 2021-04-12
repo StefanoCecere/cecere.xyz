@@ -2,7 +2,6 @@ public/
 resources/
 drafts/
 _local/
-.vscode
 .Ulysses-Group.plist
 content/.obsidian
 assets/jsconfig.json
