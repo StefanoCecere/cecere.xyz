@@ -1,30 +1,17 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Ripassare La Storia Islam"
-subtitle: ""
-summary: ""
-authors: []
-tags: [storia,educazione]
-categories: [dialoghi]
-date: 2020-01-21T10:13:59+01:00
-lastmod: 2020-01-21T10:13:59+01:00
+title: Ripassare La Storia Islam
+slug: ripassare-la-storia-islam
+subtitle: ''
+summary: ''
+tags:
+  - storia
+  - educazione
+categories:
+  - dialoghi
+date: 2020-01-21T09:13:59.000Z
+lastmod: 2021-04-11T11:58:49
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 ---
 
@@ -80,5 +67,3 @@ projects: []
 - c'è la guerra?
 - città simbolo di culture millenario.. tutte le nostre civiltà sono passate da lì... come l'Iran, l'Iraq.. e oggi vengono trattate come polveriere nel deserto. dai direi che l'inizio dell'Islam lo hai studiato abbastanza bene. guardiamoci un documentario dello storico Barbero giusto per avere qualche immagine da ricordare ok?
 - ok
-
-#ripasso #storia

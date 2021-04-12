@@ -1,8 +1,14 @@
 ---
 title: Alchimisti (con regalo per i ragazzi)
-date: 2020-12-08T22:50:55
-categories: [dialoghi]
-tags: [dialoghi, alchimia, STEAM, regalo]
+date: 2020-12-08T22:50:55.000Z
+categories:
+    - dialoghi
+tags:
+    - alchimia
+    - regalo
+    - STEAM
+slug: alchimisti-con-regalo-ragazzi
+draft: false
 ---
 
 - papà... non riesco a dormire

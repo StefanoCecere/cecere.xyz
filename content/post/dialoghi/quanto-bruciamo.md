@@ -1,16 +1,19 @@
 ---
-title: "Quanto Bruciamo"
-subtitle: ""
-summary: ""
+title: Quanto Bruciamo
+slug: quanto-bruciamo
+subtitle: ''
+summary: ''
 authors: []
-tags: []
-categories: [dialoghi]
-date: 2019-12-31T20:10:33+01:00
+tags:
+  - ambiente
+categories:
+  - dialoghi
+date: 2019-12-31T19:10:33.000Z
 featured: false
 draft: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
 projects: []
 ---
@@ -32,3 +35,4 @@ projects: []
 - la Regina Entropia. l'unica che ci sopravviverà tutti
 - cosa è l'Entropia?
 - ne riparliamo l'anno prossimo, ovvero appena finito di bruciare questi 10 euro!
+
