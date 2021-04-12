@@ -29,7 +29,7 @@ main:
     url: '/projects'
     weight: 45
   - name: Chi sono
-    url: '/stefano'
+    url: '/about'
     weight: 90
   - name: Contatto
     url: '/contact'
