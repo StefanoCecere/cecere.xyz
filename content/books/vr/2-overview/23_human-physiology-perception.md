@@ -30,14 +30,14 @@ The perceptual side of VR often attracts far too little attention among develope
 
 ## Optical illusions
 
-![](img/img145.gif)
+![](../img/img145.gif)
 
 **Figure 2.16:** Optical illusions present an unusual stimulus that highlights limitations of our vision system. (a) The _Ponzo illusion_ causes the upper line segment to appear larger than the lower one, even though they are the same length. (b) The _checker shadow illusion_ causes the B tile to appear lighter than the A tile, even though they are the exactly the same shade of gray (figure by Adrian Pingstone).
 
 
 One of the most popular ways to appreciate the complexity of our perceptual processing is to view optical illusions. These yield surprising results and are completely unobtrusive. Each one is designed to reveal some shortcoming of our visual system by providing a stimulus that is not quite consistent with ordinary stimuli in our everyday lives. Figure 2.16 shows two. These should motivate you to appreciate the amount of work that our sense organs and neural structures are doing to fill in missing details and make interpretations based on the context of our life experiences and existing biological structures. Interfering with these without understanding them is not wise!
 
-![](img/img146.gif)
+![](../img/img146.gif)
 **Figure 2.17:** A classification of the human body senses.
 
 ## Classification of senses
@@ -52,14 +52,14 @@ Perception happens after the sense organs convert the stimuli into neural impuls
 
 Only mammals have a cerebral cortex. The cerebral cortex of a rat has around 20 million neurons. Cats and dogs are at 300 and 160 million, respectively. A gorilla has around 4 billion. A type of dolphin called the long-finned pilot whale has an estimated 37 billion neurons in its cerebral cortex, making it roughly twice as many as in the human cerebral cortex; however, scientists claim this does not imply superior cognitive abilities \[[224](http://lavalle.pl/vr/node52.htmlnode465.html#MorPakDamDieSonMikEri14),[277](http://lavalle.pl/vr/node52.htmlnode465.html#RotDic05)\].
 
-![](img/img147.gif)
+![](../img/img147.gif)
 **Figure 2.18:** A typical neuron receives signals through dendrites, which interface to other neurons. It outputs a signal to other neurons through axons.
 
 Another important factor in perception and overall cognitive ability is the interconnection between neurons. Imagine an enormous directed graph, with the usual nodes and directed edges. The nucleus or cell body of each neuron is a node that does some kind of \`\`processing''. Figure [2.18](http://lavalle.pl/vr/node52.html#fig:neuron) shows a neuron. The _dendrites_ are essentially input edges to the neuron, whereas the _axons_ are output edges. Through a network of dendrites, the neuron can aggregate information from numerous other neurons, which themselves may have aggregated information from others. The result is sent to one or more neurons through the axon. For a connected axon-dendrite pair, communication occurs in a gap called the _synapse_, where electrical or chemical signals are passed along. Each neuron in the human brain has on average about 7000 synaptic connections to other neurons, which results in about ![$ 10^{15}$](http://lavalle.pl/vr/node52.htmlimg148.gif) edges in our enormous brain graph!
 
 ## Hierarchical processing
 
-![](img/img149.gif)  
+![](../img/img149.gif)  
 **Figure 2.19:** The stimulus captured by receptors works its way through a hierarchical network of neurons. In the early stages, signals are combined from multiple receptors and propagated upward. At later stages, information flows bidirectionally.
 
 Upon leaving the sense-organ receptors, signals propagate among the neurons to eventually reach the cerebral cortex. Along the way, _hierarchical processing_ is performed; see Figure [2.19](http://lavalle.pl/vr/node53.html#fig:hierarchical). Through selectivity, each receptor responds to a narrow range of stimuli, across time, space, frequency, and so on. After passing through several neurons, signals from numerous receptors are simultaneously taken into account. This allows increasingly complex patterns to be detected in the stimulus. In the case of vision, feature detectors appear in the early hierarchical stages, enabling us to detect features such as edges, corners, and motion. Once in the cerebral cortex, the signals from sensors are combined with anything else from our life experiences that may become relevant for making an interpretation of the stimuli. Various _perceptual phenomena_ occur, such as recognizing a face or identifying a song. Information or concepts that appear in the cerebral cortex tend to represent a global picture of the world around us. Surprisingly, _topographic mapping_ methods reveal that spatial relationships among receptors are maintained in some cases among the distribution of neurons. Also, recall from Section [1.1](http://lavalle.pl/vr/node53.htmlnode3.html#sec:what) that place cells and grid cells encode spatial maps of familiar environments.
@@ -72,7 +72,7 @@ In addition to information from senses and memory, we also use _proprioception_,
 
 Signals from multiple senses and proprioception are being processed and combined with our experiences by our neural structures throughout our lives. In ordinary life, without VR or drugs, our brains interpret these combinations of inputs in coherent, consistent, and familiar ways. Any attempt to interfere with these operations is likely to cause a mismatch among the data from our senses. The brain may react in a variety of ways. It could be the case that we are not consciously aware of the conflict, but we may become fatigued or develop a headache. Even worse, we could develop symptoms of dizziness or nausea. In other cases, the brain might react by making us so consciously aware of the conflict that we immediately understand that the experience is artificial. This would correspond to a case in which the VR experience is failing to convince people that they are present in a virtual world. To make an effective and comfortable VR experience, trials with human subjects are essential to understand how the brain reacts. It is practically impossible to predict what would happen in an unknown scenario, unless it is almost identical to other well-studied scenarios.
 
-![](img/img150.gif)
+![](../img/img150.gif)
 
 **Figure 2.20:** A virtual swinging experience was made by spinning the surrounding room instead of the swing. This is known as the _haunted swing illusion_. People who tried it were entertained, but they became nauseated from an extreme version of vection. (Compiled and edited by Albert A. Hopkins, Munn & Co., Publishers, scanned by Alistair Gentry from "Magic Stage Illusions and Scientific Diversions, Including Trick Photography", 1898.)
 
