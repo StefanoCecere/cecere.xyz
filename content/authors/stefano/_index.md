@@ -103,11 +103,11 @@ Questo sito è molto ampio, ecco le sezioni principali:
     la guida al giocare bene, imparare insieme
     <h3><a href="/jamurr">Jamurr</a></h3>
     giochi creati dai ragazzi in jam con i genitori
-    <h3><a href="/stefano/whoami/">Mi presento</a></h3>
+    <h3><a href="/about">Mi presento</a></h3>
     chi sono? dove vado? perché?
 </div>
 <div class="col-md">
-    <h3><a href="/stefano/consulente/">Consulenze</a></h3>
+    <h3><a href="/about/consulente/">Consulenze</a></h3>
     per validi progetti commerciali
     <h3><a href="https://t.me/scecere">Telegram</a></h3>
     il mio canale per aggiornamenti
