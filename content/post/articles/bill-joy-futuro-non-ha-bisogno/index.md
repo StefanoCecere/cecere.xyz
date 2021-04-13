@@ -2,7 +2,7 @@
 title: "Perchè il futuro non ha bisogno di noi"
 slug: bill-joy-il-futuro-non-bisogno-di-noi
 subtitle: "Le nostre più potenti tecnologie del 21' secolo - scienze robotiche, ingegneria genetica e nanotecnologia - minacciano di far degli umani una specie a rischio"
-summary: "Le nostre più potenti tecnologie del 21' secolo - scienze robotiche, ingegneria genetica e nanotecnologia - minacciano di far degli umani una specie a rischio"
+summary: "Aprile 2000. Bill Joy pubblica questo articolo su Wired: le nostre più potenti tecnologie del 21' secolo - scienze robotiche, ingegneria genetica e nanotecnologia - minacciano di far degli umani una specie a rischio. "
 tags: [tech, AI, ideas, Kurzweil, futuro, 2042]
 categories: [article]
 date: 2000-04-21
@@ -14,9 +14,8 @@ image:
   focal_point: ""
   preview_only: false
 ---
-> Questo articolo di aprile 2000 su Wired mi ha cambiato molto l'immaginazione del futuro e mi ha convinto a preoccuparmi delle tecnologie digitali d'avanguardia.
-
-![](https://m.cece.re/blog/2000/04/wired-2000-bill-joy.jpg)
+> Questo articolo "Why the Future Doesn't Need Us" pubblicato da Bill Joy su [Wired di aprile 2000](https://www.wired.com/2000/04/joy-2/) è un momento importante di riflessione sul futuro delle delle tecnologie digitali d'avanguardia in relazione all'esistenza umana. Lo riporto qui integralmente.  
+> Bill Joy è cofondatore e caposcienziato di Sun Microsystems, dirigente della commissione presidenziale sul futuro della ricerca IT.
 
 Dal momento che sono stato coinvolto nella creazione di nuove tecnologie, la loro dimensione etica mi ha preoccupato, ma è stato solamente nell'autunno del 1998 che sono diventato ansiosamente consapevole di quanto grandi siano i pericoli che ci si propongono nel 21' secolo. Posso dar inizio del mio sconforto al giorno in cui ho incontrato Ray Kurzweil, il meritatamente famoso inventore della prima macchina per leggere, per ciechi, ed altre cose stupefacenti.  
 Ray ed io eravamo entrambi oratori alla conferenza George Gilder's Telecosm, e lo incontrai per caso nel bar dell'hotel dopo che le nostre sessioni erano finite. Ero seduto con John Searle, un filosofo dell'Università di Berkley che studia la percezione. Mentre parlavamo, Ray si avvicino e incomincio la conversazione, il soggetto , quello che a tutt'oggi mi perseguita.
