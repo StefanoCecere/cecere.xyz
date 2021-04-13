@@ -1,7 +1,7 @@
 ---
 title: Stefano Cecere
 superuser: true
-role: R&D in Learning Games, Digital Technology, Future Education and Humanist Philosophy for Social Innovation.
+role: Autore, Educatore, Sviluppatore, Papà umanista digitale.
 # Game Based Learning R&D, Educator, Musician
 # Humanist AI+XR+EdTech+Video Games, Educator and Author
 
@@ -11,7 +11,7 @@ role: R&D in Learning Games, Digital Technology, Future Education and Humanist P
 #  url: https://site.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Tecnologie Digitali, Creatività e Filosofia Umanista per sopravvivere _tutti_ al 2042. Senza troppe aspettative ma almeno mi diverto nel tentativo :)
+bio: Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Tecnologie Digitali, Creatività, Filosofia e attivismo Umanista per una Politica 2042. Senza troppe aspettative ma almeno mi diverto nel tentativo :) ah e papà 2x
 
 #interests:
 #- Giochi, Tecnologia e Filosofia

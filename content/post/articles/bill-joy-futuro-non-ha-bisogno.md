@@ -5,7 +5,7 @@ subtitle: "Le nostre più potenti tecnologie del 21' secolo - scienze robotiche,
 summary: "Le nostre più potenti tecnologie del 21' secolo - scienze robotiche, ingegneria genetica e nanotecnologia - minacciano di far degli umani una specie a rischio"
 tags: [tech, AI, ideas, Kurzweil, futuro, 2042]
 categories: [article]
-date: 2000-04-01
+date: 2000-04-21
 featured: false
 draft: false
 toc: true
