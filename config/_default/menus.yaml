@@ -28,6 +28,9 @@ main:
   - name: Progetti
     url: '/projects'
     weight: 45
+  - name: Studio
+    url: '/studio'
+    weight: 80
   - name: Chi sono
     url: '/about'
     weight: 90
