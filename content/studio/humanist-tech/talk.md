@@ -10,6 +10,9 @@ weight: 1
 toc: true
 ---
 
+ecco la presentazione del 17 aprile 2021:
+{{< youtube C9UvZYSwkTs >}}
+
 Negli ultimi anni si sente parlare sempre più spesso di umanesimo non solo in economia, in politica, in ecologia, ma anche nel mondo della tecnologia: umanesimo digitale, digital humanities, *Human Centered Design*, filosofia ed etica umaniste, soprattutto nelle avanguardie informatiche: intelligenza artificiale e realtà virtuale.  
 Non tratterò tanto i numerosi benefici o i temuti pericoli, che rimando ad altri momenti o ai materiali dei miei corsi, quanto vorrei fare alcune considerazioni che mi hanno particolarmente colpito da un punto di vista umanista, ovvero dalla mia preoccupazione e interesse per l’essere umano come valore centrale, attore e autore del mondo in cui viviamo, a cui garantita e migliorata la libertà e la capacità di scelta, riconoscendone le diversità personali all’interno di un sistema umano planetario.
 
