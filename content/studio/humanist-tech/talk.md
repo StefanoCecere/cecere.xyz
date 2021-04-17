@@ -1,11 +1,10 @@
 ---
 title: "Umanesimo, Videogiochi, Intelligenza Artificiale e Realtà Virtuale"
-slug: book
-linktitle: Book
+slug: talk
+linktitle: Presentazione
 # Page summary for search engines.
 summary: "Le avanguardie nella ricerca e sviluppo nei campi dell'AI e della XR sono sempre più interconnesse con la fisiologia e la psicologia umana e con questioni filosofiche che richiedono un approccio interdisciplinare e scelte etiche, in vista di un'imminente diffusione massiva e popolare di queste tecnologie. Gli sviluppatori di videogiochi potrebbero essere i prossimi a dover rispettare un giuramento di Ippocrate?"
 date: 2017-09-09T00:00:00
-lastmod: 2021-04-08T00:00:00
 type: book
 weight: 1
 toc: true
