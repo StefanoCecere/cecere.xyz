@@ -28,7 +28,7 @@ featured: false
 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "/studio/humanist-tech/"
 url_video: ""
 
 # Markdown Slides (optional).

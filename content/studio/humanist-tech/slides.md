@@ -17,109 +17,132 @@ Stefano Cecere
 
 ---
 
-##### Videogiochi
+![](../img/chi_sono.jpg)
+
+[stefano.cecere.org/about](https://stefano.cecere.org/about/)
+
+---
+
+### Videogiochi
 1. medium del nuovo millennio
 2. medium "umanista"
 3. sviluppare: AI e VR
 
 ---
 
-##### Il circuito
-
-{{< figure src="../img/diagram_circuit_vg.png" >}}
+##### circuito 
+![](../img/vg-circuit.png)
 
 ---
 
 ##### Multiplayer
+![](../img/vg-multiplayer.jpg)
 
 ---
 
 ##### Non solo entertainment
+![](../img/2030_goals.jpg)
 
 ---
 
 ##### Un medium umano-centrico
+![](../img/humanist_player.jpg)
 
 ---
 
 ##### Intelligenza Artificiale
-{{< figure src="img/ai-brain.png" width="50%" height="50%" >}}
+{{< rawhtml >}}
+<img width="450" src="../img/ai-brain.png">
+{{< /rawhtml >}}
 
 ---
 
 ##### Machine Learning
-![](img/comic-ml.jpg)
+![](../img/comic-ml.jpg)
 
 ---
 
-Supervised Learning
-![](img/ml-supervised.jpg)
+##### Supervised Learning
+![](../img/ml-supervised.jpg)
 
 ---
 
-Reinforced Learning
-![](img/ml-reinforced.jpg)
+![](../img/comic-captcha.jpg)
+
+---
+
+##### Reinforced Learning
+![](../img/ml-reinforced.jpg)
 
 ---
 
 #### Imitation Learning
-![](img/ml-imitation.png)
+![](../img/ml-imitation.png)
 
 ---
 
 ### Umanizzazione digitale
-![](img/uncanny-valley.jpeg)
-
+![](../img/uncanny-valley.jpg)
 
 ---
 
 ### Dati, opinioni e comportamento
+![](../img/data-opinions.jpg)
 
 ---
 
 ### Illusioni e creatività
+![](../img/deep-fakes.jpg)
 
 ---
 
 ### Etica ed essere umani
+![](../img/ai-dilemma-tram.jpg)
+
+---
+
+### Etica ed essere umani
+![](../img/human-vs-machine.jpg)
 
 ---
 
 ## Realtà Virtuale
 
-![](img/vr_brain.jpg)
+![](../img/vr.jpg)
 
-|Sense|Stimulus|Receptor|Sense Organ|
-|---|---|---|---|
-|Vision|Electromagnetic energy|Photoreceptors|Eye|
-|Auditory|Air pressure waves|Mechanoreceptors|Ear|
-|Touch|Tissue distortion|Mechanoreceptors, Thermoreceptors|Skin, muscles|
-|Balance|Gravity, acceleration|Mechanoreceptors| Vestibular organs
-|Taste/Smell|Chemical composition|Chemoreceptors|Mouth, Nose|
+---
+
+![](../img/vr_brain.jpg)
 
 ---
 
 ### Empatia
+![](../img/vr-empathy.jpg)
 
 ---
 
 ## VR sociale
+![](../img/vr-social.jpg)
 
 ---
 
 ### Realtà Aumentata
-![](img/xr.png)
-
+![](../img/xr.png)
 
 ---
 
 ### Connessioni neurali e reale/irreale
+![](../img/neuralink.jpg)
 
 ---
 
-## Il game designer
+#### Il game designer
+![](../img/game-design.jpg)
 
 ---
 
-grazie
-https://stefano.cecere.org
+#### grazie per l'attenzione
+
+newsletter settimanale o canale Telegram quotidiano:
+
+[stefano.cecere.org/contact](https://stefano.cecere.org/contact/)
