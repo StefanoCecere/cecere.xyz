@@ -4,6 +4,7 @@ headless: true
 weight: 30
 title: Per game designers
 subtitle:
+active: false
 
 content:
   # Page type to display. E.g. post, talk, publication...

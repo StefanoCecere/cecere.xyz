@@ -2,7 +2,7 @@
 title: Kids - Laboratorio Librogame
 summary: come creare un videogioco su... carta!
 authors: []
-tags: [edu, course, "KidsMakeGames", workshop, "librogame", "kids"]
+tags: [edu-kids, edu, course, "KidsMakeGames", workshop, "librogame", "kids"]
 categories: [course]
 date: 2019-06-18
 

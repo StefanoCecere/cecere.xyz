@@ -9,6 +9,6 @@ design:
   columns: 1
 ---
 
-_NB: PAGINA IN COSTRUZIONE_  
-Amo imparare, ma forse ancora di più imparare ad imparare.  
-In ogni caso questi sono i corsi e i laboratori che ho creato e che tengo, online e offline.
+Amo imparare, ma forse ancora di più imparare ad imparare e condividere.  
+
+Le dispense dei miei corsi sono pubbliche, contattatemi se volete che vi organizzi un corso, personalizzato, online o offline.
