@@ -1,7 +1,4 @@
 ---
-aktt_notify_twitter:
-- true
-author: Stefano Cecere
 categories:
 - Politica
 date: 2009-06-05T17:29:06Z

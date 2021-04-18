@@ -1,7 +1,4 @@
 ---
-aktt_notify_twitter:
-- true
-author: Stefano Cecere
 categories:
 - JJ
 date: 2009-12-10T02:46:57Z

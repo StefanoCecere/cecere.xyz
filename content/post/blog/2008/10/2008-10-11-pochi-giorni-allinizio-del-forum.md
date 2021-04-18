@@ -1,7 +1,4 @@
 ---
-aktt_notify_twitter:
-- true
-author: Stefano Cecere
 categories:
 - Buone Nuove
 date: 2008-10-11T12:10:44Z
@@ -12,11 +9,11 @@ tags:
 - Milano
 - nonviolenza
 - programma
-title: pochi giorni all’inizio del Forum
+title: pochi giorni all’inizio del Forum Umanista Europeo
 slug: /2008/10/pochi-giorni-allinizio-del-forum/
 ---
 
-<span style="text-decoration: underline"><em>Comunicato stampa</em></span>
+_Comunicato stampa_
 
 <div>
   <img title="logoforum.jpg" src="http://www.pressenza.org/site/images/stories/FORUM_MILANO/logoforum.jpg" alt="logoforum.jpg" width="400" height="128" /> <br /> <strong><br /> <span style="color: #ff6600"><br /> Milano 17.18.19 ottobre 2008 Forum Umanista Europeo</span></strong>
@@ -24,49 +21,44 @@ slug: /2008/10/pochi-giorni-allinizio-del-forum/
 
 ![spot_2.jpg](http://www.pressenza.org/site/images/stories/FORUM_MILANO/spot_2.jpg "spot_2.jpg")
 
-<div>
-  <span style="color: #ff6600"><strong><span>Giorgio Schultze Portavoce del Nuovo Umanesimo, Anna Falchi, Dario Fo, </span><span>Francesco Sarcina delle Vibrazioni, Ascanio Celestini, Luisa Morgantini (vicepresidente del Parlamento Europeo), Dario Vergassola, Vladimir Luxuria, </span><span>sono i testimonial della Nonviolenza nello spot per il Forum Umanista Europeo.</span></strong></span>
-</div>
+Giorgio Schultze (Portavoce del Nuovo Umanesimo), Anna Falchi, Dario Fo, Francesco Sarcina delle Vibrazioni, Ascanio Celestini, Luisa Morgantini (vicepresidente del Parlamento Europeo), Dario Vergassola, Vladimir Luxuria,sono i testimonial della Nonviolenza nello spot per il Forum Umanista Europeo.
 
-<div>
-  <strong><span><span style="color: #ff6600"><em><br /> Aderiscono oltre ai testimonial dello spot:</em></span><br /> Noam Chomsky, Lella Costa, Gianluca Pessotto, David Riondino, Roberto Vecchioni Paolo Virzì.</span></strong>
-</div>
+Aderiscono oltre ai testimonial dello spot: Noam Chomsky, Lella Costa, Gianluca Pessotto, David Riondino, Roberto Vecchioni Paolo Virzì.
 
-<div>
-  <strong><a href="http://it.youtube.com/watch?v=pNqY0g__c9o" target="_self"><br /> Link per vedere lo spot su youtube</a>Venerdì 17, alle 13.30 prima dell'apertura del Forum al Palalido in Piazza Stuparich: incontro con la stampa, rinfresco e spazio interviste.  </p> 
-  
-  <p>
-    </strong> </div> 
-    
-    <div>
-      Tre giorni di conferenze, tavole rotonde, dibattiti, laboratori, testimonianze e spettacoli, esposizioni di artisti vari. 10.000 partecipanti previsti da tutta Europa. Centinaia di associazioni e persone impegnate nel mondo del pacifismo e del volontariato che lavoreranno per la costruzione di un'Europa aperta al futuro, ricca nelle sue diversità, accogliente nelle istituzioni, nonviolenta e solidale.
-    </div>
-    
-    <div>
-      <em><span style="color: #ff6600"><strong> Orari d'apertura:</strong></span></em>Venerdì 17 Palalido, Piazza Stuparich: 15.30 - 24.00<br /> Sabato 18 Università Bicocca, Piazza dell'Ateneo Nuovo: 11.00 - 19.00<br /> Palalido, Piazza Stuparich: 19.30 - 24.00
-    </div>
-    
-    <div>
-      Domenica 19 Palalido, Piazza Stuparich: 14.30 - 19.00
-    </div>
-    
-    <div>
-      <p>
-        <a href="http://www.humanistforum.eu/" target="_blank"> www.humanistforum.eu<br /> </a></div> 
-        
-        <p>
-          <span style="color: #333333"><span style="color: #ff6600"><span style="color: #ff6600"><em><strong><br /> Alcuni appuntamenti del programma:</strong></em></span></span><br /> </span>
-        </p>
-        
-        <ul>
-          <li>
-            <span>Venerdì 17, alle 18,30 al Palalido<br /> Tavola rotonda: <span style="color: #ff6600"><strong>Fermare la guerra nucleare.</strong> </span><span style="color: #ff6600"><strong>Il ruolo dell'Europa.</strong><br /> </span>Oratori: Giorgio Schultze, Hans Kristensen, Angelo Baracca, Giulietto Chiesa, Pol D'Huyvetter.</span>
-          </li>
-          <li>
-            <span>Venerdì 17, alle 21.30 al Palalido<br /> <strong><span style="color: #ff6600">Fateci uscire! serata in appoggio al Manifesto</span></strong><br /> con la partecipazione del direttore Valentino Parlato.</span>
-          </li>
-          <li>
-            <span>Sabato 18, alle 17.00 alla Bicocca.<br /> Conferenza:<strong> Una soluzione nonviolenta al conflitto Palestina-Israele.<br /> <span style="color: #000000;font-weight: normal">Oratori: Luisa Morgantini, Noam Livne, Monica Czyza, Giorgio Forti, Felicity de Zulueta.</span></strong></span>
+{{< youtube pNqY0g__c9o >}}
+
+Venerdì 17, alle 13.30 prima dell'apertura del Forum al Palalido in Piazza Stuparich: incontro con la stampa, rinfresco e spazio interviste.
+
+---
+
+Tre giorni di conferenze, tavole rotonde, dibattiti, laboratori, testimonianze e spettacoli, esposizioni di artisti vari. 10.000 partecipanti previsti da tutta Europa. Centinaia di associazioni e persone impegnate nel mondo del pacifismo e del volontariato che lavoreranno per la costruzione di un'Europa aperta al futuro, ricca nelle sue diversità, accogliente nelle istituzioni, nonviolenta e solidale.
+
+Orari d'apertura:  
+**Venerdì 17**  
+Palalido, Piazza Stuparich: 15.30 - 24.00 
+
+**Sabato 18**  
+Università Bicocca, Piazza dell'Ateneo Nuovo: 11.00 - 19.00  
+Palalido, Piazza Stuparich: 19.30 - 24.00
+
+**Domenica 19**  
+Palalido, Piazza Stuparich: 14.30 - 19.00
+
+
+[www.humanistforum.eu](https://www.humanistforum.eu)
+
+
+Alcuni appuntamenti del programma:
+
+Venerdì 17, alle 18,30 al Palalido  
+Tavola rotonda: **Fermare la guerra nucleare. Il ruolo dell'Europa.**  
+Oratori: Giorgio Schultze, Hans Kristensen, Angelo Baracca, Giulietto Chiesa, Pol D'Huyvetter.
+
+Venerdì 17, alle 21.30 al Palalido  
+Fateci uscire! serata in appoggio al Manifesto</span></strong><br /> con la partecipazione del direttore Valentino Parlato.
+            
+Sabato 18, alle 17.00 alla Bicocca
+Conferenza:<strong> Una soluzione nonviolenta al conflitto Palestina-Israele.<br /> <span style="color: #000000;font-weight: normal">Oratori: Luisa Morgantini, Noam Livne, Monica Czyza, Giorgio Forti, Felicity de Zulueta.</span></strong></span>
           </li>
           <li>
             <span>Domenica 19 alle 14.30 al Palalido<br /> Conferenza: <span style="color: #ff6600"><strong>Oltre la giustizia, al di la' della vendetta, testimonianze di chi ha trasformato il dolore in impegno sociale e nuova umanità.<br /> </strong></span>Moderatore: Maria Cuffaro. Oratori: Giovanni Impastato, Pina Grassi, Manuela Dviri Vitali Norsa, Giuseppe Santagada, Paolo Bolognesi.<br /> </span>

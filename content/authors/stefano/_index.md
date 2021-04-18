@@ -61,17 +61,21 @@ social:
 - icon: telegram
   icon_pack: fab
   link: https://t.me/scecere
+  label: Seguimi su Telegram
   display:
     header: true
-- icon: discord
-  icon_pack: fab
-  link: https://discord.gg/5y5VcGTjwE
+#- icon: discord
+#  icon_pack: fab
+#  link: https://discord.gg/5y5VcGTjwE
 #- icon: patreon
 #  icon_pack: fab
 #  link: https://patreon.com/stefanocecere
-#- icon: envelope
-#  icon_pack: fas
-#  link: https://cecere.substack.com
+- icon: envelope
+  icon_pack: fas
+  link: https://cecere.substack.com
+  label: Iscriviti alla mia newsletter settimanale
+  display:
+    header: true
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -101,20 +105,20 @@ Questo sito è molto ampio, ecco le sezioni principali:
 {{< rawhtml >}}
 <div class="row">
 <div class="col-md">
+    <h3><a href="/about">Mi presento</a></h3>
+    chi sono? dove vado? perché?
+    <h3><a href="/edu">Corsi e Guide</a></h3>
+    materiali didattici e corsi
+    <h3><a href="/blog">Blog</a></h3>
+    venti anni e mille argomenti
+</div>
+<div class="col-md">
     <h3><a href="/played">PlayED</a></h3>
     la guida al giocare bene, imparare insieme
     <h3><a href="/jamurr">Jamurr</a></h3>
-    giochi creati dai ragazzi in jam con i genitori
-    <h3><a href="/about">Mi presento</a></h3>
-    chi sono? dove vado? perché?
-</div>
-<div class="col-md">
-    <h3><a href="/about/consulente/">Consulenze</a></h3>
-    per validi progetti commerciali
-    <h3><a href="https://t.me/scecere">Telegram</a></h3>
-    il mio canale per aggiornamenti
-    <h3><a href="https://cecere.substack.com/subscribe">Newsletter</a></h3>
-    ogni settimana nella tua email
+    game jam ragazzi e genitori
+    <h3><a href="/projects">Progetti</a></h3>
+    tutti i progetti che ho creato o collaborato
 </div>
 </div>
 {{< /rawhtml >}}

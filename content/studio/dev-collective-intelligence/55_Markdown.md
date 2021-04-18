@@ -44,8 +44,7 @@ And `keywords`.
 
 ### External links
 
-![nome del link](http://www.sito.com)
-
+![nome del link](https://www.sito.com)
 
 [www.google.com](https://www.google.com)  
 [www.google.com with title](https://www.google.com "Google's Homepage")   

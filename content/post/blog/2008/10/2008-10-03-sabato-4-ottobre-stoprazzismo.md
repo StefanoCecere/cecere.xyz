@@ -1,7 +1,4 @@
 ---
-aktt_notify_twitter:
-- true
-author: Stefano Cecere
 categories:
 - Buone Nuove
 date: 2008-10-03T10:52:26Z

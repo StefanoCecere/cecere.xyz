@@ -1,5 +1,6 @@
 ---
 categories: [blog]
+tags: [manifestazione]
 date: 2005-10-14T10:13:56Z
 guid: http://stefanocecere.com/2005/10/14/domani-il-futuro-si-puo-cambiare/
 id: 107
@@ -7,13 +8,14 @@ title: Domani il futuro si può cambiare
 slug: /2005/10/domani-il-futuro-si-puo-cambiare/
 ---
 
-<span style="font-size: 11pt"><strong>SABATO 15 ottobre, tutto il giorno in PIAZZA SAN BABILA A MILANO</strong></span>
+**SABATO 15 ottobre, tutto il giorno in PIAZZA SAN BABILA A MILANO**
   
-<span style="font-size: 11pt"><strong>CAMPAGNA "IL FUTURO SI PUO' CAMBIARE!"<br /> VIA LE TRUPPE DALL'IRAQ, NO ALLE LEGGI SPECIALI</strong></span>
+<strong>CAMPAGNA "IL FUTURO SI PUO' CAMBIARE!"
+VIA LE TRUPPE DALL'IRAQ, NO ALLE LEGGI SPECIALI</strong>
 
-![](http://www.ilfuturosipuocambiare.org/futuro/templates/rhuk_solarflare_ii/images/logofuturo.gif)
+![](https://www.ilfuturosipuocambiare.org/futuro/templates/rhuk_solarflare_ii/images/logofuturo.gif)
 
-<span style="font-size: 11pt">APPELLO: </span> Ottobre 2005&#x2028;Una spirale di violenza in crescita a livello mondiale sta generando un pericolosissimo conflitto tra culture, mentre la disintegrazione delle strutture sociali e delle relazioni umane si accompagna a una profonda crisi di senso nella vita delle persone. La violenza crescente, il disorientamento, l'incertezza sul futuro e la disperazione di migliaia di persone contribuiscono a creare il rischio di un secondo Medioevo mentale, culturale e sociale.
+**APPELLO**: Ottobre 2005 - Una spirale di violenza in crescita a livello mondiale sta generando un pericolosissimo conflitto tra culture, mentre la disintegrazione delle strutture sociali e delle relazioni umane si accompagna a una profonda crisi di senso nella vita delle persone. La violenza crescente, il disorientamento, l'incertezza sul futuro e la disperazione di migliaia di persone contribuiscono a creare il rischio di un secondo Medioevo mentale, culturale e sociale.
 
 Stiamo assistendo all'instaurazione di un vero e proprio nuovo fascismo, che per imporsi utilizza la censura sull'informazione e l'approvazione di leggi speciali. In nome della lotta al terrorismo vengono limitate le libertà fondamentali e i diritti civili di tutti i cittadini e in particolare degli immigrati. In Italia, la malafede del governo e di buona parte dell'opposizione è tale che di fronte alla reale difficoltà dell'integrazione fra diverse culture, invece di facilitare l'incontro e il dialogo, si fomenta una caccia alle streghe che individua in ogni musulmano un nemico da incolpare e contro cui indirizzare le paure e i risentimenti della gente.
 

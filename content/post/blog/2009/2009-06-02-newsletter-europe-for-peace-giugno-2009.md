@@ -1,7 +1,4 @@
 ---
-aktt_notify_twitter:
-- true
-author: Stefano Cecere
 categories:
 - Mondo Senza Guerre
 date: 2009-06-02T17:44:18Z
