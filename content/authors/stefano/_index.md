@@ -39,10 +39,10 @@ bio: Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Tec
 social:
 - icon: facebook
   icon_pack: fab
-  link: https://facebook.com/stefano.cecere.org
+  link: https://facebook.com/StefanoCecere
   label: Seguimi su Facebook
   display:
-    header: false
+    header: true
 #- icon: youtube
 #  icon_pack: fab
 #  link: https://www.youtube.com/channel/UCIJRyBArdrCb1m52coyhUZA
@@ -61,6 +61,8 @@ social:
 - icon: telegram
   icon_pack: fab
   link: https://t.me/scecere
+  display:
+    header: true
 - icon: discord
   icon_pack: fab
   link: https://discord.gg/5y5VcGTjwE
