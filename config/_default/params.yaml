@@ -78,7 +78,7 @@ privacy_pack: true
 edit_page:
   repo_url: 'https://github.com/StefanoCecere/stefanocecere.org'
   content_dir: ''
-  repo_branch: master
+  repo_branch: main
   editable:
     page: false
     post: false
@@ -147,7 +147,7 @@ marketing:
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
-  branch: master
+  branch: main
   local_backend: false
 icon:
   pack:
