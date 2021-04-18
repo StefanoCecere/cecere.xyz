@@ -13,21 +13,29 @@ main:
   - name: Eventi
     url: '/events'
     weight: 30
-  - name: Corsi+Guide
+  - name: Corsi
     url: '/edu'
     weight: 40
+  - name: Progetti
+    url: '#'
+    weight: 50
+    identifier: main
   - name: PlayED
     url: '/played'
-    weight: 60
+    weight: 70
+    parent: main
   - name: "2042+"
     url: '/2042'
-    weight: 70
+    weight: 90
+    parent: main
   - name: Jamurr
     url: '/jamurr'
     weight: 80
-  - name: Progetti
+    parent: main
+  - name: Tutti i progetti
     url: '/projects'
-    weight: 90
+    weight: 60
+    parent: main
   - name: Studio
     url: '/studio'
     weight: 95
