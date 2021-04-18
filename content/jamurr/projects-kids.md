@@ -1,27 +1,20 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
-weight: 30
-
-title: News
+weight: 20
+title: Corsi
 subtitle:
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: post
+  page_type: project
   # Choose how many pages you would like to display (0 = all pages)
-  count: 20
+  count: 10
   # Filter on criteria
   filters:
     author: ""
-    category: "jamurr"
-    tag: ""
+    category: "course"
+    tag: "kids"
     exclude_featured: false
     exclude_future: false
     exclude_past: false
