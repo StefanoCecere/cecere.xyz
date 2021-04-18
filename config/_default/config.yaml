@@ -42,7 +42,7 @@ permalinks:
   played: '/:sections/:slug'
   project: '/project/:slug/'
   tags: '/tag/:slug/'
-  categories: '/category/:slug/'
+  categories: '/c/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: false
 outputs:
