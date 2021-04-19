@@ -1,67 +1,34 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Impatto della tecnologia sull’evoluzione umana"
 event: ''
 event_url: ''
 location: Roma - Centro Studi Umanisti
 summary: ''
 abstract: ''
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
 date: 2014-02-05T21:00:00+02:00
 date_end: 2014-02-05T22:00:00+02:00
 all_day: false
-
-# Schedule page publish date (NOT talk date).
 publishDate: 2019-08-28T23:00:11+02:00
-
 authors: []
 categories: [talk]
 tags: [talk, tecnologia, "2042"]
-
-# Is this a featured talk? (true/false)
 featured: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-# Optional filename of your slides within your talk's folder or a URL.
-url_slides:
-
+url_slides: "https://www.slideshare.net/StefanoCecere/impatto-della-tecnologia-sullevoluzione-umana"
 url_code:
-url_pdf: /event/2014/impatto-della-tecnologia-sullevoluzione-umana/impatto-tecnologia-evoluzione-umana.pdf
+url_pdf:
 url_video:
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 ---
 qualche considerazione per una chiacchiera tra amici
+
+{{< rawhtml >}}
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/qWjDC0beKyMBEr" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/StefanoCecere/impatto-della-tecnologia-sullevoluzione-umana" title="Impatto della tecnologia sull&#x27;evoluzione umana" target="_blank">Impatto della tecnologia sull&#x27;evoluzione umana</a> </strong> from <strong><a href="https://www.slideshare.net/StefanoCecere" target="_blank">Stefano Cecere</a></strong> </div>
+{{< /rawhtml >}}
 
 ## chi sono
 nato Stefano Cecere 40 anni

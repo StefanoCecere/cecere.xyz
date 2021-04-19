@@ -8,13 +8,11 @@ event: "Internet Festival"
 event_url: "http://2017.internetfestival.it/eventi/mozilla-firefox-57-le-nuove-frontiere-del-web-del-gaming-opensource/"
 location: Pisa
 date: 2017-10-06T17:30:00+02:00
-#date_end: 2021-04-03T18:30:00Z
-all_day: true
+date_end: 2017-10-06T18:30:00+02:00
+all_day: false
 publishDate: 2018-03-31T11:45:20+02:00
-
-authors: []
 categories: [talk]
-tags: [talk, opensource,web]
+tags: [talk,opensource,web,mozilla]
 featured: false
 
 url_code: ""

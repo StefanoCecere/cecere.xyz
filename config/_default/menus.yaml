@@ -10,7 +10,7 @@ main:
   - name: Blog
     url: '/post'
     weight: 20
-  - name: Eventi
+  - name: Talks
     url: '/events'
     weight: 30
   - name: Corsi
