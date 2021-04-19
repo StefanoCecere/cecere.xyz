@@ -18,10 +18,11 @@ NB: lavoro solo per progetti o clienti che ritengo etici, e preferibilmente a or
 
 ## comunicazione multimediale
 
-## progetti educativi
+## progetti educativi e formazione
 
-## innovazione tecnologica e soluzioni
+## innovazione tecnologica e soluzioni win-win
 
 ## organizzazione eventi sociali
 
-## formazione
+## usabilità e human centered experience
+
