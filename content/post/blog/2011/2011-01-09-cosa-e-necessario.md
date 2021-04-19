@@ -11,16 +11,8 @@ title: Cosa è necessario
 slug: /2011/01/cosa-e-necessario/
 ---
 
-<div>
-  <p>
-    è necessario andare avanti
-  </p>
-  
-  <p>
-    è necessario imparare a ridere
-  </p>
-  
-  <p>
-    è necessario imparare ad amare.
-  </p>
-</div>
+è necessario andare avanti
+
+è necessario imparare a ridere
+
+è necessario imparare ad amare

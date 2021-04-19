@@ -5,7 +5,7 @@ categories:
 date: 2011-02-04T21:50:09Z
 guid: http://stefanocecere.com/?p=2372
 id: 2372
-title: Le cipolle e l&#039;albero di Natale
+title: "Le cipolle e l'albero di Natale"
 slug: /2011/02/le-cipolle-e-lalbero-di-natale/
 ---
 
