@@ -46,10 +46,10 @@ contact_links:
 #   icon_pack: fab
 #   name: Facebook
 #   link: 'https://www.facebook.com/StefanoCecere'
-  - icon: telegram
-    icon_pack: fab
-    name: Telegram
-    link: 'https://t.me/StefanoCecere'
+#  - icon: telegram
+#    icon_pack: fab
+#    name: Telegram
+#    link: 'https://t.me/StefanoCecere'
 
 # Site header
 
@@ -91,7 +91,7 @@ show_related:
   project: true
   publication: false
   event: true
-reading_time: true
+reading_time: false
 section_pager: true
 docs_section_pager: true
 sharing: true
