@@ -23,7 +23,7 @@ url_code:
 url_pdf:
 url_video: 
 slides: ""
-projects: []
+projects: [edu/kidsgamejam]
 ---
 
 Internet Festival e JAMURR organizzano per la prima volta una Kids Game Jam, una piccola maratona di sviluppo videogame dedicata ai più piccoli. Adulti e bambini si troveranno per creare il prototipo di un videogioco in sole 8 ore.  

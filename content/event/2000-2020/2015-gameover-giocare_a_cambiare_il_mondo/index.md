@@ -22,7 +22,7 @@ url_code:
 url_pdf:
 url_video:
 slides: ""
-projects: []
+projects: [edu/dev-g4c]
 ---
 
 Giocare a cambiare il mondo: l'accelerazione tecnologica e videoludica permetterà anche uno sviluppo sociale etico e nonviolento?

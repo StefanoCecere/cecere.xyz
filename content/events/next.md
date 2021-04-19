@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 1
 
-title: Prossimi eventi
+title: Prossimi
 subtitle:
 
 content:

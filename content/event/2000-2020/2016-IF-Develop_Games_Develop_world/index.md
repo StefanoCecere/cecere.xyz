@@ -22,7 +22,7 @@ url_code:
 url_pdf:
 url_video:
 slides: ""
-projects: []
+projects: [edu/dev-g4c]
 ---
 
 E’ ormai una realtà che si può imparare divertendosi: il cervello è più aperto quando le emozioni lo supportano. E dove non arrivano i libri, gli educatori, i documentari, potrebbe arrivare un videogioco!

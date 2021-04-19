@@ -11,28 +11,16 @@ date: 2018-11-08T11:39:14+02:00
 #date_end: 2021-04-03T18:30:00Z
 all_day: true
 publishDate: 2018-11-30T11:39:14+02:00
-
 authors: []
 categories: [talk]
 tags: [talk, Antura, GBL]
 featured: false
-
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: [antura]
+projects: [games/antura]
 ---
 
 questo è parte di disegno fatto dal vivo durante la mia presentazione:

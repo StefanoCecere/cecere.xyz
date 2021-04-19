@@ -24,7 +24,7 @@ categories: [talk]
 tags: [talk, GameDesign, AI, XR, VR, NuovoUmanesimo]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 url_code: ""
 url_pdf: ""
