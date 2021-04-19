@@ -1,7 +1,7 @@
 ---
 categories:
 - Tempi moderni
-date: 2005-08-02T13:45:11Z"
+date: 2005-08-02T13:45:11Z
 excerpt: |
   La sfida ha qualcosa di perverso:<strong> la bistecca supera i 2 Kg. di peso</strong>, e ordinarla al "Big Texan" di Amarillo ti costa la bella cifra di 52 dollari - circa 40 euro. Ma se riesci a mangiarla tutta in meno di un'ora, compresi lo sfilatino di pane e la patata bollita di contorno, la bistecca diventa gratis...
 guid: http://stefanocecere.com/?p=5

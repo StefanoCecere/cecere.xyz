@@ -1,7 +1,7 @@
 ---
 title: coincidenze, Gurdjieff e la morte
 slug: 2006/01/coincidenze-gurdjieff-e-la-morte
-date: 2006-01-10T08:30:46Z"
+date: 2006-01-10T08:30:46Z
 categories: [blog]
 tags: [filosofia, morte, Gurdjieff, spirito]
 ---
