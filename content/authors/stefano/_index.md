@@ -107,18 +107,18 @@ Questo sito è molto ampio, ecco le sezioni principali:
 <div class="col-md">
     <h3><a href="/about">Mi presento</a></h3>
     chi sono? dove vado? perché?
+    <h3><a href="/projects">Progetti</a></h3>
+    tutti i progetti che ho creato o collaborato
     <h3><a href="/edu">Corsi e Guide</a></h3>
     materiali didattici e corsi
-    <h3><a href="/blog">Blog</a></h3>
-    venti anni e mille argomenti
 </div>
 <div class="col-md">
     <h3><a href="/played">PlayED</a></h3>
     la guida al giocare bene, imparare insieme
     <h3><a href="/jamurr">Jamurr</a></h3>
     game jam ragazzi e genitori
-    <h3><a href="/projects">Progetti</a></h3>
-    tutti i progetti che ho creato o collaborato
+    <h3><a href="/contact">Partecipa</a></h3>
+    rimaniamo in contatto
 </div>
 </div>
 {{< /rawhtml >}}

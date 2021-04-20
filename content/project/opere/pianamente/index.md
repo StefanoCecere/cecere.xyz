@@ -3,7 +3,7 @@ title: Pianamente
 summary: improvvisazioni al pianoforte
 categories: [creation]
 tags: [music]
-featured: true
+featured: false
 date: "2008-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,11 +1,12 @@
 ---
-title: PlayED
-summary: giocare bene, imparare insieme
+title: PlayED - giocare bene, imparare insieme
+summary: Una piccola guida sul giocare bene, i giochi e i media validi, scritta da un genitore/sviluppatore/educatore appassionato
 authors: []
 tags: [book, edu, parenting, social, games, kids]
 categories: ["books"]
 date: 2021-03-21
-
+featured: true
+internal_link: "/played"
 # external_link: "https://github.com/StefanoCecere/BuboLibro_RegaloSpeciale"
 
 image:

@@ -17,9 +17,7 @@
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
  
 
-     <a href="/about/site">Open Source site</a>
-     under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0" rel="noopener noreferrer" target="_blank">CC BY NC SA 4.0</a>
-
+     <a href="/about/site">Open Source site</a> under <a href="/license/">CC BY NC SA 4.0</a>
      &middot;
     {{ with site.GetPage "privacy.md" }}
       {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}

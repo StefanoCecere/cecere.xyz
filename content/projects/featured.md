@@ -7,17 +7,16 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 10
 
-title: 
-subtitle: 'progetti a cui ho lavorato'
+title: "in evidenza"
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.
   page_type: project
   filters:
-    exclude_featured: true
-  
+    featured_only: true
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
 
@@ -27,22 +26,6 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
-  - name: Book
-    tag: 'book'
-  - name: Music
-    tag: 'music'
-  - name: Game
-    tag: 'game'
-  - name: Multimedia
-    tag: 'dev'
-  - name: Web
-    tag: 'webdev'
-  - name: Social
-    tag: 'social'
-  - name: Education
-    tag: 'edu'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

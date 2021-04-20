@@ -14,7 +14,7 @@ draft: false
 ---
 
 **Perché queste informazioni**  
-Ai sensi dell’art. 13 del Regolamento UE 2016/679 del Parlamento europeo e del Consiglio (“GDPR”), il Titolare desidera informare l’utente che il trattamento dei dati personali raccolti durante la navigazione nel sito web [cecere.org](https://cecere.org) avverrà nel rispetto dei suoi diritti e delle libertà fondamentali.  
+Ai sensi dell’art. 13 del Regolamento UE 2016/679 del Parlamento europeo e del Consiglio (“GDPR”), il Titolare desidera informare l’utente che il trattamento dei dati personali raccolti durante la navigazione nel sito web [cecere.org](https://cecere.org) e suoi sottodomini avverrà nel rispetto dei suoi diritti e delle libertà fondamentali.  
 Le presenti informazioni non riguardano altri siti, pagine o servizi online raggiungibili tramite link ipertestuali eventualmente pubblicati nel sito ma riferiti a risorse esterne.
 
 **1. Titolare**  
