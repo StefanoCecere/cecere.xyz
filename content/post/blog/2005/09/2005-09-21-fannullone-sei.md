@@ -10,7 +10,7 @@ title: fannullone 6
 slug: /2005/09/fannullone-sei/
 ---
 
-![](https://m.cece.re/ilfannullone/ilfannullone_06_cover.gif)
+![](https://cdn.cece.re/ilfannullone/ilfannullone_06_cover.gif)
 
 E' uscito il n.6 de Il Fannullone.  
-se vuoi leggerlo ecco il [PDF](https://m.cece.re/ilfannullone/ilfannullone_06.pdf)
+se vuoi leggerlo ecco il [PDF](https://cdn.cece.re/ilfannullone/ilfannullone_06.pdf)
