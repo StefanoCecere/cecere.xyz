@@ -148,7 +148,7 @@ marketing:
   baidu_tongji: ''
 cms:
   branch: main
-  local_backend: false
+  local_backend: true
 icon:
   pack:
     ai: true
