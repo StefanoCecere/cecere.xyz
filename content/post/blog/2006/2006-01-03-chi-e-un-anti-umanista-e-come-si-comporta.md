@@ -1,20 +1,20 @@
 ---
-draft: true
+title: Chi è un anti-umanista e come si comporta?
+slug: /2006/01/chi-e-un-anti-umanista-e-come-si-comporta/
+draft: false
 categories: [blog]
 date: 2006-01-03T12:54:57Z
 guid: http://stefanocecere.com/2006/01/03/chi-e-un-anti-umanista-e-come-si-comporta/
 id: 204
 tags:
 - umanista
-title: Chi è un anti-umanista e come si comporta?
-slug: /2006/01/chi-e-un-anti-umanista-e-come-si-comporta/
 ---
 
-<img src='/wp-content/cattivi.jpeg' alt='' align='left' />se si vuole andare coerentemente in una certa direzione è bene avere anche presente da dove si arriva e dove NON si vuole più andare.
+se si vuole andare coerentemente in una certa direzione è bene avere anche presente da dove si arriva e dove NON si vuole più andare.
   
 ecco quindi una bella sintesi di quello che non piace agli umanisti 🙂
   
-[ questo schemino spesso mi fa molto comodo pere inquadrare alcune questioni e trovare soluzioni.]
+[questo schemino spesso mi fa molto comodo per inquadrare alcune questioni e trovare soluzioni.]
 
 **L'anti-umanesimo è ogni posizione pratica e teorica che sostiene lo schema di potere attuale, basato sugli anti-valori della discriminazione e della violenza.**
   

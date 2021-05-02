@@ -1,5 +1,7 @@
 ---
-draft: true
+title: I Colpevoli
+slug: /2010/04/i-colpevoli/
+draft: false
 categories: [blog]
 date: 2010-04-08T08:36:50Z
 guid: http://stefanocecere.com/?p=2070
@@ -8,11 +10,9 @@ tags:
 - banche
 - crisi
 - soldi
-title: I COLPEVOLI
-slug: /2010/04/i-colpevoli/
 ---
 
-**_se da un lato ognuno di noi è colpevole della situazione in cui ci troviamo, dall'altro lato alcuni di noi sono un po' più colpevoli di altri… quello che segue è tratto da una riunione  del 1998 (chiederai dettagli se ti interessa)_**
+**_se da un lato ognuno di noi è colpevole della situazione in cui ci troviamo, dall'altro lato alcuni di noi sono un po' più colpevoli di altri… quello che segue è tratto da una riunione del 1998 (chiederai dettagli se ti interessa)_**
 
 **Non ci sono nemici più grandi del popolo dei banchieri**. Speculatori e usurai, fanatici della "religione del denaro". Quello del denaro è il valore prioritario, a tal punto che ci troviamo di fronte ad una vera e propria idolatria del denaro, che sta producendo una sorta di **religione monetarista**. Di conseguenza, **tutti i valori umani vengono sconvolti**; nessuno si fida di nessuno; nessuno vale per quello che è, ma per quello che possiede o, più precisamente, per quello che possiede a breve termine. Ogni relazione viene tradita e, al tempo stesso, viene creato uno strato sociale limite, con tutte le piaghe della più grande povertà: alcolismo, droga, delinquenza, crimine e narcotraffico (col quale non solo aumenta la droga, ma anche un'economia violenta, basata su capitali illeciti).
 
@@ -38,6 +38,4 @@ Quelle politiche socio-economiche insensibili hanno prodotto, e produrranno semp
 
 Indiscutibilmente, dal nostro punto di vista, sono necessarie altre forme di azione e di lavoro, che le dirigenze politiche si guardano bene dall'attuare, perché per farlo dovrebbero ascoltare il popolo.
 
-<p style="text-align: right">
-  <em>continua…</em>
-</p>
+_continua…_

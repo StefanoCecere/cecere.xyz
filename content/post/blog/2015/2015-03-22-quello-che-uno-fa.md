@@ -1,11 +1,11 @@
 ---
-draft: true
+title: quello che uno fa
+slug: /2015/03/quello-che-uno-fa/
+draft: false
 categories: [blog]
 date: 2015-03-22T05:52:17Z
 guid: http://stefanocecere.com/?p=5649
 id: 5649
-title: quello che uno fa
-slug: /2015/03/quello-che-uno-fa/
 ---
 
 spesso uno fa tante cose, magari anche belle buone e giuste, ma non si chiede perché le fa.

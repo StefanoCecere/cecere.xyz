@@ -1,5 +1,7 @@
 ---
-draft: true
+title: Politica pubblica!
+slug: /2010/04/politica-pubblica/
+draft: false
 categories:
 - Politica
 date: 2010-04-10T17:50:59Z
@@ -9,8 +11,6 @@ tags:
 - Politica
 - proposta
 - Repubblica
-title: Politica pubblica!
-slug: /2010/04/politica-pubblica/
 ---
 
 hai un **incarico pubblico**? ovvero gestisci le risorse pubbliche e le tue decisioni hanno consueguenze sulla vita di noi tutti, che in un modo o nell'altro ti abbiamo messo lì per farlo e ti diamo un notevole stipendio?

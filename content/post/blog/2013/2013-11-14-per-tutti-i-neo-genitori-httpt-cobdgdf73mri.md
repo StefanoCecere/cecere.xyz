@@ -10,4 +10,5 @@ title: per tutti i neo genitori! http://t.co/bDGDF73MrI
 slug: /2013/11/per-tutti-i-neo-genitori-httpt-cobdgdf73mri/
 ---
 
-per tutti i neo genitori! [incidentalcomics.com/2013/11/a-year…](http://www.incidentalcomics.com/2013/11/a-year-of-parenting.html)
+per tutti i neo genitori!
+[a-year-of-parenting](http://www.incidentalcomics.com/2013/11/a-year-of-parenting.html)

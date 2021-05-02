@@ -1,13 +1,13 @@
 ---
-draft: true
+title: "vuoto d'aria"
+slug: /2015/03/vuoto-daria/
+draft: false
 categories: [blog]
 date: 2015-03-24T18:01:50Z
 guid: http://stefanocecere.com/?p=5726
 id: 5741
 tags:
 - empatia
-title: vuoto d&#039;aria
-slug: /2015/03/vuoto-daria/
 ---
 
 in un recente volo ho provato un vuoto d'aria.. sarà durato 5/6 secondi e mi è bastato per fare testamento.
