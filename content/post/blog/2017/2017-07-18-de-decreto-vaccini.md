@@ -6,8 +6,6 @@ categoreis: [blog]
 tags: [vaccini]
 ---
 
-DECRETO VACCINI
-
 [TL;DR: i miei figli li vaccino ringraziando, il decreto è un fallimento della politica, i no-vax sono pieni di ciarlatani ma i free-vax non possono essere obbligati ad accettare i vaccini.]
 
 La mia umile e personale opinione non cambierà il mondo ed è questa: il decreto vaccini è un necessario fallimento della politica, migliorabile, e dovrebbe dare una possibilità a chi rifiuta i vaccini oltre ogni tentativo di persuasione.

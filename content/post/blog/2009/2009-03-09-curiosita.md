@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-03-09T17:06:40Z
 guid: http://stefanocecere.com/?p=1586
@@ -10,7 +10,7 @@ title: Curiosità
 slug: /2009/03/curiosita/
 ---
 
-* Gli alimenti impiegano 7 secondi per passare dalla bocca allo stomaco.
+- Gli alimenti impiegano 7 secondi per passare dalla bocca allo stomaco.
 - Un pelo umano può sopportare il peso di 3 Kg.
 - Il pene di un uomo medio misura 3 volte le dimensioni del suo pollice.
 - Il cuore di una donna ha più battiti di quello di un uomo.
