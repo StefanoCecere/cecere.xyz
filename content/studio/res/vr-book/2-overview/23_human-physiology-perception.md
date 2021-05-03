@@ -49,7 +49,7 @@ One of the most popular ways to appreciate the complexity of our perceptual proc
 
 ## Classification of senses
 
-Perception and illusions are not limited to our eyes. Figure [2.17](http://lavalle.pl/vr/node51.htmlnode50.html#fig:class) shows a classification of our basic senses. Recall that a sensor converts an energy source into signals in a circuit. In the case of our bodies, this means that a stimulus is converted into neural impulses. For each sense, Figure [2.17](http://lavalle.pl/vr/node51.htmlnode50.html#fig:class) indicates the type of energy for the stimulus and the _receptor_ that converts the stimulus into neural impulses. Think of each receptor as a sensor that targets a particular kind of stimulus. This is referred to as _sensory system selectivity_. In each eye, over 100 million photoreceptors target electromagnetic energy precisely in the frequency range of visible light. Different kinds even target various colors and light levels; see Section [5.1](http://lavalle.pl/vr/node51.htmlnode132.html#sec:eyestruct). The auditory, touch, and balance senses involve motion, vibration, or gravitational force; these are sensed by mechanoreceptors. The physiology and perception of hearing are covered in Sections [11.2](http://lavalle.pl/vr/node51.htmlnode352.html#sec:ears) and [11.3](http://lavalle.pl/vr/node51.htmlnode359.html#sec:audper), respectively. The sense of touch additionally involves thermoreceptors to detect change in temperature. Touch is covered in Section [13.1](http://lavalle.pl/vr/node51.htmlnode436.html#sec:haptics). Our _balance sense_ helps us to know which way our head is oriented, including sensing the direction of ''up''; this is covered in Section [8.2](http://lavalle.pl/vr/node51.htmlnode242.html#sec:vestibular). Finally, our sense of taste and smell is grouped into one category, called the _chemical senses_, that relies on chemoreceptors; these provide signals based on chemical composition of matter appearing on our tongue or in our nasal passages; see Section [13.2](http://lavalle.pl/vr/node51.htmlnode445.html#sec:smell).
+Perception and illusions are not limited to our eyes. Figure [2.17] shows a classification of our basic senses. Recall that a sensor converts an energy source into signals in a circuit. In the case of our bodies, this means that a stimulus is converted into neural impulses. For each sense, Figure [2.17](http://lavalle.pl/vr/node51.htmlnode50.html#fig:class) indicates the type of energy for the stimulus and the _receptor_ that converts the stimulus into neural impulses. Think of each receptor as a sensor that targets a particular kind of stimulus. This is referred to as _sensory system selectivity_. In each eye, over 100 million photoreceptors target electromagnetic energy precisely in the frequency range of visible light. Different kinds even target various colors and light levels; see Section [5.1](http://lavalle.pl/vr/node51.htmlnode132.html#sec:eyestruct). The auditory, touch, and balance senses involve motion, vibration, or gravitational force; these are sensed by mechanoreceptors. The physiology and perception of hearing are covered in Sections [11.2](http://lavalle.pl/vr/node51.htmlnode352.html#sec:ears) and [11.3](http://lavalle.pl/vr/node51.htmlnode359.html#sec:audper), respectively. The sense of touch additionally involves thermoreceptors to detect change in temperature. Touch is covered in Section [13.1](http://lavalle.pl/vr/node51.htmlnode436.html#sec:haptics). Our _balance sense_ helps us to know which way our head is oriented, including sensing the direction of ''up''; this is covered in Section [8.2](http://lavalle.pl/vr/node51.htmlnode242.html#sec:vestibular). Finally, our sense of taste and smell is grouped into one category, called the _chemical senses_, that relies on chemoreceptors; these provide signals based on chemical composition of matter appearing on our tongue or in our nasal passages; see Section [13.2](http://lavalle.pl/vr/node51.htmlnode445.html#sec:smell).
 
 Note that senses have engineering equivalents, most of which appear in VR systems. Imagine you a designing a humanoid telepresence robot, which you expect to interface with through a VR headset. You could then experience life through your surrogate robotic self. Digital cameras would serve as its eyes, and microphones would be the ears. Pressure sensors and thermometers could be installed to give a sense of touch. For balance, we can install an IMU. In fact, the human _vestibular organs_ and modern IMUs bear a striking resemblance in terms of the signals they produce; see Section [8.2](http://lavalle.pl/vr/node51.htmlnode242.html#sec:vestibular). We could even install chemical sensors, such as a pH meter, to measure aspects of chemical composition to provide taste and smell.
 
@@ -57,7 +57,7 @@ Note that senses have engineering equivalents, most of which appear in VR system
 
 Perception happens after the sense organs convert the stimuli into neural impulses. According to latest estimates \[[15](http://lavalle.pl/vr/node52.htmlnode465.html#AzeCarGriFarFerLeiJacLenHer09)\], human bodies contain around 86 billion neurons. Around 20 billion are devoted to the part of the brain called the _cerebral cortex_, which handles perception and many other high-level functions such as attention, memory, language, and consciousness. It is a large sheet of neurons around three millimeters thick and is heavily folded so that it fits into our skulls. In case you are wondering where we lie among other animals, a roundworm, fruit fly, and rat have 302, 100 thousand, and 200 million neurons, respectively. An elephant has over 250 billion neurons, which is more than us!
 
-Only mammals have a cerebral cortex. The cerebral cortex of a rat has around 20 million neurons. Cats and dogs are at 300 and 160 million, respectively. A gorilla has around 4 billion. A type of dolphin called the long-finned pilot whale has an estimated 37 billion neurons in its cerebral cortex, making it roughly twice as many as in the human cerebral cortex; however, scientists claim this does not imply superior cognitive abilities \[[224](http://lavalle.pl/vr/node52.htmlnode465.html#MorPakDamDieSonMikEri14),[277](http://lavalle.pl/vr/node52.htmlnode465.html#RotDic05)\].
+Only mammals have a cerebral cortex. The cerebral cortex of a rat has around 20 million neurons. Cats and dogs are at 300 and 160 million, respectively. A gorilla has around 4 billion. A type of dolphin called the long-finned pilot whale has an estimated 37 billion neurons in its cerebral cortex, making it roughly twice as many as in the human cerebral cortex; however, scientists claim this does not imply superior cognitive abilities.
 
 ![](../img/img147.gif)
 **Figure 2.18:** A typical neuron receives signals through dendrites, which interface to other neurons. It outputs a signal to other neurons through axons.
@@ -101,34 +101,29 @@ This disconnect between the actual stimulus and one's perception of the stimulus
 
 ## Psychophysics
 
+![](../img/img151.gif)
 **Figure 2.21:** The most basic _psychometric function_. For this example, as the stimulus intensity is increased, the percentage of people detecting the phenomenon increases. The point along the curve that corresponds to 50 percent indicates a critical threshold or boundary in the stimulus intensity. The curve above corresponds to the cumulative distribution function of the error model (often assumed to be Gaussian).
-
-![\begin{figure}\centerline{\psfig{file=figs/detection2.eps,width=4.5truein}}\end{figure}](http://lavalle.pl/vr/node57.htmlimg151.gif)
 
 _Psychophysics_ is the scientific study of perceptual phenomena that are produced by physical stimuli. For example, under what conditions would someone call an object ''red''? The stimulus corresponds to light entering the eye, and the perceptual phenomenon is the concept of ''red'' forming in the brain. Other examples of perceptual phenomena are ''straight'', ''larger'', ''louder'', ''tickles'', and ''sour''. Figure [2.21](http://lavalle.pl/vr/node57.html#fig:pod) shows a typical scenario in a psychophysical experiment. As one parameter is varied, such as the frequency of a light, there is usually a range of values for which subjects cannot reliably classify the phenomenon. For example, there may be a region where they are not sure whether the light is red. At one extreme, they may consistently classify it as ''red'' and at the other extreme, they consistently classify it as ''not red''. For the region in between, the _probability of detection_ is recorded, which corresponds to the frequency with which it is classified as ''red''. Section [12.4](http://lavalle.pl/vr/node57.htmlnode420.html#sec:experiments) will discuss how such experiments are designed and conducted.
 
 ## Stevens' power law
 
+![](../img/img152.gif)
 **Figure 2.22:** Steven's power law ([2.1](http://lavalle.pl/vr/node58.html#eqn:stevens)) captures the relationship between the magnitude of a stimulus and its perceived magnitude. The model is an exponential curve, and the exponent depends on the stimulus type.
 
-![\begin{figure}\centerline{\psfig{file=figs/stevens2.eps,width=5.5truein}}\end{figure}](http://lavalle.pl/vr/node58.htmlimg152.gif)
 
 One of the most known results from psychophysics is _Steven's power law_, which characterizes the relationship between the magnitude of a physical stimulus and its _perceived_ magnitude \[[316](http://lavalle.pl/vr/node58.htmlnode465.html#Ste57)\]. The hypothesis is that an exponential relationship occurs over a wide range of sensory systems and stimuli:
 
-![$\displaystyle p = cm^x$](http://lavalle.pl/vr/node58.htmlimg153.gif)
-
-(2.1)
-
-  
+$ p = cm^x$  
 
 in which
 
--   ![$ m$](http://lavalle.pl/vr/node58.htmlimg154.gif) is the magnitude or intensity of the stimulus,
--   ![$ p$](http://lavalle.pl/vr/node58.htmlimg20.gif) is the perceived magnitude,
--   ![$ x$](http://lavalle.pl/vr/node58.htmlimg8.gif) relates the actual magnitude to the perceived magnitude, and is the most important part of the equation, and
--   ![$ c$](http://lavalle.pl/vr/node58.htmlimg46.gif) is an uninteresting constant that depends on units.
+- $ m$ is the magnitude or intensity of the stimulus,
+- $ p$ is the perceived magnitude,
+- $ x$ relates the actual magnitude to the perceived magnitude, and is the most important part of the equation, and
+- $ c$ is an uninteresting constant that depends on units.
 
-Note that for ![$ x = 1$](http://lavalle.pl/vr/node58.htmlimg155.gif), ([2.1](http://lavalle.pl/vr/node58.html#eqn:stevens)) is a linear relationship, ![$ p = cm$](http://lavalle.pl/vr/node58.htmlimg156.gif); see Figure [2.22](http://lavalle.pl/vr/node58.html#fig:stevensplot). An example of this is our perception of the length of an isolated line segment directly in front of our eyes. The length we perceive is proportional to its actual length. The more interesting cases are when  ![$ x \not = 1$](http://lavalle.pl/vr/node58.htmlimg157.gif). For the case of perceiving the brightness of a target in the dark, ![$ x = 0.33$](http://lavalle.pl/vr/node58.htmlimg158.gif), which implies that a large increase in brightness is perceived as a smaller increase. In the other direction, our perception of electric shock as current through the fingers yields ![$ x = 3.5$](http://lavalle.pl/vr/node58.htmlimg159.gif). A little more shock is a lot more uncomfortable!
+Note that for $ x = 1$, [2.1] is a linear relationship, $ p = cm$. An example of this is our perception of the length of an isolated line segment directly in front of our eyes. The length we perceive is proportional to its actual length. The more interesting cases are when $ x \not = 1$. For the case of perceiving the brightness of a target in the dark, $ x = 0.33$, which implies that a large increase in brightness is perceived as a smaller increase. In the other direction, our perception of electric shock as current through the fingers yields $ x = 3.5$. A little more shock is a lot more uncomfortable!
 
 ## Just noticeable difference
 
@@ -136,21 +131,18 @@ Another key psychophysical concept is the _just noticeable difference_ (_JND_). 
 
 Consider the JND for a stimulus with varying magnitude, such as brightness. How does the JND itself vary as the magnitude varies? This relationship is captured by _Weber's law_:
 
-![$\displaystyle {\Delta m \over m} = c,$](http://lavalle.pl/vr/node59.htmlimg160.gif)
+$\displaystyle {\Delta m \over m} = c$
 
 (2.2)
 
-  
-
-in which ![$ \Delta m$](http://lavalle.pl/vr/node59.htmlimg161.gif) is the JND, ![$ m$](http://lavalle.pl/vr/node59.htmlimg154.gif) is the magnitude of the stimulus, and ![$ c$](http://lavalle.pl/vr/node59.htmlimg46.gif) is a constant.
+in which $ \Delta m$ is the JND, $ m$ is the magnitude of the stimulus, and $ c$ is a constant.
 
 ## Design of experiments
 
 VR disrupts the ordinary perceptual processes of its users. It should be clear from this section that proposed VR systems and experiences need to be evaluated on users to understand whether they are yielding the desired effect while also avoiding unwanted side effects. This amounts to applying the scientific method to make observations, formulate hypotheses, and design experiments that determine their validity. When human subjects are involved, this becomes extremely challenging. How many subjects are enough? What happens if they adapt to the experiment? How does their prior world experience affect the experiment? What if they are slightly sick the day that they try the experiment? What did they eat for breakfast? The answers to these questions could dramatically affect the outcome.
 
-It gets worse. Suppose they already know your hypothesis going into the experiment. This will most likely bias their responses. Also, what will the data from the experiment look like? Will you ask them to fill out a questionnaire, or will you make inferences about their experience from measured data such as head motions, heart rate, and skin conductance? These choices are also critical. See Section [12.4](http://lavalle.pl/vr/node60.htmlnode420.html#sec:experiments) for more on this topic.
-
+It gets worse. Suppose they already know your hypothesis going into the experiment. This will most likely bias their responses. Also, what will the data from the experiment look like? Will you ask them to fill out a questionnaire, or will you make inferences about their experience from measured data such as head motions, heart rate, and skin conductance? These choices are also critical. See Section [12.4] for more on this topic.
 
 ## Further Reading
 
-The particular software and hardware technologies described in this chapter are rapidly evolving. A quick search of the Internet at any give time should reveal the latest headsets and associated tools for developers. The core concepts, however, remain largely unchanged and are covered in the coming chapters. For broader coverage of human physiology and perception, see \[[206](http://lavalle.pl/vr/node61.htmlnode465.html#Mat08)\] and numerous other books with ''Sensation and Perception'' in the title.
+The particular software and hardware technologies described in this chapter are rapidly evolving. A quick search of the Internet at any give time should reveal the latest headsets and associated tools for developers. The core concepts, however, remain largely unchanged and are covered in the coming chapters. For broader coverage of human physiology and perception, see [206] and numerous other books with _Sensation and Perception_ in the title.

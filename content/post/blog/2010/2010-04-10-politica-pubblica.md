@@ -21,7 +21,7 @@ altro che Grande Fratello.
 
 non ti piace? non candidarti a gestire la Res Publica. forse hai altri interessi.
 
-ti posso concedere il **segreto di Stato** se stai facendo operazioni delicate. ma finita la faccenda (magari tu sarai in pensione) tutto sarà pubblicato. se si scoprirà che hai abusato del tuo potere o hai commesso crimini**, il carcere sarà assicurato e retroattivo**.
+ti posso concedere il **segreto di Stato** se stai facendo operazioni delicate. ma finita la faccenda (magari tu sarai in pensione) tutto sarà pubblicato. se si scoprirà che hai abusato del tuo potere o hai commesso crimini, **il carcere sarà assicurato e retroattivo**.
 
 che ne dici?
 

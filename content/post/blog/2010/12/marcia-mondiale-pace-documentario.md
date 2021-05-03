@@ -3,8 +3,8 @@ title: "Documentario Marcia Mondiale per la Pace e la Nonviolenza"
 slug: 2010/12/marcia-mondiale-pace-documentario
 subtitle: ""
 summary: ""
-tags: [nonviolenza, video, umanista, attivismo]
-categories: [blog]
+tags: [marciamondiale, nonviolenza, video, umanista]
+categories: [attivismo]
 date: 2010-12-14T19:14:02+01:00
 lastmod: 2010-12-14T19:14:02+01:00
 featured: false

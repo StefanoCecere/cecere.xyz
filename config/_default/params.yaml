@@ -72,7 +72,7 @@ address_format: fr-fr
 
 highlight: true
 highlight_languages:
-math: false
+math: true
 diagram: false
 privacy_pack: true
 edit_page:
