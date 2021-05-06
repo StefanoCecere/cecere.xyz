@@ -9,7 +9,6 @@ tags:
 - floppy
 - genio
 - music
-- Star Wars
 - video
 - vintage
 title: Questi dischi contengono materiale classificato dell&#039;Impero

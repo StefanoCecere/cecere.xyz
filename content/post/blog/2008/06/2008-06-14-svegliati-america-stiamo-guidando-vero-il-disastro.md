@@ -8,7 +8,6 @@ tags:
 - credenze
 - crisi energetica
 - religioni
-- Stati Uniti
 - USA
 title: Svegliati America! Stiamo guidando vero il disastro
 slug: /2008/06/svegliati-america-stiamo-guidando-vero-il-disastro/

@@ -14,7 +14,7 @@ tags:
 - petrolio
 - recessione
 - risparmio
-- Stati Uniti
+- USA
 - valori
 title: IMPLOSIONE NELL&#039;IMPERO
 slug: /2008/09/implosione-nellimpero/

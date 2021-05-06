@@ -11,7 +11,6 @@ tags:
 - economia
 - Europa
 - Politica
-- Stati Uniti
 - USA
 title: la crisi di questo sistema economico
 slug: /2008/09/la-crisi-di-questo-sistema-economico/

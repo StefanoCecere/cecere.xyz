@@ -5,7 +5,6 @@ date: 2006-01-27T11:31:55Z
 guid: http://stefanocecere.com/2006/01/27/proprieta-privata/
 id: 216
 tags:
-- Monty Python
 - Monza
 - silenzio
 title: proprietà privata

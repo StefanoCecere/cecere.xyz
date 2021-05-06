@@ -6,7 +6,7 @@ guid: http://stefanocecere.com/?p=5656
 id: 5656
 tags:
 - guerra
-- isra
+- Israele
 - Palestina
 title: Sabra e Shatila
 slug: /2015/03/sabra-e-shatila/

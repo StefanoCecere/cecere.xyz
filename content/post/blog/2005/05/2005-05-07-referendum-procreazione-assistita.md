@@ -4,7 +4,7 @@ slug: /2005/05/referendum-procreazione-assistita/
 date: 2005-05-07T11:37:33Z
 id: 49
 categories: [blog]
-tags: [politica, vergogna, tempi-moderni, referendum]
+tags: [politica, vergogna, tempimoderni, referendum]
 ---
 
 <img src="http://www.lucacoscioni.it/files/spilla.jpg" align="left" width="100" height="90" />

@@ -6,9 +6,8 @@ guid: http://stefanocecere.com/2008/06/16/fiorello-per-il-disarmo-canta-lignazio
 id: 1046
 tags:
 - arte
-- disarmo nucleare
+- disarmo
 - Fiorello
-- Ignazio la Russa
 - pace
 - ricreazione
 - video

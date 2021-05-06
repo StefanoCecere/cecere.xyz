@@ -13,7 +13,6 @@ tags:
 - film
 - Michael Moore
 - video
-- Wall Street
 title: Scena finale del film Capitalism a Love Story
 slug: /2012/01/scena-finale-del-film-capitalism-a-love-story/
 ---

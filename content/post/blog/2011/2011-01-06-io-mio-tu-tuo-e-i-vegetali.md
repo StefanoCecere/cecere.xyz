@@ -7,10 +7,9 @@ id: 2310
 tags:
 - animali
 - dieta
-- io
 - psicologia
 - salute
-- vegetariani
+- veg
 - video
 title: Io mio, Tu tuo e i vegetali
 slug: /2011/01/io-mio-tu-tuo-e-i-vegetali/

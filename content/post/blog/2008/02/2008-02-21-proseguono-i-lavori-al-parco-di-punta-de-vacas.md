@@ -6,10 +6,9 @@ guid: http://stefanocecere.com/2008/02/21/proseguono-i-lavori-al-parco-di-punta-
 id: 690
 tags:
 - Ande
-- Parco Punta de Vacas
 - Silo
 - spirito
-- Terra 2.0
+- Terra2.0
 - umanista
 title: Proseguono i lavori al Parco di Punta de Vacas
 slug: /2008/02/proseguono-i-lavori-al-parco-di-punta-de-vacas/

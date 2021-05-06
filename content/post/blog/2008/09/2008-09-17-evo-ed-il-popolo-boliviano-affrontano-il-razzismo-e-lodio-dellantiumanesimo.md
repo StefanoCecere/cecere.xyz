@@ -5,17 +5,13 @@ date: 2008-09-17T22:28:04Z
 guid: http://stefanocecere.com/?p=1165
 id: 1165
 tags:
-- america latina
-- Bolivia
-- Bush
-- Cile
 - Costituzione
 - dichiarazione
-- Evo Morales
+- EvoMorales
 - mondo
 - nonviolenza
 - referendum
-- Stati Uniti
+- USA
 - Tomas Hirsch
 - umanista
 title: Evo ed il popolo boliviano affrontano il razzismo e l&#039;odio dell&#039;antiumanesimo.

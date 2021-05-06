@@ -7,7 +7,7 @@ date: 2016-01-15T00:00:00Z
 draft: false
 featured: false
 categories: jamurr
-tags: [GlobalGameJam, KidsGameJam, Videogame]
+tags: [GlobalGameJam, KidsGameJam, videogames]
 
 gallery_item:
 - album: gallery

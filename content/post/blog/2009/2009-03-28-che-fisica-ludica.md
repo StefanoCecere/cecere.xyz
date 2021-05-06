@@ -6,7 +6,7 @@ guid: http://stefanocecere.com/?p=1625
 id: 1625
 tags:
 - scienza
-- videogiochi
+- videogames
 title: Che fisica! (ludica)
 slug: /2009/03/che-fisica-ludica/
 ---

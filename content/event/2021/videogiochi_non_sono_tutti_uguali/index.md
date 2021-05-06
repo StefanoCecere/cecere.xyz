@@ -14,7 +14,7 @@ publishDate: 2021-02-01T11:00:00Z
 
 authors: []
 categories: [talk]
-tags: [talk, videogame, parenting]
+tags: [talk, videogames, parenting]
 featured: false
 
 url_code: ""

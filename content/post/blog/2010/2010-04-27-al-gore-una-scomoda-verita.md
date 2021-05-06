@@ -10,7 +10,7 @@ tags:
 - ipocrisia
 - Media
 - Politica
-- Stati Uniti
+- USA
 title: Al Gore, una scomoda verità?
 slug: /2010/04/al-gore-una-scomoda-verita/
 ---

@@ -7,7 +7,6 @@ id: 447
 tags:
 - arte
 - disarmo nucleare
-- Le Vibrazioni
 title: Le Vibrazioni e la Campagna Disarmo Nucleare
 slug: /2006/10/le-vibrazioni-e-la-campagna-disarmo-nucleare/
 ---

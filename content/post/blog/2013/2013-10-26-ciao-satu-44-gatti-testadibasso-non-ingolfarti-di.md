@@ -10,4 +10,4 @@ title: 'Ciao satu 44 gatti #testadibasso non ingolfarti di…'
 slug: /2013/10/ciao-satu-44-gatti-testadibasso-non-ingolfarti-di/
 ---
 
-Ciao satu 44 gatti [#testadibasso](http://twitter.com/search?q=%23testadibasso) non ingolfarti di torte ma baci!
+Ciao satu 44 gatti [testadibasso](http://twitter.com/search?q=%23testadibasso) non ingolfarti di torte ma baci!

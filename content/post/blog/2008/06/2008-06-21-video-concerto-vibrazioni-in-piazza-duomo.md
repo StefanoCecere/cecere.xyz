@@ -7,14 +7,11 @@ id: 1056
 tags:
 - arte
 - concerto
-- disarmo nucleare
-- Duomo
-- Europe for Peace
-- Francesco Sarcina
-- Le Vibrazioni
+- disarmo
+- EuropeforPeace
 - Milano
 - ricreazione
-- Terra 2.0
+- Terra2.0
 - video
 title: Video concerto Vibrazioni in Piazza Duomo
 slug: /2008/06/video-concerto-vibrazioni-in-piazza-duomo/

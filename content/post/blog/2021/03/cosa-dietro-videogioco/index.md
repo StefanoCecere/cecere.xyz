@@ -3,7 +3,7 @@ title: "Cosa c'è dietro un Videogioco"
 slug:
 subtitle: ""
 summary: ""
-tags: [VR,videogiochi,gamedev]
+tags: [VR,videogames,gamedev]
 categories: [blog]
 date: 2021-03-26T00:40:18+02:00
 #lastmod: 2021-04-04T00:40:18+02:00
