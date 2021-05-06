@@ -17,3 +17,4 @@ dove cercare di risolvere i 200 enigmi con la sola forza della mente e della ded
 > *Stefano:* capolavoro. non facilissimo, ma stimola davvero il pensiero laterale, logico, deduttivo
 {.boxStefano}
 
+{{< gallery "gallery" >}}

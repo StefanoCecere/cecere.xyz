@@ -8,4 +8,4 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
-#TODO/write
+#TODO/scrivere

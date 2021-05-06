@@ -8,7 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
-> **#Kids #Collaborativo #Legacy #Award**  
+> #Kids #Collaborativo #Legacy #Award  
 > 2-4g | 5+ | 30m | facile | [scheda](https://www.boardgamegeek.com/boardgame/256952/zombie-kidz-evolution)  
 
 *I ragazzi devono difendere la scuola da un'invasione zombie!*  

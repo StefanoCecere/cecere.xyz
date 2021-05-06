@@ -3,9 +3,11 @@ title: Fiabe di stoffa
 slug: 
 summary: 
 categories: [boardgame]
-tags: [scheda_GdT]
+tags: [scheda_GdT,kids,librogame]
 date: 2020-12-14
 lastmod: 
 url_game: 
 ---
-#TODO/write 
+
+
+{{< gallery "gallery" >}}

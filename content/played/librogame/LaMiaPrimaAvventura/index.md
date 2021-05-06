@@ -16,6 +16,7 @@ La progressione è semplice, ma la grafica, la carta plastificata, il vedere tut
 
 Nella foto c'è anche un libro della serie "Tu Sei..." altrettanto carino, con qualche elemento in più di GdR, ovvero crei il tuo personaggio
 
-![](librogioco_avventura.jpg)
+![](librogioco_avventura-featured.jpg)
 
+{{< gallery "gallery" >}}
 
