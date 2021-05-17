@@ -11,12 +11,18 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-url_code: https://github.com/JAMURR/JAM.7FRAMES
+url_code: https://github.com/jamurr/JAM.7FRAMES
 url_pdf: ""
 url_slides: ""
 url_video: ""
 slides: ""
 ---
+## Download
+- scarica app **iOS**: [Apple App Store](https://apps.apple.com/us/app/7-frames/id1239225688)
+- scarica app **Android**: [Google Play](https://play.google.com/store/apps/details?id=org.jamurr.sevenframes)
+- progetto Open Source: <https://github.com/jamurr/JAM.7FRAMES>
+
+## Descrizione
 
 Questo gioco è stato sviluppato in una Kids Game Jam.
 Ovvero 7 bambini (dai 7 ai 12 anni) si trovati durante l’Internet Festival 2016, al MixArt di Pisa, ed è stato dato loro un TEMA, che era: “SE NON CI FOSSERO GLI ALTRI…”

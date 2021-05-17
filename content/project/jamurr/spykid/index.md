@@ -7,7 +7,7 @@ date: 2016-05-01T00:00:00Z
 authors: []
 
 links:
-url_code: ""
+url_code: "https://github.com/jamurr/JAM.SpyKid"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -29,9 +29,9 @@ per ora abbiamo studiato e implementato:
 - inverse
 - Giulio Cesare (rot13)
 
-## links
-- scarica app Android: [Google Play](https://play.google.com/store/apps/details?id=com.jamurr.spykid)
-- scarica app iOS: [iTunes App Store](https://itunes.apple.com/it/app/jj-spykid/id1109994886?l=en&mt=8)
-- tutto il progetto è ovviamente Open Source: <https://github.com/jamurr/JAM.SpyKid>
+## Download
+- scarica app **iOS**: [Apple App Store](https://apps.apple.com/us/app/jj-spykid/id1109994886)
+- scarica app **Android**: [Google Play](https://play.google.com/store/apps/details?id=com.jamurr.spykid)
+- progetto Open Source: <https://github.com/jamurr/JAM.SpyKid>
 
 {{< gallery "gallery" >}}

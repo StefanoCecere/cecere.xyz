@@ -9,11 +9,18 @@ authors: []
 external_link: ""
 
 links:
-url_code: ""
+url_code: "https://github.com/jamurr/JAM.NotJustASheep"
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
+
+## Download
+- scarica app **iOS**: [Apple App Store](https://apps.apple.com/us/app/im-not-just-a-sheep/id110999489)
+- scarica app **Android**: [Google Play](https://play.google.com/store/apps/details?id=com.jamurr.notjustsheep)
+- progetto Open Source: <https://github.com/jamurr/JAM.NotJustASheep>
+
+## Descrizione
 
 game developed at GGJ16 by Stefano and Fabio
 
@@ -23,10 +30,5 @@ this game was designed and drawn by a 7yo child at his first "real" game product
 
 
 GGJ site: <http://globalgamejam.org/2016/games/im-not-just-sheep-non-sono-solo-una-pecora>
-
-- scarica app Android: [Google Play](https://play.google.com/store/apps/details?id=com.jamurr.notjustsheep)
-- scarica app iOS: [iTunes App Store](https://itunes.apple.com/it/app/jj-im-not-just-a-sheep/id1109994897?l=en&mt=8)
-
-progetto Open Source: <https://github.com/JAMURR/JAM.NotJustASheep>
 
 {{< gallery album="gallery" >}}
