@@ -17,6 +17,10 @@ url_slides: ""
 url_video: ""
 slides: ""
 ---
+
+![](7FRAMES_featured.png)
+
+
 ## Download
 - scarica app **iOS**: [Apple App Store](https://apps.apple.com/us/app/7-frames/id1239225688)
 - scarica app **Android**: [Google Play](https://play.google.com/store/apps/details?id=org.jamurr.sevenframes)

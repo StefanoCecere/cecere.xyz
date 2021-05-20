@@ -8,7 +8,7 @@ date: 2020-12-14
 lastmod: 
 url_game: 
 ---
-> **#Family #Carte #Matematica #Nonni #Award**   
+> #Family #Carte #Matematica #Nonni #Award   
 > 2-4g | 7+ | 30m | facile-medio | [scheda](https://www.boardgamegeek.com/boardgame/148228/splendor)  
 
 Dateci retta: compratelo senza indugio.
