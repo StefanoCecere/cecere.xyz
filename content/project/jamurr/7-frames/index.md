@@ -25,16 +25,18 @@ slides: ""
 ## Descrizione
 
 Questo gioco è stato sviluppato in una Kids Game Jam.
-Ovvero 7 bambini (dai 7 ai 12 anni) si trovati durante l’Internet Festival 2016, al MixArt di Pisa, ed è stato dato loro un TEMA, che era: “SE NON CI FOSSERO GLI ALTRI…”
-In poche ore i ragazzi in concertazione (JAM) tra loro e con la supervisione dei genitori, dovevano ideare e creare il prototipo del gioco.
+Ovvero 7 bambini (dai 7 ai 12 anni) si trovati durante l’Internet Festival 2016, al MixArt di Pisa, ed è stato dato loro un TEMA, che era: “**SE NON CI FOSSERO GLI ALTRI…**”. In poche ore i ragazzi in concertazione (JAM) tra loro e con la supervisione dei genitori, dovevano ideare e creare il prototipo del gioco.
 Ognuno con le proprie capacità e preferenze ha dato del suo meglio.
 
 E’ stato poi completato con un’altra giornata di Jam a Milano presso la Santeria.
 
 Infine revisionato e ultimato via internet in qualche pomeriggio di pioggia da Stefano Cecere e Mauro Vanetti.
 
-## IDEE, DIALOGHI, PERSONAGGI, AMBIENTAZIONI, MUSICA, VOCI, DISEGNI, DEBUG
+## Presentazione
 
+{{< gallery "gallery" >}}
+
+## Idee, Dialoghi, Personaggi, Grafica, Musica, Voci, Debug
 - Angelo Boni
 - Elia Gotuzzo
 - Elio Bretzel
@@ -43,10 +45,10 @@ Infine revisionato e ultimato via internet in qualche pomeriggio di pioggia da S
 - Maia Polsinelli
 - Marco Tarasconi
 
-## JAM CONCEPT e COORDINAZIONE
+## Jam Concept e Coordinazione
 - Stefano Cecere
 
-## GENITORI e TUTORS
+## Genitori e Tutors
 - Annabella Coiro
 - Gianluca Tarasconi
 - Laura Mirri
@@ -55,23 +57,23 @@ Infine revisionato e ultimato via internet in qualche pomeriggio di pioggia da S
 - Pietro Polsinelli
 - Stefano Cecere
 
-## GRAZIE SPECIALI
+## Grazie speciali
 - Michele Lanzo
-- Internet Festival [www.internetfestival.it](https://www.internetfestival.it) – Mixart Pisa [www.mix-art.org](https://www.mix-art.org)
+- Internet Festival [www.internetfestival.it](https://www.internetfestival.it)
+- Mixart Pisa [www.mix-art.org](https://www.mix-art.org)
 - Santeria Milano [www.santeriamilano.it](https://www.santeriamilano.it)
-- Luca (voce del narratore)
-- e BRUNO!
+- Luca Apple (voce del narratore)
+- e il piccolo BRUNO!
 
-## STRUMENTI / TOOLS
-- Fungus (engine open source) <www.fungusgames.com
+## Strumenti
+- [Fungus](https://fungusgames.com) (engine open source)
 - Unity
 - Minecraft
 - GitHub
 - GIMP e vari pixel editors
 
-## PROGETTO OPEN SOURCE
-Questo progetto è doverosamente gratuito sotto licenza Creative Commons ed Open Source  
-Scarica i sorgenti da <https://github.com/JAMURR/JAM.7FRAMES> e inizia a modificare tutto!
+## Progetto Open Source
+Questo progetto è doverosamente gratuito sotto licenza Creative Commons ed Open Source. Scarica i sorgenti da <https://github.com/jamurr/JAM.7FRAMES> e inizia a modificare tutto!
 
-## PARTECIPA
+## Partecipa
 Se sei un bambino curioso o un papà (o mamma) in cerca di nuove forme di ricreatività, contattami
