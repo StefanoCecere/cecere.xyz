@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Ultimi post
+title: Ultimi PlayED
 subtitle:
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: post
+  page_type: played
   # Choose how many pages you would like to display (0 = all pages)
-  count: 4
+  count: 2
   # Filter on criteria
   filters:
     author: ""
