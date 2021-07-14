@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.83.0"
+  HUGO_VERSION = "0.84.4"
   HUGO_ENABLEGITINFO = "false"
 
 [context.production.environment]
@@ -26,13 +26,13 @@
     Content-Type = "application/rss+xml"
 
 [[redirects]]
-  from = "https://stefanocecere.com/*"
-  to = "https://stefano.cecere.org/:splat"
+  from = "https://stefano.cecere.org/*"
+  to = "https://stefanocecere.com/:splat"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://stefanocecere.org/*"
-  to = "https://stefano.cecere.org/:splat"
+  to = "https://stefanocecere.com/:splat"
   status = 301
   force = true
