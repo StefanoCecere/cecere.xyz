@@ -5,3 +5,5 @@ _local/
 .Ulysses-Group.plist
 content/.obsidian
 assets/jsconfig.json
+.frontmatter
+frontmatter.json
