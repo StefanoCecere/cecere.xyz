@@ -17,4 +17,4 @@ Progetti e costruisci mezzi terrestri e volanti per finire il livello. Gradi di 
 #TODO/scrivere 
 
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

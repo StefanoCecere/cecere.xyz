@@ -23,4 +23,4 @@ enhance your Calcio Balilla (Table football) game with tons of fun using these s
 
 assets: <https://github.com/StefanoCecere/PowerPartyBIliardino>
 
-{{< gallery album="gallery">}}
+{{< sc_gallery album="gallery">}}

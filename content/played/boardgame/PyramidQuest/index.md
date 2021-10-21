@@ -32,4 +32,4 @@ DOVE ACQUISTARLA: cercare Escape Welt / Quest Pyramide io l'ho trovata solo sul 
 > *Stefano:* risolverla insieme, in due è meglio, magari la sera, con la pila, e immedesimarsi nei tunnel dentro la piramide!
 {.boxStefano}
 
-{{< gallery "gallery">}}
+{{< sc_gallery album="gallery">}}

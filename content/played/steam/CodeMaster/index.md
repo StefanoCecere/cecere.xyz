@@ -22,4 +22,4 @@ forse il miglior gioco di introduzione al coding
 > *Stefano:* con il giusto coinvolgimento iniziale, perché non è un gioco che possono inziare da soli, poi se ingranano vanno alla grande
 {.boxStefano}
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

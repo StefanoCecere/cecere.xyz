@@ -48,4 +48,4 @@ costo: 5 euro a testa di materiale
 ## foto
 ecco qualche foto della mattinata.
 
-{{< gallery album="img" >}}
+{{< sc_gallery album="img" >}}

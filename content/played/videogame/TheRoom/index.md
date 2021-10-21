@@ -20,4 +20,4 @@ magari non tutti gli enigmi sono adatti a tutti i bambini, ma lì è bello colla
 > *Stefano:* imprescindibili a chiunque ami le Escape Rooms
 {.boxStefano}
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

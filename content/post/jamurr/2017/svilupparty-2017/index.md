@@ -13,4 +13,4 @@ tags: [Svilupparty, 7Frames]
 
 la presentazione del gioco 7 FRAMES a Bologna – [Svilupparty](http://www.svilupparty.it/) è andata molto bene!
 
-{{< gallery album="gallery" >}}
+{{< sc_gallery album="gallery" >}}

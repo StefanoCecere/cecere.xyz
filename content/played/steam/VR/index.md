@@ -23,4 +23,4 @@ Il nuovo modello dell'Oculus, che è un visore indipendente (senza cavi al compu
 > Fabio: è davvero incredibile. faccio arrampicata con The Climb e gioco a The Room.. sembra proprio di essere lì!
 {.boxFabio}
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

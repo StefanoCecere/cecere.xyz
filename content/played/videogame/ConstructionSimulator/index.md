@@ -20,4 +20,4 @@ NO-TE-VO-LIS-SI-MO
 > *Fabio:*
 > è fatto benissimo con tutte i mezzi da lavoro e tantissimi lavori da eseguire
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

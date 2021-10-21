@@ -25,4 +25,4 @@ per diversi anni è stato il punto di riferimento per mille attività e riunioni
 
 purtroppo le circostanze ci portarono a chiuderlo nel 2009, ma penso che oggi più che mai abbiamo bisogno di luoghi del genere: spazi dove ritrovarsi.
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

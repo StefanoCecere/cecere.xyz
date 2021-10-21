@@ -10,4 +10,4 @@ url_game:
 ---
 
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

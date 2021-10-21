@@ -29,4 +29,4 @@ Relatori:
 
 saranno presenti anche epidemiologi e studiosi del caso nucleare
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

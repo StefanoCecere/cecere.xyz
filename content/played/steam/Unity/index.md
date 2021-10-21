@@ -16,4 +16,4 @@ fate un regalo ai vostri figli: Unity
 è pure gratuito!
 
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

@@ -18,5 +18,5 @@ Nella foto c'è anche un libro della serie "Tu Sei..." altrettanto carino, con q
 
 ![](librogioco_avventura-featured.jpg)
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}
 

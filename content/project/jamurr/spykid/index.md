@@ -34,4 +34,4 @@ per ora abbiamo studiato e implementato:
 - scarica app **Android**: [Google Play](https://play.google.com/store/apps/details?id=com.jamurr.spykid)
 - progetto Open Source: <https://github.com/jamurr/JAM.SpyKid>
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

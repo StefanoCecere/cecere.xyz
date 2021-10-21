@@ -45,7 +45,7 @@ ogni ragazzo ha compilato una “scheda del personaggio” cartacea e siamo quin
 > NOTA: parte fondamentale della nostra Jam è l’approcciare un tema personale/sociale e svilupparlo, con discussioni, immagini ed esempi, usando lo strumento del videogioco come risultato finale.
 
 al lavoro!
-{{< gallery album="img/lavoro" >}}
+{{< sc_gallery album="img/lavoro" >}}
 
 c’è chi ha lavorato anche solo in pixel art, per trasformare in seguito il suo personaggio in 3D con l’aiuto del papà.
 
@@ -57,7 +57,7 @@ mentre i ragazzi proseguivano con la costruzione dei personaggi e dei loro ambie
 
 a fine giornata i 7 personaggi base, e delle loro “props” (accessori) erano finiti e anche la bozza generale del gioco
 
-{{< gallery album="img/personaggi"  width="100px">}}
+{{< sc_gallery album="img/personaggi"  width="100px">}}
 
 alle 19 siamo andati a vedere cosa stavano facendo alla Jam dei “grandi” e poi tutti in pizzeria!
 

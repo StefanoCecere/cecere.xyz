@@ -17,5 +17,5 @@ al visore in VR con tanto di ambiente per creare i tuoi scenari e giochi (ci ho 
 > *Fabio:*
 > bello costruire con il cartone e poi giocarci.. il cartone giocato!
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}
 

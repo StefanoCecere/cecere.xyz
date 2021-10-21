@@ -36,4 +36,4 @@ l’esperienza e il risultato sono stati emozionanti, tanto da vincere il premio
 
 potete trovare il gioco alla pagina progetto [Non sono solo una pecora]({{< relref "/project/jamurr/non-sono-solo-una-pecora" >}})
 
-{{< gallery album="gallery" >}}
+{{< sc_gallery album="gallery" >}}

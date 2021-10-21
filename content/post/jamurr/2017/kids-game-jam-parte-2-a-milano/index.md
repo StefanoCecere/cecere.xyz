@@ -26,4 +26,4 @@ abbiamo finito la Jam del gioco 7 FRAMES a Milano, presso la Santeria
 
 ottimo sviluppi, lo pubblicheremo e presenteremo al mondo a maggio allo Svilupparty di Bologna!
 
-{{< gallery album="gallery" >}}
+{{< sc_gallery album="gallery" >}}

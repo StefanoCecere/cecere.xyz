@@ -17,4 +17,4 @@ gratuita, semplice.
 Ognuno può creare un suo gruppo tra amici per discutere in audio, video, condividere schermo e files.
 Viene usata anche al di fuori dei soli videogiochi, ad esempio per fare compiti o lavoro.
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

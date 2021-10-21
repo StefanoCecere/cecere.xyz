@@ -13,4 +13,4 @@ url_game:
 > Fabio: davvero geniale
 {.boxFabio}
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

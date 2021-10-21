@@ -19,4 +19,4 @@ slides: ""
 ---
 development of about 20 multimedia CDROM for New Sounds Multimedia / New Digital Media company, with Adobe Director (version 3!!), experimenting game interactions, QuicktimeVR, internet connections, multilingual, 3D environments (made by SIlicon Graphics), hidden objects, music catalogues.
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

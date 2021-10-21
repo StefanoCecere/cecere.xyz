@@ -21,4 +21,4 @@ slides: ""
 tour italiano
 tastierista programmatore per il tour .
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

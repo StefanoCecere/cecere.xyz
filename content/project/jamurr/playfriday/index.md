@@ -43,7 +43,7 @@ I genitori accompagnatori sono sempre benvenuti a giocare con i ragazzi o tra di
 Ultimamente sono i ragazzi stessi a portare i loro giochi preferiti: io li invito a studiarsi bene le istruzioni così da imparare a spiegarle agli amici.
 
 
-{{< gallery album="gallery" >}}
+{{< sc_gallery album="gallery" >}}
 
 ## Giochi giocati
 Elenco qui tutti giochi che i ragazzi hanno provato con qualche mio commento così da aiutarvi a scoprire un po’ questo bellissimo mondo. 

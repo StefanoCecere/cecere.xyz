@@ -38,12 +38,12 @@ Infine revisionato e ultimato via internet in qualche pomeriggio di pioggia da S
 
 ## Presentazione
 
-{{< gallery album="gallery" >}}
+{{< sc_gallery album="gallery" >}}
 
 ## Produzione
 nella prima parte della giornata abbiamo spiegato come avremmo lavorato e poi insieme creato i flussi del gioco. tutti i documenti finali sono nelle [Docs del progetto](https://github.com/jamurr/JAM.7FRAMES/tree/master/docs)
 
-{{< gallery album="files" >}}
+{{< sc_gallery album="files" >}}
 
 ## Idee, Dialoghi, Personaggi, Grafica, Musica, Voci, Debug
 - Angelo Boni

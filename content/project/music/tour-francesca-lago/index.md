@@ -20,4 +20,4 @@ slides: ""
 
 keyboard player playing all around italy.
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

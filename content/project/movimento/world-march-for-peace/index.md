@@ -25,5 +25,5 @@ ah: già che c'era ho composto e prodotto alcune musiche tra qui quella dello sp
 {{< youtube TyzhJUJfNF0>}}
 
 ecco alcune immagini dei siti e delle attività:
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}
 

@@ -25,4 +25,4 @@ tags:
 
 abbiamo partecipato a Svilupparty 2016, presentando il progetto JAMURR, i giochi Non sono solo una pecora e SpyKid e lanciando la prossima Kids Game Jam!
 
-{{< gallery album="gallery" >}}
+{{< sc_gallery album="gallery" >}}

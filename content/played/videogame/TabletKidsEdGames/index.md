@@ -30,4 +30,4 @@ sul mio sito avevamo iniziato a recensire qualche gioco, potete vedere su [stefa
 > *Fabio:*
 > ho imparato a lavare i piatti.  
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

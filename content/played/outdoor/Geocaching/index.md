@@ -22,4 +22,4 @@ Anche il piccolo Bruno si è divertito a spostare tutti i sassi e cercare indizi
 Presto ne creeremo una anche noi vicino casa. così potete venire a trovarci per una tisana premio (solo se lo troverete, ovvio)
 cercate Geocaching e buone avventure!
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

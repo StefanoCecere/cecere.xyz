@@ -15,4 +15,4 @@ devi inventare il modo di connettere i "goo" per costruire strutture e risolvere
 > *Stefano:* ci giocai io, poi Fabio, poi Bruno
 {.boxStefano}
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

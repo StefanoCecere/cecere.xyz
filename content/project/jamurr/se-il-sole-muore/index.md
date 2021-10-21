@@ -30,4 +30,4 @@ progetto Open Source: <https://github.com/JAMURR/JAM.IfSunDies_U3D>
 - Bruno Cecere - voice, support, noize, microson
 - Maddalena & Antonella - additional voices
 
-{{< gallery album="gallery" >}}
+{{< sc_gallery album="gallery" >}}

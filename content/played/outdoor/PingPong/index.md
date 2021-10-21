@@ -11,5 +11,5 @@ url_game:
 giocare a Ping Pong è bello e divertente.
 organizzare un torneo tra amici o nel quartiere è ancora meglio!
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}
 

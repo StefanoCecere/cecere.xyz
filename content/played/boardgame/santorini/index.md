@@ -29,4 +29,4 @@ voto: 9
 > *Stefano:* gioco perfetto
 {.boxStefano}
 
-{{< gallery "gallery">}}
+{{< sc_gallery album="gallery">}}

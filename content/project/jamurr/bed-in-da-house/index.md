@@ -36,7 +36,7 @@ To showcase the game at the jam we recorded this short video:
 {{< youtube s28Vm8gWLDg>}}
 
 ## Some Photos
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}
 
 ## Requirements
 The game runs almost everywhere, it's a simple Unity 2018.3 project.  

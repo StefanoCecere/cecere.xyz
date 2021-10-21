@@ -19,4 +19,4 @@ Una bambina in cerca della sua storia in un mondo affascinante e davvero godibil
 > *Fabio:*
 > rompe le leggi della fisica ed è difficile
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

@@ -28,16 +28,16 @@ mostly AMOS (the Amiga version of STOS), a precursor of Director.
 here are some titles i could still find :)
 
 ## Hypnotic Land (1990)
-{{< gallery album="hypnoticland" >}}
+{{< sc_gallery album="hypnoticland" >}}
 
 <a href="http://hol.abime.net/5257">Hypnotic Land</a>
 
 ## Franco Girardelli Hockey (1991)
-{{< gallery album="hockey" >}}
+{{< sc_gallery album="hockey" >}}
 
 <a href="http://www.lemonamiga.com/games/details.php?id=3510">Franco Girardelli Hockey</a>
 
 ## Holo Squash (1992)
-{{< gallery album="holosquash" >}}
+{{< sc_gallery album="holosquash" >}}
 
 <a href="http://www.lemonamiga.com/games/details.php?id=3206">Holo Squash</a>

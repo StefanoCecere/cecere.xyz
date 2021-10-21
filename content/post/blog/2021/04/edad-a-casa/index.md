@@ -39,4 +39,4 @@ Il mio ruolo di eDad è stato fondamentale, ma divertente e non troppo difficile
 
 PS: mi piace molto il ruolo di **eDaD** (Ed + Dad + DAD + D&D :)
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

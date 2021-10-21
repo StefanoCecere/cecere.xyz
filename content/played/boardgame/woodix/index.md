@@ -22,4 +22,4 @@ url_game:
 > *Stefano:* non me l'aspettavo che piacessero tantissimo anche al piccolo Bruno, che li chiede.
 {.boxStefano}
 
-{{< gallery "gallery">}}
+{{< sc_gallery album="gallery">}}

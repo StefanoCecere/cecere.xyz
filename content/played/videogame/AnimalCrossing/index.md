@@ -18,4 +18,4 @@ Un gioco pluripremiato e consigliato per i bambini dai 4 anni in su, perché per
 > *Fabio:* ci gioca anche Bruno. abbiamo le nostre casette vicine e andiamo a cercare reperti per il museo archeologico o peschiamo pesci
 {.boxFabio}
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}

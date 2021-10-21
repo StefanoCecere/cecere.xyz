@@ -26,4 +26,4 @@ Giocando con “tecniche vocali" (cantare, ritmare, ruttare, armonizzare) convin
 Tonsilla è il gioco dove la tua voce è importante.
 (Otorino non incluso)
 
-{{< gallery album="img">}}
+{{< sc_gallery album="img">}}

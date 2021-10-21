@@ -17,6 +17,6 @@ url_slides: ""
 url_video: ""
 slides: ""
 ---
-{{< gallery album="gallery" >}}
+{{< sc_gallery album="gallery" >}}
 
 european tour with one of the most funky italian pop stars, with a super band of 17 amazing musicians.

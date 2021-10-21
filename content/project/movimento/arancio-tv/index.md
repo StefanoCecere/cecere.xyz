@@ -18,7 +18,7 @@ slides: ""
 ---
 un collettivo di videomakers che vogliono creare contenuti video
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}
 
 ## dal sito arancio.tv
 **benvenuti in arancio.tv**

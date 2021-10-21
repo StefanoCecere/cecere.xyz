@@ -12,5 +12,5 @@ Non pretendiamo di diventare tutti cartografi, ma la pratica di "mappare" l'ambi
 
 Lo si può fare in una pausa quando si è in giro, oppure una volta tornati a casa.
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}
 

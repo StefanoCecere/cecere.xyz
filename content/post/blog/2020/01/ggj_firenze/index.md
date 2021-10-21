@@ -20,7 +20,7 @@ resources: []
 
 ---
 
-{{< gallery album="gallery" >}}
+{{< sc_gallery album="gallery" >}}
 
 (se non sai cosa è, leggi sotto)
 

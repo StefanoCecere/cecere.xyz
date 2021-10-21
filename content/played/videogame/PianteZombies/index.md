@@ -16,4 +16,4 @@ Un gioco "classico" che tutti hanno provato, molto adatto ai giovanissimi (sopra
 > *Stefano:* pianificazione.
 {.boxStefano}
 
-{{< gallery "gallery" >}}
+{{< sc_gallery album="gallery" >}}
