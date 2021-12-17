@@ -9,3 +9,4 @@ assets/jsconfig.json
 frontmatter.json
 .vscode
 assets/jsconfig.json
+.hugo_build.lock
