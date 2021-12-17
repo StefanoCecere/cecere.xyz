@@ -7,3 +7,5 @@ content/.obsidian
 assets/jsconfig.json
 .frontmatter
 frontmatter.json
+.vscode
+assets/jsconfig.json
