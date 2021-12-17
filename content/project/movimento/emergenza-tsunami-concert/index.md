@@ -1,22 +1,11 @@
 ---
 title: Emergenza Tsunami
-slug: emergenza-tsunami
-summary: "concerto rock in aiuto delle popolazioni asiatiche dopo lo Tsunami del 2004"
 slug: emergenza-tsunami-concert
-authors: []
+summary: "concerto rock in aiuto delle popolazioni asiatiche dopo lo Tsunami del 2004"
 tags: [social,music,MovimentoUmanista,organization]
-categories: ["event"]
+categories: [event]
 date: 2005-02-08
 external_link: ""
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-slides: ""
 ---
 Nel 2005 con alcuni amici musicisti abbiamo organizzato questo concerto di solidarietà al Rolling Stone di Milano per le vittime dello Tsunami del 2004.
 

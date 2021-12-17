@@ -5,7 +5,6 @@ summary: ""
 authors: []
 categories: [libreria]
 tags: [psicologia, stupidita]
-categories: []
 date: 2019-08-29T08:23:41+02:00
 lastmod: 2019-08-29T08:23:41+02:00
 featured: true

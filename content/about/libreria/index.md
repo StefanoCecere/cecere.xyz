@@ -4,14 +4,16 @@ summary: siamo anche i libri che abbiamo letto
 slug: libreria
 type: book
 toc: true
-weight: 1
 authors: []
-tags: [books]
-categories: [stefano]
-date: 2018-06-28T00:00:00+02:00
+tags:
+    - books
+categories:
+    - stefano
+date: 2018-06-27T22:00:00.000Z
 featured: false
 draft: false
 weight: 60
+lastmod: 2021-10-25T19:18:55
 ---
 _Siamo anche i libri che abbiamo letto_, preziosi compagni di viaggio e guide ispiratrici. Non so voi, ma per conoscere una persona mi piace curiosare nella sua libreria, così vi condivido una parte della mia, evidenziando quelli che mi stanno più a ❤️.
 
