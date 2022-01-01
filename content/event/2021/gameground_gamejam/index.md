@@ -1,28 +1,31 @@
 ---
-title: "Gameground Kids Game Jam"
-event: Gamegroun 2021
-event_url: 
+title: Gameground Kids Game Jam
+event: Gameground 2021
+event_url: null
 location: Bolzano
 summary: una Game Jam per i ragazzi
 abstract: ''
-# Talk start and end times.
-date: 2021-10-23
+date: 2021-10-23T00:00:00.000Z
 all_day: true
-publishDate: 2021-10-23
-
-categories: [jam]
-tags: [jamurr, KidsGameJam]
+publishDate: 2021-10-23T00:00:00.000Z
+categories:
+  - jam
+tags:
+  - jamurr
+  - KidsGameJam
 featured: false
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-url_slides:
-url_code:
-url_pdf:
-url_video: 
-slides: ""
-projects: [edu/kidsgamejam]
+url_slides: null
+url_code: null
+url_pdf: null
+url_video: null
+slides: ''
+projects:
+  - edu/kidsgamejam
+slug: gameground-kids-game-jam
 ---
 
 la GameJam dei ragazzi su un gioco ambientale che qui introduco con un video fatto apposta!

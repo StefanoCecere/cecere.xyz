@@ -20,6 +20,7 @@ powered by:
 hugo new --kind post post/articles/
 hugo new --kind post post/blog/2021/03/
 hugo new --kind played played/boardgame/
+hugo new --kind played played/videogame/
 hugo serve --gc
 
 # upgrade Hugo on macOS:

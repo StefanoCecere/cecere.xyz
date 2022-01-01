@@ -75,3 +75,6 @@ markup:
       attribute:
         block: true
 rssLimit: 30
+
+security:
+  _merge: deep
