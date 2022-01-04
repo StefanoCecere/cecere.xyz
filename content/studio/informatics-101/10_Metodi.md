@@ -8,3 +8,6 @@ draft: false
 ---
 
 Introduzione all'informatica
+
+
+## Python
