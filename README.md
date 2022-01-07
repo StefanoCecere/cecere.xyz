@@ -1,12 +1,12 @@
-# stefano.cecere.org
-the source of my website <https://stefano.cecere.org>.
+# stefanocecere.com
+the source of my website <https://stefanocecere.com>.
 hope you'll find something useful, please share and let me know.
 
 powered by:
 - [Hugo](https://gohugo.io) - static site generator
 - [Wowchemy](https://wowchemy.com) - Hugo Template Framework
 - [Netlify](https://www.netlify.com) - hosting and CDN
-- [brain+heart](https://stefano.cecere.org) - personal work
+- [brain+heart](https://stefanocecere.com) - personal work
 
 ## snippets
 ```
@@ -15,6 +15,7 @@ powered by:
 
 {{< youtube 82f0_jqhVgs >}}
 ```
+
 ## terminal commands
 ```
 hugo new --kind post post/articles/
