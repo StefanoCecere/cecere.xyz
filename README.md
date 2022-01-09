@@ -29,6 +29,12 @@ brew upgrade hugo
 
 # update theme modules
 hugo mod get -u ./...
+
+## clean
+hugo mod clean
+hugo mod get -u ./..
+hugo mod tidy
+
 ```
 ## copyright
 This site and all its contents produced by me are Copyright by Stefano Cecere and  licensed under [CC BY NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
