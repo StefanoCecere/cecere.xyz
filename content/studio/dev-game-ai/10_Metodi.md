@@ -38,6 +38,9 @@ AI può giocare con due obiettivi:
 	b) credibilità e umanizzazione
 
 
+## AI Model
+![](../img/AI-model.webp)
+
 ## Metodi AI nei videogiochi
 
 ### Utility
