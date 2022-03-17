@@ -3,7 +3,8 @@ title: Spazio nel cervello
 slug: null
 subtitle: ''
 summary: ''
-tags: cervello
+tags: 
+    - cervello
 categories:
     - dialoghi
 date: 2021-10-30T00:00:00.000Z

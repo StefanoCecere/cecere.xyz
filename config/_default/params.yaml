@@ -5,153 +5,106 @@
 
 # Appearance
 
-theme: orange
-day_night: true
-font: ''
-font_size: L
+appearance:
+  theme_day: orange
+  theme_night: orange
+  font: minimal
+  font_size: L
 
 # SEO
-
-site_type: Person
-local_business_type: ''
-org_name: ''
-description: "AI+XR+EdTech+Game dev, Humanist, Educator, Author, Activist. Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Scienza, Tecnologie Digitali, Arte e Filosofia Umanista per sopravvivere tutti al 2042."
-twitter: 'StefanoCecere'
-
-# Contact (edit or remove options as required)
-
-email: stefano.cecere@gmail.com
-# phone: 888 888 88 88
-#address:
-#  street: 
-#  city: Firenze
-#  region: CA
-#  postcode: '50135'
-#  country: Italy
-#  country_code: IT
-#coordinates:
-#  latitude: '37.4275'
-#  longitude: '-122.1697'
-#directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-#office_hours:
-#  - 'Monday 10:00 to 13:00'
-#  - 'Wednesday 09:00 to 10:00'
-#appointment_url: ''
-contact_links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Twitter
-#    link: 'https://twitter.com/StefanoCecere'
-# - icon: facebook
-#   icon_pack: fab
-#   name: Facebook
-#   link: 'https://www.facebook.com/StefanoCecere'
-#  - icon: telegram
-#    icon_pack: fab
-#    name: Telegram
-#    link: 'https://t.me/StefanoCecere'
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: "AI+XR+EdTech+Game dev, Humanist, Educator, Author, Activist. Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Scienza, Tecnologie Digitali, Arte e Filosofia Umanista per sopravvivere tutti al 2042."
+    twitter: 'StefanoCecere'
+  analytics:
+    google_analytics: 'UA-95775-1'
+    google_tag_manager: 'G-EVD3BV59KL'
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
 
-main_menu:
-  enable: true
-  align: 1
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
+# Site footer
+
+footer:
+  copyright:
+    notice: '&copy;1973-{year} Stefano Cecere'
+    license:
+      enable: false
+      allow_derivatives: true
+      share_alike: true
+      allow_commercial: false
 
 # Localization
 
-date_format: '2 Jan 2006'
-time_format: '15:04'
-address_format: fr-fr
+locale:
+  date_format: '2 Jan 2006'
+  time_format: '15:04'
+  address_format: fr-fr
 
 # Site features
 
-highlight: true
-highlight_languages:
-math: true
-diagram: false
-privacy_pack: true
-edit_page:
-  repo_url: 'https://github.com/StefanoCecere/stefanocecere.org'
-  content_dir: ''
-  repo_branch: main
-  editable:
-    page: false
-    post: false
-    book: true
-show_related:
-  book: true
-  page: false
-  post: true
-  played: true
-  project: true
-  publication: false
-  event: true
-reading_time: false
-section_pager: true
-docs_section_pager: true
-sharing: true
-copyright_license:
-  enable: false
-  allow_derivatives: true
-  share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under {license}'
-abstract_length: 135
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
-publications:
-  date_format: January 2006
-  citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
-comments:
-  provider: ''
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: algolia
-  algolia:
-    app_id: 'R7FIP8H2C4'
-    api_key: 'a73944b6449c0319fe632f4087dbf66b'
-    index_name: 'stefanocecere.org'
-    show_logo: true
-map:
-  provider: ''
-  api_key: ''
-  zoom: 15
-marketing:
-  google_analytics: 'UA-95775-1'
-  google_tag_manager: 'G-EVD3BV59KL'
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
-cms:
-  branch: main
-  local_backend: true
-icon:
-  pack:
-    ai: true
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - latex
+  math:
+    enable: true
+  diagram:
+    enable: false
+  privacy_pack:
+    enable: true
+  repository:
+    url: 'https://github.com/StefanoCecere/stefanocecere.org'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: 'algolia'
+    algolia:
+      app_id: 'R7FIP8H2C4'
+      api_key: 'a73944b6449c0319fe632f4087dbf66b'
+      index_name: 'stefanocecere.org'
+      show_logo: true
+  map:
+    provider: ''
+    api_key: ''
+    zoom: 15
+
+extensions:
+  cms:
+    branch: main
+    local_backend: true
+  isotope:
+    # Enable if you use the Portfolio widget or Publication filter
+    enable: true
+  academicons:
+    enable: false
 
 # my
 ghrepo: https://github.com/stefanoCecere/stefanocecere.org/

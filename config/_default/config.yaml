@@ -3,9 +3,34 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Stefano Cecere # Website name
+title: 'Stefano Cecere' # Website name
 baseurl: 'https://stefanocecere.com/' # Website URL
-copyright: '&copy;1973-{year} Stefano Cecere' # Footer text, e.g. '© {year} Me'
+
+############################
+## PAGE OPTIONS
+############################
+
+cascade:
+  # Blog post folder options
+  - _target:
+      path: /post/**
+    show_related: true
+  - _target:
+      path: /project/**
+    show_related: true
+  - _target:
+      path: /event/**
+    show_related: true
+  - _target:
+      path: /played/**
+    show_breadcrumb: true
+    show_related: true
+    editable: true
+  - _target:
+      path: /studio/**
+    show_breadcrumb: true
+    show_related: false
+    editable: true
 
 ############################
 ## LANGUAGE
@@ -43,7 +68,6 @@ permalinks:
   project: '/project/:slug/'
   tags: '/tag/:slug/'
   categories: '/c/:slug/'
-  publication_types: '/publication-type/:slug/'
 disableAliases: false
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
@@ -67,6 +91,10 @@ related:
       weight: 100
     - name: categories
       weight: 70
+security:
+  _merge: deep
+sitemap:
+  _merge: deep
 
 # enable class attributes to blockquotes (to style games databoxes)
 markup:
@@ -76,5 +104,8 @@ markup:
         block: true
 rssLimit: 30
 
-security:
-  _merge: deep
+minify:
+  minifyOutput: true
+  tdewolff:
+    html:
+      keepWhitespace: false
