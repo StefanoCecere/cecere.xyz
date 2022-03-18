@@ -14,7 +14,7 @@ weight: 1
 
 ## Automazione e Intelligenze Artificiali
 
-## Consumistmo
+## Consumismo
 
 ## Sovrappopolazione
 
