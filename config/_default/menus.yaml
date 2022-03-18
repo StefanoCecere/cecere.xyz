@@ -10,7 +10,7 @@ main:
   - name: Blog
     url: '/post'
     weight: 20
-  - name: Progetti
+  - name: Projects
     url: '/projects'
     weight: 30    
   - name: Talks
@@ -22,10 +22,10 @@ main:
   - name: Studio
     url: '/studio'
     weight: 95
-  - name: Chi sono
+  - name: About
     url: '/about'
     weight: 100
-  - name: Contatto
+  - name: Contact
     url: '/contact'
     weight: 900
 
