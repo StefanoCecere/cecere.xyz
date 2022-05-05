@@ -3,9 +3,11 @@
 {{/* Initialise */}}
 {{ $ := .root }}
 {{ $st := .page }}
-{{ $items_type := $st.Params.content.page_type | default "project" }}
 {{ $columns := $st.Params.design.columns | default "2" }}
 {{ $view := $st.Params.design.view | default "masonry" }}
+
+{{/* Require Isotope */}}
+{{ $.Page.Store.Set "has_isotope" true }}
 
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
 
@@ -47,26 +49,30 @@
 
   <div class="{{ if or $st.Params.content.filter_button (in (slice "masonry" 3) $view) }}isotope projects-container{{end}} {{if in (slice "masonry" 3) $view}}js-layout-masonry{{else}}row js-layout-row{{end}} {{ if eq $view "showcase" }}project-showcase{{end}}">
 
-    {{ $query := "" }}
-    {{ $archive_page := site.GetPage "Section" $items_type }}
-    {{ if $st.Params.content.filters.tags }}
-      {{ $query = where site.Pages "Params.tags" "intersect" $st.Params.content.filters.tags }}
-    {{ else }}
-      {{ $query = where site.RegularPages "Type" $items_type }}
-    {{ end }}
+    {{/* Query */}}
+    {{ $query := site.RegularPages }}
 
-    {{ if $st.Params.content.filters.category }}
-      {{ $archive_page = site.GetPage (printf "categories/%s" (urlize $st.Params.content.filters.category)) }}
-      {{ $query = $query | intersect $archive_page.Pages }}
+    {{/* Filters */}}
+    {{ with $st.Params.content.page_type }}
+      {{/* Legacy filter, superseded by `filters.folders` */}}
+      {{ $query = where $query "Type" . }}
     {{ end }}
-
-    {{ if $st.Params.content.filters.exclude_featured }}
-      {{ $query = where $query "Params.featured" "!=" true }}
+    {{ with $st.Params.content.filters.folders }}
+      {{ $query = where $query "Section" "in" . }}
+    {{ end }}
+    {{ with $st.Params.content.filters.tags }}
+      {{ $query = where $query "Params.tags" "intersect" . }}
     {{ end }}
     {{ if $st.Params.content.filters.featured_only }}
       {{ $query = where $query "Params.featured" "=" true }}
-    {{ end }}
-    
+      {{ end }}
+
+    {{/* Sort */}}
+    {{ $sort_by := $st.Params.content.sort_by | default "Date" }}
+    {{ $sort_ascending := $st.Params.content.sort_ascending | default (eq $st.Params.content.order "asc") | default false }}
+    {{ $sort_order := cond $sort_ascending "asc" "desc" }}
+    {{ $query = sort $query $sort_by $sort_order }}
+
     {{ range $index, $item := $query }}
       {{ $js_tag_classes := delimit (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}
         {{ if in (slice "masonry" 3) $view }}
