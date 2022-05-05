@@ -37,6 +37,11 @@ bio: Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Tec
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/stefanocecere
+  display:
+    header: true
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/StefanoCecere
@@ -46,12 +51,11 @@ social:
 #- icon: youtube
 #  icon_pack: fab
 #  link: https://www.youtube.com/channel/UCIJRyBArdrCb1m52coyhUZA
-- icon: github
-  icon_pack: fab
-  link: https://github.com/stefanocecere
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/StefanoCecere
+  display:
+    header: true
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/stefanocecere
@@ -63,7 +67,7 @@ social:
   link: https://t.me/scecere
   label: Seguimi su Telegram
   display:
-    header: true
+    header: false
 #- icon: discord
 #  icon_pack: fab
 #  link: https://discord.gg/5y5VcGTjwE
@@ -75,7 +79,7 @@ social:
   link: https://cecere.substack.com
   label: Iscriviti alla mia newsletter settimanale
   display:
-    header: true
+    header: false
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
