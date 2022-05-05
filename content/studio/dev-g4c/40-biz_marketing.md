@@ -1,5 +1,6 @@
 ---
 title: "Business e Marketing"
+summary: "mercato e opportunità"
 date: 2017-09-09T00:00:00
 type: book
 weight: 40
@@ -42,7 +43,6 @@ Oltre ai classici distributori e self publisher, qui c’è la possibilità di l
 - Governi
 - Imprese private
 - Publishers
-
 - autofinanziamento (Kickstarter)
 
 ## Legal Issues

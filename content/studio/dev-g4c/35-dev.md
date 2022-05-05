@@ -1,5 +1,6 @@
 ---
 title: "Sviluppo"
+summary: "problematiche e tips di sviluppo"
 date: 2017-09-09T00:00:00
 type: book
 weight: 30
@@ -45,7 +46,7 @@ In the context of games, often the term personalization is used for a (static)
 - bisogna calibrare bene la crescita di difficoltà
 - i buoni puzzles hanno un senso nel contesto del gioco
 
-## flow
+## Flow
 ![](../img/flow.webp)
 
 - le sfide devono essere adattate alle capacità e interessi del giocatore, perché non tutti imparano allo stesso modo né hanno gli stessi interessi.

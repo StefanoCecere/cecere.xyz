@@ -1,5 +1,6 @@
 ---
 title: "Temi e Case studies"
+summary: "case studies di videogiochi e giochi applicati"
 date: 2017-09-09T00:00:00
 type: book
 weight: 20
@@ -7,8 +8,9 @@ toc: true
 draft: false
 ---
 
-## Low Infusion
-like Minecraft, Angry Birds, or Pokemon GO!, Assassin’s Creed Unity, evoluti in MinecraftEDU, Rayman Brain Games, and SimcityEDU
+## Where in the World Is Carmen Sandiego?
+1985 [link](https://en.wikipedia.org/wiki/Where_in_the_World_Is_Carmen_Sandiego%3F_(1985_video_game))
+![](../img/where-carmen.webp)
 
 ## Formazione e Simulazione
 
@@ -56,11 +58,6 @@ https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build
 dalle elementari all'università alla formazione professionale.
 Mercato enorme e in crescita per i kids
 Spettro molto ampio
-
-### GBL: Game Based Learning
-![](../img/gbl_mario.webp)
-
-Sviluppare facoltà e attitudini, come affinamento della sensibilità, come correzione del comportamento, come trasmissione e acquisizione di elementi culturali, estetici, morali.
 
 ### Antura and the Letters
 ![](../img/antura.webp)

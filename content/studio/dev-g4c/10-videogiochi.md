@@ -1,5 +1,6 @@
 ---
-title: "Potenza dei Videogiochi"
+title: "Potere dei Videogiochi"
+summary: "panoramica sui media e l'impatto sociale e caratteristiche dei giochi come strumenti di educazione, persuasione e trasformazione"
 date: 2017-09-09T00:00:00
 type: book
 weight: 10
@@ -20,22 +21,18 @@ Perchè è possibile e opportuno.
 
 Perché è una forma di sviluppo intelligente.
 
-![](../img/book_Games++/img/diagramma-di-cipolla-stupidita_featured.webp)
+![](../img/diagramma-di-cipolla-stupidita_featured.webp)
 
 Perchè si può sentirne l'esigenza.
-![](../img/book_Games++/img/ikigai.webp)
+![](../img/ikigai.webp)
 
 ## Media e impatto sociale
 I media hanno sempre avuto un impatto sulla società.
 Dai racconti mitologici ai testi sacri, dall'enciclopedia ai giornali.
+
 Conoscenza, Educazione e Libertà sono sempre andate insieme, e con l'esplosione delle ICT (Information Communication Technologies) la nostra società è basata sull'Informazione e sopratutto sull'attenzione, con tempi di assimilazione sempre più brevi.
 
-## Where in the World Is Carmen Sandiego?
-1985 [link](https://en.wikipedia.org/wiki/Where_in_the_World_Is_Carmen_Sandiego%3F_(1985_video_game))
-![](../img/where-carmen.webp)
-
-## Impact Games
-> gioco o esperienza ludica con un effetto positivo intenzionale e misurabile
+## Videogiochi
 
 ### Multimedia & Multidisciplinary
 ![](../img/creative_multimedia.webp)
@@ -50,27 +47,20 @@ Si vive un'esperienza dentro un gioco, finché non si rompe a causa di:
 ![](../img/interactive.webp)
 
 ### Feedback loop
-![](../img/loop.webp)
+{{< figure src="../img/loop.webp" width="50%">}}
 
 ### Player centric
 un media umanista
-![](../img/humanist_player.webp)
+{{< figure src="../img/humanist_player.webp" width="50%">}}
 
 ### Alcune virtù dei videogiochi
-1. Oggi sviluppare videogiochi è relativamente semplice ed economico
-2. I giocatori stanno invecchiando. In europa età media è 35. Negli USA giocano > 50%. Necessità di imparare velocemente nuove skills.
-3. Le giocatrici sono ormai al 50% se non di più (UK)
-4. I videogiochi sono accessibilissimi
-5. La formazione di sviluppatori di videogiochi è in crescita
-6. Oggi il termina Gamification è riconosciuto
-7. La rivoluzione digitale necessita nuovi metodi didattici.
-8. Il gioco è fondamentalmente un'esperienza immersiva
-9. La maggior parte dei giocatori, lo fanno in compagnia di altri esseri umani o mentori digitali
-10. I giochi migliorano le capacità di pensiero critico e di lettura e insegnano nuove capacità tecniche.
-11. I meccanismi di gratificazione possono aiutare a superare i momenti di difficoltà
-12. Favoriscono ad un apprendimento individuale e personalizzato
-13. Permettono l'esperienza di scenari reali in ambienti protetti e a basso rischio
-14. Offrono un coinvolgimento fluido e letterario in complicate situazioni morali ed etiche
+1. esperienze non-lineari
+2. esperienze immersiva
+3. migliorano le capacità di pensiero critico e di lettura e insegnano nuove capacità tecniche.
+4. i meccanismi di gratificazione possono aiutare a superare i momenti di difficoltà
+5. favoriscono ad un apprendimento individuale e personalizzato
+6. esperienza di scenari reali in ambienti protetti e a basso rischio
+7. coinvolgimento in complicate situazioni morali ed etiche
 
 ### from a destructured world
 ![](../img/destructured.webp)
@@ -80,14 +70,32 @@ un media umanista
 
 > ci interessa far vivere esperienze formative o con effetti oltre il puro divertimento
 
-## Cosa definisce un Impact Game?
+## Impact Games
+> gioco o esperienza ludica con un effetto positivo intenzionale e misurabile
 
-La definizione di un “Impact game” varia a seconda degli ambienti e della geografia, ma sicuramente ci sono dei requisiti di base che sono:
 
-- Avere degli **obiettivi (goal)** molto ben chiari, definiti e misurabili
-- Mostrare ai giocatori un problema / sfida ben identificabile
-- Usare le dinamiche di gioco o le tecnologie dei giochi
-- Fornire ai giocatori del feedback positivo/negativo rispetto alla progressione verso la sfida del gioco e il raggiungimento degli obiettivi.
+## Gamification
+Il termine gamification significa “trasformare in gioco qualcosa che non è un gioco. E’ un termine abbastanza generico sotto il quale si inseriscono elementi dei giochi nei sistemi non-gioco per migliorare la User Experience (UX) e l’engagement. 
+
+In particolare si usano i concetti e/o elementi dei giochi per “giochificare” applicazioni esistenti,  tipo:
+- Punti
+- Badges
+- Trofei
+- Leader Boards
+- Streaks
+- Levels
+
+![](../img/gamification_elements.webp)
+
+## GBL: Game Based Learning
+![](../img/gbl_mario.webp)
+
+Il Game Based Learning invece è un approccio che usa dei giochi completi, e non solo alcune meccaniche, per ottenere dei risultati predefiniti.
+Possono essere giochi specificatamente progettati oppure giochi esistenti adatti a rinforzare qualche concetto particolare.
+
+## Serious Games
+Giochi progettati per obiettivi che non sia il puro intrattenimento.
+L'intrattenimento può essere comunque un effetto complementare, laterale, dell'esperienza di gioco, ma l'obiettivo è attivare un qualche cambiamento nella comprensione, nell'attitudine o nel comportamento del giocatore.
 
 Per il momento consideriamo *SINONIMI* i termini
 - Impact Game / Social Impact Game
@@ -95,15 +103,18 @@ Per il momento consideriamo *SINONIMI* i termini
 - Applied Game
 - Game with a Purpose
 
-## Impact game vs Gamification
-Il termine gamification significa “trasformare in gioco qualcosa che non è un gioco”. E’ un termine abbastanza generico sotto il quale si inserisce ogni uso degli elementi dei giochi nei sistemi non-gioco per migliorare la User Experience (UX) e l’engagement. In particolare si usano i concetti e/o elementi dei giochi per “giochificare” applicazioni esistenti.
+NB: il Game Based Learning è un caso specifico di serious game, dove l'obiettivo principale è imparare, la comprensione di un contenuto educativo.
 
-La Gamification di solito implementa
-- Badges
-- Trofei
-- Leader Boards
 
-Invece i giochi con una finalità / applied games sono giochi specificatamente progettati per ottenere dei risultati non direttamente ludici.
+### Caratteristiche
+
+Alcune caratteristiche di base sono:
+
+- Avere degli **obiettivi (goal)** molto ben chiari, definiti e misurabili
+- Mostrare ai giocatori un problema / sfida ben identificabile
+- Usare le dinamiche di gioco o le tecnologie dei giochi
+- Fornire ai giocatori del feedback positivo/negativo rispetto alla progressione verso la sfida del gioco e il raggiungimento degli obiettivi.
+
 
 ## G/P/S taxonomy
 - **G**ameplay
@@ -134,12 +145,12 @@ Regole e obiettivi ben definiti.
 Raccogliere dati e informazioni dai giocatori o invitarli a condividerli.
 
 ### Scope: Mercati
+- *Entertainment*
 - Advertising e Marketing
 - Ambiente ed Ecologia
 - Arte
 - Cultura e Musei
 - Educazione
-- *Entertainment*
 - Industria e Corporate
 - Informazione e Media
 - Militare e Difesa
@@ -189,11 +200,8 @@ Non deve essere necessariamente un progetto “serio” nel senso di accademico,
 Ricordarci appunto che non c’è solo l’entertainment per l’entertainment, l’*ars gratia artis*.
 
 ## Focus
-Avere sempre ben chiaro il focus del progetto aiuta Designers, developers, artisti.
+**Avere sempre ben chiaro il focus del progetto** aiuta Designers, developers, artisti. Accelera lo sviluppo, da direzione all'arte, migliora la possibilità di test.
 
-Accelera lo sviluppo, da direzione all'arte, migliora la possibilità di test.
-
-## Chi sono io?
-> DOMANDA: Chi sono io? Perché sono qui?
+## Chi sono io? Perché sono qui?
 
 ![](../img/chi_sono.webp)

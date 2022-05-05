@@ -1,5 +1,6 @@
 ---
 title: "Design"
+summary: "frameworks dedicati per il design e Game Based Learning"
 date: 2017-09-09T00:00:00
 type: book
 weight: 30
@@ -23,6 +24,11 @@ il goal o messaggio aggiunto/integrato
 ![](../img/dev_iterative.webp)
 
 **Interdisciplinary Teamwork**: The framework suggests an interdisciplinary approach in which all team members, not just the designers, participate in every aspect of the development process and learn from each others field of expertise
+
+## Framework
+
+
+
 
 ## ROI vs ROE
 Più che al ROI, guardiamo il Return of Investment

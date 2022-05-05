@@ -1,5 +1,6 @@
 ---
 title: "Appendici"
+summary: "eventi e risorse per approfondire"
 date: 2017-09-09T00:00:00
 type: book
 weight: 90

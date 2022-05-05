@@ -1,5 +1,5 @@
 ---
-title: Giochi Applicati e Impatto Sociale - Oltre l'entertainment
+title: "Games 4 Change: giochi applicati e impatto sociale"
 linktitle: G4C
 # Page summary for search engines.
 summary: "Giochi e Videogiochi Educativi e di Impatto Sociale / Business oltre l’entertainment"
@@ -12,13 +12,12 @@ categories: [gamedev]
 tags: [gamedev, G4C]
 ---
 
-- panoramica su Media e impatto sociale
-- caratteristiche dei giochi come strumenti di educazione, persuasione e trasformazione
-- case studies di videogiochi e giochi applicati
-- interesse, pubblico e tassonomia
-- frameworks dedicati per il design e Game Based Learning
-- problematiche e tips di sviluppo
-- mercato e opportunità
+I videogiochi possono essere usati per insegnare, formare, promuovere, simulare, aiutare… sono strumenti potenti e c’è un crescente interesse e quindi economia e necessità di ricercatori e sviluppatori.
 
+In questo studio ci occuperemo della
+
+> scienza, arte ed economia del videogioco e delle tecnologie ludiche applicate oltre il puro intrattenimento per l’impatto sociale positivo in aiuto al mondo reale
+
+Il percorso di esplorazione di queto mondo prevede:
 
 {{< list_children >}}
