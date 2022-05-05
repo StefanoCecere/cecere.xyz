@@ -8,7 +8,7 @@ toc: true
 draft: false
 ---
 
-## Temi
+## Considerazioni
 - trovarsi una nicchia (tematica o tecnologica)
 - come applicarsi ai bandi
 - scalabilità dal prototipo alla full production

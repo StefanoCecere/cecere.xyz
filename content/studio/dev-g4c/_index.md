@@ -1,7 +1,6 @@
 ---
-title: "Games 4 Change: giochi applicati e impatto sociale"
-linktitle: G4C
-# Page summary for search engines.
+title: "Games++: giochi applicati e impatto sociale"
+linktitle: Games++
 summary: "Giochi e Videogiochi Educativi e di Impatto Sociale / Business oltre l’entertainment"
 date: 2017-09-09T00:00:00
 lastmod: 2021-04-08T00:00:00

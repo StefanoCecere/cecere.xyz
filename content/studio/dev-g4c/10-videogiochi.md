@@ -34,45 +34,55 @@ Conoscenza, Educazione e Libertà sono sempre andate insieme, e con l'esplosione
 
 ## Videogiochi
 
-### Multimedia & Multidisciplinary
+#### Multimedia & Multidisciplinary
 ![](../img/creative_multimedia.webp)
 
-### Immersività
+#### Immersività
 Si vive un'esperienza dentro un gioco, finché non si rompe a causa di:
 - distrazione esterna
 - errore o bug
 - quando si riflette su quanto sta accadendo
 
-### Interactive
+#### Interactive
 ![](../img/interactive.webp)
 
-### Feedback loop
+#### Feedback loop
 {{< figure src="../img/loop.webp" width="50%">}}
 
-### Player centric
+#### Player centric
 un media umanista
 {{< figure src="../img/humanist_player.webp" width="50%">}}
 
 ### Alcune virtù dei videogiochi
-1. esperienze non-lineari
-2. esperienze immersiva
-3. migliorano le capacità di pensiero critico e di lettura e insegnano nuove capacità tecniche.
-4. i meccanismi di gratificazione possono aiutare a superare i momenti di difficoltà
-5. favoriscono ad un apprendimento individuale e personalizzato
-6. esperienza di scenari reali in ambienti protetti e a basso rischio
-7. coinvolgimento in complicate situazioni morali ed etiche
+- esperienze non-lineari
+- esperienze immersiva
+- migliorano le capacità di pensiero critico e di lettura e insegnano nuove capacità tecniche.
+- i meccanismi di gratificazione possono aiutare a superare i momenti di difficoltà
+- favoriscono ad un apprendimento individuale e personalizzato
+- esperienza di scenari reali in **ambienti protetti** e a basso rischio dove **poter fare errori**
+- coinvolgimento in complicate situazioni morali ed etiche
 
-### from a destructured world
+#### da elementi destrutturati
 ![](../img/destructured.webp)
 
-### to a formative experience
+#### ad un'esperienza
 ![](../img/experience.webp)
 
 > ci interessa far vivere esperienze formative o con effetti oltre il puro divertimento
 
-## Impact Games
-> gioco o esperienza ludica con un effetto positivo intenzionale e misurabile
-
+### esperienze che 
+- sono una forma di divertimento -> _piacere_
+- sono una forma di gioco -> _coinvolgimento_
+- hanno regole -> _struttura_
+- hanno obiettivi -> _motivazione_
+- sono interattivi -> _azioni_
+- si adattano -> _flow_
+- danno risultati e feedback -> _learning_
+- hanno una vincita ->  _gratificazione_ dell'ego
+- hanno conflitti/antagonisti/sfide -> _adrenalina_
+- richiedono problem solving -> sviluppa _creatività_
+- hanno interazioni tra pari -> _gruppi sociali_
+- hanno personaggi e storie -> _emozioni_
 
 ## Gamification
 Il termine gamification significa “trasformare in gioco qualcosa che non è un gioco. E’ un termine abbastanza generico sotto il quale si inseriscono elementi dei giochi nei sistemi non-gioco per migliorare la User Experience (UX) e l’engagement. 
@@ -105,8 +115,7 @@ Per il momento consideriamo *SINONIMI* i termini
 
 NB: il Game Based Learning è un caso specifico di serious game, dove l'obiettivo principale è imparare, la comprensione di un contenuto educativo.
 
-
-### Caratteristiche
+### Caratteristiche dei Serious Games
 
 Alcune caratteristiche di base sono:
 
@@ -121,7 +130,7 @@ Alcune caratteristiche di base sono:
 - **P**urpose
 - **S**cope
 
-### Game Play
+#### Game Play
 Al di là del “genere”, ci interessa sopratutto: come è giocato?
 
 **Play based** (paiada)
@@ -130,7 +139,7 @@ Senza obiettivi (goals) e regole ben definite, non valuta la performace del gioc
 **Game based** (ludus)
 Regole e obiettivi ben definiti.
 
-### Purpose (finalità)
+#### Purpose (finalità)
 1. Diffondere un **messaggio**
 - Educativo
 - Informativo
@@ -144,7 +153,7 @@ Regole e obiettivi ben definiti.
 3. **Data Exchange**
 Raccogliere dati e informazioni dai giocatori o invitarli a condividerli.
 
-### Scope: Mercati
+#### Scope: Mercati
 - *Entertainment*
 - Advertising e Marketing
 - Ambiente ed Ecologia
@@ -163,12 +172,12 @@ Raccogliere dati e informazioni dai giocatori o invitarli a condividerli.
 
 ![](../img/diagramma_tipologie.webp)
 
-### Scope: Pubblico
+#### Scope: Pubblico
 - Pubbico generico
 - Professionisti
 - Studenti
 
-### Game Play + Market combinations:
+#### Game Play + Market combinations:
 **Video Game**: game-based + entertainment  
 **Video Toy**: play-based + entertainment  
 **Impact Game**: game-based + !entertainment 
@@ -190,7 +199,7 @@ Un esempio semplice: se invento un gioco divertente che aiuta a risolvere il pro
 
 > Si tratta di esplorare l’INVENTIVA APPLICATA a migliorare il mondo
 
-### I problemi che abbiamo e con i giochi aiutare a risolverli
+#### I problemi che abbiamo e con i giochi aiutare a risolverli
 Anziché fare un gioco divertente fine a se stesso, andiamo a prendere un **tema**, un **target**, ne identifichiamo un **problema** e attraverso un game play e una finalità adeguata, creiamo uno strumento che lo tratta.
 
 Il prossimo prototipo, la prossima jam, il prossimo esercizio potrebbe essere qualcosa di potenzialmente utile a qualcuno
@@ -199,8 +208,6 @@ Non deve essere necessariamente un progetto “serio” nel senso di accademico,
 
 Ricordarci appunto che non c’è solo l’entertainment per l’entertainment, l’*ars gratia artis*.
 
-## Focus
-**Avere sempre ben chiaro il focus del progetto** aiuta Designers, developers, artisti. Accelera lo sviluppo, da direzione all'arte, migliora la possibilità di test.
 
 ## Chi sono io? Perché sono qui?
 

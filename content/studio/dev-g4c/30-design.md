@@ -1,6 +1,6 @@
 ---
 title: "Design"
-summary: "frameworks dedicati per il design e Game Based Learning"
+summary: "come progettare serious games e Game Based Learning"
 date: 2017-09-09T00:00:00
 type: book
 weight: 30
@@ -8,8 +8,16 @@ toc: true
 draft: false
 ---
 
-Ma come si progetta un impact game?  
-tre temi fondamentali:
+## Impact Games
+Ci interessa imparare a crare
+> giochi o esperienze ludiche con un effetto positivo intenzionale e misurabile
+
+## la cosa più importante
+Learner Engagement
+vogliamo che sia motivato, che sia felice, di imparare.
+
+## Requisiti
+Tre i temi fondamentali:
 
 ### 1. Domain Expert
 ![](../img/domain_expert.webp)
@@ -27,11 +35,6 @@ il goal o messaggio aggiunto/integrato
 
 ## Framework
 
-
-
-
-## ROI vs ROE
-Più che al ROI, guardiamo il Return of Investment
 
 ## Caratteristiche di un buon gioco
 - sfide continue
@@ -51,12 +54,10 @@ Più che al ROI, guardiamo il Return of Investment
 	- la fun deve essere una metrica!
 	- non replicare il realismo, siamo in simulazione
 	- un gioco non è per tutti, focalizziamo
-	- esagerare le reazioni, non è la vita vera
-	- altrimenti è una simulazione
-
+	- esagerare le reazioni, non è la vita vera, altrimenti è una simulazione
 
 ## come iniziare
-- set ROE
+- set ROE (Return on Engagement)
 - ricordare che non siamo il target
 - definire il genere di gioco che possa piacere l'audience
 - allineare i goal didattici ai livelli di gioco
@@ -68,14 +69,34 @@ Più che al ROI, guardiamo il Return of Investment
 - tema e meccaniche sono separate
 - il tema attrae all'inizio, ma l'engagement è nelle meccaniche
 
-## track data
-- loyalty
-- quanto gioca
-- cosa fanno durante il gioco? perché?
-- interagiscono con altri giocatori? come?
-- ottengono i risultati didattici?
-- c'è persistenza di quello che imparano?
-- cosa altro dobbiamo sapere dei giocatori?
+## Factbook
+Fatti, non opinioni.
+Cerchiamo di vedere il mondo per quello che è e non per quello che pensiamo o crediamo che sia.
+Fare riferimento ai dati, possibilmente Open Data.
+Vedi [libro](https://www.amazon.it/Factfulness-ragioni-capiamo-mondo-pensiamo/dp/8817099635)
+
+## Puzzles & Difficulty Adaptation
+
+- i puzzles non devono essere banali
+- i puzzles necessitano uno sforzo ragionabile e misurabile per essere risolti
+- i puzzles devono dare la sensazione di progressione
+- anche se generati dinamicamente, devono avere una coerenza di meccanica e di risoluzione
+- i puzzles devono essere presentati chiaramente
+- i puzzles devono permettere al giocatore di sperimentare liberamente
+- potrebbero offrire opzioni e soluzioni alternative
+- bisogna calibrare bene la crescita di difficoltà
+- i buoni puzzles hanno un senso nel contesto del gioco
+
+## Flow
+![](../img/flow.webp)
+
+- le sfide devono essere adattate alle capacità e interessi del giocatore, perché non tutti imparano allo stesso modo né hanno gli stessi interessi.
+- presentarli in diversi livelli e modalità, una componente alla volta.
+- la challenge è sia nel gameplay che nell'imparare
+- dare tempi di riflessione e pause nel tempo
+- ogni successo porta ad un livello successivo
+- niente va per linee rette, curve.
+- play test è fondamentale
 
 ## Design Learning Experiences
 ### Learning ed Educazione
@@ -140,14 +161,72 @@ Tutto quello che facciamo necessità di qualche abilità
 **Pensiero Critico**
 la capacità di creare una visione delle cose con il pensiero razionale attraverso le proprie osservazioni, analisi e interazioni. E' l'obiettivo principale della pedagogia contemporanea.
 
-### Valori
+## Cognitive skills Glossary 
+
+### Attention
+#### Focused Attention
+The ability to focus attention on a single stimulus
+#### Divided Attention
+The ability to execute more than one action at a time, while paying attention to a few channels of information.
+#### Inhibition
+The ability to ignore irrelevant stimuli or suppress irrelevant reactions while performing a task.
+#### Updating
+The ability to respond in a flexible and adaptive manner in order to keep up with the changes in the environment.
+
+### Memory
+#### Short-Term Memory
+The ability to hold a small amount of information in a readily, available state for a short period of time.
+#### Naming
+The ability to retrieve a word from our semantic lexicon and is considered to be a basic ability.
+#### Working Memory
+Refers to the temporary storage and manipulation of the information necessary for complex cognitive tasks.
+#### Contextual Memory
+The conscious recall of the source and circumstances of a specific memory.
+#### Visual Short-Term Memory
+The ability to temporarily retain a small amount of visual information.
+#### Non-verbal Memory
+The ability to store and retrieve information which are non-verbal by nature.
+#### Phonological Short-term Memory
+The ability to remember phonological information over a brief period of time.
+
+### Sensation and Perception
+#### Auditory perception
+Auditory Perception is the ability to perceive and understand the difference between sounds.
+#### Visual Perception
+The ability to interpret information from the effects of visible light reaching the eye.
+#### Spatial Perception
+The ability to evaluate how things are arranged in space, and investigate their relations in the environment.
+#### Visual Scanning
+The ability to actively find relevant information in our surroundings quickly and efficiently.
+#### Estimation
+The ability to estimate an object's future location based on its current speed and distance.
+#### Width of Field of View
+Corresponds to amount of information we receive from around when looking straight ahead.
+#### Recognition
+The ability to retrieve information from the past and to recognize certain events, places or other information.
+
+### Reasoning and Comprehension
+#### Processing Speed
+Involves the ability to fluently perform easy or over-learned tasks.
+#### Planning
+The ability to "think ahead", to mentally anticipate the correct way to execute a task.
+#### Shifting
+Ability to adapt behavior and thoughts to new, changing, or unexpected circumstances
+
+### Coordination
+#### Hand-eye Coordination
+The level of sensitivity with which the hand and eye are synchronized.
+#### Response Time
+The ability to perceive and process a simple stimulus and respond to it.
+
+## Valori
 Le Nazioni Unite hanno definito lo Sviluppo Sostenibile quello che è richiesto oggi ma senza compromettere le generazioni future.
 
 ![](../img/2030_goals.webp)
 
 > Domanda: che tipo di abilità vorresti far acquisire al tuo giocatore? C'è qualche valore particolare che ti interessa promuovere?
 
-### Esperienza intrinsicamente motivanti
+## Esperienza intrinsicamente motivanti
 Ogni gioco è un'esperienza progettata per altri giocatori.
 
 Ogni esperienza che progettiamo e sviluppiamo ha necessariamente le nostre caratteristiche mentali, la nostra *firma*.
@@ -164,7 +243,7 @@ Dewey suggerisce che le esperienze nascono dall'interazione di due principi: con
 
 attraverso l'esperienza i giocatori hanno l'opportunità di osservare, sperimentare e riflettere sulle proprie azioni
 
-### Costruire esperienze coinvolgenti
+## Costruire esperienze coinvolgenti
 **Immersione** è la caratteristica della mente umana che deforma lo spazio tempo interno.
 
 > Parlami e dimentico, insegnami e potrei ricordare, coinvolgimi e imaprerò (Benjamin Franklin)
@@ -175,235 +254,108 @@ La cultura personale è fondamentale per vivere un'esperienza, e tutti noi abbia
 
 > domanda: che tipo di esperienza vorresti far provare ai vostri giocatori?
 
-## Game Based Learning
 
-### Obiettivi chiari
-Quasi mai iniziamo a fare qualcosa senza un'idea del perché lo stiamo facendo.
+## GBL
 
-Ora, potrebbe essere che quegli obiettivi cambino nel mezzo, forse mentre acquisiamo più informazioni o più conoscenze ci rendiamo conto che in realtà c'è un altro obiettivo che è un livello superiore che non avremmo potuto capire o apprezzare all'inizio, ma sappiamo sempre cosa stiamo mirando per quando entriamo nell'esperienza in primo luogo.
+### DGBL Principles
+- A **safe environment** to explore and in which to **make mistakes**
+- Learning through enjoyment and "fun"
+- Contextualised, goal oriented instead of abstract learning
+- Experiential learning: learning by doing
+- Intrinsic motivation: playing is voluntary and self-driven
+- Seamless accountability and feedback
+- Combine audio, graphics and movement into an interactive and immersive environment
+- Age and culture appropriate
 
-Ora pensiamoci a scuola a rispondere quando uno studente dice *perché devo imparare questo argomento?*
-A volte diremo, sarà importante più tardi, o ci sarà una verifica. E nessuno di questi è dal punto di vista dello studente.
+### Mechanisms
+- A fictional or real world setting
+- Progressive difficulty levels and appropriate challenge
+- Immediate and constructive feedback
+- A social element that allows people to share experience and build bonds
+- Clear, achievable goals, rules, measurable outcomes and rewards
 
-### Identificazione
-Questa è l'idea che ti identifichi con il giocatore sullo schermo, con il personaggio sullo schermo.
-In un contesto scolastico, idealmente, quando insegniamo la scienza, per esempio, potremmo dire che stiamo incoraggiando gli studenti a pensare come scienziati.
-O la storia, a volte viene insegnata come una serie di fatti, ma è molto meglio insegnare la storia come imparare a pensare come uno storico.
-
-È un gioco di identità, ed è una parte fondamentale di giochi ben progettati e ambienti di apprendimento ben progettati.
-
-### Misurazione congenita
-se non puoi misurare qualcosa, non puoi migliorare quella cosa.
-
-### Motivazione Intrinseca ed Estrinseca
-Ora c'è un pensiero generale nell'educazione e nel mondo che la motivazione intrinseca, che è la motivazione che viene da dentro di te, sia la più importante.
-
-Le cose che ti interessano in modo naturale e che sei portato a perseguire a causa del tuo amore per l'argomento è meglio della motivazione estrinseca, che sarebbe la motivazione che viene da fuori di te.
-Cose che sono guidate da premi, come punti, o voti o soldi.
-
-E questo può essere vero in un senso molto generale che è meglio essere intrinsecamente motivati che estrinsecamente motivati, ma in realtà abbiamo bisogno di entrambi.
-
-E i giochi di successo e gli ambienti di apprendimento di successo hanno una combinazione di motivazione estrinseca e intrinseca.
-Spesso abbiamo bisogno di quella spinta esterna per iniziare, per farci giocare all'inizio, ma mentre andiamo speriamo che il giocatore, o lo studente, diventi intrinsecamente motivato e inizi a trovare le proprie ragioni per perseguire e perseverare nel soddisfare.
-
-### Supportare l'autonomia
-L'autonomia è fondamentale ed è la chiave in un ambiente di progettazione del gioco e anche la chiave in un ambiente di apprendimento ben progettato.
-E ciò che intendiamo per Autonomy Support è che il giocatore deve fare delle scelte su ciò che fa nel gioco.
-Potrebbero scegliere di passare attraverso la porta a sinistra o passare attraverso la porta a destra.
-Potrebbero scegliere il personaggio con cui giocano, che sarebbe in relazione con il precedente principio di cui abbiamo parlato in Identity Support.
-Ma il punto è che devi fare delle scelte che contano.
-Negli ambienti scolastici vogliamo anche fornire supporto agli studenti che fanno scelte importanti.
-Che il percorso che scelgono consente loro di esplorare diversi argomenti, consente loro di esplorare argomenti a un ritmo che è d'accordo con loro.
-Alla fine del corso, vorremmo definire ciò che ciascuno degli studenti, o tutti gli studenti stanno esplorando, ma permettendo agli studenti di trovare diversi modi attraverso gli argomenti, possiamo effettivamente aiutare molti più studenti a farsi strada.
-E questo è legato ai concetti di cui si parla comunemente oggi come l'apprendimento personalizzato.
-Ora non è che si deve lasciare che tutti facciano ciò che vogliono.
-L'idea è che hai dato allo studente, o al bambino o al giocatore una scelta significativa, e permettendo loro di fare una scelta, saranno più investiti in ciò che verrà dopo.
-
-### Incoraggiare il senso di appartenenza
-Un ambiente di gioco davvero bello ti fa sentire parte di qualcosa.
-Una parte di qualcosa più grande di te, o che le persone ti notano e che stanno prestando attenzione a te.
-Che il gioco ti noti effettivamente come giocatore e sta reagendo a te.
-Questo è forse legato al senso di autonomia certamente, ma in un ambiente di apprendimento è altrettanto importante.
-Nessuno vuole sentirsi isolato, nessuno vuole sentirsi solo, nessuno vuole sentirsi ignorato.
-Quindi un ambiente di apprendimento ben progettato crea la sensazione di far parte di una comunità.
-Che sei stato visto e che ti viene prestata attenzione.
-Questo potrebbe avere a che fare con il modo in cui dai il feedback come istruttore a un discente.
-Potrebbe avere a che fare con il modo in cui gruppi gli studenti o come comunichi con gli studenti.
-
-### Supportare la competenza
-Quindi se pensi alle due idee precedenti, autonomia e appartenenza, la competenza è strettamente correlata a quelle.
-E se permettiamo alle persone di sentirsi sempre come se stessero lavorando a un livello di sfida difficile, ma è giusto per loro che possono realizzare, allora scopriremo che gli studenti possono fare progressi molto maggiori attraverso gli ambienti di apprendimento, e questo è anche vero per i giochi.
-Non vuoi fare un gioco così difficile che le persone si sentano frustrate, e non vuoi fare un gioco così facile che le persone si annoiano.
-Questo è legato ai principi della teoria del flusso (Flow).
-In questo caso, vogliamo riflettere su come abbinare la difficoltà dell'ambiente di apprendimento, o l'ambiente di gioco, allo studente dove sono adesso e dare loro le cose su cui lavorare che li sfideranno ma che noi e sanno che possono ottenere risultati con supporto.
-
-### Fallimenti utili
-I giochi fanno un ottimo lavoro nel **sostenere il fallimento**.
-E il modo in cui lo fanno in genere, non è punirti troppo se non riesci a qualcosa.
-Quindi, se il tuo personaggio muore, in genere cosa succederebbe nel gioco, torneresti all'inizio di quel livello e riproverai.
-E questo incoraggia certe cose come provare le cose in modi diversi.
-
-Ora, se pensi alla scuola, abbiamo creato un ambiente in cui studenti di successo, studenti che vanno all'istruzione superiore, o studenti che si esibiranno bene in test standardizzati, non hanno mai fallito.
-Il fallimento in qualsiasi punto della scuola è un così grande ostacolo che potrebbe portarti fuori dal percorso che pensi di fare.
-E questa è una situazione che crea tutti i tipi di comportamenti improduttivi.
-Ti rende avverso al rischio, potresti decidere di seguire corsi più facili per mantenere i voti più alti.
-Potresti decidere di imbrogliare, è qualcosa che incentiviamo quando realizziamo il massimo dei voti, così importante per il tuo futuro, incoraggiamo le persone a cercare scorciatoie.
-Incoraggiamo tutti i tipi di cose che non sono produttive per gli ambienti di apprendimento.
-
-Quindi vogliamo riflettere su come rendere importante il fallimento, perché se parli con la maggior parte degli imprenditori, quello che ti diranno è che il loro successo è in realtà il prodotto di fallire più e più volte e imparare da ciascuno di questi fallimenti.
-Dobbiamo cambiare il modo in cui la scuola è orientata a far sì che gli studenti considerino il fallimento come non la fine della strada, ma piuttosto un passo importante nel processo.
-Non sono fallimenti, ma fallire è fondamentale per il loro ultimo apprendimento e successo.
-Invece di parlare di ambienti dove un po’ si vince e un po’ si perde, ciò che vogliamo incoraggiare è vincere un po’, imparare un po'.
-
-### Incoraggiare l'esplorazione
-Perché non c'è un prezzo alto per il fallimento, stai andando a curiosare, proverai a fare cose che altrimenti non avresti potuto fare.
-E se guardi un giocatore davvero dedicato, quando finisce un livello di gioco, di solito non passa immediatamente al livello successivo.
-Potrebbe tornare all'inizio di quel livello che ha appena completato e iniziare a frugare, aprendo porte che non si aprivano prima, guardando in posti che non aveva mai guardato prima, provando cose che non aveva provato prima.
-E quello che sta facendo è che sta esplorando il sistema del gioco, alla ricerca di indizi e intuizioni che possono sfruttare in seguito quando affronta altre situazioni più difficili.
-Questo è esattamente ciò che vogliamo incoraggiare a scuola.
-In realtà, ciò che vogliamo è per le persone che, ad esempio, stanno imparando la matematica, non per imparare le risposte alle domande, ma per capire i problemi e imparare come esplorare lo spazio del problema.
-La matematica è un sistema, la scienza è un sistema, la storia è un sistema, la narrativa, il linguaggio, sono tutti sistemi.
-E vogliamo che gli studenti non cerchino la risposta giusta, ma cerchino di comprendere la gamma di modi in cui le risposte sono giuste o sbagliate, o quale sia la natura di quel sistema e in che modo possono trarre il massimo dalle loro conoscenze al suo interno.
-
-### Pratica & Reinforcement
-Abbiamo bisogno di avere ambienti di apprendimento che supportino molte pratiche e rinforzi.
-Ora, i videogiochi digitali sono eccellenti in questo, naturalmente, perché un videogioco digitale non si stancherà mai di tornare e far praticare di nuovo quel livello.
-A scuola, siamo un po' più limitati perché abbiamo un tempo limitato, abbiamo risorse limitate, ci occupiamo spesso di situazioni in cui ci sono molti studenti e un istruttore.
-
-Ma abbiamo bisogno di pensare a strategie che permettano agli studenti di praticare in sicurezza, e di sentire come se la pratica li portasse da qualche parte.
-
-Certamente lo facciamo nell'atletica, dove pratichiamo molto di più che effettivamente realizziamo nei giochi.
-Dobbiamo pensare a come costruirlo nei nostri ambienti di apprendimento, in modo che gli studenti ricevano molte ripetizioni attraverso contenuti stimolanti come parte della loro esplorazione di quei sistemi per capire quali sono i percorsi più produttivi per loro.
+### 36 Learning principles in VideoGames
+| | |
+|---|---|
+|1. Active, Critical Learning Principle |_All aspects of the the learning environment are set up to encourage active and critical, not passive, learning_|
+|2. Design Principle | _Appreciating good design_ |
+|3. Semiotic Principle  | _Seeing interrelations within and across multiple sign systems (images, words, actions, symbols, artifacts, etc.) as a complex system is core to the learning experience_ |
+|4. Semiotic Domains Principle | _Mastering game languages and participation in the affinity groups connected to them_ |
+|5. Metalevel Thinking About Semiotic Domains Principle | _Relating the game world to other worlds_|
+|6. "Psychosocial Moratorium" Principle | _Taking risks with reduced consequences_|
+|7. Committed Learning Principle | _Putting out effort because they care_|
+|8. Identity Principle | _Combining multiple identities_|
+|9. Self-Knowledge Principle | _Watching their own behaviour and their current and potential capacities_|
+|10. Amplification Of Input Principle | _For a little input, learners get a lot of output_|
+|11. Achievement Principle | _intrinsic rewards from the beginning, customised to each learner's level, effort, and growing mastery and signaling the learner's ongoing achievements_|
+|12. Practice Principle | _Being encouraged to practice in a context where the practice is not boring_|
+|13. Ongoing Learning Principle | _Having to master new skills at each level, with cycles of new learning, automatization, undoing automatization, and new re-organized automatization_|
+|14. "Regime Of Competence" Principle | _Tasks being neither too easy nor too hard._|
+|15. Probing Principle | _Learning is a cycle of probing the world (doing something); reflecting in and on this action and, on this basis, forming a hypothesis; reprobing the world to test this hypothesis; and then accepting or rethinking the hypothesis_|
+|16. Multiple Routes Principle | _There are multiple ways to make progress or move ahead. This allows learners to make choices, rely on their own strengths and styles of learning and problem-solving, while also exploring alternative styles_|
+|17. Situated Meaning Principle | _Discovering meaning of signs (words, actions, objects, artifacts, symbols, texts, etc.) situated in embodied experience_|
+|18. Text Principle | _Texts are not understood purely verbally but are understood in terms of embodied experience_|
+|19. Intertextual Principle | _Relating information_|
+|20. Multimodal Principle | _Meshing information from multiple media (images, texts, symbols, interactions, abstract design, sound, etc.), not just words_|
+|21. "Material Intelligence" Principle | _Understanding how knowledge is stored in material objects and the environment_|
+|22. Intuitive Knowledge Principle | _Intuitive or tacit knowledge built up in repeated practice and experience. Not just verbal and conscious knowledge is rewarded_|
+|23. Subset Principle | _Practicing in a simplified setting_|
+|24. Incremental Principle | _Being led from easy problems to harder ones_ |
+|25. Concentrated Sample Principle | _Mastering upfront things needed later_ |
+|26. Bottom-Up Basic Skills Principle | _Repeating basic skills in many games_ |
+|27. Explicit Information On-Demand Just-In-Time Principle | _Receiving information just when it is needed_ |
+|28. Discovery Principle | _Experiments and Trying rather than following instructions_ |
+|29. Transfer Principle | _Applying learning from problems to later ones_ |
+|30. Cultural Models About The World Principle | _Thinking about the game and the real world_ |
+|31. Cultural Models About Learning Principle | _Thinking about the game and how they learn_ |
+|32. Cultural Models About Semiotic Domains | _Thinking about the games and their culture_ |
+|33. Distributed Principle | _Meaning/knowledge is distributed across the learner, objects, tools, symbols, technologies, and the environment_ |
+|34. Dispersed Principle | _Sharing knowledge with others outside the domain/game_ |
+|35. Affinity Group Principle | _Being part of the gaming world and affinity groups bonded by the game and not shared race, gender, nation, ethnicity, or culture_ |
+|36. Insider Principle | _Helping others and modifying games, in addition to just playing_ |
 
 
-## Human Centric design
-1. **Concept phase** - Goal: build a proposal adapted to your audience and context. Critical questions to answer
-2. **Pre-prod** - Focus on the qualitative aspect and proof of concept. Are you appealing to the audience?
-3. **Production**: until Beta - Focus on the productivity. are all features implemented and playable?
-4. Production: **Beta Iterations** - Field evaluation and feedbacks. we impacting and how to improve?
-5. Launch and **post launch** consideration. out the audience and react
+### Come si impara
+![](../img/dgbl/cognitive_approach.webp)
 
-![](../img/Fase.webp)
+### DGBL approach
 
-### Concept Phase
-Goal: build a proposal adapted to your audience and context 
-5 Critical questions to answer
+- introduction to videogame (+ tutor: tech + expectations)
+- gameplay / experience (autonomo)
+- game results / scores (autonomo)
+- reflection / analysis (+ tutor)
+- forming abstract concepts + real world application
 
-1. What is the intended impact?
-2. Who are you impacting?
-3. What is the approach to impact?
-4. What is the typical user scenario?
-5. How to assess the impact?
+### Assessment
+Using games for assessment is more than games scores. 
 
-### 1. What is the intended impact?
-Examples of impact: 
-- Raise Awareness about something
-- Teaching something
-- Lose weight, increase a performance
-- Induce a behavioural change
-- Rising fund
-- Create an appeal for something
-- Reduce the consumption of something
-- Help people to make better choices
+Assessment happens around a game more often than it happens inside the game, and teachers/coaches must still design and provide authentic, useful assessment tasks for students.
 
-The answer should be as explicit and clear as possible
+### Development options
 
-**Advices**
+- Use entertainment/commercial games (Assassin's Creed / Civilization)
+- Modify entertainment games (Kerbal Space Academy)
+- Use virtual worlds (Minecraft)
+- Use educational games (MinecraftEdu)
+- Create games (Antura)
+- Students create games
 
-- Do an in deep state of games. There are certainly previous attempts to use games to reach the same objective as yours. 
-- Explore literature, not Gamasutra: check scientific publication on the topic, you can start with Google Scholar or ResearchGate, and many portal on scientific publications. Try also the famous scientific publishers (Springer, etc). The game studies and research community is very active and prolific
-- As soon as possible, identify experts of the intended impact (the state of art could help)
-- Involved the experts as partners in the project (could mean to pay them),  or they could be invited to be part of a Scientific Board (normally on a voluntary basis)
-- When defining the intended impact: Argue your choices with examples and references.  Be as precise a possible
-- If the way to reach the intended impact seems not obvious or not documented from what you get from the state of art: it is a strength for your project.  It means that there is a potential research question, and could open to potential specifics funding
+### Game Model
+![](../img/dgbl/GBLModel.webp)
 
-### 2. Who are you impacting?
+### Objectives of learning analytics
 
-- This part consist in explicit our audience and the context of use of the game. Answering this question has several obviously benefits. It allows to:
-- Set up the right user-centered tools for the entire production 
-- Identify some production constraints
-- Educate the team about the main audience
-- Understand how the game will reach the audience in its daily life
+![](../img/dgbl/game_learning_analytics.webp)
 
-**Early focus groups**
-We are not our audience, just think about the huge difference you have with a 5 to 10 years-old children Syrian refugee. Early focus groups and meeting between the final audience and the team are first steps to fill the gap
+### GBL challenges
+**Curriculum**: identify how a certain game can connect to the curriculum. 
 
-**Personas**
-When you have a better visibility on the audience you are able to create Personas. Used in design and marketing, it is a tools to impersonalise one or several typical users. It covers topic as: a typical day, connection to IT, etc.
-Don’t forget to include personas of the potential prescriber: for Antura we had personas of children but also one representing the typical parent. 
-![](../img/persona.webp)
-![](../img/persona_2.webp)
+**Game related**: identify the accuracy and appropriateness of the content of the game. Irrelevant or distracting content from the game that could not be removed.
 
-**Context studies**
-Not only we have to understand our audience as an individual, but we also have to explicit its context of living
-It include economical, social, and cultural aspects.
-Aside, 3 examples from Antura Concept and pre-production phases: 
+**Attitudes**: persuading all stakeholders and non-players about the educational value of the game.
 
-![](../img/study_context.webp)
+**Educators and Teachers support**: make them aware of how to use games more effectively in education.
 
-### 3. What is the rational approach to impact?
-![](../img/study_approach_1.webp)
-![](../img/study_approach_2.webp)
-![](../img/study_approach_3.webp)
+**Assessment**: Traditional assessments do not often align with GBL, so new models and approaches must be considered.
 
-Finalising the answer to this 3rd question should allow you to fill a first **fact sheet**, like for instance: 
-
-### 4. What is the typical user scenario?
-From the knowledge acquired on the player and the context, we should be able to explicit the typical user scenario
-It could take the form of a storyboard and mockup of the game.  This document is helpful for the designer, to have a better idea of the context of use of the game. But also to communicate the project either to the team, the funders, or the target audience during focus groups
-We might sometime need to create several scenario, as for instance in this User Scenario for a grant application of an Arabic to Turkish version of Antura.  There are two main way to be in contact with the game: in the framework of an educational workshop for refugees, or families on their own.
-
-![](../img/user_scenario_1.webp)
-![](../img/user_scenario_2.webp)
-![](../img/user_scenario_3.webp)
-
-![](../img/user_scenario_flow_1.webp)
-![](../img/user_scenario_flow_2.webp)
-
-### 5. How to assess the impact?
-In the field of impact game, the assessment of the result is not negotiable
-
-Not only we have to check if our game in enjoyable, well balanced, understandable, appealing for our audience, as for any game, but in addition we have to demonstrate that it is impacting. 
-This field is still new, and having measurable results is the best way to encourage institutions to support the use of game
-
-Depending of the initial intended impact, the nature of the evaluation could change. For instance:
-
-- Rise Awareness about something, Create an appeal for something  => brand awareness type of study, nb of impressions…
-- Teaching something => classical evaluation, assessments (check existing ones)
-- Lose weight, Induce a behavioural change, Reduce the consumption of something  => rigorous field evaluation, find the good indicators
-- Rising fund => € £ $
-
-![](../img/game_assessment.webp)
-
-**Some warnings**
-
-- Differentiate the evaluation of the impact and the assessment in the game. We can implement in our game something to measure the progress of the players.  But this tools cannot be use to proof that the game is impacting the audience.  On a scientific perspective, the method to evaluate must be different than the object to evaluate.
-- We need an expert to evaluate the needed number of participants for valid results. There is a method to know the exact number of participants you need. If we do not reach this number, our result could be not statistically significant. 
-- The more the evaluation method is documented, the better it is.  Investigate literature, there are certainly questionnaires or method used to measure what you are looking for. And the more there are paper on it, the more you could know the strengths and weaknesses of the method.
-- Anticipate the attrition and incomplete data. When you run, for instance, a before/after-playing-the-game questionnaire on a group of participants. You may lose a part of the initial participants (people don’t come the second time, are not available…).  For Antura, when we did test in camps, the attrition sometime went up to 80%! 45% on average.  This 45% average was evaluated by a psychologist statistician at the beginning of the project, and was right.
-
-## Game Loop Methodology
-The Gameplay Loop Methodology is a tool from the video game industry, used during the early stages of a production, in particular during the concept phase and pre-production. The goal is to **formalize the player experience called gameplay**. Gameplay refers to the sum of actions and activities performed by the player interacting with the game, trying to solve the uncertain situation he is engaged in. Formal representations of gameplay, such as the Gameplay Loop, emerged from this often collaborative practical design task and the need to document it.
-
-![](../img/game_loop_1.webp)
-![](../img/game_loop_2.webp)
-![](../img/game_loop_3.webp)
-
-
-## Framework Octalysis
-sviluppato da Yu-Kai Chou.
-
-Questo modello, in sostanza, ci dice che il comportamento e la motivazione di ogni persona è influenzata e trainata da 8 istinti primari, chiamati Core Drives o dinamiche di gioco.
-
-Ognuna di queste dinamiche può essere soddisfatta/remunerata attraverso strumenti concreti (chiamati meccaniche di gioco) che si inseriscono nel percorso
-
-![](../img/octalysis.webp)
-
-## Idee
-- incontrare e parlare con tanta gente
-- andare in giro, esplorare, girovagare
-- leggere di tutto
-- partecipare a qualsiasi cosa
-- osservare con attenzione i propri pari
-- riposarsi molto
-- provare cose nuove, perché no?
+**Developers** encourage and support game developers in the creation of better educational games
