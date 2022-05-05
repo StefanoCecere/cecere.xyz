@@ -1,5 +1,5 @@
 ---
-title: Inrormatica 101
+title: Informatica 101
 slug: informatics-101
 # linktitle: Humanist Tech
 # Page summary for search engines.

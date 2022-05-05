@@ -2,7 +2,7 @@
 title: "Business e Marketing"
 date: 2017-09-09T00:00:00
 type: book
-weight: 5
+weight: 40
 toc: true
 draft: false
 ---
