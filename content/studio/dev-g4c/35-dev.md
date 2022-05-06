@@ -2,59 +2,73 @@
 title: "Development"
 summary: "problematiche e tips di sviluppo"
 date: 2017-09-09T00:00:00
+lastmod: 2022-02-08T00:00:00
 type: book
 weight: 30
 toc: true
 draft: false
+header:
+  navbar:
+    enable: false
 ---
 
 ## Focus
 **Avere sempre ben chiaro il focus del progetto** aiuta Designers, developers, artisti. Accelera lo sviluppo, da direzione all'arte, migliora la possibilità di test.
+
+## Assiomi da sfatare
+Due luoghi comuni errati sullo sviluppo dei videogiochi sono
+1) che i giochi semplici sono semplici da produrre 
+2) dalla complessità tecnica di un gioco emerge la sua bellezza. 
+
+Il rapporto tra qualità di un gioco, percezione di immediatezza da parte del giocatore, sviluppo e aspetti tecnici del gioco è estremamente complesso e non vi sono regole generalizzabili in merito.
+
+## Prototipare
+È la regola nr. 1
+
+La creazione di un prototipo dall’idea di gioco porterà probabilmente a modificare anche radicalmente l’idea originaria. Il punto è che raffinare l’idea di gioco prima della creazione delle componenti multimediali più costose può ridurre fortemente i costi dell’operazione complessiva. Può inoltre chiarire i punti che necessiteranno più effort, e quindi contribuirà a chiarire i rapporti di produzione e con questi l’armonia nel gruppo di produzione.
+
+## Architettura e moduli
+- Impostare subito l’architettura di base, con placeholders prefabs e componenti definitivi.
+- Permettere d altri di contribuire
+- Permettere modifiche di game design in tempo reale
+- profilo del giocatore (game skills, curriculum e psicologico)
+- logging
+- adattamento della difficoltà e delle challenges
+- analisi dei dati
 
 ## Framework di Sviluppo
 ![](../img/frameworkdisviluppo.webp)
 
 ## AGILE
 agile software development methods means that the development process does not follow a previously laid out, rigid plan; instead, it is flexible to adjust to changing requirements and software specifications.
+Cicli settimanali, fast feedback, impostazione progetto
+
 
 ## SCRUM
 most software projects are far too complex to rely on the perfect plan
 
 ![](../img/scrum.webp)
 
-## Adaptation & Personalization
-ability to make appropriate responses to changed or changing circumstances
-
-- Procedural and adaptive level and content generation
-- Adaptive behavior of agents
-- Adaptive and interactive storytelling
-- Guidance, hinting
-- Motivational interventions
-- Adaptive presentation
-- Adaptive curriculum sequencing
-- Navigation support
-- Intelligent solution analysis
-
-In the context of games, often the term personalization is used for a (static) one-time adaptation of a gaming aspect to the needs or preferences of a user, whereasÂ adaptationÂ refers to the continuous adjustment of the game based on the actions and performance of a user and the current state of the game towards a desired state.
-
 ## Player Modeling
-In order to have an impact, we must be more concerned than traditional games with creating an accurate model of the player.
+Per avere un impatto, può essere molto utili crare un modello del giocatore
 
 ![](../img/player_model.webp)
 
-![](../img/player_preferences.webp)
+### Cosa possiamo misurare?
 
-## Measuring Player Experience
+![](../img/game_measure_performance.webp)
+
+
 ![](../img/player_experience.webp)
 
+- Game metrics behavior assessment: Logging of every action the player takes while playing, for future analysis.
+- Player modeling: AI-based models that react to player behavior and adapt the player experience accordingly.
 - Psychophysiological player testing: Controlled measures of gameplay experience with the use of physical sensors to assess user reactions.
 - Eye tracking: Measurement of eye fixation and attention focus to infer details of cognitive and attentional processes.
 - Persona modelling: Constructed player models.
-- Game metrics behavior assessment: Logging of every action the player takes while playing, for future analysis.
-- Player modeling: AI-based models that react to player behavior and adapt the player experience accordingly.
 - Qualitative interviews and questionnaires: Surveys to assess the players perception of various gameplay experience dimensions.
 
-## Player data
+### Player Analytics
 - loyalty
 - quanto gioca
 - cosa fanno durante il gioco? perché?
@@ -70,36 +84,14 @@ In order to have an impact, we must be more concerned than traditional games wit
 
 vedi http://www.storytec.de/index.php?id=22&L=1
 
-## Performance
-Cosa possiamo misurare?
-
-![](../img/game_measure_performance.webp)
 
 ## Adattamento del gioco
 ![](../img/game_adattamento.webp)
 
-## Assiomi da sfatare
-Due luoghi comuni errati sullo sviluppo dei videogiochi sono
-1) che i giochi semplici sono semplici da produrre 
-2) dalla complessità tecnica di un gioco emerge la sua bellezza. 
-
-Il rapporto tra qualità di un gioco, percezione di immediatezza da parte del giocatore, sviluppo e aspetti tecnici del gioco è estremamente complesso e non vi sono regole generalizzabili in merito.
-
-## Prototipare
-
-È la regola nr. 1
-
-La creazione di un prototipo dall’idea di gioco porterà probabilmente a modificare anche radicalmente l’idea originaria. Il punto è che raffinare l’idea di gioco prima della creazione delle componenti multimediali più costose può ridurre fortemente i costi dell’operazione complessiva. Può inoltre chiarire i punti che necessiteranno più effort, e quindi contribuirà a chiarire i rapporti di produzione e con questi l’armonia nel gruppo di produzione.
+![](../img/player_preferences.webp)
 
 
-## Architettura e moduli
-- Impostare subito l’architettura di base, con placeholders prefabs e componenti definitivi.
-- Permettere d altri di contribuire
-- Permettere modifiche di game design in tempo reale
-- profilo del giocatore (game skills, curriculum e psicologico)
-- logging
-- adattamento della difficoltà e delle challenges
-- analisi dei dati
+
 
 ## Tecnologie
 Alcune tecnologie e metodologie sono particolarmente interessanti
@@ -133,19 +125,6 @@ interfacciamento con devices esterni (wearables, iOT): new data, nicchie, sperim
 
 ### DevOps
 piattaforma di sviluppo, tests, velocità e accessibilità
-
-### Agile iterations
-Cicli settimanali, fast feedback, impostazione progetto
-
-## Soft skills
-Sono temi generali non solo per gli applied games,
-Sebbene qui sia molto importante una sintonia di valori e capire il progetto dove va e perchè
-
-- Confini interdisciplinari
-- human centered / umanesimo digitale
-- design for the future / the others
-- optimize collaboration / communication
-- Know you chicken
 
 ## Template scheda gioco
 - Titolo

@@ -2,39 +2,92 @@
 title: "Design"
 summary: "come progettare serious games e Game Based Learning"
 date: 2017-09-09T00:00:00
+lastmod: 2022-02-08T00:00:00
 type: book
 weight: 30
 toc: true
 draft: false
+header:
+  navbar:
+    enable: false
 ---
 
-## Impact Games
-Ci interessa imparare a crare
+Ci interessa imparare a creare:
 > giochi o esperienze ludiche con un effetto positivo intenzionale e misurabile
 
-## la cosa più importante
-Learner Engagement
-vogliamo che sia motivato, che sia felice, di imparare.
+## Motivazione Instrinseca
+Ogni gioco è un'esperienza progettata per altri giocatori.
 
-## Requisiti
-Tre i temi fondamentali:
+Ogni esperienza che progettiamo e sviluppiamo ha necessariamente le nostre caratteristiche mentali, la nostra *firma*.
 
-### 1. Domain Expert
-![](../img/domain_expert.webp)
+Un'esperienza è il risultato della combinazione di materiali, immaginazione, narrativa, meccaniche, tecnologia, estetica. E' il risultato dell'interazione umana con il mondo intorno.
 
-### 2. Purpouse
-il goal o messaggio aggiunto/integrato
+Affinchè un'esperienza sia significativa per qualcun altro, deve esprimere un valore, presentare qualcosa di importante che ecciti, sorprenda, confronti qualcosa dentro la mente degli altri.
+
+Dewey suggerisce che le esperienze nascono dall'interazione di due principi: continuità ed interazione.
+
+**Continuità**: l'impatto di una esperienza dipende sia dalle esperienze precedenti che dalla qualità delle seguenti.
+
+**Interazione**: il giocatore è parte attiva.
+
+attraverso l'esperienza i giocatori hanno l'opportunità di osservare, sperimentare e riflettere sulle proprie azioni
+
+## Esperienze coinvolgenti
+
+Se cerchiamo di ricordare quali sono state le attività che ci hanno coinvolto di più e che ci hanno aiutato ad imparare, converremmo che ci hanno fatto partecipare, investigare, sperimentare, risolvere problemi, essere curiosi, prendere decisioni ed essere creativi.
+
+La cultura personale è fondamentale per vivere un'esperienza, e tutti noi abbiamo diverse culture.
+
+## Progettazione
+Alcuni punti e passi su come iniziare:
+
+### Purpouse
+Cosa voglio ottenere?
+
 ![](../img/playgamedesign.webp)
 
-### 3. Sviluppo partecipato interdisciplinare
+#### Tematiche e Obiettivi
+Le Nazioni Unite hanno definito lo Sviluppo Sostenibile quello che è richiesto oggi ma senza compromettere le generazioni future.
+
+![](../img/2030_goals.webp)
+
+> Domanda: che tipo di esperienza vorresti far vivere al tuo giocatore? C'è qualche valore particolare che ti interessa promuovere?
+
+### Audience
+ricordiamoci che spesso non siamo noi il target!
+trovare un focus group per discutere il profetto
+
+### Metodologia e genere
+- Simulazione
+- GBL
+- Gamification
+- XR
+
+e quindi che genere di gioco?
+
+### Il "driver"
+- focalizzarsi più sulle meccaniche che sul tema
+- tema e meccaniche sono separate
+- il tema attrae all'inizio, ma l'engagement è nelle meccaniche
+
+### ROE (Return on Engagement)
+
+### Domain Expert
+che aiuti ad allineare i goal didattici ai livelli di gioco
+![](../img/domain_expert.webp)
+
+### Factbook
+E' importante bassarsi sui fatti, non sulle opinioni.
+Cerchiamo di vedere il mondo per quello che è e non per quello che pensiamo o crediamo che sia.
+Fare riferimento ai dati, possibilmente Open Data.
+Vedi [libro](https://www.amazon.it/Factfulness-ragioni-capiamo-mondo-pensiamo/dp/8817099635)
+
+### Sviluppo Iterativo
 **Iterative Development**: The framework proposes an iterative and incremental approach to game design and development, consisting of three main phases: concept design, game design, and game development.
 
 ![](../img/dev_iterative.webp)
 
 **Interdisciplinary Teamwork**: The framework suggests an interdisciplinary approach in which all team members, not just the designers, participate in every aspect of the development process and learn from each others field of expertise
-
-## Framework
-
 
 ## Caratteristiche di un buon gioco
 - sfide continue
@@ -56,50 +109,50 @@ il goal o messaggio aggiunto/integrato
 	- un gioco non è per tutti, focalizziamo
 	- esagerare le reazioni, non è la vita vera, altrimenti è una simulazione
 
-## come iniziare
-- set ROE (Return on Engagement)
-- ricordare che non siamo il target
-- definire il genere di gioco che possa piacere l'audience
-- allineare i goal didattici ai livelli di gioco
-- trovare un focus group per discutere il profetto
-- iterare
-
-### come trovare un tema
-- focalizzarsi più sulle meccaniche che sul tema
-- tema e meccaniche sono separate
-- il tema attrae all'inizio, ma l'engagement è nelle meccaniche
-
-## Factbook
-Fatti, non opinioni.
-Cerchiamo di vedere il mondo per quello che è e non per quello che pensiamo o crediamo che sia.
-Fare riferimento ai dati, possibilmente Open Data.
-Vedi [libro](https://www.amazon.it/Factfulness-ragioni-capiamo-mondo-pensiamo/dp/8817099635)
-
-## Puzzles & Difficulty Adaptation
-
-- i puzzles non devono essere banali
-- i puzzles necessitano uno sforzo ragionabile e misurabile per essere risolti
-- i puzzles devono dare la sensazione di progressione
-- anche se generati dinamicamente, devono avere una coerenza di meccanica e di risoluzione
-- i puzzles devono essere presentati chiaramente
-- i puzzles devono permettere al giocatore di sperimentare liberamente
-- potrebbero offrire opzioni e soluzioni alternative
-- bisogna calibrare bene la crescita di difficoltà
-- i buoni puzzles hanno un senso nel contesto del gioco
-
 ## Flow
 ![](../img/flow.webp)
 
-- le sfide devono essere adattate alle capacità e interessi del giocatore, perché non tutti imparano allo stesso modo né hanno gli stessi interessi.
-- presentarli in diversi livelli e modalità, una componente alla volta.
+
+## Sfide & Difficulty
+
+- non devono essere banali
+- necessitano uno sforzo ragionabile e misurabile per essere risolti
+- devono essere adattate alle capacità e interessi del giocatore, perché non tutti imparano allo stesso modo né hanno gli stessi interessi.
+- devono dare la sensazione di progressione
+- presentarle in diversi livelli e modalità, una componente alla volta.
+- anche se generati dinamicamente, devono avere una coerenza di meccanica e di risoluzione
+- devono essere presentati chiaramente
+- devono permettere al giocatore di sperimentare liberamente
+- potrebbero offrire opzioni e soluzioni alternative
+- bisogna calibrare bene la crescita di difficoltà
+- i buoni puzzles hanno un senso nel contesto del gioco
 - la challenge è sia nel gameplay che nell'imparare
 - dare tempi di riflessione e pause nel tempo
 - ogni successo porta ad un livello successivo
 - niente va per linee rette, curve.
 - play test è fondamentale
 
+## Personalizzazione e Adattamento
+ability to make appropriate responses to changed or changing circumstances
+
+- Procedural and adaptive level and content generation
+- Adaptive behavior of agents
+- Adaptive and interactive storytelling
+- Guidance, hinting
+- Motivational interventions
+- Adaptive presentation
+- Adaptive curriculum sequencing
+
+## Framework
+
+![](../img/dgbl/gbl-framework.webp)
+
 ## Design Learning Experiences
-### Learning ed Educazione
+
+### Learner Engagement
+La cosa più importante è la _Learner Engagement_: vogliamo che il giocatore sia motivato, che sia felice, di imparare.
+
+### Imparare
 Cosa vuole dire *imparare*?
 
 Imparare è un **processo** di acquisizione e ricostruzione di conoscenze che ci portano ad un cambiamento interiore, cambiamento in conoscenza, capacità, valori, comportamento, consapevolezza.
@@ -110,8 +163,8 @@ E' un'attività continuativa e quotidiana
 
 Non c'è un solo modo di imparare
 
-Cosa è l'**educazione**? 
-L'arte di facilitare l'apprendimento.
+> Cosa è l'**educazione**?   
+> L'arte di facilitare l'apprendimento.
 
 Le tre vie per imparare:
 1. **formale**
@@ -123,7 +176,7 @@ ambiente non organizzato, si impara dall'ambiente diffuso, affrontando le varie 
 3. **non-formale**
 situazioni didattiche non ordinarie, organizzate con obiettivi didattici. Varie metodologie costruite sull'interesse dello studente.
 
-i Videogiochi presentano tutte e tre le forme
+I videogiochi presentano tutte e tre le forme.
 
 ### Come si sviluppa
 1. si sviluppa quando c’è coinvolgimento nel risolvere problemi *reali* del mondo
@@ -142,8 +195,6 @@ motivazione **estrinseca**
 
 i videogiochi possono essere esperienze motivanti sia instrinseche che estrinseche
 
-> DOMANDA: che tipo di motivazione desiderate nei vostri giochi?
-
 ### Forme di conoscenza
 
 > La Conoscenza è Potere (Francis Bacon)
@@ -154,12 +205,66 @@ Riuscireste a vivere bene senza conoscenza?
 3. Conoscenza **Affettiva** o Intelligenza Emotiva, come ci comportiamo con gli altri e gestiamo i **sentimenti**
 5. Conoscenza Psicomotoria, movimento e coordinazione
   
-### Abilità (Skills)
-sono le capacità specifiche di risolvere un problema applicando una conoscenza.. dal guidare al mandare una email.
-Tutto quello che facciamo necessità di qualche abilità
+## GBL
 
-**Pensiero Critico**
-la capacità di creare una visione delle cose con il pensiero razionale attraverso le proprie osservazioni, analisi e interazioni. E' l'obiettivo principale della pedagogia contemporanea.
+### Principi
+- Un **ambiente sicuro** da esplorare e in cui **commettere errori**
+- Imparare attraverso il divertimento
+- Apprendimento contestualizzato, orientato all'obiettivo anziché astratto
+- Apprendimento esperienziale: imparare facendo
+- Motivazione intrinseca: il gioco è volontario e autonomo
+- Responsabilità e feedback senza interruzioni
+- Contenuti appropriati ad Età e cultura 
+
+### Meccanismi
+- Un'ambientazione immaginaria o reale
+- Livelli di difficoltà progressivi e sfide adeguate
+- Feedback immediato e costruttivo
+- Un ambito sociale che permette alle persone di condividere esperienze e costruire legami
+- Obiettivi, regole, risultati misurabili e ricompense chiari e realizzabili
+
+### Come si impara
+![](../img/dgbl/cognitive_approach.webp)
+
+### DGBL approach
+
+- introduction to videogame (+ tutor: tech + expectations)
+- gameplay / experience (autonomo)
+- game results / scores (autonomo)
+- debrief: reflection / analysis (+ tutor)
+- forming abstract concepts + real world application
+
+### Assessment
+Using games for assessment is more than games scores.  
+Assessment happens around a game more often than it happens inside the game, and teachers/coaches must still design and provide authentic, useful assessment tasks for students.
+
+### Opzioni di Sviluppo
+
+- Use entertainment/commercial games (Assassin's Creed / Civilization)
+- Modify entertainment games (Kerbal Space Academy)
+- Use virtual worlds (Minecraft)
+- Use educational games (MinecraftEdu)
+- Create games (Antura)
+
+### Modello di gioco
+![](../img/dgbl/GBLModel.webp)
+
+### Objectives of learning analytics
+
+![](../img/dgbl/game_learning_analytics.webp)
+
+### GBL challenges
+**Curriculum**: identify how a certain game can connect to the curriculum. 
+
+**Game related**: identify the accuracy and appropriateness of the content of the game. Irrelevant or distracting content from the game that could not be removed.
+
+**Attitudes**: persuading all stakeholders and non-players about the educational value of the game.
+
+**Educators and Teachers support**: make them aware of how to use games more effectively in education.
+
+**Assessment**: Traditional assessments do not often align with GBL, so new models and approaches must be considered.
+
+**Developers** encourage and support game developers in the creation of better educational games
 
 ## Cognitive skills Glossary 
 
@@ -219,62 +324,7 @@ The level of sensitivity with which the hand and eye are synchronized.
 #### Response Time
 The ability to perceive and process a simple stimulus and respond to it.
 
-## Valori
-Le Nazioni Unite hanno definito lo Sviluppo Sostenibile quello che è richiesto oggi ma senza compromettere le generazioni future.
-
-![](../img/2030_goals.webp)
-
-> Domanda: che tipo di abilità vorresti far acquisire al tuo giocatore? C'è qualche valore particolare che ti interessa promuovere?
-
-## Esperienza intrinsicamente motivanti
-Ogni gioco è un'esperienza progettata per altri giocatori.
-
-Ogni esperienza che progettiamo e sviluppiamo ha necessariamente le nostre caratteristiche mentali, la nostra *firma*.
-
-Un'esperienza è il risultato della combinazione di materiali, immaginazione, narrativa, meccaniche, tecnologia, estetica. E' il risultato dell'interazione umana con il mondo intorno.
-
-Affinchè un'esperienza sia significativa per qualcun altro, deve esprimere un valore, presentare qualcosa di importante che ecciti, sorprenda, confronti qualcosa dentro la mente degli altri.
-
-Dewey suggerisce che le esperienze nascono dall'interazione di due principi: continuità ed interazione.
-
-**Continuità**: l'impatto di una esperienza dipende sia dalle epsrienze precedenti che dalla qualità delle seguenti.
-
-**Interazione**: il giocatore è parte attiva.
-
-attraverso l'esperienza i giocatori hanno l'opportunità di osservare, sperimentare e riflettere sulle proprie azioni
-
-## Costruire esperienze coinvolgenti
-**Immersione** è la caratteristica della mente umana che deforma lo spazio tempo interno.
-
-> Parlami e dimentico, insegnami e potrei ricordare, coinvolgimi e imaprerò (Benjamin Franklin)
-
-Se cerchiamo di ricordare quali sono state le attività che ci hanno coinvolto di più e che ci hanno aiutato ad imparare, converremmo che ci hanno fatto partecipare, investifare, sperimentare, risolvere problemi, essere curiosi, prendere decisioni ed essere creativi.
-
-La cultura personale è fondamentale per vivere un'esperienza, e tutti noi abbiamo diverse culture.
-
-> domanda: che tipo di esperienza vorresti far provare ai vostri giocatori?
-
-
-## GBL
-
-### DGBL Principles
-- A **safe environment** to explore and in which to **make mistakes**
-- Learning through enjoyment and "fun"
-- Contextualised, goal oriented instead of abstract learning
-- Experiential learning: learning by doing
-- Intrinsic motivation: playing is voluntary and self-driven
-- Seamless accountability and feedback
-- Combine audio, graphics and movement into an interactive and immersive environment
-- Age and culture appropriate
-
-### Mechanisms
-- A fictional or real world setting
-- Progressive difficulty levels and appropriate challenge
-- Immediate and constructive feedback
-- A social element that allows people to share experience and build bonds
-- Clear, achievable goals, rules, measurable outcomes and rewards
-
-### 36 Learning principles in VideoGames
+## 36 Learning principles in Videogames
 | | |
 |---|---|
 |1. Active, Critical Learning Principle |_All aspects of the the learning environment are set up to encourage active and critical, not passive, learning_|
@@ -313,49 +363,3 @@ La cultura personale è fondamentale per vivere un'esperienza, e tutti noi abbia
 |34. Dispersed Principle | _Sharing knowledge with others outside the domain/game_ |
 |35. Affinity Group Principle | _Being part of the gaming world and affinity groups bonded by the game and not shared race, gender, nation, ethnicity, or culture_ |
 |36. Insider Principle | _Helping others and modifying games, in addition to just playing_ |
-
-
-### Come si impara
-![](../img/dgbl/cognitive_approach.webp)
-
-### DGBL approach
-
-- introduction to videogame (+ tutor: tech + expectations)
-- gameplay / experience (autonomo)
-- game results / scores (autonomo)
-- reflection / analysis (+ tutor)
-- forming abstract concepts + real world application
-
-### Assessment
-Using games for assessment is more than games scores. 
-
-Assessment happens around a game more often than it happens inside the game, and teachers/coaches must still design and provide authentic, useful assessment tasks for students.
-
-### Development options
-
-- Use entertainment/commercial games (Assassin's Creed / Civilization)
-- Modify entertainment games (Kerbal Space Academy)
-- Use virtual worlds (Minecraft)
-- Use educational games (MinecraftEdu)
-- Create games (Antura)
-- Students create games
-
-### Game Model
-![](../img/dgbl/GBLModel.webp)
-
-### Objectives of learning analytics
-
-![](../img/dgbl/game_learning_analytics.webp)
-
-### GBL challenges
-**Curriculum**: identify how a certain game can connect to the curriculum. 
-
-**Game related**: identify the accuracy and appropriateness of the content of the game. Irrelevant or distracting content from the game that could not be removed.
-
-**Attitudes**: persuading all stakeholders and non-players about the educational value of the game.
-
-**Educators and Teachers support**: make them aware of how to use games more effectively in education.
-
-**Assessment**: Traditional assessments do not often align with GBL, so new models and approaches must be considered.
-
-**Developers** encourage and support game developers in the creation of better educational games

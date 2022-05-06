@@ -2,25 +2,28 @@
 title: "Temi e Case studies"
 summary: "case studies di videogiochi e giochi applicati"
 date: 2017-09-09T00:00:00
+lastmod: 2022-02-08T00:00:00
 type: book
 weight: 20
 toc: true
 draft: false
+header:
+  navbar:
+    enable: false
 ---
 
-## Storia
-#### Where in the World Is Carmen Sandiego?
-1985 [link](https://en.wikipedia.org/wiki/Where_in_the_World_Is_Carmen_Sandiego%3F_(1985_video_game))
-![](../img/where-carmen.webp)
-
 ## Unity for Humanity
-<https://unity.com/humanity>  
-video: <https://youtu.be/w7uFEwLxd78>
+<https://unity.com/humanity> ([video](https://youtu.be/w7uFEwLxd78))
 
 [Unity for Humanity 2022 Winners](https://blog.unity.com/news/announcing-our-2022-unity-for-humanity-grant-winners)
 
 ## Games 4 Change
 [Featured Games](https://www.gamesforchange.org/games/)
+
+## Gamifications
+Some example of good use of Gamification
+- [10 social products](https://yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/)
+- [10 Educational Apps](https://yukaichou.com/gamification-examples/top-10-education-gamification-examples/)
 
 
 ## Formazione e Simulazione
@@ -345,7 +348,7 @@ https://www.ted.com/talks/paola_antonelli_why_i_brought_pacman_to_moma
 
 https://blog.ted.com/paola-antonelli-on-acquiring-games-for-moma/
 
-## Altri Case Studies
+## Altri
 
 #### Classification Site
 http://serious.gameclassification.com/EN/games/index.html?display=thumb&sort=game_year%20DESC

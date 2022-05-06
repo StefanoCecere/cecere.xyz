@@ -1,14 +1,23 @@
 ---
-title: "Potere dei Videogiochi"
+title: "Oltre l'Entertainment"
 summary: "panoramica sui media e l'impatto sociale e caratteristiche dei giochi come strumenti di educazione, persuasione e trasformazione"
 date: 2017-09-09T00:00:00
+lastmod: 2022-02-08T00:00:00
 type: book
 weight: 10
 toc: true
 draft: false
+header:
+  navbar:
+    enable: false
 ---
 
 > The only source of knowledge is experience. (Einstein)
+
+## Where in the world is Carmen Sandiego?
+Nel 1985 veniva pubblicato questo videogioco [link](https://en.wikipedia.org/wiki/Where_in_the_World_Is_Carmen_Sandiego%3F_(1985_video_game))
+![](../img/where-carmen.webp)
+
 
 ## Cosa è l’Entertainment
 > L'**intrattenimento** è un'azione o un evento che ha come scopo quello di catturare l'interesse di uno spettatore o di un pubblico, oppure, in senso più ampio, qualunque attività capace di suscitare gioia o divertimento in chi la pratica
@@ -38,6 +47,11 @@ Conoscenza, Educazione e Libertà sono sempre andate insieme, e con l'esplosione
 ![](../img/creative_multimedia.webp)
 
 #### Immersività
+
+> Parlami e dimentico, insegnami e potrei ricordare, coinvolgimi e imparerò (Benjamin Franklin)
+
+**Immersione** è la caratteristica della mente umana che deforma lo spazio tempo interno.
+
 Si vive un'esperienza dentro un gioco, finché non si rompe a causa di:
 - distrazione esterna
 - errore o bug
@@ -53,7 +67,7 @@ Si vive un'esperienza dentro un gioco, finché non si rompe a causa di:
 un media umanista
 {{< figure src="../img/humanist_player.webp" width="50%">}}
 
-### Alcune virtù dei videogiochi
+### Virtù
 - esperienze non-lineari
 - esperienze immersiva
 - migliorano le capacità di pensiero critico e di lettura e insegnano nuove capacità tecniche.
@@ -70,7 +84,7 @@ un media umanista
 
 > ci interessa far vivere esperienze formative o con effetti oltre il puro divertimento
 
-### esperienze che 
+### Parole chiave
 - sono una forma di divertimento -> _piacere_
 - sono una forma di gioco -> _coinvolgimento_
 - hanno regole -> _struttura_
@@ -103,7 +117,9 @@ In particolare si usano i concetti e/o elementi dei giochi per “giochificare�
 Il Game Based Learning invece è un approccio che usa dei giochi completi, e non solo alcune meccaniche, per ottenere dei risultati predefiniti.
 Possono essere giochi specificatamente progettati oppure giochi esistenti adatti a rinforzare qualche concetto particolare.
 
-## Serious Games
+## Serious Games
+![](../img/abt-serious-games-book.webp)
+
 Giochi progettati per obiettivi che non sia il puro intrattenimento.
 L'intrattenimento può essere comunque un effetto complementare, laterale, dell'esperienza di gioco, ma l'obiettivo è attivare un qualche cambiamento nella comprensione, nell'attitudine o nel comportamento del giocatore.
 
@@ -140,17 +156,17 @@ Senza obiettivi (goals) e regole ben definite, non valuta la performace del gioc
 Regole e obiettivi ben definiti.
 
 #### Purpose (finalità)
-1. Diffondere un **messaggio**
+##### 1. Diffondere un **messaggio**
 - Educativo
 - Informativo
 - Persuasivo
 - Soggettivo
 
-2. **Allenamento**
+##### 2. **Allenamento**
 - Mentale
 - Fisico
 
-3. **Data Exchange**
+##### 3. **Data Exchange**
 Raccogliere dati e informazioni dai giocatori o invitarli a condividerli.
 
 #### Scope: Mercati
@@ -180,7 +196,7 @@ Raccogliere dati e informazioni dai giocatori o invitarli a condividerli.
 #### Game Play + Market combinations:
 **Video Game**: game-based + entertainment  
 **Video Toy**: play-based + entertainment  
-**Impact Game**: game-based + !entertainment 
+**Impact Game**: game-based + !entertainment  
 **Impact Play**: play-based + !entertainment  
 
 ## Interesse
