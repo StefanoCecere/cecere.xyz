@@ -25,47 +25,8 @@ Some example of good use of Gamification
 - [10 social products](https://yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/)
 - [10 Educational Apps](https://yukaichou.com/gamification-examples/top-10-education-gamification-examples/)
 
-
-## Formazione e Simulazione
-Ad oggi il settore più grande ed economicamente più rilevante.
-
-- AI, Robotica
-- Replicabilità, Prevenzione
-- Previsioni, Futuro
-- VR, AR
-
-Target sia professionale che pubblico.
-
-Immersive Simulation for Field Operator Training
-https://www.youtube.com/watch?v=rJULyO9E2vE
-
-Combat Medic Trainer 3D Simulation Video Game
-https://www.youtube.com/watch?v=1wQBUhqt7N0
-
-
-### Militari e Governativi
-Simulatori militari e forze civili.
-Non entriamo nell’etica.
-Diverso è sviluppare un simulatore che aiuti a prevenire morte e violenza, che non progettare nuove armi.
-Non solo training interno ma anche per recruitment e marketing.
-
-### Architettura
-**Build better cities**
-https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/
-
-### Alcuni titoli
-- Democracy, political strategy game - positech.co.uk/democracy/
-- Flight Simulator <https://www.flightsimulator.com/>
-- "ViPOL" (virtual training for police forces)
-- Lost Earth 2307 (image interpretation, military)
-- 3DSim@GBT (planning, railroad construction)
-- Mega Airport.. (series) (visualization, flight simulators)
-- Ship Simulator: Maritime Search and Rescue
-- SchaVIS (flooding simulation and prevention)
-- Seconds (supply chain management)
-- Learn2work (company simulation and training)
-- Sharkworld (project management training)
-- Houthoff Buruma (recruitment and assessment)
+## The Fresh Heads
+<https://www.lidl.it/the-fresh-heads>
 
 ## Educazione
 dalle elementari all'università alla formazione professionale.
@@ -145,21 +106,7 @@ Ci possono essere giochi molto mirati (tipo giochi per l'Autismo) o di massa (pi
 Giochi tipo Re-Mission (www.re-mission.net) incoraggia i giovani pazienti malati di cancro a combattere il loro male e seguire in modo più preciso le terapie. Ha dimostrato sua efficacia.
 
 #### iWatch and Weareables
-
 Nuove tecnologie permettono nuove possibilità
-
-#### Games for Health Finland
-
-https://www.youtube.com/watch?v=ath966NqZ7g
-
-#### The Game that can give you 10 extra years of life
-
-Game designer Jane McGonigal firmly believes that video games are not just about mashing buttons and getting to the next level. In fact, during her talk at TEDGlobal 2012, McGonigal gave several surprising statistics: that online gaming can be more effective than pharmaceuticals in treating **clinical depression** and that just 30 minutes a day is correlated with significant **increases in happiness**.
-
-https://blog.ted.com/10-online-games-with-a-social-purpose/
-
-VIDEO:
-https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life
 
 #### Alcuni titoli
 - **Zombie Run**
@@ -171,6 +118,62 @@ https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_yea
 - KickAss (autism game for adolescents)
 - Zirkus Empathica (autism game for children)
 - SPARX (mental health game for youths & adolescents)
+
+#### Games for Health Showcase
+
+<https://www.youtube.com/watch?v=8pIFskqIpgk>
+
+<https://www.youtube.com/watch?v=ath966NqZ7g>
+
+#### The Game that can give you 10 extra years of life
+
+Game designer Jane McGonigal firmly believes that video games are not just about mashing buttons and getting to the next level. In fact, during her talk at TEDGlobal 2012, McGonigal gave several surprising statistics: that online gaming can be more effective than pharmaceuticals in treating **clinical depression** and that just 30 minutes a day is correlated with significant **increases in happiness**.
+
+https://blog.ted.com/10-online-games-with-a-social-purpose/
+
+[VIDEO](https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life)
+
+
+## Formazione e Simulazione
+Ad oggi il settore più grande ed economicamente più rilevante.
+
+- AI, Robotica
+- Replicabilità, Prevenzione
+- Previsioni, Futuro
+- VR, AR
+
+Target sia professionale che pubblico.
+
+Immersive Simulation for Field Operator Training
+https://www.youtube.com/watch?v=rJULyO9E2vE
+
+Combat Medic Trainer 3D Simulation Video Game
+https://www.youtube.com/watch?v=1wQBUhqt7N0
+
+
+### Militari e Governativi
+Simulatori militari e forze civili.
+Non entriamo nell’etica.
+Diverso è sviluppare un simulatore che aiuti a prevenire morte e violenza, che non progettare nuove armi.
+Non solo training interno ma anche per recruitment e marketing.
+
+### Architettura
+**Build better cities**
+https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/
+
+### Alcuni titoli
+- Democracy, political strategy game - <http://positech.co.uk/>
+- Flight Simulator <https://www.flightsimulator.com/>
+- "ViPOL" (virtual training for police forces)
+- [Lost Earth 2307](https://www.iosb.fraunhofer.de/en/projects-and-products/lost-earth-2307.html) (image interpretation, military)
+- [3DSim@GBT](https://www.youtube.com/watch?v=agLQfJkG3z4) (planning, railroad construction)
+- Mega Airport.. (series) (visualization, flight simulators)
+- [Ship Simulator](http://shipsim.com/): Maritime Search and Rescue
+- SchaVIS (flooding simulation and prevention)
+- Seconds (supply chain management)
+- Learn2work (company simulation and training)
+- Sharkworld (project management training)
+- Houthoff Buruma (recruitment and assessment)
 
 ## Consapevolezza e Comunicazione
 Chiamati anche **Games for good**, hanno come pilastro il trattare temi di rilevanza sociale pubblica, quali
