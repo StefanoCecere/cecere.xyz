@@ -14,7 +14,7 @@ Nel 2002 lo portai su TYPO3, un CMS di cui divenni professionista.
 Nel 2012 passai a WordPress, ma fu, ed è tutt'ora, un sistema che non mi piace.    
 Nel 2017 circa decisi di smettere con lo sviluppo web e di gestire servers e siti dinamici con tutte le loro problematiche, ma sopratutto non volevo che i contenuti dei miei siti avessero **dipendenza dal sistema di pubblicazione** e che non fossero **future proof**, ovvero non pronti a durare secoli.  
 Già innamorato del formato di puro testo [Markdown](https://en.wikipedia.org/wiki/Markdown) e con l'arrivo di ottimi generatori di siti statici passai prima a Jekyll e poi a Hugo.
-Il sito è totalmente **Open Source**, puoi vedere come è fatto ed eventualmente contribuire a migliorarlo: <https://github.com/StefanoCecere/stefanocecere.org>
+Il sito è totalmente **Open Source**, puoi vedere come è fatto ed eventualmente contribuire a migliorarlo: <https://github.com/StefanoCecere/cecere.xyz>
 
 Ecco alcuni dettagli:
 ## statico

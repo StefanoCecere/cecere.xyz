@@ -71,7 +71,7 @@ features:
   privacy_pack:
     enable: true
   repository:
-    url: 'https://github.com/StefanoCecere/stefanocecere.org'
+    url: 'https://github.com/StefanoCecere/cecere.xyz'
     content_dir: content
     branch: main
   avatar:
@@ -107,4 +107,4 @@ extensions:
     enable: false
 
 # my
-ghrepo: https://github.com/stefanoCecere/stefanocecere.org/
+ghrepo: https://github.com/stefanoCecere/cecere.xyz/
