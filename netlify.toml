@@ -27,6 +27,6 @@
 
 [[redirects]]
   from = "https://stefanocecere.com/*"
-  to = "https://stefano.cecere.xyz/:splat"
+  to = "https://cecere.xyz/:splat"
   status = 301
   force = true
