@@ -1,5 +1,5 @@
-# stefanocecere.com
-the source of my website <https://stefanocecere.com>.
+# cecere.xyz
+the source of my website <https://cecere.xyz>.
 hope you'll find something useful, please share and let me know.
 
 powered by:
