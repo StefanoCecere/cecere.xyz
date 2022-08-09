@@ -1,7 +1,7 @@
 ---
 title: Stefano Cecere
 superuser: true
-role: Play well, Die Happy! Autore, Educatore, Sviluppatore, Umanista, Papà.
+role: Play well, Die Happy! Ricercatore, Sviluppatore, Educatore, Politico, Umanista, Papà.
 # Game Based Learning R&D, Educator, Musician
 # Humanist AI+XR+EdTech+Video Games, Educator and Author
 
