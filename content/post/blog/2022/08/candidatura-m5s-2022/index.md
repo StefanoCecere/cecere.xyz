@@ -15,9 +15,25 @@ image:
 projects: []
 ---
 
+Vorresti un game designer umanista tecnologico in parlamento? Magari con decenni di attivismo e di esperienza in moltissimi ambiti e progetti, con l'intenzione di portare avanti almeno questi temi:
+
+1. investire in ricerca e sviluppo
+2. diminuire consumi superflui
+3. valorizzare cultura e modelli
+4. educazione diffusa e didattica ludica
+5. prima gli ultimi, poi i ricchissimi
+6. umanesimo: essere umani al centro
+7. tecnologia distribuita opensource
+8. disarmo nucleare e nonviolenza
+9. comunicazione interattiva e semplice
+10. ragionare come fratellanza planetaria
+
+## Perchè mi candido?
+
 1. Perché non siamo dei punti statici.
 2. Perché è necessario mettersi in gioco.
 3. Perché il M5S è il miglior attuale progetto politico.
+4. Perchè ho molte virtù ed esperienze significative.
 
 Questa la risposta breve che andrò a spiegare nelle prossime righe per rispondere alla domanda di chi mi dice "ma chi te lo fa fare! ma perché con il M5S! non ti eleggeranno mai!" e soprattutto voglio motivare perché dovreste votare me e non qualcun altro.
 Se mi candido non lo faccio per fare numero o dare un segnale, lo faccio perché ritengo, una volta tanto, che io sia meglio di altri. E non dico che farei di tutto per convincervi, ma almeno ci devo provare con la **via della persuasione e della ragione** (e non con quella del ricatto o della confabulazione).
@@ -118,6 +134,9 @@ In ogni caso se siete della circoscrizione toscana/firenze: VOTATE PER ME! ;)
 
 ### Appendice
 Ritengo utile leggere questi altri miei post:
+
+Qui la mia pagina pubblica sul portale M5S:  
+<https://portale.movimento5stelle.eu/partners/stefano-cecere-185163>
 
 I 4 punti minimi di programma politico:  
 <https://cecere.xyz/post/politica-temi-minimi/>
