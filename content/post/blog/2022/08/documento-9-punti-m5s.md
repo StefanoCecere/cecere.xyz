@@ -19,7 +19,7 @@ projects: []
 2. Perché è necessario mettersi in gioco.
 3. Perché il M5S è il miglior attuale progetto politico.
 
-Questa la risposta breve che andrò a spiegare nelle prossime righe per rispondere alla domanda di chi mi dice "ma chi te lo fa fare! ma perché con il M5S! non ti eleggeranno mai!" e sopratutto voglio motivare perché dovreste votare me e non qualcun altro.
+Questa la risposta breve che andrò a spiegare nelle prossime righe per rispondere alla domanda di chi mi dice "ma chi te lo fa fare! ma perché con il M5S! non ti eleggeranno mai!" e soprattutto voglio motivare perché dovreste votare me e non qualcun altro.
 Se mi candido non lo faccio per fare numero o dare un segnale, lo faccio perché ritengo, una volta tanto, che io sia meglio di altri. E non dico che farei di tutto per convincervi, ma almeno ci devo provare con la **via della persuasione e della ragione** (e non con quella del ricatto o della confabulazione).
 
 Partiamo dalla base: **mi occupo di attivismo politico e culturale dal 1996**, non sono un improvvisato sulla via di Beppe Grillo, rimando altrove a curiosare su cosa ho fatto in 25 anni (questo mio sito è un buon punto di partenza), e penso che **arriva il momento in cui bisogna seriamente mettersi a disposizione dell'insieme prendendosi delle responsabilità**. Perchè è troppo facile stare fuori, magari a fare cose bellissime, e vivere o criticando o aspettandosi che siano sempre gli altri a fare quello che ritieni il meglio.  
@@ -30,12 +30,12 @@ Devo aggiungere che negli ultimi 30 anni ho fatto molte altre cose, non solo att
 
 **Ho lavorato tanto e studiato ancora di più**. I miei interessi sono sempre stati molto ampi e variegati, rientrando nel mondo dei "multipotenziali" ovvero tra quelle persone che conoscono l'arte e il gusto di **imparare ad imparare** facilmente e grazie alla grande curiosità e capacità di concentrazione riescono bene in qualsiasi cosa vogliano applicarsi, che sia la musica o la matematica, l'ingegneria o l'insegnamento. Chi è un po' nerd/hacker sa di cosa parlo.
 
-Multipotenzialità a parte, sono cresciuto in una **società che ti voleva incasellare in un punto fisso**: tu sei ingegnere e quello fai, tu farai l'operaio, tu il parrucchiere, tu il manager, tu niente. Per non parlare delle posizioni "politiche" tu sei di destra e io di sinitra, tu sei cattolico e io ateo, tu europeo io africano, tu capitalista egoista io altruista volontario etc.
+Multipotenzialità a parte, sono cresciuto in una **società che ti voleva incasellare in un punto fisso**: tu sei ingegnere e quello fai, tu farai l'operaio, tu il parrucchiere, tu il manager, tu niente. Per non parlare delle posizioni "politiche" tu sei di destra e io di sinistra, tu sei cattolico e io ateo, tu europeo io africano, tu capitalista egoista io altruista volontario etc.
 
 La realtà è che noi non siamo dei punti fissi, statici, che nasciamo e dobbiamo morire lì dove il caso o la società ci hanno messo. Non siamo neanche degli esseri monodimensionali come i punti.
 Sarebbe più bello considerarci come **esseri multidimensionali** e ci spostiamo all'interno di uno spazio, più o meno ampio, che definisce la profondità della nostra vita. 
 
-Non solo ci possiamo muovere e cambiare nel mondo esterno, ma sopratutto possiamo e dobbiamo farlo nel nostro mondo interno, dove le dimensioni sono i nostri valori e **la dinamica del movimento è il senso della nostra vita**.
+Non solo ci possiamo muovere e cambiare nel mondo esterno, ma soprattutto possiamo e dobbiamo farlo nel nostro mondo interno, dove le dimensioni sono i nostri valori e **la dinamica del movimento è il senso della nostra vita**.
 
 Ad esempio io posso essere un amante della musica, scoprire che mi piace più comporre musica che ascoltarla, ma avere a cuore il pianeta e ritenere più importante l'equilibrio delle relazioni rispetto allo sbilanciamento delle risorse.  
 Posso amare i giochi e ritenerli lo strumento più importante per fare esperienza, vorrei che tutti i bambini del mondo (ma anche gli gli adulti) possano fare esperienze che li faccia imparare ad essere più sicuri in se stessi, ho un profondo senso di fede negli altri che mi dà l'energia per promuovere questa idea.  
@@ -49,7 +49,7 @@ Non siamo punti statici, ma dinamici in spazi da esplorare.
 **Siamo le esperienze che abbiamo fatto, i libri che abbiamo letto, le persone che abbiamo conosciuto.**
 
 OK, non ci ho capito niente e quindi?
-E quindi ad un certo punto uno può avere accumulato tanta di quella energia ed eseprienza, ed avere consapevolezza di quello che ha dentro, ad esempio un forte senso di giustizia sociale e volontà di migliorare il mondo, e **vorrebbe agire di conseguenza**. Cosa fare?
+E quindi ad un certo punto uno può avere accumulato tanta di quella energia ed esperienza, ed avere consapevolezza di quello che ha dentro, ad esempio un forte senso di giustizia sociale e volontà di migliorare il mondo, e **vorrebbe agire di conseguenza**. Cosa fare?
 
 Se la **Politica** è l'arte e la scienza delle regole di convivenza e di organizzazione delle società, di trovare soluzioni win-win, ovvero che sappiano portare vantaggi a tutti, di guardare avanti i problemi dell'insieme e affrontarli con tutti i mezzi a disposizione, superando gli individualismi egotici, lì bisogna agire.
 
@@ -64,11 +64,11 @@ Un saggio diceva "**lo scoramento dei valenti e dei coraggiosi rallenta il cammi
 Ed io, senza modestia, mi considero sia valente che coraggioso.
 
 ## Movimento 5 Stelle
-Non voglio qui ripetere da quanto seguo il progetto politico nato da Gianroberto Casaleggio e Beppe Grillo, cosa ho fatto né ripetere tutti gli errori che ho visto in questi 15 anni. Dico solo che **non mi sono lasciato scoraggiare dagli errori di percorso**, e che **l'ultima nuova fase, con Giuseppe Conte e il nuovo Statuto e Carta del Valori, mi piace moltissimo**. La ciliegina l'ha messa l'**intransigenze sul doppio mandato** e la volontà di spiegare la **Politica come una Gerarchia di Servizio**, e non di Potere. Chi si mette ora nel M5S lo fa con spirito di servizio per la collettività.  
+Non voglio qui ripetere da quanto seguo il progetto politico nato da Gianroberto Casaleggio e Beppe Grillo, cosa ho fatto né ripetere tutti gli errori che ho visto in questi 15 anni. Dico solo che **non mi sono lasciato scoraggiare dagli errori di percorso**, e che **l'ultima nuova fase, con Giuseppe Conte e il nuovo Statuto e Carta del Valori, mi piace moltissimo**. La ciliegina l'ha messa l'**intransigenza sul doppio mandato** e la volontà di spiegare la **Politica come una Gerarchia di Servizio**, e non di Potere. Chi si mette ora nel M5S lo fa con spirito di servizio per la collettività.  
 I moltissimi "travestiti" se ne sono andati chi di qua chi di là, e le ultime vicende, dal Governo con la Lega, a quello con il PD, all'esperienza Draghi sono state estremamente interessanti. E ritengo che Giuseppe Conte e l'attuale squadra M5S si siano mosse bene.
 
 Forse non è quel movimento politico radicale che anelavo vent'anni fa, ma sappiamo che i giovani sono sempre molto più radicali e idealisti. Ma nei fatti **le idee fondamentali con cui si sta muovendo il M5S sono davvero radicali**: 
-- il preoccuparsi innanzitutti degli ultimi
+- il preoccuparsi innanzitutto degli ultimi
 - il mettere i beni comuni e l'ambiente davanti al profitto dei grandi gruppi di capitale
 - il guardare il mondo per quello che è: multipolare e in cambiamento, e ribadire sì le storiche alleanze atlantiche, ma che non siano una mera sudditanza imperialista
 - il Reddito di Cittadinanza, con tutti i problemi ed errori della prima attivazione, è una necessità in visione di un'ampia riorganizzazione della società e del lavoro nei prossimi anni.
@@ -112,7 +112,7 @@ Mi metto a disposizione con energia ed entusiasmo, come in tutti i bei progetti 
 Sono anche consapevole di essere uno dei 1200 che si sono autocandidati alla Camera (ah: ho scelto la Camera e non il Senato perché la ritengo l'ambiente più "giovane", più promotere di innovazione e voglio collaborare al massimo con menti aperte e giovani), e non ho mai fatto lavoro di self-marketing o cordate. Le Parlamentarie probabilmente eleggeranno i più famosi o i più furbi.
 Conto però che la proposta attuale sia migliore di quella degli anni scorsi, e sarò felice di collaborare con eventuali nuovi parlamentari che riterrò particolarmente validi.
 
-In ogni caso se siete della circorscrizione toscana/firenze: VOTATE PER ME! ;)
+In ogni caso se siete della circoscrizione toscana/firenze: VOTATE PER ME! ;)
 
 ---
 
