@@ -114,4 +114,19 @@ Conto però che la proposta attuale sia migliore di quella degli anni scorsi, e 
 
 In ogni caso se siete della circorscrizione toscana/firenze: VOTATE PER ME! ;)
 
+---
+
+### Appendice
+Ritengo utile leggere questi altri miei post:
+
+I 4 punti minimi di programma politico:  
+<https://cecere.xyz/post/politica-temi-minimi/>
+
+Il post sui Valori e Principi del M5S che sposo in pieno:  
+<https://cecere.xyz/post/m5s-principi-valori/>  
+
+Il Documento con i 9 punti politici posti dal M5S a Draghi:  
+<https://cecere.xyz/post/documento-9-punti-m5s-draghi/>
+
+
 
