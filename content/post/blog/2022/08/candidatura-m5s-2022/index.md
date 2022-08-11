@@ -15,31 +15,31 @@ image:
 projects: []
 ---
 
-Vorresti in Parlamento qualcuno:
+Chi sono:
 
 - Attivista Umanista dal 1996
 - Musicista professionista con centinaia di concerti
 - esperto di Informatica e computer dagli anni '80
 - creatore e sviluppatore di Videogiochi Educativi
 - laureando in Scienze della Formazione e Filosofia della Scienza
-- nel mezzo di cammin della sua vita (49 anni). non giovane ma non boomer.
+- nel mezzo di cammin della mia vita (49 anni). non giovane ma non boomer.
 - con una eclettica libreria di 1200 Libri
 - girato il mondo per la Ricerca, la Pace e la Nonviolenza
-- organizza laboratori ludico/creativi (STEAM) per ragazzi
-- studia, ricerca e insegna le Nuove Tecnologie AI/AR/VR
+- organizzo laboratori ludico/creativi (STEAM) per ragazzi
+- studio, ricerco e insegno le Nuove Tecnologie AI/AR/VR
 - ambasciatore dell'OpenSource e dell'Intelligenza Collettiva
-- considera il Gioco una delle attività più potenti di esperienza e formazione
-- a Ingegneria scoprì i frattali, il Caos e i Sistemi Complessi, e...
-- ha due Figli ma non si preoccupa solo dei suoi
-- promuove il Dialogo, ogni forma di espressione e la Comunicazione generativa
-- che in 33 anni ha lavorato da operaio, da professionista, da dipendente, da imprenditore in dozzine di realtà importanti
-- sa che la fortuna non è democratica, ma l'essere umano ha Empatia e Cretività
-- considera la Politica come un Servizio necessario per il meglio comune
-- ama lo Spazio e pensa ci sia un Senso, da qualche parte, e sia importante cercarlo
-- pensa che l'Immaginazione abbia evoluto l'umanità, e ci servono nuove immagini
-- forse meglio aggiungerlo: parla bene inglese, incensurato, sempre in regola con le tasse, non fa uso di droghe, non ha bisogno di un nuovo "lavoro" né di fama
+- considero il Gioco una delle attività più potenti di esperienza e formazione
+- a Ingegneria scoprii i frattali, il Caos e i Sistemi Complessi, e...
+- ho due Figli ma non mi preoccupo solo dei miei
+- promuovo il Dialogo, ogni forma di espressione e la Comunicazione generativa
+- in 33 anni ho lavorato da operaio, da professionista, da dipendente, da imprenditore in dozzine di realtà importanti
+- so che la fortuna non è democratica, ma l'essere umano ha Empatia e Creatività
+- considero la Politica come un Servizio necessario per il meglio comune
+- amo lo Spazio e penso ci sia un Senso, da qualche parte, e sia importante cercarlo
+- penso che l'Immaginazione abbia evoluto l'umanità, e ci servono nuove immagini
+- forse meglio aggiungerlo: parlo bene inglese, incensurato, sempre in regola con le tasse, non uso droghe, non ho bisogno di un nuovo "lavoro" né di fama
 
-Con la capacità di parlare coscientemente e portare avanti questi temi:
+Ho la capacità di parlare coscientemente e portare avanti questi temi:
 
 1. investire in ricerca e sviluppo
 2. diminuire consumi superflui / 2000Watt
