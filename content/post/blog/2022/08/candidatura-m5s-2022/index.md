@@ -15,18 +15,42 @@ image:
 projects: []
 ---
 
-Vorresti un game designer umanista tecnologico in parlamento? Magari con decenni di attivismo e di esperienza in moltissimi ambiti e progetti, con l'intenzione di portare avanti almeno questi temi:
+Vorresti in Parlamento qualcuno:
+
+- Attivista Umanista dal 1996
+- Musicista professionista con centinaia di concerti
+- esperto di Informatica e computer dagli anni '80
+- creatore e sviluppatore di Videogiochi Educativi
+- laureando in Scienze della Formazione e Filosofia della Scienza
+- nel mezzo di cammin della sua vita (49 anni). non giovane ma non boomer.
+- con una eclettica libreria di 1200 Libri
+- girato il mondo per la Ricerca, la Pace e la Nonviolenza
+- organizza laboratori ludico/creativi (STEAM) per ragazzi
+- studia, ricerca e insegna le Nuove Tecnologie AI/AR/VR
+- ambasciatore dell'OpenSource e dell'Intelligenza Collettiva
+- considera il Gioco una delle attività più potenti di esperienza e formazione
+- a Ingegneria scoprì i frattali, il Caos e i Sistemi Complessi, e...
+- ha due Figli ma non si preoccupa solo dei suoi
+- promuove il Dialogo, ogni forma di espressione e la Comunicazione generativa
+- che in 33 anni ha lavorato da operaio, da professionista, da dipendente, da imprenditore in dozzine di realtà importanti
+- sa che la fortuna non è democratica, ma l'essere umano ha Empatia e Cretività
+- considera la Politica come un Servizio necessario per il meglio comune
+- ama lo Spazio e pensa ci sia un Senso, da qualche parte, e sia importante cercarlo
+- pensa che l'Immaginazione abbia evoluto l'umanità, e ci servono nuove immagini
+- forse meglio aggiungerlo: parla bene inglese, incensurato, sempre in regola con le tasse, non fa uso di droghe, non ha bisogno di un nuovo "lavoro" né di fama
+
+Con la capacità di parlare coscientemente e portare avanti questi temi:
 
 1. investire in ricerca e sviluppo
-2. diminuire consumi superflui
-3. valorizzare cultura e modelli
-4. educazione diffusa e didattica ludica
-5. prima gli ultimi, poi i ricchissimi
+2. diminuire consumi superflui / 2000Watt
+3. valorizzare cultura e modelli positivi
+4. educazione integrale e didattica ludica
+5. prima gli ultimi e i deboli, poi i forti e i ricchi
 6. umanesimo: essere umani al centro
-7. tecnologia distribuita opensource
-8. disarmo nucleare e nonviolenza
-9. comunicazione interattiva e semplice
-10. ragionare come fratellanza planetaria
+7. tecnologia e scienza opensource
+8. disarmo nucleare e nonviolenza attiva
+9. comunicazione e politica come servizio pubblico
+10. ragionare come una fratellanza planetaria
 
 ## Perchè mi candido?
 
