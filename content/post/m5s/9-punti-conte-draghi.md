@@ -1,10 +1,13 @@
 ---
-title: "Documento con i 9 Punti M5S a Draghi"
+title: Documento con i 9 Punti M5S a Draghi
 slug: documento-9-punti-m5s-draghi
 subtitle: ""
 summary: ""
-categories: [politica]
-tags: [politica, m5s]
+categories:
+  - politica
+tags:
+  - politica
+  - m5s
 date: 2022-07-22T08:21:05+01:00
 featured: false
 draft: false

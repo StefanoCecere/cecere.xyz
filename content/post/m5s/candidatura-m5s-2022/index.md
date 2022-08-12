@@ -1,12 +1,15 @@
 ---
-title: "Perché mi candido alle elezioni politiche con il M5S"
+title: Perché mi candido alle elezioni politiche con il M5S
 slug: candidatura-m5s-2022
 subtitle: ""
 summary: ""
-categories: [blog]
-tags: [politica, m5s]
+categories:
+  - politica
+tags:
+  - politica
+  - m5s
 date: 2022-08-09T08:21:05+01:00
-featured: false
+featured: true
 draft: false
 image:
   caption: ""

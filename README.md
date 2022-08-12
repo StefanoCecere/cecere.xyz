@@ -35,6 +35,9 @@ hugo mod clean
 hugo mod get -u ./..
 hugo mod tidy
 
+## error "failed to resolve output format "headers" from site config"
+sudo rm -R $TMPDIR/hugo_cache/
+
 ```
 ## copyright
 This site and all its contents produced by me are Copyright by Stefano Cecere and  licensed under [CC BY NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
