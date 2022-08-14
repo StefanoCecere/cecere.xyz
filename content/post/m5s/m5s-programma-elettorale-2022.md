@@ -89,7 +89,7 @@ Per rendere finalmente concreta la parità di genere nella gestione familiare e 
 ## 🔴 DALLA PARTE DEI GIOVANI: PER IL LORO FUTURO, DI BENESSERE E STABILITÀ
 
 ### 🔸 PENSIONE GARANZIA GIOVANI
-Un auto concreto a tutti quei giovani con carriere intermittenti che fanno fatica ad avere una pensione
+Un aiuto concreto a tutti quei giovani con carriere intermittenti che fanno fatica ad avere una pensione
 
 ### 🔸 RISCATTO GRATUITO DELLA LAUREA
 Un incentivo allo studio universitario e un riconoscimento dell'impegno profuso nel percorso di studi in vista dell'attività lavorativa
@@ -106,8 +106,8 @@ PER GARANTIRE LIQUIDITÀ E AGEVOLARE GLI INVESTIMENTI
 ### 🔸 STATUTO DELLE IMPRESE
 Introduzione di uno strumento per dare certezza di regole agli imprenditori
 
-### 🔸 POTENZIAMENTO E STABILIZZAZIONE DECENNALE DI TRANSIZIONE 4.0, estendendo allo stesso
-piano Transizione 4.0 la cessione dei crediti d'imposta sul modello del Superbonus
+### 🔸 POTENZIAMENTO E STABILIZZAZIONE DECENNALE DI TRANSIZIONE 4.0
+estendendo allo stesso piano Transizione 4.0 la cessione dei crediti d'imposta sul modello del Superbonus
 
 ### 🔸 RAFFORZAMENTO E STABILIZZAZIONE DEL FONDO CENTRALE DI GARANZIA
 per garantire liquidità alle PMI con garanzie statali dall'80 al 100%
@@ -143,7 +143,7 @@ Tendere a un modello sostenibile di consumo energetico per ridurre le emissioni 
 Stabilizzazione delle agevolazioni edilizie per permettere la pianificazione degli investimenti sugli immobili e continuare a migliorare i livelli di risparmio energetico e di conseguenza risparmiare sulle bollette. Sbloccare e far circolare i crediti d'imposta per evitare il fallimento delle imprese che ancora oggi non riescono a trasformarli in liquidità per pagare fornitori e dipendenti
 
 ### 🔸 UN NOVO SUPERBONUS ENERGIA IMPRESE
-sempre basato sulla circolazione dei crediti fiscali, per permettere alle imprese di investire a costo zero el risparmio energetico e nelle fonti rinnovabili
+sempre basato sulla circolazione dei crediti fiscali, per permettere alle imprese di investire a costo zero nel risparmio energetico e nelle fonti rinnovabili
 
 ### 🔸 SBUROCRATIZZAZIONE PER FAVORIRE LA CREAZIONE DI IMPIANTI DI ENERGIA RINNOVABILE
 
@@ -258,3 +258,107 @@ CONTRO LE DONNE attraverso la formazione degli operatori, l'obbligatorietà e l'
 
 ### 🔸 IUS SCHOLAE
 per riconoscere la cittadinanza al minore straniero, che sia nato in Italia o vi abbia fatto ingresso, qualora abbia completato regolarmente uno o più cicli di studi
+
+## 🔴 DALLA PARTE DEL MULTILATERALISMO E PER L'EUROPA DEI POPOLI: CONTRO L'AUSTERITÀ PER UN'UNIONE EUROPEA SOLIDALE E PROGRESSISTA
+
+### 🔸 SOLIDA COLLOCAZIONE DELL'ITALIA NELL'ALLEANZA ATLANTICA E NELL'UNIONE EUROPEA
+ma con un atteggiamento proattivo e non fideistico, che renda l'Italia protagonista nell'ambito dei vari consessi
+
+### 🔸 NO ALLA CORSA AL RIARMO, SI AL PROGETTO DI DIFESA COMUNE EUROPEA PER LA PACE E LA SICUREZZA
+
+### 🔸 ISTITUZIONE DI UN 'ENERGY RECOVERY FUND'
+alimentato dall'emissione di debito comune europeo, sulla scia del Next generation Eu, per contrastare la pandemia energetica, aiutare famiglie e imprese, investire più massicciamente in fonti rinnovabili
+
+### 🔸 RENDERE PERMANENTE L'EMISSIONE DI DEBITO COMUNE COME STRUMENTO A SOSTEGNO DEGLI OBIETTIVI EUROPEI
+
+### 🔸 RIFORMA DEL PATTO DI STABILITÀ E CRESCITA, RIVEDENDO GLI ATTUALI PARAMETRI E SCORPORANDO GLI INVESTIMENTI VERDI DAL COMPUTO DEL DEFICIT
+
+### 🔸 ADOZIONE DI UN MECCANISMO COMUNITARIO PER DEFINIRE LA GESTIONE DEI FLUSSI MIGRATORI E LE OPERAZIONI DI PRIMO INTERVENTO, NONCHÉ LA SUCCESSIVA ACCOGLIENZA, RIPARTIZIONE E DISTRIBUZIONE TRA I PAESE MEMBRI DELL'UNIONE EUROPEA
+
+### 🔸 LOTTA ALLA TRATTA DI ESSERE UMANI E RAFFORZAMENTO DELLE POLITICHE DI INCLUSIONE E INTEGRAZIONE SOCIALE E CULTURALE
+
+## 🔴 DALLA PARTE DELL'INFORMAZIONE PUBBLICA: PER UNA RAI AL SERVIZIO DEI CITTADINI
+
+### 🔸 RIFORMA DEL SISTEMA RADIO-TELEVISIVO, con nuova governance che tenga fuori i partiti e assicuri il pieno recupero della sua funzione sociale con garanzia di correttezza e pluralismo dell'informazione
+
+## 🔴 DALLA PARTE DEGLI AGRICOLTORI: PERCHÉ L'AGROALIMENTARE È UN'ECCELLENZA ITALIANA, PER IL MADE IN ITALY E LA DIFESA DELLA NOSTRA TRADIZIONE
+
+### 🔸 POTENZIAMENTO DEL PIANO TRANSIZIONE 4.0 per spingere ulteriormente gli investimenti del settore agricolo
+
+### 🔸 CEDIBILITÀ DEI CREDITI FISCALI PER GLI AGRICOLTORI CHE INVESTONO, nella scia del modello del Superbonus. Estensione della cedibilità dei crediti fiscali a Transizione 4.0
+
+### 🔸 RICORSO ALLE TECNOLOGIE SATELLITARI PER L'UTILIZZO RAZIONALE DI ACQUA E FERTILIZZANTI
+
+### 🔸 INCENTIVI PER IL RICAMBIO GENERAZIONALE con investimenti dedicati a giovani agricoltori
+
+### 🔸 NO AL SISTEMA DI ETICHETTATURA DEI PRODOTTI ALIMENTARI 'NUTRISCORE' E PROMOZIONE DEL MECCANISMO ALTERNATIVO DENOMINATO 'NUTRINFORM BATTERY'
+
+### 🔸 ETICHETTATURA E VALORIZZAZIONE DE PRODOTTI DOP E IGP
+
+### 🔸 INCENTIVAZIONE DELLA FILIERA CORTA
+
+## 🔴 DALLA PARTE DEL TURISMO: PER VALORIZZARE IL NOSTRO PATRIMONIO CULTURALE E ARTISTICO
+
+### 🔸 ISTITUZIONE DI UNA PIATTAFORMA PER L'INCONTRO TRA I BISOGNI DEI TURISTI E L'OFFERTA DEL TERRITORIO ITALIANO, utile a incrementare la capacità di vendita di prodotti e servizi anche delle PMI agricole e artigiane
+
+### 🔸 PIANO PUBBLICO DI ASSUNZIONI PER SUPERARE IL GRAVE SOTTODIMENSIONAMENTO DEL MINISTERO DEI BENI CULTURALI E DELLE SUE ISTITUZIONI PERIFERICHE
+
+### 🔸 FRENO ALLE ESTERNALIZZAZIONI E CONTRASTO ALL'USO DISTORTO DEL VOLONTARIATO E DEI LAVORATORI DELLA CULTURA
+
+### 🔸 MISURE DI PROTEZIONI E VALORIZZAZIONE DEL PATRIMONIO CULTURALE ITALIANO
+
+## 🔴 DALLA PARTE DEGLI ANIMALI: CONTRO CACCIA, BRACCONAGGIO E VIOLENZE
+
+### 🔸 PROGRESSIVA ABOLIZIONE DELLA CACCIA A PARTIRE DAL DIVIETO DI ACCESSO AI TERRENI PRIVATI, CONTRASTO AL BRACCONAGGIO
+
+### 🔸 PENE SEVERE PER CHI COMMETTE VIOLENZE O MALTRATTAMENTI CONTRO GLI ANIMALI
+
+### 🔸 CASHBACK VETERINARIO
+per ottenere direttamente su conto corrente le detrazioni connesse alle spese veterinarie e per farmaci effettuate con strumenti di pagamento elettronici
+
+## 🔴 DALLA PARTE DELLE NUOVE TECNOLOGIE: PER UN PAESE DIGITALE E MODERNO
+
+### 🔸 STESURA DELLA CARTA DEI DIRITTI DIGITALI
+Riconoscimento dell'accesso alla rete quale diritto costituzionale e copertura nazionale con banda ultralarga
+
+### 🔸 BANCA DATI DIGITALE NAZIONALE
+per riconoscere il diritto all'autodeterminazione informativa, permettendo a tutti di verificare in che modo sono utilizzati i propri dati personali
+
+### 🔸 PUBBLICA AMMINISTRAZIONE IN CLOUD, radicale digitalizzazione, dematerializzazione e interoperabilità. Ampliamento "Smarter Italy"
+
+### 🔸 DEFINIRE UN PIANO INDUSTRIALE BASATO SULLE TECNOLOGIE STRATEGICHE PER IL FUTURO
+Come manifattura digitale, fintech, valute digitali, intelligenza artificiale e robotica, agrifoodtech, aerospazio, web3, semiconduttori, scienze della vita, creazione di contenuti digitali, metaverso, fino ad arrivare a frontiere come nanotecnologie e quantum computing
+
+### 🔸 INVESTIRE NELL'ECOSISTEMA DELL'INNOVAZIONE ITALIANO
+Startup e imprese innovative, scuola, università, centri di ricerca, talenti e professionisti investitori
+
+### 🔸 POTENZIARE L'INSEGNAMENTO DELLE MATERIE STEM SIN DAI PRIMI GRADI SCOLASTICI E INVESTIRE NELLE COMPETENZE TECNICHE AVANZATE E IMPRENDITORIALI
+
+## 🔴 PER LA FORMAZIONE: PERCHÉ SCUOLA, UNIVERSITÀ E RICERCA SONO LE FONDAMENTA DELLA NOSTRA SOCIETÀ
+
+### 🔸 ADEGUAMENTO DEGLI STIPENDI DEGLI INSEGNANTI AI LIVELLI EUROPEI
+
+### 🔸 BENESSERE A SCUOLA
+Più psicologi e pedagogisti per fornire un sostegno ai nostri ragazzi e a tutta la comunità scolastica
+
+### 🔸 INTRODUZIONE DI UNA 'SCUOLA DEI MESTIERI' per valorizzare e recuperare la tradizione dell'artigianato italiano
+
+### 🔸 AUMENTO DEI FONDI PER UNIVERSITÀ E RICERCA a favore di studenti, ricercatori e personale tecnico e amministrativo
+
+### 🔸 FAVORIRE L'ACCESSO APERTO AI RISULTATI DELLE RICERCHE
+
+### 🔸 RIDUZIONE DEL NUMERO CHIUSO PER L'ACCESSO ALL'UNIVERSITÀ
+
+## 🔴 PER I BENI COMUNI E LA CITTADINANZA ATTIVA
+
+### 🔸 LEGGE PER DISCIPLINARE LA CATEGORIA DEI BENI COMUNI
+
+### 🔸 LEGGE SULL'ACQUA PUBBLICA
+
+### 🔸 INCREMENTARE GLI INVESTIMENTI NEL SETTORE IDRICO
+in particolare nel Mezzogiorno, per ridurre la dispersione idrica nelle reti, per completare gli invasi d'acqua, per implementare l'utilizzo delle risorse idriche sotterranee e per garantire la depurazione degli scarichi fognari e industriali
+
+### 🔸 PROMOZIONE DEL 'CITIZEN EMPOWERMENT'
+ovvero il processo di emancipazione e acquisizione di consapevolezza da parte dei cittadini. Incentivare percorsi e strumenti di amministrazione partecipata
+
+### 🔸 PROMOZIONE DELLO STRUMENTO DEL REFERENDUM CONSULTIVO
