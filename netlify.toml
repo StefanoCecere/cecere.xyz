@@ -26,13 +26,13 @@
     Content-Type = "application/rss+xml"
 
 [[redirects]]
-  from = "https://stefanocecere.com/*"
-  to = "https://cecere.xyz/:splat"
+  from = "https://stefanocecere.com/blog/*"
+  to = "https://cecere.xyz/post/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://stefanocecere.com/blog/*"
-  to = "https://cecere.xyz/post/:splat"
+  from = "https://stefanocecere.com/*"
+  to = "https://cecere.xyz/:splat"
   status = 301
   force = true
