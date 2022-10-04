@@ -1,7 +1,7 @@
 ---
 title: Stefano Cecere
 superuser: true
-role: Play well, Die Happy! Ricercatore, Sviluppatore, Educatore, Politico, Umanista, Papà.
+role: Play well, Die Happy! Ricercatore, Sviluppatore, Educatore, Politico M5S, Umanista, Papà.
 # Game Based Learning R&D, Educator, Musician
 # Humanist AI+XR+EdTech+Video Games, Educator and Author
 
@@ -11,7 +11,7 @@ role: Play well, Die Happy! Ricercatore, Sviluppatore, Educatore, Politico, Uman
 #  url: https://site.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Tecnologie Digitali, Creatività, Filosofia e attivismo Umanista per una Politica 2042. Senza troppe aspettative ma almeno mi diverto nel tentativo :) ah e papà 2x
+bio: Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Tecnologie Digitali, Creatività, Filosofia e attivismo per una Politica Progressista 2050. E papà 2x
 
 #interests:
 #- Giochi, Tecnologia e Filosofia
