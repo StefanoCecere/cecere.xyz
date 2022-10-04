@@ -4,6 +4,7 @@ headless: true
 weight: 8
 title: Candidatura Parlamentarie Movimento 5 Stelle
 subtitle:
+active: false
 
 content:
   # Page type to display. E.g. post, event, or publication.
