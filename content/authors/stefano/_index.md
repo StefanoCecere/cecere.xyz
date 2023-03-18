@@ -44,7 +44,7 @@ social:
     header: true
 - icon: facebook
   icon_pack: fab
-  link: https://facebook.com/StefanoCecere
+  link: https://facebook.com/cecere.xyz
   label: Seguimi su Facebook
   display:
     header: true
@@ -64,7 +64,7 @@ social:
   link: https://soundcloud.com/stefanocecere
 - icon: telegram
   icon_pack: fab
-  link: https://t.me/scecere
+  link: https://t.me/cecere2042
   label: Seguimi su Telegram
   display:
     header: false
