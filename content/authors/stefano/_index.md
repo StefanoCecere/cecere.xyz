@@ -55,7 +55,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/StefanoCecere
   display:
-    header: true
+    header: false
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/stefanocecere
@@ -67,7 +67,7 @@ social:
   link: https://t.me/cecere2042
   label: Seguimi su Telegram
   display:
-    header: false
+    header: true
 #- icon: discord
 #  icon_pack: fab
 #  link: https://discord.gg/5y5VcGTjwE
