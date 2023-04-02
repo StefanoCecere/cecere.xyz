@@ -11,4 +11,3 @@ date: 2007-05-19
 ebbene si. puoi votarmi!
 sono capolista alle municipali di Monza con il Partito Umanista, il Partito dei Diritti Umani
 
-{{< sc_gallery album="img/vota_stefano_cecere" >}}
