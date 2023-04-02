@@ -18,7 +18,27 @@ image:
 projects: []
 ---
 
+- strumenti e tecnologie digitali innovativi
+- uso dei giochi e delle simulazioni per imparare
+- l'arte di ascoltare e di interagire
+- massima attenzione per chi ha bisogno
+- minima pietà per chi si approfitta della Repubblica
+- sviluppo culturale e creativo umanista come Firenze insegnava
+
 Chi sono:
+
+1. attivista per l'Umanesimo e la Nonviolenza dal 1996
+2. da 30 anni lavoro con le nuove tecnologie e la creatività
+3. sviluppo videogiochi educativi e progetti ludici/STEAM
+4. laureando in Scienze della Formazione e Filosofia
+5. ambasciatore dell'OpenSource e dell'Intelligenza Collettiva
+6. nato a Monza, a Firenze dal 2008 ne amo la storia e cultura
+7. ho due Figli ma non mi preoccupo solo dei miei
+8. Musicista professionista, conosco sia il palco che l'armonia
+9. insegno a giocare bene. un giocatore che vorrei in squadra
+
+valuta la mia esperienza trentennale su cecere.xyz
+
 
 - Attivista Umanista dal 1996
 - Musicista professionista con centinaia di concerti
