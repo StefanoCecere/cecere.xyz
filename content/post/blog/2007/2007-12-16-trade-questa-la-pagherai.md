@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2007-12-16T06:35:41Z
-guid: http://stefanocecere.com/2007/12/16/trade-questa-la-pagherai/
+guid: http://cecere.xyz/2007/12/16/trade-questa-la-pagherai/
 id: 620
 tags:
 - film
@@ -12,13 +12,13 @@ title: Trade - questa la pagherai
 slug: /2007/12/trade-questa-la-pagherai/
 ---
 
-![trade-you-will-pay-for-this.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2007/12/trade-you-will-pay-for-this.jpg)
+![trade-you-will-pay-for-this.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2007/12/trade-you-will-pay-for-this.jpg)
   
-![picture-1.png](http://stefanocecere.com/wp-content/uploads/sites/3/2007/12/picture-1.png)
+![picture-1.png](http://cecere.xyz/wp-content/uploads/sites/3/2007/12/picture-1.png)
 
-ho appena finito di vedere questo [![trade-you-will-pay-for-this.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2007/12/trade-you-will-pay-for-this.jpg)
+ho appena finito di vedere questo [![trade-you-will-pay-for-this.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2007/12/trade-you-will-pay-for-this.jpg)
   
-![picture-1.png](http://stefanocecere.com/wp-content/uploads/sites/3/2007/12/picture-1.png)
+![picture-1.png](http://cecere.xyz/wp-content/uploads/sites/3/2007/12/picture-1.png)
 
 ho appena finito di vedere questo](http://www.tradethemovie.com/) (commercio, scambio.. non è ancora arrivato in Italia)
 

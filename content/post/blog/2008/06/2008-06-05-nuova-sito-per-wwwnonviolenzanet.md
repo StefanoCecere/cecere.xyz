@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-06-05T16:59:28Z
-guid: http://stefanocecere.com/2008/06/05/nuova-sito-per-wwwnonviolenzanet/
+guid: http://cecere.xyz/2008/06/05/nuova-sito-per-wwwnonviolenzanet/
 id: 1002
 tags:
 - nonviolenza
@@ -22,4 +22,4 @@ con una **webcam** sul presidio permanente di Milano (in Via Mazzali, a 100 da M
 
 andate a vederlo, linkatelo e diffondete!
   
-<a href="http://www.nonviolenza.net" target="_blank"><img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/06/nonviolenzanet.jpg' alt='nonviolenzanet.jpg' /></a>
+<a href="http://www.nonviolenza.net" target="_blank"><img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/06/nonviolenzanet.jpg' alt='nonviolenzanet.jpg' /></a>

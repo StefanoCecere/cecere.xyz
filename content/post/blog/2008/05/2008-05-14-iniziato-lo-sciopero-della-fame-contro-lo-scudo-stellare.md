@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-05-14T11:06:49Z
-guid: http://stefanocecere.com/2008/05/14/iniziato-lo-sciopero-della-fame-contro-lo-scudo-stellare/
+guid: http://cecere.xyz/2008/05/14/iniziato-lo-sciopero-della-fame-contro-lo-scudo-stellare/
 id: 931
 tags:
 - azioni
@@ -17,7 +17,7 @@ title: Iniziato lo sciopero della fame contro lo scudo stellare
 slug: /2008/05/iniziato-lo-sciopero-della-fame-contro-lo-scudo-stellare/
 ---
 
-![hunger-strike.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/hunger-strike.jpg)
+![hunger-strike.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/05/hunger-strike.jpg)
 
 Ieri mattina (13 maggio) alle ore 11:00 gli umanisti Jan Tamas e Jan Bednar hanno iniziato a Praga lo sciopero della fame contro il radar americano in Repubblica Ceca.
   

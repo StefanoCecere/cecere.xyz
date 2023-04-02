@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-05-15T10:30:31Z
-guid: http://stefanocecere.com/2008/05/15/appello-della-campagna-%e2%80%9cl%e2%80%99europa-dice-no-allo-scudo-spaziale%e2%80%9d/
+guid: http://cecere.xyz/2008/05/15/appello-della-campagna-%e2%80%9cl%e2%80%99europa-dice-no-allo-scudo-spaziale%e2%80%9d/
 id: 936
 tags:
 - azioni

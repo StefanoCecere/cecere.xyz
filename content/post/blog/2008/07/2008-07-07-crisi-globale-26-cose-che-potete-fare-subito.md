@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-07-07T09:53:08Z
-guid: http://stefanocecere.com/?p=1082
+guid: http://cecere.xyz/?p=1082
 id: 1082
 tags:
 - azioni

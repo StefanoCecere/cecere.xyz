@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-04-24T07:22:25Z
-guid: http://stefanocecere.com/2008/04/24/un-nuovo-virus-mortale-in-bolivia/
+guid: http://cecere.xyz/2008/04/24/un-nuovo-virus-mortale-in-bolivia/
 id: 894
 tags:
 - Bolivia

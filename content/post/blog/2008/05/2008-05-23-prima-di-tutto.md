@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-05-23T06:52:01Z
-guid: http://stefanocecere.com/2008/05/23/prima-di-tutto/
+guid: http://cecere.xyz/2008/05/23/prima-di-tutto/
 id: 973
 tags:
 - arte

@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-11-21T03:44:00Z
-guid: http://stefanocecere.com/2006/11/21/la-presenza-della-forza-o-energia-interna/
+guid: http://cecere.xyz/2006/11/21/la-presenza-della-forza-o-energia-interna/
 id: 464
 tags:
 - Forza
@@ -12,7 +12,7 @@ title: La presenza della Forza (o energia interna)
 slug: /2006/11/la-presenza-della-forza-o-energia-interna/
 ---
 
-<img alt="forza_energia_interna.jpg" id="image462" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/11/forza_energia_interna.jpg" />
+<img alt="forza_energia_interna.jpg" id="image462" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/11/forza_energia_interna.jpg" />
 
 _1. Quando ero realmente sveglio andavo ascendendo di comprensione in comprensione.</p> 
 
@@ -43,5 +43,5 @@ Anche in questo il buon SIlo si è rivelato un gran bel Maestro, riuscendo a sem
 Davvero ora non mi sorprendono più certi fenomeni.. e sono certo dell'infinità dell'Essere Umano! 😉
 
 <div style="text-align: center">
-  <img alt="forza_e_sfera_luminosa.jpg" id="image463" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/11/forza_e_sfera_luminosa.jpg" />
+  <img alt="forza_e_sfera_luminosa.jpg" id="image463" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/11/forza_e_sfera_luminosa.jpg" />
 </div>

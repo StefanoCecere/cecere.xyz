@@ -1,19 +1,20 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-01-31T09:29:43Z
-guid: http://stefanocecere.com/2008/01/31/questa-sera-un-umanista-da-santoro/
+date: 2008-01-31
+guid: http://cecere.xyz/2008/01/31/questa-sera-un-umanista-da-santoro/
 id: 673
 tags:
 - Politica
-- Terra 2.0
+- Terra2
 - TV
 - umanista
 title: Questa sera un umanista da Santoro
 slug: /2008/01/questa-sera-un-umanista-da-santoro/
+updated: 2022-03-22
 ---
 
-![fabrizio_ferrandelli1.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/01/fabrizio_ferrandelli1.jpg)
+![fabrizio_ferrandelli1.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/01/fabrizio_ferrandelli1.jpg)
 
 Questa sera Fabrizio Ferrandelli, consigliere comunale umanista aggredito sabato scorso, sara’ alla trasmissione di Michele Santoro Anno Zero su Rai due alle ore 21.00.
   

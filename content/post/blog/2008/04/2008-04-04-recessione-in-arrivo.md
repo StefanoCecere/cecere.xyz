@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-04-04T11:53:00Z
-guid: http://stefanocecere.com/2008/04/04/recessione-in-arrivo/
+guid: http://cecere.xyz/2008/04/04/recessione-in-arrivo/
 id: 803
 tags:
 - economia

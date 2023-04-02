@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-04-04T15:08:32Z
-guid: http://stefanocecere.com/2006/04/04/dallaldila-alladiqua-comunicazione-interdimensionale/
+guid: http://cecere.xyz/2006/04/04/dallaldila-alladiqua-comunicazione-interdimensionale/
 id: 250
 tags:
 - morte

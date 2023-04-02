@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2007-07-18T08:54:13Z
-guid: http://stefanocecere.com/2007/07/18/harry-plotter-ops-potter-questa-volta-mi-e-piaciuto/
+guid: http://cecere.xyz/2007/07/18/harry-plotter-ops-potter-questa-volta-mi-e-piaciuto/
 id: 532
 tags:
 - arte
@@ -13,7 +13,7 @@ title: Harry Plotter .. ops Potter questa volta mi è piaciuto!
 slug: /2007/07/harry-plotter-ops-potter-questa-volta-mi-e-piaciuto/
 ---
 
-![Harry Plotter](http://stefanocecere.com/wp-content/uploads/sites/3/2007/07/harry_plotter.jpg)
+![Harry Plotter](http://cecere.xyz/wp-content/uploads/sites/3/2007/07/harry_plotter.jpg)
 
 Innanzitutto mi sa che la produzione di questa eptalogia (o eptenneadi??) hanno saputo che noi lo si chiamava sempre "**Harry Plotter**"… e di fatto in una scena del film lo scrivono così, su un giornale dove parlano dell nostro maghetto.. che ormai piccino più non è.. tanto che alla prima scena gli vedi i bicipiti, le spalle e i lineamenti spigolosi e dici "urka questo moh fa Rambo!!"
 

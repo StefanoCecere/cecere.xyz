@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-04-21T09:23:05Z
-guid: http://stefanocecere.com/2008/04/21/appoggio-ad-una-bolivia-sovrana-solidale-e-nonviolenta/
+guid: http://cecere.xyz/2008/04/21/appoggio-ad-una-bolivia-sovrana-solidale-e-nonviolenta/
 id: 886
 tags:
 - Bolivia
@@ -13,7 +13,7 @@ title: APPOGGIO AD UNA BOLIVIA SOVRANA, SOLIDALE E NONVIOLENTA
 slug: /2008/04/appoggio-ad-una-bolivia-sovrana-solidale-e-nonviolenta/
 ---
 
-[<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/morales_hirsch.thumbnail.jpg' alt='morales_hirsch.jpg' align="left" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/morales_hirsch.jpg "morales_hirsch.jpg")Il popolo boliviano si appresta a pronunciarsi tramite un referendum nazionale sulla sua nuova Costituzione, approvandola o rifiutandola. Si tratta di una Costituzione che protegge i diritti umani e la liberta’ degli individui ed approfondisce la democrazia reale, stabilendo livelli di partecipazione ed autonomia che arrivano fino ai municipi e alle comunita’. Una Costituzione che riconosce le diverse nazioni dei popoli originari, discriminati e sfruttati per secoli e che, senza eliminare la proprieta’ privata, include il diritto delle comunita’ ad un’economia collettiva e recupera la sovranità della nazione sulle risorse naturali. Una Costituzione avanzata, che rifiuta la guerra come metodo di risoluzione dei conflitti. Una Costituzione umanista.
+[<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/04/morales_hirsch.thumbnail.jpg' alt='morales_hirsch.jpg' align="left" />](http://cecere.xyz/wp-content/uploads/sites/3/2008/04/morales_hirsch.jpg "morales_hirsch.jpg")Il popolo boliviano si appresta a pronunciarsi tramite un referendum nazionale sulla sua nuova Costituzione, approvandola o rifiutandola. Si tratta di una Costituzione che protegge i diritti umani e la liberta’ degli individui ed approfondisce la democrazia reale, stabilendo livelli di partecipazione ed autonomia che arrivano fino ai municipi e alle comunita’. Una Costituzione che riconosce le diverse nazioni dei popoli originari, discriminati e sfruttati per secoli e che, senza eliminare la proprieta’ privata, include il diritto delle comunita’ ad un’economia collettiva e recupera la sovranità della nazione sulle risorse naturali. Una Costituzione avanzata, che rifiuta la guerra come metodo di risoluzione dei conflitti. Una Costituzione umanista.
   
 Evo Morales ha saputo portare avanti con intelligenza e coraggio un processo ammirevole, affrontando con la metodologia della nonviolenza la violenza del potere economico.
   

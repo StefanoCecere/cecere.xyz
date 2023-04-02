@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2006-02-09T10:16:45Z
-guid: http://stefanocecere.com/?p=225
+guid: http://cecere.xyz/?p=225
 id: 225
 tags:
 - ricreazione

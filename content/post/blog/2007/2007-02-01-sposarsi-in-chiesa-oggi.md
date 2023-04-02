@@ -3,7 +3,7 @@ draft: true
 categories:
 - Uncategorized
 date: 2007-02-01T22:36:05Z
-guid: http://stefanocecere.com/2007/02/01/sposarsi-in-chiesa-oggi/
+guid: http://cecere.xyz/2007/02/01/sposarsi-in-chiesa-oggi/
 id: 489
 tags:
 - arte

@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-09-30T18:59:31Z
-guid: http://stefanocecere.com/?p=1297
+guid: http://cecere.xyz/?p=1297
 id: 1297
 tags:
 - arte

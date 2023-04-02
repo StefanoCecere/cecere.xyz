@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2007-07-21T01:53:01Z
-guid: http://stefanocecere.com/2007/07/21/transformers-il-film/
+guid: http://cecere.xyz/2007/07/21/transformers-il-film/
 id: 534
 tags:
 - arte
@@ -13,7 +13,7 @@ title: 'Transformers: il film'
 slug: /2007/07/transformers-il-film/
 ---
 
-<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/07/transformers.jpg" title="Transformers locandina" alt="Transformers locandina" align="left" />E allora diciamolo: passo tutte le sere a guardare un film!!!
+<img src="http://cecere.xyz/wp-content/uploads/sites/3/2007/07/transformers.jpg" title="Transformers locandina" alt="Transformers locandina" align="left" />E allora diciamolo: passo tutte le sere a guardare un film!!!
 
 in effetti.. non avendo la televisione, e non avendo visto cinema per diversi mesi, in queste notti arroventate in cui si dorme poco non mi dispiace vedermi qualche film:
 

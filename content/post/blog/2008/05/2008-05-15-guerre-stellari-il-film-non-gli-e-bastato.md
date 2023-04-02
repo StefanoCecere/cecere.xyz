@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-05-15T15:14:14Z
-guid: http://stefanocecere.com/2008/05/15/guerre-stellari-il-film-non-gli-e-bastato/
+guid: http://cecere.xyz/2008/05/15/guerre-stellari-il-film-non-gli-e-bastato/
 id: 940
 tags:
 - azioni

@@ -3,7 +3,7 @@ draft: true
 categories:
 - Buone Nuove
 date: 2008-09-24T19:32:23Z
-guid: http://stefanocecere.com/?p=1246
+guid: http://cecere.xyz/?p=1246
 id: 1246
 tags:
 - Firenze

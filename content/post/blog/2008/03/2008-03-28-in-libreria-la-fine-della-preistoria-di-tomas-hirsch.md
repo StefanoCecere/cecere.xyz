@@ -1,19 +1,19 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-03-28T16:59:22Z
-guid: http://stefanocecere.com/2008/03/28/in-libreria-la-fine-della-preistoria-di-tomas-hirsch/
+date: 2008-03-28
+guid: http://cecere.xyz/2008/03/28/in-libreria-la-fine-della-preistoria-di-tomas-hirsch/
 id: 783
 tags:
-- libro
-- Terra 2.0
-- Tomas Hirsch
+- libri
+- Terra2
 - umanista
 title: in libreria &quot;LA FINE DELLA PREISTORIA&quot; di Tomas Hirsch
 slug: /2008/03/in-libreria-la-fine-della-preistoria-di-tomas-hirsch/
+updated: 2022-03-22
 ---
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/finepreistoria2.jpg' alt='finepreistoria2.jpg' align="left" />è con grande felicità che ricevo il comunicato della [Nuovi Mondi](http://www.nuovimondi.info/), che stampa e distribuirà in Italia il libro di Tomas Hirsch, portavoce del Nuovo Umanesimo in Sud America, senonchè ex candidato alla presidenza del Cile e mico di Evo Morales, Noam Chomsky.. insomma un gran uomo.
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/03/finepreistoria2.jpg' alt='finepreistoria2.jpg' align="left" />è con grande felicità che ricevo il comunicato della [Nuovi Mondi](http://www.nuovimondi.info/), che stampa e distribuirà in Italia il libro di Tomas Hirsch, portavoce del Nuovo Umanesimo in Sud America, senonchè ex candidato alla presidenza del Cile e mico di Evo Morales, Noam Chomsky.. insomma un gran uomo.
 
 TOMÁS HIRSCH
   

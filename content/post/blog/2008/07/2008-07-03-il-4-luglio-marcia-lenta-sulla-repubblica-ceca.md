@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-07-03T08:48:54Z
-guid: http://stefanocecere.com/?p=1071
+guid: http://cecere.xyz/?p=1071
 id: 1071
 tags:
 - azioni
@@ -98,5 +98,5 @@ slug: /2008/07/il-4-luglio-marcia-lenta-sulla-repubblica-ceca/
 </div>
 
 <div>
-  <a href="http://stefanocecere.com/wp-content/uploads/2008/07/lettera-ambasciata-ceca_20080704.rtf">allego qui</a> un prototipo di lettera per l'ambasciata ceca.
+  <a href="http://cecere.xyz/wp-content/uploads/2008/07/lettera-ambasciata-ceca_20080704.rtf">allego qui</a> un prototipo di lettera per l'ambasciata ceca.
 </div>

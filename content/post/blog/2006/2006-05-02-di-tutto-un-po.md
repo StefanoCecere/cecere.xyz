@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-05-02T11:05:30Z
-guid: http://stefanocecere.com/2006/05/02/di-tutto-un-po/
+guid: http://cecere.xyz/2006/05/02/di-tutto-un-po/
 id: 262
 title: di tutto un po&#039;…
 slug: /2006/05/di-tutto-un-po/

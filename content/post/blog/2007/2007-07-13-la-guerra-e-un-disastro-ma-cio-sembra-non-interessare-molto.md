@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2007-07-13T00:10:21Z
-guid: http://stefanocecere.com/2007/07/13/la-guerra-e-un-disastro-ma-cio-sembra-non-interessare-molto/
+guid: http://cecere.xyz/2007/07/13/la-guerra-e-un-disastro-ma-cio-sembra-non-interessare-molto/
 id: 520
 tags:
 - guerra
@@ -12,7 +12,7 @@ title: La guerra è un disastro. ma ciò sembra non interessare molto
 slug: /2007/07/la-guerra-e-un-disastro-ma-cio-sembra-non-interessare-molto/
 ---
 
-![Foto Guerra e vittime civili](http://stefanocecere.com/wp-content/uploads/sites/3/2007/07/foto_guerra.jpg)
+![Foto Guerra e vittime civili](http://cecere.xyz/wp-content/uploads/sites/3/2007/07/foto_guerra.jpg)
   
 Cito alcuni numeri (tratti da [Internazionale](http://www.internazionale.it).. l'unico settimanale che mi permetto e che mi piace leggere):
 
@@ -42,4 +42,4 @@ tornerà presto sull'argomento perchè ho delle belle cose da raccontare e far v
 
 intanto qualche simpaticone ha (giustamente) riscritto il deposto cartello…
 
-![monza-citta-per-la-pace.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2007/07/monza-citta-per-la-pace.thumbnail.jpg)![monza-citta-per-la-guerra.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2007/07/monza-citta-per-la-guerra.thumbnail.jpg)
+![monza-citta-per-la-pace.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2007/07/monza-citta-per-la-pace.thumbnail.jpg)![monza-citta-per-la-guerra.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2007/07/monza-citta-per-la-guerra.thumbnail.jpg)

@@ -1,20 +1,21 @@
 ---
 draft: true
 categories: [blog]
-date: 2007-12-23T01:48:49Z
-guid: http://stefanocecere.com/2007/12/23/festa-di-capodanno-2008/
+date: 2007-12-23
+guid: http://cecere.xyz/2007/12/23/festa-di-capodanno-2008/
 id: 627
 tags:
 - Events
 - festa
-- Il Fannullone
+- IlFannullone
 - Monza
 - ricreazione
 title: Festa di Capodanno 2008
 slug: /2007/12/festa-di-capodanno-2008/
+updated: 2022-03-22
 ---
 
-[![capodanno_fannullone_2008.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2007/12/capodanno_fannullone_2008.jpg)](http://www.ilfannullone.it)
+[![capodanno_fannullone_2008.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2007/12/capodanno_fannullone_2008.jpg)](http://www.ilfannullone.it)
 
 amica/o, conosciuta/o, sconosciuta/o
 

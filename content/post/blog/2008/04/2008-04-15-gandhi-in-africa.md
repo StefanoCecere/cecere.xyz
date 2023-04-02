@@ -1,18 +1,19 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-04-15T14:27:48Z
-guid: http://stefanocecere.com/2008/04/15/gandhi-in-africa/
+date: 2008-04-15
+guid: http://cecere.xyz/2008/04/15/gandhi-in-africa/
 id: 874
 tags:
 - africa
 - Gandhi
 - nonviolenza
 - spirito
-- Terra 2.0
+- Terra2
 - umanista
 title: Gandhi in Africa
 slug: /2008/04/gandhi-in-africa/
+updated: 2022-03-22
 ---
 
 l'amica Elena sono molti mesi ormai che è in Tanzania come volontaria per diversi progetti umanitari.

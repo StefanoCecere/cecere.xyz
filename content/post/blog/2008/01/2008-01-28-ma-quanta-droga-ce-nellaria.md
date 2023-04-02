@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-01-28T10:16:30Z
-guid: http://stefanocecere.com/2008/01/28/ma-quanta-droga-ce-nellaria/
+guid: http://cecere.xyz/2008/01/28/ma-quanta-droga-ce-nellaria/
 id: 664
 tags:
 - cocaina
@@ -13,7 +13,7 @@ title: Ma quanta droga c&#039;è nell&#039;aria?
 slug: /2008/01/ma-quanta-droga-ce-nellaria/
 ---
 
-![cocaina_milano_film.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/01/cocaina_milano_film.jpg)
+![cocaina_milano_film.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/01/cocaina_milano_film.jpg)
 
 su segnalazione dell'amico Nicola, ho visto ieri il film documentario "Cocaina".
   

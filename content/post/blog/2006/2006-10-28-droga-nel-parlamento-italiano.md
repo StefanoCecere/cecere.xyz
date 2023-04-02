@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-10-28T00:36:47Z
-guid: http://stefanocecere.com/2006/10/28/droga-nel-parlamento-italiano/
+guid: http://cecere.xyz/2006/10/28/droga-nel-parlamento-italiano/
 id: 451
 tags:
 - droga

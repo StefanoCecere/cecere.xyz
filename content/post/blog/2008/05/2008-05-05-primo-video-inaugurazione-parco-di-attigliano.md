@@ -3,7 +3,7 @@ draft: true
 categories:
 - Uncategorized
 date: 2008-05-05T08:13:54Z
-guid: http://stefanocecere.com/2008/05/05/primo-video-inaugurazione-parco-di-attigliano/
+guid: http://cecere.xyz/2008/05/05/primo-video-inaugurazione-parco-di-attigliano/
 id: 911
 tags:
 - Parco Attigliano

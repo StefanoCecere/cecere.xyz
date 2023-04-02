@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-12-30T11:49:36Z
-guid: http://stefanocecere.com/2006/12/30/video-dellimpiccagione-di-saddam/
+guid: http://cecere.xyz/2006/12/30/video-dellimpiccagione-di-saddam/
 id: 479
 tags:
 - guerra

@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2006-01-18T09:24:08Z
-guid: http://stefanocecere.com/2006/01/18/lazienda-italiana/
+guid: http://cecere.xyz/2006/01/18/lazienda-italiana/
 id: 212
 title: L&#039;azienda italiana
 slug: /2006/01/lazienda-italiana/

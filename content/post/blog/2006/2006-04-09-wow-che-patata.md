@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-04-09T12:55:11Z
-guid: http://stefanocecere.com/?p=257
+guid: http://cecere.xyz/?p=257
 id: 257
 tags:
 - ricreazione
@@ -10,7 +10,7 @@ title: wow che patata!
 slug: /2006/04/wow-che-patata/
 ---
 
-<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/04/patatata.jpg" alt="patatata" width="180" height="240" class="alignleft size-full wp-image-5484" />sono appena tornato dal votare.. che emozione vedere tanta gente recarsi alle urne, in un atto di vera democrazia, e la simpatia delle scrutatrici..
+<img src="http://cecere.xyz/wp-content/uploads/sites/3/2006/04/patatata.jpg" alt="patatata" width="180" height="240" class="alignleft size-full wp-image-5484" />sono appena tornato dal votare.. che emozione vedere tanta gente recarsi alle urne, in un atto di vera democrazia, e la simpatia delle scrutatrici..
 
 ieri è stata una giornata memorabile.
 

@@ -3,7 +3,7 @@ draft: true
 categories:
 - Uncategorized
 date: 2008-04-10T16:21:42Z
-guid: http://stefanocecere.com/2008/04/10/lunico-voto-valido-alle-prossime-elezioni-e-quello-coerente/
+guid: http://cecere.xyz/2008/04/10/lunico-voto-valido-alle-prossime-elezioni-e-quello-coerente/
 id: 841
 tags:
 - elezioni

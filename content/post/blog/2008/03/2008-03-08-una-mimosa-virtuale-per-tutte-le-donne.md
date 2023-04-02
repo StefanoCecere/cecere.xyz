@@ -1,16 +1,17 @@
 ---
 categories: [blog]
-date: 2008-03-08T18:00:59Z
-guid: http://stefanocecere.com/2008/03/08/una-mimosa-virtuale-per-tutte-le-donne/
+date: 2008-03-08
+guid: http://cecere.xyz/2008/03/08/una-mimosa-virtuale-per-tutte-le-donne/
 id: 727
 tags:
 - donne
 - rivoluzione
 - spirito
-- Terra 2.0
+- Terra2
 - umanista
 title: Una mimosa virtuale per tutte le donne
 slug: /2008/03/una-mimosa-virtuale-per-tutte-le-donne/
+updated: 2022-03-22
 ---
 
 non tanto perchè il mondo senza donne non sarebbe

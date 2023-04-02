@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-09-21T12:24:25Z
-guid: http://stefanocecere.com/?p=1182
+guid: http://cecere.xyz/?p=1182
 id: 1182
 tags:
 - disinformazione

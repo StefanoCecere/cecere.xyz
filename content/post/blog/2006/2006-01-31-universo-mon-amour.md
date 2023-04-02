@@ -1,17 +1,18 @@
 ---
 draft: true
 categories: [blog]
-date: 2006-01-31T23:06:08Z
-guid: http://stefanocecere.com/2006/02/02/universo-mon-amour/
+date: 2006-02-01
+guid: http://cecere.xyz/2006/02/02/universo-mon-amour/
 id: 220
 tags:
 - esistenza
 - poesia
 - spirito
-- terra
+- terra2
 - universo
 title: Universo mon amour
 slug: /2006/01/universo-mon-amour/
+updated: 2022-03-22
 ---
 
 ![](/wp-content/universomonamour.jpg)

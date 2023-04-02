@@ -2,7 +2,7 @@
 categories:
 - Buone Nuove
 date: 2008-09-25T02:07:56Z
-guid: http://stefanocecere.com/?p=1263
+guid: http://cecere.xyz/?p=1263
 id: 1263
 tags:
 - Forum
@@ -14,11 +14,11 @@ slug: /2008/09/forum-umanista-europeo/
 ---
 
 <div>
-  <a href="http://www.humanistforum.eu"><img class="aligncenter size-full wp-image-1265" title="logoforum" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/logoforum.jpg" alt="" width="500" height="159" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/logoforum.jpg 657w, http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/logoforum-300x96.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+  <a href="http://www.humanistforum.eu"><img class="aligncenter size-full wp-image-1265" title="logoforum" src="http://cecere.xyz/wp-content/uploads/sites/3/2008/09/logoforum.jpg" alt="" width="500" height="159" srcset="http://cecere.xyz/wp-content/uploads/sites/3/2008/09/logoforum.jpg 657w, http://cecere.xyz/wp-content/uploads/sites/3/2008/09/logoforum-300x96.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 </div>
 
 <div>
-  <img class="aligncenter size-full wp-image-1264" title="spot_2" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/spot_2.jpg" alt="" width="460" height="141" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/spot_2.jpg 460w, http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/spot_2-300x92.jpg 300w" sizes="(max-width: 460px) 100vw, 460px" />        </p> 
+  <img class="aligncenter size-full wp-image-1264" title="spot_2" src="http://cecere.xyz/wp-content/uploads/sites/3/2008/09/spot_2.jpg" alt="" width="460" height="141" srcset="http://cecere.xyz/wp-content/uploads/sites/3/2008/09/spot_2.jpg 460w, http://cecere.xyz/wp-content/uploads/sites/3/2008/09/spot_2-300x92.jpg 300w" sizes="(max-width: 460px) 100vw, 460px" />        </p> 
   
   <div style="text-align: center">
     <strong>Giorgio Schultze Portavoce del Nuovo Umanesimo, Anna Falchi, Dario Fo, </strong><br /> <strong>Francesco Sarcina delle Vibrazioni, Ascanio Celestini, Luisa Morgantini (vicepresidente del Parlamento Europeo), Dario Vergassola, Vladimir Luxuria,  sono i testimonial della Nonviolenza nello spot per il Forum Umanista Europeo. </strong>

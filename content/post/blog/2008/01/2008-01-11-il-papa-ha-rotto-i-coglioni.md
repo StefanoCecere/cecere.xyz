@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-01-11T14:36:41Z
-guid: http://stefanocecere.com/2008/01/11/il-papa-ha-rotto-i-coglioni/
+guid: http://cecere.xyz/2008/01/11/il-papa-ha-rotto-i-coglioni/
 id: 648
 tags:
 - Papa
@@ -12,7 +12,7 @@ title: Il Papa ha rotto i coglioni
 slug: /2008/01/il-papa-ha-rotto-i-coglioni/
 ---
 
-![evoluzione_umana_homo_sapiens.gif](http://stefanocecere.com/wp-content/uploads/sites/3/2008/01/evoluzione_umana_homo_sapiens.gif)
+![evoluzione_umana_homo_sapiens.gif](http://cecere.xyz/wp-content/uploads/sites/3/2008/01/evoluzione_umana_homo_sapiens.gif)
 
 la sua Chiesa sta andando a scatafascio, e come in ogni crisi arriva il panico e l'irrigidimento.
   

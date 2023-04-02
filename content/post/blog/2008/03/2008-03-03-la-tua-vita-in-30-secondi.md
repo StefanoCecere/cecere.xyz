@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-03-03T18:03:12Z
-guid: http://stefanocecere.com/2008/03/03/la-tua-vita-in-30-secondi/
+guid: http://cecere.xyz/2008/03/03/la-tua-vita-in-30-secondi/
 id: 712
 tags:
 - ricreazione

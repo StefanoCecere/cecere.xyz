@@ -4,7 +4,7 @@ slug: /2006/01/chi-e-un-anti-umanista-e-come-si-comporta/
 draft: false
 categories: [blog]
 date: 2006-01-03T12:54:57Z
-guid: http://stefanocecere.com/2006/01/03/chi-e-un-anti-umanista-e-come-si-comporta/
+guid: http://cecere.xyz/2006/01/03/chi-e-un-anti-umanista-e-come-si-comporta/
 id: 204
 tags:
 - umanista

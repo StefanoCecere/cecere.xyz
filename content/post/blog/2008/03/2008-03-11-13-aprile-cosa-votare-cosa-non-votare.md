@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-03-11T09:34:25Z
-guid: http://stefanocecere.com/2008/03/11/13-aprile-cosa-votare-cosa-non-votare/
+guid: http://cecere.xyz/2008/03/11/13-aprile-cosa-votare-cosa-non-votare/
 id: 730
 tags:
 - elezioni
@@ -11,7 +11,7 @@ title: '13 aprile: cosa votare? cosa non votare?'
 slug: /2008/03/13-aprile-cosa-votare-cosa-non-votare/
 ---
 
-**AGGIORNAMENTO DEL 8 APRILE: [leggi il mio ultimo post](http://stefanocecere.com/2008/04/08/cosa-votare-ecco-la-mia-dichiarazione-di-voto/) in cui spiego perché voterò la lista "Per il Bene Comune"
+**AGGIORNAMENTO DEL 8 APRILE: [leggi il mio ultimo post](http://cecere.xyz/2008/04/08/cosa-votare-ecco-la-mia-dichiarazione-di-voto/) in cui spiego perché voterò la lista "Per il Bene Comune"
   
 ** 
 

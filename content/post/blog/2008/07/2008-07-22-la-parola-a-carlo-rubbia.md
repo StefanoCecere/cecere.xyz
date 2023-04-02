@@ -1,16 +1,16 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-07-22T11:41:17Z
-guid: http://stefanocecere.com/?p=1103
+date: 2008-07-22
+guid: http://cecere.xyz/?p=1103
 id: 1103
 tags:
-- Carlo Rubbia
-- crisi energetica
-- energia solare
+- CrisiEnergetica
+- EnergiaSolare
 - nucleare
 title: La parola a Carlo Rubbia
 slug: /2008/07/la-parola-a-carlo-rubbia/
+updated: 2022-03-22
 ---
 
 In una recente intervista, Carlo Rubbia ( premio Nobel per la fisica ) ( come Scajola ) ha dichiarato:

@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2007-07-14T16:38:59Z
-guid: http://stefanocecere.com/2007/07/14/se-non-hai-una-vita-ti-impicci-di-quella-degli-altri/
+guid: http://cecere.xyz/2007/07/14/se-non-hai-una-vita-ti-impicci-di-quella-degli-altri/
 id: 528
 tags:
 - arte
@@ -12,7 +12,7 @@ title: Se non hai una vita ti impicci di quella degli altri…
 slug: /2007/07/se-non-hai-una-vita-ti-impicci-di-quella-degli-altri/
 ---
 
-<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/07/le_vite_degli_altri.jpg" title="Le Vite degli altri - locandina" alt="Le Vite degli altri - locandina" align="left" />
+<img src="http://cecere.xyz/wp-content/uploads/sites/3/2007/07/le_vite_degli_altri.jpg" title="Le Vite degli altri - locandina" alt="Le Vite degli altri - locandina" align="left" />
 
 Chi non ha ancora visto questo film è pregato di farlo e di meditarci sopra una paio di giorni.
 
@@ -26,4 +26,4 @@ QUANDO OGNI MATTINA MI SVEGLIO E MI CHIEDO "bene caro Stefano, ti ricordi qual'�
 
 :*
 
-![Labbra carnose baciano brutto rospo](http://stefanocecere.com/wp-content/uploads/sites/3/2007/07/labbra_carnose_baciano_rospo.jpg)
+![Labbra carnose baciano brutto rospo](http://cecere.xyz/wp-content/uploads/sites/3/2007/07/labbra_carnose_baciano_rospo.jpg)

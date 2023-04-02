@@ -1,8 +1,8 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-06-04T11:51:48Z
-guid: http://stefanocecere.com/2008/06/04/europe-4-peace-francesco-sarcina/
+date: 2008-06-04
+guid: http://cecere.xyz/2008/06/04/europe-4-peace-francesco-sarcina/
 id: 999
 tags:
 - arte
@@ -10,11 +10,12 @@ tags:
 - disarmo nucleare
 - Europe for Peace
 - Francesco Sarcina
-- Terra 2.0
+- Terra2
 - umanista
 - Vibrazioni
 title: Europe 4 Peace &amp; Francesco Sarcina
 slug: /2008/06/europe-4-peace-francesco-sarcina/
+updated: 2022-03-22
 ---
 
 un paio di mesi fa mi chiama Francesco (il cantante delle Vibrazioni) e mi dice "Stefano ma perché non realizziamo un qualcosa un giornalino un opuscolo che io possa distribuire durante il mio tour estivo per informare la gente che viene ai concerti sui temi e i progetti del Movimento? tu sei molto più idoneo di me per comunicarlo… credo possa essere estremamente utile…"
@@ -33,7 +34,7 @@ spero vi piaccia e che possa essere utile nel comprendere il progetto del Movime
 
 **invito inoltre altri artisti a riprodurre l'iniziativa**: un numero "vostro" con cui comunicare ciò che vi sta più a cuore ed invitare all'azione.
 
-<a href='http://stefanocecere.com/wp-content/uploads/sites/3/2008/06/europeforpeace_francesco_sarcina.pdf' title='europe for peace francesco sarcina.pdf' target="_blank"><img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/06/europeforpeace_francesco_sarcina.jpg' alt='europeforpeace_francesco_sarcina.jpg' /></p> 
+<a href='http://cecere.xyz/wp-content/uploads/sites/3/2008/06/europeforpeace_francesco_sarcina.pdf' title='europe for peace francesco sarcina.pdf' target="_blank"><img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/06/europeforpeace_francesco_sarcina.jpg' alt='europeforpeace_francesco_sarcina.jpg' /></p> 
 
 <p>
   Scarica il PDF</a>

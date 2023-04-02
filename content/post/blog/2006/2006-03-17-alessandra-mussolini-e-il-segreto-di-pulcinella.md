@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2006-03-17T13:41:30Z
-guid: http://stefanocecere.com/?p=245
+guid: http://cecere.xyz/?p=245
 id: 245
 tags:
 - vergogna!
@@ -15,7 +15,7 @@ mentre stiamo continuando a raccogleire le firme per presentare candidati umanis
 
 MUSSOLINI, IL SEGRETO DI PULCINELLA
 
-<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/03/alessandra-mussolini.jpg" alt="alessandra-mussolini" width="100" height="150" class="alignleft size-full wp-image-5476" />Ieri sera, durante la trasmissione di Vespa "Porta a Porta", l'onorevole (?) Alessandra Mussolini ha apostrofato la candidata di Rifondazione Vladimir Luxuria con le seguenti parole: "Si veste da donna e crede di poter dire ciò che vuole. Meglio fascista che frocio".
+<img src="http://cecere.xyz/wp-content/uploads/sites/3/2006/03/alessandra-mussolini.jpg" alt="alessandra-mussolini" width="100" height="150" class="alignleft size-full wp-image-5476" />Ieri sera, durante la trasmissione di Vespa "Porta a Porta", l'onorevole (?) Alessandra Mussolini ha apostrofato la candidata di Rifondazione Vladimir Luxuria con le seguenti parole: "Si veste da donna e crede di poter dire ciò che vuole. Meglio fascista che frocio".
   
 Tali esternazioni, in realtà, non hanno bisogno di commento alcuno. Abbiamo sempre sostenuto che l'"imbiancatura" democratica della ducia Mussolini era una farsa che nascondeva aspirazioni alquanto "nere". Molti hanno bevuto le innumerevoli menzogne da lei ammannite quando era al governo, dichiarazioni di amicizia ai gay, ecc. Ai tempi avevamo cercato - senza successo - di dimostrare che si trattava di pura propaganda, che quando la ducia era agli inizi della sua "brillante" carriera rilasciava dichiarazioni di tutt'altro tenore (una su tutte, risalente ai primi anni '90: "Con tutti gli omosessuali in giro non si trova più un vero maschio"). Ma il coming out (suo malgrado) della ducia non è che l'ultimo di una lunga serie di insulti omofobi e razzisti che l'intero centro-destra ha indirizzato in questi anni agli omosessuali: dai "peccatori" di Buttiglione, ai "culattoni" di Tremaglia e dei leghisti, agli "osceni" di Pisanu… fino all'ipocrita difesa della famiglia "Mulino Bianco" da parte di Silvio Berlusconi, noto maschilista e pluri-divorziato.
   

@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-07-20T03:14:06Z
-guid: http://stefanocecere.com/2006/07/20/beirut-il-disarmo-nucleare-e-onorevole-paolo-cacciari/
+guid: http://cecere.xyz/2006/07/20/beirut-il-disarmo-nucleare-e-onorevole-paolo-cacciari/
 id: 375
 tags:
 - violenza
@@ -10,7 +10,7 @@ title: Beirut, il disarmo nucleare e onorevole Paolo Cacciari…
 slug: /2006/07/beirut-il-disarmo-nucleare-e-onorevole-paolo-cacciari/
 ---
 
-<img align="left" title="news from Beirut" id="image372" alt="news from Beirut" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/07/news_from_beirut.jpg" />_VERE NOTIZIE DA BEIRUT:
+<img align="left" title="news from Beirut" id="image372" alt="news from Beirut" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/07/news_from_beirut.jpg" />_VERE NOTIZIE DA BEIRUT:
   
 "Questa mattina Israele ha annunciato che bombarderà il villaggio di Marwahin, nel sud del Libano"_
 
@@ -26,11 +26,11 @@ _alcuni numeri: oggi 100 morti di cui 15 bambini"_
 
 Questa è una delle tantissime vignette dell'artista/musicista/vignettista libanese Mazen Kerbaj. vi consiglio di visitare il suo blog e connettervi un po': <a target="_blank" href="http://mazenkerblog.blogspot.com/">http://mazenkerblog.blogspot.com/</a>
 
-<img align="left" title="bomba atomica" id="image374" alt="bomba atomica" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/07/bomba_atomica.jpg" />Non so te.. ma io sono DAVVERO PREOCCUPATO per il rischio che qua ci scappa la guerra atomica…
+<img align="left" title="bomba atomica" id="image374" alt="bomba atomica" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/07/bomba_atomica.jpg" />Non so te.. ma io sono DAVVERO PREOCCUPATO per il rischio che qua ci scappa la guerra atomica…
   
 la sconnessione della gente "normale" dal fatto che viviamo sopra arsenali in grado di distruggere migliaia di volte la Terra.. per di più ci lasciamo governare da emeriti puPazzi … considerate le congiunture che stanno per arrivare… C'E' DA INIZIARE AD AUGURARE A STA GENTE CHE I LORO PROGETTI VADANO MALE. e prepararci per una mobilitazione mondiale sul disarmo nucleare totale.. per iniziare.
 
-<img align="left" title="Paolo Cacciari" id="image373" alt="Paolo Cacciari" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/07/paolo_cacciari.jpg" />Ultima cosa: o mio caro Paolo Cacciari… lodo la tua determinazione di idee.. ma che cavolo ti sei presentato in un partito in coalizione di governo, sapendo che saresti diventato una marionetta contradditoria per far sopravvivere tutta la faccenda?
+<img align="left" title="Paolo Cacciari" id="image373" alt="Paolo Cacciari" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/07/paolo_cacciari.jpg" />Ultima cosa: o mio caro Paolo Cacciari… lodo la tua determinazione di idee.. ma che cavolo ti sei presentato in un partito in coalizione di governo, sapendo che saresti diventato una marionetta contradditoria per far sopravvivere tutta la faccenda?
 
 Se vuoi davvero la coerenza contatta qualcuno del Partito Umanista.. ok fino a ieri non saresti stato al governo.. probabilmente neanche eletto.. però almeno non avresti tradito nessuno.. né i tuoi elettori tantomeno te stesso.
 

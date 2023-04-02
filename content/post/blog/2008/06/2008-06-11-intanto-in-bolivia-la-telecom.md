@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-06-11T10:13:15Z
-guid: http://stefanocecere.com/2008/06/11/intanto-in-bolivia-la-telecom/
+guid: http://cecere.xyz/2008/06/11/intanto-in-bolivia-la-telecom/
 id: 1016
 tags:
 - Bolivia

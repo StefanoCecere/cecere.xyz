@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-02-23T09:22:42Z
-guid: http://stefanocecere.com/2006/02/23/miliardario-solitario-o-amicizia-e-divertimento-genuini/
+guid: http://cecere.xyz/2006/02/23/miliardario-solitario-o-amicizia-e-divertimento-genuini/
 id: 234
 tags:
 - ricreazione

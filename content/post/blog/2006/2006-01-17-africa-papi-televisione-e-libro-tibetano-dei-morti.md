@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-01-17T12:10:00Z
-guid: http://stefanocecere.com/2006/01/17/africa-papi-televisione-e-libro-tibetano-dei-morti/
+guid: http://cecere.xyz/2006/01/17/africa-papi-televisione-e-libro-tibetano-dei-morti/
 id: 211
 tags:
 - africa

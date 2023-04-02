@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2007-06-12T09:38:29Z
-guid: http://stefanocecere.com/2007/06/12/uniti-per-il-disarmo-sveliamo-il-grande-inganno-atomico/
+guid: http://cecere.xyz/2007/06/12/uniti-per-il-disarmo-sveliamo-il-grande-inganno-atomico/
 id: 511
 tags:
 - disarmo nucleare

@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-03-27T07:58:45Z
-guid: http://stefanocecere.com/2008/03/27/importante-petizione-no-alla-base-radar/
+guid: http://cecere.xyz/2008/03/27/importante-petizione-no-alla-base-radar/
 id: 780
 tags:
 - disarmo nucleare
@@ -13,7 +13,7 @@ title: 'IMPORTANTE: petizione no alla base radar'
 slug: /2008/03/importante-petizione-no-alla-base-radar/
 ---
 
-[![NO BASE RADAR](http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/no_radar.jpg)](http://www.nonviolence.cz)
+[![NO BASE RADAR](http://cecere.xyz/wp-content/uploads/sites/3/2008/03/no_radar.jpg)](http://www.nonviolence.cz)
 
 scusatemi, vorrei risollecitare questa petizione, e chiedere di diffondere il più possibile invitando amici e associazioni amiche a firmarla e farla firmare. mancano pochi giorni e siamo a neanche 10.000 firme e soprattutto nessuno ne parla e pochi lo sanno!
   

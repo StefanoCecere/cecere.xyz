@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-08-26T23:54:04Z
-guid: http://stefanocecere.com/2006/08/26/silvio-berlusconi-e-litalia-cattollica-degli-italiani/
+guid: http://cecere.xyz/2006/08/26/silvio-berlusconi-e-litalia-cattollica-degli-italiani/
 id: 401
 tags:
 - Berlusconi
@@ -11,7 +11,7 @@ title: Silvio Berlusconi e l&#039;Italia Cattolica degli italiani
 slug: /2006/08/silvio-berlusconi-e-litalia-cattollica-degli-italiani/
 ---
 
-<img align="right" title="Silvio Berlusconi al Metting dei Cattolici" id="image400" alt="Silvio Berlusconi al Metting dei Cattolici" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/berlusconi_cattolico.jpg" />E' stato difficile non vedere ieri l'intervento di Silvio Berlusconi al meeting di Comunione e Liberazione, anche per uno come me che accende la tv 10 minuti al giorno…
+<img align="right" title="Silvio Berlusconi al Metting dei Cattolici" id="image400" alt="Silvio Berlusconi al Metting dei Cattolici" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/08/berlusconi_cattolico.jpg" />E' stato difficile non vedere ieri l'intervento di Silvio Berlusconi al meeting di Comunione e Liberazione, anche per uno come me che accende la tv 10 minuti al giorno…
 
 Del suo lungo e articolato intervento, una semplice frase mi ha particolarmente colpito e agghiacciato:
 

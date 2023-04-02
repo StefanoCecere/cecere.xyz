@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-01-21T15:44:24Z
-guid: http://stefanocecere.com/2006/01/21/king-kong-e-luomo-moderno/
+guid: http://cecere.xyz/2006/01/21/king-kong-e-luomo-moderno/
 id: 214
 title: King Kong e l&#039;uomo moderno
 slug: /2006/01/king-kong-e-luomo-moderno/

@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-01-11T02:16:07Z
-guid: http://stefanocecere.com/2008/01/11/traghetto-in-sardegna/
+guid: http://cecere.xyz/2008/01/11/traghetto-in-sardegna/
 id: 647
 tags:
 - campeggio

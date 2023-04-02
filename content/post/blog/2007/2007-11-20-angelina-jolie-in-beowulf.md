@@ -1,14 +1,14 @@
 ---
 draft: true
 categories: [blog]
-date: 2007-11-20T21:17:30Z
-guid: http://stefanocecere.com/2007/11/20/angelina-jolie-in-beowulf/
+date: 2007-11-20
+guid: http://cecere.xyz/2007/11/20/angelina-jolie-in-beowulf/
 id: 607
 tags:
 - film
-- New York
 title: Angelina Jolie in Beowulf
 slug: /2007/11/angelina-jolie-in-beowulf/
+updated: 2022-03-22
 ---
 
 <div>

@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2006-03-30T17:26:10Z
-guid: http://stefanocecere.com/?p=251
+guid: http://cecere.xyz/?p=251
 id: 251
 tags:
 - vergogna!

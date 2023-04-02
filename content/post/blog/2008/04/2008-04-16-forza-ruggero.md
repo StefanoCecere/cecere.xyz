@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-04-16T19:51:52Z
-guid: http://stefanocecere.com/2008/04/16/forza-ruggero/
+guid: http://cecere.xyz/2008/04/16/forza-ruggero/
 id: 882
 tags:
 - amici
@@ -87,6 +87,6 @@ cosa kiedere:
   
 - ke se la passi bene, nel migliore dei modi e ke questa esperienza semmai sarà il suo gran trampolino x saltare.
 
-![ruggero_1.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/ruggero_1.jpg)
+![ruggero_1.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/04/ruggero_1.jpg)
   
-![ruggero_2.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/ruggero_2.jpg)
+![ruggero_2.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/04/ruggero_2.jpg)

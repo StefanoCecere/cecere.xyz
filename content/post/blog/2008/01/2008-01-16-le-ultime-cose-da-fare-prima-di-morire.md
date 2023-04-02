@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-01-16T01:28:20Z
-guid: http://stefanocecere.com/2008/01/16/le-ultime-cose-da-fare-prima-di-morire/
+guid: http://cecere.xyz/2008/01/16/le-ultime-cose-da-fare-prima-di-morire/
 id: 653
 tags:
 - arte
@@ -26,8 +26,8 @@ Inoltre ieri mi sono arrivati i 3 libri di "His Dark Materials", di Philip Pullm
   
 colgo l'occasione per ricordare qui una mia grande passione: quella per i libri! in 25 anni ne ho letti (e qualcuno accumulato) davvero tanti. grazie libri!
 
-![the_bucket_list.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/01/the_bucket_list.jpg)
+![the_bucket_list.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/01/the_bucket_list.jpg)
 
-![his_dark_materials_trilogy.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/01/his_dark_materials_trilogy.jpg)
+![his_dark_materials_trilogy.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/01/his_dark_materials_trilogy.jpg)
   
-![krur_library.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/01/krur_library.jpg)
+![krur_library.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/01/krur_library.jpg)

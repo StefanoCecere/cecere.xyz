@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-07-04T09:22:36Z
-guid: http://stefanocecere.com/?p=1077
+guid: http://cecere.xyz/?p=1077
 id: 1077
 tags:
 - Chavez

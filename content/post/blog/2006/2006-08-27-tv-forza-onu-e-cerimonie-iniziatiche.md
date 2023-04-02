@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-08-27T07:03:37Z
-guid: http://stefanocecere.com/2006/08/27/tv-forza-onu-e-cerimonie-iniziatiche/
+guid: http://cecere.xyz/2006/08/27/tv-forza-onu-e-cerimonie-iniziatiche/
 id: 405
 tags:
 - ONU
@@ -11,7 +11,7 @@ title: TV, Forza ONU e cerimonie iniziatiche
 slug: /2006/08/tv-forza-onu-e-cerimonie-iniziatiche/
 ---
 
-<img align="left" title="spegnere_la_televisione.jpg" id="image403" alt="spegnere_la_televisione.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/spegnere_la_televisione.jpg" />devo essere sincero: tutti i giorni leggo la testata de "Il Giornale" solo per tenere largo il mio punto di vista.. e mai avrei pensato di trovarvi un **articolo veramente interessante**.. specialmente sul tema della televisione: un intervista al capo pubblicità del gruppo Benetton, che **praticamente** **invita a non guardare la TV. mai.** (cosa che in linea di massima condivido.. tranne che per i Simpsons, Lost e qualche filmone 🙂**
+<img align="left" title="spegnere_la_televisione.jpg" id="image403" alt="spegnere_la_televisione.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/08/spegnere_la_televisione.jpg" />devo essere sincero: tutti i giorni leggo la testata de "Il Giornale" solo per tenere largo il mio punto di vista.. e mai avrei pensato di trovarvi un **articolo veramente interessante**.. specialmente sul tema della televisione: un intervista al capo pubblicità del gruppo Benetton, che **praticamente** **invita a non guardare la TV. mai.** (cosa che in linea di massima condivido.. tranne che per i Simpsons, Lost e qualche filmone 🙂**
   
 ** 
 
@@ -21,13 +21,13 @@ non commento sul fatto che sia pubblicato sul giornale principale della famiglia
 
 ……………………………………………………………
 
-<img align="left" alt="forza_onu.jpg" id="image406" title="forza_onu.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/forza_onu.jpg" />Che dire poi di tutta questa cosa dell'intervento Italia/ONU in Libano?
+<img align="left" alt="forza_onu.jpg" id="image406" title="forza_onu.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/08/forza_onu.jpg" />Che dire poi di tutta questa cosa dell'intervento Italia/ONU in Libano?
   
 La posizione umanista prevede da tempo il passaggio di tutti i conflitti internazionali in mano all'ONU, per cominciare… certo, l'assistere alla creazione di un nuovo "progetto" di intervento da zero, senza troppe parole o provvedimenti verso governi terroristi, e tantomeno silenti sul grande piano previsto per tutto il medio oriente…
 
 mah, **la cosa mi lascia alquanto perplesso ma non sorpreso.**
 
-<img align="right" title="italia_guerra_libano.jpg" id="image402" alt="italia_guerra_libano.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/italia_guerra_libano.jpg" />nessuno se lo ricorda il buon D'Alema quando portò l'Italia in Kossovo nel 1999?
+<img align="right" title="italia_guerra_libano.jpg" id="image402" alt="italia_guerra_libano.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/08/italia_guerra_libano.jpg" />nessuno se lo ricorda il buon D'Alema quando portò l'Italia in Kossovo nel 1999?
   
 Chissà perché alcune cose vengono rimosse così velocemente dalla memoria e si preferisce essere creduloni verso i soliti ripetitivi personaggi…
   
@@ -37,7 +37,7 @@ _(qui lo so mi sono tirato le antipatie di quelli di "sinistra" e forse del "pop
 
 ……………………………………………………………
 
-<img align="left" title="cerimonia_bohemian.jpg" id="image404" alt="cerimonia_bohemian.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/cerimonia_bohemian.jpg" />
+<img align="left" title="cerimonia_bohemian.jpg" id="image404" alt="cerimonia_bohemian.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/08/cerimonia_bohemian.jpg" />
 
 Qualcuno ha fatto notare come personaggi del "calibro" di Blair partecipino a raduni/incontri con tanto di **cerimonie** un po' particolari (vedi <a target="_blank" href="http://disinformazione.it/bohemian_club.htm">http://disinformazione.it/bohemian_club.htm</a> )
 

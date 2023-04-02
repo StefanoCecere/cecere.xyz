@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-07-09T14:52:31Z
-guid: http://stefanocecere.com/?p=1084
+guid: http://cecere.xyz/?p=1084
 id: 1084
 tags:
 - Movimento

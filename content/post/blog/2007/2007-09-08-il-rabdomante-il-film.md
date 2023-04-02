@@ -1,21 +1,25 @@
 ---
 draft: true
 categories: [blog]
-date: 2007-09-08T05:55:38Z
-guid: http://stefanocecere.com/2007/09/08/il-rabdomante-il-film/
+date: 2007-09-08
+guid: http://cecere.xyz/2007/09/08/il-rabdomante-il-film/
 id: 565
 tags:
 - arte
 - film
 - recensione
 - ricreazione
-- Terra 2.0
+- Terra2
 - umanista
-title: 'Il Rabdomante: un film sull&#039;acqua da vedere subito'
+title: 'Il Rabdomante
 slug: /2007/09/il-rabdomante-il-film/
+updated: 2022-03-22
 ---
 
-<a href="http://www.ilrabdomante.info" target="_blank"><img src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/09/il-rabdomante-film.jpg" title="locandina film il rabdomante" alt="locandina film il rabdomante" align="left" height="207" width="148" /></a>segnalo con enorme piacere l'uscita ieri sera in alcuni cinema italiani del film Il Rabdomante.
+<a href="http://www.ilrabdomante.info" target="_blank"><img src="http://cecere.xyz/wp-content/uploads/sites/3/2007/09/il-rabdomante-film.jpg" title="locandina film il rabdomante" alt="locandina film il rabdomante" align="left" height="207" width="148" /></a>
+
+
+segnalo con enorme piacere l'uscita ieri sera in alcuni cinema italiani del film Il Rabdomante.
   
 Un film coprodotto dai comitati sull'acqua (e anche dall'associazioe umanista "UnAltroMondo") sul tema dell'acqua, appunt, e su tutto quello che gli gira dietro.
 

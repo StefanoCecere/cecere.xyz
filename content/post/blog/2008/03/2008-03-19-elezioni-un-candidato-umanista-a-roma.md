@@ -1,18 +1,19 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-03-19T17:29:40Z
-guid: http://stefanocecere.com/2008/03/19/elezioni-un-candidato-umanista-a-roma/
+date: 2008-03-19
+guid: http://cecere.xyz/2008/03/19/elezioni-un-candidato-umanista-a-roma/
 id: 759
 tags:
 - elezioni
 - Politica
 - Roma
-- Terra 2.0
+- Terra2
 - umanista
 - video
-title: 'Elezioni: un candidato umanista a Roma'
+title: 'Elezioni
 slug: /2008/03/elezioni-un-candidato-umanista-a-roma/
+updated: 2022-03-22
 ---
 
 a Roma il caro amico Lorenzo Palumbo, da 20 anni attivo nel Movimento Umanista, si candida da indipendente umanista nella lista della Sinistra Arcobaleno.

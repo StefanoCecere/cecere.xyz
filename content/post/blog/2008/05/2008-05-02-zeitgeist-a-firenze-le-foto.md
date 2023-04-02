@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-05-02T12:42:58Z
-guid: http://stefanocecere.com/2008/05/02/zeitgeist-a-firenze-le-foto/
+guid: http://cecere.xyz/2008/05/02/zeitgeist-a-firenze-le-foto/
 id: 908
 tags:
 - cineforum

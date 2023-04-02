@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-04-14T00:52:32Z
-guid: http://stefanocecere.com/2008/04/14/il-migliore-risultato-delle-elezioni/
+guid: http://cecere.xyz/2008/04/14/il-migliore-risultato-delle-elezioni/
 id: 853
 tags:
 - elezioni
@@ -13,7 +13,7 @@ title: Il migliore risultato delle elezioni
 slug: /2008/04/il-migliore-risultato-delle-elezioni/
 ---
 
-![elezioni-2008.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/elezioni-2008.jpg)
+![elezioni-2008.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/04/elezioni-2008.jpg)
 
 sarebbe che si uscisse dal duopolio PD/PDL
 

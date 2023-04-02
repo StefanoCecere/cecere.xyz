@@ -1,14 +1,15 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-07-31T08:37:54Z
-guid: http://stefanocecere.com/?p=1111
+date: 2008-07-31
+guid: http://cecere.xyz/?p=1111
 id: 1111
 tags:
-- Il Manifesto
+- IlManifesto
 - Luttazzi
 title: ULTIM&#039;ORA di DANIELE LUTTAZZI
 slug: /2008/07/ultimora-di-daniele-luttazzi/
+updated: 2022-03-22
 ---
 
 <div class="modulogiornale">

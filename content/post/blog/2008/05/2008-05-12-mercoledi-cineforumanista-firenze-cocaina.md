@@ -1,16 +1,17 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-05-12T07:40:42Z
-guid: http://stefanocecere.com/2008/05/12/mercoledi-cineforumanista-firenze-cocaina/
+date: 2008-05-12
+guid: http://cecere.xyz/2008/05/12/mercoledi-cineforumanista-firenze-cocaina/
 id: 924
 tags:
 - cineforum
 - droga
 - Firenze
-- Terra 2.0
-title: 'Mercoledì cineforumanista Firenze: &quot;Cocaina&quot;'
+- Terra2
+title: 'Mercoledì cineforumanista Firenze
 slug: /2008/05/mercoledi-cineforumanista-firenze-cocaina/
+updated: 2022-03-22
 ---
 
 Ciao a tutti

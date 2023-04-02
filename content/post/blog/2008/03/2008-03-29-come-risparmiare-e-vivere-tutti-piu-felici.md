@@ -2,8 +2,8 @@
 draft: true
 categories:
 - Uncategorized
-date: 2008-03-29T09:09:42Z
-guid: http://stefanocecere.com/2008/03/29/come-risparmiare-e-vivere-tutti-piu-felici/
+date: 2008-03-29
+guid: http://cecere.xyz/2008/03/29/come-risparmiare-e-vivere-tutti-piu-felici/
 id: 774
 tags:
 - arte
@@ -11,9 +11,10 @@ tags:
 - ecologia
 - risparmio
 - soldi
-- Terra 2.0
+- Terra2
 title: come risparmiare e vivere tutti più felici
 slug: /2008/03/come-risparmiare-e-vivere-tutti-piu-felici/
+updated: 2022-03-22
 ---
 
 riporto questa bellissima lista pubblicata dal [Manifesto](http://www.ilmanifesto.it) il 23 aprile. che si diffonda e sia presa in seria considerazione!

@@ -2,8 +2,8 @@
 draft: true
 categories:
 - Eventi
-date: 2008-06-22T20:25:36Z
-guid: http://stefanocecere.com/?p=1059
+date: 2008-06-22
+guid: http://cecere.xyz/?p=1059
 id: 1059
 tags:
 - digiuno
@@ -15,10 +15,11 @@ tags:
 - Movimento
 - sciopero della fame
 - scudo spaziale
-- Terra 2.0
+- Terra2
 - umanista
 title: Giornata Sciopero Fame a Milano
 slug: /2008/06/giornata-sciopero-fame-a-milano/
+updated: 2022-03-22
 ---
 
 ecco un po' di foto del pomeriggio a Milano.

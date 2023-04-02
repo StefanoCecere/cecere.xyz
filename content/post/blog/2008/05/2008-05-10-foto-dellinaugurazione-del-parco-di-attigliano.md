@@ -1,8 +1,8 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-05-10T07:46:09Z
-guid: http://stefanocecere.com/2008/05/10/foto-dellinaugurazione-del-parco-di-attigliano/
+date: 2008-05-10
+guid: http://cecere.xyz/2008/05/10/foto-dellinaugurazione-del-parco-di-attigliano/
 id: 915
 tags:
 - arte
@@ -10,14 +10,15 @@ tags:
 - Parco Attigliano
 - Silo
 - spirito
-- Terra 2.0
+- Terra2
 - umanista
 - video
 title: Foto dell&#039;inaugurazione del Parco di Attigliano
 slug: /2008/05/foto-dellinaugurazione-del-parco-di-attigliano/
+updated: 2022-03-22
 ---
 
-![panoramica-vi.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/panoramica-vi.jpg)
+![panoramica-vi.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/05/panoramica-vi.jpg)
 
 stanno arrivando i links di foto e materiali da parte di molti amici.
   

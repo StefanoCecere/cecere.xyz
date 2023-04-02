@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-09-23T23:02:13Z
-guid: http://stefanocecere.com/?p=1238
+guid: http://cecere.xyz/?p=1238
 id: 1238
 tags:
 - amici
@@ -15,4 +15,4 @@ Alla soglia dei 500 amici devo ammettere che [Facebook](http://www.facebook.com/
 
  
 
-[<img class="aligncenter size-full wp-image-1239" title="amici_facebook" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/amici_facebook.jpg" alt="" width="387" height="994" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/amici_facebook.jpg 387w, http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/amici_facebook-117x300.jpg 117w" sizes="(max-width: 387px) 100vw, 387px" />](http://www.facebook.com/people/Stefano_Cecere/1065182123)
+[<img class="aligncenter size-full wp-image-1239" title="amici_facebook" src="http://cecere.xyz/wp-content/uploads/sites/3/2008/09/amici_facebook.jpg" alt="" width="387" height="994" srcset="http://cecere.xyz/wp-content/uploads/sites/3/2008/09/amici_facebook.jpg 387w, http://cecere.xyz/wp-content/uploads/sites/3/2008/09/amici_facebook-117x300.jpg 117w" sizes="(max-width: 387px) 100vw, 387px" />](http://www.facebook.com/people/Stefano_Cecere/1065182123)

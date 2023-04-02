@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2007-11-20T18:47:42Z
-guid: http://stefanocecere.com/2007/11/20/sushi-in-central-park/
+guid: http://cecere.xyz/2007/11/20/sushi-in-central-park/
 id: 606
 tags:
 - sushi

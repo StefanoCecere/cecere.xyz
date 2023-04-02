@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-04-14T18:06:29Z
-guid: http://stefanocecere.com/2008/04/14/no-non-e-un-incubo/
+guid: http://cecere.xyz/2008/04/14/no-non-e-un-incubo/
 id: 868
 tags:
 - elezioni

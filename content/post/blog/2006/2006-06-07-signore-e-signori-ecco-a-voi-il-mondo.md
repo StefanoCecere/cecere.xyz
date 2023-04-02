@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-06-07T03:13:50Z
-guid: http://stefanocecere.com/2006/06/07/signore-e-signori-ecco-a-voi-il-mondo/
+guid: http://cecere.xyz/2006/06/07/signore-e-signori-ecco-a-voi-il-mondo/
 id: 322
 tags:
 - ricreazione
@@ -14,7 +14,7 @@ slug: /2006/06/signore-e-signori-ecco-a-voi-il-mondo/
 <a target="_blank" href="http://tools.google.com/gapminder/"></p> 
 
 <div style="text-align: center">
-  <img alt="mappamondo_risorse_mondiali.jpg" id="image321" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/mappamondo_risorse_mondiali.jpg" />
+  <img alt="mappamondo_risorse_mondiali.jpg" id="image321" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/06/mappamondo_risorse_mondiali.jpg" />
 </div>
 
 <p>

@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-09-25T04:12:04Z
-guid: http://stefanocecere.com/?p=1269
+guid: http://cecere.xyz/?p=1269
 id: 1269
 tags:
 - Bolivia

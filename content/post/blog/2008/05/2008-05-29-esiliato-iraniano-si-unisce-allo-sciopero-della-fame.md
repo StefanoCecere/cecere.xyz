@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-05-29T09:52:08Z
-guid: http://stefanocecere.com/2008/05/29/esiliato-iraniano-si-unisce-allo-sciopero-della-fame/
+guid: http://cecere.xyz/2008/05/29/esiliato-iraniano-si-unisce-allo-sciopero-della-fame/
 id: 990
 tags:
 - digiuno

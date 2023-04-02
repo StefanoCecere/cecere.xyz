@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-07-07T09:57:47Z
-guid: http://stefanocecere.com/?p=1083
+guid: http://cecere.xyz/?p=1083
 id: 1083
 tags:
 - Europe for Peace

@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-03-28T22:55:14Z
-guid: http://stefanocecere.com/2006/03/28/lumanista-il-giornale-che-devi-leggere/
+guid: http://cecere.xyz/2006/03/28/lumanista-il-giornale-che-devi-leggere/
 id: 248
 tags:
 - giornale
@@ -11,7 +11,7 @@ title: 'L&#039;umanista: il giornale che devi leggere!'
 slug: /2006/03/lumanista-il-giornale-che-devi-leggere/
 ---
 
-[<img class="alignnone size-full wp-image-5480" alt="umanista_05_low_copertina" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/03/umanista_05_low_copertina.jpg" width="400" height="538" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2006/03/umanista_05_low_copertina.jpg 400w, http://stefanocecere.com/wp-content/uploads/sites/3/2006/03/umanista_05_low_copertina-223x300.jpg 223w" sizes="(max-width: 400px) 100vw, 400px" />](http://stefanocecere.com/wp-content/uploads/sites/3/2006/03/umanista_05_low.pdf)
+[<img class="alignnone size-full wp-image-5480" alt="umanista_05_low_copertina" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/03/umanista_05_low_copertina.jpg" width="400" height="538" srcset="http://cecere.xyz/wp-content/uploads/sites/3/2006/03/umanista_05_low_copertina.jpg 400w, http://cecere.xyz/wp-content/uploads/sites/3/2006/03/umanista_05_low_copertina-223x300.jpg 223w" sizes="(max-width: 400px) 100vw, 400px" />](http://cecere.xyz/wp-content/uploads/sites/3/2006/03/umanista_05_low.pdf)
 
 finalmente ho il piacere di pubblicare la versione digitale de L'Umanista - il giornale del Partito Umanista.
   

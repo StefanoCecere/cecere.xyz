@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2006-04-05T01:17:17Z
-guid: http://stefanocecere.com/2006/04/05/tommaso-tragedia-annunciata/
+guid: http://cecere.xyz/2006/04/05/tommaso-tragedia-annunciata/
 id: 254
 tags:
 - vergogna!

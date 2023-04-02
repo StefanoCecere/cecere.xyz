@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-04-12T15:03:42Z
-guid: http://stefanocecere.com/2006/04/12/lasciare-la-porta-aperta/
+guid: http://cecere.xyz/2006/04/12/lasciare-la-porta-aperta/
 id: 258
 title: lasciare la porta aperta…
 slug: /2006/04/lasciare-la-porta-aperta/
@@ -34,7 +34,7 @@ condivido appieno le posizioni del Partito Umanista a riguardo:
 
 **Sconfitta la destra è necessario costruire un’alternativa veramente di sinistra**
 
-<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/04/paolo_vecchi.jpg" alt="paolo_vecchi" width="123" height="164" class="alignleft size-full wp-image-5486" />Lo scenario politico italiano mostra i segni della grande crisi che anche il resto del pianeta conosce dall’inizio di questo millennio.
+<img src="http://cecere.xyz/wp-content/uploads/sites/3/2006/04/paolo_vecchi.jpg" alt="paolo_vecchi" width="123" height="164" class="alignleft size-full wp-image-5486" />Lo scenario politico italiano mostra i segni della grande crisi che anche il resto del pianeta conosce dall’inizio di questo millennio.
   
 Ciò che accade in Italia non è molto diverso da quello che succede nel resto del mondo: una combinazione di ultra-liberismo economico, autoritarismo, fondamentalismi religiosi, istigazione allo scontro tra culture, manipolazione dell’informazione.
   

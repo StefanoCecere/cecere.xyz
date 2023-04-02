@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-06-14T08:31:56Z
-guid: http://stefanocecere.com/2008/06/14/svegliati-america-stiamo-guidando-vero-il-disastro/
+guid: http://cecere.xyz/2008/06/14/svegliati-america-stiamo-guidando-vero-il-disastro/
 id: 1038
 tags:
 - credenze
@@ -22,5 +22,5 @@ buona lettura e tornami attivato.
 <a href="http://www.comedonchisciotte.org/site/modules.php?name=News&file=article&sid=4716" target="_blank">http://www.comedonchisciotte.org/site/modules.php?name=News&file=article&sid=4716</p> 
 
 <p>
-  <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/06/beached_limo-750272.jpg' alt='beached_limo-750272.jpg' /></a>
+  <img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/06/beached_limo-750272.jpg' alt='beached_limo-750272.jpg' /></a>
 </p>

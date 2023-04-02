@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-05-26T14:30:18Z
-guid: http://stefanocecere.com/2008/05/26/articolo-sullespresso/
+guid: http://cecere.xyz/2008/05/26/articolo-sullespresso/
 id: 980
 tags:
 - azioni
@@ -23,4 +23,4 @@ finalmente qualche media comincia a parlarne.
 
 nel finesettimana si sono moltiplicate le azioni e le adesioni: vedi: [www.nonviolenza.net](http://www.nonviolenza.net)
 
-[![espresso_2305.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/espresso_2305.jpg)](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/espresso_2305.pdf "espresso_2305.pdf")
+[![espresso_2305.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/05/espresso_2305.jpg)](http://cecere.xyz/wp-content/uploads/sites/3/2008/05/espresso_2305.pdf "espresso_2305.pdf")

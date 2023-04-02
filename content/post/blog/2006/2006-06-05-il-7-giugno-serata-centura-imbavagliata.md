@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2006-06-05T10:24:56Z
-guid: http://stefanocecere.com/2006/06/05/il-7-giugno-serata-centura-imbavagliata/
+guid: http://cecere.xyz/2006/06/05/il-7-giugno-serata-centura-imbavagliata/
 id: 324
 tags:
 - ricreazione
@@ -36,4 +36,4 @@ Corso di Porta Romana, 63 - Milano
   
 ore 21.00
 
-<img alt="manifesto_censura_imbavagliata.jpg" id="image323" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/manifesto_censura_imbavagliata.jpg" />
+<img alt="manifesto_censura_imbavagliata.jpg" id="image323" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/06/manifesto_censura_imbavagliata.jpg" />

@@ -1,20 +1,21 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-03-14T08:54:40Z
-guid: http://stefanocecere.com/2008/03/14/sai-cosa-sta-sucedendo-la-fuori-dollaro-a-picco-petrolio-alle-stelle-fallimento-dei-grandi-sistemi/
+date: 2008-03-14
+guid: http://cecere.xyz/2008/03/14/sai-cosa-sta-sucedendo-la-fuori-dollaro-a-picco-petrolio-alle-stelle-fallimento-dei-grandi-sistemi/
 id: 742
 tags:
 - fallimento
 - mondo
-- Terra 2.0
+- Terra2
 - umanista
 title: Sai cosa sta sucedendo la fuori? dollaro a picco, petrolio alle stelle, fallimento
   dei grandi sistemi.
 slug: /2008/03/sai-cosa-sta-sucedendo-la-fuori-dollaro-a-picco-petrolio-alle-stelle-fallimento-dei-grandi-sistemi/
+updated: 2022-03-22
 ---
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/0_22_dollar_euro_450.jpg' alt='0_22_dollar_euro_450.jpg' align="left" />E' possibile che oggi anche mia nonna sappia che stanno succedendo cose un po' strane, quasi preoccupanti, in campo economico planetario..
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/03/0_22_dollar_euro_450.jpg' alt='0_22_dollar_euro_450.jpg' align="left" />E' possibile che oggi anche mia nonna sappia che stanno succedendo cose un po' strane, quasi preoccupanti, in campo economico planetario..
   
 ogni giorno il dollaro va giù, il petrolio sale senza tetto, borse che perdono miliardi in pochi secondi…
   

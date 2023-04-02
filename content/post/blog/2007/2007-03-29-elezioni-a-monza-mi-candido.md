@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2007-03-29T21:50:27Z
-guid: http://stefanocecere.com/2007/03/29/elezioni-a-monza-mi-candido/
+guid: http://cecere.xyz/2007/03/29/elezioni-a-monza-mi-candido/
 id: 497
 tags:
 - elezioni
@@ -12,7 +12,7 @@ title: 'Elezioni a Monza: mi candido!'
 slug: /2007/03/elezioni-a-monza-mi-candido/
 ---
 
-<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/03/small_logo_pu.jpg" title="Logo Partito Umanista" alt="Logo Partito Umanista" align="left" />il Partito Umanista si presenta a Monza.
+<img src="http://cecere.xyz/wp-content/uploads/sites/3/2007/03/small_logo_pu.jpg" title="Logo Partito Umanista" alt="Logo Partito Umanista" align="left" />il Partito Umanista si presenta a Monza.
 
 Dopo molti anni di attività su diversi fronti (da quello sociale a quello umanitario, da quello dell'informazione a quello culturale) è ora di provare anche la "via politica", mia antica passione.
 

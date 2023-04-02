@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-09-20T01:54:40Z
-guid: http://stefanocecere.com/2006/09/20/doppio-invito-festa-stagionale-umanista-e-v-per-vendetta/
+guid: http://cecere.xyz/2006/09/20/doppio-invito-festa-stagionale-umanista-e-v-per-vendetta/
 id: 421
 tags:
 - Events
@@ -21,7 +21,7 @@ però dobbiamo stare vicini. ecco quindi due appuntamenti che sei in zona Monza/
 ## Domenica 24 settembre: festa stagionale umanista
 
 <p class="bodytext">
-  <img alt="20060924_festa_stagionale_monza.jpg" id="image419" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/09/20060924_festa_stagionale_monza.jpg" />
+  <img alt="20060924_festa_stagionale_monza.jpg" id="image419" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/09/20060924_festa_stagionale_monza.jpg" />
 </p>
 
 <p class="bodytext">
@@ -62,7 +62,7 @@ però dobbiamo stare vicini. ecco quindi due appuntamenti che sei in zona Monza/
 
 <p class="bodytext">
   <h2>
-    <img align="left" alt="v_per_vendetta.jpg" id="image420" title="v_per_vendetta.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/09/v_per_vendetta.jpg" />e poi: V per Vendetta
+    <img align="left" alt="v_per_vendetta.jpg" id="image420" title="v_per_vendetta.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/09/v_per_vendetta.jpg" />e poi: V per Vendetta
   </h2>
   
   <p>

@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2007-03-31T00:45:49Z
-guid: http://stefanocecere.com/2007/03/31/otto-per-mille-non-al-vaticano/
+guid: http://cecere.xyz/2007/03/31/otto-per-mille-non-al-vaticano/
 id: 499
 tags:
 - Papa

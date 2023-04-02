@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-06-22T23:51:10Z
-guid: http://stefanocecere.com/?p=1060
+guid: http://cecere.xyz/?p=1060
 id: 1060
 tags:
 - animali

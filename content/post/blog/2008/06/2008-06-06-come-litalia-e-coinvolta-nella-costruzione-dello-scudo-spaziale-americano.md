@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-06-06T00:36:56Z
-guid: http://stefanocecere.com/2008/06/06/come-l%e2%80%99italia-e-coinvolta-nella-costruzione-dello-scudo-spaziale-americano/
+guid: http://cecere.xyz/2008/06/06/come-l%e2%80%99italia-e-coinvolta-nella-costruzione-dello-scudo-spaziale-americano/
 id: 1004
 tags:
 - armi

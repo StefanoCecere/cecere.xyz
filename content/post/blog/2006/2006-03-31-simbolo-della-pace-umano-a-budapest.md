@@ -3,7 +3,7 @@ draft: true
 categories: [blog]
 date: 2006-03-31T15:15:00Z
 format: image
-guid: http://stefanocecere.com/?p=252
+guid: http://cecere.xyz/?p=252
 id: 252
 tags:
 - arte
@@ -14,7 +14,7 @@ title: Simbolo della pace umano a Budapest
 slug: /2006/03/simbolo-della-pace-umano-a-budapest/
 ---
 
-<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/03/cerchio_pace_budapest.jpg" alt="cerchio_pace_budapest" width="400" height="300" class="alignnone size-full wp-image-5482" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2006/03/cerchio_pace_budapest.jpg 400w, http://stefanocecere.com/wp-content/uploads/sites/3/2006/03/cerchio_pace_budapest-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />
+<img src="http://cecere.xyz/wp-content/uploads/sites/3/2006/03/cerchio_pace_budapest.jpg" alt="cerchio_pace_budapest" width="400" height="300" class="alignnone size-full wp-image-5482" srcset="http://cecere.xyz/wp-content/uploads/sites/3/2006/03/cerchio_pace_budapest.jpg 400w, http://cecere.xyz/wp-content/uploads/sites/3/2006/03/cerchio_pace_budapest-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />
 
 **riporto con grande commozione questa notizia… per il terzo anno di fila gli umanisti di Budapest sono riuscito ad organizzare il famoso "simbolo della pace umano".. e quest'anno erano più di 3.000!**
 

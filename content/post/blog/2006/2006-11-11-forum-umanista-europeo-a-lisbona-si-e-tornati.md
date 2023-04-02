@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-11-11T02:41:40Z
-guid: http://stefanocecere.com/2006/11/11/forum-umanista-europeo-a-lisbona-si-e-tornati/
+guid: http://cecere.xyz/2006/11/11/forum-umanista-europeo-a-lisbona-si-e-tornati/
 id: 456
 tags:
 - forum umanista
@@ -11,7 +11,7 @@ title: 'Forum Umanista Europeo a Lisbona: si è tornati'
 slug: /2006/11/forum-umanista-europeo-a-lisbona-si-e-tornati/
 ---
 
-<img width="492" height="328" alt="forum_lisbona.jpg" id="image455" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/11/forum_lisbona.jpg" />
+<img width="492" height="328" alt="forum_lisbona.jpg" id="image455" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/11/forum_lisbona.jpg" />
 
 sono tornato mercoledì sera dal Forum che si è svolto a Lisbona…
 

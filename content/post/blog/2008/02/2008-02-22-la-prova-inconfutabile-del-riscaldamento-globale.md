@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-02-22T02:05:17Z
-guid: http://stefanocecere.com/2008/02/22/la-prova-inconfutabile-del-riscaldamento-globale/
+guid: http://cecere.xyz/2008/02/22/la-prova-inconfutabile-del-riscaldamento-globale/
 id: 693
 tags:
 - ridere
@@ -17,4 +17,4 @@ l'evidenza è sotto gli occhi di tutti!
 
 anche se personalmente penso che ciò che si sta riscaldando, ogni anno di più, non è tanto il clima esterno, quanto quello INTERNO alle persone.. sta salendo la temperatura..
 
-![riscaldamento-globale.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/02/riscaldamento-globale.jpg)
+![riscaldamento-globale.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/02/riscaldamento-globale.jpg)

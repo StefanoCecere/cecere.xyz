@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2007-09-06T10:14:26Z
-guid: http://stefanocecere.com/2007/09/06/incontro-con-noam-chomsky-e-forum-umanista-a-new-york/
+guid: http://cecere.xyz/2007/09/06/incontro-con-noam-chomsky-e-forum-umanista-a-new-york/
 id: 562
 tags:
 - Forum
@@ -12,7 +12,7 @@ title: Incontro con Noam Chomsky e Forum Umanista a New York
 slug: /2007/09/incontro-con-noam-chomsky-e-forum-umanista-a-new-york/
 ---
 
-<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/09/noam_chomsky.jpg" title="noam_chomsky.jpg" alt="noam_chomsky.jpg" align="left" height="190" width="132" />dal 16 al 18 novembre sarò a New York a partecipare al Forum Umanista Nordamericano: vedi <a href="http://www.newhumanistforum.org" target="_blank">www.newhumanistforum.org</a> per i dettagli o contattami se vuoi venire con me.
+<img src="http://cecere.xyz/wp-content/uploads/sites/3/2007/09/noam_chomsky.jpg" title="noam_chomsky.jpg" alt="noam_chomsky.jpg" align="left" height="190" width="132" />dal 16 al 18 novembre sarò a New York a partecipare al Forum Umanista Nordamericano: vedi <a href="http://www.newhumanistforum.org" target="_blank">www.newhumanistforum.org</a> per i dettagli o contattami se vuoi venire con me.
 
 per l'occasione Noam Chomsky, che negli ultimi anni è stato sempre più vicino alle idee e al progetto del Movimento Umanista (vedi la <a href="http://multimage.org/index.php?sezione=libro&id=22" target="_blank">pubblicazione di un suo libro</a> presso una casa editrice del Movimento, l'adesione alla nostra <a href="http://www.europeforpeace.eu/" target="_blank">Campagna per il Disarmo Nucleare</a>), incontrerà per alcuni giorni alcuni rappresentanti umanisti, e sta organizzando presso la sua università di Boston alcune conferenze dove possano presentarsi e parlare pubblicamente.
 

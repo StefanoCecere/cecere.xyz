@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-09-23T13:27:42Z
-guid: http://stefanocecere.com/2006/09/23/video-di-hugo-chavez-allonu-il-diavolo-limperialismo-e-noam-chomsky/
+guid: http://cecere.xyz/2006/09/23/video-di-hugo-chavez-allonu-il-diavolo-limperialismo-e-noam-chomsky/
 id: 427
 tags:
 - Chavez
@@ -14,7 +14,7 @@ title: 'Video di Hugo Chavez all&#039;ONU: il diavolo, l&#039;imperialismo e Noa
 slug: /2006/09/video-di-hugo-chavez-allonu-il-diavolo-limperialismo-e-noam-chomsky/
 ---
 
-<img align="left" alt="chavez_onu_chomsky.jpg" id="image426" title="chavez_onu_chomsky.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/09/chavez_onu_chomsky.jpg" />
+<img align="left" alt="chavez_onu_chomsky.jpg" id="image426" title="chavez_onu_chomsky.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/09/chavez_onu_chomsky.jpg" />
 
 Ne avevo solo sentito parlare, ma ho finalmente trovato il video di tutto il discorso del presidente del Venezuela Hugo Chavez all'ONU, il 21 settembre 2006.
 

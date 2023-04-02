@@ -19,4 +19,4 @@ slug: /2008/05/spot-audio-no-scudo-spaziale/
 
 è in programmazione su Radio Popolare Network (circuito nazionale):
 
-[spot\_radio\_no\_scudo\_spaziale.mp3](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/spot_radio_no_scudo_spaziale.mp3)
+[spot\_radio\_no\_scudo\_spaziale.mp3](http://cecere.xyz/wp-content/uploads/sites/3/2008/05/spot_radio_no_scudo_spaziale.mp3)

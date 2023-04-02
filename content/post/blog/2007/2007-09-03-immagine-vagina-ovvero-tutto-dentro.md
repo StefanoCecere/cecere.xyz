@@ -2,7 +2,7 @@
 categories:
 - Smile
 date: 2007-09-03T08:29:16Z
-guid: http://stefanocecere.com/2007/09/03/immagine-vagina-ovvero-tutto-dentro/
+guid: http://cecere.xyz/2007/09/03/immagine-vagina-ovvero-tutto-dentro/
 id: 556
 tags:
 - arte
@@ -13,7 +13,7 @@ slug: /2007/09/immagine-vagina-ovvero-tutto-dentro/
 draft: true
 ---
 
-![Immagine Vagina](http://stefanocecere.com/wp-content/uploads/sites/3/2007/09/immagine_vagina_500.jpg)
+![Immagine Vagina](http://cecere.xyz/wp-content/uploads/sites/3/2007/09/immagine_vagina_500.jpg)
 
 _ragazzi stanotte stavo scovando negli archivi segreti del cecio e guardate cosa ho trovato! mi è piaciuto subito…_
 

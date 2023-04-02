@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-06-21T23:56:08Z
-guid: http://stefanocecere.com/?p=1058
+guid: http://cecere.xyz/?p=1058
 id: 1058
 tags:
 - amore

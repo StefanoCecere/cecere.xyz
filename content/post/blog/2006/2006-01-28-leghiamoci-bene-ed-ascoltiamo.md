@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-01-28T23:38:07Z
-guid: http://stefanocecere.com/2006/01/28/leghiamoci-bene-ed-ascoltiamo/
+guid: http://cecere.xyz/2006/01/28/leghiamoci-bene-ed-ascoltiamo/
 id: 217
 tags:
 - arte

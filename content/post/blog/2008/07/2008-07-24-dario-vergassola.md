@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-07-24T11:29:21Z
-guid: http://stefanocecere.com/?p=1102
+guid: http://cecere.xyz/?p=1102
 id: 1102
 tags:
 - scudo spaziale

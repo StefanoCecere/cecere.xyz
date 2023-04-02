@@ -1,22 +1,23 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-03-29T09:23:51Z
-guid: http://stefanocecere.com/2008/03/29/consegnate-al-parlamento-italiano-le-firme-della-campagna-un-futuro-senza-atomiche/
+date: 2008-03-29
+guid: http://cecere.xyz/2008/03/29/consegnate-al-parlamento-italiano-le-firme-della-campagna-un-futuro-senza-atomiche/
 id: 786
 tags:
 - comunicato
 - disarmo nucleare
 - petizione
 - Politica
-- Terra 2.0
+- Terra2
 - umanista
 title: Consegnate al Parlamento italiano le firme della Campagna &quot;Un futuro senza
   atomiche&quot;
 slug: /2008/03/consegnate-al-parlamento-italiano-le-firme-della-campagna-un-futuro-senza-atomiche/
+updated: 2022-03-22
 ---
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/unfuturosenzatomiche.jpg' alt='unfuturosenzatomiche.jpg' align="left" />e finalmente un'altra bella notizia: chi mi ha seguito e/o ha seguito le attività degli Umanisti l'anno scorso. sa quanta energia abbiamo messo nella campagna per il Disarmo Nucleare (sia a livello europeo che italiano).
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/03/unfuturosenzatomiche.jpg' alt='unfuturosenzatomiche.jpg' align="left" />e finalmente un'altra bella notizia: chi mi ha seguito e/o ha seguito le attività degli Umanisti l'anno scorso. sa quanta energia abbiamo messo nella campagna per il Disarmo Nucleare (sia a livello europeo che italiano).
   
 quanti banchini abbiamo fatto per raccogliere le firme?
   
@@ -24,7 +25,7 @@ bene. pochi giorni sono state consegnate a Roma le oltre 60.000 firme.
   
 un piccolo segnale, no? ora tutti a firmare (qui è più facile per ora è solo online) la petizione per bloccare la costruzione della base radar in Repubblica Ceca (dobbiamo raggiungere le 500.000 entro 20 giorni!
   
-vai qui: [www.nonviolence.cz](http://petice.nenasili.cz/index.php?lang=it) (vedi [video](http://stefanocecere.com/2008/03/17/petizione-on-line-contro-l’istallazione-della-base-radar-degli-stati-uniti-in-repubblica-ceca/))
+vai qui: [www.nonviolence.cz](http://petice.nenasili.cz/index.php?lang=it) (vedi [video](http://cecere.xyz/2008/03/17/petizione-on-line-contro-l’istallazione-della-base-radar-degli-stati-uniti-in-repubblica-ceca/))
 
 COMUNICATO STAMPA
   

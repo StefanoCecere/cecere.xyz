@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-09-12T12:45:30Z
-guid: http://stefanocecere.com/2006/09/12/silo-chiede-il-disarmo-mondiale-immediato/
+guid: http://cecere.xyz/2006/09/12/silo-chiede-il-disarmo-mondiale-immediato/
 id: 415
 tags:
 - disarmo nucleare

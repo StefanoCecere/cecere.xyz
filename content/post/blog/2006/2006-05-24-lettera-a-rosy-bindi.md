@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-05-24T16:08:39Z
-guid: http://stefanocecere.com/2006/05/24/lettera-al-rosy-bindi/
+guid: http://cecere.xyz/2006/05/24/lettera-al-rosy-bindi/
 id: 279
 title: Lettera a Rosy Bindi
 slug: /2006/05/lettera-a-rosy-bindi/
@@ -10,7 +10,7 @@ slug: /2006/05/lettera-a-rosy-bindi/
 
 _(lettere inviatami dall'amica Daniela Tuscano)_ 
 
-<img align="left" title="rosy_bindi.jpeg" id="image278" alt="rosy_bindi.jpeg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/05/rosy_bindi.jpeg" />Onorevole Bindi,
+<img align="left" title="rosy_bindi.jpeg" id="image278" alt="rosy_bindi.jpeg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/05/rosy_bindi.jpeg" />Onorevole Bindi,
   
 sono un'insegnante milanese di 41 anni e Le scrivo in merito all'intervista da Lei rilasciata ad Aldo Cazzullo del "Corsera".
   

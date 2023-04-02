@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-06-24T15:27:31Z
-guid: http://stefanocecere.com/?p=1066
+guid: http://cecere.xyz/?p=1066
 id: 1066
 tags:
 - Duomo

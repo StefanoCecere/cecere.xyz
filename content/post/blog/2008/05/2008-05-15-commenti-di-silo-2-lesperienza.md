@@ -3,7 +3,7 @@ draft: true
 categories:
 - Uncategorized
 date: 2008-05-15T15:04:45Z
-guid: http://stefanocecere.com/2008/05/15/commenti-di-silo-2-lesperienza/
+guid: http://cecere.xyz/2008/05/15/commenti-di-silo-2-lesperienza/
 id: 939
 tags:
 - Silo

@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-09-25T01:36:29Z
-guid: http://stefanocecere.com/?p=1257
+guid: http://cecere.xyz/?p=1257
 id: 1257
 tags:
 - google
@@ -16,4 +16,4 @@ ecco una delle immagini promozionali in anteprima del nuovo telefono Android fir
 
  
 
-[<img class="aligncenter size-full wp-image-1258" title="g1_time" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/g1_time.jpg" alt="" width="400" height="301" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/g1_time.jpg 400w, http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/g1_time-300x226.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/g1_time.jpg)
+[<img class="aligncenter size-full wp-image-1258" title="g1_time" src="http://cecere.xyz/wp-content/uploads/sites/3/2008/09/g1_time.jpg" alt="" width="400" height="301" srcset="http://cecere.xyz/wp-content/uploads/sites/3/2008/09/g1_time.jpg 400w, http://cecere.xyz/wp-content/uploads/sites/3/2008/09/g1_time-300x226.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />](http://cecere.xyz/wp-content/uploads/sites/3/2008/09/g1_time.jpg)

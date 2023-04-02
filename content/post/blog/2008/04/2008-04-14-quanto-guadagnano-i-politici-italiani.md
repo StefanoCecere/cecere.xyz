@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-04-14T11:32:22Z
-guid: http://stefanocecere.com/2008/04/14/quanto-guadagnano-i-politici-italiani/
+guid: http://cecere.xyz/2008/04/14/quanto-guadagnano-i-politici-italiani/
 id: 865
 tags:
 - politici
@@ -16,4 +16,4 @@ io non riesco a immaginarmi le infinite cose che potrei fare se avessi solo 100.
 
 vabbeh d'altronde sono un umanista.. se volevo i soldi starei facendo altro ah ah
 
-![redditi-parlamento.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/redditi-parlamento.jpg)
+![redditi-parlamento.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/04/redditi-parlamento.jpg)

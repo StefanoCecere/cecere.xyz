@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-03-15T02:10:44Z
-guid: http://stefanocecere.com/2006/03/15/viva-cio-che-cresce/
+guid: http://cecere.xyz/2006/03/15/viva-cio-che-cresce/
 id: 244
 tags:
 - ricreazione

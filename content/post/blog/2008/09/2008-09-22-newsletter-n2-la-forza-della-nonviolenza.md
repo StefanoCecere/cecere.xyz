@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-09-22T03:49:03Z
-guid: http://stefanocecere.com/?p=1204
+guid: http://cecere.xyz/?p=1204
 id: 1204
 tags:
 - Forum
@@ -17,4 +17,4 @@ fresca fresca di aggiornamenti sull'evento più importane di Ottobre 2008!
 
 [fresca fresca di aggiornamenti sull'evento più importane di Ottobre 2008!
 
-](http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/newsletter_forum_2_ita3.pdf)
+](http://cecere.xyz/wp-content/uploads/sites/3/2008/09/newsletter_forum_2_ita3.pdf)

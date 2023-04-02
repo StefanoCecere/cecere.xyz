@@ -3,7 +3,7 @@ draft: true
 categories:
 - Eventi
 date: 2008-06-20T10:15:52Z
-guid: http://stefanocecere.com/2008/06/20/domenica-22-sciopero-mondiale-della-fame/
+guid: http://cecere.xyz/2008/06/20/domenica-22-sciopero-mondiale-della-fame/
 id: 1052
 tags:
 - disarmo nucleare
@@ -23,7 +23,7 @@ slug: /2008/06/domenica-22-sciopero-mondiale-della-fame/
   
 promossa da Europe for Peace aderisce Legambiente
 
-<a href="http://www.nonviolenza.net" target="_blank"><img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/06/22giugno1.jpg' alt='22giugno1.jpg' /></a>
+<a href="http://www.nonviolenza.net" target="_blank"><img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/06/22giugno1.jpg' alt='22giugno1.jpg' /></a>
 
 _Una giornata mondiale di sciopero della fame contro lo scudo spaziale, un gesto semplice ma significativo: non mangiare per un giorno per opporsi alle guerre stellari e dire ai potenti del mondo: “Smettetela di alimentare la macchina della guerra e cominciate a nutrire la gente!”_
 
@@ -53,7 +53,7 @@ Nel corso di tutte le manifestazioni si potrà firmare la petizione online contr
   
 promossa da Europe for Peace aderisce Legambiente
 
-<a href="http://www.nonviolenza.net" target="_blank"><img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/06/22giugno1.jpg' alt='22giugno1.jpg' /></a>
+<a href="http://www.nonviolenza.net" target="_blank"><img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/06/22giugno1.jpg' alt='22giugno1.jpg' /></a>
 
 _Una giornata mondiale di sciopero della fame contro lo scudo spaziale, un gesto semplice ma significativo: non mangiare per un giorno per opporsi alle guerre stellari e dire ai potenti del mondo: “Smettetela di alimentare la macchina della guerra e cominciate a nutrire la gente!”_
 

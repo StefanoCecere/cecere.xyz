@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-10-13T15:50:40Z
-guid: http://stefanocecere.com/2006/10/13/presidio-per-la-scuola-egiziana-a-milano-i-coglioni-le-dive-e-le-bombe-nucleari/
+guid: http://cecere.xyz/2006/10/13/presidio-per-la-scuola-egiziana-a-milano-i-coglioni-le-dive-e-le-bombe-nucleari/
 id: 443
 tags:
 - discriminazione
@@ -12,7 +12,7 @@ title: Presidio per la scuola egiziana a Milano, i coglioni, le dive e le bombe 
 slug: /2006/10/presidio-per-la-scuola-egiziana-a-milano-i-coglioni-le-dive-e-le-bombe-nucleari/
 ---
 
-<img align="left" alt="scuola_via_ventura.jpg" id="image444" title="scuola_via_ventura.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/10/scuola_via_ventura.jpg" />Sono appena tornato dal presidio (lanciato da retescuole.net a cui hanno aderitto il Centro delle Culture, Rifondazione e il Partito Umanista.. i soliti 😉 perché qualcuno in amministrazione a Milano vuol fare chiudere a tutti i costi una scuola egiziana in via Ventura…
+<img align="left" alt="scuola_via_ventura.jpg" id="image444" title="scuola_via_ventura.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/10/scuola_via_ventura.jpg" />Sono appena tornato dal presidio (lanciato da retescuole.net a cui hanno aderitto il Centro delle Culture, Rifondazione e il Partito Umanista.. i soliti 😉 perché qualcuno in amministrazione a Milano vuol fare chiudere a tutti i costi una scuola egiziana in via Ventura…
 
 eravamo un bel gruppetto.. diverse televisioni (meno male).. la direttrice della scuola e le insegnanti sono davvero strepitose.. donne di gran cuore e bel cervello.
 

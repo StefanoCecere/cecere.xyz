@@ -1,19 +1,20 @@
 ---
 draft: true
 categories: [blog]
-date: 2006-04-06T00:20:01Z
-guid: http://stefanocecere.com/2006/04/06/il-fannullone-9/
+date: 2006-04-06
+guid: http://cecere.xyz/2006/04/06/il-fannullone-9/
 id: 255
 tags:
 - arte
-- Il Fannullone
+- IlFannullone
 - ricreazione
 - umanista
 title: Il Fannullone 9!
 slug: /2006/04/il-fannullone-9/
+updated: 2022-03-22
 ---
 
-[<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/04/ilfannullone_09_cover.jpg" alt="ilfannullone_09_cover" width="160" height="240" class="alignleft size-full wp-image-5492" />](http://www.ilfannullone.it)buone nuove:
+[<img src="http://cecere.xyz/wp-content/uploads/sites/3/2006/04/ilfannullone_09_cover.jpg" alt="ilfannullone_09_cover" width="160" height="240" class="alignleft size-full wp-image-5492" />](http://www.ilfannullone.it)buone nuove:
   
 il Fannullone ha smesso di fare il fannullone ed è finalmente uscito (ed [anche online](http://www.ilfannullone.it/ilfannullone_09/)) con il numero 9!
 

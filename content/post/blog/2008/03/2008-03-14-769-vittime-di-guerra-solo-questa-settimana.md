@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-03-14T14:41:46Z
-guid: http://stefanocecere.com/2008/03/14/769-vittime-di-guerra-solo-questa-settimana/
+guid: http://cecere.xyz/2008/03/14/769-vittime-di-guerra-solo-questa-settimana/
 id: 744
 tags:
 - guerra

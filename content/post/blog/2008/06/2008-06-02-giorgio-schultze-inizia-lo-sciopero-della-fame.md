@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-06-02T17:03:37Z
-guid: http://stefanocecere.com/2008/06/02/giorgio-schultze-inizia-lo-sciopero-della-fame/
+guid: http://cecere.xyz/2008/06/02/giorgio-schultze-inizia-lo-sciopero-della-fame/
 id: 998
 tags:
 - Giorgio Schultze

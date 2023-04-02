@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-01-20T02:54:46Z
-guid: http://stefanocecere.com/2006/01/20/una-mia-passione-typo3-e-lopensource/
+guid: http://cecere.xyz/2006/01/20/una-mia-passione-typo3-e-lopensource/
 id: 213
 tags:
 - internet

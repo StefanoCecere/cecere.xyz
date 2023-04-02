@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-05-24T19:08:44Z
-guid: http://stefanocecere.com/2008/05/24/aggiornamenti-sciopero-della-fame-contro-lo-scudo-spaziale/
+guid: http://cecere.xyz/2008/05/24/aggiornamenti-sciopero-della-fame-contro-lo-scudo-spaziale/
 id: 975
 tags:
 - azioni
@@ -30,4 +30,4 @@ Per informazioni e firmare la petizione online: [www.nonviolenza.net](http://www
 
 Contatti: Rep. Ceca: Jan Tamas +420 776 785 839 Italia: Dana Feminova +420 7777 1911
 
-[![nonviolenza_net.gif](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/nonviolenza_net.gif)](http://www.nonviolenza.net "nonviolenza_net.gif")
+[![nonviolenza_net.gif](http://cecere.xyz/wp-content/uploads/sites/3/2008/05/nonviolenza_net.gif)](http://www.nonviolenza.net "nonviolenza_net.gif")

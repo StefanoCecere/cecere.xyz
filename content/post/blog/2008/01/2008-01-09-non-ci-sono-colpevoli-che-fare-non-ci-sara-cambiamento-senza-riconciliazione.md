@@ -1,15 +1,16 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-01-09T02:26:11Z
-guid: http://stefanocecere.com/2008/01/09/non-ci-sono-colpevoli-che-fare-non-ci-sara-cambiamento-senza-riconciliazione/
+date: 2008-01-09
+guid: http://cecere.xyz/2008/01/09/non-ci-sono-colpevoli-che-fare-non-ci-sara-cambiamento-senza-riconciliazione/
 id: 645
 tags:
 - spirito
-- Terra 2.0
+- Terra2
 - umanista
 title: non ci sono colpevoli! che fare? Non ci sarà cambiamento senza riconciliazione.
 slug: /2008/01/non-ci-sono-colpevoli-che-fare-non-ci-sara-cambiamento-senza-riconciliazione/
+updated: 2022-03-22
 ---
 
 Esistono enormi problemi nel mondo che noi non possiamo risolvere: problemi fra culture, sistemi e paesi. Come potremmo risolverli, se non abbiamo a disposizione programmi né piani concreti?

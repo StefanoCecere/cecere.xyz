@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-01-13T15:10:39Z
-guid: http://stefanocecere.com/2008/01/13/persepolis-bush-e-iran/
+guid: http://cecere.xyz/2008/01/13/persepolis-bush-e-iran/
 id: 649
 tags:
 - Bush
@@ -11,7 +11,7 @@ title: Persepolis, Bush e Iran
 slug: /2008/01/persepolis-bush-e-iran/
 ---
 
-[![persepolis.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/01/persepolis.jpg)](http://www.sonypictures.com/classics/persepolis/)
+[![persepolis.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/01/persepolis.jpg)](http://www.sonypictures.com/classics/persepolis/)
   
 stamani ho visto il film Persepolis. capolavoro francese sull'esistenza di una bambina nata in iran negli anni '70, ed emigrata in Francia.
 

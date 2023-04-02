@@ -1,18 +1,18 @@
 ---
 draft: true
 categories: [blog]
-date: 2006-01-30T10:58:25Z
-guid: http://stefanocecere.com/2006/01/30/dario-fo-e-la-neve/
+date: 2006-01-30
+guid: http://cecere.xyz/2006/01/30/dario-fo-e-la-neve/
 id: 218
 tags:
 - cineforum
-- Dario Fo
 - Milano
 - neve
 - Politica
 - ricreazione
 title: Dario Fo e la neve
 slug: /2006/01/dario-fo-e-la-neve/
+updated: 2022-03-22
 ---
 
 era abbastanza prevedibile la vittoria di Ferrante alle primarie di Milano, tanto che un giorno mi chiesi: ma perché Fo si è inguauato in un vicolo cieco e non si è presentato fuori dall'Unione? almeno avrebbe concorso alle elezioni vere e proprie

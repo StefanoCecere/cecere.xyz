@@ -2,7 +2,7 @@
 categories:
 - Buone Nuove
 date: 2008-09-30T09:49:22Z
-guid: http://stefanocecere.com/?p=1295
+guid: http://cecere.xyz/?p=1295
 id: 1295
 tags:
 - comunicato

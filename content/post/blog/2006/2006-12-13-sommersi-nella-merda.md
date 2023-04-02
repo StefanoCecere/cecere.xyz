@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-12-13T00:01:30Z
-guid: http://stefanocecere.com/2006/12/13/sommersi-nella-merda/
+guid: http://cecere.xyz/2006/12/13/sommersi-nella-merda/
 id: 474
 tags:
 - vergogna!
@@ -10,7 +10,7 @@ title: Sommersi nella merda
 slug: /2006/12/sommersi-nella-merda/
 ---
 
-<img alt="cagata_di_merda.jpg" id="image473" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/12/cagata_di_merda.jpg" />
+<img alt="cagata_di_merda.jpg" id="image473" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/12/cagata_di_merda.jpg" />
 
 come se non bastasse, oggi vado in Posta perché dovevo ritirare delle raccomandate e pagare un po' di bollettini e multe passate (le famose "lavaggio strada, divieto di sosta temporaneo, un passaggio in zona traffico limitato"..)
 

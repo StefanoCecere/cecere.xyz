@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-04-14T12:16:24Z
-guid: http://stefanocecere.com/2008/04/14/emergenza-carestia-e-milioni-di-persone-muoiono-di-fame/
+guid: http://cecere.xyz/2008/04/14/emergenza-carestia-e-milioni-di-persone-muoiono-di-fame/
 id: 866
 tags:
 - fame
@@ -13,7 +13,7 @@ title: 'emergenza carestia: e milioni di persone muoiono di fame'
 slug: /2008/04/emergenza-carestia-e-milioni-di-persone-muoiono-di-fame/
 ---
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/third-world-starvation.jpg' alt='third-world-starvation.jpg' align="left" />
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/04/third-world-starvation.jpg' alt='third-world-starvation.jpg' align="left" />
 
 oggi, **mentre sono tutti presi a contare qualcosa, l'emergenza di una nuova carestia planetaria sta arrivando anche alle orecchie dei semisordi**.
   

@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-04-18T14:45:51Z
-guid: http://stefanocecere.com/2008/04/18/corcerto-pro-bolivia/
+guid: http://cecere.xyz/2008/04/18/corcerto-pro-bolivia/
 id: 885
 tags:
 - Bolivia
@@ -18,4 +18,4 @@ Evo Morales non pice troppo alle multinazionali e ai grandi poteri.
   
 noi umanisti continuamo ad appoggiarlo e cerchiamo di far sapere cosa sta succedendo là, nel mezzo dell'america del sud.
 
-![concerto_bolivia.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/concerto_bolivia.jpg)
+![concerto_bolivia.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/04/concerto_bolivia.jpg)

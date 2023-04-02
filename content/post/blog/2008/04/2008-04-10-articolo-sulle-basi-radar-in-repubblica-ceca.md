@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-04-10T09:42:54Z
-guid: http://stefanocecere.com/2008/04/10/articolo-sulle-basi-radar-in-repubblica-ceca/
+guid: http://cecere.xyz/2008/04/10/articolo-sulle-basi-radar-in-repubblica-ceca/
 id: 838
 tags:
 - comunicato
@@ -17,4 +17,4 @@ chi è nauseato dalla non-informazione dei giornali e dei media in genere sarà 
 
 [www.nonviolence.cz](http://www.nonviolence.cz)
 
-[<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/articolo_manifesto.jpg' alt='articolo_manifesto.jpg' height="450" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/articolo_manifesto.jpg "articolo_manifesto.jpg")
+[<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/04/articolo_manifesto.jpg' alt='articolo_manifesto.jpg' height="450" />](http://cecere.xyz/wp-content/uploads/sites/3/2008/04/articolo_manifesto.jpg "articolo_manifesto.jpg")

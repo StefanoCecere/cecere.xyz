@@ -1,16 +1,17 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-07-04T08:58:05Z
-guid: http://stefanocecere.com/?p=1076
+date: 2008-07-04
+guid: http://cecere.xyz/?p=1076
 id: 1076
 tags:
 - blog
 - google
 - statistiche
-- stefano cecere
+- stefano
 title: qualche dato su questo blog
 slug: /2008/07/qualche-dato-su-questo-blog/
+updated: 2022-03-22
 ---
 
 giusto perché sono oberato di cose da fare, trovo 5 minuti per questa inutilità autocelebrativa e forse anche inattendibile..

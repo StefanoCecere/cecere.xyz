@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-04-03T14:47:16Z
-guid: http://stefanocecere.com/?p=249
+guid: http://cecere.xyz/?p=249
 id: 249
 tags:
 - Firenze

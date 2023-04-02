@@ -2,8 +2,8 @@
 draft: true
 categories:
 - Eventi
-date: 2008-07-03T08:41:51Z
-guid: http://stefanocecere.com/?p=1070
+date: 2008-07-03
+guid: http://cecere.xyz/?p=1070
 id: 1070
 tags:
 - concerto
@@ -12,11 +12,12 @@ tags:
 - Italia
 - lavoro
 - Milano
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 - Movimento
 - music
 title: MUSICA IN DIFESA DEL DIRITTO AL LAVORO
 slug: /2008/07/musica-in-difesa-del-diritto-al-lavoro/
+updated: 2022-03-22
 ---
 
 <p style="text-align: center">

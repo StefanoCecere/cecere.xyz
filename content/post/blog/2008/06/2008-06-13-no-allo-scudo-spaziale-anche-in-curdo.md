@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-06-13T04:08:50Z
-guid: http://stefanocecere.com/2008/06/13/no-allo-scudo-spaziale-anche-in-curdo/
+guid: http://cecere.xyz/2008/06/13/no-allo-scudo-spaziale-anche-in-curdo/
 id: 1030
 tags:
 - Europe for Peace
@@ -15,4 +15,4 @@ So che è incomprensibile, ma questa è la traduzione in curdo della dichiarazio
   
 E' arrivata da un nostro amico curdo.
 
-![shultze-kurdo.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/06/shultze-kurdo.jpg)
+![shultze-kurdo.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/06/shultze-kurdo.jpg)

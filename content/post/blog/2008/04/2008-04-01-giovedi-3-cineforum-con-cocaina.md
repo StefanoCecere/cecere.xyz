@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-04-01T10:41:24Z
-guid: http://stefanocecere.com/2008/04/01/giovedi-3-cineforum-con-cocaina/
+guid: http://cecere.xyz/2008/04/01/giovedi-3-cineforum-con-cocaina/
 id: 790
 tags:
 - cocaina
@@ -13,7 +13,7 @@ title: 'Giovedì 3: cineforum con &quot;Cocaina&quot;'
 slug: /2008/04/giovedi-3-cineforum-con-cocaina/
 ---
 
-![cocaina.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/cocaina.jpg)
+![cocaina.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/04/cocaina.jpg)
 
 ogni giorno a Milano si consumano circa 120.000 dosi di cocaina, molte di più nel weekend.
   

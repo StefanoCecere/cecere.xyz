@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-01-27T11:31:55Z
-guid: http://stefanocecere.com/2006/01/27/proprieta-privata/
+guid: http://cecere.xyz/2006/01/27/proprieta-privata/
 id: 216
 tags:
 - Monza

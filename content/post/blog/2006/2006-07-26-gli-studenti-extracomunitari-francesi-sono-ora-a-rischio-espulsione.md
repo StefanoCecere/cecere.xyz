@@ -2,13 +2,13 @@
 draft: true
 categories: [blog]
 date: 2006-07-26T01:48:30Z
-guid: http://stefanocecere.com/2006/07/26/gli-studenti-extracomunitari-francesi-sono-ora-a-rischio-espulsione/
+guid: http://cecere.xyz/2006/07/26/gli-studenti-extracomunitari-francesi-sono-ora-a-rischio-espulsione/
 id: 389
 title: gli studenti extracomunitari francesi sono ora a rischio espulsione
 slug: /2006/07/gli-studenti-extracomunitari-francesi-sono-ora-a-rischio-espulsione/
 ---
 
-<img align="left" title="firma_appello.png" id="image388" alt="firma_appello.png" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/07/firma_appello.png" />ultimi giorni di lavoro, poco tempo per il blog.
+<img align="left" title="firma_appello.png" id="image388" alt="firma_appello.png" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/07/firma_appello.png" />ultimi giorni di lavoro, poco tempo per il blog.
 
 nonostante questo mai scollegati dalla realtà e attivi nella sua umanizzazione.
 

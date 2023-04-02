@@ -1,12 +1,11 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-07-09T15:44:36Z
-guid: http://stefanocecere.com/?p=1085
+date: 2008-07-09
+guid: http://cecere.xyz/?p=1085
 id: 1085
 tags:
 - Berlusconi
-- Carfagna
 - intercettazioni
 - lavoro
 - mondo
@@ -17,6 +16,7 @@ tags:
 - vergogna!
 title: Il pompino della Carfagna e l&#039;omicidio di Federica
 slug: /2008/07/il-pompino-della-carfagna-e-lomicidio-di-federica/
+updated: 2022-03-22
 ---
 
 giusto due righe per dichiarare il mio totale continuato e ribollito imbarazzo di fronte ai primi 5 minuti di (quasi) tutti i telegiornali nazionali e i maggiori quotidiani.

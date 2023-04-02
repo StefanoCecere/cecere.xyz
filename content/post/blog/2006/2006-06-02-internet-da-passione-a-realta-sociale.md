@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-06-02T17:17:41Z
-guid: http://stefanocecere.com/2006/06/02/internet-da-passione-a-realta-sociale/
+guid: http://cecere.xyz/2006/06/02/internet-da-passione-a-realta-sociale/
 id: 305
 tags:
 - internet
@@ -12,7 +12,7 @@ slug: /2006/06/internet-da-passione-a-realta-sociale/
 ---
 
 <div style="text-align: center">
-  <img width="489" height="273" alt="internet.jpg" id="image304" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/internet.jpg" />
+  <img width="489" height="273" alt="internet.jpg" id="image304" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/06/internet.jpg" />
 </div>
 
 - due settimane è stato festeggiato il milionesimo conto corrente **italiano** nella "banca virtuale" di PayPal (gruppo eBay).

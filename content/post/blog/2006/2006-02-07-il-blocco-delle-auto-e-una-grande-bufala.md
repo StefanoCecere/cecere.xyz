@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-02-07T01:51:50Z
-guid: http://stefanocecere.com/2006/02/07/il-blocco-delle-auto-e-una-grande-bufala/
+guid: http://cecere.xyz/2006/02/07/il-blocco-delle-auto-e-una-grande-bufala/
 id: 223
 tags:
 - disinformazione

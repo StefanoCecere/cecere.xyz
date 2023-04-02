@@ -1,21 +1,22 @@
 ---
 draft: true
 categories: [blog]
-date: 2007-09-13T09:20:49Z
-guid: http://stefanocecere.com/2007/09/13/2-ottobre-volantino-buon-compleanno-gandhi/
+date: 2007-09-13
+guid: http://cecere.xyz/2007/09/13/2-ottobre-volantino-buon-compleanno-gandhi/
 id: 571
 tags:
 - arte
 - Gandhi
 - nonviolenza
 - spirito
-- Terra 2.0
+- Terra2
 - umanista
-title: '2 ottobre: volantino buon compleanno Gandhi!'
+title: '2 ottobre
 slug: /2007/09/2-ottobre-volantino-buon-compleanno-gandhi/
+updated: 2022-03-22
 ---
 
-![2-ottobre-buon-compleanno-gandhi.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2007/09/2-ottobre-buon-compleanno-gandhi.jpg)
+![2-ottobre-buon-compleanno-gandhi.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2007/09/2-ottobre-buon-compleanno-gandhi.jpg)
 
 stasera alla festa dell'Unità a Milano, durante il concerto dei Mercanti di Liquore, distribuiremo questi volantini.
   

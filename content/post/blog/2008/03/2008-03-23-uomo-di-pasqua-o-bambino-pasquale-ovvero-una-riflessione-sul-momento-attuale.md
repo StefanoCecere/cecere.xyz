@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-03-23T09:10:10Z
-guid: http://stefanocecere.com/2008/03/23/uomo-di-pasqua-o-bambino-pasquale-ovvero-una-riflessione-sul-momento-attuale/
+guid: http://cecere.xyz/2008/03/23/uomo-di-pasqua-o-bambino-pasquale-ovvero-una-riflessione-sul-momento-attuale/
 id: 766
 tags:
 - pasqua
@@ -11,7 +11,7 @@ title: Uomo di Pasqua o Bambino Pasquale? (ovvero una riflessione sul momento at
 slug: /2008/03/uomo-di-pasqua-o-bambino-pasquale-ovvero-una-riflessione-sul-momento-attuale/
 ---
 
-![bambino_uomo.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/bambino_uomo.jpg)
+![bambino_uomo.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/03/bambino_uomo.jpg)
 
 oggi è domenica di Pasqua.
   

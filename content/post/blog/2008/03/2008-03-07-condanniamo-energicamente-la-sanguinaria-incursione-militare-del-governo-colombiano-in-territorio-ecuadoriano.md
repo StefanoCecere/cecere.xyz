@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-03-07T09:38:28Z
-guid: http://stefanocecere.com/2008/03/07/condanniamo-energicamente-la-sanguinaria-incursione-militare-del-governo-colombiano-in-territorio-ecuadoriano/
+guid: http://cecere.xyz/2008/03/07/condanniamo-energicamente-la-sanguinaria-incursione-militare-del-governo-colombiano-in-territorio-ecuadoriano/
 id: 724
 tags:
 - america latina
@@ -18,7 +18,7 @@ title: Condanniamo energicamente la sanguinaria incursione militare del Governo 
 slug: /2008/03/condanniamo-energicamente-la-sanguinaria-incursione-militare-del-governo-colombiano-in-territorio-ecuadoriano/
 ---
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/180px-tomas_hirsch.jpg' alt='180px-tomas_hirsch.jpg' align="left" />Ai popoli e ai Governi dell’America Latina
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/03/180px-tomas_hirsch.jpg' alt='180px-tomas_hirsch.jpg' align="left" />Ai popoli e ai Governi dell’America Latina
 
 Condanniamo energicamente la sanguinaria incursione militare del Governo Colombiano in territorio Ecuadoriano.
 

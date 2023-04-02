@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-10-30T01:14:17Z
-guid: http://stefanocecere.com/2006/10/30/abbracci-gratis-free-hugs-a-roma/
+guid: http://cecere.xyz/2006/10/30/abbracci-gratis-free-hugs-a-roma/
 id: 454
 tags:
 - Events

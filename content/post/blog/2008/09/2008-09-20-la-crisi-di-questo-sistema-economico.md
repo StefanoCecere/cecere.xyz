@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-09-20T01:32:35Z
-guid: http://stefanocecere.com/?p=558
+guid: http://cecere.xyz/?p=558
 id: 558
 tags:
 - articolo

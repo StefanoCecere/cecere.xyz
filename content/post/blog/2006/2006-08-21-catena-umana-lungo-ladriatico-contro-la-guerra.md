@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2006-08-21T18:16:37Z
-guid: http://stefanocecere.com/2006/08/21/catena-umana-lungo-ladriatico-contro-la-guerra/
+guid: http://cecere.xyz/2006/08/21/catena-umana-lungo-ladriatico-contro-la-guerra/
 id: 391
 tags:
 - campeggio
@@ -14,7 +14,7 @@ title: Catena umana lungo l&#039;Adriatico contro la guerra
 slug: /2006/08/catena-umana-lungo-ladriatico-contro-la-guerra/
 ---
 
-<img align="left" title="Catena Umana per la pace" id="image390" alt="Catena Umana per la pace" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/catena_di_pace.jpg" />Torno oggi dopo una bella vacanza!
+<img align="left" title="Catena Umana per la pace" id="image390" alt="Catena Umana per la pace" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/08/catena_di_pace.jpg" />Torno oggi dopo una bella vacanza!
   
 Ho così tanto da raccontare e mostrare che mi sono preparato uno schemino per i prossimi 10 articoli…
 

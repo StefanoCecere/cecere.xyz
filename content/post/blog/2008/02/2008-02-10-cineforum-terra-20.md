@@ -1,16 +1,17 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-02-10T12:38:05Z
-guid: http://stefanocecere.com/2008/02/10/cineforum-terra-20/
+date: 2008-02-10
+guid: http://cecere.xyz/2008/02/10/cineforum-terra-20/
 id: 681
 tags:
 - cineforum
 - ricreazione
-- Terra 2.0
+- Terra2
 - video
 title: Cineforum Terra 1.0
 slug: /2008/02/cineforum-terra-20/
+updated: 2022-03-22
 ---
 
 a marzo partirà il cineforum Terra 1.0: delle serate con proiezione film e dibattito su questioni "grosse", di cui normalmente si sa davvero poco…

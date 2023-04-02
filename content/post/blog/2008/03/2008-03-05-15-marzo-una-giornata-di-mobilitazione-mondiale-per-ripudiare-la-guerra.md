@@ -1,8 +1,8 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-03-05T12:21:09Z
-guid: http://stefanocecere.com/2008/03/05/15-marzo-una-giornata-di-mobilitazione-mondiale-per-ripudiare-la-guerra/
+date: 2008-03-05
+guid: http://cecere.xyz/2008/03/05/15-marzo-una-giornata-di-mobilitazione-mondiale-per-ripudiare-la-guerra/
 id: 721
 tags:
 - disarmo nucleare
@@ -11,11 +11,12 @@ tags:
 - Milano
 - nonviolenza
 - pace
-- Terra 2.0
+- Terra2
 - umanista
 - video
-title: '15 marzo: Una giornata di mobilitazione mondiale per ripudiare la guerra'
+title: '15 marzo
 slug: /2008/03/15-marzo-una-giornata-di-mobilitazione-mondiale-per-ripudiare-la-guerra/
+updated: 2022-03-22
 ---
 
 Per quanti aspirano a costruire un mondo senza guerre e senza violenza, lontano dalle logiche neoliberiste incentrate sullo sfruttamento dei territori e delle persone, sulla guerra preventiva come difesa dei propri interessi economici ogni giorno è quello giusto per battersi contro questo sistema.
@@ -30,4 +31,4 @@ L‘iniziativa si svolgerà in tre piazze italiane: a **Roma** in Piazza campo d
   
 [www.europeforpeace.eu](http://www.europeforpeace.eu)
 
-![no-war-15-marzo1.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/no-war-15-marzo1.jpg)
+![no-war-15-marzo1.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/03/no-war-15-marzo1.jpg)

@@ -1,8 +1,8 @@
 ---
 draft: true
 categories: [blog]
-date: 2007-10-19T10:20:55Z
-guid: http://stefanocecere.com/2007/10/19/vado-a-praga/
+date: 2007-10-19
+guid: http://cecere.xyz/2007/10/19/vado-a-praga/
 id: 586
 tags:
 - Politica
@@ -10,10 +10,11 @@ tags:
 - ricreazione
 - scudo spaziale
 - spirito
-- Terra 2.0
+- Terra2
 - umanista
 title: vado a Praga!
 slug: /2007/10/vado-a-praga/
+updated: 2022-03-22
 ---
 
 sto partendo per Praga

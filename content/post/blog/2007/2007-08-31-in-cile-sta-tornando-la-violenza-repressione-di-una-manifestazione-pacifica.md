@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2007-08-31T10:17:15Z
-guid: http://stefanocecere.com/2007/08/31/in-cile-sta-tornando-la-violenza-repressione-di-una-manifestazione-pacifica/
+guid: http://cecere.xyz/2007/08/31/in-cile-sta-tornando-la-violenza-repressione-di-una-manifestazione-pacifica/
 id: 550
 tags:
 - Cile
@@ -12,7 +12,7 @@ title: 'In Cile sta tornando la violenza: repressione di una manifestazione paci
 slug: /2007/08/in-cile-sta-tornando-la-violenza-repressione-di-una-manifestazione-pacifica/
 ---
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2007/08/repressione_dimostrazione_cile.jpg' alt='repressione dimostrazione in cile' align="left" />forse a qualcuno i "modelli forti" (vedi Pinochet) fanno molta nostalgia…
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2007/08/repressione_dimostrazione_cile.jpg' alt='repressione dimostrazione in cile' align="left" />forse a qualcuno i "modelli forti" (vedi Pinochet) fanno molta nostalgia…
   
 in Cile dall'anno scorso c'è un Governo di centro-sinistra , la Concertation. e come un po' tutti questi centro-sinistri hanno qualche contraddizione di fondo, nel momento in cui hanno sacrificato una propria ideologia sociale in nome del pragmatismo (economico e di governo).
 

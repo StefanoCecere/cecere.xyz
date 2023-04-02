@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2006-02-17T00:47:28Z
-guid: http://stefanocecere.com/2006/02/17/piani-segreti-del-pentagono-per-controllare-internet/
+guid: http://cecere.xyz/2006/02/17/piani-segreti-del-pentagono-per-controllare-internet/
 id: 228
 tags:
 - internet

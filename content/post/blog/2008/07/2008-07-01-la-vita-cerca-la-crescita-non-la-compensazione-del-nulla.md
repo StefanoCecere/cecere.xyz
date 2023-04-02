@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-07-01T07:15:59Z
-guid: http://stefanocecere.com/?p=1067
+guid: http://cecere.xyz/?p=1067
 id: 1067
 tags:
 - Antonella

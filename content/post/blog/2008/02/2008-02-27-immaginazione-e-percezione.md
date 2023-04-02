@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-02-27T16:34:20Z
-guid: http://stefanocecere.com/2008/02/27/immaginazione-e-percezione/
+guid: http://cecere.xyz/2008/02/27/immaginazione-e-percezione/
 id: 699
 tags:
 - psicologia

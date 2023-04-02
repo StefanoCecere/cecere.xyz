@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-01-06T11:20:32Z
-guid: http://stefanocecere.com/2008/01/06/sulla-massoneria/
+guid: http://cecere.xyz/2008/01/06/sulla-massoneria/
 id: 631
 tags:
 - massoneria
@@ -10,7 +10,7 @@ title: sulla Massoneria
 slug: /2008/01/sulla-massoneria/
 ---
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/01/massoneria.thumbnail.gif' alt='massoneria.gif' align="left" />sto preparando le idee e le attività per il semestre, e quasi per caso ho trovato e letto i seguenti tre articoli sul tema della Massoneria in Italia e nel Mondo:
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/01/massoneria.thumbnail.gif' alt='massoneria.gif' align="left" />sto preparando le idee e le attività per il semestre, e quasi per caso ho trovato e letto i seguenti tre articoli sul tema della Massoneria in Italia e nel Mondo:
   
 [http://www.disinformazione.it/massoneria\_politica\_criminalita.htm](http://www.disinformazione.it/massoneria_politica_criminalita.htm)
   

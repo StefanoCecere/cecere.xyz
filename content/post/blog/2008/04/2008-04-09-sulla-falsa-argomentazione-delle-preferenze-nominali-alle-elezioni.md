@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-04-09T20:28:38Z
-guid: http://stefanocecere.com/2008/04/09/sulla-falsa-argomentazione-delle-preferenze-nominali-alle-elezioni/
+guid: http://cecere.xyz/2008/04/09/sulla-falsa-argomentazione-delle-preferenze-nominali-alle-elezioni/
 id: 834
 tags:
 - elezioni

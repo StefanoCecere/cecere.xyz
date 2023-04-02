@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-03-25T10:12:56Z
-guid: http://stefanocecere.com/2008/03/25/video-lavori-parco-di-attigliano/
+guid: http://cecere.xyz/2008/03/25/video-lavori-parco-di-attigliano/
 id: 775
 tags:
 - Parco Attigliano

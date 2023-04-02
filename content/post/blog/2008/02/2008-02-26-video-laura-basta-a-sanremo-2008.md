@@ -1,17 +1,18 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-02-26T00:44:29Z
-guid: http://stefanocecere.com/2008/02/26/video-laura-basta-a-sanremo-2008/
+date: 2008-02-26
+guid: http://cecere.xyz/2008/02/26/video-laura-basta-a-sanremo-2008/
 id: 696
 tags:
 - arte
 - L'Aura
 - spirito
-- Terra 2.0
+- Terra2
 - umanista
 title: L&#039;Aura &quot;Basta!&quot; Video a Sanremo 2008 (e testo)
 slug: /2008/02/video-laura-basta-a-sanremo-2008/
+updated: 2022-03-22
 ---
 
 L'Aura apre il 58esimo Festival di San Remo con una bellissima canzone. "Basta!" mi piace perché suona come un coraggioso invito alla nonviolenza, alla lucidità mentale, ad una trasformazione profonda, umanista.

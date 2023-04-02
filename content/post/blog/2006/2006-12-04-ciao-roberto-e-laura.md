@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-12-04T10:50:16Z
-guid: http://stefanocecere.com/2006/12/04/ciao-roberto-e-laura/
+guid: http://cecere.xyz/2006/12/04/ciao-roberto-e-laura/
 id: 467
 title: ciao Roberto e Laura
 slug: /2006/12/ciao-roberto-e-laura/

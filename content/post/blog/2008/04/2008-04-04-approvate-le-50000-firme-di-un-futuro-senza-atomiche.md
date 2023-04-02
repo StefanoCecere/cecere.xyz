@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-04-04T11:58:51Z
-guid: http://stefanocecere.com/2008/04/04/approvate-le-50000-firme-di-un-futuro-senza-atomiche/
+guid: http://cecere.xyz/2008/04/04/approvate-le-50000-firme-di-un-futuro-senza-atomiche/
 id: 804
 tags:
 - comunicato
@@ -12,7 +12,7 @@ title: Approvate le 50.000 firme di un Futuro senza atomiche
 slug: /2008/04/approvate-le-50000-firme-di-un-futuro-senza-atomiche/
 ---
 
-![futuro_senza_atomiche.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/futuro_senza_atomiche.jpg)
+![futuro_senza_atomiche.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/04/futuro_senza_atomiche.jpg)
 
 Campagna "Un futuro senza atomiche"
   

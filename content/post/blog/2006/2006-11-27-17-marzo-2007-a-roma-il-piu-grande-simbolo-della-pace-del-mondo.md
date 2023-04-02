@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-11-27T04:05:44Z
-guid: http://stefanocecere.com/2006/11/27/17-marzo-2007-a-roma-il-piu-grande-simbolo-della-pace-del-mondo/
+guid: http://cecere.xyz/2006/11/27/17-marzo-2007-a-roma-il-piu-grande-simbolo-della-pace-del-mondo/
 id: 466
 tags:
 - Events
@@ -22,6 +22,6 @@ Il tema dell'evento lanciato dal Movimento Umanista: la Campagna Mondiale per il
 
 Presto news
   
-<img id="image465" alt="Simbolo della Pace" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/11/bekejelafp_lo.jpg" />
+<img id="image465" alt="Simbolo della Pace" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/11/bekejelafp_lo.jpg" />
   
 _Questo Simbolo della Pace è stato realizzato dagli Umanisti di Budapest nel 2006… erano "solo" 3.500…._

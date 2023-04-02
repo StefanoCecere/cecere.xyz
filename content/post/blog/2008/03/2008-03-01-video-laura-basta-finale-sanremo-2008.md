@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-03-01T23:10:10Z
-guid: http://stefanocecere.com/2008/03/01/video-laura-basta-finale-sanremo-2008/
+guid: http://cecere.xyz/2008/03/01/video-laura-basta-finale-sanremo-2008/
 id: 711
 tags:
 - music

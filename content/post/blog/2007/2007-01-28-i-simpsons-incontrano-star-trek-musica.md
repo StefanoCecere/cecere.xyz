@@ -3,7 +3,7 @@ draft: true
 categories:
 - Uncategorized
 date: 2007-01-28T20:26:43Z
-guid: http://stefanocecere.com/2007/01/28/i-simpsons-incontrano-star-trek-musica/
+guid: http://cecere.xyz/2007/01/28/i-simpsons-incontrano-star-trek-musica/
 id: 488
 tags:
 - arte

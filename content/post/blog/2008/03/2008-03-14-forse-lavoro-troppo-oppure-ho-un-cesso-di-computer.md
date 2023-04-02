@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-03-14T14:51:05Z
-guid: http://stefanocecere.com/2008/03/14/forse-lavoro-troppo-oppure-ho-un-cesso-di-computer/
+guid: http://cecere.xyz/2008/03/14/forse-lavoro-troppo-oppure-ho-un-cesso-di-computer/
 id: 746
 tags:
 - cesso
@@ -13,4 +13,4 @@ title: forse lavoro troppo… oppure ho un cesso di computer
 slug: /2008/03/forse-lavoro-troppo-oppure-ho-un-cesso-di-computer/
 ---
 
-![cesso_di_computer.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/cesso_di_computer.jpg)
+![cesso_di_computer.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/03/cesso_di_computer.jpg)

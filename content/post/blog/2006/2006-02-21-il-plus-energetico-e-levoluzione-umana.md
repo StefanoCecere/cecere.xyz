@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2006-02-21T02:43:31Z
-guid: http://stefanocecere.com/2006/02/21/il-plus-energetico-e-levoluzione-umana/
+guid: http://cecere.xyz/2006/02/21/il-plus-energetico-e-levoluzione-umana/
 id: 232
 tags:
 - psicologia

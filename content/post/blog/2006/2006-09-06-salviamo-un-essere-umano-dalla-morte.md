@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-09-06T19:27:13Z
-guid: http://stefanocecere.com/2006/09/06/salviamo-un-essere-umano-dalla-morte/
+guid: http://cecere.xyz/2006/09/06/salviamo-un-essere-umano-dalla-morte/
 id: 414
 tags:
 - vergogna!
@@ -15,7 +15,7 @@ rigiro questo appello urgententissimo:
 
 **Abbiamo 48 ore per fermare la sua “condanna a morte”.**
 
-<img width="207" height="155" align="left" title="amir04.jpg" id="image413" alt="amir04.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/09/amir04.jpg" />Questo è un appello per la liberazione di Amir, promosso dal Centro delle Culture.
+<img width="207" height="155" align="left" title="amir04.jpg" id="image413" alt="amir04.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/09/amir04.jpg" />Questo è un appello per la liberazione di Amir, promosso dal Centro delle Culture.
   
 Lunedì 4 settembre Amir K. cittadino pakistano residente da oltre 2 anni ad Arezzo, é stato fermato per accertamenti e dopo una giornata di interrogatori, è stato portato nel Centro di Permanenza Temporanea di via Corelli a Milano con un decreto di espulsione.
   

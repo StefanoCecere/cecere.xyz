@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-03-12T13:23:44Z
-guid: http://stefanocecere.com/2008/03/12/ci-troviamo-in-un-momento-difficile/
+guid: http://cecere.xyz/2008/03/12/ci-troviamo-in-un-momento-difficile/
 id: 731
 title: Ci troviamo in un momento difficile…
 slug: /2008/03/ci-troviamo-in-un-momento-difficile/

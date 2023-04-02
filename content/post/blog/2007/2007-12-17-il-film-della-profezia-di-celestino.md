@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2007-12-17T22:01:58Z
-guid: http://stefanocecere.com/2007/12/17/il-film-della-profezia-di-celestino/
+guid: http://cecere.xyz/2007/12/17/il-film-della-profezia-di-celestino/
 id: 623
 tags:
 - celestino
@@ -13,7 +13,7 @@ title: il film della Profezia di Celestino
 slug: /2007/12/il-film-della-profezia-di-celestino/
 ---
 
-[<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/12/profezia-di-celestino-film.thumbnail.jpg" alt="profezia-di-celestino-film.jpg" align="left" />](http://stefanocecere.com/wp-content/uploads/sites/3/2007/12/profezia-di-celestino-film.jpg "profezia-di-celestino-film.jpg")
+[<img src="http://cecere.xyz/wp-content/uploads/sites/3/2007/12/profezia-di-celestino-film.thumbnail.jpg" alt="profezia-di-celestino-film.jpg" align="left" />](http://cecere.xyz/wp-content/uploads/sites/3/2007/12/profezia-di-celestino-film.jpg "profezia-di-celestino-film.jpg")
 
 10 anni fa il libro mi aveva particolarmente colpito…
 

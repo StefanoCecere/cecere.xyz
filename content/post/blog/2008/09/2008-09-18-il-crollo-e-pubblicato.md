@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-09-18T13:34:29Z
-guid: http://stefanocecere.com/?p=1163
+guid: http://cecere.xyz/?p=1163
 id: 1163
 tags:
 - crisi

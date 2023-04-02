@@ -1,20 +1,21 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-05-11T21:52:34Z
-guid: http://stefanocecere.com/2008/05/11/giovedi-cineforum-monza-train-de-vie/
+date: 2008-05-11
+guid: http://cecere.xyz/2008/05/11/giovedi-cineforum-monza-train-de-vie/
 id: 918
 tags:
 - arte
 - cineforum
 - Monza
 - ricreazione
-- Terra 2.0
-title: 'Giovedì cineforumanista Monza: &quot;Train de Vie&quot;'
+- Terra2
+title: 'Giovedì cineforumanista Monza
 slug: /2008/05/giovedi-cineforum-monza-train-de-vie/
+updated: 2022-03-22
 ---
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/train_de_vie.jpg' alt='train_de_vie.jpg' align="left" />Giovedì 15 maggio ricomincia il Cineforumanista a Monza, con la fase 2: "Vedo, Sento, Penso, Rido"
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/05/train_de_vie.jpg' alt='train_de_vie.jpg' align="left" />Giovedì 15 maggio ricomincia il Cineforumanista a Monza, con la fase 2: "Vedo, Sento, Penso, Rido"
 
 Sei film per continuare l'esplorazione dell'essere umani e del mondo che vogliamo vivere.
 

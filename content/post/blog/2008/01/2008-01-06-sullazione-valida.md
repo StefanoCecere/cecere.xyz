@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-01-06T11:32:06Z
-guid: http://stefanocecere.com/2008/01/06/sullazione-valida/
+guid: http://cecere.xyz/2008/01/06/sullazione-valida/
 id: 633
 tags:
 - spirito
@@ -25,7 +25,7 @@ sono sicuro di aver già parlato del tema dell'azione valida tempo fa.
   
 ma qui lo ripropongo e invito alla lettura di questo breve ma illuminante scritto di Silo a riguardo:
 
-[azione-valida.rtf](http://stefanocecere.com/wp-content/uploads/2008/01/azione-valida.rtf "azione-valida.rtf")
+[azione-valida.rtf](http://cecere.xyz/wp-content/uploads/2008/01/azione-valida.rtf "azione-valida.rtf")
 
 ed ecco poi i 12 Principi dell'Azione Valida.. su cui forse imposto tutte le prossime attività del semestre:
 

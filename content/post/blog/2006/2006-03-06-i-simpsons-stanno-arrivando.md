@@ -3,7 +3,7 @@ draft: true
 categories:
 - Uncategorized
 date: 2006-03-06T11:23:41Z
-guid: http://stefanocecere.com/2006/03/06/i-simpsons-stanno-arrivando/
+guid: http://cecere.xyz/2006/03/06/i-simpsons-stanno-arrivando/
 id: 240
 tags:
 - ricreazione

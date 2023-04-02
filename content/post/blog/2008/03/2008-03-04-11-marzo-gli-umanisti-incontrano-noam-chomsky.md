@@ -1,16 +1,17 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-03-04T02:07:05Z
-guid: http://stefanocecere.com/2008/03/04/11-marzo-gli-umanisti-incontrano-noam-chomsky/
+date: 2008-03-04
+guid: http://cecere.xyz/2008/03/04/11-marzo-gli-umanisti-incontrano-noam-chomsky/
 id: 714
 tags:
 - Noam Chomsky
-- Terra 2.0
+- Terra2
 - umanista
 - USA
-title: '11 Marzo: gli umanisti incontrano Noam Chomsky'
+title: '11 Marzo
 slug: /2008/03/11-marzo-gli-umanisti-incontrano-noam-chomsky/
+updated: 2022-03-22
 ---
 
 l'11 marzo una delegazione del Movimento Umanista di [www.europeforpeace.eu](http://www.europeforpeace.eu) incontrerà e intervisterà Noam Chomsky (uno dei più grandi e riconosciuti intellettuali contemporanei statunitensi)

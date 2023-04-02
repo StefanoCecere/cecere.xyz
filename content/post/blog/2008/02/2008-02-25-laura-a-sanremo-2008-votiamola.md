@@ -1,17 +1,18 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-02-25T02:24:37Z
-guid: http://stefanocecere.com/2008/02/25/laura-a-sanremo-2008-votiamola/
+date: 2008-02-25
+guid: http://cecere.xyz/2008/02/25/laura-a-sanremo-2008-votiamola/
 id: 694
 tags:
 - arte
 - L'Aura
 - nonviolenza
 - Sanremo
-- Terra 2.0
+- Terra2
 title: L&#039;Aura a Sanremo 2008.. &quot;Basta!&quot; con la violenza… votiamola!
 slug: /2008/02/laura-a-sanremo-2008-votiamola/
+updated: 2022-03-22
 ---
 
 L'aura partecipa al Festival di SanRemo (tra i big) con una canzone veramente bella, che tratta di un tema a me molto caro : **basta!** alla violenza e un invito alla strada della nonviolenza attiva e all'uso della propria testa. la definirei una canzone umanista.

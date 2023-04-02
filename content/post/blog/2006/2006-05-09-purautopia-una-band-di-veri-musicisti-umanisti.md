@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-05-09T23:28:28Z
-guid: http://stefanocecere.com/2006/05/09/purautopia-una-band-di-veri-musicisti-umanisti/
+guid: http://cecere.xyz/2006/05/09/purautopia-una-band-di-veri-musicisti-umanisti/
 id: 268
 tags:
 - arte

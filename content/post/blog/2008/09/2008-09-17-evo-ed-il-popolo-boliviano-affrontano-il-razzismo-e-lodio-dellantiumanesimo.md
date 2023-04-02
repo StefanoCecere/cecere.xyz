@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-09-17T22:28:04Z
-guid: http://stefanocecere.com/?p=1165
+guid: http://cecere.xyz/?p=1165
 id: 1165
 tags:
 - Costituzione

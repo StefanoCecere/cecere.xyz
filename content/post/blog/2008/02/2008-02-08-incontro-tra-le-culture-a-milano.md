@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-02-08T20:18:38Z
-guid: http://stefanocecere.com/2008/02/08/incontro-tra-le-culture-a-milano/
+guid: http://cecere.xyz/2008/02/08/incontro-tra-le-culture-a-milano/
 id: 679
 tags:
 - Forum

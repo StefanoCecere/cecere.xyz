@@ -1,20 +1,21 @@
 ---
 draft: true
 categories: [blog]
-date: 2006-08-30T23:49:02Z
-guid: http://stefanocecere.com/2006/08/30/e-uscito-il-fannullone-n11/
+date: 2006-08-31
+guid: http://cecere.xyz/2006/08/30/e-uscito-il-fannullone-n11/
 id: 410
 tags:
 - arte
-- Il Fannullone
+- IlFannullone
 - ricreazione
 - spirito
 - umanista
 title: E&#039; uscito il Fannullone n.11!
 slug: /2006/08/e-uscito-il-fannullone-n11/
+updated: 2022-03-22
 ---
 
-<a target="_blank" href="http://www.ilfannullone.it"><img alt="ilfannullone_11_cover.jpg" id="image409" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/08/ilfannullone_11_cover.jpg" /></a>
+<a target="_blank" href="http://www.ilfannullone.it"><img alt="ilfannullone_11_cover.jpg" id="image409" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/08/ilfannullone_11_cover.jpg" /></a>
 
 è una delle mie passioni preferite.. ci abbiamo messo il cuore (e il cervello e anche qualche muscolo) per farlo.
 

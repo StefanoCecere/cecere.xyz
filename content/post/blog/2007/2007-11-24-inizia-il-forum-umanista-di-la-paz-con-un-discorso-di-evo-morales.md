@@ -1,18 +1,19 @@
 ---
 draft: true
 categories: [blog]
-date: 2007-11-24T17:28:55Z
-guid: http://stefanocecere.com/2007/11/24/inizia-il-forum-umanista-di-la-paz-con-un-discorso-di-evo-morales/
+date: 2007-11-24
+guid: http://cecere.xyz/2007/11/24/inizia-il-forum-umanista-di-la-paz-con-un-discorso-di-evo-morales/
 id: 610
 tags:
 - Bolivia
 - Evo Morales
 - Forum
 - Politica
-- Terra 2.0
+- Terra2
 - umanista
 title: Inizia il Forum Umanista di La Paz con un discorso di Evo Morales
 slug: /2007/11/inizia-il-forum-umanista-di-la-paz-con-un-discorso-di-evo-morales/
+updated: 2022-03-22
 ---
 
 amici.. mentre continuo a pubblicare quotidianamente le foto di questo viaggio ( [vedi qui](http://www.flickr.com/photos/krur/sets/72157603263351960/) ), scrivo qualche commento sulla giornata di ieri, apertura del Forum Umanista Latino americano a La Paz:

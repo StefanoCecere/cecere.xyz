@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-04-18T11:42:44Z
-guid: http://stefanocecere.com/2008/04/18/dare-a-chi-da/
+guid: http://cecere.xyz/2008/04/18/dare-a-chi-da/
 id: 883
 tags:
 - idee

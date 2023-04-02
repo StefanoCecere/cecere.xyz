@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-02-26T23:20:38Z
-guid: http://stefanocecere.com/2008/02/26/laura-vince-il-festival-di-sanremo-2008/
+guid: http://cecere.xyz/2008/02/26/laura-vince-il-festival-di-sanremo-2008/
 id: 698
 tags:
 - L'Aura

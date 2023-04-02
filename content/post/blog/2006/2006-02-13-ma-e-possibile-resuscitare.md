@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-02-13T13:19:49Z
-guid: http://stefanocecere.com/2006/02/13/ma-e-possibile-resuscitare/
+guid: http://cecere.xyz/2006/02/13/ma-e-possibile-resuscitare/
 id: 226
 tags:
 - morte

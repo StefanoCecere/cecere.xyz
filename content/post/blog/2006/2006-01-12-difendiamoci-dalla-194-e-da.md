@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-01-12T10:23:12Z
-guid: http://stefanocecere.com/2006/01/12/difendiamoci-dalla-194-e-da/
+guid: http://cecere.xyz/2006/01/12/difendiamoci-dalla-194-e-da/
 id: 209
 tags:
 - aborto

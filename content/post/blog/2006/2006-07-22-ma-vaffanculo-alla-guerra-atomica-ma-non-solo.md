@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-07-22T04:21:14Z
-guid: http://stefanocecere.com/2006/07/22/ma-vaffanculo-alla-guerra-atomica-ma-non-solo/
+guid: http://cecere.xyz/2006/07/22/ma-vaffanculo-alla-guerra-atomica-ma-non-solo/
 id: 387
 tags:
 - disarmo nucleare
@@ -10,7 +10,7 @@ title: Ma vaffanculo (alla guerra atomica ma non solo)
 slug: /2006/07/ma-vaffanculo-alla-guerra-atomica-ma-non-solo/
 ---
 
-<img alt="Vaffanculo guerra atomica ma non solo" id="image386" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/07/vaffanculo_guerra_atomica_dito.jpg" />
+<img alt="Vaffanculo guerra atomica ma non solo" id="image386" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/07/vaffanculo_guerra_atomica_dito.jpg" />
 
 Ieri (venerdì 21 luglio) è stata per me la giornata del VAFFANCULO!
   

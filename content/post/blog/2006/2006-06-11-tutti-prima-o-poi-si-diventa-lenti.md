@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-06-11T18:38:27Z
-guid: http://stefanocecere.com/2006/06/11/tutti-prima-o-poi-si-diventa-lenti/
+guid: http://cecere.xyz/2006/06/11/tutti-prima-o-poi-si-diventa-lenti/
 id: 327
 tags:
 - arte

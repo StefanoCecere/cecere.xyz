@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2007-05-15T08:45:47Z
-guid: http://stefanocecere.com/2007/05/15/mi-sono-candidato-alle-prossime-elezioni-a-monza-e-mercoledi/
+guid: http://cecere.xyz/2007/05/15/mi-sono-candidato-alle-prossime-elezioni-a-monza-e-mercoledi/
 id: 503
 tags:
 - elezioni
@@ -16,7 +16,7 @@ saprai che per la prima volta nella mia vita mi sono candidato ad elezioni polit
   
 "DAVVERO!? TU? MA NON E' POSSIBILE… CON CHI!?!?" ti starai chiedendo…
 
-<img src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/05/small_logo_pu.jpg" title="Logo Partito Umanista" alt="Logo Partito Umanista" align="left" />ovviamente con l'unico partito che ha da sempre suscitato la mia profonda simpatia: il Partito Umanista.
+<img src="http://cecere.xyz/wp-content/uploads/sites/3/2007/05/small_logo_pu.jpg" title="Logo Partito Umanista" alt="Logo Partito Umanista" align="left" />ovviamente con l'unico partito che ha da sempre suscitato la mia profonda simpatia: il Partito Umanista.
   
 e ovviamente (per chi mi conosce) essenzialmente lontano dagli attuali centro-destra e centro-sinistra.
 

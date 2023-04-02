@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-09-21T12:22:36Z
-guid: http://stefanocecere.com/?p=1184
+guid: http://cecere.xyz/?p=1184
 id: 1184
 tags:
 - crisi
@@ -20,7 +20,7 @@ title: IMPLOSIONE NELL&#039;IMPERO
 slug: /2008/09/implosione-nellimpero/
 ---
 
-[<img class="aligncenter size-full wp-image-1241" title="dollaro-300x221" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/dollaro-300x221.jpg" alt="" width="300" height="221" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/dollaro-300x221.jpg)
+[<img class="aligncenter size-full wp-image-1241" title="dollaro-300x221" src="http://cecere.xyz/wp-content/uploads/sites/3/2008/09/dollaro-300x221.jpg" alt="" width="300" height="221" />](http://cecere.xyz/wp-content/uploads/sites/3/2008/09/dollaro-300x221.jpg)
 
 riporto un interessante articolo di Guillermo Sullings, economista latino-americano e portavoce del nuovo umanesimo per l'Argentina, che può dare diversi spunti di comprensione e approfondimento della situazione attuale.
 

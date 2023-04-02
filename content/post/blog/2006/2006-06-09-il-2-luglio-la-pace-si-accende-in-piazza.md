@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-06-09T02:42:08Z
-guid: http://stefanocecere.com/2006/06/09/il-2-luglio-la-pace-si-accende-in-piazza/
+guid: http://cecere.xyz/2006/06/09/il-2-luglio-la-pace-si-accende-in-piazza/
 id: 325
 tags:
 - Events
@@ -15,7 +15,7 @@ slug: /2006/06/il-2-luglio-la-pace-si-accende-in-piazza/
 ---
 
 <div style="text-align: center">
-  <img alt="simbolo della pace in piazza" id="image326" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/evento_simbolo_della_pace.jpg" />
+  <img alt="simbolo della pace in piazza" id="image326" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/06/evento_simbolo_della_pace.jpg" />
 </div>
 
 non credere che se hanno dichiarato il ritiro delle truppe dall'Iraq tutto sia finito il mondo è salvo.
@@ -30,7 +30,7 @@ speriamo di vederti lì. anzi: sono necessarie una dozzina di persone che aiutin
 
 gli amici ungheresi sono già tre anni che fanno una cosa simile nella piazza degli eroi di Budapest..
   
-guarda qui: [http://stefanocecere.com/2006/03/31/simbolo-della-pace-umano-a-budapest/ ](http://stefanocecere.com/2006/03/31/simbolo-della-pace-umano-a-budapest/)
+guarda qui: [http://cecere.xyz/2006/03/31/simbolo-della-pace-umano-a-budapest/ ](http://cecere.xyz/2006/03/31/simbolo-della-pace-umano-a-budapest/)
   
 ah: l'evento è a Monza (mia città natale!)
   

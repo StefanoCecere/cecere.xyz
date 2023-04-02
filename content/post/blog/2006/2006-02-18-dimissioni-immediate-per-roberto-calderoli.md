@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2006-02-18T01:56:44Z
-guid: http://stefanocecere.com/2006/02/18/dimissioni-immediate-per-roberto-calderoli/
+guid: http://cecere.xyz/2006/02/18/dimissioni-immediate-per-roberto-calderoli/
 id: 230
 tags:
 - umanista

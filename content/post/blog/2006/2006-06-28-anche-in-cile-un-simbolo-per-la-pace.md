@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-06-28T10:56:00Z
-guid: http://stefanocecere.com/2006/06/28/anche-in-cile-un-simbolo-per-la-pace/
+guid: http://cecere.xyz/2006/06/28/anche-in-cile-un-simbolo-per-la-pace/
 id: 359
 tags:
 - arte
@@ -15,14 +15,14 @@ slug: /2006/06/anche-in-cile-un-simbolo-per-la-pace/
 saprete che domenica sera si sta organizzando questo nostro simbolo della pace in centro Monza.. dopo i numerosi realizzati dagli amici di Budapest e anche questo bellissimo in Cile!
 
 <div style="text-align: center">
-  <img id="image357" alt="23jun06.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/23jun06.jpg" />
+  <img id="image357" alt="23jun06.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/06/23jun06.jpg" />
 </div>
 
 si sta mettendo in moto qualcosa nel mondo..
 
 allego qui il **Discorso di Tomás Hirsch al Simbolo della Pace svolto a Santiago del Cile, 23 giugno 2006:**
 
-<img align="left" title="tomashirsch.jpeg" id="image358" alt="tomashirsch.jpeg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/tomashirsch.jpeg" />Quasi quarant’anni fa il mondo interno si commosse per il grido di pace che risuonò in tutti gli angoli del pianeta.
+<img align="left" title="tomashirsch.jpeg" id="image358" alt="tomashirsch.jpeg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/06/tomashirsch.jpeg" />Quasi quarant’anni fa il mondo interno si commosse per il grido di pace che risuonò in tutti gli angoli del pianeta.
   
 Oggi riprendiamo questo simbolo, che tradusse una grande speranza e un sogno condiviso dai giovani di tutto il mondo.
   

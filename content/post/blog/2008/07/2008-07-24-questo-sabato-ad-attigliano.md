@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-07-24T16:19:12Z
-guid: http://stefanocecere.com/?p=1106
+guid: http://cecere.xyz/?p=1106
 id: 1106
 tags:
 - Parco Attigliano

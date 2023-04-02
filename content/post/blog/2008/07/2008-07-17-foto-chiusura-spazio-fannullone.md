@@ -1,15 +1,16 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-07-17T05:15:37Z
-guid: http://stefanocecere.com/?p=1098
+date: 2008-07-17
+guid: http://cecere.xyz/?p=1098
 id: 1098
 tags:
-- Il Fannullone
+- IlFannullone
 - Monza
 - Movimento
 title: foto chiusura Spazio Fannullone
 slug: /2008/07/foto-chiusura-spazio-fannullone/
+updated: 2022-03-22
 ---
 
 serata magnifica. grazie a tutti! soprattutto chi è venuto o ha mandato un messaggio di saluto! un abbraccio

@@ -1,8 +1,8 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-03-07T19:19:30Z
-guid: http://stefanocecere.com/2008/03/07/z-day-zeitgeist-ed-invito-al-cineforum/
+date: 2008-03-07
+guid: http://cecere.xyz/2008/03/07/z-day-zeitgeist-ed-invito-al-cineforum/
 id: 726
 tags:
 - cineforum
@@ -10,11 +10,12 @@ tags:
 - film
 - Monza
 - ricreazione
-- Terra 2.0
+- Terra2
 - umanista
 - zeitgeist
 title: Z-day - Zeitgeist ed Invito al Cineforum
 slug: /2008/03/z-day-zeitgeist-ed-invito-al-cineforum/
+updated: 2022-03-22
 ---
 
 sabato 15 marzo, ore 21:00

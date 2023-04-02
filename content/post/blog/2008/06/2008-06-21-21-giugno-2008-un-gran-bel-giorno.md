@@ -1,8 +1,8 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-06-21T14:19:10Z
-guid: http://stefanocecere.com/2008/06/21/21-giugno-2008-un-gran-bel-giorno/
+date: 2008-06-21
+guid: http://cecere.xyz/2008/06/21/21-giugno-2008-un-gran-bel-giorno/
 id: 1055
 tags:
 - auguri
@@ -10,10 +10,11 @@ tags:
 - compleanno
 - guerra
 - Iran
-- situazione attuale
-- stefano cecere
-title: '21 giugno 2008: un gran bel giorno'
+- attualità
+- stefano
+title: '21 giugno 2008
 slug: /2008/06/21-giugno-2008-un-gran-bel-giorno/
+updated: 2022-03-22
 ---
 
 oggi sono esattamente 35 giri intorno al sole!

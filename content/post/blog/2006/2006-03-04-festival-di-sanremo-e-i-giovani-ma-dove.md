@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-03-04T01:58:04Z
-guid: http://stefanocecere.com/2006/03/04/festival-di-sanremo-e-i-giovani-ma-dove/
+guid: http://cecere.xyz/2006/03/04/festival-di-sanremo-e-i-giovani-ma-dove/
 id: 239
 tags:
 - ricreazione

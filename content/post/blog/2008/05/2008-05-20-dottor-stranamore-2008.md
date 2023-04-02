@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-05-20T15:39:51Z
-guid: http://stefanocecere.com/2008/05/20/dottor-stranamore-2008/
+guid: http://cecere.xyz/2008/05/20/dottor-stranamore-2008/
 id: 947
 tags:
 - azioni
@@ -23,7 +23,7 @@ _centinaia di luoghi ceduti segretamente agli Stati Uniti per nuovi insediamenti
   
 _ 
 
-cari amici [<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/basi_nato_in_italia.thumbnail.jpg' alt='basi_nato_in_italia.jpg' align="right" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/basi_nato_in_italia.jpg "basi_nato_in_italia.jpg")
+cari amici [<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/05/basi_nato_in_italia.thumbnail.jpg' alt='basi_nato_in_italia.jpg' align="right" />](http://cecere.xyz/wp-content/uploads/sites/3/2008/05/basi_nato_in_italia.jpg "basi_nato_in_italia.jpg")
   
 colgo un attimo di relax per dirvi che **sono molto preoccupato**.
   
@@ -31,17 +31,17 @@ negli ultimi anni sono stati firmati diversi (molte dozzine) accordi per ri-mili
 
 se non fosse che in Repubblica Ceca se ne sono accorti bene, iniziando quella campagna che oggi sta muovendo centinaia di attivisti in tutta europa, sul tema del riarmo nucleare e della costruzione di tutta quel sistema "stellare" (satelliti e radar) che servirà al **futuro (imminente) scenario di guerra mondiale**.
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/dottor_stranamore.jpg' alt='dottor_stranamore.jpg' align="left" width="120" height="80" />direte: e **cosa c'è da preoccuparsi?** sono solo illazioni… un'esagerazione.. e poi ci dobbiamo difendere! quelli là stanno costruendo bombe atomiche segrete!
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/05/dottor_stranamore.jpg' alt='dottor_stranamore.jpg' align="left" width="120" height="80" />direte: e **cosa c'è da preoccuparsi?** sono solo illazioni… un'esagerazione.. e poi ci dobbiamo difendere! quelli là stanno costruendo bombe atomiche segrete!
   
 e poi **è nella natura dell'uomo il prepararsi alla guerra!**
 
 non prendeteci per anti americani (anzi molti statunitensi, **Noam Chomsky** in primis) sono al nostro fianco.. ma dietro a tutto questo progetto ci sono le intenzioni degli USA di portare il prossimo conflitto sul territorio europeo.
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/georgescott.jpg' alt='georgescott.jpg' align="right" width="120" height="80" />**Oggi gli Stati Uniti se la stanno passando davvero male..** stanno vivendo delle crisi enormi che non riescono a contenere.. finanziarie, immobiliari.. ora il prezzo del petrolio e presto quella dell'alimentazione.
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/05/georgescott.jpg' alt='georgescott.jpg' align="right" width="120" height="80" />**Oggi gli Stati Uniti se la stanno passando davvero male..** stanno vivendo delle crisi enormi che non riescono a contenere.. finanziarie, immobiliari.. ora il prezzo del petrolio e presto quella dell'alimentazione.
   
 è possibile che entro un anno la situazione degeneri. già oggi sembra stiano in uno stato peggiore di quello del **1929**.
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/dottore_stranamore_bomba.jpg' alt='dottore_stranamore_bomba.jpg' align="left" width="120" height="80" />E ormai dovreste saperlo: cosa fa una super potenza militare quando ha casini internamente?
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/05/dottore_stranamore_bomba.jpg' alt='dottore_stranamore_bomba.jpg' align="left" width="120" height="80" />E ormai dovreste saperlo: cosa fa una super potenza militare quando ha casini internamente?
   
 porta il casino fuori (il più possibile lontano dai propri cari) possibilmente usando i propri "investimenti" maggiori.. ovvero l'arsenale di guerra che sta distribuendo nel globo.
 
@@ -51,13 +51,13 @@ Noi umanisti siamo molto. **estremamente** preoccupati.
   
 Per fortuna non siamo i soli, ma sempre troppi pochi ad attivarsi.
 
-![no_radar.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/no_radar.jpg)
+![no_radar.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/05/no_radar.jpg)
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/dino.jpg' alt='dino.jpg' align="left" />da diversi giorni dozzine di persone stanno facendo scioperi della fame in tutta europa.
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/05/dino.jpg' alt='dino.jpg' align="left" />da diversi giorni dozzine di persone stanno facendo scioperi della fame in tutta europa.
   
 molti dei nostri erano preoccupati in tale scelta.. perchè dicevano "**vi lasceranno morire di fame! non gliene frega niente!**" (approfondisci: [www.nenasili.cz](http://www.nenasili.cz/it/) )
 
-Allego qui un bollettino con maggiori informazioni sulle attività in Europa: [bollettino\_europeforpeace\_1.pdf](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/bollettino_europeforpeace_1.pdf "bollettino_europeforpeace_1.pdf")
+Allego qui un bollettino con maggiori informazioni sulle attività in Europa: [bollettino\_europeforpeace\_1.pdf](http://cecere.xyz/wp-content/uploads/sites/3/2008/05/bollettino_europeforpeace_1.pdf "bollettino_europeforpeace_1.pdf")
 
 ma il punto ora è invitarvi a (ri)**vedere il film "Dottor Stranamore", di Stanley Kubrick**, del 1963 magistralmente interpretato da **Peter Sellers**.
 
@@ -89,7 +89,7 @@ per maggiori informazioni sulla Campagna in atto e sul riarmo nucleare in Europa
   
 _ 
 
-cari amici [<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/basi_nato_in_italia.thumbnail.jpg' alt='basi_nato_in_italia.jpg' align="right" />](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/basi_nato_in_italia.jpg "basi_nato_in_italia.jpg")
+cari amici [<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/05/basi_nato_in_italia.thumbnail.jpg' alt='basi_nato_in_italia.jpg' align="right" />](http://cecere.xyz/wp-content/uploads/sites/3/2008/05/basi_nato_in_italia.jpg "basi_nato_in_italia.jpg")
   
 colgo un attimo di relax per dirvi che **sono molto preoccupato**.
   
@@ -97,17 +97,17 @@ negli ultimi anni sono stati firmati diversi (molte dozzine) accordi per ri-mili
 
 se non fosse che in Repubblica Ceca se ne sono accorti bene, iniziando quella campagna che oggi sta muovendo centinaia di attivisti in tutta europa, sul tema del riarmo nucleare e della costruzione di tutta quel sistema "stellare" (satelliti e radar) che servirà al **futuro (imminente) scenario di guerra mondiale**.
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/dottor_stranamore.jpg' alt='dottor_stranamore.jpg' align="left" width="120" height="80" />direte: e **cosa c'è da preoccuparsi?** sono solo illazioni… un'esagerazione.. e poi ci dobbiamo difendere! quelli là stanno costruendo bombe atomiche segrete!
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/05/dottor_stranamore.jpg' alt='dottor_stranamore.jpg' align="left" width="120" height="80" />direte: e **cosa c'è da preoccuparsi?** sono solo illazioni… un'esagerazione.. e poi ci dobbiamo difendere! quelli là stanno costruendo bombe atomiche segrete!
   
 e poi **è nella natura dell'uomo il prepararsi alla guerra!**
 
 non prendeteci per anti americani (anzi molti statunitensi, **Noam Chomsky** in primis) sono al nostro fianco.. ma dietro a tutto questo progetto ci sono le intenzioni degli USA di portare il prossimo conflitto sul territorio europeo.
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/georgescott.jpg' alt='georgescott.jpg' align="right" width="120" height="80" />**Oggi gli Stati Uniti se la stanno passando davvero male..** stanno vivendo delle crisi enormi che non riescono a contenere.. finanziarie, immobiliari.. ora il prezzo del petrolio e presto quella dell'alimentazione.
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/05/georgescott.jpg' alt='georgescott.jpg' align="right" width="120" height="80" />**Oggi gli Stati Uniti se la stanno passando davvero male..** stanno vivendo delle crisi enormi che non riescono a contenere.. finanziarie, immobiliari.. ora il prezzo del petrolio e presto quella dell'alimentazione.
   
 è possibile che entro un anno la situazione degeneri. già oggi sembra stiano in uno stato peggiore di quello del **1929**.
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/dottore_stranamore_bomba.jpg' alt='dottore_stranamore_bomba.jpg' align="left" width="120" height="80" />E ormai dovreste saperlo: cosa fa una super potenza militare quando ha casini internamente?
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/05/dottore_stranamore_bomba.jpg' alt='dottore_stranamore_bomba.jpg' align="left" width="120" height="80" />E ormai dovreste saperlo: cosa fa una super potenza militare quando ha casini internamente?
   
 porta il casino fuori (il più possibile lontano dai propri cari) possibilmente usando i propri "investimenti" maggiori.. ovvero l'arsenale di guerra che sta distribuendo nel globo.
 
@@ -117,13 +117,13 @@ Noi umanisti siamo molto. **estremamente** preoccupati.
   
 Per fortuna non siamo i soli, ma sempre troppi pochi ad attivarsi.
 
-![no_radar.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/no_radar.jpg)
+![no_radar.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/05/no_radar.jpg)
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/dino.jpg' alt='dino.jpg' align="left" />da diversi giorni dozzine di persone stanno facendo scioperi della fame in tutta europa.
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/05/dino.jpg' alt='dino.jpg' align="left" />da diversi giorni dozzine di persone stanno facendo scioperi della fame in tutta europa.
   
 molti dei nostri erano preoccupati in tale scelta.. perchè dicevano "**vi lasceranno morire di fame! non gliene frega niente!**" (approfondisci: [www.nenasili.cz](http://www.nenasili.cz/it/) )
 
-Allego qui un bollettino con maggiori informazioni sulle attività in Europa: [bollettino\_europeforpeace\_1.pdf](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/bollettino_europeforpeace_1.pdf "bollettino_europeforpeace_1.pdf")
+Allego qui un bollettino con maggiori informazioni sulle attività in Europa: [bollettino\_europeforpeace\_1.pdf](http://cecere.xyz/wp-content/uploads/sites/3/2008/05/bollettino_europeforpeace_1.pdf "bollettino_europeforpeace_1.pdf")
 
 ma il punto ora è invitarvi a (ri)**vedere il film "Dottor Stranamore", di Stanley Kubrick**, del 1963 magistralmente interpretato da **Peter Sellers**.
 
@@ -153,4 +153,4 @@ per maggiori informazioni sulla Campagna in atto e sul riarmo nucleare in Europa
   
 ](http://archiviinternazscudostell.blogspot.com/) 
 
-![dottor-stranamore.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/dottor-stranamore.jpg)
+![dottor-stranamore.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/05/dottor-stranamore.jpg)

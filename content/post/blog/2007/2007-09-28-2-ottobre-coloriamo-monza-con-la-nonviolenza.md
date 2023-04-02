@@ -1,21 +1,22 @@
 ---
 draft: true
 categories: [blog]
-date: 2007-09-28T02:35:35Z
-guid: http://stefanocecere.com/2007/09/28/2-ottobre-coloriamo-monza-con-la-nonviolenza/
+date: 2007-09-28
+guid: http://cecere.xyz/2007/09/28/2-ottobre-coloriamo-monza-con-la-nonviolenza/
 id: 574
 tags:
 - Events
 - nonviolenza
 - Politica
 - spirito
-- Terra 2.0
+- Terra2
 - umanista
-title: '2 ottobre: coloriamo Monza con la nonviolenza'
+title: '2 ottobre
 slug: /2007/09/2-ottobre-coloriamo-monza-con-la-nonviolenza/
+updated: 2022-03-22
 ---
 
-![buon compleanno gandhi](http://stefanocecere.com/wp-content/uploads/sites/3/2007/09/pallocini_nonviolenza.jpg)
+![buon compleanno gandhi](http://cecere.xyz/wp-content/uploads/sites/3/2007/09/pallocini_nonviolenza.jpg)
 
 COMUNICATO STAMPA del Movimento Umanista di Monza
 

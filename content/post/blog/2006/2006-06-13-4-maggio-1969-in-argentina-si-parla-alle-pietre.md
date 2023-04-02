@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-06-13T02:29:35Z
-guid: http://stefanocecere.com/2006/06/13/4-maggio-1969-in-argentina-si-parla-alle-pietre/
+guid: http://cecere.xyz/2006/06/13/4-maggio-1969-in-argentina-si-parla-alle-pietre/
 id: 329
 tags:
 - arte
@@ -24,7 +24,7 @@ per altri potrebbe essere interessante sapere cosa è successo:
 
 prenditi qualche minuto tranquillo, collocati ai piedi dell'Aconcagua, in una valle innevata di 37 anni fa, e **guarda questa videoanimazione** sul magistrale discorso tenuto dall'argentino Mario Rodriguez Cobos (detto Silo) sui temi della sofferenza, della violenza, sui conflitti sociali.. e sul come porre fine ad essi.
 
-<a href="http://stefanocecere.com/video/1969_puntadevacas.html" target="_blank"><img id="image328" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/silo_puntadevacas_1969.jpg" alt="Silo - Punta de Vacas - 1969" /><br />lancia il video</a>
+<a href="http://cecere.xyz/video/1969_puntadevacas.html" target="_blank"><img id="image328" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/06/silo_puntadevacas_1969.jpg" alt="Silo - Punta de Vacas - 1969" /><br />lancia il video</a>
 
 Bene.. lì nascue il Movimento Umanista. Che ne pensi?
 

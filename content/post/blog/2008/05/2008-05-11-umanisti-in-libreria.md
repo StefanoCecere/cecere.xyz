@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-05-11T23:06:33Z
-guid: http://stefanocecere.com/2008/05/11/umanisti-in-libreria/
+guid: http://cecere.xyz/2008/05/11/umanisti-in-libreria/
 id: 921
 tags:
 - libri
@@ -15,7 +15,7 @@ slug: /2008/05/umanisti-in-libreria/
 
 Finalmente nelle librerie di tutta italia (Feltrinelli in primis, ma anche molte altre) due fondamentali libri per tutti gli umanisti:
 
-[<img class="alignleft" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/libro_messaggio_di_silo.jpg" alt="libro_messaggio_di_silo.jpg" width="109" height="160" />](http://macroedizioni.it/libro.php?id_libro=1355)**Il Messaggio di Silo**
+[<img class="alignleft" src="http://cecere.xyz/wp-content/uploads/sites/3/2008/05/libro_messaggio_di_silo.jpg" alt="libro_messaggio_di_silo.jpg" width="109" height="160" />](http://macroedizioni.it/libro.php?id_libro=1355)**Il Messaggio di Silo**
   
 [Macro Edizioni](http://www.macroedizioni.it/)
 
@@ -23,7 +23,7 @@ Finalmente nelle librerie di tutta italia (Feltrinelli in primis, ma anche molte
 
 [Scheda del libro.](http://macroedizioni.it/libro.php?id_libro=1355)
 
-[<img class="alignleft" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/finepreistoria160.jpg" alt="finepreistoria160.jpg" width="109" height="160" />](http://www.nuovimondi.info/modules.php?op=modload&name=News&file=article&sid=2251)**LA FINE DELLA PREISTORIA**
+[<img class="alignleft" src="http://cecere.xyz/wp-content/uploads/sites/3/2008/05/finepreistoria160.jpg" alt="finepreistoria160.jpg" width="109" height="160" />](http://www.nuovimondi.info/modules.php?op=modload&name=News&file=article&sid=2251)**LA FINE DELLA PREISTORIA**
   
 _Un cammino verso la libertà_
   

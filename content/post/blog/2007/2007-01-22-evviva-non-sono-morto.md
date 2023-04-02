@@ -1,20 +1,21 @@
 ---
 draft: true
 categories: [blog]
-date: 2007-01-22T15:46:31Z
-guid: http://stefanocecere.com/2007/01/22/evviva-non-sono-morto/
+date: 2007-01-22
+guid: http://cecere.xyz/2007/01/22/evviva-non-sono-morto/
 id: 484
 tags:
 - Parco Attigliano
 - pensieri
 - ricreazione
 - spirito
-- stefano cecere
+- stefano
 title: evviva non sono morto!
 slug: /2007/01/evviva-non-sono-morto/
+updated: 2022-03-22
 ---
 
-<img id="image483" title="Essere Digitale.. di Stefano Cecere" src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/01/essere_digitale.jpg" alt="essere_digitale.jpg" />
+<img id="image483" title="Essere Digitale.. di Stefano Cecere" src="http://cecere.xyz/wp-content/uploads/sites/3/2007/01/essere_digitale.jpg" alt="essere_digitale.jpg" />
 
 oggi mi hanno chiesto: "Ciao Stefano ci sei ancora stasera?"
 
@@ -30,7 +31,7 @@ sono passate tre settimane e non ho neanche scritto.. "BUON ANNO!!!"
 
 sono stato ad Attigliano (<a href="http://www.ilfannullone.it/foto/album/20070113_ParcoAttigliano//thumbnails/" target="_blank">vedi foto qui</a> ), è stato bello ma chi non era interessato non è venuto, è ciò è bene.
 
-<img id="image485" title="sto_lavorando.gif" src="http://stefanocecere.com/wp-content/uploads/sites/3/2007/01/sto_lavorando.gif" alt="sto_lavorando.gif" align="right" />
+<img id="image485" title="sto_lavorando.gif" src="http://cecere.xyz/wp-content/uploads/sites/3/2007/01/sto_lavorando.gif" alt="sto_lavorando.gif" align="right" />
 
 sto lavorando come un pinguino mannaggia… tra siti, Typo3, Symphony e tutte quelle nuove tecnologie di telecomunicazione che tutti ora vogliono per fare nuovi businessess in questo mondo sempre più assurdo!!
 

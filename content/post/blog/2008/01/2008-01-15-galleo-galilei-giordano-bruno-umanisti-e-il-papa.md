@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-01-15T09:27:31Z
-guid: http://stefanocecere.com/2008/01/15/galleo-galilei-giordano-bruno-umanisti-e-il-papa/
+guid: http://cecere.xyz/2008/01/15/galleo-galilei-giordano-bruno-umanisti-e-il-papa/
 id: 652
 tags:
 - Papa

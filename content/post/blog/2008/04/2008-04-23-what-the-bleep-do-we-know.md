@@ -2,22 +2,23 @@
 draft: true
 categories:
 - Tempi moderni
-date: 2008-04-23T06:08:24Z
-guid: http://stefanocecere.com/2008/04/23/what-the-bleep-do-we-know/
+date: 2008-04-23
+guid: http://cecere.xyz/2008/04/23/what-the-bleep-do-we-know/
 id: 891
 tags:
 - cineforum
 - film
 - Monza
 - ricreazione
-- Terra 2.0
+- Terra2
 title: What the bleep do we know?
 slug: /2008/04/what-the-bleep-do-we-know/
+updated: 2022-03-22
 ---
 
 **"la tendenza allo sviluppo della conoscenza al di sopra di quanto viene accettato o imposto come verità assoluta."**
   
-questo è uno dei sei pilastri del Nuovo Umanesimo ([scopri gli altri](http://stefanocecere.com/nuovo-umanesimo/)).
+questo è uno dei sei pilastri del Nuovo Umanesimo ([scopri gli altri](http://cecere.xyz/nuovo-umanesimo/)).
 
 QUINDI
 
@@ -27,7 +28,7 @@ Ovvero "**ma che \***** sappiamo?**"…
   
 forse sul fatto che di come funziona la vita non ne sappiamo molto più di un preistorico?
 
-![cervello_immagini_idee.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/cervello_immagini_idee.jpg)
+![cervello_immagini_idee.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/04/cervello_immagini_idee.jpg)
 
 **Se esistesse un film divertente che contenesse il vero segreto per una vita felice e appagata, lo vedresti?** Se questo stesso film comunicasse il suo messaggio usando una bella animazione, una trama nella quale identificarsi, e le più recenti teorie di fisica quantistica, biologia molecolare e spiritualità, lo vedresti? Se questo film vi colpisse in mezzo agli occhi dimostrandovi che gli esseri umani sono gli artefici della propria realtà, lo vedresti?
   
@@ -74,4 +75,4 @@ CENTRO UMANISTA IL FANNULLONE - VIA BORGAZZI 105 (cortile interno) - MONZA
   
 come arrivarci: <http://www.ilfannullone.it/spazio/cartina/>
 
-![cosmo.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/cosmo.jpg)
+![cosmo.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/04/cosmo.jpg)

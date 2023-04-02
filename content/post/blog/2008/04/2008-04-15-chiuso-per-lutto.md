@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-04-15T08:01:49Z
-guid: http://stefanocecere.com/2008/04/15/chiuso-per-lutto/
+guid: http://cecere.xyz/2008/04/15/chiuso-per-lutto/
 id: 869
 tags:
 - democrazia
@@ -15,7 +15,7 @@ slug: /2008/04/chiuso-per-lutto/
 ---
 
 <p style="text-align: center">
-  <img src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/chiuso_per_lutto.jpg" alt="chiuso_per_lutto.jpg" align="center" />
+  <img src="http://cecere.xyz/wp-content/uploads/sites/3/2008/04/chiuso_per_lutto.jpg" alt="chiuso_per_lutto.jpg" align="center" />
 </p>
 
 <p style="text-align: center">

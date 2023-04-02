@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-05-25T09:47:18Z
-guid: http://stefanocecere.com/2008/05/25/teddy-bears-4-peace/
+guid: http://cecere.xyz/2008/05/25/teddy-bears-4-peace/
 id: 976
 tags:
 - arte

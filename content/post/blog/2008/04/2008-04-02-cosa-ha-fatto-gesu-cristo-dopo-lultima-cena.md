@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-04-02T09:07:53Z
-guid: http://stefanocecere.com/2008/04/02/cosa-ha-fatto-gesu-cristo-dopo-lultima-cena/
+guid: http://cecere.xyz/2008/04/02/cosa-ha-fatto-gesu-cristo-dopo-lultima-cena/
 id: 792
 tags:
 - arte
@@ -20,4 +20,4 @@ una cosa di cui però forse possiamo essere sicuri è sul cosa è successo il gi
   
 ce lo mostra Joan Costa con il suo quadro "Sacra limpieza. El dia depues" ("Pulizia sacra. Il giorno dopo"), che si trova nella chiesa di Las Escuelas Pias di Gandia (Valencia).
 
-![pulizie-ultima-cena-leonardo.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/pulizie-ultima-cena-leonardo.jpg)
+![pulizie-ultima-cena-leonardo.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/04/pulizie-ultima-cena-leonardo.jpg)

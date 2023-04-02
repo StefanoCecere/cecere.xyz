@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-06-15T11:32:40Z
-guid: http://stefanocecere.com/2006/06/15/agosto-2006-tutti-in-campeggio/
+guid: http://cecere.xyz/2006/06/15/agosto-2006-tutti-in-campeggio/
 id: 331
 tags:
 - campeggio
@@ -14,7 +14,7 @@ slug: /2006/06/agosto-2006-tutti-in-campeggio/
 
 se ci sei già stato vorrai solo sapere dove è e non vedi l'ora che arrivi il 1 agosto per partire..
 
-<img align="left" title="campeggio_maratea_2005.jpg" id="image335" alt="campeggio_maratea_2005.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/campeggio_maratea_2005.jpg" />altrimenti lasciami che ti presenti una delle vacanze più divertenti e interessanti che si possano fare!
+<img align="left" title="campeggio_maratea_2005.jpg" id="image335" alt="campeggio_maratea_2005.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/06/campeggio_maratea_2005.jpg" />altrimenti lasciami che ti presenti una delle vacanze più divertenti e interessanti che si possano fare!
   
 _specialmente perché in mia/nostra/loro/vostra compagnia 😉_
   
@@ -28,7 +28,7 @@ ciao
   
 Periodo: 1 – 20 AGOSTO 2006
 
-<img align="right" title="campeggio_umanista_torre_rinalda.jpg" id="image330" alt="campeggio_umanista_torre_rinalda.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/campeggio_umanista_torre_rinalda.jpg" />Camping Village Torre Rinalda \****
+<img align="right" title="campeggio_umanista_torre_rinalda.jpg" id="image330" alt="campeggio_umanista_torre_rinalda.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/06/campeggio_umanista_torre_rinalda.jpg" />Camping Village Torre Rinalda \****
   
 Località Torre Rinalda - Litoranea Salentina
 
@@ -49,7 +49,7 @@ Servizi sociali del campeggio:
 - 200 lavandini
 - 70 lavabi per stoviglie
 
-<img align="right" title="campeggio_torre_rinalda.jpg" id="image334" alt="campeggio_torre_rinalda.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/campeggio_torre_rinalda.jpg" />Spazio a nostro uso: 16.000 mq, così suddivisi:
+<img align="right" title="campeggio_torre_rinalda.jpg" id="image334" alt="campeggio_torre_rinalda.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/06/campeggio_torre_rinalda.jpg" />Spazio a nostro uso: 16.000 mq, così suddivisi:
 
 - 12.000 mq ombreggiati per tende
 - 1500 mq per spazio comune

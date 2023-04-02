@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-03-16T10:06:52Z
-guid: http://stefanocecere.com/2008/03/16/z-day-un-successo/
+guid: http://cecere.xyz/2008/03/16/z-day-un-successo/
 id: 749
 tags:
 - cineforum
@@ -15,7 +15,7 @@ title: Z-DAY - un successo!
 slug: /2008/03/z-day-un-successo/
 ---
 
-![zday_monza.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/03/zday_monza.jpg)
+![zday_monza.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/03/zday_monza.jpg)
 
 ieri sera alla serata "Zeitgeist" (la proiezione in contemporanea mondiale del film [www.zeitgeistmovie.com](http://www.zeitgeistmovie.com) ) eravamo circa 45 persone. abbiamo strariempito il locale!
   

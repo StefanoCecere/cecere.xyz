@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-05-29T17:45:07Z
-guid: http://stefanocecere.com/2006/05/29/video-attivita-umaniste-scorso-semestre/
+guid: http://cecere.xyz/2006/05/29/video-attivita-umaniste-scorso-semestre/
 id: 294
 tags:
 - ricreazione

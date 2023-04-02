@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-09-25T11:16:58Z
-guid: http://stefanocecere.com/?p=1271
+guid: http://cecere.xyz/?p=1271
 id: 1271
 tags:
 - Bush
@@ -18,7 +18,7 @@ title: Discorso di Bush a reti unificate sulla crisi finanziaria USA
 slug: /2008/09/discorso-di-bush-a-reti-unificate-sulla-crisi-finanziaria-usa/
 ---
 
-[<img class="aligncenter size-full wp-image-1272" title="bush_discorso_panico" src="http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/bush_discorso_panico.jpg" alt="" width="400" height="302" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/bush_discorso_panico.jpg 400w, http://stefanocecere.com/wp-content/uploads/sites/3/2008/09/bush_discorso_panico-300x227.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />](http://video.corriere.it/?vxSiteId=404a0ad6-6216-4e10-abfe-f4f6959487fd&vxChannel=Dal%20Mondo&vxClipId=2524_603d554c-8ad4-11dd-b62d-00144f02aabc&vxBitrate=300)
+[<img class="aligncenter size-full wp-image-1272" title="bush_discorso_panico" src="http://cecere.xyz/wp-content/uploads/sites/3/2008/09/bush_discorso_panico.jpg" alt="" width="400" height="302" srcset="http://cecere.xyz/wp-content/uploads/sites/3/2008/09/bush_discorso_panico.jpg 400w, http://cecere.xyz/wp-content/uploads/sites/3/2008/09/bush_discorso_panico-300x227.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />](http://video.corriere.it/?vxSiteId=404a0ad6-6216-4e10-abfe-f4f6959487fd&vxChannel=Dal%20Mondo&vxClipId=2524_603d554c-8ad4-11dd-b62d-00144f02aabc&vxBitrate=300)
 
 [ecco](http://video.corriere.it/?vxSiteId=404a0ad6-6216-4e10-abfe-f4f6959487fd&vxChannel=Dal%20Mondo&vxClipId=2524_603d554c-8ad4-11dd-b62d-00144f02aabc&vxBitrate=300) una video sintesi del recente discorso di Bush a reti unificate in prime time (prima serata) in USA: c'è poco da stare allegri. Questa volta non sono riusciti a nascondere l'ombra della recessione dietro eventi catastrofici o guerre improvvisate.
 

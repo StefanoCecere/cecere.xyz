@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-06-01T01:11:59Z
-guid: http://stefanocecere.com/2006/06/01/guerre-stellari-in-iraq-un-video-agghiacciante/
+guid: http://cecere.xyz/2006/06/01/guerre-stellari-in-iraq-un-video-agghiacciante/
 id: 303
 tags:
 - guerra
@@ -40,4 +40,4 @@ _se questo video ti lascia indifferente, per piacere non tornare qui. rimani pur
   
 <a target="_blank" href="http://www.rainews24.it/ran24/inchieste/guerre_stellari_iraq.asp">http://www.rainews24.it/ran24/inchieste/guerre_stellari_iraq.asp</a>
 
-<a target="_blank" href="http://www.rainews24.it/ran24/inchieste/guerre_stellari_iraq.asp"><img alt="guerre_stellari_in_iraq.jpg" id="image302" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/guerre_stellari_in_iraq.jpg" /></a>
+<a target="_blank" href="http://www.rainews24.it/ran24/inchieste/guerre_stellari_iraq.asp"><img alt="guerre_stellari_in_iraq.jpg" id="image302" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/06/guerre_stellari_in_iraq.jpg" /></a>

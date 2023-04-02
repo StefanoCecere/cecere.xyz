@@ -1,20 +1,21 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-02-21T11:27:46Z
-guid: http://stefanocecere.com/2008/02/21/proseguono-i-lavori-al-parco-di-punta-de-vacas/
+date: 2008-02-21
+guid: http://cecere.xyz/2008/02/21/proseguono-i-lavori-al-parco-di-punta-de-vacas/
 id: 690
 tags:
 - Ande
 - Silo
 - spirito
-- Terra2.0
+- Terra2
 - umanista
 title: Proseguono i lavori al Parco di Punta de Vacas
 slug: /2008/02/proseguono-i-lavori-al-parco-di-punta-de-vacas/
+updated: 2022-03-22
 ---
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/02/marina-p-de-v-feb-08-093.thumbnail.jpg' alt='marina-p-de-v-feb-08-093.jpg' align="left" />sono migliaia le persone coinvolte nel mondo in questo progetto che sfocerà a gennaio 2010 nel più grande momento storico della nuova epoca:
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/02/marina-p-de-v-feb-08-093.thumbnail.jpg' alt='marina-p-de-v-feb-08-093.jpg' align="left" />sono migliaia le persone coinvolte nel mondo in questo progetto che sfocerà a gennaio 2010 nel più grande momento storico della nuova epoca:
 
 [Vedi foto](http://picasaweb.google.es/MarinarojasMH/VOLUNTARIOSFEB08)
 

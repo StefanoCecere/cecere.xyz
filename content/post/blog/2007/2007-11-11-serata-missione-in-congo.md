@@ -1,16 +1,17 @@
 ---
 draft: true
 categories: [blog]
-date: 2007-11-11T03:58:24Z
-guid: http://stefanocecere.com/2007/11/12/serata-missione-in-congo/
+date: 2007-11-11
+guid: http://cecere.xyz/2007/11/12/serata-missione-in-congo/
 id: 604
 tags:
 - Events
-- Il Fannullone
+- IlFannullone
 - Monza
 - solidarietà
 title: Serata Missione in Congo
 slug: /2007/11/serata-missione-in-congo/
+updated: 2022-03-22
 ---
 
 <div>

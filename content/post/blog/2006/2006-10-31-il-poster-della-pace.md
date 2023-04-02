@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-10-31T01:08:07Z
-guid: http://stefanocecere.com/2006/10/31/il-poster-della-pace/
+guid: http://cecere.xyz/2006/10/31/il-poster-della-pace/
 id: 453
 tags:
 - arte
@@ -26,4 +26,4 @@ guarda qui un po' di foto della serata viaggio in cina:
 
 ecco un poster, che sarà disponibile a Lisbona, che rappresenta un po' qualcosa che stiamo facendo nel mondo:
   
-<img id="image452" alt="Poster della Pace" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/10/poster_della_pace.jpg" />
+<img id="image452" alt="Poster della Pace" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/10/poster_della_pace.jpg" />

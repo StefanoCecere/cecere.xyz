@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-05-31T03:24:00Z
-guid: http://stefanocecere.com/2006/05/31/ancora-referendum-25-giugno-cosa-fare/
+guid: http://cecere.xyz/2006/05/31/ancora-referendum-25-giugno-cosa-fare/
 id: 299
 tags:
 - referendum
@@ -12,7 +12,7 @@ title: 'ancora referendum 25 giugno: cosa fare?'
 slug: /2006/05/ancora-referendum-25-giugno-cosa-fare/
 ---
 
-<img id="image297" alt="salviamolacostituzione.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/05/salviamolacostituzione.jpg" />
+<img id="image297" alt="salviamolacostituzione.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/05/salviamolacostituzione.jpg" />
 
 Scrivere su questo blog comincia ad essere faccenda da non sottovalutare, date le centinaia di persone (robots esclusi) che quotidianamente passano di qua.
 
@@ -20,13 +20,13 @@ Negli ultimi giorni moltissimi arrivano cercando "referendum 25 giugno" o "rifor
 
 Segnalo quindi la manifestazione di domani a Firenze.
 
-Ho già pubblicato diversi materiali di approfondimento sull'essenza di questo referendum (vedi link a lato o [clicca qui](http://stefanocecere.com/2006/05/27/referendum-25-giugno-google-ruby-on-rails-e-le-multe-da-pagare/)), e sul perché sia **IMPORTANTISSIMO ANDARE A VOTARE NO**, e **cercare di persuadere quanta più gente possibile a fare altrettanto**.
+Ho già pubblicato diversi materiali di approfondimento sull'essenza di questo referendum (vedi link a lato o [clicca qui](http://cecere.xyz/2006/05/27/referendum-25-giugno-google-ruby-on-rails-e-le-multe-da-pagare/)), e sul perché sia **IMPORTANTISSIMO ANDARE A VOTARE NO**, e **cercare di persuadere quanta più gente possibile a fare altrettanto**.
 
 Dopo la batosta alle elezioni di ieri, c'è pure da aspettarsi un ultimo colpo di coda d parte della Casa delle Libertà che vorrà far vincere il SI. Vuoi per l'assenza di quorum, vuoi per il periodo di inizio estate (e moltissimi giovani saranno già in giro), vuoi per la sensazione diffusa di sottovalutare questo evento, il rischio di far arretrare la nostra Costituzione ad infimi livelli è davvero alto.
 
 Ma oltre a fare quanto detto.. chi non si sta scoraggiando sente la forte esigenza di dover (e di voler) fare qualcosa di più.. si ma cosa?
 
-Come diceva l'amico Mario Rodriguez, fondatore del Movimento Umanista, due anni fa: _<img align="left" title="2004_silo.jpg" id="image298" alt="2004_silo.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/05/2004_silo.jpg" />_
+Come diceva l'amico Mario Rodriguez, fondatore del Movimento Umanista, due anni fa: _<img align="left" title="2004_silo.jpg" id="image298" alt="2004_silo.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/05/2004_silo.jpg" />_
 
  ___“Ma bisogna fare qualcosa”, si sente dire dappertutto. Va bene, io dirò cosa bisogna fare, ma non servirà a niente dirlo perché nessuno l’ascolterà._
 

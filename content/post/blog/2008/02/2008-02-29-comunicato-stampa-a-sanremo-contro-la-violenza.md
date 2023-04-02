@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-02-29T12:25:51Z
-guid: http://stefanocecere.com/2008/02/29/comunicato-stampa-a-sanremo-contro-la-violenza/
+guid: http://cecere.xyz/2008/02/29/comunicato-stampa-a-sanremo-contro-la-violenza/
 id: 708
 tags:
 - comunicato

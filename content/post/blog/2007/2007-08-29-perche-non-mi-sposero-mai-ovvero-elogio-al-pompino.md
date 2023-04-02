@@ -4,10 +4,10 @@ categories: [blog]
 date: 2007-08-29T14:59:50Z"
 enclosure:
 - |
-  http://stefanocecere.com/wp-content/uploads/sites/3/2007/08/luttazzi_matrimonio.mp3
+  http://cecere.xyz/wp-content/uploads/sites/3/2007/08/luttazzi_matrimonio.mp3
   884858
   audio/mpeg
-guid: http://stefanocecere.com/2007/08/29/perche-non-mi-sposero-mai-ovvero-elogio-al-pompino/
+guid: http://cecere.xyz/2007/08/29/perche-non-mi-sposero-mai-ovvero-elogio-al-pompino/
 id: 538
 tags:
 - arte
@@ -21,7 +21,7 @@ slug: /2007/08/perche-non-mi-sposero-mai-ovvero-elogio-al-pompino/
 
 mi permetto di riportare qui un breve audio di Daniele Luttazzi che spiega perché è contro il matrimonio (sia etero che omo)… e in più.. qualche utile suggerimento per gli amanti dei pompini!
 
-[Daniele Luttazzi - contro il matrimonio (MP3)](http://stefanocecere.com/wp-content/uploads/sites/3/2007/08/luttazzi_matrimonio.mp3 "Daniele Luttazzi - contro il matrimonio")
+[Daniele Luttazzi - contro il matrimonio (MP3)](http://cecere.xyz/wp-content/uploads/sites/3/2007/08/luttazzi_matrimonio.mp3 "Daniele Luttazzi - contro il matrimonio")
 
 trascrizione per i non udenti:
   
@@ -45,6 +45,6 @@ francamente: è chiedere la luna."
 
 il sito ufficiale di Daniele Luttazzi è: [www.danieleluttazzi.it](http://www.danieleluttazzi.it)
 
-ah: se proprio vuoi vedere il filmato di un super pompino: <a href="http://it.youtube.com/watch?v=1hEBBwz584M" target="_blank">guarda qui: <img src='http://stefanocecere.com/wp-content/uploads/sites/3/2007/08/pompino_per_cena.jpg' alt='pompino per cena' /></a>
+ah: se proprio vuoi vedere il filmato di un super pompino: <a href="http://it.youtube.com/watch?v=1hEBBwz584M" target="_blank">guarda qui: <img src='http://cecere.xyz/wp-content/uploads/sites/3/2007/08/pompino_per_cena.jpg' alt='pompino per cena' /></a>
   
 🙂

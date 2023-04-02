@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-09-23T19:44:34Z
-guid: http://stefanocecere.com/?p=1236
+guid: http://cecere.xyz/?p=1236
 id: 1236
 tags:
 - presentazione

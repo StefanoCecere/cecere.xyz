@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-04-14T08:39:34Z
-guid: http://stefanocecere.com/2008/04/14/lezione-jedi-il-cane-il-leone-e-la-scimmia/
+guid: http://cecere.xyz/2008/04/14/lezione-jedi-il-cane-il-leone-e-la-scimmia/
 id: 856
 tags:
 - Jedi
@@ -13,7 +13,7 @@ title: 'Lezione Jedi: Il cane, il leone e la scimmia'
 slug: /2008/04/lezione-jedi-il-cane-il-leone-e-la-scimmia/
 ---
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/cane.jpg' alt='cane.jpg' align="left" />Un signore va a caccia grossa in Africa e porta con se il suo cucciolo.
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/04/cane.jpg' alt='cane.jpg' align="left" />Un signore va a caccia grossa in Africa e porta con se il suo cucciolo.
   
 Un giorno, durante una battuta, il cagnolino annoiato si mette a rincorrere una farfalla e, senza accorgersi, si allontana dal gruppo dei cacciatori e
   

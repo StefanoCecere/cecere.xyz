@@ -3,7 +3,7 @@ draft: true
 categories:
 - Uncategorized
 date: 2008-04-14T00:38:31Z
-guid: http://stefanocecere.com/2008/04/14/un-gatto-invasato/
+guid: http://cecere.xyz/2008/04/14/un-gatto-invasato/
 id: 845
 tags:
 - animali

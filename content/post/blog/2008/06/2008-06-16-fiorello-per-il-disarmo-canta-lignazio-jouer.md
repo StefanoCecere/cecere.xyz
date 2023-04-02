@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-06-16T14:47:26Z
-guid: http://stefanocecere.com/2008/06/16/fiorello-per-il-disarmo-canta-lignazio-jouer/
+guid: http://cecere.xyz/2008/06/16/fiorello-per-il-disarmo-canta-lignazio-jouer/
 id: 1046
 tags:
 - arte

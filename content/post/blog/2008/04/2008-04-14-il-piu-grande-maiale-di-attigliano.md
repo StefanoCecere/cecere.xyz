@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-04-14T00:42:12Z
-guid: http://stefanocecere.com/2008/04/14/il-piu-grande-maiale-di-attigliano/
+guid: http://cecere.xyz/2008/04/14/il-piu-grande-maiale-di-attigliano/
 id: 851
 tags:
 - animali

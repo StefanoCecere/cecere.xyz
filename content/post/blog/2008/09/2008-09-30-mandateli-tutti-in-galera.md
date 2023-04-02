@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-09-30T09:40:48Z
-guid: http://stefanocecere.com/?p=1293
+guid: http://cecere.xyz/?p=1293
 id: 1293
 tags:
 - banche

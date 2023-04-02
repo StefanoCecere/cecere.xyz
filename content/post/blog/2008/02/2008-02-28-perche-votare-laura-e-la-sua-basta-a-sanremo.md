@@ -1,19 +1,20 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-02-28T14:27:41Z
-guid: http://stefanocecere.com/2008/02/28/perche-votare-laura-e-la-sua-basta-a-sanremo/
+date: 2008-02-28
+guid: http://cecere.xyz/2008/02/28/perche-votare-laura-e-la-sua-basta-a-sanremo/
 id: 705
 tags:
 - arte
 - L'Aura
-- Terra 2.0
+- Terra2
 - violenza
 title: Perché votare L&#039;Aura e la sua &quot;Basta!&quot; a Sanremo
 slug: /2008/02/perche-votare-laura-e-la-sua-basta-a-sanremo/
+updated: 2022-03-22
 ---
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/02/l_aura_sanremo_2008.png' alt='l_aura_sanremo_2008.png' align="left" />sapevo che L'Aura avrebbe portato a Sanremo una canzone contro la violenza.
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/02/l_aura_sanremo_2008.png' alt='l_aura_sanremo_2008.png' align="left" />sapevo che L'Aura avrebbe portato a Sanremo una canzone contro la violenza.
   
 la conosco da molto tempo e la ritengo artisticamente enorme.
   

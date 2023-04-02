@@ -1,13 +1,13 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-07-02T07:15:49Z
-guid: http://stefanocecere.com/?p=1068
+date: 2008-07-02
+guid: http://cecere.xyz/?p=1068
 id: 1068
 tags:
 - Berlusconi
 - giornale
-- Il Manifesto
+- IlManifesto
 - Luttazzi
 - Politica
 - ricreazione
@@ -17,6 +17,7 @@ tags:
 - veltroni
 title: Ultim&#039;ora (ovvero la settimana di Luttazzi)
 slug: /2008/07/ultimora-ovvero-la-settimana-di-luttazzi/
+updated: 2022-03-22
 ---
 
 ecco una raccolta di "pilloline" di Daniele Luttazzi per la prima pagina de Il Manifesto negli ultimi giorni (forse qualcuno non se ne era accorto che da circa un mese si occupa di questa importante rubrica):

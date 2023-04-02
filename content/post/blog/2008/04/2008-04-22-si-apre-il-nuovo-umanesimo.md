@@ -1,16 +1,17 @@
 ---
 draft: true
 categories: [blog]
-date: 2008-04-22T23:10:35Z
-guid: http://stefanocecere.com/2008/04/22/si-apre-il-nuovo-umanesimo/
+date: 2008-04-23
+guid: http://cecere.xyz/2008/04/22/si-apre-il-nuovo-umanesimo/
 id: 889
 tags:
 - Parco Attigliano
 - Silo
-- Terra 2.0
+- Terra2
 - umanista
 title: Si apre il Nuovo Umanesimo
 slug: /2008/04/si-apre-il-nuovo-umanesimo/
+updated: 2022-03-22
 ---
 
 questo sabato 26 aprile e domenica 4 maggio il Nuovo Umanesimo si (ri)apre al mondo.

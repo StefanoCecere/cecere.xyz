@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-06-20T07:29:15Z
-guid: http://stefanocecere.com/2008/06/20/leuropa-della-vergogna/
+guid: http://cecere.xyz/2008/06/20/leuropa-della-vergogna/
 id: 1048
 tags:
 - dichiarazione

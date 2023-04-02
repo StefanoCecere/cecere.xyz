@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-01-22T12:27:04Z
-guid: http://stefanocecere.com/2006/01/22/viuleeenza/
+guid: http://cecere.xyz/2006/01/22/viuleeenza/
 id: 215
 tags:
 - Berlusconi

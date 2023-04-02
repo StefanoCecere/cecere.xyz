@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-06-20T11:44:37Z
-guid: http://stefanocecere.com/2008/06/20/ansa-i-russi-e-lo-scudo-spaziale/
+guid: http://cecere.xyz/2008/06/20/ansa-i-russi-e-lo-scudo-spaziale/
 id: 1054
 tags:
 - comunicato

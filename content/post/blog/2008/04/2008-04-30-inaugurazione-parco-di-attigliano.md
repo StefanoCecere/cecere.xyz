@@ -3,20 +3,21 @@ draft: true
 categories:
 - Futuro
 - Tempi moderni
-date: 2008-04-30T10:27:18Z
-guid: http://stefanocecere.com/2008/04/30/inaugurazione-parco-di-attigliano/
+date: 2008-04-30
+guid: http://cecere.xyz/2008/04/30/inaugurazione-parco-di-attigliano/
 id: 898
 tags:
 - Parco Attigliano
 - Silo
 - spirito
-- Terra 2.0
+- Terra2
 - umanista
 title: Inaugurazione Parco di Attigliano
 slug: /2008/04/inaugurazione-parco-di-attigliano/
+updated: 2022-03-22
 ---
 
-![locandina-4-maggio.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/locandina-4-maggio.jpg)
+![locandina-4-maggio.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/04/locandina-4-maggio.jpg)
 
 buongiorno.
   
@@ -47,7 +48,7 @@ un luogo aperto a tutti coloro che desiderano meditare in profondità, incontrar
   
 il Parco che comprende una **sala** (rigorosamente vuota e sferica, nella quale l'unica cosa importante è colui che vi entra e la sua energia), un **edificio multiuso** (per conferenze, seminari, eventi), una sorgente di acqua pura, un monolito e una stele per segnare il dove il quando e chi ha dato il via a tutto questo.
 
-se sei curioso e vuoi **approfondire la simbologia** e il significato morfologico del Parco, <a href="http://stefanocecere.com/fileadmin/cosa_rappresentano_le_Sale_e_Parchi.ppt" target="_blank">ecco un file Powerpoint.</a>
+se sei curioso e vuoi **approfondire la simbologia** e il significato morfologico del Parco, <a href="http://cecere.xyz/fileadmin/cosa_rappresentano_le_Sale_e_Parchi.ppt" target="_blank">ecco un file Powerpoint.</a>
 
 ecco una ricostruzione in 3D di come sarà quando terminato:
 
@@ -87,7 +88,7 @@ Ore 19.00: Chiusura del Parco.
   
 se vuoi vedere un po' di foto della costruzione e di alcuni eventi preliminari ([su Flickr](http://www.flickr.com/photos/krur/sets/72157603591791873/)):
 
-<a href="http://www.flickr.com/photos/krur/sets/72157603591791873/" target="_blank"><img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/parco_attigliano_collage.jpg' alt='parco_attigliano_collage.jpg' /></a>
+<a href="http://www.flickr.com/photos/krur/sets/72157603591791873/" target="_blank"><img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/04/parco_attigliano_collage.jpg' alt='parco_attigliano_collage.jpg' /></a>
 
 **COME ARRIVARCI?**
   
@@ -105,6 +106,6 @@ contattami per maggiori informazioni o organizzare il viaggio.
   
 Infine: se non vuoi dare il tuo 5 per mille delle tasse allo stato o alla chiesa, prendi seriamene in considerazione di darlo al supporto della costruzione di questo parco: abbiamo creato una ONLUS, la Pangea per una Nazione Umana Universale - Codice Fiscale 97421930153 - [www.pangeaitalia.net](http://www.pangeaitalia.net)
 
-![5xmille_pangea4.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/5xmille_pangea41.jpg)
+![5xmille_pangea4.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/04/5xmille_pangea41.jpg)
 
 _"non immaginare di essere solo nel tuo villaggio, nella tua città, sulla Terra e negli infiniti mondi". Silo, Il Cammino_

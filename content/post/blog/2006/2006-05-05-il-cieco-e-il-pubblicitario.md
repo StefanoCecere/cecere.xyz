@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-05-05T09:29:12Z
-guid: http://stefanocecere.com/2006/05/05/il-cieco-e-il-pubblicitario/
+guid: http://cecere.xyz/2006/05/05/il-cieco-e-il-pubblicitario/
 id: 264
 tags:
 - aforisma

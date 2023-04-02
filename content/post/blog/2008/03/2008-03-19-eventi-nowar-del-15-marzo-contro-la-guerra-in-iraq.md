@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-03-19T06:26:00Z
-guid: http://stefanocecere.com/2008/03/19/eventi-nowar-del-15-marzo-contro-la-guerra-in-iraq/
+guid: http://cecere.xyz/2008/03/19/eventi-nowar-del-15-marzo-contro-la-guerra-in-iraq/
 id: 756
 tags:
 - Events

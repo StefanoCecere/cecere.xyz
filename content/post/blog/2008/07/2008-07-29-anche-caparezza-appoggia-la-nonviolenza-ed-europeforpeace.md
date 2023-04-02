@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-07-29T14:29:17Z
-guid: http://stefanocecere.com/?p=1108
+guid: http://cecere.xyz/?p=1108
 id: 1108
 tags:
 - disarmo nucleare

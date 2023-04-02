@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-07-03T01:54:44Z
-guid: http://stefanocecere.com/2006/07/03/foto-del-simbolo-della-pace-a-monza/
+guid: http://cecere.xyz/2006/07/03/foto-del-simbolo-della-pace-a-monza/
 id: 361
 tags:
 - spirito
@@ -11,7 +11,7 @@ title: Foto del Simbolo della pace a Monza
 slug: /2006/07/foto-del-simbolo-della-pace-a-monza/
 ---
 
-<img alt="simbolo_della_pace_monza.jpg" id="image360" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/07/simbolo_della_pace_monza.jpg" />
+<img alt="simbolo_della_pace_monza.jpg" id="image360" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/07/simbolo_della_pace_monza.jpg" />
 
 è stato davvero divertente ed emozionante.. quasi mi sono commosso nello stare insieme a tanti amici in questo atto libero e volontario.
 

@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-06-24T11:53:53Z
-guid: http://stefanocecere.com/?p=1065
+guid: http://cecere.xyz/?p=1065
 id: 1065
 tags:
 - discriminazione

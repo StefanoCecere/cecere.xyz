@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2007-05-23T15:26:42Z
-guid: http://stefanocecere.com/2007/05/23/elezioni-a-monza-non-sprecare-il-voto-vota-umanista/
+guid: http://cecere.xyz/2007/05/23/elezioni-a-monza-non-sprecare-il-voto-vota-umanista/
 id: 508
 tags:
 - Politica

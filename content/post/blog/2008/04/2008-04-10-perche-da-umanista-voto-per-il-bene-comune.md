@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-04-10T15:21:43Z
-guid: http://stefanocecere.com/2008/04/10/perche-da-umanista-voto-per-il-bene-comune/
+guid: http://cecere.xyz/2008/04/10/perche-da-umanista-voto-per-il-bene-comune/
 id: 843
 tags:
 - elezioni
@@ -51,4 +51,4 @@ Devi solo fare una croce sul simbolo variopinto su cui v’è scritto in blu: PE
 
 Buon voto e grazie a tutti
 
-![benecomune.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/benecomune.jpg)
+![benecomune.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/04/benecomune.jpg)

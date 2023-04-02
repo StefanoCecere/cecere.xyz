@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-04-10T11:19:15Z
-guid: http://stefanocecere.com/2008/04/10/e-ora-musica/
+guid: http://cecere.xyz/2008/04/10/e-ora-musica/
 id: 839
 tags:
 - arte
@@ -13,7 +13,7 @@ title: e ora .. MUSICA!!!
 slug: /2008/04/e-ora-musica/
 ---
 
-<a href="http://www.flickr.com/photos/krur/sets/72157603371676233/" target="_blank"><img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/cecio_krur_al_pianoforte.jpg' alt='cecio_krur_al_pianoforte.jpg' /></a>
+<a href="http://www.flickr.com/photos/krur/sets/72157603371676233/" target="_blank"><img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/04/cecio_krur_al_pianoforte.jpg' alt='cecio_krur_al_pianoforte.jpg' /></a>
 
 dato che ho qui un po' di musichine (in 20 anni ne ho fatte un migliaio!) che ben si adattono a sottofondo per la lettura di questo blog, ho messo qui in alto un player di mp3 con alcuni miei brani improvvisati al pianoforte (forse devi ricaricare la pagina per vedere bene tutto).
 

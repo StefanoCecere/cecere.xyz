@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-05-14T17:08:17Z
-guid: http://stefanocecere.com/2008/05/14/sciopero-della-fame-anche-a-torino/
+guid: http://cecere.xyz/2008/05/14/sciopero-della-fame-anche-a-torino/
 id: 933
 tags:
 - azioni

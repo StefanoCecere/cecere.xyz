@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-06-26T14:39:35Z
-guid: http://stefanocecere.com/2006/06/26/perche-siamo-qui/
+guid: http://cecere.xyz/2006/06/26/perche-siamo-qui/
 id: 356
 tags:
 - esistenza
@@ -31,8 +31,8 @@ sai quanto sei fortunata (il solo fatto che stai leggendo qui ti mette tra il 2%
   
 sai bene quanto è più facile non porsi certe domande._
 
-<img align="left" id="image355" alt="perche_sono_qui.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/perche_sono_qui.jpg" />
+<img align="left" id="image355" alt="perche_sono_qui.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/06/perche_sono_qui.jpg" />
 
 <div style="text-align: center">
-  <img id="image354" alt="universo.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/universo.jpg" /><img id="image353" alt="uroboros_moderno.gif" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/uroboros_moderno.gif" />
+  <img id="image354" alt="universo.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/06/universo.jpg" /><img id="image353" alt="uroboros_moderno.gif" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/06/uroboros_moderno.gif" />
 </div>

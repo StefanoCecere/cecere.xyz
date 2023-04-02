@@ -3,19 +3,20 @@ draft: true
 categories:
 - Futuro
 - Tempi moderni
-date: 2007-12-10T14:07:56Z
-guid: http://stefanocecere.com/2007/12/10/proteggiamo-la-rinascita-del-popolo-boliviano/
+date: 2007-12-10
+guid: http://cecere.xyz/2007/12/10/proteggiamo-la-rinascita-del-popolo-boliviano/
 id: 617
 tags:
 - Bolivia
 - Politica
-- Terra 2.0
+- Terra2
 - umanista
 title: PROTEGGIAMO LA RINASCITA DEL POPOLO BOLIVIANO
 slug: /2007/12/proteggiamo-la-rinascita-del-popolo-boliviano/
+updated: 2022-03-22
 ---
 
-[<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2007/12/giorgio_schultze_bolivia.thumbnail.jpg' alt='giorgio_schultze_bolivia.jpg' align="left" />](http://stefanocecere.com/wp-content/uploads/sites/3/2007/12/giorgio_schultze_bolivia.jpg "giorgio_schultze_bolivia.jpg")Gente di tutta l'Europa guarda con ammirazione il processo costituente boliviano, un processo democratico e nonviolento che riscatta 500 anni di discriminazione e d'ingiustizia.
+[<img src='http://cecere.xyz/wp-content/uploads/sites/3/2007/12/giorgio_schultze_bolivia.thumbnail.jpg' alt='giorgio_schultze_bolivia.jpg' align="left" />](http://cecere.xyz/wp-content/uploads/sites/3/2007/12/giorgio_schultze_bolivia.jpg "giorgio_schultze_bolivia.jpg")Gente di tutta l'Europa guarda con ammirazione il processo costituente boliviano, un processo democratico e nonviolento che riscatta 500 anni di discriminazione e d'ingiustizia.
 
 Appoggiamo con tutte le nostre forze il Presidente Evo Morales e confidiamo che, come Nelson Mandela prima di lui, porterà il suo paese sulla strada della giustizia e della riconciliazione.
 

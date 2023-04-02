@@ -1,16 +1,17 @@
 ---
 draft: true
 categories: [blog]
-date: 2007-11-26T20:42:37Z
-guid: http://stefanocecere.com/2007/11/26/evo-morales-si-dichiara-umanista/
+date: 2007-11-26
+guid: http://cecere.xyz/2007/11/26/evo-morales-si-dichiara-umanista/
 id: 611
 tags:
 - Evo Morales
 - Politica
-- Terra 2.0
+- Terra2
 - umanista
 title: Evo Morales si dichiara umanista
 slug: /2007/11/evo-morales-si-dichiara-umanista/
+updated: 2022-03-22
 ---
 
 dal sito ufficiale del governo boliviano:

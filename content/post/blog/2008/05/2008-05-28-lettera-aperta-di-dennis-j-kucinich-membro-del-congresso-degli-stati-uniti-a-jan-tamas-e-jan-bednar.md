@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-05-28T09:19:13Z
-guid: http://stefanocecere.com/2008/05/28/lettera-aperta-di-dennis-j-kucinich-membro-del-congresso-degli-stati-uniti-a-jan-tamas-e-jan-bednar/
+guid: http://cecere.xyz/2008/05/28/lettera-aperta-di-dennis-j-kucinich-membro-del-congresso-degli-stati-uniti-a-jan-tamas-e-jan-bednar/
 id: 987
 tags:
 - azioni
@@ -21,7 +21,7 @@ slug: /2008/05/lettera-aperta-di-dennis-j-kucinich-membro-del-congresso-degli-st
 
 _per la serie: ci sono azioni valide e persone valide nel mondo… ( i neretti sono miei)_
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/image001.jpg' alt='image001.jpg' align="left" />Il mondo guarda la vostra possente dimostrazione di coraggio fisico e morale, simbolo di una nuova struttura di pace che sfida il pensiero di chi in nome della pace vuole installare in Europa nuove strutture di aggressione.
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/05/image001.jpg' alt='image001.jpg' align="left" />Il mondo guarda la vostra possente dimostrazione di coraggio fisico e morale, simbolo di una nuova struttura di pace che sfida il pensiero di chi in nome della pace vuole installare in Europa nuove strutture di aggressione.
 
 Come membro del Congresso degli Stati Uniti ho sollevato ripetute obiezioni alla tecnologia stile "Star Wars" nel mio stesso paese. Le testimonianze portate al Congresso hanno dimostrato che **questo programma è una frode**: dal punto di vista tecnico non è in grado nel prossimo futuro di funzionare come meccanismo difensivo ed inoltre molti in Europa lo considerano un’arma offensiva, visto che **i missili e la base radar possono consentire l’esecuzione di un attacco**.
 

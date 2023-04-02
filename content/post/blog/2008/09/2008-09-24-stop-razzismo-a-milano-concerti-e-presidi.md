@@ -3,7 +3,7 @@ categories:
 - Buone Nuove
 - Eventi
 date: 2008-09-24T11:29:11Z
-guid: http://stefanocecere.com/?p=1244
+guid: http://cecere.xyz/?p=1244
 id: 1244
 tags:
 - Events

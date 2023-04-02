@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2007-11-12T03:01:12Z
-guid: http://stefanocecere.com/2007/11/12/guerriglia-in-italia-proprio-come-in-v-per-vendetta/
+guid: http://cecere.xyz/2007/11/12/guerriglia-in-italia-proprio-come-in-v-per-vendetta/
 id: 601
 tags:
 - Italia
@@ -11,7 +11,7 @@ title: 'guerriglia in Italia: proprio come in V per Vendetta'
 slug: /2007/11/guerriglia-in-italia-proprio-come-in-v-per-vendetta/
 ---
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2007/11/v-per-vendetta.png' alt='v-per-vendetta.png' align="left" />ricordate il film V per Vendetta vero?
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2007/11/v-per-vendetta.png' alt='v-per-vendetta.png' align="left" />ricordate il film V per Vendetta vero?
 
 il capolavoro di cui ho spesso parlato…
 

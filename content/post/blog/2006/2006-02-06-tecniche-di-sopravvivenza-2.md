@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-02-06T11:59:33Z
-guid: http://stefanocecere.com/2006/02/06/tecniche-di-sopravvivenza-2/
+guid: http://cecere.xyz/2006/02/06/tecniche-di-sopravvivenza-2/
 id: 222
 title: tecniche di sopravvivenza… (2)
 slug: /2006/02/tecniche-di-sopravvivenza-2/

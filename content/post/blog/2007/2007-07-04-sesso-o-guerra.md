@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2007-07-04T01:12:32Z
-guid: http://stefanocecere.com/2007/07/04/sesso-o-guerra/
+guid: http://cecere.xyz/2007/07/04/sesso-o-guerra/
 id: 514
 tags:
 - arte

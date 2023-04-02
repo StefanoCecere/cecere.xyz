@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-04-04T09:04:09Z
-guid: http://stefanocecere.com/2008/04/04/ridurremo-la-fame-nel-mondo-facciamo-fuori-gli-affamati/
+guid: http://cecere.xyz/2008/04/04/ridurremo-la-fame-nel-mondo-facciamo-fuori-gli-affamati/
 id: 800
 tags:
 - africa
@@ -12,7 +12,7 @@ title: '&quot;Ridurremo la fame nel mondo!&quot; (= facciamo fuori gli affamati!
 slug: /2008/04/ridurremo-la-fame-nel-mondo-facciamo-fuori-gli-affamati/
 ---
 
-<img src='http://stefanocecere.com/wp-content/uploads/sites/3/2008/04/third-world-starvation.thumbnail.jpg' alt='third-world-starvation.jpg' align="left" />sono decenni che continuano a propinare il modello "umanitario" e a dichiararsi solidali con i paesi del terzo mondo.
+<img src='http://cecere.xyz/wp-content/uploads/sites/3/2008/04/third-world-starvation.thumbnail.jpg' alt='third-world-starvation.jpg' align="left" />sono decenni che continuano a propinare il modello "umanitario" e a dichiararsi solidali con i paesi del terzo mondo.
   
 l'umanitaresimo è uno dei gandi business del pianeta.. eppure le situazioni peggiorano di anno in anno…
 

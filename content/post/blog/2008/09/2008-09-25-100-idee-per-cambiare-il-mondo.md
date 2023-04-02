@@ -3,7 +3,7 @@ draft: true
 categories:
 - Buone Nuove
 date: 2008-09-25T13:51:47Z
-guid: http://stefanocecere.com/?p=1274
+guid: http://cecere.xyz/?p=1274
 id: 1274
 tags:
 - cambiare

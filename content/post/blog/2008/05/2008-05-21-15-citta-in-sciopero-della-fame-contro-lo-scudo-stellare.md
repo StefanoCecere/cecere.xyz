@@ -3,7 +3,7 @@ draft: true
 categories:
 - Tempi moderni
 date: 2008-05-21T07:16:32Z
-guid: http://stefanocecere.com/2008/05/21/15-citta-in-sciopero-della-fame-contro-lo-scudo-stellare/
+guid: http://cecere.xyz/2008/05/21/15-citta-in-sciopero-della-fame-contro-lo-scudo-stellare/
 id: 962
 tags:
 - azioni
@@ -60,4 +60,4 @@ intanto le cose vanno avanti. domani si aggiunge Firenze alle 14 città già att
   
 [Ceske Budjovice](http://www.nenasili.cz/it/1132_ceske-budejovice)
 
-![080515_prague_post_2.jpg](http://stefanocecere.com/wp-content/uploads/sites/3/2008/05/080515_prague_post_2.jpg)
+![080515_prague_post_2.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/05/080515_prague_post_2.jpg)

@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-06-14T01:29:48Z
-guid: http://stefanocecere.com/2006/06/14/ti-invito-domenica-pomeriggio-ad-una-festa-umanista/
+guid: http://cecere.xyz/2006/06/14/ti-invito-domenica-pomeriggio-ad-una-festa-umanista/
 id: 333
 tags:
 - arte
@@ -14,7 +14,7 @@ slug: /2006/06/ti-invito-domenica-pomeriggio-ad-una-festa-umanista/
 ---
 
 <div style="text-align: center">
-  <a target="_blank" href="http://www.ilfannullone.it/new/ti-invitiamo-domenica-pomeriggio-festa-stagionale/64/"><img id="image332" alt="Invito Festa Movimento Umanista Monza" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/invito_festa_movimento_umanista_monza.jpg" /></a>
+  <a target="_blank" href="http://www.ilfannullone.it/new/ti-invitiamo-domenica-pomeriggio-festa-stagionale/64/"><img id="image332" alt="Invito Festa Movimento Umanista Monza" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/06/invito_festa_movimento_umanista_monza.jpg" /></a>
 </div>
 
 Negli ultimi post parlo molto di Movimento.. di solito non lo faccio ma è un periodo molto intenso di attività.. e di fatto è un progetto nel quale negli ultimi 10 anni mi sto mettendo con crescente interesse.le stagioni passano veloci, ed è arrivata anche questa estate.

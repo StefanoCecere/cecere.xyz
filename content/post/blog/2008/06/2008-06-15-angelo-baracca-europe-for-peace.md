@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-06-15T20:57:50Z
-guid: http://stefanocecere.com/2008/06/15/angelo-baracca-europe-for-peace/
+guid: http://cecere.xyz/2008/06/15/angelo-baracca-europe-for-peace/
 id: 1039
 tags:
 - disarmo nucleare

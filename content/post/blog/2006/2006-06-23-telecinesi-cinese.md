@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-06-23T10:45:58Z
-guid: http://stefanocecere.com/2006/06/23/telecinesi-cinese/
+guid: http://cecere.xyz/2006/06/23/telecinesi-cinese/
 id: 352
 tags:
 - tecnologia
@@ -12,7 +12,7 @@ slug: /2006/06/telecinesi-cinese/
 
 _e lei ti sposta tutto con la forza della mente… 🙂_
 
- <img align="left" alt="telecinesi.jpg" id="image351" title="telecinesi.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/06/telecinesi.jpg" />mentre sempre più gente continua a crescere nel NON utilizzo della propria mente, per fortuna continuo a conoscerne di interessate ad esplorarsi e svilupparsi un po'.
+ <img align="left" alt="telecinesi.jpg" id="image351" title="telecinesi.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/06/telecinesi.jpg" />mentre sempre più gente continua a crescere nel NON utilizzo della propria mente, per fortuna continuo a conoscerne di interessate ad esplorarsi e svilupparsi un po'.
 
 Che siano amici che rivedono i propri preconcetti, elettori che additano ingannevoli governanti, tifosi che cacciano sportivi corrotti, consumatori che boicottano produttori immorali, religiosi che rifiutano modelli contradditori, telespettatori che spengono la tv.. tutto ciò è segno di utilizzo della propria mente..
 

@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2006-07-10T02:24:21Z
-guid: http://stefanocecere.com/2006/07/10/cosa-ha-detto-materazzi-a-zidane/
+guid: http://cecere.xyz/2006/07/10/cosa-ha-detto-materazzi-a-zidane/
 id: 363
 tags:
 - ricreazione
@@ -11,7 +11,7 @@ title: Cosa ha detto Materazzi a Zidane…
 slug: /2006/07/cosa-ha-detto-materazzi-a-zidane/
 ---
 
-<img align="left" alt="zidane_materazzi.jpg" id="image362" title="zidane_materazzi.jpg" src="http://stefanocecere.com/wp-content/uploads/sites/3/2006/07/zidane_materazzi.jpg" />per farlo reagire in quel modo?
+<img align="left" alt="zidane_materazzi.jpg" id="image362" title="zidane_materazzi.jpg" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/07/zidane_materazzi.jpg" />per farlo reagire in quel modo?
 
 E' stato il fatto che forse ha determinato la partita.. quando **le parole sono anch'esse azioni lanciate nel mondo!! **
 

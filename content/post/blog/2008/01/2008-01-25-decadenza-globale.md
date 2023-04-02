@@ -2,7 +2,7 @@
 draft: true
 categories: [blog]
 date: 2008-01-25T16:48:55Z
-guid: http://stefanocecere.com/2008/01/25/decadenza/
+guid: http://cecere.xyz/2008/01/25/decadenza/
 id: 663
 title: Decadenza globale…
 slug: /2008/01/decadenza-globale/
