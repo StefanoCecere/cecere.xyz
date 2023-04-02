@@ -10,9 +10,9 @@ featured: true
 draft: false
 type: book
 ---
-# SCACCO AL MESSIA
+# Scacco al Messia
 
-di H. VAN DOREN
+di H. Van Doren
 
 Tre storie molto lontane nel tempo si collegano grazie a un motivo conduttore interno. Socrate, Gesù e Rama vivono in epoche diverse, in contesti culturali differenti e, tuttavia, nella storia dei tre si ripetono certe costanti: la lotta del risveglio contro il sogno, il malinteso politico creato intorno a coloro che proclamano la rivoluzione interiore, il rifiuto malsano dei contemporanei nei confronti ci ciò che può restituire loro la dignità, la violenza sistematica contro le idee di pace.  
 Nei tre capitoli appaiono gli stessi scacchisti a volte con nomi simili come Anito in Socrate, Anas in Gesù e la loggia Anael in Rama. A volte con nomi diversi ma con uno stesso conflitto nelle loro coscienze, come nei casi de “il Prefetto”, Ponzio pilato e “il capo”.  
@@ -20,8 +20,6 @@ Forse scioccherà qualche lettore il fatto che nel finale di ogni capitolo venga
 Van Doren insinua che la partita archetipica sta giungendo alla fine e cerca di trasmettere la propria certezza con un breve epilogo con le parole di un uomo dell’America.  
 
 (testo della controcopertina dell’edizione cilena del 5 maggio 1970)
-
-H. VAN DOREN
 
 ## Prologo
 
@@ -31,7 +29,7 @@ Pur tuttavia, la sinistra (tanto per darle un nome) che, per semplice dialettica
 Il tempio di Apollo, il Sinedrio e la Chiesa Cattolica, potrebbero ripetere un milione di volte i loro errori, soffrendo sempre della stessa amnesia.  
 Ne consegue che nessuno potrà mai accettare i fatti come li presentiamo.  
 Coloro che hanno letto le prove contenute in questo volume hanno presunto che l’interprete si fosse basato su diverse fonti d’informazione: Platone, Aristofane, i 4 Vangeli, gli Apocrifi, Josefo, Strauss, Renan, Petrucelli della Gattina e le cronache degli scriba del 1970 dell’era dei Pesci....  
-Nulla di più inesatto !
+Nulla di più inesatto!
 Le tre storie che compongono questo libro si fondano sugli archivi audio-visivi di Hassein (una sorta di video-tape) che sono stati fatti scorrere davanti al redattore perché li interpretasse o perché descrivesse quel che vedeva.  
 Questi archivi si conoscono da molto tempo con il nome pomposo di “akàsici”. In realtà, si tratta di registrazioni incise su un piccolo cristallo che  processa dati e archivia informazioni.  
 Per la serenità degli ipersensibili (che potrebbero molto inopportunamente ostacolare la libera circolazione di questo volume), diciamo che il tutto è, a rigor di logica, un racconto immaginario e che, sebbene alcuni dei personaggi utilizzati siano esistiti veramente, le cose non accaddero nel  modo in cui le abbiamo qui descritte. 
@@ -43,7 +41,7 @@ Lo storico Sse-mu-tsien visse novecento anni dopo Yu-tsen, duecento dopo Socrate
 
 ## I. Socrate
 
-### IL BANCHETTO
+### Il Banchetto
 
 Restando sdraiato Socrate dichiarò: “A parte gli scherzi capite quale missione mi ha affidato quella donna singolare chiamata Diotima (che certamente non era Santippe, la cuoca). Vi affido questo stesso compito perché lo portiate avanti.  
 “Dovete capire che, trovandovi al centro della civiltà, il vostro lavoro, chiamandolo “Filosofia”, è reso assai più agevole. Con essa potete trasmettere la vera conoscenza che è celata nei Misteri delle scuole.  
@@ -72,7 +70,7 @@ Tutti i discepoli risero e uno di loro domandò:
 Così quando Socrate ebbe concluso, cantarono tutti un ditirambo a Dioniso e bevvero il vino sacro.  
 Poi si ritirarono rapidamente.  
 
-### IL PROCESSO
+### Il Processo
 
 Nell’aula del tribunale era rimasta una sola persona.  
 Il Prefetto, nella sua qualità di magistrato supremo, aveva facoltà di rinviare il giudizio. Quel giorno ebbe abbastanza lavoro per evitarlo. Il ricevimento di araldi ed ambasciatori gli aveva riempito tutta la mattina e fu costretto a destinare i ritagli di tempo libero all’evasione delle pratiche politiche pendenti.  
@@ -112,7 +110,7 @@ Gli risuonavano ancora nelle orecchie quelle parole incomprensibili: “Se addor
 Era meglio non pensare. Presto avrebbe dimenticato Socrate, mentre, a sua volta, lui, il prefetto, sarebbe stato sempre ricordato per aver agito come un funzionario degno.  
 Respirò profondamente e abbandonò l’aula pensando a sua moglie che lo aspettava a braccia aperte.  
 
-### MORTE E RISURREZIONE
+### Morte e Risurrezione
 
 Il giorno prima della condanna, il sacerdote di Apollo aveva ornato la poppa della galera che portava a Delo le offerte degli ateniesi. Siccome la legge proibiva di eseguire sentenze prima del ritorno di questa, Socrate rimase un mese in prigione. In qualunque momento i suoi amici potevano entrare nella sua cella.  
 Il giorno dell’esecuzione giunsero molto presto nel carcere i discepoli, i figli e la moglie di Socrate. Santippe provocò un tale caos di urla e di gemiti che fu subito allontanata dalla cella.  
@@ -132,8 +130,8 @@ Critone, Ctesippo e Apollodoro misero il suo corpo su un cocchio e lo portarono 
 Atena poteva essere soddisfatta, Socrate era morto.  
 Nonostante ciò, il giorno successivo l’anziano e i suoi amici lasciavano il Pireo verso il mare aperto.  
 
-## II GESU’
-### LA CENA
+## II. Gesù
+### La Cena
 
 Gesù si alzò dalla tavola levandosi il manto e si cinse i fianchi con un telo.  
 Poi versò dell’acqua in un catino e cominciò a lavare i piedi dei discepoli e ad asciugarli con il telo che aveva addosso. Alla fine disse:
@@ -147,15 +145,14 @@ Se vi ho parlato così è perché non vi perdiate d’animo. Sarete cacciati dal
 Non vi ho detto queste cose prima perché mi trovavo tra voi, ma adesso sto per ritornare da Colui che m’inviò.”.  
 Egli si raccolse un istante prima di aggiungere:
 “Padre io ti ho glorificato sulla terra. Ho portato a termine la missione che mi hai affidato.”
-Quindi Gesù tacque, prese il pane e, inzuppatolo, lo diede a Giuda e gli disse :
-- Ciò che devi fare, fallo subito.  
+Quindi Gesù tacque, prese il pane e, inzuppatolo, lo diede a Giuda e gli disse:
+"Ciò che devi fare, fallo subito".  
 Giuda guardò il Maestro e i compagni e rispose:
 “Sia la volontà di Dio” - e uscì rapidamente.  
 Dopo aver cantato gli inni, tutti si ritirarono.  
 Gesù e coloro che vollero seguirlo, si avviarono all’orto degli Ulivi.  
 
-
-### L’INTRIGO
+### L’intrigo
 
 Pilato comprendeva bene la situazione.  
 La mattina del 9 di nizan, Gesù era sceso dal monte degli Ulivi in direzione di Gerusalemme. Lo seguivano i suoi discepoli, quelli del Battista e numerosi galilei. In seguito si era aggiunta altra gente per il tumulto provocato da quelli e da coloro che non erano stati informati che la sollevazione era stata rinviata.  
@@ -164,7 +161,7 @@ Il giorno dopo, Gesù aveva provocato altro fermento prendendosela con alcuni me
 Pilato sapeva che Gesù, nonostante fosse stato istigato da Anas e dai sadducei a partecipare alla congiura di Pasqua, non prendeva parte a quel gioco. Lui stesso, essendo Procuratore,  vedeva quanto tutto questo fosse complicato.  
 Infatti, Seiano da Roma aveva concepito il piano: la Giudea si ribellava, i romani opponevano una debole resistenza e consentivano il successo della sommossa. Le legioni di stanza in Giudea e i giudei avrebbero poi costretto la Siria  a piegarsi, forzata non solo dalle circostanze ma soprattutto dalla complicità di Pomponio Flacco, governatore e braccio destro di Seiano.  
 In diversi luoghi, i giudei avevano ammassato riserve auree al fine d’incoraggiare i legionari della Gallia e della Betica da cui Pomponio  proveniva. Persino la Britannia era in rivolta contro Tiberio che andava disgregando giorno dopo giorno l’impero e poneva dei leali patrioti nella situazione di traditori.  
-La stessa guardia pretoriana, inoltre, si sarebbe incaricata del despota evitando così uno scontro armato tra le legioni. Le cose sì che sarebbero cambiate ! La Giudea che in fin dei conti era uno dei paesi più poveri e richiedeva enormi spese per la sua occupazione, meritava l’indipendenza per la sua collaborazione.  
+La stessa guardia pretoriana, inoltre, si sarebbe incaricata del despota evitando così uno scontro armato tra le legioni. Le cose sì che sarebbero cambiate! La Giudea che in fin dei conti era uno dei paesi più poveri e richiedeva enormi spese per la sua occupazione, meritava l’indipendenza per la sua collaborazione.  
 Ma Erode Antipa, governando la Galilea (anche se soggetto a Roma), si era mostrato contrario al progetto inviando dei messaggeri a Tiberio cui era rimasto fedele. Nessuno ignorava che l’ambizione del tetrarca era direttamente proporzionale alla sua debolezza di carattere e codardia.  
 In tale situazione, senza l’appoggio dei fedeli di Erode e svelato il complotto, Pilato restava allo scoperto e con lui anche i giudei.  
 La Pasqua era prossima e quel periodo dell’anno simbolizzava una sorte di parola d’ordine per tutti coloro che ricordavano la fuga dall’Egitto. Il complotto, in ogni modo, poteva essere differito in quanto la maggior parte di quei sessantamila abitanti, più quelli che affluivano da tutte le zone della Giudea, erano stati avvertiti dai loro capi del mutamento di piani.  
@@ -202,7 +199,7 @@ All’espressione seccata di Pilato, Caifa riprese il filo del discorso con l’
 “Se non sapessimo che ti distogliamo dalle tue occupazioni, ti porteremmo molte più prove sul suo presuntuoso insegnamento che altro non è che quello di Sakyamuni, soltanto espresso in modo peggiore. Per noi non è anche una novità il motto: “ama il prossimo tuo”, come non lo sono le dottrine di Zend-Avesta, che Gesù mescola abilmente negli aneddoti della sua infanzia, facendo apparire tre adoratori del fuoco come magi che vengono a venerarlo dal paese di Zoroastro.”.  
 Levò gli occhi al cielo e aggiunse: -“Noi rispettiamo le credenze di tutti i popoli, ma non possiamo permettere che si corrompa la nostra tradizione, la nostra famiglia e la nostra religione, mortificate come sono dal giogo straniero. E non è il caso di tirar fuori storie remote, come fossero accadute sotto i nostri nasi.”.  
 “Bene” - disse Pilato visibilmente toccato - “anch’io sono di un altro paese. Vedremo cosa si può fare, ma ti avverto che questi problemi non sono di mia competenza.  
-“Devi prendere oggi una decisione” - lo interruppe Anas - . “Abbiamo sottoposto Gesù ad interrogatorio nel Sinedrio e tra l’altro si è dichiarato re disconoscendo il Cesare e questo è un affare di tua competenza.”.  
+“Devi prendere oggi una decisione” - lo interruppe Anas - “Abbiamo sottoposto Gesù ad interrogatorio nel Sinedrio e tra l’altro si è dichiarato re disconoscendo il Cesare e questo è un affare di tua competenza.”.  
 Pilato allora si avvicinò ad Anas e gli sussurrò all’orecchio:
 “Sei ora difensore di Cesare, o forse te la intendi con Erode Antipa?”
 Il gran sacerdote fece un passo indietro e uscì dal pretorio nel momento in cui sopraggiungeva Oseas gridando:
@@ -222,7 +219,7 @@ Il Procuratore restò solo nella torre, fece qualche passo, poi si sedette sul d
 “Insomma, chi dirige le azioni degli uomini e qual è la libertà e quale la verità?”.  
 E allora ebbe la sensazione di essere come una marionetta tirata dai fili di un Destino incomprensibile.  
 
-### MORTE E RESURREZIONE
+### Morte e Resurrezione
 
 Dopo continui rinvii, il centurione Lentulo - che era stato scelto da Pilato con delle particolari raccomandazioni - prese in consegna Gesù e altri due sediziosi, accusati di crimini comuni.  
 In 14 persone - cinque soldati, Lentulo, i tre condannati, Giuda, Giuseppe d’Arimatea, Giovanni, Simone e Maria di Magdala - il gruppo uscì dalla porta giudiziale che si apriva sul cammino di Siloh e di Gabaon, lasciando sulla sinistra la tomba di Anania, per iniziare a salire sulla destra le pendici del Golgota.  
@@ -240,9 +237,9 @@ Recuperate le forze, il Maestro si mise in viaggio per Jope con Giuda, Simone e 
 Il terzo giorno Maria annunciava ai seguaci che Gesù era risorto ma, nella depressione e nell’abbattimento in cui essi si trovavano, la colpirono fino a stordirla.  
 Gesù e i suoi amici, già a Jope, salpavano verso il mare aperto in un bel tramonto.  
 
-## III RAMA
+## III. Rama
 
-### LA RIUNIONE
+### La Riunione
 
 Seduti intorno a un tavolo, tutti ascoltavano le ultime spiegazioni di quel giovane che sicuramente discendeva dalle tribù d’America.  
 Rama s’interruppe un istante per riconsiderare le proprie parole, poi proseguì: “Riesaminando quanto detto dal punto di vista della Tradizione, la leggenda è questa: il Creatore fece l’uomo a sua immagine, ma lo lasciò incompiuto perché potesse svilupparsi armonicamente, in accordo al processo della Natura, nella quale lo aveva posto per dirigerla.  
@@ -304,7 +301,7 @@ Tutti assentirono.
 Ascoltarono ancora una volta il Cantico della Creazione.  
 Poi Rama salutò tutti e uscì da una porta laterale.  
 
-### IL COMPLOTTO
+### Il Complotto
 
 Per tutto il giorno il Capo aveva subito le continue pressioni dei diversi settori che esigevano una decisione immediata. Nessuno ignorava che dipendeva da lui chiudere la faccenda.  
 Mentre i piccolo-borghesi dei servizi inferiori andavano e venivano accatastando documenti che a loro parere costituivano prove decisive, le alte gerarchie ecclesiastiche minacciavano “anatemi” per la protezione che egli offriva al “corruttore della morale, all’uomo che scavava la fossa alla cultura occidentale e cristiana”.  
@@ -425,7 +422,7 @@ Perdendo quasi il controllo il Capo affermò:
 “Come ho detto, il profeta avrà ciò che merita.”.  
 Salutò i visitatori e piombò demoralizzato nella poltrona. Poco tempo dopo chiamò Fernando da un telefono pubblico e lo mise al corrente degli sviluppi del caso. Conclusa la conversazione tornò in ufficio.  
 
-### MORTE E RESURREZIONE
+### Morte e Resurrezione
 
 Era circa mezzanotte. Lontano, alcune coppie nell’ombra. Un uomo era fermo all’angolo della strada come in attesa. Una vettura che sopraggiungeva a grande andatura, si arrestò accanto a lui. Dai finestrini dell’auto partirono diversi colpi d’arma da fuoco e si vide un corpo cadere al suolo. 
 Gli aggressori si diedero rapidamente alla fuga, mentre numerose persone accorrevano presso la vittima.  
@@ -449,7 +446,7 @@ Fu fatta rinsavire a suon di schiaffi.
 Non c’era nessun sacerdote, nessuna croce, contrariamente a quello che era stato annunciato dalla stampa.  
 Quasi nello stesso momento, Rama e i suoi amici si trovavano ad Antofagasta, in procinto di imbarcarsi.  
 
-## EPILOGO
+## Epilogo
 
 Quando furono tagliati i fili degli uomini-burattini, degli uomini di legno, il tumulto si spense e si fece gran silenzio.  
 
