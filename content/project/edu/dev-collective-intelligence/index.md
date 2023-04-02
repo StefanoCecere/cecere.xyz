@@ -38,4 +38,4 @@ il mio corso introduttivo di 8 o 12 ore
 3. come impostare un progetto Game Unity
 
 ## Libro e Dispense
-[Libro e Dispensa di questo corso]({{< ref "/studio/dev-collective-intelligence" >}})
+[Libro e Dispensa di questo corso](https://2042ed.org/scuola/game-dev/ci/)

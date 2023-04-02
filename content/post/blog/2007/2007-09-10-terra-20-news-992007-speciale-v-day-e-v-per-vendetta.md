@@ -10,7 +10,7 @@ tags:
 - tecnologia
 - Terra2
 - umanista
-title: 'Terra 2.0 News 9/9/2007
+title: "Terra 2.0 News 9/9/2007"
 slug: /2007/09/terra-20-news-992007-speciale-v-day-e-v-per-vendetta/
 updated: 2022-03-22
 ---

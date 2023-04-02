@@ -10,7 +10,7 @@ tags:
 - nonviolenza
 - Terra2
 - umanista
-title: 'La nonviolenza è in cammino
+title: La nonviolenza è in cammino
 slug: /2008/04/la-nonviolenza-e-in-cammino-2010-anno-mondiale-della-nonviolenza/
 updated: 2022-03-22
 ---

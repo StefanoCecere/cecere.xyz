@@ -9,7 +9,7 @@ tags:
 - Terra2
 - umanista
 - USA
-title: '11 Marzo
+title: "11 Marzo"
 slug: /2008/03/11-marzo-gli-umanisti-incontrano-noam-chomsky/
 updated: 2022-03-22
 ---

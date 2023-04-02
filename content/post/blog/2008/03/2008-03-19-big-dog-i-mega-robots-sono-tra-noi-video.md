@@ -8,7 +8,7 @@ tags:
 - robots
 - tecnologia
 - video
-title: '&quot;Big Dog&quot; 
+title: "Big Dog"
 slug: /2008/03/big-dog-i-mega-robots-sono-tra-noi-video/
 updated: 2022-03-22
 ---

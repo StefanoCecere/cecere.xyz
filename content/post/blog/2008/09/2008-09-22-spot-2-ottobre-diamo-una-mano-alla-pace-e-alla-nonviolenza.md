@@ -11,7 +11,7 @@ tags:
 - nonviolenza
 - spot
 - video
-title: 'Spot 2 ottobre
+title: Spot 2 ottobre
 slug: /2008/09/spot-2-ottobre-diamo-una-mano-alla-pace-e-alla-nonviolenza/
 updated: 2022-03-22
 ---

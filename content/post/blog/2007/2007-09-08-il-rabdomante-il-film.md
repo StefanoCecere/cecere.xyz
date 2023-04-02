@@ -11,7 +11,7 @@ tags:
 - ricreazione
 - Terra2
 - umanista
-title: 'Il Rabdomante
+title: "Il Rabdomante"
 slug: /2007/09/il-rabdomante-il-film/
 updated: 2022-03-22
 ---

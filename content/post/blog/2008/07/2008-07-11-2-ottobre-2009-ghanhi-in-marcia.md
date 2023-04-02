@@ -9,7 +9,7 @@ tags:
 - MondoSenzaGuerre
 - Nuova Zelanda
 - Wellington
-title: '2 ottobre 2009
+title: 2 ottobre 2009
 slug: /2008/07/2-ottobre-2009-ghanhi-in-marcia/
 updated: 2022-03-22
 ---

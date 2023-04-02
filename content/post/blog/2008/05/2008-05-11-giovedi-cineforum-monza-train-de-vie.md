@@ -10,7 +10,7 @@ tags:
 - Monza
 - ricreazione
 - Terra2
-title: 'Giovedì cineforumanista Monza
+title: Giovedì cineforumanista Monza
 slug: /2008/05/giovedi-cineforum-monza-train-de-vie/
 updated: 2022-03-22
 ---

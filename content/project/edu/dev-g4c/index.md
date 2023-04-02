@@ -29,4 +29,4 @@ il mio corso di 8, 12 o 16 ore
 - mercato e opportunità
 
 ## Libro e Dispense
-[Libro e Dispensa di questo corso]({{< ref "/studio/dev-g4c" >}})
+[Libro e Dispensa di questo corso](https://2042ed.org/scuola/game-dev/g4c/)

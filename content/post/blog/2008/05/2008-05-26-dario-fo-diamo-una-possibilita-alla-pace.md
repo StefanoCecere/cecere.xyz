@@ -10,7 +10,7 @@ tags:
 - disarmo nucleare
 - Europe for Peace
 - Terra2
-title: 'Dario Fo
+title: Dario Fo
 slug: /2008/05/dario-fo-diamo-una-possibilita-alla-pace/
 updated: 2022-03-22
 ---

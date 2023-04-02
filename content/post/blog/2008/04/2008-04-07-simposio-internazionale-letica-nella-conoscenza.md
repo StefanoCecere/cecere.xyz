@@ -8,7 +8,7 @@ tags:
 - Events
 - Terra2
 - umanista
-title: 'Simposio Internazionale
+title: "Simposio Internazionale"
 slug: /2008/04/simposio-internazionale-letica-nella-conoscenza/
 updated: 2022-03-22
 ---

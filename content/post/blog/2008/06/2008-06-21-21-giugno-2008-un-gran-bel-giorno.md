@@ -12,7 +12,7 @@ tags:
 - Iran
 - attualità
 - stefano
-title: '21 giugno 2008
+title: 21 giugno 2008
 slug: /2008/06/21-giugno-2008-un-gran-bel-giorno/
 updated: 2022-03-22
 ---

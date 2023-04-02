@@ -14,7 +14,7 @@ tags:
 - spirito
 - tecnologia
 - umanista
-title: 'Fannullone Party
+title: "Fannullone Party"
 slug: /2007/06/fannullone-party-la-festa-dellozio-e-non-solo/
 updated: 2022-03-22
 ---

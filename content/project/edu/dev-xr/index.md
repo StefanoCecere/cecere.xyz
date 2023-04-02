@@ -37,4 +37,4 @@ il mio corso di 8, 12 o 16 ore per conoscere la teoria e le basi della Gametch i
 - cardboard
 
 ## Libro e Dispense
-[Libro e Dispensa di questo corso]({{< ref "/studio/dev-xr" >}})
+[Libro e Dispensa di questo corso](https://2042ed.org/scuola/game-dev/xr/)

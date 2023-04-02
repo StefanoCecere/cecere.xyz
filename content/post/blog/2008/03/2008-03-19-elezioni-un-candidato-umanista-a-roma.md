@@ -11,7 +11,7 @@ tags:
 - Terra2
 - umanista
 - video
-title: 'Elezioni
+title: "Elezioni"
 slug: /2008/03/elezioni-un-candidato-umanista-a-roma/
 updated: 2022-03-22
 ---

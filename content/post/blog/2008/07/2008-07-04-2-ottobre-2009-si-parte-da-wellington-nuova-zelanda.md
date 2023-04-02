@@ -10,7 +10,7 @@ tags:
 - mondo
 - MondoSenzaGuerre
 - nonviolenza
-title: '2 ottobre 2009
+title: 2 ottobre 2009
 slug: /2008/07/2-ottobre-2009-si-parte-da-wellington-nuova-zelanda/
 updated: 2022-03-22
 ---

@@ -1,10 +1,10 @@
 ---
 title: "Sum #02"
-slug = "sum02"
-date = 2018-04-09T15:46:13+01:00
-draft = false
-tags = ["M5S"]
-categories = []
+slug: sum02
+date: 2018-04-09
+draft: false
+tags: ["M5S"]
+categories: []
 lastmod: 2022-04-04
 ---
 # Sum #02

@@ -11,7 +11,7 @@ tags:
 - spirito
 - Terra2
 - umanista
-title: '2 ottobre
+title: "2 ottobre"
 slug: /2007/09/2-ottobre-volantino-buon-compleanno-gandhi/
 updated: 2022-03-22
 ---

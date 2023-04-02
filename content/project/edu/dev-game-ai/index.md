@@ -57,4 +57,4 @@ un corso teorico / pratico di 20, 32 o 40 ore
 - leggere una serie di documenti sul ML
 
 ## Libro e Dispense
-[Libro e Dispensa di questo corso]({{< ref "/studio/dev-game-ai" >}})
+[Libro e Dispensa di questo corso](https://2042ed.org/scuola/game-dev/ai/)

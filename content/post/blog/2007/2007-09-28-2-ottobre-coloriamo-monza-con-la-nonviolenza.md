@@ -11,7 +11,7 @@ tags:
 - spirito
 - Terra2
 - umanista
-title: '2 ottobre
+title: "2 ottobre"
 slug: /2007/09/2-ottobre-coloriamo-monza-con-la-nonviolenza/
 updated: 2022-03-22
 ---

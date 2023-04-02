@@ -10,7 +10,7 @@ tags:
 - maestro
 - Terra2
 - umanista
-title: 'Dario Ergas
+title: "Dario Ergas"
 slug: /2008/03/dario-ergas-un-maestro-di-nuovo-umanesimo/
 updated: 2022-03-22
 ---

@@ -1,4 +1,5 @@
 ---
+title: "E' uscito il Fannullone n10"
 draft: true
 categories: [blog]
 date: 2006-06-19
@@ -11,7 +12,6 @@ tags:
 - spirito
 - tecnologia
 - umanista
-title: 'E&#039; uscito il Fannullone n10
 slug: /2006/06/e-uscito-il-fannullone-n10-sempre-allavanguardia/
 updated: 2022-03-22
 ---

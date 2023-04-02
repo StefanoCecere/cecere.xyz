@@ -14,7 +14,7 @@ tags:
 - Terra2
 - umanista
 - video
-title: '15 marzo
+title: "15 marzo"
 slug: /2008/03/15-marzo-una-giornata-di-mobilitazione-mondiale-per-ripudiare-la-guerra/
 updated: 2022-03-22
 ---
