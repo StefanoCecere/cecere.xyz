@@ -2,7 +2,7 @@
 title: "Vi raccontiamo una Terra (speriamo) 2.0: la Bolivia"
 slug: /2007/12/vi-racconto-una-terra-2-bolivia/
 categories: [blog]
-date: 2007-12-04-vi-racconto-una-terra-2-bolivia
+date: 2007-12-04
 guid: http://cecere.xyz/2007/12/04/vi-racconto-tutto/
 id: 615
 tags:

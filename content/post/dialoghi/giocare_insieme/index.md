@@ -7,17 +7,10 @@ tags:
   - giocare
 categories:
   - PlayED
-date: '2020-01-29T23:15:25.000Z'
-lastmod: '2020-01-29T23:15:25.000Z'
+date: 2020-01-29
+lastmod: 2020-01-29
 featured: false
 draft: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-projects: []
-resources: []
-
 ---
 
 - allora noi si gioca insieme. ma nel senso che io e te non siamo nemici e vince il più bravo. dobbiamo collaborare per uscire tutti dal deserto prima che ci sommerga la sabbia o moriamo di sete

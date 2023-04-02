@@ -1,5 +1,5 @@
 ---
-date: "2018-02-14T00:00:00Z"
+date: 2018-02-14
 title: Il gioco della Vita
 slug: il-gioco-della-vita
 ---

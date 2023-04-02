@@ -7,8 +7,8 @@ tags:
   - GdT
 categories:
   - giochiamo
-date: '2020-01-18T09:16:10.000Z'
-lastmod: '2020-01-18T09:16:10.000Z'
+date: 2020-01-18
+lastmod: 2020-01-18
 featured: false
 draft: false
 image:
