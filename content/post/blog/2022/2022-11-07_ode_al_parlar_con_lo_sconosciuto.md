@@ -4,6 +4,7 @@ date: 2022-11-07
 lastmod: 2022-11-08
 tags:
   - blog
+  - diario
 aliases: [Ode al parlar con lo sconosciuto]
 resources: 
   - https://www.bbc.com/future/article/20221026-why-talking-to-strangers-can-make-us-happier
@@ -38,10 +39,3 @@ E nel caso di dubbi perché non domandarsi: sarebbe bello che tutti facessero co
 Se la risposta è si, non ci dovrebbero essere scuse.
 
 PS: da giovane ero estremamente timido e introverso, non posso spiegare come sia cambiato, però si può.
-
-#diario 
-
-
-
-
-
