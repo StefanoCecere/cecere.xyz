@@ -24,8 +24,8 @@ In pratica **PUOI:**
 
 **a QUESTE CONDIZIONI**:
 - **Attribuzione**: Devi riconoscere una menzione di paternità adeguata, fornire un link alla licenza e indicare se sono state effettuate delle modifiche. Puoi fare ciò in qualsiasi maniera ragionevole possibile, ma non con modalità tali da suggerire che il licenziante avalli te o il tuo utilizzo del materiale.
-- **NonCommerciale**: Non puoi utilizzare il materiale per scopi commerciali.
-- **StessaLicenza**: Se remixi, trasformi il materiale o ti basi su di esso, devi distribuire i tuoi contributi con la stessa licenza del materiale originario. 
+- **Non Commerciale**: Non puoi utilizzare il materiale per scopi commerciali.
+- **Stessa Licenza**: Se remixi, trasformi il materiale o ti basi su di esso, devi distribuire i tuoi contributi con la stessa licenza del materiale originario. 
 
 **Perché lo faccio?**  
 Perché il nostro mondo vive e cresce grazie alla condivisione del meglio del nostro meglio delle nostre invenzioni e creazioni. Così come mi piace trovare contenuti liberamente condivisi da altri, così lo voglio fare anche io.
