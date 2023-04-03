@@ -82,8 +82,6 @@ timeout: 600000
 taxonomies:
   tag: tags
   category: categories
-markup:
-  _merge: deep
 related:
   threshold: 80
   includeNewer: true
@@ -100,6 +98,7 @@ sitemap:
 
 # enable class attributes to blockquotes (to style games databoxes)
 markup:
+  _merge: deep
   goldmark:
     parser:
       attribute:
