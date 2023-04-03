@@ -10,11 +10,14 @@ featured: true
 draft: false
 type: book
 ---
-# Scacco al Messia
-di H. Van Doren  
-1975
 
-![socrate e gesù che giocano a scacchi](img/scacco-messia.webp)
+![book cover](/img/post/articles/jaque-al-mesias-libro.webp)
+
+di H. Van Doren, Santiago del Cile, 1970
+
+Questo libro è stato pubblicato a inizio '70 a Santiago del Cile per le edizioni "Editorial Transmutación" e stampato da Impresora Camilo Henríquez Ltda.
+H. Van Doren era lo psudonimo letterario usato da Silo (Mario Luis Rodríguez Cobos, Mendoza, 1938 - 2010) per pubblicare libri salvaguardandosi dalle dittatura militare di Cile e Argentina.
+Questa traduzione italiana è stata fatta nel 1975 e da allora circola nelle reti dei movimenti e centri di ricerca.
 
 > Tre storie molto lontane nel tempo si collegano grazie a un motivo conduttore interno. Socrate, Gesù e Rama vivono in epoche diverse, in contesti culturali differenti e, tuttavia, nella storia dei tre si ripetono certe costanti: la lotta del risveglio contro il sogno, il malinteso politico creato intorno a coloro che proclamano la rivoluzione interiore, il rifiuto malsano dei contemporanei nei confronti ci ciò che può restituire loro la dignità, la violenza sistematica contro le idee di pace.  
 > Nei tre capitoli appaiono gli stessi scacchisti a volte con nomi simili come Anito in Socrate, Anas in Gesù e la loggia Anael in Rama. A volte con nomi diversi ma con uno stesso conflitto nelle loro coscienze, come nei casi de “il Prefetto”, Ponzio pilato e “il capo”.  
@@ -464,3 +467,5 @@ E i signori svegli di Agarti e Shambalà riempirono il cielo e la terra e dieder
 
 Autore anonimo americano.  
 (dagli Archivi di Hassein)
+
+![socrate e gesù che giocano a scacchi](/img/post/articles/scacco-messia.webp)

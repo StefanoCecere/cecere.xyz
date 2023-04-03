@@ -5,7 +5,7 @@ date: 2022-01-01T10:20:52+01:00
 categories: [blog]
 tags: []
 ---
-![](_img/grattinator_featured.webp)
+![](/img/post/2022/grattinator_featured.webp)
 
 non so se c’è un nome allo studio e ricerca del “grattino rilassante”. che non è nel mondo dei massaggi (troppo impegnativi) deve essere qualcosa di estemporaneo che ti catapulta in pochi secondi in un altro mondo. 
 Il “grattinator” (per i ragazzi, Orgasmotron per i post adolescenti) è sicuramente uno strumento fondamentale della Grattinologia  contemporanea, tanto che è diventato una droga condivisa e cooperativa serale. 
