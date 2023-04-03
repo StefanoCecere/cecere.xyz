@@ -1,7 +1,7 @@
 ---
 title: SUM
 date: 2019-03-01
-tags: M5S, Casaleggio
+tags: [M5S, Casaleggio]
 categories: [note]
 ---
 
