@@ -36,7 +36,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: false
+    show_search: true
     highlight_active_link: true
 
 # Site footer
@@ -85,12 +85,11 @@ features:
     commento:
       url: ''
   search:
-    provider: ''
-    algolia:
-      app_id: 'R7FIP8H2C4'
-      api_key: 'a73944b6449c0319fe632f4087dbf66b'
-      index_name: 'stefanocecere.org'
-      show_logo: true
+    provider: docsearch
+    docsearch:
+      app_id: 'PJJLOAKW2K'
+      api_key: 'ee3a082efd0f3f10b8a9efed7b641543'
+      index_name: 'cecerexyz'
   map:
     provider: ''
     api_key: ''
@@ -107,4 +106,4 @@ extensions:
     enable: false
 
 # my
-ghrepo: https://github.com/stefanoCecere/cecere.xyz/
+ghrepo: https://github.com/StefanoCecere/cecere.xyz/
