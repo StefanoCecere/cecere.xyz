@@ -44,7 +44,7 @@ social:
     header: false
 - icon: facebook
   icon_pack: fab
-  link: https://facebook.com/cecere.xyz
+  link: https://facebook.com/cecere2042
   label: Seguimi su Facebook
   display:
     header: true
@@ -76,8 +76,8 @@ social:
 #  link: https://patreon.com/stefanocecere
 - icon: envelope
   icon_pack: fas
-  link: https://cecere.substack.com
-  label: Iscriviti alla mia newsletter settimanale
+  link: https://2042.substack.com
+  label: Iscriviti alla Newsletter 2042
   display:
     header: true
 
