@@ -13,9 +13,8 @@ featured: true
 draft: false
 ---
 
-Il 18 aprile si svolgeranno le primarie del Movimento 5 Stelle per selezionare i candidati per le elezioni europee del 2024.
-
-Chiedo a tutti gli iscritti del M5S della Toscana di valutare la mia autocandidatura.
+Giovedì 18 aprile si svolgeranno le primarie del Movimento 5 Stelle per selezionare i candidati per le elezioni europee del 2024.  
+Chiedo a tutti gli iscritti del M5S della **Toscana** di valutare la mia auto candidatura, e se avrò abbastanza voti passerò al secondo turno con tutta la circoscrizione Centro Italia (Lazio, Marche, Toscana e Umbria) 
 
 ## Perché mi candido?
 
@@ -48,7 +47,6 @@ Ho tenuto incontro di formazione con la Scuola di Cittadinanza del Fatto Quotidi
 
 Vi invito a leggere la mia newsletter <https://2042.substack.com/> dove ne parlo in termini divulgativi.
 
-
 ![](robots.jpg)
 
 – È stato questo a ucciderli tutti? (indicando una testata nucleare)
@@ -61,16 +59,30 @@ Vi invito a leggere la mia newsletter <https://2042.substack.com/> dove ne parlo
 ![](attivismo-pace.jpg)  
 ![](pace-cartelli.jpg)  
 
-Ho iniziato a studiare la nonviolenza attiva nel 1997 e già nel 2003 ero alla grande Manifestazione per la Pace a Roma.  
+Ho iniziato a studiare la nonviolenza attiva nel 1997 e già nel 2003 ero alla grande Manifestazione per la Pace a Roma.
+
+Nel 2007 eravamo a manifestare e organizzare attività in tutta Europa contro lo scudo stellare che gli USA stavano costruendo in Repubblica Ceca... già si annusava l'aria che tirava.
+
+Puoi leggere tutto quello che ho fatto, qui: <https://cecere.xyz/about/attivista/>
 
 ## Tema: Nuovo Umanesimo
 ![](umanesimo.jpg)
 
+Leggi qui: <https://cecere.xyz/about/umanista/>
+
 ## Tema: Educazione 2050
 ![](educazione-2050.jpg)
 
+Dal 2008 la mia preoccupazione sono le nuove generazioni e il tema dell'educazione, chiavi della rigenerazione e del prepararsi alle grandi crisi che stiamo vivendo.
+
+In questa ottica sono funzionali il progetto [2042](https://2042ed.org/) e [2050x](https://2050x.org), e la mia [newsletter](https://2042.substack.com/) che conta già più di 400 iscritti.
+
 ## Tema: Coinvolgimento e Comunità
 ![](mappamondo.jpg)
+
+Sono particolarmente appassionato dal costruire comunità e dal rendere partecipi le persone. Nel 2003 spiegavo agli attivisti di mezza Europa come usare internet e i primi siti web 2.0, poi ho costruito piattaforme di tutti i tipi, sempre nell'ottica di rendere le persone capaci di usare gli strumenti e attivarsi.
+
+Oggi sono vicepresidente di una Casa del Popolo, aiuto diverse associazioni a migliorare la propria comunicazione, ho fatto di tutto per migliorare gli strumenti di comunicazione del Movimento 5 Stelle Toscano.
 
 ## Chi sono?
 ![](../../../assets/media/stefano/stefano-cecere.jpg)
@@ -94,7 +106,7 @@ Valuta la mia esperienza trentennale su <https://cecere.xyz>
 
 ## Perchè mi candido?
 
-Partiamo dalla base: **mi occupo di attivismo politico e culturale dal 1996**, non sono un improvvisato sulla via di Beppe Grillo, rimando altrove a curiosare su cosa ho fatto in 25 anni (questo mio sito è un buon punto di partenza), e penso che **arriva il momento in cui bisogna seriamente mettersi a disposizione dell'insieme prendendosi delle responsabilità**. Perchè è troppo facile stare fuori, magari a fare cose bellissime, e vivere o criticando o aspettandosi che siano sempre gli altri a fare quello che ritieni il meglio.  
+Partiamo dalla base: **mi occupo di attivismo politico e culturale dal 1996**, non sono un improvvisato sulla via di Beppe Grillo, rimando altrove a curiosare su [cosa ho fatto in 30 anni](https://cecere.xyz/about/attivista/), e penso che **arriva il momento in cui bisogna seriamente mettersi a disposizione dell'insieme prendendosi delle responsabilità**. Perchè è troppo facile stare fuori, magari a fare cose bellissime, e vivere o criticando o aspettandosi che siano sempre gli altri a fare quello che ritieni il meglio.  
 
 Se poi una cosa come la Politica ti appassiona e la ritieni importante è frustrante vedere come tutti i giorni venga bistrattata, corrotta, ridotta a banali sgambetti di potere da parte di persone che sembrano non avere cuore, cervello, cultura, senso di realtà, visioni, senso di servizio.
 
