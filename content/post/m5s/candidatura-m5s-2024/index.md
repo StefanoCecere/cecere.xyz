@@ -21,6 +21,7 @@ Chiedo a tutti gli iscritti del M5S della **Toscana** di valutare la mia auto ca
 - Penso di avere le competenze, le capacità e l'esperienza che servono.
 - Sono attivista da più di 30 anni per il cambiamento sociale, unendo studio, passione e professione ai massimi livelli.
 - Ritengo il M5S è il miglior attuale progetto politico e l'unico che si avvicina a noi del 99%
+- L'ambito europeo è per me congeniale, vuoi per la mia esperienza internazionale vuoi per portare avanti i grandi temi che ormai sono globali.
 
 ## Temi chiave?
 
@@ -31,6 +32,7 @@ Chiedo a tutti gli iscritti del M5S della **Toscana** di valutare la mia auto ca
 - Coinvolgimento e Comunità
 
 ## Riferimenti
+_Potete andare direttamente a questi link dove non ho nascosto nulla di quello che faccio e penso:_
 
 - Profilo M5S: <https://portale.movimento5stelle.eu/partners/stefano-cecere-185163>
 - Progetto 2050x / M5S InForma: <https://2050x.org/>
@@ -49,10 +51,10 @@ Vi invito a leggere la mia newsletter <https://2042.substack.com/> dove ne parlo
 
 ![](robots.jpg)
 
-– È stato questo a ucciderli tutti? (indicando una testata nucleare)
-– No, è stata l'arroganza a porre fine al loro regno. La convinzione di essere il culmine della creazione li spinse ad avvelenare l'acqua, a uccidere la terra e a soffocare il cielo. Alla fine non servì l'inverno nucleare, ma solo il lungo autunno del loro egocentrismo.
-– Ehm... Ti senti bene?
-– Sì scusate, pensavo che suonasse meglio di: "No, si sono fottuti con le loro mani perché erano un branco di coglioni!" (tratto daLove, Death & Robots)
+- È stato questo a ucciderli tutti? (indicando una testata nucleare)  
+- No, è stata l'arroganza a porre fine al loro regno. La convinzione di essere il culmine della creazione li spinse ad avvelenare l'acqua, a uccidere la terra e a soffocare il cielo. Alla fine non servì l'inverno nucleare, ma solo il lungo autunno del loro egocentrismo.
+- Ehm... Ti senti bene?
+- Sì scusate, pensavo che suonasse meglio di: "No, si sono fottuti con le loro mani perché erano un branco di coglioni!" (_tratto da Love, Death & Robots_)
 
 ## Tema: Pace e Nonviolenza Attiva
 ![](umanisti-pace.jpg)  
