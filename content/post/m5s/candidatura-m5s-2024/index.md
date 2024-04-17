@@ -3,7 +3,6 @@ title: Perché mi candido alle elezioni europee con il M5S
 slug: candidatura-m5s-2024
 subtitle: ""
 summary: ""
-type: book
 categories:
   - politica
 tags:
@@ -92,7 +91,7 @@ Valuta la mia esperienza trentennale su <https://cecere.xyz>
 - Da quand avevo 16 anni ho lavorato da operaio, da professionista, da dipendente, da imprenditore in dozzine di realtà importanti
 - Considero la Politica come un Servizio necessario per il meglio comune
 - Forse meglio aggiungerlo: **parlo molto bene inglese** (e spagnolo e altri linguaggi), sono incensurato, da sempre in regola con le tasse, non uso droghe, non ho bisogno di un nuovo "lavoro" né di fama.
-- 
+
 ## Perchè mi candido?
 
 Partiamo dalla base: **mi occupo di attivismo politico e culturale dal 1996**, non sono un improvvisato sulla via di Beppe Grillo, rimando altrove a curiosare su cosa ho fatto in 25 anni (questo mio sito è un buon punto di partenza), e penso che **arriva il momento in cui bisogna seriamente mettersi a disposizione dell'insieme prendendosi delle responsabilità**. Perchè è troppo facile stare fuori, magari a fare cose bellissime, e vivere o criticando o aspettandosi che siano sempre gli altri a fare quello che ritieni il meglio.  
