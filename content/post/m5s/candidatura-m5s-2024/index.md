@@ -11,34 +11,52 @@ tags:
 date: 2024-04-15
 featured: true
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-projects: []
 ---
 
-- strumenti e tecnologie digitali innovativi
-- uso dei giochi e delle simulazioni per imparare
-- l'arte di ascoltare e di interagire
-- massima attenzione per chi ha bisogno
-- minima pietà per chi si approfitta della Repubblica
-- sviluppo culturale e creativo umanista come Firenze insegnava
+Il 18 aprile si svolgeranno le primarie del Movimento 5 Stelle per selezionare i candidati per le elezioni europee del 2024.
 
-Chi sono:
+Chiedo a tutti gli iscritti del M5S della Toscana di valutare la mia autocandidatura.
 
-1. attivista per l'Umanesimo e la Nonviolenza dal 1996
-2. da 30 anni lavoro con le nuove tecnologie e la creatività
-3. sviluppo videogiochi educativi e progetti ludici/STEAM
-4. laureando in Scienze della Formazione e Filosofia
-5. ambasciatore dell'OpenSource e dell'Intelligenza Collettiva
-6. nato a Monza, a Firenze dal 2008 ne amo la storia e cultura
-7. ho due Figli ma non mi preoccupo solo dei miei
-8. Musicista professionista, conosco sia il palco che l'armonia
-9. insegno a giocare bene. un giocatore che vorrei in squadra
+## Perché mi candido?
+
+- Penso di avere le competenze, le capacità e l'esperienza che servono.
+- Sono attivista da più di 30 anni per il cambiamento sociale, unendo passione e professione.
+- Ritengo il M5S è il miglior attuale progetto politico.
+
+## Temi chiave?
+
+- Intelligenza Artificiale
+- Pace e Nonviolenza Attiva
+- Nuovo Umanesimo
+- Educazione 2050
+- Coinvolgimento e Comunità
+
+## Riferimenti
+
+- Profilo M5S: <https://portale.movimento5stelle.eu/partners/stefano-cecere-185163>
+- Progetto 2050x: <https://2050x.org/>
+- Newsletter: <https://2042.substack.com/>
+- Progetto 2042ed: <https://2042ed.org/>
+- Profilo Facebook: <https://www.facebook.com/StefanoCecere/>
+- Pagina Facebook: <https://www.facebook.com/cecere2042>
+- LinkedIn: <https://www.linkedin.com/in/stefanocecere/>
+
+![](pace-cartelli.jpg)
+
+## Chi sono?
+
+- Insegno a usare nuovi metodi didattici innovativi
+- Sono consulente per l'Innovazione Tecnologica e 
+- Sviluppo videogiochi educativi e creo ambienti di comunità
+- Sono attivista per l'Umanesimo e la Nonviolenza dal 1996
+- Lavoro da 30 anni con le nuove tecnologie creatività
+- laureando in Scienze della Formazione e Filosofia
+- ambasciatore dell'OpenSource e dell'Intelligenza Collettiva
+- nato a Monza, a Firenze dal 2008 ne amo la storia e cultura
+- ho due Figli ma non mi preoccupo solo dei miei
+- usicista professionista, conosco sia il palco che l'armonia
 
 valuta la mia esperienza trentennale su cecere.xyz
-
 
 - Attivista Umanista dal 1996
 - Musicista professionista con centinaia di concerti
@@ -76,14 +94,6 @@ Ho la capacità di parlare coscientemente e portare avanti questi temi:
 10. ragionare come una fratellanza planetaria
 
 ## Perchè mi candido?
-
-1. Perché non siamo dei punti statici.
-2. Perché è necessario mettersi in gioco.
-3. Perché il M5S è il miglior attuale progetto politico.
-4. Perchè ho molte virtù ed esperienze significative.
-
-Questa la risposta breve che andrò a spiegare nelle prossime righe per rispondere alla domanda di chi mi dice "ma chi te lo fa fare! ma perché con il M5S! non ti eleggeranno mai!" e soprattutto voglio motivare perché dovreste votare me e non qualcun altro.
-Se mi candido non lo faccio per fare numero o dare un segnale, lo faccio perché ritengo, una volta tanto, che io sia meglio di altri. E non dico che farei di tutto per convincervi, ma almeno ci devo provare con la **via della persuasione e della ragione** (e non con quella del ricatto o della confabulazione).
 
 Partiamo dalla base: **mi occupo di attivismo politico e culturale dal 1996**, non sono un improvvisato sulla via di Beppe Grillo, rimando altrove a curiosare su cosa ho fatto in 25 anni (questo mio sito è un buon punto di partenza), e penso che **arriva il momento in cui bisogna seriamente mettersi a disposizione dell'insieme prendendosi delle responsabilità**. Perchè è troppo facile stare fuori, magari a fare cose bellissime, e vivere o criticando o aspettandosi che siano sempre gli altri a fare quello che ritieni il meglio.  
 
@@ -172,21 +182,3 @@ Per questo **la regola del Doppio Mandato è fondamentale**. E la disponibilità
 ## Conclusione
 
 Mi metto a disposizione con energia ed entusiasmo, come in tutti i bei progetti a cui ho lavorato da quando ero ragazzino. Sento che è la cosa migliore da fare e ci sono tutte le condizioni.  
-Sono anche consapevole di essere uno dei 1200 che si sono autocandidati alla Camera (ah: ho scelto la Camera e non il Senato perché la ritengo l'ambiente più "giovane", più promotere di innovazione e voglio collaborare al massimo con menti aperte e giovani), e non ho mai fatto lavoro di self-marketing o cordate. Le Parlamentarie probabilmente eleggeranno i più famosi o i più furbi.
-Conto però che la proposta attuale sia migliore di quella degli anni scorsi, e sarò felice di collaborare con eventuali nuovi parlamentari che riterrò particolarmente validi.
-
-In ogni caso se siete della circoscrizione toscana/firenze: VOTATE PER ME! ;)
-
----
-
-### Appendice
-Ritengo utile leggere questi altri miei post:
-
-Qui la mia pagina pubblica sul portale M5S:  
-<https://portale.movimento5stelle.eu/partners/stefano-cecere-185163>
-
-I 4 punti minimi di programma politico:  
-<https://cecere.xyz/post/politica-temi-minimi/>
-
-Il post sui Valori e Principi del M5S che sposo in pieno:  
-<https://cecere.xyz/post/m5s-principi-valori/>  
