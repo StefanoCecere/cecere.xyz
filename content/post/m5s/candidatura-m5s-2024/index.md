@@ -3,6 +3,7 @@ title: Perché mi candido alle elezioni europee con il M5S
 slug: candidatura-m5s-2024
 subtitle: ""
 summary: ""
+type: book
 categories:
   - politica
 tags:
@@ -20,8 +21,8 @@ Chiedo a tutti gli iscritti del M5S della Toscana di valutare la mia autocandida
 ## Perché mi candido?
 
 - Penso di avere le competenze, le capacità e l'esperienza che servono.
-- Sono attivista da più di 30 anni per il cambiamento sociale, unendo passione e professione.
-- Ritengo il M5S è il miglior attuale progetto politico.
+- Sono attivista da più di 30 anni per il cambiamento sociale, unendo studio, passione e professione ai massimi livelli.
+- Ritengo il M5S è il miglior attuale progetto politico e l'unico che si avvicina a noi del 99%
 
 ## Temi chiave?
 
@@ -34,65 +35,64 @@ Chiedo a tutti gli iscritti del M5S della Toscana di valutare la mia autocandida
 ## Riferimenti
 
 - Profilo M5S: <https://portale.movimento5stelle.eu/partners/stefano-cecere-185163>
-- Progetto 2050x: <https://2050x.org/>
-- Newsletter: <https://2042.substack.com/>
-- Progetto 2042ed: <https://2042ed.org/>
+- Progetto 2050x / M5S InForma: <https://2050x.org/>
+- Newsletter 2042 su tecnologia, educazione e futuro: <https://2042.substack.com/>
+- Portale 2042ed: <https://2042ed.org/>
 - Profilo Facebook: <https://www.facebook.com/StefanoCecere/>
 - Pagina Facebook: <https://www.facebook.com/cecere2042>
 - LinkedIn: <https://www.linkedin.com/in/stefanocecere/>
 
-![](pace-cartelli.jpg)
+## Tema: Intelligenza Artificiale
+Mi occupo di A.I. dal 2002 e sviluppando videogiochi l'ho approfondita, messa in pratica a insegnata negli ultimi 15 anni.
+
+Ho tenuto incontro di formazione con la Scuola di Cittadinanza del Fatto Quotidiano e su vari canali online. 
+
+Vi invito a leggere la mia newsletter <https://2042.substack.com/> dove ne parlo in termini divulgativi.
+
+
+![](robots.jpg)
+
+– È stato questo a ucciderli tutti? (indicando una testata nucleare)
+– No, è stata l'arroganza a porre fine al loro regno. La convinzione di essere il culmine della creazione li spinse ad avvelenare l'acqua, a uccidere la terra e a soffocare il cielo. Alla fine non servì l'inverno nucleare, ma solo il lungo autunno del loro egocentrismo.
+– Ehm... Ti senti bene?
+– Sì scusate, pensavo che suonasse meglio di: "No, si sono fottuti con le loro mani perché erano un branco di coglioni!" (tratto daLove, Death & Robots)
+
+## Tema: Pace e Nonviolenza Attiva
+![](umanisti-pace.jpg)  
+![](attivismo-pace.jpg)  
+![](pace-cartelli.jpg)  
+
+Ho iniziato a studiare la nonviolenza attiva nel 1997 e già nel 2003 ero alla grande Manifestazione per la Pace a Roma.  
+
+## Tema: Nuovo Umanesimo
+![](umanesimo.jpg)
+
+## Tema: Educazione 2050
+![](educazione-2050.jpg)
+
+## Tema: Coinvolgimento e Comunità
+![](mappamondo.jpg)
 
 ## Chi sono?
+![](../../../assets/media/stefano/stefano-cecere.jpg)
 
-- Insegno a usare nuovi metodi didattici innovativi
-- Sono consulente per l'Innovazione Tecnologica e 
-- Sviluppo videogiochi educativi e creo ambienti di comunità
-- Sono attivista per l'Umanesimo e la Nonviolenza dal 1996
-- Lavoro da 30 anni con le nuove tecnologie creatività
-- laureando in Scienze della Formazione e Filosofia
-- ambasciatore dell'OpenSource e dell'Intelligenza Collettiva
-- nato a Monza, a Firenze dal 2008 ne amo la storia e cultura
-- ho due Figli ma non mi preoccupo solo dei miei
-- usicista professionista, conosco sia il palco che l'armonia
+Valuta la mia esperienza trentennale su <https://cecere.xyz>
 
-valuta la mia esperienza trentennale su cecere.xyz
-
-- Attivista Umanista dal 1996
-- Musicista professionista con centinaia di concerti
-- esperto di Informatica e computer dagli anni '80
-- creatore e sviluppatore di Videogiochi Educativi
-- laureando in Scienze della Formazione e Filosofia della Scienza
-- nel mezzo di cammin della mia vita (49 anni). non giovane ma non boomer.
-- con una eclettica libreria di 1200 Libri
-- girato il mondo per la Ricerca, la Pace e la Nonviolenza
-- organizzo laboratori ludico/creativi (STEAM) per ragazzi
-- studio, ricerco e insegno le Nuove Tecnologie AI/AR/VR
-- ambasciatore dell'OpenSource e dell'Intelligenza Collettiva
-- considero il Gioco una delle attività più potenti di esperienza e formazione
-- a Ingegneria scoprii i frattali, il Caos e i Sistemi Complessi, e...
-- ho due Figli ma non mi preoccupo solo dei miei
-- promuovo il Dialogo, ogni forma di espressione e la Comunicazione generativa
-- in 33 anni ho lavorato da operaio, da professionista, da dipendente, da imprenditore in dozzine di realtà importanti
-- so che la fortuna non è democratica, ma l'essere umano ha Empatia e Creatività
-- considero la Politica come un Servizio necessario per il meglio comune
-- amo lo Spazio e penso ci sia un Senso, da qualche parte, e sia importante cercarlo
-- penso che l'Immaginazione abbia evoluto l'umanità, e ci servono nuove immagini
-- forse meglio aggiungerlo: parlo bene inglese, incensurato, sempre in regola con le tasse, non uso droghe, non ho bisogno di un nuovo "lavoro" né di fama
-
-Ho la capacità di parlare coscientemente e portare avanti questi temi:
-
-1. investire in ricerca e sviluppo
-2. diminuire consumi superflui / 2000Watt
-3. valorizzare cultura e modelli positivi
-4. educazione integrale e didattica ludica
-5. prima gli ultimi e i deboli, poi i forti e i ricchi
-6. umanesimo: essere umani al centro
-7. tecnologia e scienza opensource
-8. disarmo nucleare e nonviolenza attiva
-9. comunicazione e politica come servizio pubblico
-10. ragionare come una fratellanza planetaria
-
+- Sono consulente per l'Innovazione Tecnologica applicata alla società e alla formazione
+- Sviluppo videogiochi educativi e per l'impatto sociale positivo
+- Sono attivista per l'Umanesimo e la Nonviolenza attiva dal 1996
+- Lavoro da 30 anni con i computer e le nuove tecnologie digitali
+- Laureando in Scienze della Formazione e Filosofia della Scienza
+- Ambasciatore dell'OpenSource e dell'Intelligenza Collettiva
+- Nato a Monza, a Firenze dal 2008, due Figli
+- Musicista professionista con centinaia di concerti in tutta Europa
+- Esperto di comunicazione generativa, coivolgimento e organizzazione di comunità
+- Organizzo laboratori ludico/creativi (STEAM) per ragazzi
+- Considero il Gioco una delle attività più potenti di esperienza e formazione
+- Da quand avevo 16 anni ho lavorato da operaio, da professionista, da dipendente, da imprenditore in dozzine di realtà importanti
+- Considero la Politica come un Servizio necessario per il meglio comune
+- Forse meglio aggiungerlo: **parlo molto bene inglese** (e spagnolo e altri linguaggi), sono incensurato, da sempre in regola con le tasse, non uso droghe, non ho bisogno di un nuovo "lavoro" né di fama.
+- 
 ## Perchè mi candido?
 
 Partiamo dalla base: **mi occupo di attivismo politico e culturale dal 1996**, non sono un improvvisato sulla via di Beppe Grillo, rimando altrove a curiosare su cosa ho fatto in 25 anni (questo mio sito è un buon punto di partenza), e penso che **arriva il momento in cui bisogna seriamente mettersi a disposizione dell'insieme prendendosi delle responsabilità**. Perchè è troppo facile stare fuori, magari a fare cose bellissime, e vivere o criticando o aspettandosi che siano sempre gli altri a fare quello che ritieni il meglio.  
@@ -137,13 +137,15 @@ Un saggio diceva "**lo scoramento dei valenti e dei coraggiosi rallenta il cammi
 Ed io, senza modestia, mi considero sia valente che coraggioso.
 
 ## Movimento 5 Stelle
-Non voglio qui ripetere da quanto seguo il progetto politico nato da Gianroberto Casaleggio e Beppe Grillo, cosa ho fatto né ripetere tutti gli errori che ho visto in questi 15 anni. Dico solo che **non mi sono lasciato scoraggiare dagli errori di percorso**, e che **l'ultima nuova fase, con Giuseppe Conte e il nuovo Statuto e Carta del Valori, mi piace moltissimo**. La ciliegina l'ha messa l'**intransigenza sul doppio mandato** e la volontà di spiegare la **Politica come una Gerarchia di Servizio**, e non di Potere. Chi si mette ora nel M5S lo fa con spirito di servizio per la collettività.  
-I moltissimi "travestiti" se ne sono andati chi di qua chi di là, e le ultime vicende, dal Governo con la Lega, a quello con il PD, all'esperienza Draghi sono state estremamente interessanti. E ritengo che Giuseppe Conte e l'attuale squadra M5S si siano mosse bene.
+Non voglio qui ripetere da quanto seguo il progetto politico nato da Gianroberto Casaleggio e Beppe Grillo, cosa ho fatto né ripetere tutti gli errori che ho visto in questi 18 anni. Dico solo che **non mi sono lasciato scoraggiare dagli errori di percorso**, e che **l'ultima nuova fase, con Giuseppe Conte e il nuovo Statuto e Carta del Valori, mi piace moltissimo**. La ciliegina l'ha messa l'**intransigenza sul doppio mandato** e la volontà di spiegare la **Politica come una Gerarchia di Servizio**, e non di Potere.
 
-Forse non è quel movimento politico radicale che anelavo vent'anni fa, ma sappiamo che i giovani sono sempre molto più radicali e idealisti. Ma nei fatti **le idee fondamentali con cui si sta muovendo il M5S sono davvero radicali**: 
+> Chi si mette ora nel M5S dovrebbe farlo con spirito di servizio per la collettività. 
+
+Forse non è quel movimento politico radicale che anelavo vent'anni fa, ma sappiamo che i giovani sono sempre molto più radicali e idealisti. Ma nei fatti **le idee fondamentali con cui si sta muovendo il M5S sono davvero radicali**:
+
 - il preoccuparsi innanzitutto degli ultimi
 - il mettere i beni comuni e l'ambiente davanti al profitto dei grandi gruppi di capitale
-- il guardare il mondo per quello che è: multipolare e in cambiamento, e ribadire sì le storiche alleanze atlantiche, ma che non siano una mera sudditanza imperialista
+- il guardare il mondo per quello che è: **multipolare** e in **cambiamento**, e ribadire sì le storiche alleanze atlantiche, ma che non siano una mera sudditanza imperialista
 - il Reddito di Cittadinanza, con tutti i problemi ed errori della prima attivazione, è una necessità in visione di un'ampia riorganizzazione della società e del lavoro nei prossimi anni.
 - il non transigere con l'evasione fiscale o con i compromessi con le organizzazioni più o meno criminali parastatali.
 
@@ -164,10 +166,9 @@ Ed è una questione di fondo, collegata la tema del "movimento".
 
 **Tutto cambia, volenti e nolenti, intenzionalmente o per incidente.**
 
-Ho militato per 15 anni nel Movimento Umanista e abbiamo visto molti cambiamenti interni ed esterni. I valori sono sempre quelli, solidi come i supersolidi, ma le situazioni e **la gente cambia**.   
+Ho militato per 15 anni nel Movimento Umanista e abbiamo visto molti cambiamenti interni ed esterni. I valori sono sempre quelli, solidi come i supersolidi, ma le situazioni e **la gente cambia**.  
 Stessa cosa con il Movimento 5 Stelle: è evidente che si è evoluto molto e non è più quello del 2009, del 2013, del 2018.  
-Ma aggiungo una cosa: se fosse rimasto Di Maio e i suoi prescelti, con tutte le aberrazioni che hanno portato, io oggi sarei molto lontano dal M5S.
-
+Ma aggiungo una cosa: se fosse rimasto Di Maio e i suoi prescelti, con tutte le aberrazioni che hanno portato, io oggi sarei molto lontano dal M5S.  
 Forse starei a raccogliere le firme per un nuovo attore politico.
 
 **I progetti sociali li fanno i valori e le persone.**
@@ -179,6 +180,24 @@ Ora i valori e i principi ci sono e sono molto buoni. Le persone attualmente in 
 Le cose potrebbero cambiare in futuro? Certamente. Se non si sapranno prevedere e prevenire i disastri il M5S potrebbe diventare un partito di potere e di correnti alla ricerca di auto-salvezza.  
 Per questo **la regola del Doppio Mandato è fondamentale**. E la disponibilità di chi ha già fatto esperienza ad affiancare e collaborare è segno di un vero progetto di "missione" al servizio della collettività.
 
+## Chi sono gli attivisti?
+![attivisti](attivisti.jpg)
+
+Dal verbo _attivare_, dal latino _activus_, da _actus_, participio passato di agire.
+
+**Sinomimi** di attivo: energico, operoso, dinamico, efficiente, produttivo, industrioso, laborioso, alacre, vivace, pronto, spedito, efficace, risoluto, funzionante, acceso, inserito.
+
+Gli attivisti sono coloro che compiono azioni, che dopo un sentimento nel petto e un'idea nella mente, **agiscono nel mondo**.
+
+L'attivismo più interessante avviene quando c'è sinergia, quando si agisce insieme, in sintonia e collaborazione.
+
+**Ma come ci si mette d'accordo?**
+
+Innanzitutto ci deve essere un'**idea** e un **sentimento condiviso**.  
+Poi concordare un obiettivo a lungo termine, il "progetto" o la visione finale, e per arrivarci bisogna identificare il sentiero da perseguire, fatto di tanti passi che saranno i micro-obiettivi a breve termine.
+
 ## Conclusione
 
 Mi metto a disposizione con energia ed entusiasmo, come in tutti i bei progetti a cui ho lavorato da quando ero ragazzino. Sento che è la cosa migliore da fare e ci sono tutte le condizioni.  
+
+![](chiunque.jpg)
