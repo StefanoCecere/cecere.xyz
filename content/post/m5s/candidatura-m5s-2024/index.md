@@ -18,18 +18,33 @@ Chiedo a tutti gli iscritti del M5S della **Toscana** di valutare la mia auto ca
 
 ## Perché mi candido?
 
-- Penso di avere le competenze, le capacità e l'esperienza che servono.
-- Sono attivista da più di 30 anni per il cambiamento sociale, unendo studio, passione e professione ai massimi livelli.
-- Ritengo il M5S è il miglior attuale progetto politico e l'unico che si avvicina a noi del 99%
-- L'ambito europeo è per me congeniale, vuoi per la mia esperienza internazionale vuoi per portare avanti i grandi temi che ormai sono globali.
+- Lo scoramento degli esseri umani valenti e solidali ritarda il cammino della storia
+- Ho le competenze, le capacità e l’esperienza che servono.
+- Sono attivista da più di 30 anni per il cambiamento sociale con la priorità della partecipazione dell'insieme e l'educazione
+- Ritengo il M5S è il miglior attuale progetto politico e l’unico che si avvicina a noi del 99%
+- L’ambito europeo è per me congeniale, vuoi per la mia esperienza internazionale vuoi per portare avanti i grandi temi che ormai sono globali.
+  
+## Temi chiave su cui sono molto esperto
 
-## Temi chiave?
-
-- Intelligenza Artificiale
+- Intelligenza Artificiale e Innovazione Tecnologica
 - Pace e Nonviolenza Attiva
 - Nuovo Umanesimo
-- Educazione 2050
+- Educazione 2050 e Life Long Learning
 - Coinvolgimento e Comunità
+
+## Cosa ho fatto ultimamente per il M5S
+
+- creato il sito [2050x.org](https://2050x.org) con centinaia di materiali e guide per gli attivisti
+- promosso e creato tutti i canali Telegram "ufficiali" per i coordinatori provinciali
+- promosso e creato la newsletter del M5S: [https://m5sinforma.substack.com](https://m5sinforma.substack.com/)
+- curo quotidianamente il canale Telegram di rassegna stampa e l'ecosistema: [https://linktr.ee/m5sinforma](https://linktr.ee/m5sinforma)
+- creato il [server Discord](https://discord.gg/9YWqd5y9KG) per il Movimento toscano
+- promosso dozzine di iniziative e flash mob per la pace
+- creato materiali informativi per tutte le attività e riunioni
+- collaborato all'organizzazione delle riunioni provinciali
+- creato mailing list e canali per agevolare la formazione del GT
+- iniziato a fare censimento e contatti ufficiali di tutte le realtà M5S toscane da dare in mano ai coordinatori provinciali (vedi [https://2050x.org/m5s/territori/](https://2050x.org/m5s/territori/))
+- ho parlato a diversi livelli su come migliorare la comunicazione, l'organizzazione delle comunità e favorire la formazione di base degli attivisti
 
 ## Riferimenti
 _Potete andare direttamente a questi link dove non ho nascosto nulla di quello che faccio e penso:_
