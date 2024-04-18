@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-01-22
 guid: http://cecere.xyz/2007/01/22/evviva-non-sono-morto/

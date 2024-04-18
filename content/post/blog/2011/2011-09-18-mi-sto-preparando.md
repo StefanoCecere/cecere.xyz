@@ -1,13 +1,18 @@
 ---
-draft: true
+title: mi sto preparando
+date: 2023-10-20
+updated: 2023-10-21
+type: 
 categories: [blog]
-date: 2011-09-18T23:58:17Z
+tags:
+- viaggio
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
 guid: http://stefanocecere.com/2011/09/18/mi-sto-preparando/
 id: 2637
-tags:
-- San francisco
-- viaggio
-title: mi sto preparando
 slug: /2011/09/mi-sto-preparando/
 ---
 

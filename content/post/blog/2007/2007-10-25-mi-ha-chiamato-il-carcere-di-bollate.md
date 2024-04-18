@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-10-25T15:22:11Z
 guid: http://cecere.xyz/2007/10/25/mi-ha-chiamato-il-carcere-di-bollate/

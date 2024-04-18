@@ -8,7 +8,7 @@ guid: http://stefanocecere.com/?p=1786
 id: 1786
 tags:
 - giornale
-- vergogna!
+- vergogna
 ---
 
 mi dispiace, Ferruccio (de Bortoli) da oggi il tuo giornale non avrà più la mia attenzione quotidiana, e scenderà dal livello "leggi ma attento che hanno altri interessi" a "prendere con le pinze".

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-03-15T02:10:44Z
 guid: http://cecere.xyz/2006/03/15/viva-cio-che-cresce/

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-09-12
 guid: http://cecere.xyz/2007/09/12/concerti-mercanti-di-liquore-e-qualche-comment-sul-v-day/
@@ -9,7 +9,7 @@ tags:
 - Beppe Grillo
 - concerto
 - ricreazione
-- Terra2
+- terra2
 title: concerti Mercanti di liquore e … qualche comment sul V-day
 slug: /2007/09/concerti-mercanti-di-liquore-e-qualche-comment-sul-v-day/
 updated: 2022-03-22

@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 date: 2011-03-20T07:46:04Z
 guid: http://stefanocecere.com/?p=2414
 id: 2414
@@ -14,4 +14,4 @@ slug: /2011/03/nessun-doppio-fine-in-libia/
 
 _A tutti i leader occidentali, ci auguriamo che in Libia si opererà (combatterà) veramente per la libertà e la democrazia del popolo libico e ci si asterrà dall'invasione per altri motivi, come potrebbe essere quello di ottenere il loro petrolio. E non dimenticare di occuparsi, come primo passo, di riparare tutti i danni collaterali, che temo saranno molti …_
 
-_<span style="font-style: normal">(libera traduzione di una lettera di Rafael de la Rubia - Mondo Senza Guerre</span>_
+_<span style="font-style: normal">(libera traduzione di una lettera di Rafael de la Rubia - MondoSenzaGuerre</span>_

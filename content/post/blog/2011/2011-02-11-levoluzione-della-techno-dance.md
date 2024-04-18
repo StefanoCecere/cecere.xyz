@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 categories:
 - Arte
-- Tecnologia
+- tecnologia
 date: 2011-02-11T08:42:24Z
 guid: http://stefanocecere.com/?p=2378
 id: 2378
@@ -11,7 +11,7 @@ tags:
 - evoluzione
 - music
 - video
-title: l&#039;evoluzione della techno dance
+title: l'evoluzione della techno dance
 slug: /2011/02/levoluzione-della-techno-dance/
 ---
 

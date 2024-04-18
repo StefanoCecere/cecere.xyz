@@ -1,14 +1,14 @@
 ---
-draft: true
+draft: false
 categories: [blog]
-date: 2006-01-20T02:54:46Z
+date: 2006-01-20
 guid: http://cecere.xyz/2006/01/20/una-mia-passione-typo3-e-lopensource/
 id: 213
 tags:
 - internet
 - tecnologia
-- TYPO3
-title: 'una mia passione: Typo3 e l&#039;OpenSource'
+- opensource
+title: "una mia passione: Typo3 e l'OpenSource"
 slug: /2006/01/una-mia-passione-typo3-e-lopensource/
 ---
 
@@ -26,7 +26,8 @@ nessun proprietario.. e chi usa il prodotto si deve impegnare a far sì che rima
 
 molto umanista come atteggiamento, vero?
 
-<img src='/wp-content/oldlogo.gif' alt='' align='left' />uno dei sistemi OpenSource con cui sto lavorando molto è Typo3 [www.typo3.com](http://www.typo3.com)
+![](../../../assets/img/post/2006/TYPO3_oldlogo.gif)
+uno dei sistemi OpenSource con cui sto lavorando molto è TYPO3 [www.typo3.com](https://www.typo3.org)
   
 devo dire che ha proprio il sapore del frutto del genio e della passione.
   
@@ -34,7 +35,7 @@ proprio come piace a noi ☺
   
 centinaia di sviluppatori (spesso giovani e simpatici) collaborano a questo software per gestire i contenuti dinamici sui siti web…
 
-ad esempio il nuovo [www.umanisti.it](http://www.umanisti.it) l’ho sviluppato con typo3, così come [www.humanisteurope.org](http://www.humanisteurope.org)
+ad esempio il nuovo [www.umanisti.it](http://www.umanisti.it) l’ho sviluppato con TYPO3, così come [www.humanisteurope.org](http://www.humanisteurope.org)
 
 a presto!
   

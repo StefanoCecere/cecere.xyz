@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-01-22T18:08:08Z
 guid: http://cecere.xyz/2007/01/22/articolo-sullinaugurazione-del-parco-di-attigliano/
@@ -8,7 +8,7 @@ tags:
 - Parco Attigliano
 - spirito
 - umanista
-title: Articolo sull&#039;inaugurazione del Parco di Attigliano
+title: Articolo sull'inaugurazione del Parco di Attigliano
 slug: /2007/01/articolo-sullinaugurazione-del-parco-di-attigliano/
 ---
 

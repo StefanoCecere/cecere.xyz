@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-06-14T01:29:48Z
 guid: http://cecere.xyz/2006/06/14/ti-invito-domenica-pomeriggio-ad-una-festa-umanista/

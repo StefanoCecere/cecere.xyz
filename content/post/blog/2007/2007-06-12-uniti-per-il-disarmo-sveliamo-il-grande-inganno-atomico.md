@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories:
-- Tempi moderni
+- tempi-moderni
 date: 2007-06-12T09:38:29Z
 guid: http://cecere.xyz/2007/06/12/uniti-per-il-disarmo-sveliamo-il-grande-inganno-atomico/
 id: 511
 tags:
-- disarmo nucleare
+- disarmo-nucleare
 - Events
 - umanista
 title: UNITI PER IL DISARMO - SVELIAMO IL GRANDE INGANNO ATOMICO

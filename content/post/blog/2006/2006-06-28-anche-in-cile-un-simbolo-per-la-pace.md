@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-06-28T10:56:00Z
 guid: http://cecere.xyz/2006/06/28/anche-in-cile-un-simbolo-per-la-pace/

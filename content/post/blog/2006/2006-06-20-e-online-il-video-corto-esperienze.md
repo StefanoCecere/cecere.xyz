@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-06-20T01:04:39Z
 guid: http://cecere.xyz/2006/06/20/e-online-il-video-corto-esperienze/
@@ -8,7 +8,7 @@ tags:
 - arte
 - spirito
 - video
-title: E&#039; online il video &quot;Corto Esperienze&quot;
+title: E' online il video &quot;Corto Esperienze&quot;
 slug: /2006/06/e-online-il-video-corto-esperienze/
 ---
 

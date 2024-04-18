@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-04-12T15:03:42Z
 guid: http://cecere.xyz/2006/04/12/lasciare-la-porta-aperta/

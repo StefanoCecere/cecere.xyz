@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-10-13T15:50:40Z
 guid: http://cecere.xyz/2006/10/13/presidio-per-la-scuola-egiziana-a-milano-i-coglioni-le-dive-e-le-bombe-nucleari/
@@ -7,7 +7,7 @@ id: 443
 tags:
 - discriminazione
 - Milano
-- vergogna!
+- vergogna
 title: Presidio per la scuola egiziana a Milano, i coglioni, le dive e le bombe nucleari
 slug: /2006/10/presidio-per-la-scuola-egiziana-a-milano-i-coglioni-le-dive-e-le-bombe-nucleari/
 ---

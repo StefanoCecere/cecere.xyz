@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories:
 - Uncategorized
 date: 2007-04-02T13:22:24Z
@@ -8,7 +8,7 @@ id: 500
 tags:
 - ricreazione
 - ridere
-title: Gesù camminò sull&#039;acqua. Chuck Norris può nuotare per terra.
+title: Gesù camminò sull'acqua. Chuck Norris può nuotare per terra.
 slug: /2007/04/gesu-cammino-sullacqua-chuck-norris-puo-nuotare-per-terra/
 ---
 

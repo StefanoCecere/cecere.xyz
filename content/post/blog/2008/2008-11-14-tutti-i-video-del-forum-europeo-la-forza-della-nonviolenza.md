@@ -1,15 +1,19 @@
 ---
-draft: true
+title: Tutti i video del Forum Europeo &quot;LA FORZA DELLA NONVIOLENZA&quot;
+date: 2008-11-14
+updated: 2023-08-18
+type: 
 categories: [blog]
-date: 2008-11-14T14:57:55Z
-guid: http://cecere.xyz/?p=1489
-id: 1489
 tags:
-- forum umanista
+- forum
 - Milano
 - nonviolenza
 - video
-title: Tutti i video del Forum Europeo &quot;LA FORZA DELLA NONVIOLENZA&quot;
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/?p=1489
+id: 1489
 slug: /2008/11/tutti-i-video-del-forum-europeo-la-forza-della-nonviolenza/
 ---
 

@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories: [blog]
-date: 2006-09-22T10:31:31Z
+date: 2006-09-22
 guid: http://cecere.xyz/2006/09/22/i-benefici-del-sesso/
 id: 424
 tags:
@@ -17,7 +17,7 @@ slug: /2006/09/i-benefici-del-sesso/
 
 lo sapevi che il sesso è la migliore medicina di infiniti problemi?
   
-guardati il file (è un PowerPoint) i [benefici\_del\_sesso.pps (500Kb)](http://cecere.xyz/wp-content/uploads/sites/3/2006/09/benefici_del_sesso.pps "benefici_del_sesso.pps"){#p423}
+guardati il file (è un PowerPoint) i [benefici\_del\_sesso.pps (500Kb)](http://cecere.xyz/wp-content/uploads/sites/3/2006/09/benefici_del_sesso.pps "benefici_del_sesso.pps")
   
 se la cosa ti piace leggi anche il mio: <a target="_blank" href="http://www.ilfannullone.it/articolo/la-ricetta-di-cecio-fitness-trimetalocico/64/">Fitness Trimetalogoco</a>.
   

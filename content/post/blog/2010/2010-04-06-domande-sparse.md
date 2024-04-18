@@ -1,14 +1,18 @@
 ---
 title: domande sparse…
-slug: /2010/04/domande-sparse/
-draft: false
+date: 2010-04-06
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-04-06T16:33:50Z
-guid: http://stefanocecere.com/?p=2059
-id: 2059
 tags:
 - riflessioni
 - politica
+description: 
+permalink: 
+slug: /2010/04/domande-sparse/
+draft: false
+guid: http://stefanocecere.com/?p=2059
+id: 2059
 ---
 
 qualche giorno fa (il 3 aprile per la precisione) ho cambiato prospettiva, o punto di vista se più ti piace, su diverse cose.

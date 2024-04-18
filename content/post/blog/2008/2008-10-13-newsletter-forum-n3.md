@@ -1,16 +1,19 @@
 ---
-draft: true
+title: Newsletter Forum n.3
+date: 2008-10-13
+updated: 2023-08-18
+type: 
 categories: [blog]
-date: 2008-10-13T15:02:19Z
-guid: http://cecere.xyz/?p=1399
-id: 1399
 tags:
 - disinformazione
-- Evo Morales
 - Forum
 - Milano
 - umanista
-title: Newsletter Forum n.3
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/?p=1399
+id: 1399
 slug: /2008/10/newsletter-forum-n3/
 ---
 

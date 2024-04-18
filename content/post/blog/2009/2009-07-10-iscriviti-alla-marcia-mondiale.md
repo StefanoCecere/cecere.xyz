@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 date: 2009-07-10T09:33:32Z
 guid: http://stefanocecere.com/?p=1915
 id: 1915

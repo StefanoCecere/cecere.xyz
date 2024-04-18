@@ -1,18 +1,20 @@
 ---
-draft: true
+draft: false
 categories:
-- Tempi moderni
-date: 2006-02-18T01:56:44Z
+- tempi-moderni
+date: 2006-02-18
 guid: http://cecere.xyz/2006/02/18/dimissioni-immediate-per-roberto-calderoli/
 id: 230
 tags:
 - umanista
-- vergogna!
+- vergogna
 title: DIMISSIONI IMMEDIATE PER ROBERTO CALDEROLI
 slug: /2006/02/dimissioni-immediate-per-roberto-calderoli/
 ---
 
-<img src='/wp-content/roberto_calderoli.jpg' alt='' align='left' />scusami, potresti non essere d'accordo, ma non posso non girarti il seguente comunicato stampa, è troppo importante..
+![](../../../assets/img/post/2006/roberto_calderoli.jpg)
+
+scusami, potresti non essere d'accordo, ma non posso non girarti il seguente comunicato stampa, è troppo importante..
   
 saprai cosa ha fatto ieri il nostro "ministro", indossando una maglietta con su una vignetta anti-maometto…bene:
 

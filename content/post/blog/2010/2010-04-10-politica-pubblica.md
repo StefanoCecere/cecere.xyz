@@ -1,16 +1,20 @@
 ---
 title: Politica pubblica!
-slug: /2010/04/politica-pubblica/
-draft: false
+date: 2010-04-10
+updated: 2023-08-21
+type: 
 categories:
-- Politica
-date: 2010-04-10T17:50:59Z
-guid: http://stefanocecere.com/?p=2127
-id: 2127
+- politica
 tags:
-- Politica
+- politica
 - proposta
 - Repubblica
+description: 
+permalink: 
+slug: /2010/04/politica-pubblica/
+draft: false
+guid: http://stefanocecere.com/?p=2127
+id: 2127
 ---
 
 hai un **incarico pubblico**? ovvero gestisci le risorse pubbliche e le tue decisioni hanno consueguenze sulla vita di noi tutti, che in un modo o nell'altro ti abbiamo messo lì per farlo e ti diamo un notevole stipendio?

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-07-18T08:54:13Z
 guid: http://cecere.xyz/2007/07/18/harry-plotter-ops-potter-questa-volta-mi-e-piaciuto/

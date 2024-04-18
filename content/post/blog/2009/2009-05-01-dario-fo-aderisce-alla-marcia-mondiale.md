@@ -1,13 +1,13 @@
 ---
-draft: true
+draft: false
 categories:
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 date: 2009-05-01T08:33:01Z
 guid: http://stefanocecere.com/?p=1722
 id: 1722
 tags:
 - Dario Fo
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 - video
 title: Dario Fo aderisce alla Marcia Mondiale
 slug: /2009/05/dario-fo-aderisce-alla-marcia-mondiale/

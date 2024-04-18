@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories:
 - JJ
 date: 2012-06-07T13:29:45Z
@@ -10,7 +10,7 @@ tags:
 - JJ
 - music
 - video
-title: JJ on tour - l&#039;intervista
+title: JJ on tour - l'intervista
 slug: /2012/06/jj-on-tour-lintervista/
 ---
 

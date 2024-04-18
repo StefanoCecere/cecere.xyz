@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories: [blog]
-date: 2013-09-17T07:59:20Z"
+date: 2013-09-17
 id: 4647
 title: 'ho finalmente trovato la mia radio preferita: “Sec…'
 slug: /2013/09/ho-finalmente-trovato-la-mia-radio-preferita-sec/

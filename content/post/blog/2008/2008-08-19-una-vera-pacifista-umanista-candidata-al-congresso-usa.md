@@ -1,16 +1,19 @@
 ---
-draft: true
+title: Una vera pacifista umanista candidata al Congresso USA
+date: 2008-08-19
+updated: 2023-08-18
+type: 
 categories: [blog]
-date: 2008-08-19T14:58:44Z
-guid: http://cecere.xyz/?p=1123
-id: 1123
 tags:
-- cosa fare
 - elezioni
 - pace
 - umanista
 - USA
-title: Una vera pacifista umanista candidata al Congresso USA
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/?p=1123
+id: 1123
 slug: /2008/08/una-vera-pacifista-umanista-candidata-al-congresso-usa/
 ---
 

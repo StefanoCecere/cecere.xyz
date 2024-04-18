@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories: [blog]
-date: 2006-05-15T14:20:52Z
+date: 2006-05-15
 guid: http://cecere.xyz/2006/05/15/incoerenza-o-coerenza/
 id: 271
 tags:
@@ -11,7 +11,7 @@ title: Incoerenza o coerenza?
 slug: /2006/05/incoerenza-o-coerenza/
 ---
 
-![](/wp-content/incoerenza_coerenza.jpg)
+![](../../../assets/img/post/2006/incoerenza_coerenza.jpg)
 
 per gli umanisti la coerenza è pensare, sentire ed agire nella stessa direzione.
   

@@ -1,18 +1,19 @@
 ---
-title: "sull'immortalità"
+title: Sull'immortalità
+date: 2023-04-02
+updated: 2023-08-21
+type: 
+categories:
+  - blog
+tags:
+  - senso-della-vita
+  - trascendenza
+description: ""
+permalink: 
 slug: immortalita-aragoste
 subtitle: ""
-summary: ""
-categories: [blog]
-tags: [senso-della-vita,trascendenza]
-date: 2022-08-04T09:34:05+01:00
 featured: false
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-projects: []
 ---
 # sull'immortalità
 Non so quanti si preoccupano seriamente di immortalità.

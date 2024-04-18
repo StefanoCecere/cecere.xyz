@@ -1,14 +1,18 @@
 ---
-draft: true
+title: Il Parkour ti fa volare.
+date: 2006-12-28
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2006-12-28T16:47:31Z
-guid: http://cecere.xyz/2006/12/28/il-parkour-ti-fa-volare/
-id: 482
 tags:
 - arte
 - ricreazione
 - spirito
-title: Il Parkour ti fa volare.
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/2006/12/28/il-parkour-ti-fa-volare/
+id: 482
 slug: /2006/12/il-parkour-ti-fa-volare/
 ---
 

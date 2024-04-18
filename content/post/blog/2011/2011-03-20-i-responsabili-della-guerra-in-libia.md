@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 categories:
-- Politica
-- Tempi moderni
+- politica
+- tempi-moderni
 date: 2011-03-20T07:41:37Z
 guid: http://stefanocecere.com/?p=2411
 id: 2411
@@ -10,7 +10,7 @@ tags:
 - guerra
 - Libia
 - partito umanista
-- Politica
+- politica
 title: I responsabili della guerra in Libia?
 slug: /2011/03/i-responsabili-della-guerra-in-libia/
 ---

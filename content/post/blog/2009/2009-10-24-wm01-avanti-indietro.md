@@ -1,14 +1,14 @@
 ---
-draft: true
+draft: false
 categories: [blog]
-date: 2009-10-24T05:18:08Z
+date: 2009-10-24
 guid: http://stefanocecere.com/?p=1965
 id: 1965
 tags:
 - diario
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 - sentimenti
-title: '[wm01] Avanti all&#039;indietro'
+title: "[wm01] Avanti all'indietro"
 slug: /2009/10/wm01-avanti-indietro/
 ---
 

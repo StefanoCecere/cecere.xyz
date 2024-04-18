@@ -1,14 +1,20 @@
 ---
-draft: true
+title: 'La quarta crociata? preoccupazioni sullo "scontro di civiltà"'
+date: 2006-03-03
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2006-03-03T13:29:43Z
+tags: [guerra]
+description: 
+permalink: 
+draft: false
 guid: http://cecere.xyz/2006/03/03/la-quarta-crociata-preoccupazioni-sullo-scontro-di-civilta/
 id: 238
-title: la quarta crociata? preoccupazioni sullo &quot;scontro di civiltà&quot;
 slug: /2006/03/la-quarta-crociata-preoccupazioni-sullo-scontro-di-civilta/
 ---
 
-<img src='/wp-content/crociata_nucleare.jpg' alt='crociata nucleare' align='left' />giustamente qualcuno sta iniziando a preoccuparsi di quanto sta succedendo…
+![](../../../assets/img/post/2006/crociata_nucleare.jpg)
+giustamente qualcuno sta iniziando a preoccuparsi di quanto sta succedendo…
   
 dopo le recenti affermazioni di Gheddafi sull'atavica ostilità dei libici nei confronti degli italiani, scrivo…
 
@@ -40,10 +46,8 @@ le tue procuppazioni sono molto fondate.
   
 non credere che le nostre lo siano di meno (sono 40 anni che si sono previste ste cose e fatto assolutamente di tutto per cambiare il corso della storia). quello di cui sono certo è
   
-1) che non ho scelto io questa
-  
-2) che non condivido questo atteggiamento
-  
-3) che partecipo ad un progetto che da decenni sta mettendo in guardia su queste cose e propone alternative..
+1. che non ho scelto io questa
+2. che non condivido questo atteggiamento
+3. che partecipo ad un progetto che da decenni sta mettendo in guardia su queste cose e propone alternative..
 
 quindi in conclusione: prepariamoci (forse più "internamente" che esternamente) alla bufera, non caschiamo nelle loro dinamiche, e pensiamo al "dopo". a come vorremo sia il dopo.

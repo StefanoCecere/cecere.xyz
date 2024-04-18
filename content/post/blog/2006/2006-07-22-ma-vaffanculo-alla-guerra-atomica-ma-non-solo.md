@@ -1,11 +1,11 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-07-22T04:21:14Z
 guid: http://cecere.xyz/2006/07/22/ma-vaffanculo-alla-guerra-atomica-ma-non-solo/
 id: 387
 tags:
-- disarmo nucleare
+- disarmo-nucleare
 title: Ma vaffanculo (alla guerra atomica ma non solo)
 slug: /2006/07/ma-vaffanculo-alla-guerra-atomica-ma-non-solo/
 ---

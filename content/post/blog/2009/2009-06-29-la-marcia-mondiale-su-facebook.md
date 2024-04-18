@@ -1,13 +1,13 @@
 ---
-draft: true
+draft: false
 categories:
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 date: 2009-06-29T06:45:24Z
 guid: http://stefanocecere.com/?p=1904
 id: 1904
 tags:
 - facebook
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 title: la Marcia Mondiale su Facebook
 slug: /2009/06/la-marcia-mondiale-su-facebook/
 ---

@@ -1,20 +1,23 @@
 ---
-draft: true
+title: "Centro Umanista Monza: l'inizio"
+date: 2006-01-05
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2006-01-05T01:16:03Z
-guid: http://cecere.xyz/2006/01/05/centro-umanista-monza-linizio/
-id: 205
 tags:
 - foto
 - Monza
 - Movimento
 - ricreazione
 - umanista
-title: "Centro Umanista Monza: l'inizio"
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/2006/01/05/centro-umanista-monza-linizio/
+id: 205
 slug: /2006/01/centro-umanista-monza-linizio/
 ---
-
-[<img src='/wp-content/centro_umanista_monza.jpg' alt='' align='left' />](http://www.ilfannullone.it/new/centro-umanista-in-cerca-di-nome-le-prime-foto/64/)
+![](../../../assets/img/post/2006/centro_umanista_monza.jpg)
 
 oggi è stata una grande e importante giornata.
   

@@ -1,13 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
-date: 2015-03-24T06:45:54Z
+date: 2015-03-24
 guid: http://stefanocecere.com/?p=5714
 id: 5714
 tags:
 - coerenza
 - morale
-- punti di vista
 title: i soliti punti di vista
 slug: /2015/03/i-soliti-punti-di-vista/
 ---
@@ -20,6 +19,6 @@ per quanto illuminato e saggio uno possa essere, e quindi magari punti di vista 
 
 forse sarebbe opportuno premettere sempre: "il mio punto di vista è questo e il mio interesse è codesto.. ora ti dico quello che penso"
 
-NOTA: sul tema è stato per me fondamentale la conferenza di Silo sulle "Condizioni del dialogo" ([leggi]({{< ref-id "p-le-condizioni-del-dialogo" >}}) )
+NOTA: sul tema è stato per me fondamentale la conferenza di Silo sulle [Condizioni del dialogo](../2005/le-condizioni-del-dialogo.md)
 
-<img class="alignnone size-full wp-image-5715" src="http://stefanocecere.com/wp-content/uploads/sites/3/2015/03/punti-di-vista-cattolici.jpg" alt="punti di vista cattolici" width="526" height="518" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2015/03/punti-di-vista-cattolici.jpg 526w, http://stefanocecere.com/wp-content/uploads/sites/3/2015/03/punti-di-vista-cattolici-300x295.jpg 300w" sizes="(max-width: 526px) 100vw, 526px" />
+![](../../../assets/img/post/2015/punti-di-vista-cattolici.jpg)

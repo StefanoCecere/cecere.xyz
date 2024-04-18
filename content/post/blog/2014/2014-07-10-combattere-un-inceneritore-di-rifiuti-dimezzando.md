@@ -1,12 +1,17 @@
 ---
-draft: true
+title: combattere un inceneritore di rifiuti.. dimezzando…
+date: 2014-07-10
+updated: 2023-08-21
+type: 
 categories:
 - Tweets
-date: 2014-07-10T23:06:37Z
+tags: 
+description: 
+permalink: 
+draft: false
 format: status
 guid: http://twitter-487357248591888384-post
 id: 5648
-title: combattere un inceneritore di rifiuti.. dimezzando…
 slug: /2014/07/combattere-un-inceneritore-di-rifiuti-dimezzando/
 ---
 

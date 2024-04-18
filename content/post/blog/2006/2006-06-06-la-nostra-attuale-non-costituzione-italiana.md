@@ -1,15 +1,15 @@
 ---
-draft: true
+draft: false
 categories:
-- Tempi moderni
+- tempi-moderni
 date: 2006-06-06T09:18:51Z
 guid: http://cecere.xyz/2006/06/06/la-nostra-attuale-non-costituzione-italiana/
 id: 320
 tags:
 - Costituzione
-- Politica
-- vergogna!
-title: la nostra attuale &quot;non&quot; Costituzione Italiana
+- politica
+- vergogna
+title: 'la nostra attuale "non" Costituzione Italiana'
 slug: /2006/06/la-nostra-attuale-non-costituzione-italiana/
 ---
 
@@ -32,6 +32,6 @@ E così scoprirai anche tu qualche capolavoro di  bel pensiero, grandi immagini
 - come ognuno ha diritto di formare una famiglia.. non specificando il sesso delle parti…
 - come lo Stato debba lavorare per garantire a tutti il diritto alla salute e all'educazione, privilegiando assai i servizi pubblici rispetto quelli privati…
 
-e tante altre belle cose.. ecco qui il file se lo vuoi leggere: [Costituzione Italiana (PDF)](http://cecere.xyz/wp-content/uploads/sites/3/2006/06/costituzione_italiana.pdf){#p318}
+e tante altre belle cose.. ecco qui il file se lo vuoi leggere: [Costituzione Italiana (PDF)](http://cecere.xyz/wp-content/uploads/sites/3/2006/06/costituzione_italiana.pdf)
 
 per questo gli Umanisti chiedono, **prima di andare a stravolgere** (e questa volta non con decreti temporanei, ma alle radici) qualcosa di molto buono, **di iniziare a rispettare in modo onesto e coerente le nostre leggi fondamentali**.

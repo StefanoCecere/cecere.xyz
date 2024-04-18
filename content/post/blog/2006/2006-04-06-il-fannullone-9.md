@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-04-06
 guid: http://cecere.xyz/2006/04/06/il-fannullone-9/

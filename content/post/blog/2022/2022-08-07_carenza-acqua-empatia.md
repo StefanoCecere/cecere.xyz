@@ -1,18 +1,19 @@
 ---
 title: "Carenza d'acqua ed empatia"
+date: 2022-08-07
+updated: 2023-08-21
+type: 
+categories: [blog]
+tags:
+  - acqua
+  - empatia
+  - empatica
+description: ""
+permalink: 
 slug: carenza-acqua-empatia
 subtitle: ""
-summary: ""
-categories: [blog]
-tags: [acqua,empatia]
-date: 2022-08-07T11:53:05+01:00
 featured: false
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-projects: []
 ---
 # Carenza d'acqua ed empatia
 sull’autobus:

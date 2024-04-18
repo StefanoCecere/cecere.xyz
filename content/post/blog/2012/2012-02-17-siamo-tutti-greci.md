@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 categories:
 - Economia
-- Eventi
+- eventi
 date: 2012-02-17T15:43:00Z
 guid: http://stefanocecere.com/?p=2859
 id: 2859

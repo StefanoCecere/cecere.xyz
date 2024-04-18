@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Media
+- media
 - Spirito
 date: 2012-06-05T11:39:39Z
 format: video

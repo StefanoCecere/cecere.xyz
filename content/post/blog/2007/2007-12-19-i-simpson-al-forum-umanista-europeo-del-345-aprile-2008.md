@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-12-19
 guid: http://cecere.xyz/2007/12/19/i-simpson-al-forum-umanista-europeo-del-345-aprile-2008/
@@ -9,7 +9,7 @@ tags:
 - Forum
 - ricreazione
 - simpsons
-- Terra2
+- terra2
 - umanista
 - video
 title: I Simpson al Forum Umanista Europeo del 3.4.5 aprile 2008

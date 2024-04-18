@@ -1,9 +1,13 @@
 ---
 title: coincidenze, Gurdjieff e la morte
-slug: 2006/01/coincidenze-gurdjieff-e-la-morte
-date: 2006-01-10T08:30:46Z
+date: 2006-01-10
+updated: 2023-08-21
+type: 
 categories: [blog]
 tags: [filosofia, morte, Gurdjieff, spirito]
+description: 
+permalink: 
+slug: 2006/01/coincidenze-gurdjieff-e-la-morte
 ---
 la sinusite non mi è ancora passata, così ieri sera prendo il mio fido portatile per vedere un film a letto.
   
@@ -24,7 +28,7 @@ ora:
 
 il libro che ho in mano è “**Il Monte Analogo**” di René Dumal.. sapevo di averlo in libreria, comprato su consiglio di un amico siloista diversi anni fa.. dato che alcuni amici sudamericani lo hanno riscoperto in questi ultimi giorni, ed avendo ieri finito il fantastico “Contact” di Carl Sagan, mi è venuta voglia di rileggermi questa precisa avventura di ricerca metafisica, con tutta la simbologia della montagna.
 
-letto il primo capitolo non posso non pensare al “vecchio maestro” [Ivanovic Gurdjieff](http://www.gurdjieff.it/) e ricordarmi che proprio settimana scorsa un amico mi ha passato il file con il film di **“Incontri con uomini straordinari”** (un vecchio libro ma che consiglio vivamente a tutti.. forse l'unico libro del Gurji da leggere), di cui sapevo l’esistenza ma non avevo mai visto.
+letto il primo capitolo non posso non pensare al “vecchio maestro” [Ivanovic Gurdjieff](http://www.gurdjieff.it/) e ricordarmi che proprio settimana scorsa un amico mi ha passato il file con il film di **“Incontri con uomini straordinari”** (un vecchio libro ma che consiglio vivamente a tutti.. forse l'unico libro del Gurdji da leggere), di cui sapevo l’esistenza ma non avevo mai visto.
   
 essendo il film in inglese senza sottotitoli non sarebbe stato idoneo per le nostre cenevision di gruppo, e così ho iniziato a vederlo da solo. per ora ne ho visto solo la metà. è bellissimo. forse senza aver letto il libro non è facile da capire bene (ma ci sono scene che nel libro non appaiono, tipo la gara tra musicisti per far “risuonare la montagna” con la propria musica…)
 

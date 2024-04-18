@@ -6,7 +6,7 @@ categories: [blog]
 date: 2007-10-02
 ---
 
-![](img/buon_compleanno_gandhi_featured.jpg)
+![](../../../assets/img/post/2007/buon_compleanno_gandhi_featured.jpg)
 
 anche quest'anno il 2 ottobre lo festeggiamo con un bel evento in centro Monza
 

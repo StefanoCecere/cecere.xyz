@@ -8,7 +8,7 @@ guid: http://stefanocecere.com/?p=2418
 id: 2418
 tags:
 - diversità
-- senso della vita
+- senso-della-vita
 ---
 
 esistono diversi livelli di sensibilità,

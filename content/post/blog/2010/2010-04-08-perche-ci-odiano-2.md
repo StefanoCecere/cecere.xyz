@@ -1,9 +1,9 @@
 ---
-draft: true
+title: Perchè ci odiano?
+date: 2010-04-08
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-04-08T23:19:44Z
-guid: http://stefanocecere.com/?p=2099
-id: 2099
 tags:
 - guerre
 - Islam
@@ -11,7 +11,11 @@ tags:
 - libri
 - Palestina
 - recensione
-title: Perchè ci odiano?
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2099
+id: 2099
 slug: /2010/04/perche-ci-odiano-2/
 ---
 

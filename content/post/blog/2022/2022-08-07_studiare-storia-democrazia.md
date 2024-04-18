@@ -1,18 +1,19 @@
 ---
 title: "Come studiare la storia"
+date: 2022-08-07
+updated: 2023-08-21
+type: 
+categories: [blog]
+tags:
+  - storia
+  - democrazia
+  - democratizzazione
+description: ""
+permalink: 
 slug: studiare-storia-democratizzazione
 subtitle: ""
-summary: ""
-categories: [blog]
-tags: [storia,democrazia]
-date: 2022-08-07T09:53:05+01:00
 featured: false
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-projects: []
 ---
 # Come studiare la storia
 se dobbiamo studiare la Storia, anzi se vogliamo entusiasmare e rendere interessanti oltreché utili i libri di storia, potremmo mettere lo sguardo sulla #democratizzazione 

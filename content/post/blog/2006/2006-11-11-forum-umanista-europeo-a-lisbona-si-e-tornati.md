@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-11-11T02:41:40Z
 guid: http://cecere.xyz/2006/11/11/forum-umanista-europeo-a-lisbona-si-e-tornati/

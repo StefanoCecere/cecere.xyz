@@ -1,13 +1,17 @@
 ---
-draft: true
+title: Solidarietà ad Emergency
+date: 2010-04-12
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-04-12T08:29:32Z
-guid: http://stefanocecere.com/?p=2131
-id: 2131
 tags:
 - guerra
 - video
-title: Solidarietà ad Emergency
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2131
+id: 2131
 slug: /2010/04/solidarieta-ad-emergency/
 ---
 

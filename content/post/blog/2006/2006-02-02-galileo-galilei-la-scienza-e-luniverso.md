@@ -1,24 +1,26 @@
 ---
-draft: true
+draft: false
 categories: [blog]
-date: 2006-02-02T11:04:43Z
+date: 2006-02-02
 guid: http://cecere.xyz/2006/02/02/galileo-galilei-la-scienza-e-luniverso/
 id: 219
 tags:
 - scienza
 - tecnologia
 - universo
-title: galileo galilei, la scienza e l&#039;universo
+title: galileo galilei, la scienza e l'universo
 slug: /2006/02/galileo-galilei-la-scienza-e-luniverso/
 ---
 
-ier l'altro ho asssitito a Firenze allo spettacolo della Margherita Hack sull'Universo.
+ier l'altro ho assitito a Firenze allo spettacolo della Margherita Hack sull'Universo.
   
 proprio la notte prima avevo scritto il mio articolo per il prossimo Fannullone sul tema dell'Universo.
   
 e ieri sera mi ricapita sottomano questo bellissimo omaggio a Galileo Galilei…
 
-<img src='/wp-content/galileo.jpg' alt='' align='left' />**Omaggio a Galileo nella Piazza di Santa Croce in Firenze in occasione della Prima Internazionale Umanista. 7 Gennaio 1989.**
+![](../../../assets/img/post/2006/galileo.jpg)
+
+**Omaggio a Galileo nella Piazza di Santa Croce in Firenze in occasione della Prima Internazionale Umanista. 7 Gennaio 1989.**
 
 “Io, Galileo Galilei, lettore di matematiche nell'Università di Firenze, pubblicamente abiuro la mia dottrina che il sole è il centro del mondo e non si muove, e che la terra non è il centro del mondo e si muove. Con cuore sincero e fede non finta abiuro, maledico e detesto i suddetti errori ed eresie, e qualunque altro errore, eresia e setta contraria alla Santa Chiesa.”
 
@@ -42,6 +44,6 @@ Certo, sappiamo che innumerevoli altri uomini e donne hanno usato la Nuova Scien
 
 Ma sappiamo anche che oggi, mentre il secondo millennio dell'Occidente volge al tramonto, la sopravvivenza dell'intera specie umana è minacciata e sulla nostra casa comune, la Terra, incombe l'incubo della catastrofe ecologica.
 
-E\` per questo che noi Umanisti, venuti dai quattro angoli della Terra chiediamo qui, davanti all'edificio che ospita la tomba di Galileo, chiediamo a tutti gli scienziati della Terra di usare finalmente la Scienza ad esclusivo beneficio dell'Umanità.
+E' per questo che noi Umanisti, venuti dai quattro angoli della Terra chiediamo qui, davanti all'edificio che ospita la tomba di Galileo, chiediamo a tutti gli scienziati della Terra di usare finalmente la Scienza ad esclusivo beneficio dell'Umanità.
 
 Con la voce che è stata tolta a Giordano Bruno e come a lui a milioni di oppressi, con quella voce che ora risuona in questa piazza, lanciamo questo appello: che in tutte le università, in tutti i centri di ricerca, venga istituito un giuramento, un voto solenne - analogo a quello creato da Ippocrate per i medici nell'alba dell'Occidente - di utilizzare la Scienza solo ed esclusivamente per vincere il dolore e la sofferenza, per umanizzare la Terra.

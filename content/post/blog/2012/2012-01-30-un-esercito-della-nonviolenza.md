@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 categories:
 - Spirito
-- Tempi moderni
+- tempi-moderni
 date: 2012-01-30T17:00:48Z
 guid: http://stefanocecere.com/?p=2836
 id: 2836

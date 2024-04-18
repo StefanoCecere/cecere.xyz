@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 categories:
 - Tweets
-date: 2013-04-20T21:29:48Z
+date: 2013-04-20
 format: status
 guid: http://twitter-325707896346267649-post
 id: 4315

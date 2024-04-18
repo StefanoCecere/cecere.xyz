@@ -1,13 +1,18 @@
 ---
-draft: true
+title: Trailer del nuovo film di Michael Moore
+date: 2023-10-20
+updated: 2023-10-21
+type: 
 categories: [blog]
-date: 2009-06-14T01:22:00Z
+tags:
+- trailer
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
 guid: http://stefanocecere.com/?p=1886
 id: 1886
-tags:
-- Michael Moore
-- trailer
-title: Trailer del nuovo film di Michael Moore
 slug: /2009/06/trailer-del-nuovo-film-di-michael-moore/
 ---
 

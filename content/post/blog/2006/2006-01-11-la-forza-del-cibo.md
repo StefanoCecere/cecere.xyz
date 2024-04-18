@@ -1,17 +1,19 @@
 ---
-draft: true
-categories:
-- Uncategorized
-date: 2006-01-11T00:50:10Z
-guid: http://cecere.xyz/2006/01/11/la-forza-del-cibo/
-id: 208
+title: la forza del cibo
+date: 2006-01-11
+updated: 2023-08-21
+type: 
+categories: 
 tags:
 - cibo
 - gioco
-- ONU
 - ricreazione
 - tecnologia
-title: la forza del cibo
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/2006/01/11/la-forza-del-cibo/
+id: 208
 slug: /2006/01/la-forza-del-cibo/
 ---
 

@@ -1,16 +1,18 @@
 ---
-draft: true
+title: Rimedio per la gotta!
+date: 2008-08-19
+updated: 2023-08-18
+type: 
 categories: [blog]
-date: 2008-08-19T14:40:42Z
-guid: http://cecere.xyz/?p=1118
-id: 1118
 tags:
-- guarire
-- interpretare
 - natura
 - regole
 - ridere
-title: Rimedio per la gotta!
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/?p=1118
+id: 1118
 slug: /2008/08/rimedio-per-la-gotta/
 ---
 

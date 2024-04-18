@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-12-18
 guid: http://cecere.xyz/2006/12/18/un-poster-di-emozione-umana/

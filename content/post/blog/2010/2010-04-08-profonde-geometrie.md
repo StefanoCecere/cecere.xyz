@@ -1,9 +1,9 @@
 ---
-draft: true
+title: profonde geometrie
+date: 2010-04-08
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-04-08T00:06:40Z
-guid: http://stefanocecere.com/?p=2065
-id: 2065
 tags:
 - arte
 - forme
@@ -11,7 +11,11 @@ tags:
 - sacro
 - spazio
 - video
-title: profonde geometrie
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2065
+id: 2065
 slug: /2010/04/profonde-geometrie/
 ---
 

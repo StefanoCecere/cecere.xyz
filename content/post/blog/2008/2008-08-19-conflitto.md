@@ -1,16 +1,20 @@
 ---
-draft: true
+title: Conflitto (Конфликт)
+date: 2008-08-19
+updated: 2023-08-18
+type: 
 categories: [blog]
-date: 2008-08-19T14:42:25Z
-guid: http://cecere.xyz/?p=1120
-id: 1120
 tags:
 - arte
 - guerra
-- Russia
+- russia
 - video
 - violenza
-title: Conflitto (Конфликт)
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/?p=1120
+id: 1120
 slug: /2008/08/conflitto/
 ---
 

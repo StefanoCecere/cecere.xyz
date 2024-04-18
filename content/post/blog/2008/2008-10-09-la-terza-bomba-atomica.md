@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2008-10-09T09:44:48Z
 guid: http://cecere.xyz/?p=1366
@@ -11,7 +11,7 @@ tags:
 - giornalista
 - guerra
 - Iraq
-- vergogna!
+- vergogna
 - video
 title: La terza bomba atomica
 slug: /2008/10/la-terza-bomba-atomica/

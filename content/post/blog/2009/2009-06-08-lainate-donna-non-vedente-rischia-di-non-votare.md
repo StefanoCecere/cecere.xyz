@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-06-08T02:14:43Z
 guid: http://stefanocecere.com/?p=1860
@@ -7,7 +7,7 @@ id: 1860
 tags:
 - elezioni
 - Giorgio Schultze
-- vergogna!
+- vergogna
 title: 'Lainate: donna non vedente rischia di non votare'
 slug: /2009/06/lainate-donna-non-vedente-rischia-di-non-votare/
 ---

@@ -1,10 +1,15 @@
 ---
-draft: true
+title: "King Kong e l'uomo moderno"
+date: 2006-01-21
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2006-01-21T15:44:24Z
+tags: 
+description: 
+permalink: 
+draft: false
 guid: http://cecere.xyz/2006/01/21/king-kong-e-luomo-moderno/
 id: 214
-title: King Kong e l&#039;uomo moderno
 slug: /2006/01/king-kong-e-luomo-moderno/
 ---
 

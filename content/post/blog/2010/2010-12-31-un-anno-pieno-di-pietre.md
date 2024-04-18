@@ -1,14 +1,18 @@
 ---
 title: Un anno pieno di pietre!
-slug: /2010/12/un-anno-pieno-di-pietre/
-draft: false
+date: 2010-12-31
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-12-31T17:43:59Z
-guid: http://stefanocecere.com/?p=2305
-id: 2305
 tags:
 - auguri
 - poesia
+description: 
+permalink: 
+slug: /2010/12/un-anno-pieno-di-pietre/
+draft: false
+guid: http://stefanocecere.com/?p=2305
+id: 2305
 ---
 
 Una persona distratta ci ha inciampato,

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2008-10-24T00:20:05Z
 guid: http://cecere.xyz/?p=1434
@@ -7,7 +7,7 @@ id: 1434
 tags:
 - considerazioni
 - morte
-- senso della vita
+- senso-della-vita
 - spazio
 - terra
 title: una cosa che vorrei fare prima di morire…

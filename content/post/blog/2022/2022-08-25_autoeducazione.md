@@ -1,9 +1,15 @@
 ---
 title: "Autoeducazione"
-slug: 20220825
-categories: [blog]
-tags: [considerazioni,educazione]
 date: 2022-08-25
+updated: 2023-08-21
+type: 
+categories: [blog]
+tags:
+  - considerazioni
+  - educazione
+description: 
+permalink: 
+slug: 20220825
 featured: false
 draft: false
 ---

@@ -1,15 +1,18 @@
 ---
-draft: true
+title: Israele ammazza civili per politica.
+date: 2010-06-01
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-06-01T17:34:39Z
-guid: http://stefanocecere.com/?p=2188
-id: 2188
 tags:
-- Barnard
 - Israele
 - Palestina
 - violenza
-title: Israele ammazza civili per politica.
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2188
+id: 2188
 slug: /2010/06/israele-ammazza-civili-per-politica/
 ---
 

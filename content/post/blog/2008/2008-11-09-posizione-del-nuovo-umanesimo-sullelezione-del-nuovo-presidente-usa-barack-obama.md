@@ -1,19 +1,21 @@
 ---
-draft: true
+title: "Posizione del Nuovo Umanesimo sull'elezione del nuovo presidente USA"
+date: 2008-11-09
+updated: 2023-08-18
+type: 
 categories:
-- Tempi moderni
-date: 2008-11-09T16:05:24Z
-guid: http://cecere.xyz/?p=1487
-id: 1487
+- tempi-moderni
 tags:
-- Barack Obama
 - disarmo
 - elezioni
-- italian
-- Politica
+- politica
 - USA
-title: Posizione del Nuovo Umanesimo sull'elezione del nuovo presidente USA
   Barack Obama.
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/?p=1487
+id: 1487
 slug: /2008/11/posizione-del-nuovo-umanesimo-sullelezione-del-nuovo-presidente-usa-barack-obama/
 ---
 

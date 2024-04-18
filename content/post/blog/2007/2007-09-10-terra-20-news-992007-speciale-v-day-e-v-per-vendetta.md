@@ -1,14 +1,14 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-09-10
 guid: http://cecere.xyz/2007/09/10/terra-20-news-992007-speciale-v-day-e-v-per-vendetta/
 id: 567
 tags:
-- Politica
+- politica
 - ricreazione
 - tecnologia
-- Terra2
+- terra2
 - umanista
 title: "Terra 2.0 News 9/9/2007"
 slug: /2007/09/terra-20-news-992007-speciale-v-day-e-v-per-vendetta/

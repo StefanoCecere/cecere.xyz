@@ -1,14 +1,14 @@
 ---
-draft: true
+draft: false
 categories:
-- Politica
+- politica
 date: 2009-06-14T12:18:00Z
 guid: http://stefanocecere.com/?p=1891
 id: 1891
 tags:
 - Berlusconi
 - mafia
-- Politica
+- politica
 - video
 title: 'Berlusconi e la mafia: da 30 anni un connubio vincente'
 slug: /2009/06/berlusconi-e-la-mafia-da-30-anni-un-connubio-vincente/

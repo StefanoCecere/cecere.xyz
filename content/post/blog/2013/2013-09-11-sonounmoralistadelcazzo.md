@@ -1,13 +1,18 @@
 ---
-draft: true
+title: '#sonounmoralistadelcazzo'
+date: 2023-08-30
+updated: 2023-08-31
+type: 
 categories:
 - Tweets
-date: 2013-09-11T14:14:46Z
+tags: 
+description: 
+permalink: 
+draft: false
 format: status
 guid: http://twitter-377782268699623424-post
 id: 4639
-title: '#sonounmoralistadelcazzo'
 slug: /2013/09/sonounmoralistadelcazzo/
 ---
 
-[#sonounmoralistadelcazzo](http://twitter.com/search?q=%23sonounmoralistadelcazzo)
+[sonounmoralistadelcazzo](http://twitter.com/search?q=%23sonounmoralistadelcazzo)

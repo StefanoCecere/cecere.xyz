@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 categories:
 - Economia
-- Tempi moderni
+- tempi-moderni
 date: 2011-10-28T22:56:10Z
 guid: http://stefanocecere.com/?p=2765
 id: 2765
@@ -11,7 +11,7 @@ tags:
 - economia
 - Europa
 - finanza
-- Politica
+- politica
 title: Come leggere la lettera del governo alla UE
 slug: /2011/10/come-leggere-la-lettera-del-governo-alla-ue/
 ---

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-11-11T18:04:35Z
 guid: http://cecere.xyz/2006/11/11/in-barca-puoi-morire-dal-ridere/

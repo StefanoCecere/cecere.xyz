@@ -1,13 +1,17 @@
 ---
-draft: true
+title: Sintesi di progetto
+date: 2010-02-13
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-02-13T12:32:51Z
-guid: http://stefanocecere.com/?p=2001
-id: 2001
 tags:
 - Movimento
 - video
-title: Sintesi di progetto
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2001
+id: 2001
 slug: /2010/02/sintesi-di-progetto/
 ---
 

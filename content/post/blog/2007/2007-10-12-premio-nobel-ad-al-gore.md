@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-10-12T13:08:15Z
 guid: http://cecere.xyz/2007/10/12/premio-nobel-ad-al-gore/
 id: 585
 tags:
 - pace
-- vergogna!
+- vergogna
 title: premio nobel ad Al Gore
 slug: /2007/10/premio-nobel-ad-al-gore/
 ---

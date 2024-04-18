@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories:
 - JJ
 date: 2009-04-17T09:54:01Z
@@ -10,7 +10,7 @@ tags:
 - comic
 - fumetto
 - JJ
-title: JJ&#039;s &quot;merendona&quot;
+title: JJ's &quot;merendona&quot;
 slug: /2009/04/jjs-merendona/
 ---
 

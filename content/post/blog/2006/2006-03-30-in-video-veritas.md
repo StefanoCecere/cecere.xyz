@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories:
-- Tempi moderni
+- tempi-moderni
 date: 2006-03-30T17:26:10Z
 guid: http://cecere.xyz/?p=251
 id: 251
 tags:
-- vergogna!
+- vergogna
 title: in video veritas
 slug: /2006/03/in-video-veritas/
 ---

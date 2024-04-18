@@ -1,13 +1,17 @@
 ---
-draft: true
+title: mi hanno rovinato i consumatori! e ora chi voto?
+date: 2006-03-07
+updated: 2023-08-21
+type: 
 categories:
-- Tempi moderni
-date: 2006-03-07T09:44:39Z
+- tempi-moderni
+tags:
+- vergogna
+description: 
+permalink: 
+draft: false
 guid: http://cecere.xyz/?p=242
 id: 242
-tags:
-- vergogna!
-title: mi hanno rovinato i consumatori! e ora chi voto?
 slug: /2006/03/mi-hanno-rovinato-i-consumatori-e-ora-chi-voto/
 ---
 

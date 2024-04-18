@@ -1,18 +1,23 @@
 ---
-draft: true
+title: Forum dedicato all'Esperienza spirituale nell’espressione artistica
+date: 2023-10-20
+updated: 2023-10-25
+type: 
 categories:
 - Arte
 - Spirito
-date: 2011-10-23T22:31:46Z
+tags:
+- t/Attigliano
+- t/arte
+- t/coscienza
+- t/evento
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
 guid: http://stefanocecere.com/?p=2720
 id: 2720
-tags:
-- arrigliano
-- arte
-- coscienza
-- evento
-- Forum
-title: Forum dedicato all&#039;Esperienza spirituale nell’espressione artistica
 slug: /2011/10/forum-dedicato-allesperienza-spirituale-nellespressione-artistica/
 ---
 

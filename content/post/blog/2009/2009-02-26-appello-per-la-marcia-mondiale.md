@@ -1,11 +1,11 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-02-26T01:28:28Z
 guid: http://stefanocecere.com/?p=1540
 id: 1540
 tags:
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 title: Appello per la Marcia Mondiale
 slug: /2009/02/appello-per-la-marcia-mondiale/
 ---

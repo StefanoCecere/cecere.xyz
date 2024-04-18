@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2008-10-30T10:16:36Z
 guid: http://cecere.xyz/?p=1469
 id: 1469
 tags:
 - Repubblica Ceca
-- scudo spaziale
+- scudo-spaziale
 - USA
 title: Colpo di stato (di velluto) in Repubblica Ceca sulla questione radar?
 slug: /2008/10/colpo-di-stato-di-velluto-in-repubblica-ceca-sulla-questione-radar/

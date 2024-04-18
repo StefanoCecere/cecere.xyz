@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-11-20
 guid: http://cecere.xyz/2007/11/20/angelina-jolie-in-beowulf/

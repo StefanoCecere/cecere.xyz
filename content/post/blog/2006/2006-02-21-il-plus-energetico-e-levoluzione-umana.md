@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Tempi moderni
+- tempi-moderni
 date: 2006-02-21T02:43:31Z
 guid: http://cecere.xyz/2006/02/21/il-plus-energetico-e-levoluzione-umana/
 id: 232
@@ -9,11 +9,13 @@ tags:
 - psicologia
 - spirito
 - umanista
-title: il plus energetico e l&#039;evoluzione umana
+title: "il plus energetico e l'evoluzione umana"
 slug: /2006/02/il-plus-energetico-e-levoluzione-umana/
 ---
 
-<img src='/wp-content/7332.jpg' alt='' align='left' />oggi dò giusto un assaggio su un tema che mi è molto caro.. forse ne avevo già parlato qualche mese fa, cmq ecco l'inizio del tema
+![](../../../assets/img/post/2006/human-evolution.jpg)
+
+oggi dò giusto un assaggio su un tema che mi è molto caro.. forse ne avevo già parlato qualche mese fa, cmq ecco l'inizio del tema
 
 **IL TEMA DEL"PLUS"**
 
@@ -43,7 +45,9 @@ Il grado di libertà che si ha nel decidere in cosa ognuno applichi il suo tempo
 
 _……. continua poi:_
 
-<img src='/wp-content/evoluzione_umana.jpg' alt='' align='left' />**IL PARADOSSO DEL PLUS** 
+![](../../../assets/img/post/2006/human-evolution2.jpg)
+
+**IL PARADOSSO DEL PLUS** 
 
 "Si ha meno plus quanto più si stia in temi secondari dai quali si interpreta che non si può stare in temi importanti perché non si ha plus".
   

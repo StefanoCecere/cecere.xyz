@@ -1,10 +1,10 @@
 ---
-draft: true
+draft: false
 categories:
 - Buone Nuove
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 - Spirito
-- Tempi moderni
+- tempi-moderni
 date: 2011-03-03T07:16:11Z
 guid: http://stefanocecere.com/?p=2393
 id: 2393

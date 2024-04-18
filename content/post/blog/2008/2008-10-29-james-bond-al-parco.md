@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2008-10-29T11:35:15Z
 guid: http://cecere.xyz/?p=1463

@@ -1,10 +1,14 @@
 ---
 title: da Lecce a Teramo.. pellegrinaggio in Occidente ^_^
-slug: 2002/07/da-lecce-a-teramo-pellegrinaggio-in-occidente
+date: 2002-07-29
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2002-07-29T17:06:35Z
-id: 828
 tags: []
+description: 
+permalink: 
+slug: 2002/07/da-lecce-a-teramo-pellegrinaggio-in-occidente
+id: 828
 ---
 
 sono sul bus da Lecce a Teramo...

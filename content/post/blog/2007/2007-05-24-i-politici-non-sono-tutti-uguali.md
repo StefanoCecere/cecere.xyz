@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-05-24T10:14:34Z
 guid: http://cecere.xyz/2007/05/24/i-politici-non-sono-tutti-uguali/
 id: 510
 tags:
 - partito umanista
-- Politica
+- politica
 title: I politici NON sono tutti uguali…
 slug: /2007/05/i-politici-non-sono-tutti-uguali/
 ---

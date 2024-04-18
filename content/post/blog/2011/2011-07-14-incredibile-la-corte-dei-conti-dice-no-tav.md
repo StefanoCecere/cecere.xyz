@@ -1,16 +1,16 @@
 ---
-draft: true
+draft: false
 categories:
 - Buone Nuove
-- Mondo Senza Guerre
-- Politica
+- MondoSenzaGuerre
+- politica
 date: 2011-07-14T11:42:59Z
 guid: http://stefanocecere.com/?p=2517
 id: 2517
 tags:
 - documenti
 - NOTAV
-- Politica
+- politica
 title: 'Incredibile: la Corte dei Conti dice NO TAV'
 slug: /2011/07/incredibile-la-corte-dei-conti-dice-no-tav/
 ---

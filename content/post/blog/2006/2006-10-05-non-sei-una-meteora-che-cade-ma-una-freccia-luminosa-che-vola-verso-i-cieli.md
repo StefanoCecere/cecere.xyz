@@ -1,13 +1,17 @@
 ---
-draft: true
+title: "Non sei una meteora che cade, ma una freccia luminosa che vola verso i cieli"
+date: 2006-10-05
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2006-10-05T09:09:45Z
-guid: http://cecere.xyz/2006/10/05/non-sei-una-meteora-che-cade-ma-una-freccia-luminosa-che-vola-verso-i-cieli/
-id: 440
 tags:
 - aforisma
 - spirito
-title: Non sei una meteora che cade, ma una freccia luminosa che vola verso i cieli.
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/2006/10/05/non-sei-una-meteora-che-cade-ma-una-freccia-luminosa-che-vola-verso-i-cieli/
+id: 440
 slug: /2006/10/non-sei-una-meteora-che-cade-ma-una-freccia-luminosa-che-vola-verso-i-cieli/
 ---
 

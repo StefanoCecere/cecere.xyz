@@ -1,16 +1,20 @@
 ---
-draft: true
+title: Ticino Atomico
+date: 2009-06-04
+updated: 2023-10-25
+type: 
 categories: [blog]
-date: 2009-06-04T00:53:27Z
+tags:
+- t/politica
+- t/Europa
+- t/nucleare
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
 guid: http://stefanocecere.com/?p=1847
 id: 1847
-tags:
-- cambiare
-- elezioni
-- Europa
-- Giorgio Schultze
-- nucleare
-title: Ticino Atomico
 slug: /2009/06/ticino-atomico/
 ---
 

@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Tecnologia
+- tecnologia
 date: 2011-10-10T04:07:01Z
 guid: http://stefanocecere.com/?p=2706
 id: 2706
@@ -11,7 +11,7 @@ tags:
 - music
 - video
 - vintage
-title: Questi dischi contengono materiale classificato dell&#039;Impero
+title: Questi dischi contengono materiale classificato dell'Impero
 slug: /2011/10/questi-dischi-contengono-materiale-classificato-dellimpero/
 ---
 

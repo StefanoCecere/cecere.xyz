@@ -1,16 +1,16 @@
 ---
-draft: true
+draft: false
 categories:
-- Politica
-- Tecnologia
-- Tempi moderni
+- politica
+- tecnologia
+- tempi-moderni
 date: 2011-03-17T12:03:08Z
 guid: http://stefanocecere.com/?p=2406
 id: 2406
 tags:
 - comunicazione
 - maestro
-- Politica
+- politica
 - pubblicità
 title: Rivolgersi alla gente come a dei bambini.
 slug: /2011/03/rivolgersi-alla-gente-come-a-dei-bambini/

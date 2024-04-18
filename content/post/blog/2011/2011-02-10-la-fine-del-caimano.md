@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 categories:
-- Politica
-- Tempi moderni
+- politica
+- tempi-moderni
 date: 2011-02-10T09:31:28Z
 guid: http://stefanocecere.com/?p=2375
 id: 2375
@@ -10,7 +10,7 @@ tags:
 - Berlusconi
 - cinema
 - giustizia
-- Politica
+- politica
 - video
 title: La fine del Caimano
 slug: /2011/02/la-fine-del-caimano/

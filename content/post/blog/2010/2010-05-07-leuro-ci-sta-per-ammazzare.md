@@ -1,16 +1,19 @@
 ---
-draft: true
+title: L'Euro ci sta per ammazzare?
+date: 2010-05-07
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-05-07T09:44:14Z
-guid: http://stefanocecere.com/?p=2181
-id: 2181
 tags:
-- Barnard
 - crisi
 - Euro
 - Europa
 - finanza
-title: L&#039;Euro ci sta per ammazzare?
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2181
+id: 2181
 slug: /2010/05/leuro-ci-sta-per-ammazzare/
 ---
 

@@ -1,14 +1,18 @@
 ---
-draft: true
+title: Vuoi ancora fare l'installatore di condizionatori d'aria?
+date: 2008-10-01
+updated: 2023-08-23
+type: 
 categories: [blog]
-date: 2008-10-01T01:45:33Z
-guid: http://cecere.xyz/?p=1306
-id: 1306
 tags:
 - incredibile
 - lavoro
 - ricreazione
-title: Vuoi ancora fare l&#039;installatore di condizionatori d&#039;aria?
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/?p=1306
+id: 1306
 slug: /2008/10/vuoi-ancora-fare-linstallatore-di-condizionatori-daria/
 ---
 

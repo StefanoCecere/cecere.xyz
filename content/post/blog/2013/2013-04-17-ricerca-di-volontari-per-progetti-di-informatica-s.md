@@ -1,12 +1,18 @@
 ---
-draft: true
+title: Ricerca di volontari per progetti di informatica s…
+date: 2013-04-17
+updated: 2023-10-25
+type: tweet
 categories:
 - Tweets
-date: 2013-04-17T09:45:10Z
-format: status
+tags: 
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
 guid: http://twitter-324443405268709376-post
 id: 4285
-title: Ricerca di volontari per progetti di informatica s…
 slug: /2013/04/ricerca-di-volontari-per-progetti-di-informatica-s/
 ---
 

@@ -1,15 +1,20 @@
 ---
-draft: true
-categories: [blog]
-date: 2010-03-28T15:31:43Z
+title: Prima o poi dovremo liquidare…
+date: 2010-03-28
+updated: 2023-08-21
+type: 
+categories:
+  - blog
+tags:
+  - dichiarazione
+  - politica
+  - scuola
+  - terra2
+description: 
+permalink: 
+draft: false
 guid: http://stefanocecere.com/?p=2051
 id: 2051
-tags:
-- dichiarazione
-- Politica
-- scuola
-- Terra 2.0
-title: Prima o poi dovremo liquidare…
 slug: /2010/03/prima-o-poi-dovremo-liquidare/
 ---
 

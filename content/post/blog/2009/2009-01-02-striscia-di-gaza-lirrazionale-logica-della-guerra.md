@@ -1,14 +1,18 @@
 ---
-draft: true
+title: "Striscia di Gaza: L'irrazionale logica della Guerra"
+date: 2021-04-06
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2009-01-02T16:15:10Z
-guid: http://stefanocecere.com/?p=1507
-id: 1507
 tags:
 - guerra
 - Israele
 - Palestina
-title: 'Striscia di Gaza: L&#039;irrazionale logica della Guerra'
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=1507
+id: 1507
 slug: /2009/01/striscia-di-gaza-lirrazionale-logica-della-guerra/
 ---
 

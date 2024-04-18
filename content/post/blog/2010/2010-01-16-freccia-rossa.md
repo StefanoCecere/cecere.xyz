@@ -1,14 +1,18 @@
 ---
-draft: true
+title: Freccia Rossa
+date: 2010-01-16
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-01-16T13:39:00Z
-guid: http://stefanocecere.com/?p=1984
-id: 1984
 tags:
 - economia
 - trasporto
 - treni
-title: Freccia Rossa
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=1984
+id: 1984
 slug: /2010/01/freccia-rossa/
 ---
 

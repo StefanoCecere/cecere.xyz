@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-06-25T04:10:38Z
 guid: http://stefanocecere.com/?p=1898
 id: 1898
 tags:
 - krur
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 - radio
 title: su radio Lifegate
 slug: /2009/06/su-radio-lifegate/

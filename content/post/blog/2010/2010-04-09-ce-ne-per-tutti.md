@@ -1,17 +1,23 @@
 ---
-draft: true
-categories: [blog]
-date: 2010-04-09T21:26:05Z
+title: ce n'è per tutti
+date: 2010-04-09
+updated: 2023-10-25
+type: 
+categories: [diario]
+tags:
+- c/diario
+- t/chiesa
+- t/lavoro
+- t/nucleare
+- t/vergogna
+- t/violenza
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
 guid: http://stefanocecere.com/2010/04/09/ce-ne-per-tutti/
 id: 2117
-tags:
-- chiesa cattolica
-- diario
-- lavoro
-- nucleare
-- vergogna!
-- violenza
-title: ce n&#039;è per tutti
 slug: /2010/04/ce-ne-per-tutti/
 ---
 

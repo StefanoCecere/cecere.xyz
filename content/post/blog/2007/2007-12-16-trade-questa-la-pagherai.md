@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-12-16T06:35:41Z
 guid: http://cecere.xyz/2007/12/16/trade-questa-la-pagherai/
 id: 620
 tags:
 - film
-- vergogna!
+- vergogna
 - violenza
 title: Trade - questa la pagherai
 slug: /2007/12/trade-questa-la-pagherai/

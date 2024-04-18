@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Media
+- media
 date: 2015-04-17T09:46:38Z
 format: video
 guid: http://stefanocecere.com/?p=5764

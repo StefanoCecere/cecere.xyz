@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-08-21T12:22:45Z
 guid: http://cecere.xyz/2007/08/21/ciapa-la-galina-ovvero-sono-tornato-al-mondo-denso/

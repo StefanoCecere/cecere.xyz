@@ -1,17 +1,22 @@
 ---
-draft: true
+title: Cambia il tuo sguardo
+date: 2023-10-20
+updated: 2023-10-21
+type: 
 categories:
-- Media
-date: 2012-02-13T18:37:49Z
-guid: http://stefanocecere.com/?p=2855
-id: 2855
+- media
 tags:
-- essere umani
-- immagine di sé
-- senso della vita
+- lavoro-personale
+- senso-della-vita
 - solidarietà
 - video
-title: Cambia il tuo sguardo
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
+guid: http://stefanocecere.com/?p=2855
+id: 2855
 slug: /2012/02/cambia-il-tuo-sguardo/
 ---
 

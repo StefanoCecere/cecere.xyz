@@ -1,16 +1,20 @@
 ---
-draft: true
+title: "17 marzo 2007: a Roma il più grande simbolo della pace del mondo"
+date: 2006-11-27
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2006-11-27T04:05:44Z
-guid: http://cecere.xyz/2006/11/27/17-marzo-2007-a-roma-il-piu-grande-simbolo-della-pace-del-mondo/
-id: 466
 tags:
 - Events
 - Movimento
 - Roma
-- Simbolo della Pace
+- Pace
 - spirito
-title: '17 marzo 2007: a Roma il più grande simbolo della pace del mondo'
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/2006/11/27/17-marzo-2007-a-roma-il-piu-grande-simbolo-della-pace-del-mondo/
+id: 466
 slug: /2006/11/17-marzo-2007-a-roma-il-piu-grande-simbolo-della-pace-del-mondo/
 ---
 

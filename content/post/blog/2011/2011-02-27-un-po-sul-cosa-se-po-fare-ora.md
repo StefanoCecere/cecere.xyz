@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2011-02-27T11:49:04Z
 guid: http://stefanocecere.com/?p=2390
@@ -8,9 +8,9 @@ tags:
 - crisi
 - economia
 - energia
-- Politica
+- politica
 - sistema
-title: Un po&#039; sul cosa se pò fare ora…
+title: Un po' sul cosa se pò fare ora…
 slug: /2011/02/un-po-sul-cosa-se-po-fare-ora/
 ---
 

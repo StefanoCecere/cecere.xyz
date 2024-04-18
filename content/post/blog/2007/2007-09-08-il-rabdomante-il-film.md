@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-09-08
 guid: http://cecere.xyz/2007/09/08/il-rabdomante-il-film/
@@ -9,7 +9,7 @@ tags:
 - film
 - recensione
 - ricreazione
-- Terra2
+- terra2
 - umanista
 title: "Il Rabdomante"
 slug: /2007/09/il-rabdomante-il-film/

@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Scienza
+- scienza
 date: 2015-04-22T09:41:38Z
 guid: http://stefanocecere.com/?p=5759
 id: 5759

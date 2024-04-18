@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-05-31T07:22:35Z
 guid: http://stefanocecere.com/?p=1817
 id: 1817
 tags:
 - Berlusconi
-- Politica
+- politica
 title: La verità dietro il caso Berlusconi-Noemi-Letizia
 slug: /2009/05/la-verita-dietro-il-caso-berlusconi-noemi-letizia/
 ---

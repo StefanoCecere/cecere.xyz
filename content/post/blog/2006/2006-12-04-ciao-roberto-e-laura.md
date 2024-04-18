@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-12-04T10:50:16Z
 guid: http://cecere.xyz/2006/12/04/ciao-roberto-e-laura/

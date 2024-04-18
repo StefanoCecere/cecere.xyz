@@ -1,14 +1,17 @@
 ---
-draft: true
+title: "I numeri sbagliati dell’austerità (e degli economisti)"
+date: 2013-04-19
+updated: 2023-08-13
+type: 
 categories:
 - Tweets
-date: 2013-04-19T16:47:31Z
+tags: 
+description: 
+permalink: 
+draft: false
 format: status
 guid: http://twitter-325274470954721280-post
 id: 4301
-title: |
-  sono anni che lo diciamo #Barnard #MMT
-  “I numeri s…
 slug: /2013/04/sono-anni-che-lo-diciamo-barnard-mmti-numeri-s/
 ---
 

@@ -1,15 +1,17 @@
 ---
-draft: true
+title: esseri umani del nuovo millennio
+date: 2006-01-16
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2006-01-16T11:39:45Z
+tags:
+- Movimento
+- umanista
+description: 
+permalink: 
+draft: false
 guid: http://cecere.xyz/2006/01/16/esseri-umani-del-nuovo-millennio/
 id: 210
-tags:
-- madrid
-- Movimento
-- sito
-- umanista
-title: esseri umani del nuovo millennio
 slug: /2006/01/esseri-umani-del-nuovo-millennio/
 ---
 

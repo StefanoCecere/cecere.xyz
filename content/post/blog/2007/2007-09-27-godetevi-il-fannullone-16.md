@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-09-27
 guid: http://cecere.xyz/2007/09/27/godetevi-il-fannullone-16/

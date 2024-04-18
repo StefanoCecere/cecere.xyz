@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-10-19
 guid: http://cecere.xyz/2006/10/19/online-il-fannullone-n12/

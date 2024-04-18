@@ -1,14 +1,18 @@
 ---
-draft: true
+title: Elio ELST GENI con Emanuele Filiberto
+date: 2010-03-26
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-03-26T22:44:08Z
-guid: http://stefanocecere.com/?p=2049
-id: 2049
 tags:
 - music
 - ridere
-- TV
-title: Elio ELST GENI con Emanuele Filiberto
+- tv
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2049
+id: 2049
 slug: /2010/03/elio-elst-geni-con-emanuele-filiberto/
 ---
 

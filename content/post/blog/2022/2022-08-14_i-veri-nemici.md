@@ -1,16 +1,16 @@
 ---
 title: "I veri nemici"
-slug: i-veri-nemici
-subtitle: ""
+date: 2022-08-14
+updated: 2023-08-21
+type: 
 categories: [blog]
 tags: [considerazioni]
-date: 2022-08-14T12:00:00+01:00
+description: 
+permalink: 
+slug: i-veri-nemici
+subtitle: ""
 featured: false
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
 ---
 
 # I VERI NEMICI

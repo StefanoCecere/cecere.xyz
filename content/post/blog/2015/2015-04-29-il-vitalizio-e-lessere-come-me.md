@@ -1,14 +1,17 @@
 ---
-draft: true
+title: il vitalizio e l'essere come me
+date: 2015-04-29
+updated: 2023-08-23
+type: 
 categories: [blog]
-date: 2015-04-29T09:25:10Z
+tags:
+- politica
+- soldi
+description: 
+permalink: 
+draft: false
 guid: http://stefanocecere.com/?p=5773
 id: 5773
-tags:
-- Politica
-- Roma
-- soldi
-title: il vitalizio e l'essere come me
 slug: /2015/04/il-vitalizio-e-lessere-come-me/
 ---
 
@@ -22,4 +25,4 @@ ora non so voi.. ma a me 10000 euro al mese per cinque anni, e poi 3000 al mese 
 
 pensare che c'è chi dice che per il lavoro he facciamo sono troppi soldi e che il vitalizio è ingiusto, e per sembrare coerenti ogni mese danno via quasi tutto il loro stipendio (per aiutare gli sfortunati, dicono) e non accetteranno il vitalizio…
 
-bah sapete ceh vi dico.. che oggi non vado in Parlamento ma scriverò una canzone, con tanto di videoclip e libro, su quanto è bello essere fortunati a essere come me!
+bah sapete che vi dico.. che oggi non vado in Parlamento ma scriverò una canzone, con tanto di videoclip e libro, su quanto è bello essere fortunati a essere come me!

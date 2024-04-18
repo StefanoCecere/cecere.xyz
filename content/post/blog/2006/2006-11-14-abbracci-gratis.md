@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-11-14T12:42:54Z
 guid: http://cecere.xyz/2006/11/14/abbracci-gratis/

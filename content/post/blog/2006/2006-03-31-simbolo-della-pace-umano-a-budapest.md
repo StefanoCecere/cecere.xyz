@@ -1,16 +1,22 @@
 ---
-draft: true
+title: Simbolo della pace umano a Budapest
+date: 2023-10-20
+updated: 2023-10-21
+type: 
 categories: [blog]
-date: 2006-03-31T15:15:00Z
+tags:
+- arte
+- pace
+- spirito
+- umanista
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
 format: image
 guid: http://cecere.xyz/?p=252
 id: 252
-tags:
-- arte
-- Simbolo della Pace
-- spirito
-- umanista
-title: Simbolo della pace umano a Budapest
 slug: /2006/03/simbolo-della-pace-umano-a-budapest/
 ---
 

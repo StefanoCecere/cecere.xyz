@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-09-27T11:00:14Z
 guid: http://cecere.xyz/2006/09/27/per-gli-innamorati-della-propria-automobile/

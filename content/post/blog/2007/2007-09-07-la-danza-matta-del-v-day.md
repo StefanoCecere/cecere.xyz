@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-09-07T18:54:44Z
 guid: http://cecere.xyz/2007/09/07/la-danza-matta-del-v-day/

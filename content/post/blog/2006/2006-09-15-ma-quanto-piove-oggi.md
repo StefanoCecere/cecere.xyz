@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-09-15T10:53:47Z
 guid: http://cecere.xyz/2006/09/15/ma-quanto-piove-oggi/

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-03-26T16:12:42Z
 guid: http://stefanocecere.com/?p=1623
@@ -7,7 +7,7 @@ id: 1623
 tags:
 - fascismo
 - Lega
-- Politica
+- politica
 - video
 title: Nouvell Fascists
 slug: /2009/03/nouvell-fascists/

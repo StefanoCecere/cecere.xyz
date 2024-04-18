@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-06-01T11:41:01Z
 guid: http://stefanocecere.com/2009/06/01/un-po-di-teoria/
 id: 1828
 tags:
 - scuola
-title: un po&#039; di teoria
+title: un po' di teoria
 slug: /2009/06/un-po-di-teoria/
 ---
 

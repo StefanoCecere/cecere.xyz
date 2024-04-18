@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-12-07
 guid: http://cecere.xyz/2007/12/07/sono-su-myspace/

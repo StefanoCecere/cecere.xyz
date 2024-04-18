@@ -1,23 +1,19 @@
 ---
-draft: true
+draft: false
 categories: [blog]
-date: 2006-01-28T23:38:07Z
+date: 2006-01-28
 guid: http://cecere.xyz/2006/01/28/leghiamoci-bene-ed-ascoltiamo/
 id: 217
 tags:
 - arte
-- come fare
+- come-fare
 - crisi
 - mitologia
-- Odissea
-- sirene
-- tempesta
-- Ulisse
 title: Leghiamoci bene ed ascoltiamo…
 slug: /2006/01/leghiamoci-bene-ed-ascoltiamo/
 ---
 
-![](/wp-content/ulisse_legato_albero.jpg)
+![](../../../assets/img/post/2006/ulisse_legato_albero.jpg)
 
 Nella mitologia greca le **sirene** non erano come la nostra "Ariel".. giovane innoncente ragazzina.. bensì erano più degli esseri mostruosi che con le loro irresistibili melodie incantavano i marinai per farli naufragare sugli scogli delle loro isole rocciose.
   

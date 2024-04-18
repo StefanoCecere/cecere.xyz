@@ -1,18 +1,22 @@
 ---
-draft: true
+title: Re Artù e la Strega
+date: 2010-10-12
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-10-12T13:01:09Z
-guid: http://stefanocecere.com/?p=2240
-id: 2240
 tags:
 - fun
 - amore
 - donne
 - morale
 - morte
-- senso della vita
+- senso-della-vita
 - strega
-title: Re Artù e la Strega
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2240
+id: 2240
 slug: /2010/10/re-artu-e-la-strega/
 ---
 

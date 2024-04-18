@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-03-09T18:36:48Z
 guid: http://stefanocecere.com/?p=1588
 id: 1588
 tags:
 - bollettino
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 - video
 title: 'Marcia Mondiale: video bollettino'
 slug: /2009/03/marcia-mondiale-video-bollettino/

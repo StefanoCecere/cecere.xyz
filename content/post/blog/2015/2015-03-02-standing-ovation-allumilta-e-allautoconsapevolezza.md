@@ -1,10 +1,10 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2015-03-02T05:42:23Z
 guid: http://stefanocecere.com/?p=5651
 id: 5651
-title: Standing ovation all&#039;umiltà e all&#039;autoconsapevolezza
+title: Standing ovation all'umiltà e all'autoconsapevolezza
 slug: /2015/03/standing-ovation-allumilta-e-allautoconsapevolezza/
 ---
 

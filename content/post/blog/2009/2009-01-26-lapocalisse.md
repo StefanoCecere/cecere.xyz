@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-01-26T16:28:05Z
 guid: http://stefanocecere.com/?p=1516
@@ -9,7 +9,7 @@ tags:
 - guerre
 - ridere
 - vignetta
-title: l&#039;Apocalisse!!!
+title: l'Apocalisse!!!
 slug: /2009/01/lapocalisse/
 ---
 

@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Tecnologia
+- tecnologia
 date: 2011-09-21T00:15:30Z
 guid: http://stefanocecere.com/?p=2638
 id: 2638

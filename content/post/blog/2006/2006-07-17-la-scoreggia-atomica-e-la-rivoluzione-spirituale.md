@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-07-17T02:04:38Z
 guid: http://cecere.xyz/2006/07/17/la-scoreggia-atomica-e-la-rivoluzione-spirituale/

@@ -1,6 +1,6 @@
 ---
 title: "E' uscito il Fannullone n10"
-draft: true
+draft: false
 categories: [blog]
 date: 2006-06-19
 guid: http://cecere.xyz/2006/06/19/e-uscito-il-fannullone-n10-sempre-allavanguardia/

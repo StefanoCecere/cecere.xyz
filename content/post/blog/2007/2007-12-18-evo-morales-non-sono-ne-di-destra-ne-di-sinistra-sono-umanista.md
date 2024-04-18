@@ -9,8 +9,8 @@ tags:
 - Bolivia
 - EvoMorales
 - Forum
-- Politica
-- Terra2
+- politica
+- terra2
 - umanista
 - video
 slug: /2007/12/evo-morales-non-sono-ne-di-destra-ne-di-sinistra-sono-umanista/

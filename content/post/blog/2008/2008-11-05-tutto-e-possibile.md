@@ -1,16 +1,19 @@
 ---
-draft: true
+title: "TUTTO E' POSSIBILE!"
+date: 2008-11-05
+updated: 2023-08-18
+type: 
 categories: [blog]
-date: 2008-11-05T08:40:50Z
-guid: http://cecere.xyz/?p=1478
-id: 1478
 tags:
 - elezioni
 - evoluzione
-- felicità
 - rivoluzione
 - USA
-title: TUTTO E&#039; POSSIBILE!
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/?p=1478
+id: 1478
 slug: /2008/11/tutto-e-possibile/
 ---
 

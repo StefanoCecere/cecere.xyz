@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-04-05T15:35:10Z
 guid: http://stefanocecere.com/?p=1627
@@ -8,7 +8,7 @@ tags:
 - Barack Obama
 - Iran
 - Praga
-- scudo spaziale
+- scudo-spaziale
 - video
 title: Obama e Praga
 slug: /2009/04/obama-e-praga/

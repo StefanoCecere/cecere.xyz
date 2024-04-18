@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2008-08-22T22:39:05Z
 guid: http://cecere.xyz/?p=1127
@@ -12,7 +12,7 @@ tags:
 - petrolio
 - Polonia
 - Repubblica Ceca
-- scudo spaziale
+- scudo-spaziale
 - USA
 title: manovre militari-economiche in atto
 slug: /2008/08/manovre-militari-economiche-in-atto/

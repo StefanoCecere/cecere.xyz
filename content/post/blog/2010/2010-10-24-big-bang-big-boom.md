@@ -1,18 +1,22 @@
 ---
-draft: true
+title: BIG BANG BIG BOOM
+date: 2010-10-24
+updated: 2023-08-21
+type: 
 categories:
 - Arte
-- Scienza
-date: 2010-10-24T11:22:13Z
-guid: http://stefanocecere.com/?p=2290
-id: 2290
+- scienza
 tags:
 - animazione
 - arte
 - cosmologia
 - evoluzione
 - video
-title: BIG BANG BIG BOOM
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2290
+id: 2290
 slug: /2010/10/big-bang-big-boom/
 ---
 

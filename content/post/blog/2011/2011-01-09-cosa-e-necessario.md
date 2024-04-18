@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories:
 - Spirito
 date: 2011-01-09T23:47:16Z
 guid: http://stefanocecere.com/?p=2320
 id: 2320
 tags:
-- senso della vita
+- senso-della-vita
 title: Cosa è necessario
 slug: /2011/01/cosa-e-necessario/
 ---

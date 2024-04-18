@@ -10,9 +10,9 @@ guid: http://stefanocecere.com/?p=5798
 id: 5798
 tags:
 - natura
-- Filosofia
+- filosofia
 ---
 
-{{< youtube WmVLcj-XKnM >}}
+#todo_youtube WmVLcj-XKnM >}}
 
 https://www.youtube.com/watch?v=WmVLcj-XKnM

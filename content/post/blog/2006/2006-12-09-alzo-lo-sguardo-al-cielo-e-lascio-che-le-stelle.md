@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-12-09T03:43:50Z
 guid: http://cecere.xyz/2006/12/09/alzo-lo-sguardo-al-cielo-e-lascio-che-le-stelle/

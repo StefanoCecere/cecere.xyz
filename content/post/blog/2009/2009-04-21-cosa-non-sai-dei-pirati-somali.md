@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-04-21T12:23:18Z
 guid: http://stefanocecere.com/?p=1685
 id: 1685
 tags:
 - africa
-- Media
+- media
 - pirati
 - povertà
 - tg

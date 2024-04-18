@@ -1,13 +1,19 @@
 ---
-draft: true
+title: L'esperienza umana
+date: 2006-02-18
+updated: 2023-10-25
+type: 
 categories: [blog]
-date: 2006-02-18T00:41:15Z
+tags:
+- t/psicologia
+- t/umanesimo
+- t/filosofia
+description: 
+permalink: 
+rating: 
+publish: 
 guid: http://cecere.xyz/2006/02/18/lesperienza-umana/
 id: 229
-tags:
-- psicologia
-- umanista
-title: L&#039;esperienza umana
 slug: /2006/02/lesperienza-umana/
 ---
 

@@ -1,9 +1,13 @@
 ---
 title: "Lavoro personale"
-slug: 20220817
+date: 2022-08-17
+updated: 2023-08-21
+type: 
 categories: [blog]
 tags: [considerazioni]
-date: 2022-08-17
+description: 
+permalink: 
+slug: 20220817
 featured: false
 draft: false
 ---

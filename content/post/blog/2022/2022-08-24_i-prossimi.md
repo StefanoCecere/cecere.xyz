@@ -1,9 +1,14 @@
 ---
 title: "I prossimi"
-slug: 20220824
-categories: [blog]
-tags: [considerazioni]
 date: 2022-08-24
+updated: 2023-08-21
+type: 
+categories: [blog]
+tags:
+  - considerazioni
+description: 
+permalink: 
+slug: 20220824
 featured: false
 draft: false
 ---

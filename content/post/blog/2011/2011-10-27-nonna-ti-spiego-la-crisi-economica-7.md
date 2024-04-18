@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 categories:
 - Economia
-- Tempi moderni
+- tempi-moderni
 date: 2011-10-27T18:54:57Z
 guid: http://stefanocecere.com/?p=2756
 id: 2756

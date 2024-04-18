@@ -1,13 +1,13 @@
 ---
 categories:
-- Politica
+- politica
 date: 2009-06-04T12:22:09Z
 guid: http://stefanocecere.com/?p=1849
 id: 1849
 tags:
 - elezioni
 - Giorgio Schultze
-- Politica
+- politica
 title: Mio appello per le Elezioni Europee
 slug: /2009/06/mio-appello-per-le-elezioni-europee/
 ---

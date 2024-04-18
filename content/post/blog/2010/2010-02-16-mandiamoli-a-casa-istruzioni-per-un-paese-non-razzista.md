@@ -1,16 +1,21 @@
 ---
-draft: true
+title: Mandiamoli a casa! istruzioni per un paese (non) razzista
+date: 2010-02-16
+updated: 2023-10-21
+type: 
 categories: [blog]
-date: 2010-02-16T15:30:59Z
-guid: http://stefanocecere.com/?p=2014
-id: 2014
 tags:
-- Convergenza delle Culture
 - immigrazione
 - Lega
 - pdf
 - razzismo
-title: Mandiamoli a casa! istruzioni per un paese (non) razzista
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
+guid: http://stefanocecere.com/?p=2014
+id: 2014
 slug: /2010/02/mandiamoli-a-casa-istruzioni-per-un-paese-non-razzista/
 ---
 

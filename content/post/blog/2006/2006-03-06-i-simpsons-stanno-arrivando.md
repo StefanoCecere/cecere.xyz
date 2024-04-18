@@ -1,14 +1,17 @@
 ---
-draft: true
+title: i Simpsons.. stanno arrivando!!!
+date: 2006-03-06
+updated: 2023-08-21
+type: 
 categories:
 - Uncategorized
-date: 2006-03-06T11:23:41Z
-guid: http://cecere.xyz/2006/03/06/i-simpsons-stanno-arrivando/
-id: 240
 tags:
 - ricreazione
-- simpsons
-title: i Simpsons.. stanno arrivando!!!
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/2006/03/06/i-simpsons-stanno-arrivando/
+id: 240
 slug: /2006/03/i-simpsons-stanno-arrivando/
 ---
 

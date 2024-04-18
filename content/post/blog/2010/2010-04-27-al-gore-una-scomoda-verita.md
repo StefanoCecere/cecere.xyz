@@ -1,17 +1,21 @@
 ---
-draft: true
+title: Al Gore, una scomoda verità?
+date: 2010-04-27
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-04-27T09:32:26Z
-guid: http://stefanocecere.com/?p=2177
-id: 2177
 tags:
 - giornalista
 - guerre
 - ipocrisia
-- Media
-- Politica
+- media
+- politica
 - USA
-title: Al Gore, una scomoda verità?
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2177
+id: 2177
 slug: /2010/04/al-gore-una-scomoda-verita/
 ---
 

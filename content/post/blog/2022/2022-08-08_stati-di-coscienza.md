@@ -1,18 +1,20 @@
 ---
 title: "Stati di Coscienza Alterati e VR"
+date: 2022-08-08
+updated: 2023-08-21
+type: 
+categories: [blog]
+tags:
+  - vr
+  - trascendenza
+  - coscienza
+  - VR
+description: ""
+permalink: 
 slug: stati-coscienza-alterati-vr
 subtitle: ""
-summary: ""
-categories: [blog]
-tags: [vr,trascendenza]
-date: 2022-08-08T10:53:05+01:00
 featured: false
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-projects: []
 ---
 # Stati di Coscienza Alterati e VR
 scendendo la montagna accennavo agli stati alterati di #coscienza e alle varie tecniche con cui avvicinarsi.  

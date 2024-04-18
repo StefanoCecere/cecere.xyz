@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 categories:
 - Economia
-- Tempi moderni
+- tempi-moderni
 date: 2011-10-23T16:00:30Z
 guid: http://stefanocecere.com/2011/10/23/nonna-ti-spiego-la-crisi-economica-3/
 id: 2716

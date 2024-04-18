@@ -1,13 +1,13 @@
 ---
-draft: true
+draft: false
 categories:
-- Tecnologia
-- Tempi moderni
+- tecnologia
+- tempi-moderni
 date: 2015-03-22T19:42:11Z
 format: image
 guid: http://stefanocecere.com/?p=5709
 id: 5709
-title: On the internet nobody knows you&#039;re a dog
+title: On the internet nobody knows you're a dog
 slug: /2015/03/on-the-internet-nobody-knows-youre-a-dog/
 ---
 

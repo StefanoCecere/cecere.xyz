@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-07-21T01:40:15Z
 guid: http://cecere.xyz/2006/07/21/la-vita-reale-e-la-vita-taroccata/

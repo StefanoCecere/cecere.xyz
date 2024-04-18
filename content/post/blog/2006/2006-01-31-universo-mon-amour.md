@@ -1,21 +1,24 @@
 ---
-draft: true
-categories: [blog]
+title: Universo mon amour
 date: 2006-02-01
-guid: http://cecere.xyz/2006/02/02/universo-mon-amour/
-id: 220
+updated: 2023-08-21
+type: 
+categories: [blog]
 tags:
 - esistenza
 - poesia
 - spirito
 - terra2
 - universo
-title: Universo mon amour
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/2006/02/02/universo-mon-amour/
+id: 220
 slug: /2006/01/universo-mon-amour/
-updated: 2022-03-22
 ---
 
-![](/wp-content/universomonamour.jpg)
+![](../../../assets/img/post/2006/universomonamour.jpg)
 
 alzo gli occhi la notte
   

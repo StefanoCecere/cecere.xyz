@@ -1,15 +1,18 @@
 ---
-draft: true
+title: A Bergamo Gesù non è nato!!!!
+date: 2008-12-28
+updated: 2023-08-18
+type: 
 categories: [blog]
-date: 2008-12-28T17:51:45Z
-guid: http://cecere.xyz/?p=1501
-id: 1501
 tags:
-- chiesa cattolica
 - discriminazione
 - natale
 - razzismo
-title: A Bergamo Gesù non è nato!!!!
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/?p=1501
+id: 1501
 slug: /2008/12/a-bergamo-gesu-non-e-nato/
 ---
 
@@ -25,4 +28,4 @@ Il sacerdote, che durante le omelie domenicali invita i fedeli a curarsi dei pov
   
 Perciò Gesù non nasce".
   
-<http://www.repubblica.it/2008/12/sezioni/cronaca/bergamo-presepe/bergamo-presepe/bergamo-presepe.html>{.moz-txt-link-freetext}
+<http://www.repubblica.it/2008/12/sezioni/cronaca/bergamo-presepe/bergamo-presepe/bergamo-presepe.html>

@@ -1,13 +1,13 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-04-20T07:04:02Z
 guid: http://stefanocecere.com/?p=1655
 id: 1655
 tags:
 - Berlusconi
-- Politica
-- TV
+- politica
+- tv
 - Vauro
 title: non vorrei lavorare in RAI
 slug: /2009/04/non-vorrei-lavorare-in-rai/

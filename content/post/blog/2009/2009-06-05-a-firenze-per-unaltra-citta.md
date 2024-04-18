@@ -1,14 +1,19 @@
 ---
-draft: true
+title: A Firenze Per un'altra Città!!
+date: 2009-06-05
+updated: 2023-10-25
+type: 
 categories: [blog]
-date: 2009-06-05T18:56:32Z
+tags:
+- t/elezioni
+- t/Firenze
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
 guid: http://stefanocecere.com/?p=1855
 id: 1855
-tags:
-- Berlusconi
-- elezioni
-- Firenze
-title: A Firenze Per un&#039;altra Città!!
 slug: /2009/06/a-firenze-per-unaltra-citta/
 ---
 

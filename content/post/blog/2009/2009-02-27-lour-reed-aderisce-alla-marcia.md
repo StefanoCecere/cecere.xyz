@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-02-27T02:20:22Z
 guid: http://stefanocecere.com/2009/02/27/lour-reed-aderisce-alla-marcia/

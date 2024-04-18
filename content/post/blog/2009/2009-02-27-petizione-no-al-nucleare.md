@@ -1,15 +1,21 @@
 ---
-draft: true
+title: Petizione NO al Nucleare
+date: 2023-10-20
+updated: 2023-10-25
+type: 
 categories: [blog]
-date: 2009-02-27T01:22:22Z
+tags:
+- t/nucleare
+- t/petizione
+- t/politica
+- t/vergogna
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
 guid: http://stefanocecere.com/?p=1538
 id: 1538
-tags:
-- nucleare
-- petizione
-- Politica
-- vergogna!
-title: Petizione NO al Nucleare
 slug: /2009/02/petizione-no-al-nucleare/
 ---
 

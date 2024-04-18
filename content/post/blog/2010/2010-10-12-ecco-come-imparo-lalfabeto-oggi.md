@@ -1,18 +1,22 @@
 ---
-draft: true
+title: Ecco come imparo l'alfabeto oggi…
+date: 2010-10-12
+updated: 2023-08-21
+type: 
 categories:
 - JJ
 - Smile
-- Tecnologia
-- Tempi moderni
-date: 2010-10-12T15:55:05Z
-guid: http://stefanocecere.com/?p=2258
-id: 2258
+- tecnologia
+- tempi-moderni
 tags:
 - apple
 - educazione
 - google
-title: Ecco come imparo l&#039;alfabeto oggi…
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2258
+id: 2258
 slug: /2010/10/ecco-come-imparo-lalfabeto-oggi/
 ---
 

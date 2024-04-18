@@ -1,10 +1,16 @@
 ---
 title: Stefano Cecere - mini biografia
+date: 2002-11-12
+updated: 2023-08-21
+type: 
+categories:
+  - about
+tags:
+  - biografia
+description: 
+permalink: 
 slug: 2002/11/stefano-cecere-mini-biografia/
-date: 2002-11-12T12:31:07Z
 id: 830
-categories: [about]
-tags: ["bio"]
 ---
 
 iniziato con un commodore 64 e una tastiera GEM, ho sviluppato i mondi dell'informatica e della musica in un processo di continua ricerca e intrecciamento tra le tecniche creative e di comunicazione digitale e l'interesse per contenuti e immagini che avessero un _senso_ e una intrinseca necessità di essere espressi.

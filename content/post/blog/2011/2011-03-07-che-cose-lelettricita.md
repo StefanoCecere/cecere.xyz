@@ -1,14 +1,14 @@
 ---
-draft: true
+draft: false
 categories:
-- Scienza
+- scienza
 - Smile
 date: 2011-03-07T09:40:24Z
 guid: http://stefanocecere.com/?p=2399
 id: 2399
 tags:
 - aneddoto
-title: Che cos&#039;è l&#039;elettricità?
+title: Che cos'è l'elettricità?
 slug: /2011/03/che-cose-lelettricita/
 ---
 

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-09-28
 guid: http://cecere.xyz/2007/09/28/2-ottobre-coloriamo-monza-con-la-nonviolenza/
@@ -7,9 +7,9 @@ id: 574
 tags:
 - Events
 - nonviolenza
-- Politica
+- politica
 - spirito
-- Terra2
+- terra2
 - umanista
 title: "2 ottobre"
 slug: /2007/09/2-ottobre-coloriamo-monza-con-la-nonviolenza/

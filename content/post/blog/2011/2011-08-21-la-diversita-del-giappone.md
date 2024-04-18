@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories:
 - Arte
 date: 2011-08-21T21:43:40Z

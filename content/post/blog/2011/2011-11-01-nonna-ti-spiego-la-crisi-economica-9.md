@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 categories:
 - Economia
-- Tempi moderni
+- tempi-moderni
 date: 2011-11-01T10:44:58Z
 guid: http://stefanocecere.com/?p=2769
 id: 2769
@@ -10,7 +10,7 @@ tags:
 - Barnard
 - crisi
 - finanza
-- Politica
+- politica
 - soldi
 title: Nonna, ti spiego la crisi economica. 9
 slug: /2011/11/nonna-ti-spiego-la-crisi-economica-9/

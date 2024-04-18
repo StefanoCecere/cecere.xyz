@@ -1,17 +1,19 @@
 ---
-draft: true
+title: 'Milano: 26 Marzo Incontro tra amici per raccontare i temi del Summit MMT di Rimini'
+date: 2021-04-06
+updated: 2023-08-13
+type: 
 categories:
-- Economia
-- Eventi
-date: 2012-03-23T07:40:25Z
-guid: http://stefanocecere.com/?p=2880
-id: 2880
+- eventi
 tags:
 - Barnard
 - Milano
 - MMT
-title: 'Milano: 26 Marzo Incontro tra amici per raccontare i temi del Summit MMT di
-  Rimini'
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2880
+id: 2880
 slug: /2012/03/milano-26-marzo-incontro-tra-amici-per-raccontare-i-temi-del-summit-mmt-di-rimini/
 ---
 

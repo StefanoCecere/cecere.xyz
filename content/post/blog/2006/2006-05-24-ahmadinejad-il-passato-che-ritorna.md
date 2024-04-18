@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-05-24T16:04:21Z
 guid: http://cecere.xyz/2006/05/24/ahmadinejad-il-passato-che-ritorna/
 id: 277
 tags:
 - umanista
-- vergogna!
+- vergogna
 title: 'AHMADINEJAD: IL PASSATO CHE RITORNA'
 slug: /2006/05/ahmadinejad-il-passato-che-ritorna/
 ---

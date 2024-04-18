@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-03-29T21:50:27Z
 guid: http://cecere.xyz/2007/03/29/elezioni-a-monza-mi-candido/

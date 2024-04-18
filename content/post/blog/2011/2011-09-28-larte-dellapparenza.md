@@ -1,14 +1,19 @@
 ---
-draft: true
+title: L'arte dell'apparenza
+date: 2023-10-20
+updated: 2023-10-21
+type: 
 categories: [blog]
-date: 2011-09-28T02:32:32Z
-guid: http://stefanocecere.com/2011/09/28/larte-dellapparenza/
-id: 2675
 tags:
 - diario
-- San francisco
 - viaggio
-title: L&#039;arte dell&#039;apparenza
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
+guid: http://stefanocecere.com/2011/09/28/larte-dellapparenza/
+id: 2675
 slug: /2011/09/larte-dellapparenza/
 ---
 

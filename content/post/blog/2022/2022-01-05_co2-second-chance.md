@@ -1,11 +1,16 @@
 ---
 title: "CO2 Second Chance"
-slug: co2-second-chance
+date: 2022-01-05
+updated: 2023-08-21
+type: 
 categories: [blog]
-tags: [giochiamo, ClimateChange]
-date: 2022-01-05T23:49:01+01:00
+tags: [giochiamo, climatechange]
+description: 
+permalink: 
+slug: co2-second-chance
 ---
-![](/img/post/2022/co2-second-change-featured.webp)
+
+![](../../../assets/img/post/2022/co2-second-change-featured.webp)
 
 CO2 Second Change è uno dei giochi da tavolo più complessi sul tema riscaldamento globale e gestione appunto delle emissioni CO2.  
 la versione fisica del gioco non costa poco (almeno 60) e giocarlo non è banale. sopratutto trovare amici abbastanza super nerd nella propria regione da volersi sedere ad un tavolo per 2 ore almeno dopo 4 ore di studio delle regole.

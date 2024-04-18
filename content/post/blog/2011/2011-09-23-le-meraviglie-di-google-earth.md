@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 categories:
 - Arte
-- Tecnologia
+- tecnologia
 date: 2011-09-23T00:54:43Z
 guid: http://stefanocecere.com/?p=2660
 id: 2660

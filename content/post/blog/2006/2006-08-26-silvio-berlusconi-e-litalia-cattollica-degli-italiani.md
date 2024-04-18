@@ -1,13 +1,13 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-08-26T23:54:04Z
 guid: http://cecere.xyz/2006/08/26/silvio-berlusconi-e-litalia-cattollica-degli-italiani/
 id: 401
 tags:
 - Berlusconi
-- vergogna!
-title: Silvio Berlusconi e l&#039;Italia Cattolica degli italiani
+- vergogna
+title: Silvio Berlusconi e l'Italia Cattolica degli italiani
 slug: /2006/08/silvio-berlusconi-e-litalia-cattollica-degli-italiani/
 ---
 

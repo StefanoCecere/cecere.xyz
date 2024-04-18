@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories:
 - Terra 2.0
 date: 2009-02-16T01:23:41Z
@@ -8,7 +8,7 @@ guid: http://stefanocecere.com/?p=1525
 id: 1525
 tags:
 - marcia mondiale
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 - nonviolenza
 - pace
 - video

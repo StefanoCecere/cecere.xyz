@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2008-10-30
 guid: http://cecere.xyz/?p=1467
@@ -7,7 +7,7 @@ id: 1467
 tags:
 - giornale
 - IlManifesto
-- Media
+- media
 - petizione
 title: Sosteniamo Il Manifesto
 slug: /2008/10/sosteniamo-il-manifesto/

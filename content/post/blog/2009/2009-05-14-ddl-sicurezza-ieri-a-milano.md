@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-05-14T08:37:38Z
 guid: http://stefanocecere.com/?p=1792
@@ -8,7 +8,7 @@ tags:
 - immigrazione
 - manifestazione
 - Milano
-- Politica
+- politica
 - video
 title: 'DDL sicurezza: ieri a Milano'
 slug: /2009/05/ddl-sicurezza-ieri-a-milano/

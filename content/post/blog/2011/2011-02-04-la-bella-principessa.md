@@ -1,7 +1,8 @@
 ---
 title: La bella principessa
+date: 2011-02-04
+updated: 2023-07-29
 slug: /2011/02/la-bella-principessa/
-date: 2011-02-04T09:33:21Z
 id: 2364
 categories: [blog]
 tags: [favole]
@@ -9,7 +10,7 @@ tags: [favole]
 
 ovvero: _la fregatura vestita da favola_
 
-![](/assets/images/2011/02/principesse.jpg)
+![](../../../assets/img/post/2011/principesse.jpg)
 
 C'era una volta una principessa, era bella e con un mucchio di capelli che scendevano in verticale!
   

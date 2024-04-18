@@ -1,15 +1,16 @@
 ---
-draft: true
+title: "La stupidità umana non ha limiti. ma anche l'intelligenza e la creatività"
+date: 2009-03-03
+updated: 2023-08-11
+draft: false
 categories: [blog]
-date: 2009-03-03T02:42:36Z
 guid: http://stefanocecere.com/?p=1550
 id: 1550
 tags:
 - diario
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 - tecnologia
 - video
-title: La stupidità umana non ha limiti. ma anche l&#039;intelligenza e la creatività.
 slug: /2009/03/la-stupidita-umana-non-ha-limiti-ma-anche-lintelligenza-e-la-creativita/
 ---
 

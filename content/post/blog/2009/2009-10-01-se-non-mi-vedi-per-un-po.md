@@ -1,11 +1,11 @@
 ---
-draft: true
+draft: false
 categories:
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 date: 2009-10-01T00:03:12Z
 guid: http://stefanocecere.com/?p=1927
 id: 1927
-title: se non mi vedi per un po&#039;…
+title: se non mi vedi per un po'…
 slug: /2009/10/se-non-mi-vedi-per-un-po/
 ---
 

@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories:
-- Politica
+- politica
 date: 2011-04-13T10:42:23Z
 guid: http://stefanocecere.com/?p=2451
 id: 2451
 tags:
-- Politica
+- politica
 - referendum
 title: altrimenti spiegami le tue ragioni!
 slug: /2011/04/altrimenti-spiegami-le-tue-ragioni/

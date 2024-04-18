@@ -1,14 +1,21 @@
 ---
-draft: true
+title: invenzioni e inventori
+date: 2015-03-17
+updated: 2023-10-25
+type: 
 categories:
 - JJ
-date: 2015-03-17T09:57:42Z
+tags:
+- t/cartoni
+- education
+- t/invenzioni
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
 guid: http://stefanocecere.com/?p=5659
 id: 5659
-tags:
-- cartoni
-- education
-title: invenzioni e inventori
 slug: /2015/03/invenzioni-e-inventori/
 ---
 
@@ -19,6 +26,3 @@ bello sintetico ma ampio, sufficientemente divertente, dura giusto i 20 minuti d
 e abbiamo già scoperto un sacco di cose sui cinesi che non sapevamo!
   
 grandi cinesi (come si è modificata la considerazione che abbiamo di loro, negli ultimi decenni 😮
-
-<div class="jetpack-video-wrapper">
-</div>

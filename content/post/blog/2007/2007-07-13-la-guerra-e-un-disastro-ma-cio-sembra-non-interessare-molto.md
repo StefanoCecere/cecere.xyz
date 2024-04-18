@@ -1,13 +1,13 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-07-13T00:10:21Z
 guid: http://cecere.xyz/2007/07/13/la-guerra-e-un-disastro-ma-cio-sembra-non-interessare-molto/
 id: 520
 tags:
 - guerra
-- Politica
-- vergogna!
+- politica
+- vergogna
 title: La guerra è un disastro. ma ciò sembra non interessare molto
 slug: /2007/07/la-guerra-e-un-disastro-ma-cio-sembra-non-interessare-molto/
 ---

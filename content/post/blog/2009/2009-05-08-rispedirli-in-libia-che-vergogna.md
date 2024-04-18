@@ -1,13 +1,13 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-05-08T08:24:45Z
 guid: http://stefanocecere.com/?p=1743
 id: 1743
 tags:
 - immigrazione
-- Politica
-- vergogna!
+- politica
+- vergogna
 title: 'Rispedirli in Libia: che vergogna…'
 slug: /2009/05/rispedirli-in-libia-che-vergogna/
 ---

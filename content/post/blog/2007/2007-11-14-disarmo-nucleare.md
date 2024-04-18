@@ -6,6 +6,6 @@ categories: [blog]
 date: 2007-11-14
 
 ---
-![](img/banchino_monza_disarmo_featured.jpg)
+![](../../../assets/img/post/2007/banchino_monza_disarmo_featured.jpg)
 
 a Monza continuiamo questa importante campagna di sensibilizzazione

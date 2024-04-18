@@ -1,11 +1,11 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-02-26T12:26:41Z
 guid: http://stefanocecere.com/?p=1535
 id: 1535
 tags:
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 title: 10 ragioni per partecipare alla Marcia Mondiale
 slug: /2009/02/10-ragioni-per-partecipare-alla-marcia-mondiale/
 ---

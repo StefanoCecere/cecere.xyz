@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2015-03-22T06:38:12Z
 guid: http://stefanocecere.com/?p=5705

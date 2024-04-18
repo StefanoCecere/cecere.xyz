@@ -1,15 +1,18 @@
 ---
-draft: true
+title: Forum umanisti Africa e Nepal
+date: 2008-12-03
+updated: 2023-08-18
+type: 
 categories: [blog]
-date: 2008-12-03T09:55:00Z
-guid: http://cecere.xyz/?p=1494
-id: 1494
 tags:
 - africa
-- Forum
-- Nepal
+- forum
 - umanista
-title: Forum umanisti Africa e Nepal
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/?p=1494
+id: 1494
 slug: /2008/12/forum-umanisti-africa-e-nepal/
 ---
 

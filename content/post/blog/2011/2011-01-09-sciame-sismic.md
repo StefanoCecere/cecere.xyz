@@ -1,9 +1,9 @@
 ---
-draft: true
+draft: false
 categories:
 - Economia
-- Politica
-- Tempi moderni
+- politica
+- tempi-moderni
 date: 2011-01-09T23:29:47Z
 guid: http://stefanocecere.com/?p=2313
 id: 2313
@@ -13,7 +13,7 @@ tags:
 - crisi
 - finanza
 - lavoro
-- Politica
+- politica
 - soldi
 title: 'Sciame sismico: ovvero non pensarci che non ti passa!'
 slug: /2011/01/sciame-sismic/

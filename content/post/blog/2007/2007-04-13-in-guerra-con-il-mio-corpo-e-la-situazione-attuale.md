@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-04-13T00:33:48Z
 guid: http://cecere.xyz/2007/04/13/in-guerra-con-il-mio-corpo-e-la-situazione-attuale/

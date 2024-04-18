@@ -1,14 +1,14 @@
 ---
-draft: true
+draft: false
 categories:
-- Media
+- media
 date: 2009-06-06T20:28:22Z
 guid: http://stefanocecere.com/?p=1857
 id: 1857
 tags:
 - documentario
 - lavoro
-- TV
+- tv
 title: Massima solidarietà a Santoro
 slug: /2009/06/massima-solidarieta-a-santoro/
 ---

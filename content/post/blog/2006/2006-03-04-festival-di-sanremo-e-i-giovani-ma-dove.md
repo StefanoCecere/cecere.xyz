@@ -1,18 +1,24 @@
 ---
-draft: true
+title: Festival di Sanremo e i giovani.. ma dove?
+date: 2006-03-04
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2006-03-04T01:58:04Z
-guid: http://cecere.xyz/2006/03/04/festival-di-sanremo-e-i-giovani-ma-dove/
-id: 239
 tags:
 - ricreazione
 - Sanremo
-- vergogna!
-title: Festival di Sanremo e i giovani.. ma dove?
+- vergogna
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/2006/03/04/festival-di-sanremo-e-i-giovani-ma-dove/
+id: 239
 slug: /2006/03/festival-di-sanremo-e-i-giovani-ma-dove/
 ---
 
-<img src='/wp-content/deasonika.jpg' alt='deasonika' align='left' />lunedì ho iniziato a vederlo.. ho resistito 30 minuti poi ho spento la tv.. parlava solo Panariello, interventi scontati e banali, l'unica simpatia quella della Victoria..
+![](../../../assets/img/post/2006/deasonika.jpg)
+
+lunedì ho iniziato a vederlo.. ho resistito 30 minuti poi ho spento la tv.. parlava solo Panariello, interventi scontati e banali, l'unica simpatia quella della Victoria..
 
 quando ho saputo che i miei amici Deasonika erano stati esclusi dalla gara (partecipavano nella categoria giovani) dopo una sola esibizione, il mercoledì, mi è venuto il sospetto che forse non gliene frega più di tanto , dei "giovani".. e forse anche della musica, dato che sembra che in media passava una canzone ogni 20 minuti di Festival..
 

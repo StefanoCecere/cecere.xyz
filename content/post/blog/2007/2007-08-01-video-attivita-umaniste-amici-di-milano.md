@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-08-01T09:03:08Z
 guid: http://cecere.xyz/2007/08/01/video-attivita-umaniste-amici-di-milano/

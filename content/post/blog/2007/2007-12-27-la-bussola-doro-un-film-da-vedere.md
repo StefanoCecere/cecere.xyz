@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-12-27T17:19:49Z
 guid: http://cecere.xyz/2007/12/27/la-bussola-doro-un-film-da-vedere/
@@ -9,7 +9,7 @@ tags:
 - film
 - recensione
 - ricreazione
-title: 'La Bussola d&#039;Oro: un film da vedere'
+title: "La Bussola d'Oro: un film da vedere"
 slug: /2007/12/la-bussola-doro-un-film-da-vedere/
 ---
 

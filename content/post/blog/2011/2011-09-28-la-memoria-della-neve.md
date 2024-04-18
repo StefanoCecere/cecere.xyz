@@ -1,16 +1,21 @@
 ---
-draft: true
+title: La memoria della neve
+date: 2023-10-20
+updated: 2023-10-21
+type: 
 categories: [blog]
-date: 2011-09-28T02:40:45Z
-guid: http://stefanocecere.com/2011/09/28/la-memoria-della-neve/
-id: 2677
 tags:
 - coscienza
 - diario
 - memoria
-- San francisco
 - viaggio
-title: La memoria della neve
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
+guid: http://stefanocecere.com/2011/09/28/la-memoria-della-neve/
+id: 2677
 slug: /2011/09/la-memoria-della-neve/
 ---
 

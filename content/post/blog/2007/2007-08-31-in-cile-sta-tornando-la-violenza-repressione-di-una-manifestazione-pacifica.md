@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories: [blog]
-date: 2007-08-31T10:17:15Z
+date: 2007-08-31
 guid: http://cecere.xyz/2007/08/31/in-cile-sta-tornando-la-violenza-repressione-di-una-manifestazione-pacifica/
 id: 550
 tags:
@@ -12,9 +12,11 @@ title: 'In Cile sta tornando la violenza: repressione di una manifestazione paci
 slug: /2007/08/in-cile-sta-tornando-la-violenza-repressione-di-una-manifestazione-pacifica/
 ---
 
-<img src='http://cecere.xyz/wp-content/uploads/sites/3/2007/08/repressione_dimostrazione_cile.jpg' alt='repressione dimostrazione in cile' align="left" />forse a qualcuno i "modelli forti" (vedi Pinochet) fanno molta nostalgia…
+![repressione dimostrazione in Cile](../../../assets/img/post/2007/repressione_dimostrazione_cile.jpg)
+
+forse a qualcuno i "modelli forti" (vedi Pinochet) fanno molta nostalgia…
   
-in Cile dall'anno scorso c'è un Governo di centro-sinistra , la Concertation. e come un po' tutti questi centro-sinistri hanno qualche contraddizione di fondo, nel momento in cui hanno sacrificato una propria ideologia sociale in nome del pragmatismo (economico e di governo).
+in Cile dall'anno scorso c'è un Governo di centro-sinistra, la Concertation. e come un po' tutti questi centro-sinistri hanno qualche contraddizione di fondo, nel momento in cui hanno sacrificato una propria ideologia sociale in nome del pragmatismo (economico e di governo).
 
 Nonostante comunque partecipassero anche esponenti del Governo, una pacifica dimostrazione di lavoratori e studenti ha subito maltrattamenti dalla polizia. Diversi umanisti (tra cui l'ex candidato alle presidenziali e protavoce umanista per il latino-america Tomas Hirsch) stanno cercando di rendere nota cosa sia successo, ricordando che non è un caso isolato.
 
@@ -24,9 +26,11 @@ qualche dettaglio: [www.humanisteurope.org](http://www.humanisteurope.org/) e [w
 
 pubblico qui una delle lettere appena arrivata da un amico del Cile (è in inglese):
 
-_Dear Friends
+---
+
+Dear Friends
   
-First of all I’ll tell you about our people who were detained:</p> 
+First of all I’ll tell you about our people who were detained:
 
 Bélen Gallardo has already been set free and is well. Cristián Jiménez is still detained in the 3rd police station, I spoke with him by phone and he’s ok, hoping to be set free.
 
@@ -70,4 +74,4 @@ Back in the office, besides the heater, without shoes or socks, the media starte
 
 We communicated with our people who were at Huérfanos and Ahumada, at the planned table of popular discontent and they were very happy, everything developed very well and we were asked if Tomás would make it there, but the truth is that we couldn’t take any more.
 
-A hug</em>
+A hug

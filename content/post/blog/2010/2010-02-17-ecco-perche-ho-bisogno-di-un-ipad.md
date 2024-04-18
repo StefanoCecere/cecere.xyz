@@ -1,17 +1,21 @@
 ---
-draft: true
+title: Ecco perchè ho bisogno di un iPad!!
+date: 2010-02-17
+updated: 2023-08-21
+type: 
 categories:
 - Smile
-date: 2010-02-17T10:16:13Z
-guid: http://stefanocecere.com/?p=2021
-id: 2021
 tags:
 - apple
 - iPad
 - ridere
 - tecnologia
 - vignetta
-title: Ecco perchè ho bisogno di un iPad!!
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2021
+id: 2021
 slug: /2010/02/ecco-perche-ho-bisogno-di-un-ipad/
 ---
 

@@ -1,20 +1,18 @@
 ---
-draft: true
+draft: false
 categories: [blog]
-date: 2006-05-09T23:28:28Z
+date: 2006-05-09
 guid: http://cecere.xyz/2006/05/09/purautopia-una-band-di-veri-musicisti-umanisti/
 id: 268
 tags:
-- arte
 - music
 - ricreazione
 - umanista
-- umanisti
 title: Pura Utopia? una band di veri musicisti umanisti
 slug: /2006/05/purautopia-una-band-di-veri-musicisti-umanisti/
 ---
 
-![](/wp-content/pura_utopia.jpg)
+![](../../../assets/img/post/2006/pura_utopia.jpg)
 
 il loro album è davvero un capolavoro. specialmente i testi.. ce ne fossero di musicisti/parolieri così coerenti!
 

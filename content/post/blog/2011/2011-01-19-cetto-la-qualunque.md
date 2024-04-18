@@ -1,15 +1,15 @@
 ---
-draft: true
+draft: false
 categories:
-- Politica
+- politica
 - Smile
-- Tempi moderni
+- tempi-moderni
 date: 2011-01-19T09:32:03Z
 guid: http://stefanocecere.com/?p=2340
 id: 2340
 tags:
-- Politica
-- TV
+- politica
+- tv
 title: Cetto la Qualunque
 slug: /2011/01/cetto-la-qualunque/
 ---

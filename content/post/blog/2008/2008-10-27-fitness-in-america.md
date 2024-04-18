@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2008-10-27T11:11:03Z
 guid: http://cecere.xyz/2008/10/27/fitness-in-america/

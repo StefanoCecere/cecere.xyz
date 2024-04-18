@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-06-01T01:11:59Z
 guid: http://cecere.xyz/2006/06/01/guerre-stellari-in-iraq-un-video-agghiacciante/
@@ -8,10 +8,10 @@ tags:
 - guerra
 - impressionante
 - Iraq
-- scudo spaziale
+- scudo-spaziale
 - tecnologia
 - USA
-- vergogna!
+- vergogna
 - video
 - violenza
 title: 'Guerre stellari in Iraq: un video agghiacciante'

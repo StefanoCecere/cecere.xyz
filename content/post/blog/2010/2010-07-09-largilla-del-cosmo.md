@@ -1,16 +1,20 @@
 ---
 title: L’argilla del cosmo
-slug: /2010/07/largilla-del-cosmo/
-draft: false
+date: 2010-07-09
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-07-09T15:41:09Z
-guid: http://stefanocecere.com/?p=2195
-id: 2195
 tags:
 - evoluzione
 - fantascienza
 - racconto
 - Silo
+description: 
+permalink: 
+slug: /2010/07/largilla-del-cosmo/
+draft: false
+guid: http://stefanocecere.com/?p=2195
+id: 2195
 ---
 
 Quando la superficie di questo mondo cominciò a raffreddarsi, venne un precursore che scelse il modello di processo che avrebbe dovuto autosostenersi. Nulla gli parve più interessante che immaginare una matrice con n possibilità progressive divergenti. Allora creò le condizioni per la vita. Con il tempo i tratti giallastri dell’atmosfera primitiva virarono verso l’azzurro e gli scudi di protezione cominciarono a funzionare a livelli accettabili.

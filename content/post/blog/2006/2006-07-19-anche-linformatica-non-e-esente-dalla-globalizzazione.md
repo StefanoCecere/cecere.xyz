@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-07-19T10:58:22Z
 guid: http://cecere.xyz/2006/07/19/anche-linformatica-non-e-esente-dalla-globalizzazione/
 id: 370
 tags:
 - tecnologia
-title: anche l&#039;informatica non è esente dalla globalizzazione
+title: anche l'informatica non è esente dalla globalizzazione
 slug: /2006/07/anche-linformatica-non-e-esente-dalla-globalizzazione/
 ---
 

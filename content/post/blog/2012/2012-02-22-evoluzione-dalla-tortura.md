@@ -1,18 +1,22 @@
 ---
-draft: true
+title: "L'evoluzione dalla tortura"
+date: 2012-02-22
+updated: 2023-08-13
+type: 
 categories: [blog]
-date: 2012-02-22T22:15:49Z
-guid: http://stefanocecere.com/?p=2868
-id: 2868
 tags:
 - coscienza
 - crisi
 - economia
 - evoluzione
 - MMT
-- senso della vita
+- senso-della-vita
 - violenza
-title: L&#039;evoluzione dalla tortura
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2868
+id: 2868
 slug: /2012/02/evoluzione-dalla-tortura/
 ---
 

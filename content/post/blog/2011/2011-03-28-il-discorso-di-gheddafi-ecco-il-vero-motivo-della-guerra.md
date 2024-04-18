@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 categories:
 - Smile
-- Tempi moderni
+- tempi-moderni
 date: 2011-03-28T00:27:38Z
 guid: http://stefanocecere.com/?p=2425
 id: 2425

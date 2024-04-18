@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-10-04T02:08:00Z
 guid: http://cecere.xyz/2006/10/04/un-video-che-ti-mostra-quello-che-sentiamo/

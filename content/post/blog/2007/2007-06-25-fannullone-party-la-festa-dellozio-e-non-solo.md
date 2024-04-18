@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Futuro
+- futuro
 date: 2007-06-25
 guid: http://cecere.xyz/2007/06/25/fannullone-party-la-festa-dellozio-e-non-solo/
 id: 513

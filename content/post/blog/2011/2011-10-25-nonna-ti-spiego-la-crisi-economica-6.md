@@ -1,18 +1,22 @@
 ---
-draft: true
+title: Nonna, ti spiego la crisi economica. 6
+date: 2011-10-25
+updated: 2023-10-25
+type: 
 categories:
 - Economia
-- Tempi moderni
-date: 2011-10-25T12:20:27Z
+- tempi-moderni
+tags:
+- t/crisi
+- t/economia
+- t/soldi
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
 guid: http://stefanocecere.com/?p=2753
 id: 2753
-tags:
-- Barnard
-- crisi
-- economia
-- finanza
-- soldi
-title: Nonna, ti spiego la crisi economica. 6
 slug: /2011/10/nonna-ti-spiego-la-crisi-economica-6/
 ---
 

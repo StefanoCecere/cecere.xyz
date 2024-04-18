@@ -1,20 +1,23 @@
 ---
-draft: true
+title: viuleeenza!
+date: 2006-01-22
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2006-01-22T12:27:04Z
-guid: http://cecere.xyz/2006/01/22/viuleeenza/
-id: 215
 tags:
 - Berlusconi
-- Rassegna Stampa
 - ricreazione
 - tecnologia
 - violenza
-title: viuleeenza!
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/2006/01/22/viuleeenza/
+id: 215
 slug: /2006/01/viuleeenza/
 ---
 
-![](/wp-content/viuleeenza.jpg)
+![](../../../assets/img/post/2006/viuleeenza.jpg)
 
 come avevo già detto.. adoro le prime pagine del [Manifesto](http://www.ilmanifesto.it)
 

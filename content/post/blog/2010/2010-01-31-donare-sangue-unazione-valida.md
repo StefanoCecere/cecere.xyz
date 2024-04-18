@@ -1,13 +1,17 @@
 ---
-draft: true
+title: "Donare sangue: un'azione valida"
+date: 2010-01-31
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-01-31T18:13:35Z
+tags:
+- senso-della-vita
+- solidarietà
+description: 
+permalink: 
+draft: false
 guid: http://stefanocecere.com/?p=1991
 id: 1991
-tags:
-- senso della vita
-- solidarietà
-title: 'Donare sangue: un&#039;azione valida'
 slug: /2010/01/donare-sangue-unazione-valida/
 ---
 

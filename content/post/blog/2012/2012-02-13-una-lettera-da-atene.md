@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Tempi moderni
+- tempi-moderni
 date: 2012-02-13T16:12:37Z
 guid: http://stefanocecere.com/?p=2853
 id: 2853

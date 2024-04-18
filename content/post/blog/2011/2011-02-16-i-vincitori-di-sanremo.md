@@ -1,18 +1,18 @@
 ---
-draft: true
+draft: false
 categories:
 - Arte
-- Politica
+- politica
 - Smile
 - Spirito
-- Tempi moderni
+- tempi-moderni
 date: 2011-02-16T09:29:00Z
 guid: http://stefanocecere.com/?p=2381
 id: 2381
 tags:
 - Berlusconi
 - music
-- Politica
+- politica
 - video
 title: I vincitori di Sanremo
 slug: /2011/02/i-vincitori-di-sanremo/

@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-03-02T02:52:47Z
 guid: http://stefanocecere.com/?p=1543
 id: 1543
 tags:
 - diario
-- senso della vita
+- senso-della-vita
 title: Un anno per rigirare il mondo
 slug: /2009/03/un-anno-per-rigirare-il-mondo/
 ---

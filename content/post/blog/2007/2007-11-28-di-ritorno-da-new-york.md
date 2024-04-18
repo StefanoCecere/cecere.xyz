@@ -1,11 +1,11 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-11-29
 guid: http://cecere.xyz/2007/11/28/di-ritorno-da-new-york/
 id: 612
 tags:
-- Terra2
+- terra2
 - viaggio
 title: Di ritorno da New York
 slug: /2007/11/di-ritorno-da-new-york/

@@ -1,15 +1,19 @@
 ---
-draft: true
+title: Assassinio collaterale
+date: 2010-04-10
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-04-10T11:09:10Z
-guid: http://stefanocecere.com/?p=2123
-id: 2123
 tags:
 - guerra
 - Iraq
 - morte
 - video
-title: Assassinio collaterale
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2123
+id: 2123
 slug: /2010/04/assassinio-collaterale/
 ---
 

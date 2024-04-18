@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 categories:
-- Mondo Senza Guerre
-- Tempi moderni
+- MondoSenzaGuerre
+- tempi-moderni
 date: 2011-06-13T14:48:49Z
 guid: http://stefanocecere.com/?p=2494
 id: 2494

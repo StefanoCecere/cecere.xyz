@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-10-28T00:36:47Z
 guid: http://cecere.xyz/2006/10/28/droga-nel-parlamento-italiano/
@@ -9,7 +9,7 @@ tags:
 - parlamento
 - politici
 - ricreazione
-- vergogna!
+- vergogna
 title: droga nel parlamento italiano
 slug: /2006/10/droga-nel-parlamento-italiano/
 ---

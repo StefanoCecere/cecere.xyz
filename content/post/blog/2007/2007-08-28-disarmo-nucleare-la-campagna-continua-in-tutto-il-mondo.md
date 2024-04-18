@@ -1,13 +1,13 @@
 ---
-draft: true
+draft: false
 categories:
-- Tempi moderni
+- tempi-moderni
 date: 2007-08-28T13:16:53Z
 guid: http://cecere.xyz/2007/08/28/disarmo-nucleare-la-campagna-continua-in-tutto-il-mondo/
 id: 543
 tags:
-- disarmo nucleare
-- Politica
+- disarmo-nucleare
+- politica
 - umanista
 title: 'disarmo nucleare: la Campagna continua in tutto il mondo'
 slug: /2007/08/disarmo-nucleare-la-campagna-continua-in-tutto-il-mondo/

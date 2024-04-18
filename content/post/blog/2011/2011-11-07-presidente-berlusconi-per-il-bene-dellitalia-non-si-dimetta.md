@@ -1,9 +1,9 @@
 ---
-draft: true
+draft: false
 categories:
 - Economia
-- Politica
-- Tempi moderni
+- politica
+- tempi-moderni
 date: 2011-11-07T07:35:03Z
 guid: http://stefanocecere.com/?p=2784
 id: 2784
@@ -12,7 +12,7 @@ tags:
 - Berlusconi
 - crisi
 - economia
-- Politica
+- politica
 - speculazione
 title: Presidente Berlusconi, per il bene dell’Italia, NON SI DIMETTA.
 slug: /2011/11/presidente-berlusconi-per-il-bene-dellitalia-non-si-dimetta/

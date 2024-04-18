@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-07-07T23:33:56Z
 guid: http://cecere.xyz/2007/07/07/video-di-unp-spettacolo-incredibile/

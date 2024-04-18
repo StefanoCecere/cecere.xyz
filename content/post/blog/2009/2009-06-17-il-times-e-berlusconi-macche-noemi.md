@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-06-17T16:54:27Z
 guid: http://stefanocecere.com/?p=1893
@@ -8,7 +8,7 @@ tags:
 - banche
 - Berlusconi
 - crisi
-- Politica
+- politica
 - report
 - speculazione
 title: 'Il Times e Berlusconi: macché Noemi'

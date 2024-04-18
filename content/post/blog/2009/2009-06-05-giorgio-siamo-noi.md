@@ -1,6 +1,6 @@
 ---
 categories:
-- Politica
+- politica
 date: 2009-06-05T17:29:06Z
 guid: http://stefanocecere.com/?p=1852
 id: 1852
@@ -8,7 +8,7 @@ tags:
 - amici
 - Giorgio Schultze
 - mondo
-- Politica
+- politica
 title: Giorgio siamo noi!
 slug: /2009/06/giorgio-siamo-noi/
 ---

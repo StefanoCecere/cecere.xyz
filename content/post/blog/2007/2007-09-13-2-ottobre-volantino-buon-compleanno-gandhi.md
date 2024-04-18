@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-09-13
 guid: http://cecere.xyz/2007/09/13/2-ottobre-volantino-buon-compleanno-gandhi/
@@ -9,7 +9,7 @@ tags:
 - Gandhi
 - nonviolenza
 - spirito
-- Terra2
+- terra2
 - umanista
 title: "2 ottobre"
 slug: /2007/09/2-ottobre-volantino-buon-compleanno-gandhi/

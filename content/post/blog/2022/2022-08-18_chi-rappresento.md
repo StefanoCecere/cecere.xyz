@@ -1,9 +1,14 @@
 ---
 title: "Chi rappresento?"
-slug: 20220818
-categories: [blog]
-tags: [considerazioni]
 date: 2022-08-18
+updated: 2023-08-21
+type: 
+categories: [blog]
+tags:
+  - considerazioni
+description: 
+permalink: 
+slug: 20220818
 featured: false
 draft: false
 ---
@@ -64,5 +69,3 @@ chi gli uomini si ma le donne no
 chi davanti alla porta dei bagni con la scritta "Signore" non ha mai il dubbio
 
 NO.
-
-#considerazioni 20220818

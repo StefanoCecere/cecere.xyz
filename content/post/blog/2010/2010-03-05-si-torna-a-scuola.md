@@ -1,12 +1,16 @@
 ---
-draft: true
+title: Si torna a scuola
+date: 2010-03-05
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-03-05T16:14:19Z
-guid: http://stefanocecere.com/?p=2032
-id: 2032
 tags:
 - scuola
-title: Si torna a scuola
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2032
+id: 2032
 slug: /2010/03/si-torna-a-scuola/
 ---
 

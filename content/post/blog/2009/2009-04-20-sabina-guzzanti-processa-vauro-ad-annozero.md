@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-04-20T17:05:00Z
 guid: http://stefanocecere.com/?p=1676
@@ -8,7 +8,7 @@ tags:
 - Berlusconi
 - ridere
 - Sabina Guzzanti
-- TV
+- tv
 - Vauro
 - video
 title: Sabina Guzzanti processa Vauro (ad Annozero)

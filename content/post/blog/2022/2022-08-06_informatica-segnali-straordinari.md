@@ -1,18 +1,19 @@
 ---
 title: "Informatica e segnali straordinari"
+date: 2022-08-06
+updated: 2023-08-21
+type: 
+categories: [blog]
+tags:
+  - informazione
+  - significato
+  - straordinario
+description: ""
+permalink: 
 slug: informatica-segnali-straordinari
 subtitle: ""
-summary: ""
-categories: [blog]
-tags: [informazione]
-date: 2022-08-06T08:53:05+01:00
 featured: false
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-projects: []
 ---
 # Informatica e segnali straordinari
 Sono un informatico da quando in seconda media, diversi decenni fa (avevo il Commodore 64 per intenderci), il prof di tecnica spiegò che l’informatica era l’arte e la scienza dell’#informazione. 

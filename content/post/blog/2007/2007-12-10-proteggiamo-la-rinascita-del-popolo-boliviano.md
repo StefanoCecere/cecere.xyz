@@ -1,15 +1,15 @@
 ---
-draft: true
+draft: false
 categories:
-- Futuro
-- Tempi moderni
+- futuro
+- tempi-moderni
 date: 2007-12-10
 guid: http://cecere.xyz/2007/12/10/proteggiamo-la-rinascita-del-popolo-boliviano/
 id: 617
 tags:
 - Bolivia
-- Politica
-- Terra2
+- politica
+- terra2
 - umanista
 title: PROTEGGIAMO LA RINASCITA DEL POPOLO BOLIVIANO
 slug: /2007/12/proteggiamo-la-rinascita-del-popolo-boliviano/

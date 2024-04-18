@@ -1,13 +1,13 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-11-26
 guid: http://cecere.xyz/2007/11/26/evo-morales-si-dichiara-umanista/
 id: 611
 tags:
 - Evo Morales
-- Politica
-- Terra2
+- politica
+- terra2
 - umanista
 title: Evo Morales si dichiara umanista
 slug: /2007/11/evo-morales-si-dichiara-umanista/

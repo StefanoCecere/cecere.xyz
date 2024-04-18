@@ -1,13 +1,13 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-01-30T14:20:50Z
 guid: http://stefanocecere.com/?p=1519
 id: 1519
 tags:
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 title: se il Dalai Lama, la presidente del Cile, Philip Glass, Corrado Guzzanti, Carmen
-  Consoli, l&#039;Inter, Pessotto….
+  Consoli, l'Inter, Pessotto….
 slug: /2009/01/se-il-dalai-lama-la-presidente-del-cile-philip-glass-corrado-guzzanti-carmen-consoli-linter-pessotto/
 ---
 

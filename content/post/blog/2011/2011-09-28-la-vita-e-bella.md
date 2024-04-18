@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2011-09-28T02:56:19Z
 guid: http://stefanocecere.com/2011/09/28/la-vita-e-bella/
@@ -7,7 +7,7 @@ id: 2678
 tags:
 - diario
 - fascismo
-- senso della vita
+- senso-della-vita
 - violenza
 title: La vita è bella
 slug: /2011/09/la-vita-e-bella/

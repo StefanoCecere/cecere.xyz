@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Media
+- media
 date: 2009-07-03T13:28:04Z
 guid: http://stefanocecere.com/?p=1913
 id: 1913
@@ -10,7 +10,7 @@ tags:
 - falso
 - giornale
 - manipolazione
-- Media
+- media
 - video
 title: Repubblica è un giornale di fogna?
 slug: /2009/07/repubblica-e-un-giornale-di-fogna/

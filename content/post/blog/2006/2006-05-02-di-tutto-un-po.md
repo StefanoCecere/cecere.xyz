@@ -1,10 +1,10 @@
 ---
-draft: true
+draft: false
 categories: [blog]
-date: 2006-05-02T11:05:30Z
+date: 2006-05-02
 guid: http://cecere.xyz/2006/05/02/di-tutto-un-po/
 id: 262
-title: di tutto un po&#039;…
+title: di tutto un pò…
 slug: /2006/05/di-tutto-un-po/
 ---
 
@@ -16,7 +16,9 @@ la nostra vita non è una linea retta e continua.
   
 ma ricca di cerchi e ondulazioni.
 
-<img src='/wp-content/catasta.jpg' alt='' align='left' />dato che ora sono qui a scrivere colgo l'occasione di sparpagliare un po' la catasta di robe accumulate 🙂 :
+![](../../../assets/img/post/2006/catasta.jpg)
+
+dato che ora sono qui a scrivere colgo l'occasione di sparpagliare un po' la catasta di robe accumulate 🙂 :
 
 - sono molto contento dell'elezione di Bertinotti presidente della Camera. credo sia stato un genio a pretendere tale carica (chissà magari a scapito di tante altre cose), perché non credo che un partito come Rifondazione sia in grado di gestire dei ministeri, e poi non contaddirsi con obbligate scelte neoliberiste.
   

@@ -1,11 +1,16 @@
 ---
-draft: true
+title: Il genio in tempi di crisi
+date: 2010-10-12
+updated: 2023-08-21
+type: 
 categories:
-- Smile
-date: 2010-10-12T09:20:21Z
+- fun
+tags: 
+description: 
+permalink: 
+draft: false
 guid: http://stefanocecere.com/?p=2237
 id: 2237
-title: Il genio in tempi di crisi
 slug: /2010/10/il-genio-in-tempi-di-crisi/
 ---
 

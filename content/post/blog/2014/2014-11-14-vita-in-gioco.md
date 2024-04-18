@@ -2,7 +2,7 @@
 title: "Vita in Gioco"
 slug: 2014/11/vita-in-gioco
 subtitle: ""
-summary: ""
+description: ""
 tags: [vita]
 categories: [blog]
 date: 2014-11-14T15:42:08+01:00

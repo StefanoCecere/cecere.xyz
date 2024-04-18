@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-10-10T01:49:52Z
 guid: http://cecere.xyz/2006/10/10/molti-musicisti-appoggiano-lo-spot-di-silo-per-il-disarmo-nucleare/
 id: 442
 tags:
 - arte
-- disarmo nucleare
+- disarmo-nucleare
 - music
 - spirito
 - umanista

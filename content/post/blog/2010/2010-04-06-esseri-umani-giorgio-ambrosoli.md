@@ -1,12 +1,16 @@
 ---
-draft: true
+title: 'Esseri Umani: Giorgio Ambrosoli'
+date: 2010-04-06
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-04-06T17:49:53Z
-guid: http://stefanocecere.com/2010/04/06/esseri-umani-giorgio-ambrosoli/
-id: 2063
 tags:
 - eroi
-title: 'Esseri Umani: Giorgio Ambrosoli'
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/2010/04/06/esseri-umani-giorgio-ambrosoli/
+id: 2063
 slug: /2010/04/esseri-umani-giorgio-ambrosoli/
 ---
 

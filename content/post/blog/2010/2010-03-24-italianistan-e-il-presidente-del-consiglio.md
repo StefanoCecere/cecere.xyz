@@ -1,14 +1,18 @@
 ---
-draft: true
+title: Italianistan e il Presidente del Consiglio
+date: 2010-03-24
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-03-24T18:58:32Z
-guid: http://stefanocecere.com/?p=2039
-id: 2039
 tags:
 - Berlusconi
-- Politica
+- politica
 - ridere
-title: Italianistan e il Presidente del Consiglio
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2039
+id: 2039
 slug: /2010/03/italianistan-e-il-presidente-del-consiglio/
 ---
 

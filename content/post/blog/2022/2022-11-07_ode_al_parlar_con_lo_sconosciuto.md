@@ -1,17 +1,20 @@
 ---
 title: Ode al parlar con lo sconosciuto
 date: 2022-11-07
-lastmod: 2022-11-08
+updated: 2023-08-21
+type: 
+categories: 
 tags:
   - blog
   - diario
-aliases: [Ode al parlar con lo sconosciuto]
+description: 
+permalink: 
 resources: 
   - https://www.bbc.com/future/article/20221026-why-talking-to-strangers-can-make-us-happier
 ---
 # Ode al parlar con lo sconosciuto
 
-![](../../assets/blog/talk_2_strangers.webp)
+![](../../../assets/img/post/2022/talk_2_strangers.jpg)
 
 TLDR: imparare a parlare con gli sconosciuti può migliorare la vita personale e il futuro della società.
 

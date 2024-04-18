@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2008-10-15T17:39:54Z
 guid: http://cecere.xyz/?p=1411
@@ -246,7 +246,7 @@ Inchiesta di Maurizio Torrealta (RaiNews24) 
 - Mezzi di comunicazione, aule 22 (h.15-18) e 23 (h. 15-19)
 - Movimento studentesco - aula 30 (h.10-19)
 - Religiosità e spiritualità: auditorium 6, h.11-12 e h. 16-18. Aula 35 (Rivoluzione e spiritualità, h. 12-16), aula 36 (Riconciliazione e spiritualità, h. 12-16,) aula 37 (Sessualità spirituale - l'energia sessuale verso la creazione di una coscienza di pace, h.12-16), aula 38 (Cosa spinge l'essere umano alla ricerca del sacro? h.12-16), aula 44 (Violenza religiosa in Europa, h. 12-16). 
-- Tecnologia digitale- aula 40 (h.10-19)
+- tecnologia digitale- aula 40 (h.10-19)
 - Partiti politici - aula 35 (h.10-12; 16-19)
 - Nuove generazioni - aula 29 (h.10-19)
 - La menzogna dell'informazione, aule 25 e 28 (h.15-19)

@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-10-18T17:48:13Z
 guid: http://cecere.xyz/2006/10/18/le-vibrazioni-e-la-campagna-disarmo-nucleare/
 id: 447
 tags:
 - arte
-- disarmo nucleare
+- disarmo-nucleare
 title: Le Vibrazioni e la Campagna Disarmo Nucleare
 slug: /2006/10/le-vibrazioni-e-la-campagna-disarmo-nucleare/
 ---

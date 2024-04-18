@@ -1,32 +1,29 @@
 ---
-draft: true
+title: La crisi della Grecia e del Sistema
+date: 2010-04-19
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-04-19T08:49:00Z
-guid: http://stefanocecere.com/?p=2149
-id: 2149
 tags:
 - crisi
-- Grecia
 - sistema
-title: La crisi della Grecia e del Sistema
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2149
+id: 2149
 slug: /2010/04/la-crisi-della-grecia-e-del-sistema/
 ---
 
 è possibile che il nostro "**Sistema**" sia agli sgoccioli? ovvero che presto **crollerà**? Per Sistema intendo quel complesso insieme di relazioni economiche,politiche,sociali e valori, credenze e leggi che fino ad oggi ci ha tenuto assieme. Qualcuno crede che il sistema sia morto già da diverso tempo e che sta giusto iniziando a sentirsi la sua "puzza di cadavere" .
 
-Sicuramente **chi** **ha tessuto la tela di questo Sistema è stato molto bravo a non fare i nostri interessi** (mi metto dalla parte dei normali esseri umani, solidali con i più poveri e bisognosi, che aspirano ad una vita pacifica, dignitosa e onesta in armonia con ogni altro essere umano).
+Sicuramente **chi ha tessuto la tela di questo Sistema è stato molto bravo a non fare i nostri interessi** (mi metto dalla parte dei normali esseri umani, solidali con i più poveri e bisognosi, che aspirano ad una vita pacifica, dignitosa e onesta in armonia con ogni altro essere umano).
 
 Vorrei sperare che abbiano tirato troppo la corda e che il tutto gli stia tornando contro.
 
 Intanto riporto e [linko](http://paolobarnard.info/intervento_mostra_go.php?id=179) un articolo del giornalista **Paolo Barnard** che descrive come in non saprei fare la faccenda Grecia e del grande casino in cui ci troviamo (ovvero **abbiamo lasciato** che ci portassero qui…)
 
-
-  
-
-
 ### La Grecia al patibolo, il boia si chiama Trattato di Lisbona.
-
-</a>
 
 Sarò brevissimo e chiaro. Scrissi tempo fa che i trattati europei, da Maastricht a Lisbona, sono stati pensati per il bene delle elites neoliberali a scapito della libertà e del futuro di milioni di noi. Ho detto: essi sono una minaccia mille volte più orrenda di qualsiasi magagna del berlusconismo, eppure nessuno fra le ‘belle anime’ qui da noi se li fila.
 

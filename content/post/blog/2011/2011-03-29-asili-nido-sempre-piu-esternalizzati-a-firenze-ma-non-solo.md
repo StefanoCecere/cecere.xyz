@@ -1,9 +1,9 @@
 ---
-draft: true
+draft: false
 categories:
 - JJ
-- Politica
-- Tempi moderni
+- politica
+- tempi-moderni
 date: 2011-03-29T08:29:09Z
 guid: http://stefanocecere.com/?p=2428
 id: 2428
@@ -11,7 +11,7 @@ tags:
 - asilo
 - Firenze
 - manifestazione
-- Politica
+- politica
 title: Asili nido sempre più &quot;esternalizzati&quot; (a Firenze. ma non solo)
 slug: /2011/03/asili-nido-sempre-piu-esternalizzati-a-firenze-ma-non-solo/
 ---

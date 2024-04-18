@@ -1,14 +1,14 @@
 ---
-draft: true
+draft: false
 categories:
 - Smile
-- Tempi moderni
+- tempi-moderni
 date: 2011-04-29T21:14:47Z
 guid: http://stefanocecere.com/?p=2460
 id: 2460
 tags:
 - contraddizioni
-- Papa
+- papa
 title: 'Papa Wojtyla: tutto ciò che avresti sempre dovuto sapere'
 slug: /2011/04/papa-wojtyla-tutto-cio-che-avresti-sempre-dovuto-sapere/
 ---

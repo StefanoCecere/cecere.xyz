@@ -1,15 +1,19 @@
 ---
-draft: true
+title: La Teoria del Divertimento
+date: 2010-02-13
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-02-13T15:45:17Z
-guid: http://stefanocecere.com/?p=2003
-id: 2003
 tags:
 - fun
 - music
 - società
 - video
-title: La Teoria del Divertimento
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2003
+id: 2003
 slug: /2010/02/la-teoria-del-divertimento/
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: pochi giorni all’inizio del Forum Umanista Europeo
+title: "pochi giorni all’inizio del Forum Umanista Europeo"
 slug: /2008/10/pochi-giorni-allinizio-del-forum/
 categories:
 - Buone Nuove
-date: 2008-10-11T12:10:44Z
+date: 2008-10-11
 guid: http://cecere.xyz/?p=1381
 id: 1381
 tags:
@@ -19,7 +19,7 @@ Giorgio Schultze (Portavoce del Nuovo Umanesimo), Anna Falchi, Dario Fo, France
 
 Aderiscono oltre ai testimonial dello spot: Noam Chomsky, Lella Costa, Gianluca Pessotto, David Riondino, Roberto Vecchioni Paolo Virzì.
 
-{{< youtube pNqY0g__c9o >}}
+#todo_youtube pNqY0g__c9o >}}
 
 Venerdì 17, alle 13.30 prima dell'apertura del Forum al Palalido in Piazza Stuparich: incontro con la stampa, rinfresco e spazio interviste.
 
@@ -47,8 +47,8 @@ Tavola rotonda: **Fermare la guerra nucleare. Il ruolo dell'Europa.**
 Oratori: Giorgio Schultze, Hans Kristensen, Angelo Baracca, Giulietto Chiesa, Pol D'Huyvetter.
 
 Venerdì 17, alle 21.30 al Palalido  
-Fateci uscire! serata in appoggio al Manifesto</span></strong><br /> con la partecipazione del direttore Valentino Parlato.
-            
+Fateci uscire! serata in appoggio al Manifesto con la partecipazione del direttore Valentino Parlato.
+
 Sabato 18, alle 17.00 alla Bicocca
 Conferenza: **Una soluzione nonviolenta al conflitto Palestina-Israele.**  
 Oratori: Luisa Morgantini, Noam Livne, Monica Czyza, Giorgio Forti, Felicity de Zulueta.
@@ -74,7 +74,7 @@ Il programma del forum, in via di definizione, prevede tavoli di lavoro su:
 - Mezzi di comunicazione
 - Movimento studentesco
 - Religiosità e spiritualità
-- Tecnologia digitale
+- tecnologia digitale
 - Nuove generazioni
 - La menzogna dell'informazione
 
@@ -91,7 +91,7 @@ Per scaricare tutta la documentazione: [Forum Europeo - Milano](http://www.press
 Il forum è promosso da più di 50 associazioni di volontariato europee. Indichiamo di seguito le associazioni che sono riferimento per la responsabilità legale e che sono costituite in ATS (Associazione Temporanea di Scopo): UnAltroMondo Onlus, Cultura Mista, Energia per i diritti Umani Onlus, Umanisti nel Mondo onlus, Federazione Centro delle Culture, Associazione Dialogo Onlus.
 
 Il Forum gode del **patrocinio** di: Comune di Milano, Provincia di Verbano Cusio Ossola, Comune di Cinisello Balsamo, Comune di Agrate Brianza, Provincia di Ferrara, Provincia di Pesaro e Urbino, Provincia di Rovigo.
-        
+
 **Si ringrazia:**  
 - Interzone Comunicazione per il supporto all'organizzazione dell'evento - www.interzone.it
 - La community di Creathead per la realizzazione della campagna promozionale - www.creathead.it
@@ -99,5 +99,5 @@ Il Forum gode del **patrocinio** di: Comune di Milano, Provincia di Verbano Cusi
 - C6Tv -media partner - www.c6tv.it
 - Quintessenza Network - per la produzione video - www.quintessenzanet.org
 - La Esco Del Sole - www.laescodelsole.com
-        
+
 Per tutta la sua durata sarà possibile seguire la diretta del forum su: [www.c6.tv](http://www.c6.tv/)

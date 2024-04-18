@@ -1,14 +1,18 @@
 ---
-draft: true
+title: Piantato il monolito del Parco di Attigliano
+date: 2006-12-30
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2006-12-30T16:46:54Z
-guid: http://cecere.xyz/2006/12/30/piantato-il-monolito-del-parco-di-attigliano/
-id: 481
 tags:
 - Parco Attigliano
 - spirito
 - umanista
-title: Piantato il monolito del Parco di Attigliano
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/2006/12/30/piantato-il-monolito-del-parco-di-attigliano/
+id: 481
 slug: /2006/12/piantato-il-monolito-del-parco-di-attigliano/
 ---
 

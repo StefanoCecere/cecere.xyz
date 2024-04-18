@@ -1,7 +1,6 @@
 ---
-draft: true
 categories: [blog]
-date: 2006-01-27T11:31:55Z
+date: 2006-01-27
 guid: http://cecere.xyz/2006/01/27/proprieta-privata/
 id: 216
 tags:
@@ -11,7 +10,7 @@ title: proprietà privata
 slug: /2006/01/proprieta-privata/
 ---
 
-![](/wp-content/proprietaprivata.jpg)
+![](../../../assets/img/post/2006/proprieta-privata.jpg)
 
 guardo fuori dalla finestra e vedo silenzio.
   

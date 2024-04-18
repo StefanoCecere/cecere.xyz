@@ -1,11 +1,11 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-08-22T17:25:11Z
 guid: http://cecere.xyz/2006/08/22/acqua-e-benzina/
 id: 393
 tags:
-- vergogna!
+- vergogna
 title: Acqua e benzina
 slug: /2006/08/acqua-e-benzina/
 ---

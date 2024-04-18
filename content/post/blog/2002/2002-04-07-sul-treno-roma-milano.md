@@ -1,10 +1,14 @@
 ---
 title: Sul treno roma -> milano
-slug: 2002/04/sul-treno-roma-milano
+date: 2002-04-07
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2002-04-07T14:42:20Z
-id: 829
 tags: []
+description: 
+permalink: 
+slug: 2002/04/sul-treno-roma-milano
+id: 829
 ---
 
 - sei andato in fondo al treno?

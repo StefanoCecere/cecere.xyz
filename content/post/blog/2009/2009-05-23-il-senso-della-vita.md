@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-05-23T17:26:30Z
 guid: http://stefanocecere.com/?p=1810
 id: 1810
 tags:
 - JJ
-- senso della vita
+- senso-della-vita
 title: il Senso della Vita
 slug: /2009/05/il-senso-della-vita/
 ---

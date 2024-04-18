@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-08-31
 guid: http://cecere.xyz/2006/08/30/e-uscito-il-fannullone-n11/
@@ -10,7 +10,7 @@ tags:
 - ricreazione
 - spirito
 - umanista
-title: E&#039; uscito il Fannullone n.11!
+title: E' uscito il Fannullone n.11!
 slug: /2006/08/e-uscito-il-fannullone-n11/
 updated: 2022-03-22
 ---

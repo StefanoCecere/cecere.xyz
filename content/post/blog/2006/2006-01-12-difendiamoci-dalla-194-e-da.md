@@ -1,24 +1,23 @@
 ---
-draft: true
+title: Difendiamoci dalla 194 e da…
+date: 2006-01-12
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2006-01-12T10:23:12Z
+tags:
+- manifestazione
+- umanista
+- vergogna
+- violenza
+description: 
+permalink: 
+draft: false
 guid: http://cecere.xyz/2006/01/12/difendiamoci-dalla-194-e-da/
 id: 209
-tags:
-- aborto
-- legge
-- manifestazione
-- Milano
-- morale
-- partito umanista
-- umanista
-- vergogna!
-- violenza
-title: Difendiamoci dalla 194 e da…
 slug: /2006/01/difendiamoci-dalla-194-e-da/
 ---
 
-![volantino Partito Umanista difesa legge 194](/wp-content/volantino_194.jpg)
+![volantino Partito Umanista difesa legge 194](../../../assets/img/post/2006/volantino_194.jpg)
 
 **questo sabato 14 gennaio, ore 14:00 in Piazza Duca D'Aosta (davanti Stazione Centrale a Milano)**
 

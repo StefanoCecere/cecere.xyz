@@ -1,16 +1,13 @@
 ---
-draft: true
+draft: false
 categories: [blog]
-date: 2006-09-23T13:27:42Z
+date: 2006-09-23
 guid: http://cecere.xyz/2006/09/23/video-di-hugo-chavez-allonu-il-diavolo-limperialismo-e-noam-chomsky/
 id: 427
 tags:
-- Chavez
-- Noam Chomsky
 - ONU
 - spirito
-title: 'Video di Hugo Chavez all&#039;ONU: il diavolo, l&#039;imperialismo e Noam
-  Chomsky'
+title: "Video di Hugo Chavez all'ONU: il diavolo, l'imperialismo e Noam Chomsky"
 slug: /2006/09/video-di-hugo-chavez-allonu-il-diavolo-limperialismo-e-noam-chomsky/
 ---
 

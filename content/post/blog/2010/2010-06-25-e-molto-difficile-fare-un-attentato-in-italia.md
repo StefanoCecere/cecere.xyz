@@ -1,15 +1,18 @@
 ---
-draft: true
+title: E' molto difficile fare un attentato in Italia
+date: 2010-06-25
+updated: 2023-08-21
+type: 
 categories:
 - Smile
-date: 2010-06-25T14:27:29Z
-guid: http://stefanocecere.com/?p=2193
-id: 2193
 tags:
-- Italia
 - ridere
 - terrorismo
-title: E&#039; molto difficile fare un attentato in Italia
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2193
+id: 2193
 slug: /2010/06/e-molto-difficile-fare-un-attentato-in-italia/
 ---
 

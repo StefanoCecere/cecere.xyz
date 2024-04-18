@@ -1,12 +1,16 @@
 ---
-draft: true
+title: 'STORACE: SE L’UCCELLO NON SI MUOVE, NON TOCCATELO!'
+date: 2006-02-16
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2006-02-16T01:03:04Z
-guid: http://cecere.xyz/2006/02/16/storace-se-l%e2%80%99uccello-non-si-muove-non-toccatelo/
-id: 227
 tags:
 - ricreazione
-title: 'STORACE: SE L’UCCELLO NON SI MUOVE, NON TOCCATELO!'
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/2006/02/16/storace-se-l%e2%80%99uccello-non-si-muove-non-toccatelo/
+id: 227
 slug: /2006/02/storace-se-luccello-non-si-muove-non-toccatelo/
 ---
 

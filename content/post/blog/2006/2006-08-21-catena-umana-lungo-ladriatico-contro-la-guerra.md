@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Tempi moderni
+- tempi-moderni
 date: 2006-08-21T18:16:37Z
 guid: http://cecere.xyz/2006/08/21/catena-umana-lungo-ladriatico-contro-la-guerra/
 id: 391
@@ -10,7 +10,7 @@ tags:
 - Events
 - umanista
 - violenza
-title: Catena umana lungo l&#039;Adriatico contro la guerra
+title: Catena umana lungo l'Adriatico contro la guerra
 slug: /2006/08/catena-umana-lungo-ladriatico-contro-la-guerra/
 ---
 

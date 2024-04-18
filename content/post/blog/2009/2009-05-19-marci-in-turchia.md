@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories:
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 date: 2009-05-19T01:35:12Z
 guid: http://stefanocecere.com/?p=1802
 id: 1802
 tags:
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 - spot
 - Turchia
 title: Marci in Turchia?

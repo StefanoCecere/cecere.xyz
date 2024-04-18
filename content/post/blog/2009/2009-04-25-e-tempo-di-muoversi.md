@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-04-25T19:18:10Z
 guid: http://stefanocecere.com/?p=1693
 id: 1693
 tags:
-- Mondo Senza Guerre
-title: E&#039; tempo di muoversi
+- MondoSenzaGuerre
+title: E' tempo di muoversi
 slug: /2009/04/e-tempo-di-muoversi/
 ---
 

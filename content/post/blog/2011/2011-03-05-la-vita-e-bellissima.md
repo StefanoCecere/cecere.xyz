@@ -1,15 +1,15 @@
 ---
-draft: true
+draft: false
 categories:
 - Arte
-- Futuro
+- futuro
 - Smile
 date: 2011-03-05T15:12:45Z
 guid: http://stefanocecere.com/?p=2396
 id: 2396
 tags:
 - film
-- senso della vita
+- senso-della-vita
 title: Hai mai detto grazie alle vacche?
 slug: /2011/03/la-vita-e-bellissima/
 ---

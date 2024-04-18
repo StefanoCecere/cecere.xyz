@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-06-14T01:05:35Z
 guid: http://stefanocecere.com/?p=1882
 id: 1882
 tags:
 - PD
-- Politica
+- politica
 title: 'Appello ai militanti del Partito Democratico: impedite che vi sfascino il
   partito!!!'
 slug: /2009/06/appello-ai-militanti-del-partito-democratico-impedite-che-vi-sfascino-il-partito/

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-03-10T23:16:39Z
 guid: http://stefanocecere.com/?p=1597
@@ -8,7 +8,7 @@ tags:
 - Berlusconi
 - crisi
 - Italia
-- Politica
+- politica
 - ridere
 - speculazione
 title: Cementiamo la costituzione! evviva la crisi!

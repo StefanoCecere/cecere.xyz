@@ -1,9 +1,9 @@
 ---
-draft: true
+draft: false
 categories:
-- Media
-- Tecnologia
-- Tempi moderni
+- media
+- tecnologia
+- tempi-moderni
 date: 2011-09-05T22:32:15Z
 guid: http://stefanocecere.com/?p=2596
 id: 2596

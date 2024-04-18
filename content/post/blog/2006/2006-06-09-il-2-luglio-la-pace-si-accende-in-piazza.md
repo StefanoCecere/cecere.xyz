@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-06-09T02:42:08Z
 guid: http://cecere.xyz/2006/06/09/il-2-luglio-la-pace-si-accende-in-piazza/

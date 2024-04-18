@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-03-04T10:25:59Z
 guid: http://stefanocecere.com/?p=1556
 id: 1556
 tags:
 - filosofia
-- senso della vita
+- senso-della-vita
 title: La realtà non è come la vedi
 slug: /2009/03/la-realta-non-e-come-la-vedi/
 ---

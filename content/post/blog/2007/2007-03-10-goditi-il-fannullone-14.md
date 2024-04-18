@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-03-10
 guid: http://cecere.xyz/2007/03/10/goditi-il-fannullone-14/

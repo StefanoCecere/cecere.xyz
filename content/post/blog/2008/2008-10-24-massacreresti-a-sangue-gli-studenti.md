@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2008-10-24T08:53:47Z
 guid: http://cecere.xyz/?p=1439
@@ -7,7 +7,7 @@ id: 1439
 tags:
 - fascismo
 - intervista
-- Politica
+- politica
 - rivoluzione
 - scuola
 - violenza

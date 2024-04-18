@@ -1,11 +1,11 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-05-23T15:26:42Z
 guid: http://cecere.xyz/2007/05/23/elezioni-a-monza-non-sprecare-il-voto-vota-umanista/
 id: 508
 tags:
-- Politica
+- politica
 - spirito
 - umanista
 title: 'Elezioni a Monza: non sprecare il voto.. VOTA UMANISTA!'

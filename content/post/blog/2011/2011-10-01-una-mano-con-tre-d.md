@@ -1,15 +1,20 @@
 ---
-draft: true
+title: una mano con tre d
+date: 2023-10-20
+updated: 2023-10-21
+type: 
 categories: [blog]
-date: 2011-10-01T15:49:06Z
+tags:
+- tecnologia
+- 3D
+- unity
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
 guid: http://stefanocecere.com/2011/10/01/una-mano-con-tre-d/
 id: 2686
-tags:
-- Tecnologia
-- 3D
-- San francisco
-- Unity 3D
-title: una mano con tre d
 slug: /2011/10/una-mano-con-tre-d/
 ---
 
@@ -17,7 +22,7 @@ accennerò qui ad uno dei motivi che mi avevano attirato a San Francisco.
 
 la società stava cambiando a ritmi vertiginosi, trainata sopratutto dalla velocità della tecnologia.
   
-cambiamenenti non sempre positivi. infatti la povertà e la disocupazione e la solitudine crescevano molto più che la ricchezza distribuita, la piena occupazione e il senso di fratellanza.
+cambiamenti non sempre positivi. infatti la povertà e la disoccupazione e la solitudine crescevano molto più che la ricchezza distribuita, la piena occupazione e il senso di fratellanza.
 
 ma proprio nuove tecnologie potevano essere usate intenzionalmente per dare a questo cambiamento una direzione più interessante.
 

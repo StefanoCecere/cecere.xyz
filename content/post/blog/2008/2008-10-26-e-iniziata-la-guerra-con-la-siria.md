@@ -1,15 +1,15 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2008-10-26T23:29:17Z
 guid: http://cecere.xyz/?p=1453
 id: 1453
 tags:
-- guerra
-- Iraq
-- Siria
-- USA
-title: E&#039; iniziata la guerra con la Siria?
+- t/guerra
+- t/Iraq
+- t/Siria
+- t/USA
+title: E' iniziata la guerra con la Siria?
 slug: /2008/10/e-iniziata-la-guerra-con-la-siria/
 ---
 

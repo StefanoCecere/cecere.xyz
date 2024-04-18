@@ -1,11 +1,11 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-12-13T00:01:30Z
 guid: http://cecere.xyz/2006/12/13/sommersi-nella-merda/
 id: 474
 tags:
-- vergogna!
+- vergogna
 title: Sommersi nella merda
 slug: /2006/12/sommersi-nella-merda/
 ---

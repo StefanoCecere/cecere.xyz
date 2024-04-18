@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Tempi moderni
+- tempi-moderni
 date: 2015-05-03T07:48:06Z
 format: video
 guid: http://stefanocecere.com/?p=5792

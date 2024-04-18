@@ -1,14 +1,11 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-05-10T09:44:24Z
 guid: http://stefanocecere.com/?p=1764
 id: 1764
 tags:
-- Berlusconi
 - discriminazione
-- Italia
-- Lega
 - pace
 title: Italia multietnica?
 slug: /2009/05/italia-multietnica/
@@ -24,7 +21,7 @@ per me è solo uno sprono ad adoperarmi di più nel cercare di far sperimentare 
 
 un abbraccio un po' puzzolente (sono tornato a casa un po' sudato da una grande giornata ^_^ )
 
-<img class="aligncenter size-full wp-image-1765" title="la-tua-musica-e-nera" src="http://stefanocecere.com/wp-content/uploads/sites/3/2009/05/la-tua-musica-e-nera.jpg" alt="la-tua-musica-e-nera" width="480" height="640" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2009/05/la-tua-musica-e-nera.jpg 480w, http://stefanocecere.com/wp-content/uploads/sites/3/2009/05/la-tua-musica-e-nera-225x300.jpg 225w" sizes="(max-width: 480px) 100vw, 480px" />_</p> 
+![](../../../assets/img/post/2009/la-tua-musica-e-nera.jpg)
 
 - La tua musica è nera
 - la tua auto giappnese
@@ -34,5 +31,3 @@ un abbraccio un po' puzzolente (sono tornato a casa un po' sudato da una grande 
 - le tue cifre arabe
 - le tue lettere latine
 - come puoi dire che il tuo vicino è straniero?
-
-</em>

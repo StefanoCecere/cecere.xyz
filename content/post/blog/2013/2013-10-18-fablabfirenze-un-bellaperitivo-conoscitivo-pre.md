@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories:
 - Tweets
-date: 2013-10-18T21:32:17Z
+date: 2013-10-18
 format: status
 guid: http://twitter-391300726389227520-post
 id: 4714
-title: '“@fablabfirenze: Un bell&#039;aperitivo conoscitivo pre…'
+title: "fablabfirenze: Un bell'aperitivo conoscitivo pre…"
 slug: /2013/10/fablabfirenze-un-bellaperitivo-conoscitivo-pre/
 ---
 

@@ -1,15 +1,19 @@
 ---
-draft: true
+title: Qualche foto dalla Sardegna!
+date: 2008-08-07
+updated: 2023-08-18
+type: 
 categories: [blog]
-date: 2008-08-07T12:23:49Z
-guid: http://cecere.xyz/?p=1114
-id: 1114
 tags:
 - campeggio
 - foto
 - sardegna
 - umanista
-title: Qualche foto dalla Sardegna!
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/?p=1114
+id: 1114
 slug: /2008/08/qualche-foto-dalla-sardegna/
 ---
 

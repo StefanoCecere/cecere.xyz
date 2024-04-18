@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-11-07T02:20:43Z
 guid: http://cecere.xyz/2007/11/07/continuano-i-banchini-raccolta-firme-anti-nucleare/
 id: 595
 tags:
-- disarmo nucleare
-- Politica
+- disarmo-nucleare
+- politica
 - spirito
 - umanista
 title: continuano i banchini raccolta firme anti bombe atomiche

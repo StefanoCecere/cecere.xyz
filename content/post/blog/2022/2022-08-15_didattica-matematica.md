@@ -1,16 +1,16 @@
 ---
 title: "didattica e missione matematica"
-slug: didattica-missione-matematica
-subtitle: ""
+date: 2022-08-15
+updated: 2023-08-21
+type: 
 categories: [blog]
 tags: [ludosofia, matematica]
-date: 2022-08-15T12:00:00+01:00
+description: 
+permalink: 
+slug: didattica-missione-matematica
+subtitle: ""
 featured: false
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
 ---
 
 piove. non dispiace stare una mattinata in camper. dovrei convincere gli attivisti toscani a  mandarmi in lista elettorale, ma i ragazzi sono troppo presi dalla matematica, sopratutto il piccolo vuole giocare con i numeri e quindi invento nuovi giochi con le carte di Kariba e 6 Nimmt (due scatoline che dovrebbero essere nello zainetto di tutti. sempre)

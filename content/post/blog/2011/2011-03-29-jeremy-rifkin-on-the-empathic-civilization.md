@@ -14,4 +14,4 @@ title: 'Jeremy Rifkin on "the empathic civilization"'
 slug: /2011/03/jeremy-rifkin-on-the-empathic-civilization/
 ---
 
-{{< youtube l7AWnfFRc7g >}}
+#todo_youtube l7AWnfFRc7g >}}

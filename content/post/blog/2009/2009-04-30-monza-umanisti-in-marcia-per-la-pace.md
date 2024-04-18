@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-04-30T21:45:11Z
 guid: http://stefanocecere.com/?p=1719
 id: 1719
 tags:
 - krur
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 - Monza
 title: 'Monza: Umanisti in marcia per la pace!'
 slug: /2009/04/monza-umanisti-in-marcia-per-la-pace/

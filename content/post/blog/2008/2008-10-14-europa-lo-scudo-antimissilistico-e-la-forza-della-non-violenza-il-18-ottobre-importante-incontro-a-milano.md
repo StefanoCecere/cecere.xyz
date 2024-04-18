@@ -1,16 +1,20 @@
 ---
-draft: true
+title: "EUROPA: LO SCUDO ANTIMISSILISTICO E LA FORZA DELLA NON VIOLENZA. IL 18 OTTOBRE"
+date: 2023-04-02
+updated: 2023-10-21
+type: 
 categories: [blog]
-date: 2008-10-14T19:58:35Z
-guid: http://cecere.xyz/?p=1406
-id: 1406
 tags:
 - conferenza
 - Forum
-- Rassegna Stampa
-- scudo spaziale
-title: 'EUROPA: LO SCUDO ANTIMISSILISTICO E LA FORZA DELLA NON VIOLENZA. IL 18 OTTOBRE
-  IMPORTANTE INCONTRO A MILANO'
+- scudo-spaziale
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
+guid: http://cecere.xyz/?p=1406
+id: 1406
 slug: /2008/10/europa-lo-scudo-antimissilistico-e-la-forza-della-non-violenza-il-18-ottobre-importante-incontro-a-milano/
 ---
 

@@ -1,9 +1,9 @@
 ---
-draft: true
+draft: false
 categories:
-- Futuro
-- Media
-- Tempi moderni
+- futuro
+- media
+- tempi-moderni
 date: 2012-03-01T08:39:56Z
 guid: http://stefanocecere.com/?p=2873
 id: 2873

@@ -1,17 +1,21 @@
 ---
-draft: true
+title: Luttazzi a RAIperunanotte
+date: 2010-03-26
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-03-26T16:58:25Z
-guid: http://stefanocecere.com/?p=2046
-id: 2046
 tags:
 - Luttazzi
-- Politica
+- politica
 - ridere
 - satira
-- TV
+- tv
 - video
-title: Luttazzi a RAIperunanotte
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2046
+id: 2046
 slug: /2010/03/luttazzi-a-raiperunanotte/
 ---
 

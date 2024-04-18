@@ -1,12 +1,16 @@
 ---
-draft: true
+title: Regionale Umanista Africana a Dakar
+date: 2006-01-02
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2006-01-02T09:35:04Z
-guid: http://cecere.xyz/2006/01/02/regionale-umanista-africana-a-dakar/
-id: 203
 tags:
 - umanista
-title: Regionale Umanista Africana a Dakar
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/2006/01/02/regionale-umanista-africana-a-dakar/
+id: 203
 slug: /2006/01/regionale-umanista-africana-a-dakar/
 ---
 

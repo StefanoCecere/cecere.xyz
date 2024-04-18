@@ -1,10 +1,14 @@
 ---
 title: tutto ha un inizio..
-slug: 2004/07/tutto-ha-un-inizio
-date: 2004-07-10T17:13:25Z
+date: 2004-07-10
+updated: 2023-08-21
+type: 
 categories: [blog]
 tags: [website]
-draft: true
+description: 
+permalink: 
+slug: 2004/07/tutto-ha-un-inizio
+draft: false
 ---
 
 anche le cose più impensabili possono avere un inizio...

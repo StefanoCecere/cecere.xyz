@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories:
 - Buone Nuove
 date: 2009-03-25T07:12:31Z
 guid: http://stefanocecere.com/?p=1621
 id: 1621
 tags:
-- scudo spaziale
+- scudo-spaziale
 title: 'ottime news da Praga: abbiamo vinto?'
 slug: /2009/03/ottime-news-da-praga-abbiamo-vinto/
 ---

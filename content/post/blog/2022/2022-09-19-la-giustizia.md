@@ -1,8 +1,17 @@
 ---
 title: Sulla giustizia e da che parte
 date: 2022-09-19
+updated: 2023-08-21
+type: 
+categories: 
 tags:
   - considerazioni
+  - giustizia
+  - DallaParteGiusta
+  - necessario
+  - Giustizia
+description: 
+permalink: 
 ---
 
 🟨 Sulla giustizia e da che parte

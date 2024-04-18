@@ -1,13 +1,13 @@
 ---
-draft: true
+draft: false
 categories: [blog]
-date: 2006-04-04T15:08:32Z
+date: 2006-04-04
 guid: http://cecere.xyz/2006/04/04/dallaldila-alladiqua-comunicazione-interdimensionale/
 id: 250
 tags:
 - morte
 - video
-title: 'Dall&#039;aldilà all&#039;adiqua: comunicazione interdimensionale.'
+title: "Dall'aldilà all'adiqua: comunicazione interdimensionale."
 slug: /2006/04/dallaldila-alladiqua-comunicazione-interdimensionale/
 ---
 

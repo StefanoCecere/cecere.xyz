@@ -1,15 +1,21 @@
 ---
-draft: true
+title: "L'azienda italiana"
+date: 2006-01-18
+updated: 2023-08-21
+type: 
 categories:
-- Tempi moderni
-date: 2006-01-18T09:24:08Z
+  - blog
+tags:
+  - meme
+description: 
+permalink: 
+draft: false
 guid: http://cecere.xyz/2006/01/18/lazienda-italiana/
 id: 212
-title: L&#039;azienda italiana
 slug: /2006/01/lazienda-italiana/
 ---
 
-![](/wp-content/Laziendaitaliana.jpg)
+![](../../../assets/img/post/2006/azienda-italiana.jpg)
 
 sicuramente non sono tutte così.. ma (per anche per esperienza personale) direi che non siamo così lontani…
   

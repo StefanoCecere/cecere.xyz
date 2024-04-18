@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2008-10-31T12:15:34Z
 guid: http://cecere.xyz/?p=1474
 id: 1474
 tags:
 - Repubblica Ceca
-- scudo spaziale
+- scudo-spaziale
 title: Vittoria a Praga!
 slug: /2008/10/vittoria-a-praga/
 ---

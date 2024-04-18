@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-04-20T11:36:14Z
 guid: http://stefanocecere.com/?p=1660
@@ -7,7 +7,7 @@ id: 1660
 tags:
 - droga
 - ridere
-- senso della vita
+- senso-della-vita
 title: La droga ti migliora davvero la vita!!  ???
 slug: /2009/04/la-droga-ti-migliora-davvero-la-vita/
 ---

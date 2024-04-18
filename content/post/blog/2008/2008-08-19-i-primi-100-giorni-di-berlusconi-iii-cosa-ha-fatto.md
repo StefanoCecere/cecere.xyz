@@ -1,21 +1,21 @@
 ---
-draft: true
-categories: [blog]
+title: I primi 100 giorni di Berlusconi III
 date: 2008-08-19
-guid: http://cecere.xyz/?p=1121
-id: 1121
+updated: 2023-08-18
+type: 
+categories: [blog]
 tags:
 - Berlusconi
-- e-book
 - governo
 - gratis
 - Italia
-- legge
 - libro
-- scarica
-title: I primi 100 giorni di Berlusconi III
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/?p=1121
+id: 1121
 slug: /2008/08/i-primi-100-giorni-di-berlusconi-iii-cosa-ha-fatto/
-updated: 2022-03-22
 ---
 
 [L'Unità](http://www.unita.it/view.asp?IDcontent=78062) ha pubblicato qualche giorno fa un **interessantissimo documento (e-book) liberamente scaricabile** dove vengono raccontate nei dettagli tutte le leggi approvate nei primi 100 giorni del terzo governo Berlusconi.

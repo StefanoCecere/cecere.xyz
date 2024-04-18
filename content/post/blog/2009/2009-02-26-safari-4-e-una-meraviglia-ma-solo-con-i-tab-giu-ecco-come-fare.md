@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-02-26T18:56:05Z
 guid: http://stefanocecere.com/2009/02/26/safari-4-e-una-meraviglia-ma-solo-con-i-tab-giu-ecco-come-fare/

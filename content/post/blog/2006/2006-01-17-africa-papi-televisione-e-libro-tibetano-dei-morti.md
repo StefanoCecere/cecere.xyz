@@ -1,14 +1,17 @@
 ---
-draft: true
+title: Africa, Papi, televisione e libro tibetano dei morti
+date: 2006-01-17
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2006-01-17T12:10:00Z
-guid: http://cecere.xyz/2006/01/17/africa-papi-televisione-e-libro-tibetano-dei-morti/
-id: 211
 tags:
 - africa
-- Papa
 - spirito
-title: Africa, Papi, televisione e libro tibetano dei morti
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/2006/01/17/africa-papi-televisione-e-libro-tibetano-dei-morti/
+id: 211
 slug: /2006/01/africa-papi-televisione-e-libro-tibetano-dei-morti/
 ---
 
@@ -26,7 +29,9 @@ mi ha fatto molto piacere la email di una giovane amica che mi dice:
   
 _“ciaooo sono contenta del risultato della manifestazione, per impedire ad uno stato laico (e pieno di guai) di esistere proprio quei vecchiacci in palandrana dovevano intervenire? E bada bene io sono cattolica praticante. Non sopporto quel Ruini, ma con tutta la gente che muore di fame viene a rompere le balle a chi si sta evolvendo? Papa Dorothy,invece,non vuole le/la PACS Io voglio un papa che nel 2000 non porti teste arrugginite, vecchie e del carlo codega , ma che si interessi dell'Africa, Asia, dell'evoluzione dellEuropa della Pace tra Religioni, come  Giovanni Paolo II, del Sud America e anche del nord, dell' Australia della Consacrazione del Pane fatta dalle Donne, della non discriminazione delle coppie di fatto, insomma dovremmo eleggerli noi i Papi…”_
 
-<img src='/wp-content/tv.jpg' alt='' align='left' />TV: mezzi di telecomunicazione
+![](../../../assets/img/post/2006/tv.jpg)
+
+TV: mezzi di telecomunicazione
   
 Una volta si valorizzava la discussione. Ora c’è solo manipolazione.
   
@@ -36,7 +41,9 @@ Diversi anni fa (molto prima della internet tv e delle street tv) nasceva Aranci
   
 spero che quest’anno sia l’anno della sua rinascita.
 
-<img src='/wp-content/BardoTodol.jpg' alt='' align='left' />Oggi chiudo con **la più apparente delle chiusure: la morte.**
+![](../../../assets/img/post/2006/BardoTodol.jpg)
+
+Oggi chiudo con **la più apparente delle chiusure: la morte.**
   
 Come tutti i finesettimana, mi dedico a me stesso e ai miei studi personali.
   
@@ -50,4 +57,4 @@ Ringrazio tutti i grandi Uomini che hanno camminato e stanno camminando su quest
 
 e così ieri ho cambiato sottotitolo a questo blog, con una grase di Silo che tanto vorrei che si diffondesse nel mondo:
   
-<span style="font-size: 16pt"><strong>“Lo scoramento degli esseri umani valenti e solidali ritarda il cammino della storia.”</strong></span>
+**“Lo scoramento degli esseri umani valenti e solidali ritarda il cammino della storia.”**

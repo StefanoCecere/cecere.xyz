@@ -1,11 +1,11 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-09-06T19:27:13Z
 guid: http://cecere.xyz/2006/09/06/salviamo-un-essere-umano-dalla-morte/
 id: 414
 tags:
-- vergogna!
+- vergogna
 - violenza
 title: 'salviamo un essere umano dalla morte:'
 slug: /2006/09/salviamo-un-essere-umano-dalla-morte/

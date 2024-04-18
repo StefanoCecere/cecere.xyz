@@ -1,12 +1,12 @@
 ---
 categories:
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 date: 2009-06-02T17:44:18Z
 guid: http://stefanocecere.com/?p=1844
 id: 1844
 tags:
 - Europe for Peace
-- scudo spaziale
+- scudo-spaziale
 title: Newsletter Europe for Peace – giugno 2009
 slug: /2009/06/newsletter-europe-for-peace-giugno-2009/
 ---

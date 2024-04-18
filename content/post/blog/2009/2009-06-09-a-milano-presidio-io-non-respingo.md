@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Eventi
+- eventi
 date: 2009-06-09T23:47:06Z
 guid: http://stefanocecere.com/?p=1864
 id: 1864

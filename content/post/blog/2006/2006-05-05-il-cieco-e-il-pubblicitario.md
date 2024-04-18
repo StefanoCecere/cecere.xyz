@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-05-05T09:29:12Z
 guid: http://cecere.xyz/2006/05/05/il-cieco-e-il-pubblicitario/

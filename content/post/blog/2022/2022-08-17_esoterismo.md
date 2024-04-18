@@ -1,10 +1,14 @@
 ---
 title: "sul coraggio e il virus del potere"
-slug: 20220816
-subtitle: ""
+date: 2022-08-16
+updated: 2023-08-21
+type: 
 categories: [blog]
 tags: [meditazioni]
-date: 2022-08-16T12:00:00+01:00
+description: 
+permalink: 
+slug: 20220816
+subtitle: ""
 featured: false
 draft: false
 ---

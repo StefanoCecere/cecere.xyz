@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2011-09-30T16:05:18Z
 guid: http://stefanocecere.com/2011/09/30/la-rivoluzione-riparte-da-qui/
@@ -7,7 +7,7 @@ id: 2683
 tags:
 - problemi
 - rivoluzione
-- senso della vita
+- senso-della-vita
 title: La rivoluzione riparte da qui
 slug: /2011/09/la-rivoluzione-riparte-da-qui/
 ---

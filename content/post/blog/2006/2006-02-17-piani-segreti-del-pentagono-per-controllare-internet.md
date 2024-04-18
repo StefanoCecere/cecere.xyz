@@ -1,15 +1,19 @@
 ---
-draft: true
+title: Piani segreti del Pentagono per controllare internet
+date: 2006-02-17
+updated: 2023-08-21
+type: 
 categories:
-- Tempi moderni
-date: 2006-02-17T00:47:28Z
-guid: http://cecere.xyz/2006/02/17/piani-segreti-del-pentagono-per-controllare-internet/
-id: 228
+- tempi-moderni
 tags:
 - internet
 - tecnologia
-- vergogna!
-title: Piani segreti del Pentagono per controllare internet
+- vergogna
+description: 
+permalink: 
+draft: false
+guid: http://cecere.xyz/2006/02/17/piani-segreti-del-pentagono-per-controllare-internet/
+id: 228
 slug: /2006/02/piani-segreti-del-pentagono-per-controllare-internet/
 ---
 

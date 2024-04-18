@@ -1,14 +1,17 @@
 ---
-draft: true
+title: 'SPOILER: il finale della serie 6 di Lost'
+date: 2009-05-10
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2009-05-10T18:08:18Z
-guid: http://stefanocecere.com/?p=1778
-id: 1778
 tags:
 - Berlusconi
-- Lost
 - ridere
-title: 'SPOILER: il finale della serie 6 di Lost'
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=1778
+id: 1778
 slug: /2009/05/spoiler-il-finale-della-serie-6-di-lost/
 ---
 

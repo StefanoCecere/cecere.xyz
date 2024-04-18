@@ -1,16 +1,16 @@
 ---
-draft: true
+draft: false
 categories:
-- Politica
-- Tempi moderni
+- politica
+- tempi-moderni
 date: 2011-03-29T11:46:10Z
 guid: http://stefanocecere.com/?p=2431
 id: 2431
 tags:
-- Politica
+- politica
 - referendum
 - soldi
-- vergogna!
+- vergogna
 title: 300 milioni di euro
 slug: /2011/03/300-milioni-di-euro/
 ---

@@ -1,9 +1,9 @@
 ---
-draft: true
+draft: false
 categories:
 - JJ
 - Spirito
-- Tempi moderni
+- tempi-moderni
 date: 2011-06-25T13:20:13Z
 guid: http://stefanocecere.com/?p=2507
 id: 2507

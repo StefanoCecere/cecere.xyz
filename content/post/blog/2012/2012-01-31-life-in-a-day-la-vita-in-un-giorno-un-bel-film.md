@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Media
+- media
 date: 2012-01-31T11:18:12Z
 guid: http://stefanocecere.com/?p=2839
 id: 2839

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2008-10-24T09:12:53Z
 guid: http://cecere.xyz/?p=1441
@@ -7,9 +7,9 @@ id: 1441
 tags:
 - acqua
 - fame
-- Politica
+- politica
 - privatizzazioni
-title: Tu distraiti che ti devo privatizzare l&#039;acqua pubblica
+title: Tu distraiti che ti devo privatizzare l'acqua pubblica
 slug: /2008/10/tu-distraiti-che-ti-devo-privatizzare-lacqua-pubblica/
 ---
 

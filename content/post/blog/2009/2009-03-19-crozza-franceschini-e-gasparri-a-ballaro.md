@@ -1,11 +1,11 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-03-19T09:19:43Z
 guid: http://stefanocecere.com/?p=1614
 id: 1614
 tags:
-- Politica
+- politica
 - video
 title: Crozza, Franceschini e Gasparri a Ballarò
 slug: /2009/03/crozza-franceschini-e-gasparri-a-ballaro/

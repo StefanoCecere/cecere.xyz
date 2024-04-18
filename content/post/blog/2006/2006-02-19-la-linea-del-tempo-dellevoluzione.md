@@ -1,17 +1,17 @@
 ---
-draft: true
+draft: false
 categories: [blog]
-date: 2006-02-19T21:59:02Z
+date: 2006-02-19
 guid: http://cecere.xyz/2006/02/19/la-linea-del-tempo-dellevoluzione/
 id: 231
 tags:
 - spirito
 - umanista
-title: la linea del tempo dell&#039;evoluzione
+title: "la linea del tempo dell'evoluzione"
 slug: /2006/02/la-linea-del-tempo-dellevoluzione/
 ---
 
-![](/wp-content/la_linea_del_tempo_01.jpg)
+![](../../../assets/img/post/2006/la_linea_del_tempo.jpg)
 
 se si vuole costruire una linea temporale dell'evoluzione dalle origini dell'universo ad oggi (nell'ipotesi appunto che il tempo sia lineare) potrebbe uscirne una cosa del genere..
 

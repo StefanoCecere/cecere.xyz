@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-10-26T09:23:20Z
 guid: http://cecere.xyz/2007/10/26/ratatouille/

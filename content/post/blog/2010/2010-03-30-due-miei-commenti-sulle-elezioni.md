@@ -1,13 +1,17 @@
 ---
-draft: true
+title: due miei commenti sulle elezioni
+date: 2010-03-30
+updated: 2023-08-21
+type: 
 categories: [blog]
-date: 2010-03-30T01:35:49Z
-guid: http://stefanocecere.com/?p=2057
-id: 2057
 tags:
 - elezioni
-- Politica
-title: due miei commenti sulle elezioni
+- politica
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2057
+id: 2057
 slug: /2010/03/due-miei-commenti-sulle-elezioni/
 ---
 

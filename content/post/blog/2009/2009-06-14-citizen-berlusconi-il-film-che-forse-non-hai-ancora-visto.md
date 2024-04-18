@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-06-14T11:40:52Z
 guid: http://stefanocecere.com/?p=1888
@@ -7,7 +7,7 @@ id: 1888
 tags:
 - Berlusconi
 - film
-- Politica
+- politica
 title: 'Citizen Berlusconi: il film che forse non hai ancora visto'
 slug: /2009/06/citizen-berlusconi-il-film-che-forse-non-hai-ancora-visto/
 ---

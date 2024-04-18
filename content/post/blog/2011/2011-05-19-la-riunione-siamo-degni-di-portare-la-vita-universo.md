@@ -1,9 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Scienza
-- Spirito
-- Tempi moderni
+- blog
 date: 2011-05-19T03:03:38Z
 guid: http://stefanocecere.com/?p=2477
 id: 2477
@@ -14,7 +12,7 @@ tags:
 - evoluzione
 - scienza
 - storia
-title: 'La riunione: ovvero siamo degni di portare la vita nell&#039;universo?'
+title: "La riunione: ovvero siamo degni di portare la vita nell'universo?"
 slug: /2011/05/la-riunione-siamo-degni-di-portare-la-vita-universo/
 ---
 

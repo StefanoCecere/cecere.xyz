@@ -1,16 +1,21 @@
 ---
-draft: true
+title: Santo Francesco
+date: 2023-10-20
+updated: 2023-10-21
+type: 
 categories: [blog]
-date: 2011-09-28T15:02:39Z
-guid: http://stefanocecere.com/2011/09/28/santo-francesco/
-id: 2680
 tags:
 - apple
 - diario
 - immaginazione
 - immigrazione
-- San francisco
-title: Santo Francesco
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
+guid: http://stefanocecere.com/2011/09/28/santo-francesco/
+id: 2680
 slug: /2011/09/santo-francesco/
 ---
 

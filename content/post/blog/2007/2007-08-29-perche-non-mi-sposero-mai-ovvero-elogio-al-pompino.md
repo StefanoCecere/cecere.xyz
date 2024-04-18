@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories: [blog]
-date: 2007-08-29T14:59:50Z"
+date: 2007-08-29
 enclosure:
 - |
   http://cecere.xyz/wp-content/uploads/sites/3/2007/08/luttazzi_matrimonio.mp3

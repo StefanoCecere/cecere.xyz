@@ -1,15 +1,22 @@
 ---
 title: I Colpevoli
+date: 2010-04-08
+updated: 2023-10-25
+type: 
+categories: [blog]
+tags:
+- c/blog
+- t/banche
+- t/crisi
+- t/soldi
+description: 
+permalink: 
+rating: 
+publish: 
 slug: /2010/04/i-colpevoli/
 draft: false
-categories: [blog]
-date: 2010-04-08T08:36:50Z
 guid: http://stefanocecere.com/?p=2070
 id: 2070
-tags:
-- banche
-- crisi
-- soldi
 ---
 
 **_se da un lato ognuno di noi è colpevole della situazione in cui ci troviamo, dall'altro lato alcuni di noi sono un po' più colpevoli di altri… quello che segue è tratto da una riunione del 1998 (chiederai dettagli se ti interessa)_**

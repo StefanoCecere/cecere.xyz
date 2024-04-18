@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-09-04
 guid: http://cecere.xyz/2007/09/04/canale-televisivo-terra-20-tv-inaugurato-daglia-aranciatacappella-live/
@@ -9,8 +9,8 @@ tags:
 - ricreazione
 - spirito
 - tecnologia
-- Terra2
-- TV
+- terra2
+- tv
 - umanista
 title: "Canale televisivo Terra 2.0 TV inaugurato dagli AranciataCappella al Campeggio Umanista 2007"
 slug: /2007/09/canale-televisivo-terra-20-tv-inaugurato-daglia-aranciatacappella-live/

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories:
 - Spirito
 date: 2011-05-04T06:15:17Z
@@ -8,7 +8,7 @@ id: 2469
 tags:
 - anniversario
 - nonviolenza
-- senso della vita
+- senso-della-vita
 - Silo
 - sofferenza
 title: '4 maggio: la guarigione dalla sofferenza'

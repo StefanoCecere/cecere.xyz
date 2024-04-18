@@ -1,14 +1,14 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-05-07T16:45:58Z
 guid: http://stefanocecere.com/?p=1741
 id: 1741
 tags:
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 - ONU
 - video
-title: Presentazione Marcia Mondiale all&#039;ONU
+title: Presentazione Marcia Mondiale all'ONU
 slug: /2009/05/presentazione-marcia-mondiale-allonu/
 ---
 

@@ -1,18 +1,16 @@
 ---
 title: "meditazioni dalle vette (pt.3)"
-slug: meditazioni-vette-3
-subtitle: ""
-summary: ""
+date: 2023-04-02
+updated: 2023-08-21
+type: 
 categories: [blog]
 tags: [meditazioni]
-date: 2022-08-03T14:02:05+01:00
+description: ""
+permalink: 
+slug: meditazioni-vette-3
+subtitle: ""
 featured: false
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-projects: []
 ---
 
 # meditazioni dalle vette (pt.3)

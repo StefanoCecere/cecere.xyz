@@ -1,15 +1,19 @@
 ---
-draft: true
+title: i temi del Summit MMT
+date: 2021-04-06
+updated: 2023-08-13
+type: 
 categories:
 - Economia
-date: 2012-02-05T21:53:19Z
-guid: http://stefanocecere.com/?p=2849
-id: 2849
 tags:
 - Barnard
 - MMT
 - Summit
-title: i temi del Summit MMT
+description: 
+permalink: 
+draft: false
+guid: http://stefanocecere.com/?p=2849
+id: 2849
 slug: /2012/02/i-temi-del-summit-mmt/
 ---
 

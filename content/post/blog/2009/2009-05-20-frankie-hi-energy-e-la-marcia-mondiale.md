@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 categories:
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 date: 2009-05-20T22:01:44Z
 guid: http://stefanocecere.com/?p=1804
 id: 1804
 tags:
-- Mondo Senza Guerre
+- MondoSenzaGuerre
 title: Frankie Hi Energy e la Marcia Mondiale
 slug: /2009/05/frankie-hi-energy-e-la-marcia-mondiale/
 ---

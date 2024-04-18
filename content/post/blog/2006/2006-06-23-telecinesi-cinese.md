@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-06-23T10:45:58Z
 guid: http://cecere.xyz/2006/06/23/telecinesi-cinese/

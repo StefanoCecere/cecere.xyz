@@ -8,7 +8,7 @@ tags: [vaccini]
 
 [TL;DR: Antitetanica si]
 
-![ferro arruginito](/ferro_arruginito.jpg)
+![ferro arruginito](../../../assets/img/post/2017/ferro_arruginito.jpg)
 
 anni fa in vacanza all'estero mi avventurai e inciampai cadendo come un sacco di patate, rovinandomi non poco ma non morendo, perché quei ferri arrugginiti in effetti potevano penetrarmi ma invece mi graffiarono soltanto.
 

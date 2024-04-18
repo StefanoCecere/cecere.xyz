@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2006-10-03T10:15:44Z
 guid: http://cecere.xyz/2006/10/03/come-stanno-andando-le-cose/

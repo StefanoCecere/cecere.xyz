@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 categories:
-- Futuro
+- futuro
 date: 2011-11-07T13:54:40Z
 guid: http://stefanocecere.com/?p=2786
 id: 2786

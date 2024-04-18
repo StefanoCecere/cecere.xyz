@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2007-09-02
 guid: http://cecere.xyz/2007/09/02/sai-di-vivere-in-uno-stato-di-paura/
@@ -7,7 +7,7 @@ id: 554
 tags:
 - libri
 - MichaelCrichton
-- Politica
+- politica
 title: sai di vivere in uno Stato di Paura?!
 slug: /2007/09/sai-di-vivere-in-uno-stato-di-paura/
 updated: 2022-03-22

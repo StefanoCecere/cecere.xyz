@@ -1,18 +1,23 @@
 ---
-draft: true
-categories:
-- Politica
-- Terra 2.0
-date: 2009-05-12T13:05:59Z
+title: 700 di europarlamentari così!!
+date: 2023-10-20
+updated: 2023-10-25
+type: 
+categories: 
+tags:
+- t/elezioni
+- p/GiorgioSchultze
+- t/politica
+- t/europa
+- t/spot
+- t/Terra2
+description: 
+permalink: 
+rating: 
+publish: 
+draft: false
 guid: http://stefanocecere.com/?p=1780
 id: 1780
-tags:
-- elezioni
-- Giorgio Schultze
-- italian
-- Politica
-- spot
-title: 700 di europarlamentari così!!
 slug: /2009/05/giorgio-schultze-in-europa/
 ---
 

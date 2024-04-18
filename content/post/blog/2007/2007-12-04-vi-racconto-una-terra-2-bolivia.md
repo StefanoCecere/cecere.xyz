@@ -6,11 +6,11 @@ date: 2007-12-04
 guid: http://cecere.xyz/2007/12/04/vi-racconto-tutto/
 id: 615
 tags:
-- Terra2
+- terra2
 - umanista
 ---
 
-![](img/20071204_invito_fotoracconto-featured.jpg)
+![](../../../assets/img/post/2007/20071204_invito_fotoracconto-featured.jpg)
 
 sono tornato pochi giorni fa da questo intenso viaggio che mi ha portato prima a New York e poi a La Paz (Bolivia)
 

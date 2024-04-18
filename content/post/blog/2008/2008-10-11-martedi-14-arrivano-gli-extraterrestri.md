@@ -1,13 +1,16 @@
 ---
-draft: true
+title: martedì 14 arrivano gli extraterrestri?
+date: 2008-10-11
+updated: 2023-08-13
+type: 
 categories: [blog]
-date: 2008-10-11T10:17:09Z
+tags:
+- ufo
+description: 
+permalink: 
+draft: false
 guid: http://cecere.xyz/?p=1378
 id: 1378
-tags:
-- annuncio
-- ufo
-title: martedì 14 arrivano gli extraterrestri?
 slug: /2008/10/martedi-14-arrivano-gli-extraterrestri/
 ---
 

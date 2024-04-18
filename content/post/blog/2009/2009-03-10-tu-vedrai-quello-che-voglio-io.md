@@ -1,14 +1,14 @@
 ---
-draft: true
+draft: false
 categories: [blog]
 date: 2009-03-10T09:30:56Z
 guid: http://stefanocecere.com/?p=1592
 id: 1592
 tags:
 - giornale
-- Media
+- media
 - trailer
-- TV
+- tv
 - video
 title: Tu vedrai quello che voglio io… a me gli occhi!
 slug: /2009/03/tu-vedrai-quello-che-voglio-io/
