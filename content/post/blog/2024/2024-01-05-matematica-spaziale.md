@@ -4,7 +4,7 @@ date: 2024-01-05
 updated: 2024-01-05
 type: 
 categories: TIL
-tags: giochiamo
+tags: [giochiamo]
 description: 
 permalink: 
 rating: 

@@ -4,7 +4,7 @@ date: 2024-01-03
 updated: 2024-01-03
 type: 
 categories: TIL
-tags: netflix
+tags: [netflix]
 description: 
 permalink: 
 rating: 

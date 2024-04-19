@@ -4,7 +4,7 @@ date: 2024-01-02
 updated: 2024-01-02
 type: 
 categories: TIL
-tags: politica
+tags: [politica]
 description: 
 permalink: 
 rating: 
