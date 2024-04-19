@@ -1,12 +1,11 @@
 ---
 draft: false
 categories: [blog]
-date: 2011-02-01T16:14:53Z
+date: 2011-02-01
 guid: http://stefanocecere.com/?p=2358
 id: 2358
 tags:
 - internet
-- privacy
 title: Wikileaks vs Facebook
 slug: /2011/02/wikileaks-vs-facebook/
 ---
