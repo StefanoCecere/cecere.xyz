@@ -20,3 +20,5 @@ content:
 design:
   columns: '2'
 ---
+
+📧 [stefano.cecere@gmail.com](mailto:stefano.cecere@gmail.com)
