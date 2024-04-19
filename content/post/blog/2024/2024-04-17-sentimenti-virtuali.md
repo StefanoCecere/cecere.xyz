@@ -1,7 +1,7 @@
 ---
-title: 
+title: Sentimenti virtuali cosa cambia?
 date: 2024-04-17
-updated: 2024-04-17
+updated: 2024-04-19
 type: 
 categories: TIL
 tags: [AI, societa]

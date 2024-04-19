@@ -23,7 +23,10 @@ Prima di leggere qui sotto, ricordo di potermi chiedere quasiasi cosa
 - sul mio [canale Telegram](https://t.me/cecere2042)
 - su [questo post di Facebook](https://www.facebook.com/cecere2042/posts/pfbid0nNKjfEvKJED8RxM41ECCbQm2NmKzezk218hZcWRkiTbxLS4cHvf8zsEeL5Gn4br3l)
 
-Risponderò qui!
+**Risponderò qui!**
+
+
+
 
 ## Perché mi candido?
 
