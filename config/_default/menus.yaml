@@ -19,11 +19,11 @@ main:
   - name: Talks
     url: '/events'
     weight: 40
-  - name: Corsi
-    url: '/edu'
-    weight: 50
   - name: Studio
-    url: '/studio'
+    url: 'https://2042ed.org/studio/'
+    weight: 50
+  - name: Note
+    url: 'https://2042ed.org/notes/'
     weight: 95
   - name: About
     url: '/about'

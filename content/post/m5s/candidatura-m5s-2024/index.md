@@ -23,10 +23,12 @@ Prima di leggere qui sotto, ricordo di potermi chiedere quasiasi cosa
 - sul mio [canale Telegram](https://t.me/cecere2042)
 - su [questo post di Facebook](https://www.facebook.com/cecere2042/posts/pfbid0nNKjfEvKJED8RxM41ECCbQm2NmKzezk218hZcWRkiTbxLS4cHvf8zsEeL5Gn4br3l)
 
-**Risponderò qui!**
-
-
-
+### Oggi come non mai abbiamo bisogno di pacifisti, soprattutto al Parlamento Europeo, cosa hai fatto per la pace?
+Più che pacifisti (in teoria sono tutti "per la pace") c'è bisogno di nonviolenza attiva come metodologia. abbiamo Costituzioni che proibiscono l'uso delle armi per la risoluzione dei conflitti e sicuramente si può portare il tema del "violenza genera violenza" ai massimi livelli. e abbiamo poi visto (lo sapevamo già.. ma ora è ufficiale) quanto le trattative di pace ucraina/russia fossero sul tavolo appena iniziato il conflitto... ma fu sabotato da entità politiche esterne. queste cose vanno denunciate senza timore di perdere la poltrona.  
+Per questo motivo come 5S dobbiamo essere in tanti.. non basta un singolo.
+per la Pace cosa ho fatto? sono cresciuto politicamente con gli amici che andavano nel Kosovo durante i bombardamenti.. e dal 2001 non so quante dozzine di manifestazioni, attività, giornali, concerti! per non parlare della marcia Mondiale per la pace e la nonviolenza che mi impegnò un anno (dal 2009 al 2010) tra preparazione e produzione....  
+praticamente si tratta di sensibilizzare, mobilitare, non votare i politici sostenuti dall'apparato industriale miliatare, banca etica, economia solidale, cultura della nonviolenza.. studio...  
+e infine cercare sempre di trovare la violenza dentro di se (perché ce l'abbiamo tutti) e capire da dove arriva e cercare di risolverla.
 
 ## Perché mi candido?
 

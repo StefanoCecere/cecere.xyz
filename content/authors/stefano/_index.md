@@ -113,13 +113,13 @@ Questo sito è molto ampio, ecco le sezioni principali:
     chi sono? dove vado? perché?
     <h3><a href="/projects">Progetti</a></h3>
     tutti i progetti che ho creato o collaborato
-    <h3><a href="/edu">Corsi e Guide</a></h3>
+    <h3><a href="https://2042ed.org/studio/">Corsi e Guide</a></h3>
     materiali didattici e corsi
 </div>
 <div class="col-md">
     <h3><a href="https://2042ed.org">PlayED</a></h3>
     la guida al giocare bene, imparare insieme
-    <h3><a href="https://2042ed.org/2042/jam/">Jamurr</a></h3>
+    <h3><a href="https://2042ed.org/lab/">Jamurr</a></h3>
     game jam ragazzi e genitori
     <h3><a href="/contact">Partecipa</a></h3>
     rimaniamo in contatto
