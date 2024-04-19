@@ -2,7 +2,7 @@
 title: Vegetarianismo
 slug: 2016/05/vegetarianismo
 subtitle: ""
-date: 2016-05-02T05:21:00
+date: 2016-05-02
 categories: [blog]
 tags: [veg, ambiente]
 ---

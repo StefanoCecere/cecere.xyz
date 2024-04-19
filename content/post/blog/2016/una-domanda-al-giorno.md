@@ -2,7 +2,7 @@
 title: Una domanda al giorno
 slug: 2016/05/una-domanda-al-giorno
 subtitle: ""
-date: 2016-05-02T05:47:00
+date: 2016-05-02
 categories: [blog]
 tags: [spazio]
 ---

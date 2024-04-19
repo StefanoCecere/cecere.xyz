@@ -1,7 +1,7 @@
 ---
 title: Stefano Tetano
 slug: 2017/07/stefano-tetano
-date: 2017-07-17T00:00:00Z
+date: 2017-07-17
 categoreis: [blog]
 tags: [vaccini]
 ---

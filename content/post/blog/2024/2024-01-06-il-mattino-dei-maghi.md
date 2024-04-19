@@ -1,10 +1,10 @@
 ---
 title: 
 date: 2024-01-06
-updated: 2024-01-06
+updated: 2024-04-19
 type: 
 categories: TIL
-tags: book
+tags: [book]
 description: 
 permalink: 
 rating: 

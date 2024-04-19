@@ -1,7 +1,7 @@
 ---
 title: Stefano Cecere, Multimedia Developer, Launches Site
 slug: 2016/05/una-societa-psicopatica
-date: 2016-10-21T00:00:00Z
+date: 2016-10-21
 categories: [blog]
 tags: [site]
 ---

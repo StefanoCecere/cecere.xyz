@@ -1,7 +1,7 @@
 ---
 title: "Il libro è una tecnologia"
 date: 2020-03-14
-updated: 2023-08-01
+updated: 2024-04-19
 subtitle: ""
 description: ""
 tags: [edtech, book, HumanDev]
