@@ -9,7 +9,7 @@ tags:
 - Beppe Grillo
 - ecologia
 - mondo
-- società
+- societa
 title: Ma che pianeta mi hai fatto?
 slug: /2011/11/ma-che-pianeta-mi-hai-fatto/
 ---

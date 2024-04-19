@@ -9,7 +9,7 @@ id: 2575
 tags:
 - azioni
 - capitalismo
-- civiltà
+- civilta
 - coscienza
 - crisi
 - economia
@@ -20,7 +20,7 @@ tags:
 - Silo
 - sistema
 - situazione attuale
-- società
+- societa
 - storia
 title: 'Silo: sulla crisi'
 slug: /2011/09/silo-sulla-crisi/
