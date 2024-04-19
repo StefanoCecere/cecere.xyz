@@ -1,7 +1,9 @@
 ---
+title: Foto evento monza e cena sushi
+date: 2006-03-26
+updated: 2024-04-19
 draft: false
 categories: [blog]
-date: 2006-03-26T15:33:56Z
 format: image
 guid: http://cecere.xyz/?p=253
 id: 253
@@ -11,7 +13,6 @@ tags:
 - ricreazione
 - sushi
 - umanista
-title: Foto evento monza e cena sushi
 slug: /2006/03/foto-evento-moza-e-cena-sushi/
 ---
 

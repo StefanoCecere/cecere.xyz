@@ -1,13 +1,14 @@
 ---
+title: viva ciò che cresce
+date: 2006-03-15
+updated: 2024-04-19
 draft: false
 categories: [blog]
-date: 2006-03-15T02:10:44Z
 guid: http://cecere.xyz/2006/03/15/viva-cio-che-cresce/
 id: 244
 tags:
 - ricreazione
 - spirito
-title: viva ciò che cresce
 slug: /2006/03/viva-cio-che-cresce/
 ---
 

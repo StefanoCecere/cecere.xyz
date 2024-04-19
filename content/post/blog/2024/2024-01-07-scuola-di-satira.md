@@ -4,7 +4,7 @@ date: 2024-01-07
 updated: 2024-01-07
 type: 
 categories: TIL
-tags: luttazzi,fq,scuola
+tags: [luttazzi,fq,scuola]
 description: 
 permalink: 
 rating: 

@@ -1,11 +1,12 @@
 ---
 title: "La Partecipazione prima e dopo i Big Data, differenze e sfide"
+date: 2021-04-18
+updated: 2024-04-19
 slug: "partecipazione-prima-dopo-big-data"
 summary: "Se una procedura ha una regola, allora può essere automatizzata. Scopriamolo con questo semplice sistema per cercare e sostituire del testo."
 subtitle: ""
-tags: [partecipazione, politica, CittadinanzaDigitale]
+tags: [partecipazione, politica, cittadinanzaDigitale]
 categories: [blog]
-date: 2021-04-18
 featured: false
 draft: false
 image:

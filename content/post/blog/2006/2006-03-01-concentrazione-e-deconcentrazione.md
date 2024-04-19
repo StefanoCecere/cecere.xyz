@@ -1,13 +1,14 @@
 ---
+title: concentrazione e deconcentrazione
+date: 2006-03-01
+updated: 2024-04-19
 draft: false
 categories: [blog]
-date: 2006-03-01T11:26:55Z
 guid: http://cecere.xyz/2006/03/01/concentrazione-e-deconcentrazione/
 id: 236
 tags:
 - spirito
 - umanista
-title: concentrazione e deconcentrazione
 slug: /2006/03/concentrazione-e-deconcentrazione/
 ---
 

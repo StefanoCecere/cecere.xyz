@@ -1,14 +1,15 @@
 ---
+title: TOMMASO, TRAGEDIA ANNUNCIATA
+date: 2006-04-05
+updated: 2024-04-19
 draft: false
 categories:
 - tempi-moderni
-date: 2006-04-05T01:17:17Z
 guid: http://cecere.xyz/2006/04/05/tommaso-tragedia-annunciata/
 id: 254
 tags:
 - vergogna
 - violenza
-title: TOMMASO, TRAGEDIA ANNUNCIATA
 slug: /2006/04/tommaso-tragedia-annunciata/
 ---
 

@@ -1,13 +1,14 @@
 ---
+title: Sta arrivando un nuovo vento dal sudamerica
+date: 2006-03-18
+updated: 2024-04-19
 draft: false
 categories: [blog]
-date: 2006-03-18T13:47:37Z
 guid: http://cecere.xyz/2006/03/18/sta-arrivando-un-nuovo-vento-dal-sudamerica/
 id: 246
 tags:
 - america latina
 - umanista
-title: Sta arrivando un nuovo vento dal sudamerica
 slug: /2006/03/sta-arrivando-un-nuovo-vento-dal-sudamerica/
 ---
 

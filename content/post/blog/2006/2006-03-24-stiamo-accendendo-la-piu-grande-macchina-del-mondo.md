@@ -1,7 +1,9 @@
 ---
+title: stiamo accendendo la più grande macchina del mondo
+date: 2006-03-24
+updated: 2024-04-19
 draft: false
 categories: [blog]
-date: 2006-03-24T10:24:00Z
 guid: http://cecere.xyz/2006/03/24/stiamo-accendendo-la-piu-grande-macchina-del-mondo/
 id: 247
 tags:
@@ -9,7 +11,6 @@ tags:
 - ricreazione
 - spirito
 - umanista
-title: stiamo accendendo la più grande macchina del mondo
 slug: /2006/03/stiamo-accendendo-la-piu-grande-macchina-del-mondo/
 ---
 

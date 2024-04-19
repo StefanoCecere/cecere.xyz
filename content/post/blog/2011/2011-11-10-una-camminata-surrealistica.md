@@ -1,16 +1,17 @@
 ---
+title: una camminata surrealistica
+date: 2011-11-10
+updated: 2024-04-19
 draft: false
 categories: [blog]
-date: 2011-11-10T13:05:39Z
 guid: http://stefanocecere.com/?p=2794
 id: 2794
 tags:
 - arte
-- attività
+- attivita
 - illusione
 - Milano
 - Silo
-title: una camminata surrealistica
 slug: /2011/11/una-camminata-surrealistica/
 ---
 

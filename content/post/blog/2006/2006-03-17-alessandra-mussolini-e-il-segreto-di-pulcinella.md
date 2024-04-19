@@ -1,13 +1,14 @@
 ---
+title: Alessandra Mussolini e il segreto di pulcinella
+date: 2006-03-17
+updated: 2024-04-19
 draft: false
 categories:
 - tempi-moderni
-date: 2006-03-17T13:41:30Z
 guid: http://cecere.xyz/?p=245
 id: 245
 tags:
 - vergogna
-title: Alessandra Mussolini e il segreto di pulcinella
 slug: /2006/03/alessandra-mussolini-e-il-segreto-di-pulcinella/
 ---
 

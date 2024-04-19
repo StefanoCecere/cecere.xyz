@@ -1,13 +1,14 @@
 ---
+title: "L'umanista: il giornale che devi leggere!"
+date: 2006-03-28
+updated: 2024-04-19
 draft: false
 categories: [blog]
-date: 2006-03-28T22:55:14Z
 guid: http://cecere.xyz/2006/03/28/lumanista-il-giornale-che-devi-leggere/
 id: 248
 tags:
 - giornale
 - umanista
-title: "L'umanista: il giornale che devi leggere!"
 slug: /2006/03/lumanista-il-giornale-che-devi-leggere/
 ---
 
