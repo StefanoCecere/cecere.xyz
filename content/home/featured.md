@@ -4,6 +4,7 @@ headless: true
 weight: 10
 title:
 subtitle:
+active: false
 
 content:
   # Page type to display. E.g. post, event, or publication.

@@ -4,7 +4,7 @@ headless: true
 weight: 20
 title: Prossimi talk
 subtitle:
-
+active: false
 content:
   # Page type to display. E.g. post, event, publication...
   page_type: event
