@@ -13,8 +13,17 @@ featured: true
 draft: false
 ---
 
-Giovedì 18 aprile si svolgeranno le primarie del Movimento 5 Stelle per selezionare i candidati per le elezioni europee del 2024.  
-Chiedo a tutti gli iscritti del M5S della **Toscana** di valutare la mia auto candidatura, e se avrò abbastanza voti passerò al secondo turno con tutta la circoscrizione Centro Italia (Lazio, Marche, Toscana e Umbria) 
+Lunedì 22 aprile si svolgeranno le primarie del Movimento 5 Stelle per selezionare i candidati per le elezioni europee del 2024.  
+Chiedo a tutti gli iscritti del M5S della **circoscrizione Centro Italia (Lazio, Marche, Toscana e Umbria)** di valutare la mia auto candidatura.
+
+## CHIEDIMI QUALSIASI COSA
+Prima di leggere qui sotto, ricordo di potermi chiedere quasiasi cosa 
+
+- per email: [stefano.cecere@gmail.com](mailto:stefano.cecere@gmail.com)
+- sul mio [canale Telegram](https://t.me/cecere2042)
+- su [questo post di Facebook](https://www.facebook.com/cecere2042/posts/pfbid0nNKjfEvKJED8RxM41ECCbQm2NmKzezk218hZcWRkiTbxLS4cHvf8zsEeL5Gn4br3l)
+
+Risponderò qui!
 
 ## Perché mi candido?
 
