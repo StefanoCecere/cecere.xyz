@@ -11,7 +11,7 @@ tags:
 - comunicazione
 - maestro
 - politica
-- pubblicità
+- pubblicita
 title: Rivolgersi alla gente come a dei bambini.
 slug: /2011/03/rivolgersi-alla-gente-come-a-dei-bambini/
 ---

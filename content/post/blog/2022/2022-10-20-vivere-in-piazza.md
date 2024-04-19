@@ -8,7 +8,7 @@ tags:
   - blog
   - pace
   - attivismo
-  - società
+  - societa
   - passione
 description: 
 permalink: 

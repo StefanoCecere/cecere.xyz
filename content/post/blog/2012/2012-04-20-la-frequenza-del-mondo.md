@@ -11,7 +11,7 @@ tags:
 - esperimento
 - mondo
 - percezione
-- realtà
+- realta
 - suono
 - Vibrazioni
 title: La frequenza del mondo

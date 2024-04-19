@@ -3,16 +3,12 @@ title: "Adolescenza e società contemporanea: problemi educativi e possibili sol
 slug: adolescenza-societa-contemporanea
 subtitle: "elaborato"
 summary: ""
-tags: [studio, pedagogia, genitorialità, adolescenti, società]
+tags: [studio, pedagogia, genitorialità, adolescenti, societa]
 categories: [scripta]
 date: 2021-06-25
 featured: true
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-projects: []
+
 ---
 
 Quella che segue è una elaborazione personale basata su alcuni studi e molte riflessioni, senza la pretesa di essere uno studio rigoroso e tantomeno completo.

@@ -8,7 +8,7 @@ guid: http://stefanocecere.com/?p=5792
 id: 5792
 tags:
 - Balasso
-- povertà
+- poverta
 - videopoker
 title: Balasso testimonial videopoker
 slug: /2015/05/balasso-testimonial-videopoker/

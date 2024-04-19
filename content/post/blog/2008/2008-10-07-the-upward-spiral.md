@@ -6,7 +6,7 @@ guid: http://cecere.xyz/?p=1355
 id: 1355
 tags:
 - film
-- spiritualità
+- spiritualita
 title: The Upward Spiral
 slug: /2008/10/the-upward-spiral/
 ---

@@ -6,7 +6,7 @@ type:
 categories:
   - blog
 tags:
-  - società
+  - societa
 description: 
 permalink: 
 ---

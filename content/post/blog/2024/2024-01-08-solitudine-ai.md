@@ -4,7 +4,7 @@ date: 2024-01-08
 updated: 2024-01-08
 type: 
 categories: blog
-tags: AI
+tags: AI, societa
 description: 
 permalink: 
 rating: 
@@ -21,5 +21,3 @@ bisogna iniziare ad immaginare come le nuove tecnologie possano realisticamente 
 nel caso specifico: ok, usate pure a milioni i bot super simpatici/empatici/disponibili. ma se sotto sotto loro trovassero le migliori assonanze ed ad un certo punto si auto-sostituirebbero con un umano che risponde esattamente alla tua situazione? fino ad arrivare un giorno ad un ottimo Matchmaking e proporre la convivenza?
 
 è un esempio banale.. ma apre a molti scenari: iniziare a immaginare la nostra società COADIUVATA da un uso intelligente e positivo delle nuove tecnologie.
-
-[#AI](https://www.facebook.com/hashtag/ai?__eep__=6&__cft__[0]=AZVuUu2EVmau-CFiJ87T7YRIDCxv0sz_1tCasR4G--3e1sg7wJJuwcnA4kwt9gIWU5guTcs12ygo39y72D7jAVb-zY7rL5bQ7IEqRdd0XIZyfw&__tn__=*NK-R) [#società](https://www.facebook.com/hashtag/societ%C3%A0?__eep__=6&__cft__[0]=AZVuUu2EVmau-CFiJ87T7YRIDCxv0sz_1tCasR4G--3e1sg7wJJuwcnA4kwt9gIWU5guTcs12ygo39y72D7jAVb-zY7rL5bQ7IEqRdd0XIZyfw&__tn__=*NK-R)

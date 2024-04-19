@@ -3,16 +3,11 @@ title: "La società della conoscenza: definizione e impatto sul sistema educativ
 slug: societa-della-conoscenza
 subtitle: "elaborato"
 summary: ""
-tags: [studio, società]
+tags: [studio, societa]
 categories: [scripta]
 date: 2021-06-24
 featured: true
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-projects: []
 ---
 
 > "I Neanderthal nelle loro caverne avevano le stesse risorse materiali che ci sono ora. L'unica differenza è la differente accumulazione di Conoscenza" (George Gilder)

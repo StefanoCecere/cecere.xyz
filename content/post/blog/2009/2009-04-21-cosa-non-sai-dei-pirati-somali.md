@@ -8,7 +8,7 @@ tags:
 - africa
 - media
 - pirati
-- povertà
+- poverta
 - tg
 title: Cosa non sai dei pirati somali
 slug: /2009/04/cosa-non-sai-dei-pirati-somali/

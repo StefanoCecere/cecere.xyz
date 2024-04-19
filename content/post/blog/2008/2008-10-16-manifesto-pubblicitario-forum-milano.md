@@ -8,7 +8,7 @@ tags:
 - Forum
 - Milano
 - nonviolenza
-- pubblicità
+- pubblicita
 - volantino
 title: Manifesto pubblicitario Forum Milano
 slug: /2008/10/manifesto-pubblicitario-forum-milano/
