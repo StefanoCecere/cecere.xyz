@@ -5,7 +5,7 @@ updated: 2024-04-19
 slug: "partecipazione-prima-dopo-big-data"
 summary: "Se una procedura ha una regola, allora può essere automatizzata. Scopriamolo con questo semplice sistema per cercare e sostituire del testo."
 subtitle: ""
-tags: [partecipazione, politica, cittadinanzaDigitale]
+tags: [partecipazione, politica, cittadinanzadigitale]
 categories: [blog]
 featured: false
 draft: false
