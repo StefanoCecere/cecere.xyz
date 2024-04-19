@@ -4,7 +4,7 @@ date: 2024-01-08
 updated: 2024-01-08
 type: 
 categories: blog
-tags: AI, societa
+tags: [AI, societa]
 description: 
 permalink: 
 rating: 

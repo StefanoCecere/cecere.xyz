@@ -4,7 +4,7 @@ date: 2024-04-17
 updated: 2024-04-17
 type: 
 categories: TIL
-tags: AI, societa
+tags: [AI, societa]
 description: 
 permalink: 
 rating: 
