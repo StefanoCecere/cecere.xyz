@@ -1,20 +1,20 @@
 ---
+title: Inaugurazione Parco di Attigliano
+date: 2008-04-30
 draft: false
 categories:
 - futuro
 - tempi-moderni
-date: 2008-04-30
 guid: http://cecere.xyz/2008/04/30/inaugurazione-parco-di-attigliano/
 id: 898
 tags:
-- Parco Attigliano
+- ParcoAttigliano
 - Silo
 - spirito
 - terra2
 - umanista
-title: Inaugurazione Parco di Attigliano
 slug: /2008/04/inaugurazione-parco-di-attigliano/
-updated: 2022-03-22
+updated: 2024-04-19
 ---
 
 ![locandina-4-maggio.jpg](http://cecere.xyz/wp-content/uploads/sites/3/2008/04/locandina-4-maggio.jpg)

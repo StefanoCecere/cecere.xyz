@@ -1,15 +1,16 @@
 ---
+title: Il Saggio delle Ande a Milano
+date: 2008-09-20
+updated: 2024-04-19
 draft: false
 categories: [blog]
-date: 2008-09-20T13:38:09Z
 guid: http://cecere.xyz/?p=1177
 id: 1177
 tags:
 - Events
 - Milano
-- Parco Attigliano
+- ParcoAttigliano
 - Silo
-title: Il Saggio delle Ande a Milano
 slug: /2008/09/il-saggio-delle-ande-a-milano/
 ---
 

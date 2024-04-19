@@ -1,13 +1,14 @@
 ---
+title: Dai vieni subito ad Attigliano!
+date: 2008-05-02
+updated: 2024-04-19
 draft: false
 categories: [blog]
-date: 2008-05-02T13:02:45Z
 guid: http://cecere.xyz/2008/05/02/dai-vieni-subito-ad-attigliano/
 id: 909
 tags:
-- Parco Attigliano
+- ParcoAttigliano
 - Silo
-title: Dai vieni subito ad Attigliano!
 slug: /2008/05/dai-vieni-subito-ad-attigliano/
 ---
 

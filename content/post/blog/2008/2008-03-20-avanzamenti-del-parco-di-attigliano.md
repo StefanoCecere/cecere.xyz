@@ -1,16 +1,17 @@
 ---
+title: Avanzamenti del Parco di Attigliano
+date: 2024-04-19
+updated: 2024-04-19
 draft: false
 categories: [blog]
-date: 2008-03-20T18:07:35Z
 guid: http://cecere.xyz/2008/03/20/avanzamenti-del-parco-di-attigliano/
 id: 763
 tags:
-- Parco Attigliano
+- ParcoAttigliano
 - Silo
 - spirito
 - umanista
 - video
-title: Avanzamenti del Parco di Attigliano
 slug: /2008/03/avanzamenti-del-parco-di-attigliano/
 ---
 

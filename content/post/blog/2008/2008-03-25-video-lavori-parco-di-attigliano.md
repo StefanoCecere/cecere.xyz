@@ -1,15 +1,16 @@
 ---
+title: Video lavori Parco di Attigliano
+date: 2008-03-25
+updated: 2024-04-19
 draft: false
 categories: [blog]
-date: 2008-03-25T10:12:56Z
 guid: http://cecere.xyz/2008/03/25/video-lavori-parco-di-attigliano/
 id: 775
 tags:
-- Parco Attigliano
+- ParcoAttigliano
 - Silo
 - spirito
 - video
-title: Video lavori Parco di Attigliano
 slug: /2008/03/video-lavori-parco-di-attigliano/
 ---
 

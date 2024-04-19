@@ -1,11 +1,11 @@
 ---
 title: Piantato il monolito del Parco di Attigliano
 date: 2006-12-30
-updated: 2023-08-21
+updated: 2024-04-19
 type: 
 categories: [blog]
 tags:
-- Parco Attigliano
+- ParcoAttigliano
 - spirito
 - umanista
 description: 

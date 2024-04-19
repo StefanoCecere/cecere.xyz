@@ -1,14 +1,15 @@
 ---
+title: Questo sabato ad Attigliano
+date: 2008-07-24
+updated: 2024-04-19
 draft: false
 categories: [blog]
-date: 2008-07-24T16:19:12Z
 guid: http://cecere.xyz/?p=1106
 id: 1106
 tags:
-- Parco Attigliano
+- ParcoAttigliano
 - Silo
 - video
-title: Questo sabato ad Attigliano
 slug: /2008/07/questo-sabato-ad-attigliano/
 ---
 

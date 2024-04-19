@@ -1,14 +1,15 @@
 ---
+title: Articolo sull'inaugurazione del Parco di Attigliano
+date: 2007-01-22
+updated: 2024-04-19
 draft: false
 categories: [blog]
-date: 2007-01-22T18:08:08Z
 guid: http://cecere.xyz/2007/01/22/articolo-sullinaugurazione-del-parco-di-attigliano/
 id: 487
 tags:
-- Parco Attigliano
+- ParcoAttigliano
 - spirito
 - umanista
-title: Articolo sull'inaugurazione del Parco di Attigliano
 slug: /2007/01/articolo-sullinaugurazione-del-parco-di-attigliano/
 ---
 

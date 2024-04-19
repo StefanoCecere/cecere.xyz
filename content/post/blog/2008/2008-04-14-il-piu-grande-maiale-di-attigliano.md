@@ -1,14 +1,15 @@
 ---
+title: Il più grande maiale di Attigliano
+date: 2008-04-14
+updated: 2024-04-19
 draft: false
 categories: [blog]
-date: 2008-04-14T00:42:12Z
 guid: http://cecere.xyz/2008/04/14/il-piu-grande-maiale-di-attigliano/
 id: 851
 tags:
 - animali
 - foto
-- Parco Attigliano
-title: Il più grande maiale di Attigliano
+- ParcoAttigliano
 slug: /2008/04/il-piu-grande-maiale-di-attigliano/
 ---
 

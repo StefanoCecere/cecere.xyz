@@ -1,17 +1,17 @@
 ---
+title: Il Parco sta crescendo
+date: 2008-02-07
 draft: false
 categories: [blog]
-date: 2008-02-07
 guid: http://cecere.xyz/2008/02/07/il-parco-sta-crescendo/
 id: 677
 tags:
-- Parco Attigliano
+- ParcoAttigliano
 - Silo
 - spirito
 - terra2
-title: Il Parco sta crescendo
 slug: /2008/02/il-parco-sta-crescendo/
-updated: 2022-03-22
+updated: 2024-04-19
 ---
 
 no non è il parco di Monza, ma quello di Attigliano (vicino Orte), il Parco che stiamo costruendo e che diverrà un importante luogo di ricerca.

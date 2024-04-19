@@ -1,18 +1,18 @@
 ---
+title: evviva non sono morto!
+date: 2007-01-22
 draft: false
 categories: [blog]
-date: 2007-01-22
 guid: http://cecere.xyz/2007/01/22/evviva-non-sono-morto/
 id: 484
 tags:
-- Parco Attigliano
+- ParcoAttigliano
 - pensieri
 - ricreazione
 - spirito
 - stefano
-title: evviva non sono morto!
 slug: /2007/01/evviva-non-sono-morto/
-updated: 2022-03-22
+updated: 2024-04-19
 ---
 
 <img id="image483" title="Essere Digitale.. di Stefano Cecere" src="http://cecere.xyz/wp-content/uploads/sites/3/2007/01/essere_digitale.jpg" alt="essere_digitale.jpg" />

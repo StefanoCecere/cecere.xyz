@@ -1,16 +1,17 @@
 ---
+title: Primo video inaugurazione Parco di Attigliano
+date: 2008-05-05
+updated: 2024-04-19
 draft: false
 categories:
 - Uncategorized
-date: 2008-05-05T08:13:54Z
 guid: http://cecere.xyz/2008/05/05/primo-video-inaugurazione-parco-di-attigliano/
 id: 911
 tags:
-- Parco Attigliano
+- ParcoAttigliano
 - Silo
 - spirito
 - video
-title: Primo video inaugurazione Parco di Attigliano
 slug: /2008/05/primo-video-inaugurazione-parco-di-attigliano/
 ---
 
