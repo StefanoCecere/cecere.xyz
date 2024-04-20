@@ -105,5 +105,17 @@ extensions:
   academicons:
     enable: false
 
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /post/**
+    pager: true
+    editable: false
+    reading_time: true
+    commentable: true
+    show_related: true
+    show_breadcrumb: true
+    share: true
+
 # my
 ghrepo: https://github.com/StefanoCecere/cecere.xyz/

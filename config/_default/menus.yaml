@@ -8,7 +8,7 @@ main:
     url: ''
     weight: 10
   - name: Newsletter
-    url: 'https://cecere.substack.com'
+    url: 'https://2042.substack.com'
     weight: 15
   - name: Blog
     url: '/post'
