@@ -12,5 +12,6 @@ rating:
 publish: 
 ---
 
-https://it.wikipedia.org/wiki/Kintsugi
-![](../../assets/img/post/kintsugi.webp)
+[Kintsugi](https://it.wikipedia.org/wiki/Kintsugi)
+
+![](../../../assets/img/post/2016/kintsugi.webp)

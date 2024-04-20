@@ -22,4 +22,4 @@ ecco una cosa importante: il documentario della Marcia Mondiale che abbiamo fatt
 
 <https://www.youtube.com/watch?v=r_gyzUaHU1M>
 
-#todo_youtube r_gyzUaHU1M >}}
+{{< youtube r_gyzUaHU1M >}}
