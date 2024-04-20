@@ -25,6 +25,12 @@ Prima di leggere qui sotto, ricordo di potermi chiedere quasiasi cosa
 - su [questo post di Facebook](https://www.facebook.com/cecere2042/posts/pfbid0nNKjfEvKJED8RxM41ECCbQm2NmKzezk218hZcWRkiTbxLS4cHvf8zsEeL5Gn4br3l)
 
 ### Sei immune al fascino del potere? Non è che poi ci tradisci?
+Anche io sono preoccupato di chi usa il Movimento, abbiamo avuto esempi di spicco, anche chi diceva di volersi tatuare il logo dei 5S per poi andarsene, quindi cosa posso portare per essere credibile?
+
+semplicemente il mio passato e il mio presente
+
+mi sono sempre battuto per il 99% prima ancora che ci fosse il Movimento o i Meetup, organizzavo manifestazioni, attività, giornali, concerti... ma anche adesso mi batto per il Movimento, ma anche per la Casa del Popolo del mio paese, sviluppo videogiochi per insegnare la lingua a chi è dovuto scappare dalle guerre, sono entrato nel Movimento perché il mio DNA era già del Movimento
+
 Ne avevo scritto [qui](https://cecere.xyz/post/coraggio-virus-del-potere/)
 
 ### Di chi ti fidi?

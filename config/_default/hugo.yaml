@@ -43,8 +43,8 @@ cascade:
       path: /post/**
       kind: page
     view: date-title-summary
-    authors:
-      - stefano
+#    authors:
+#      - stefano
     pager: true
     editable: false
     hide_date: false

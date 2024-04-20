@@ -37,7 +37,7 @@ header:
     logo:
       text: "Stefano Cecere"
       # Logo filename in `assets/media/` folder
-      filename: "icon.png"
+      # filename: "icon.png"
 #    button:
 #      enable: true
 #      text: "Get Started"
