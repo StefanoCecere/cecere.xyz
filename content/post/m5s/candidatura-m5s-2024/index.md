@@ -19,15 +19,23 @@ Chiedo a tutti gli iscritti del M5S della **circoscrizione Centro Italia (Lazio,
 ## CHIEDIMI QUALSIASI COSA
 Prima di leggere qui sotto, ricordo di potermi chiedere quasiasi cosa 
 
-- per email: [stefano.cecere@gmail.com](mailto:stefano.cecere@gmail.com)
+- per email [stefano.cecere@gmail.com](mailto:stefano.cecere@gmail.com)
 - sul mio [canale Telegram](https://t.me/cecere2042)
 - su [questo post di Facebook](https://www.facebook.com/cecere2042/posts/pfbid0nNKjfEvKJED8RxM41ECCbQm2NmKzezk218hZcWRkiTbxLS4cHvf8zsEeL5Gn4br3l)
 
-### Oggi come non mai abbiamo bisogno di pacifisti, soprattutto al Parlamento Europeo, cosa hai fatto per la pace?
-Più che pacifisti (in teoria sono tutti "per la pace") c'è bisogno di nonviolenza attiva come metodologia. abbiamo Costituzioni che proibiscono l'uso delle armi per la risoluzione dei conflitti e sicuramente si può portare il tema del "violenza genera violenza" ai massimi livelli. e abbiamo poi visto (lo sapevamo già.. ma ora è ufficiale) quanto le trattative di pace ucraina/russia fossero sul tavolo appena iniziato il conflitto... ma fu sabotato da entità politiche esterne. queste cose vanno denunciate senza timore di perdere la poltrona.  
+### Cosa hai fatto per il Movimento?
+
+- Sono quello che prima delle manifestazioni crea e stampa i volantini o procura le bandiere.
+- E prima ancora crea tutti i canali Telegram o mailing list a cui potersi inscrivere per iniziare a partecipare.
+- O che dà consigli su come organizzarsi [vedi qui](https://2050x.org/scuola/manuale-attivista/guide/diffusione-e-crescita)
+
+> diciamo sono quello che agevola e aiuta la partecipazione e l'auto-formazione.. per essere più efficaci nell'attivismo
+
+### Abbiamo bisogno di pacifisti, cosa hai fatto per la pace?
+Più che pacifisti (in teoria sono tutti "per la pace") c'è bisogno di **nonviolenza attiva come metodologia**. Abbiamo Costituzioni che proibiscono l'uso delle armi per la risoluzione dei conflitti e possiamo illustrare quanto "violenza genera violenza". Abbiamo ora visto (lo sapevamo già.. ma ora è ufficiale) quanto le trattative di pace Ucraina/Russia fossero sul tavolo appena iniziato il conflitto, ma fu sabotato da entità politiche esterne (USAn GB e anche Europa). Queste cose vanno denunciate senza timore di perdere la poltrona.  
 Per questo motivo come 5S dobbiamo essere in tanti.. non basta un singolo.
-per la Pace cosa ho fatto? sono cresciuto politicamente con gli amici che andavano nel Kosovo durante i bombardamenti.. e dal 2001 non so quante dozzine di manifestazioni, attività, giornali, concerti! per non parlare della marcia Mondiale per la pace e la nonviolenza che mi impegnò un anno (dal 2009 al 2010) tra preparazione e produzione....  
-praticamente si tratta di sensibilizzare, mobilitare, non votare i politici sostenuti dall'apparato industriale miliatare, banca etica, economia solidale, cultura della nonviolenza.. studio...  
+Cosa ho fatto per la Pace? sono cresciuto politicamente con gli amici che andavano nel Kosovo durante i bombardamenti NATO.. e dal 2001 non so quante dozzine di manifestazioni, attività, giornali, concerti (ero musicista professionista) ho organizzato. Per non parlare della Marcia Mondiale per la Pace e la Nonviolenza che mi impegnò un anno (dal 2009 al 2010) tra preparazione e produzione. Sono andato anche a Roma da Fiorello mentre registrava per sensibilizzarlo sullo scudo stellare in costruzione nel 2007 in Repubblica Ceca  ([vedi](https://www.youtube.com/watch?v=ZOf2zKqOC-Y)), o banchini per il disarmo atomico quando non sapevamo ancora di avere le bombe in casa 
+Praticamente si tratta di sensibilizzare, mobilitare, non votare i politici sostenuti dall'apparato industriale miliatare, banca etica, economia solidale, cultura della nonviolenza.. studio...  
 e infine cercare sempre di trovare la violenza dentro di se (perché ce l'abbiamo tutti) e capire da dove arriva e cercare di risolverla.
 
 ## Perché mi candido?

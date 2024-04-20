@@ -1,5 +1,5 @@
 ---
-title: 
+title: Cultura Digitale
 date: 2024-01-02
 updated: 2024-01-02
 type: 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Ragazzo e airone
 date: 2024-01-03
 updated: 2024-01-03
 type: 

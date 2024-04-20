@@ -1,5 +1,5 @@
 ---
-title: 
+title: Matematica spaziale
 date: 2024-01-05
 updated: 2024-01-05
 type: 
