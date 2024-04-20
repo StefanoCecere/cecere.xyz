@@ -5,7 +5,8 @@ type: book
 tags: [Silo, MovimentoUmanista, NuovoUmanesimo]
 ---
 {{% callout note %}}
-{{% staticref "assets/docs/DocumentodelMovimentoUmanista.rtf" "newtab" %}}Scarica il documento in formato RTF{{% /staticref %}}
+"assets/docs/DocumentodelMovimentoUmanista.rtf" "newtab" 
+Scarica il documento in formato RTF
 {{% /callout %}}
 Gli umanisti sono donne ed uomini di questo secolo, di quest’epoca. Ritrovano nell’Umanesimo storico le proprie radici e si ispirano agli apporti di diverse culture e non solo di quelle che in questo momento occupano una posizione centrale. Sono inoltre uomini e donne che si lasciano alle spalle questo secolo e questo millennio e che si lanciano verso un mondo nuovo. 
 Gli umanisti sentono che la loro storia passata è molto lunga e che quella futura lo sarà ancora di più. Pensano all’avvenire mentre lottano per superare la crisi generale del presente. Sono ottimisti, credono nella libertà e nel progresso sociale.

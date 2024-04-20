@@ -1,5 +1,5 @@
 ---
-title: ❤️ Sponsor me
+title: "❤️ Sponsor me"
 url: /sponsor
 date: 2021-04-01
 type: simple

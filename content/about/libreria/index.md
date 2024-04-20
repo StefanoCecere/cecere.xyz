@@ -2,7 +2,6 @@
 title: Libreria
 summary: siamo anche i libri che abbiamo letto
 slug: libreria
-type: book
 toc: true
 authors: []
 tags:

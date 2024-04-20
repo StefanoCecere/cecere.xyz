@@ -1,5 +1,5 @@
 # Configuration of Hugo
-# Guide: https://wowchemy.com/docs/getting-started/
+# Guide: https://docs.hugoblox.com/tutorial/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
@@ -11,10 +11,17 @@ baseurl: 'https://cecere.xyz/' # Website URL
 ############################
 
 cascade:
-  # Blog post folder options
   - _target:
-      path: /post/**
-    show_related: true
+      path: /about/**
+    type: docs
+    sidebar:
+      open: true
+    editable: false
+    share: false
+    show_breadcrumb: true
+    reading_time: false
+    hide_date: true
+    show_date_updated: false
   - _target:
       path: /project/**
     show_related: true
@@ -31,6 +38,26 @@ cascade:
     show_breadcrumb: true
     show_related: false
     editable: true
+  # Blog post options
+  - _target:
+      path: /post/**
+      kind: page
+    view: date-title-summary
+    authors:
+      - stefano
+    pager: true
+    editable: false
+    hide_date: false
+    show_date_updated: false
+    reading_time: true
+    commentable: false
+    show_related: true
+    share: false
+    show_breadcrumb: true
+    paginate: 200
+    header:
+      navbar:
+        enable: true
 
 ############################
 ## LANGUAGE
@@ -42,27 +69,18 @@ defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
-## MODULES
-############################
-
-module:
-  imports:
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
-
-############################
 ## ADVANCED
 ############################
 
+build:
+  writeStats: false
 enableGitInfo: false
 summaryLength: 30
-paginate: 20
+paginate: 10000
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [_local, \.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   post: '/post/:slug/'
   event: '/event/:year/:slug/'
@@ -76,12 +94,19 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 95
   anchor: smart
 timeout: 600000
 taxonomies:
   tag: tags
   category: categories
+  author: authors
+markup:
+  _merge: deep
+  goldmark:
+    parser:
+      attribute:
+        block: true
 related:
   threshold: 80
   includeNewer: true
@@ -95,18 +120,13 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-
-# enable class attributes to blockquotes (to style games databoxes)
-markup:
-  _merge: deep
-  goldmark:
-    parser:
-      attribute:
-        block: true
-rssLimit: 30
-
 minify:
+  _merge: deep
   minifyOutput: true
   tdewolff:
     html:
       keepWhitespace: false
+
+ignoreLogs:
+  - 'err-youtube-remote'
+  

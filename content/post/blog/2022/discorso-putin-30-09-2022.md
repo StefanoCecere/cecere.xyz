@@ -10,7 +10,7 @@ permalink:
 slug: discorso-putin-30-09-2022
 toc: true
 ---
-![](../../../assets/img/articles/putin-featured.webp)
+![](../../../assets/img/post/2022/putin-featured.webp)
 
 (premessa: lo condivido solo per interesse di conoscenza. Non per parte presa)
 Ho cercato una versione integrale con traduzione affidabile del discorso di Putin del 30 settembre. Perché? Perché sembra che sia un discorso che potrebbe cambiare la vita di tutti noi se davvero fosse il punto di rottura e l'avvio di guerra di campo tra gli Stati Uniti (e Occidente progressista) da un lato e Russia (e mondo Conservatore) dall'altro.

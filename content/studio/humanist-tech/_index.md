@@ -13,4 +13,4 @@ categories: [guide]
 tags: [AI, VR, XR, gamedev, umanesimo, tech]
 ---
 
-{{< list_children >}}
+

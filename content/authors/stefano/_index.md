@@ -1,5 +1,7 @@
 ---
 title: Stefano Cecere
+first_name: Stefano
+last_name: Cecere
 superuser: true
 role: Play well, Die Happy! Ricercatore, Sviluppatore, Educatore, Attivista, Umanista, Papà.
 # Game Based Learning R&D, Educator, Musician
@@ -36,14 +38,10 @@ bio: Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Tec
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: github
-  icon_pack: fab
+profiles:
+- icon: brands/github
   link: https://github.com/stefanocecere
-  display:
-    header: false
-- icon: facebook
-  icon_pack: fab
+- icon: brands/facebook
   link: https://facebook.com/cecere2042
   label: Seguimi su Facebook
   display:
@@ -51,19 +49,15 @@ social:
 #- icon: youtube
 #  icon_pack: fab
 #  link: https://www.youtube.com/channel/UCIJRyBArdrCb1m52coyhUZA
-- icon: twitter
-  icon_pack: fab
+- icon: brands/x
   link: https://twitter.com/StefanoCecere
   display:
     header: false
-- icon: linkedin
-  icon_pack: fab
+- icon: brands/linkedin
   link: https://www.linkedin.com/in/stefanocecere
-- icon: soundcloud
-  icon_pack: fab
-  link: https://soundcloud.com/stefanocecere
-- icon: telegram
-  icon_pack: fab
+#- icon: brands/soundcloud
+#  link: https://soundcloud.com/stefanocecere
+- icon: brands/telegram
   link: https://t.me/cecere2042
   label: Seguimi su Telegram
   display:
@@ -103,26 +97,3 @@ highlight_name: false
 ---
 Ciao, mi chiamo Stefano Cecere e sono appassionato dell'arte di **imparare** e **creare**.  
 Sviluppo contenuti per capire le **nuove tecnologie**, sviluppare la **creatività multidisciplinare** e preparare i nostri figli alla **complessità** del mondo con una visione sistemica ed **umanista**.
-
-Questo sito è molto ampio, ecco le sezioni principali:
-
-{{< rawhtml >}}
-<div class="row">
-<div class="col-md">
-    <h3><a href="/about">Mi presento</a></h3>
-    chi sono? dove vado? perché?
-    <h3><a href="/projects">Progetti</a></h3>
-    tutti i progetti che ho creato o collaborato
-    <h3><a href="https://2042ed.org/studio/">Corsi e Guide</a></h3>
-    materiali didattici e corsi
-</div>
-<div class="col-md">
-    <h3><a href="https://2042ed.org">PlayED</a></h3>
-    la guida al giocare bene, imparare insieme
-    <h3><a href="https://2042ed.org/lab/">Jamurr</a></h3>
-    game jam ragazzi e genitori
-    <h3><a href="/contact">Partecipa</a></h3>
-    rimaniamo in contatto
-</div>
-</div>
-{{< /rawhtml >}}

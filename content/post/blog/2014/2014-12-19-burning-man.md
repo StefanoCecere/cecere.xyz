@@ -1,15 +1,16 @@
 ---
 draft: false
-categories: [blog]
+categories:
+  - blog
 date: 2014-12-19T05:48:45Z
 format: video
 guid: http://stefanocecere.com/?p=5515
 id: 5515
 tags:
-- art
-- event
-- experience
-- travel
+  - event
+  - experience
+  - travel
+  - arte
 title: Burning Man
 slug: /2014/12/burning-man/
 ---

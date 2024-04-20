@@ -5,7 +5,6 @@ slug: faq
 summary: mi piacciono più le domande che le risposte
 date: 2013-02-25T00:00:00Z
 lastmod: 2021-02-25T00:00:00Z
-type: book
 weight: 500
 categories: [stefano]
 tags: []

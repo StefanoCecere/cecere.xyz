@@ -1,15 +1,12 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 appearance:
-  theme_day: orange
-  theme_night: orange
-  font: minimal
-  font_size: L
+  mode: system
+  color: blue
 
 # SEO
 marketing:
@@ -17,105 +14,60 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: "very serious research and play."
+    description: 'very serious research and play.'
     twitter: 'StefanoCecere'
   analytics:
     google_analytics: 'UA-95775-1'
     google_tag_manager: 'G-EVD3BV59KL'
     baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
   verification:
     google: ''
     baidu: ''
 
 # Site header
-
 header:
   navbar:
     enable: true
-    align: l
-    show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_active_link: true
+    blox: "navbar"
+    align: "center"
+    fixed_to_top: true
+    logo:
+      text: "Stefano Cecere"
+      # Logo filename in `assets/media/` folder
+      filename: "icon.png"
+#    button:
+#      enable: true
+#      text: "Get Started"
+#      url: "https://hugoblox.com/templates/"
+    show_search: false
+    show_theme_chooser: true
 
 # Site footer
-
 footer:
   copyright:
-    notice: ''
+    notice: '© {year} Stefano Cecere. {license}'
     license:
-      enable: false
-      allow_derivatives: true
+      enable: true
+      allow_derivatives: false
       share_alike: true
       allow_commercial: false
 
 # Localization
-
 locale:
   date_format: '2 Jan 2006'
   time_format: '15:04'
   address_format: fr-fr
 
 # Site features
-
 features:
-  syntax_highlighter:
-    enable: true
-    extra_languages:
-      - latex
   math:
-    enable: true
-  diagram:
     enable: false
   privacy_pack:
     enable: true
   repository:
     url: 'https://github.com/StefanoCecere/cecere.xyz'
-    content_dir: content
+    content_dir: 
     branch: main
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-  search:
-    provider: docsearch
-    docsearch:
-      app_id: 'PJJLOAKW2K'
-      api_key: 'ee3a082efd0f3f10b8a9efed7b641543'
-      index_name: 'cecerexyz'
-  map:
-    provider: ''
-    api_key: ''
-    zoom: 15
-
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  isotope:
-    # Enable if you use the Portfolio widget or Publication filter
-    enable: true
-  academicons:
-    enable: false
-
-cascade:
-  # Configure blog posts
-  - _target:
-      path: /post/**
-    pager: true
-    editable: false
-    reading_time: true
-    commentable: true
-    show_related: true
-    show_breadcrumb: true
-    share: true
-
-# my
-ghrepo: https://github.com/StefanoCecere/cecere.xyz/

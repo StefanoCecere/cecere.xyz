@@ -1,15 +1,16 @@
 ---
 draft: false
-categories: [blog]
+categories:
+  - blog
 date: 2006-06-03
 guid: http://cecere.xyz/2006/06/03/11-settembre-matrix-e-la-massima-illusione/
 id: 309
 tags:
-- 11Settembre
-- ricreazione
-- spirito
-- tv
-- vergogna
+  - ricreazione
+  - spirito
+  - tv
+  - vergogna
+  - 11-settembre
 title: 11 settembre, matrix e la massima illusione.
 slug: /2006/06/11-settembre-matrix-e-la-massima-illusione/
 updated: 2022-03-22

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Perché studiare Intelligenza Artificiale nei Videogiochi?
 date: 2020-05-02
 updated: 2023-08-28
 type: blog
@@ -9,7 +9,6 @@ tags:
   - videogames
   - gamedev
 description: 
-permalink:
 ---
 # Perché studiare Intelligenza Artificiale nei Videogiochi?
 

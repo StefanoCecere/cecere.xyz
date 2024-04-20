@@ -1,38 +1,23 @@
 [build]
-  command = "hugo --gc --minify -b $URL"
+  command = "hugo --gc --minify -b $URL && npx pagefind --source 'public'"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.111.3"
-  HUGO_ENABLEGITINFO = "false"
+  HUGO_VERSION = "0.125.1"
+  GO_VERSION = "1.21.5"
+  NODE_VERSION = "21.1.0"
+  HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL && npx pagefind --source 'public'"
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL && npx pagefind --source 'public'"
 
-[[headers]]
-  for = "*.webmanifest"
-  [headers.values]
-    Content-Type = "application/manifest+json; charset=UTF-8"
-
-[[headers]]
-  for = "index.xml"
-  [headers.values]
-    Content-Type = "application/rss+xml"
-
-[[redirects]]
-  from = "https://stefanocecere.com/blog/*"
-  to = "https://cecere.xyz/post/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://stefanocecere.com/*"
-  to = "https://cecere.xyz/:splat"
-  status = 301
-  force = true
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"
+  [plugins.inputs]
+    debug = true

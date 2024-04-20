@@ -3,12 +3,12 @@ title: Mi presento
 linktitle: Mi presento
 slug: whoami
 summary: Qualche informazione su di me... servono anche a me per ricordarmi chi sono
-date: 2018-02-25T00:00:00Z
-lastmod: 2018-02-25T00:00:00Z
-type: book
+date: 2024-02-25
+lastmod: 2018-02-25
 weight: 1
 categories: [stefano]
 tags: ["42"]
+draft: true
 ---
 {{< figure src="stefano/stefano-cecere.jpg" alt="Stefano Cecere" width="200" class="figure">}}
 

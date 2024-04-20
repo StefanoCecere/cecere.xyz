@@ -24,4 +24,5 @@ Una scuola virtuale, un’ambiente ricreativo e una comunità che ruotano intorn
 creando relazioni intergenerazionali, nuove forme di espressione, di sviluppo reciproco e di intelligenza emotiva.
 
 l’attuale presentazione del progetto è in questo PDf: 
-{{% staticref "jamurr/JAMURR_presentazione_ITA.pdf" "newtab" %}}Presentazione PDF{{% /staticref %}}  oppure su [Slideshare](https://www.slideshare.net/StefanoCecere/jamurr-presentazione-2016)
+"jamurr/JAMURR_presentazione_ITA.pdf" "newtab" Presentazione PDF
+ oppure su [Slideshare](https://www.slideshare.net/StefanoCecere/jamurr-presentazione-2016)

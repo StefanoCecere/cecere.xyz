@@ -40,4 +40,4 @@ draft: false
 ## Regalo
 e così vi condivido questa magnifica tabella che fu uno dei regali di Natale di qualche anno fa... STAMPATELA in A4 o ancora meglio A3 a colori e fate un regalo infinito ai vostri figli!
 
-{{% staticref "assets/pdf/tavola_elementi_fumetti.pdf" "newtab" %}}Ecco il PDF{{% /staticref %}}
+"assets/pdf/tavola_elementi_fumetti.pdf" "newtab" Ecco il PDF

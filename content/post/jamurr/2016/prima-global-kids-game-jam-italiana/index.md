@@ -3,7 +3,7 @@ title: Prima Global Kids Game Jam italiana
 subtitle: 
 summary: 
 projects: [jamurr/non-sono-solo-una-pecora]
-date: 2016-01-15T00:00:00Z
+date: 2016-01-15
 draft: false
 featured: false
 categories: jamurr

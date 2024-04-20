@@ -5,7 +5,6 @@ summary: ogni tanto viene richiesto un CV...
 slug: cv
 date: 2018-02-25T00:00:00Z
 lastmod: 2018-09-09T00:00:00
-type: book
 weight: 80
 categories: [stefano]
 tags: ["CV"]

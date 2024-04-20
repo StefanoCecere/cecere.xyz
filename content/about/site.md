@@ -5,7 +5,6 @@ summary: informazioni tecniche e filosofiche su questo sito
 slug: site
 date: 2021-01-25T00:00:00Z
 lastmod: 2021-01-25T00:00:00Z
-type: book
 weight: 1000
 tags: [webdev, markdown, opensource, future]
 ---
