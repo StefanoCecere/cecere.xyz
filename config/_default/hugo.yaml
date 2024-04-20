@@ -13,7 +13,6 @@ baseurl: 'https://cecere.xyz/' # Website URL
 cascade:
   - _target:
       path: /about/**
-    type: docs
     sidebar:
       open: true
     editable: false

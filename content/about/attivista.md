@@ -3,8 +3,8 @@ title: Attivista
 linktitle: Attivista
 summary: Cose che uno fa perché sente che deve farle e che devono essere fatte
 slug: attivista
-date: 2018-02-25T00:00:00Z
-lastmod: 2018-09-09T00:00:00
+date: 2018-02-25
+lastmod: 2018-09-09
 weight: 50
 categories: [stefano]
 tags: [umanista,MovimentoUmanista, M5S, politica]

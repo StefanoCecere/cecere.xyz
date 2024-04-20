@@ -3,12 +3,11 @@ title: Libreria
 summary: siamo anche i libri che abbiamo letto
 slug: libreria
 toc: true
-authors: []
 tags:
     - books
 categories:
     - stefano
-date: 2018-06-27T22:00:00.000Z
+date: 2018-06-27
 featured: false
 draft: false
 weight: 60

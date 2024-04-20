@@ -1,16 +1,15 @@
 ---
 title: Mi presento
-linktitle: Mi presento
-slug: whoami
 summary: Qualche informazione su di me... servono anche a me per ricordarmi chi sono
 date: 2024-02-25
 lastmod: 2018-02-25
 weight: 1
 categories: [stefano]
 tags: ["42"]
-draft: true
+draft: false
 ---
-{{< figure src="stefano/stefano-cecere.jpg" alt="Stefano Cecere" width="200" class="figure">}}
+
+![](../../assets/img/stefano/StefanoCecere_photo_500.jpg)
 
 Mi chiamo Stefano Cecere e Ricerco e Sviluppo nell'intersezione tra il **Game design**, l'**EdTech**, l'**Intelligenza Artificiale** e la **XR** applicate allo sviluppo personale e sociale, open source, innovativo.
 In questo periodo mi interesso di:
