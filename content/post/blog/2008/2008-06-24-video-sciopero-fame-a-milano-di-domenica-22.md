@@ -1,6 +1,6 @@
 ---
 title: Video Sciopero Fame a Milano di domenica 22
-date: 2023-10-20
+date: 2008-06-24
 updated: 2023-10-21
 type: 
 categories: [blog]

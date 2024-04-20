@@ -1,6 +1,6 @@
 ---
 title: 16 giorni per costruire un castello di sabbia… poi arrivano i giornalisti…
-date: 2023-04-02
+date: 2008-09-27
 updated: 2023-08-18
 type: 
 categories: [blog]

@@ -1,6 +1,6 @@
 ---
 title: Simbolo della pace umano a Budapest
-date: 2023-10-20
+date: 2006-03-31
 updated: 2023-10-21
 type: 
 categories: [blog]

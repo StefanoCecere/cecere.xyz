@@ -1,6 +1,6 @@
 ---
 title: "Grattinologia"
-date: 2023-04-02
+date: 2022-01-01
 updated: 2023-08-21
 type: 
 categories: [blog]

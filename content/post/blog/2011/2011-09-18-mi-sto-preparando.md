@@ -1,6 +1,6 @@
 ---
 title: mi sto preparando
-date: 2023-10-20
+date: 2011-09-18
 updated: 2023-10-21
 type: 
 categories: [blog]

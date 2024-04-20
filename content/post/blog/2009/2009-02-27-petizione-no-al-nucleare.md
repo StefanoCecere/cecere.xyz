@@ -1,6 +1,6 @@
 ---
 title: Petizione NO al Nucleare
-date: 2023-10-20
+date: 2009-02-27
 updated: 2023-10-25
 type: 
 categories: [blog]

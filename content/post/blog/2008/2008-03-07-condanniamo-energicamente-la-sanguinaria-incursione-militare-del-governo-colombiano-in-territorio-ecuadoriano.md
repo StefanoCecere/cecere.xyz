@@ -1,6 +1,6 @@
 ---
 title: Condanniamo energicamente la sanguinaria incursione militare del Governo Colombiano
-date: 2023-10-20
+date: 2008-03-07
 updated: 2023-10-21
 type: 
 categories:

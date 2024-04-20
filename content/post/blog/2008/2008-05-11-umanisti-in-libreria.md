@@ -1,6 +1,6 @@
 ---
 title: Umanisti in libreria
-date: 2023-10-20
+date: 2008-05-11
 updated: 2023-10-21
 type: 
 categories: [blog]

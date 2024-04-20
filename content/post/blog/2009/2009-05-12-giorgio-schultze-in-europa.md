@@ -1,6 +1,6 @@
 ---
 title: 700 di europarlamentari così!!
-date: 2023-10-20
+date: 2009-05-12
 updated: 2023-10-25
 type: 
 categories: 

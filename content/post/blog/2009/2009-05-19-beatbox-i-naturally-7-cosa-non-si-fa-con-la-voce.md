@@ -1,6 +1,6 @@
 ---
 title: 'Beatbox: i Naturally 7 (cosa non si fa con la voce! :)'
-date: 2023-10-20
+date: 2009-05-19
 updated: 2023-10-25
 type: 
 categories: [blog]

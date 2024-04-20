@@ -1,6 +1,6 @@
 ---
 title: una mano con tre d
-date: 2023-10-20
+date: 2011-10-01
 updated: 2023-10-21
 type: 
 categories: [blog]

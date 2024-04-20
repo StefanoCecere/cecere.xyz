@@ -1,6 +1,6 @@
 ---
 title: "E' online l'Enciclopedia Umanista"
-date: 2023-08-30
+date: 2008-09-23
 updated: 2023-08-31
 type: 
 categories: [blog]

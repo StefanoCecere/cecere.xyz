@@ -1,6 +1,6 @@
 ---
 title: Trailer del nuovo film di Michael Moore
-date: 2023-10-20
+date: 2009-06-14
 updated: 2023-10-21
 type: 
 categories: [blog]

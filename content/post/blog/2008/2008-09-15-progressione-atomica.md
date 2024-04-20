@@ -1,6 +1,6 @@
 ---
 title: Progressione atomica
-date: 2023-10-20
+date: 2008-09-15
 updated: 2023-10-25
 type: 
 categories: [blog]

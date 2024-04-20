@@ -1,6 +1,6 @@
 ---
-title: L'arte dell'apparenza
-date: 2023-10-20
+title: "L'arte dell'apparenza"
+date: 2011-09-28
 updated: 2023-10-21
 type: 
 categories: [blog]

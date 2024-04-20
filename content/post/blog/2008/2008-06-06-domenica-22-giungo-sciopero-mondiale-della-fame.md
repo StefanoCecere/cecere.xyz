@@ -1,6 +1,6 @@
 ---
 title: 'domenica 22 giungo: sciopero mondiale della fame'
-date: 2023-10-20
+date: 2008-06-06
 updated: 2023-10-21
 type: 
 categories: [blog]

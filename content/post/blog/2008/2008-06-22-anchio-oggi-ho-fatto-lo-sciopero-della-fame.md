@@ -1,6 +1,6 @@
 ---
-title: Anch'io oggi ho fatto lo sciopero della fame…
-date: 2023-10-20
+title: "Anch'io oggi ho fatto lo sciopero della fame…"
+date: 2008-06-22
 updated: 2023-10-21
 type: 
 categories: [blog]

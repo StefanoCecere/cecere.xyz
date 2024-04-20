@@ -1,6 +1,6 @@
 ---
 title: 100 idee per cambiare il mondo!
-date: 2023-04-02
+date: 2008-09-25
 updated: 2023-08-13
 type: 
 categories:

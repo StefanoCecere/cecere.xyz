@@ -1,6 +1,6 @@
 ---
 title: Scena finale del film Capitalism a Love Story
-date: 2023-10-20
+date: 2012-01-31
 updated: 2023-10-21
 type: 
 categories:

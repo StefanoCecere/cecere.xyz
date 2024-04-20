@@ -1,6 +1,6 @@
 ---
 title: Forum dedicato all'Esperienza spirituale nell’espressione artistica
-date: 2023-10-20
+date: 2011-10-23
 updated: 2023-10-25
 type: 
 categories:

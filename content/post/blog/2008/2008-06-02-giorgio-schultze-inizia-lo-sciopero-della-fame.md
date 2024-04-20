@@ -1,6 +1,6 @@
 ---
 title: Giorgio Schultze inizia lo sciopero della fame
-date: 2023-10-20
+date: 2008-06-02
 updated: 2023-10-21
 type: 
 categories:

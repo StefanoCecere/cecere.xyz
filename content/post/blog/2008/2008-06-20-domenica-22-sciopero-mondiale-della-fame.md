@@ -1,6 +1,6 @@
 ---
 title: Domenica 22 Sciopero mondiale della Fame
-date: 2023-10-20
+date: 2008-06-20
 updated: 2023-10-21
 type: 
 categories:

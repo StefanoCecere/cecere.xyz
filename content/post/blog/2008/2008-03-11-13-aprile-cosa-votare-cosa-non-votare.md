@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-03-11T09:34:25Z
+date: 2008-03-11
 guid: http://cecere.xyz/2008/03/11/13-aprile-cosa-votare-cosa-non-votare/
 id: 730
 tags:

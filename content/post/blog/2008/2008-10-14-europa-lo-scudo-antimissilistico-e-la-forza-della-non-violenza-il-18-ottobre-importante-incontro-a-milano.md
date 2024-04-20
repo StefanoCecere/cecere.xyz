@@ -1,6 +1,6 @@
 ---
 title: "EUROPA: LO SCUDO ANTIMISSILISTICO E LA FORZA DELLA NON VIOLENZA. IL 18 OTTOBRE"
-date: 2023-04-02
+date: 2008-10-14
 updated: 2023-10-21
 type: 
 categories: [blog]

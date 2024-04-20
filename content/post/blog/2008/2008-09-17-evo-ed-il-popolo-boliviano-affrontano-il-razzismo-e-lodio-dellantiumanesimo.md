@@ -1,6 +1,6 @@
 ---
-title: Evo ed il popolo boliviano affrontano il razzismo e l'odio dell'antiumanesimo.
-date: 2023-10-20
+title: "Evo ed il popolo boliviano affrontano il razzismo e l'odio dell'antiumanesimo."
+date: 2008-09-17
 updated: 2023-10-21
 type: 
 categories: [blog]
