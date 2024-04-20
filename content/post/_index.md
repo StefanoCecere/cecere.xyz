@@ -1,4 +1,4 @@
 ---
 title: Blog
-view: date-title-summary
+view: article-grid
 ---

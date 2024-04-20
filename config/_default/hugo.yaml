@@ -76,7 +76,7 @@ build:
   writeStats: false
 enableGitInfo: false
 summaryLength: 30
-paginate: 10000
+paginate: 100
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>

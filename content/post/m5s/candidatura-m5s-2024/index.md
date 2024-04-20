@@ -64,7 +64,7 @@ Assolutamente si, e il M5S è in questa linea. E se avesse dubbi lavorerei perch
 
 > Sei favorevole a sanzioni e blocchi di invii/commerci di armi con Israele almeno fino alla fine della rappresaglia in atto in Palestina?
 
-Assolutamente. Sebbene la questione sia complessa e storica, non cadiamo nella retorica di chi iniziò per primo, ma vediamo la realtà attuale: violenza genera violenza. Ogni bambino ucciso genera 2 nuovi terroristi. Il governo israeliano si sta muovendo fuori da ogni logica e buon senso, se non risoluzioni internazionali e ha quasi la maggioranza della popolazione israeliana contro.
+Assolutamente. Sebbene la questione sia complessa e storica, non cadiamo nella retorica di chi iniziò per primo, ma vediamo la realtà attuale: violenza genera violenza. Ogni bambino ucciso genera 2 nuovi terroristi. Il governo israeliano si sta muovendo fuori da ogni logica, buon senso e  risoluzioni internazionali .
 
 ### Armi in Ucraina
 > Sei a favore dell'immediato blocco di invio di armi verso l'Ucraina ed alla promozione da parte dell'Ue di una vera conferenza di pace, con la presenza di entrambe le parti in guerra, per mettere fine al conflitto con un accordo?
