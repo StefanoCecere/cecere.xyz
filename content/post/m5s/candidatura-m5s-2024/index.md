@@ -11,6 +11,7 @@ tags:
 date: 2024-04-15
 featured: true
 draft: false
+toc: true
 ---
 
 Lunedì 22 aprile si svolgeranno le primarie del Movimento 5 Stelle per selezionare i candidati per le elezioni europee del 2024.  
@@ -51,6 +52,7 @@ e infine cercare sempre di trovare la violenza dentro di se (perché ce l'abbiam
 
 ### Reddito di base universale
 > se verrai eletto, cosa (e se) hai intenzione di fare per promuovere il reddito di base universale? Come riuscire, secondo te, se lo reputi una soluzione valida, a metterlo in pratica al più presto in Italia visto le sempre maggiori diseguaglianze sociali che aumentano incontrollate e la totale carenza di possibilità di lavoro dignitoso
+
 Come Movimento Umanista parlavamo già di UBI (Universal Basic Income) già dagli anni '90, capendo dove andava il mondo (evoluzione tecnologica e concentrazione di potere). Ma sono state l'Industria 4.0 (automazione e robotica) e la crisi mondiale del 2008 e mettere in agenda seriamente la cosa, promossa paradossalmente dai grandi capi d'azienda tecnologiche. Le A.I. contemporanee stanno dando il colpo di grazie e rendendo la faccenda davvero urgente.
 **DA FARE**: innanzitutto comunicazione a tutti i livelli facendo capire la gravità della situazione e l'accelerazione degli eventi. Tessere grandi relazioni con tutti gli stakeholders europeei (politici, media, personalità, industria) sensibili. Dare massima visibilità ai tanti esperimenti dove si sta attuando. 
 Ma tutto questo necessita una operazione sistemica con lo spostamento delle risorse dalla speculazione finanziaria e industriale non necessaria (vedi apparato militare - industriale), e una promozione del welfare statale e di una nuova filosofia di vita. Rendere di moda uno stili di vita sobrio senza inseguire gli impossibili e distruttivi modelli di vita delle grandi star e delle super potenze dominatrici.
@@ -63,7 +65,6 @@ Assolutamente si, e il M5S è in questa linea. E se avesse dubbi lavorerei perch
 > Sei favorevole a sanzioni e blocchi di invii/commerci di armi con Israele almeno fino alla fine della rappresaglia in atto in Palestina?
 
 Assolutamente. Sebbene la questione sia complessa e storica, non cadiamo nella retorica di chi iniziò per primo, ma vediamo la realtà attuale: violenza genera violenza. Ogni bambino ucciso genera 2 nuovi terroristi. Il governo israeliano si sta muovendo fuori da ogni logica e buon senso, se non risoluzioni internazionali e ha quasi la maggioranza della popolazione israeliana contro.
-
 
 ### Armi in Ucraina
 > Sei a favore dell'immediato blocco di invio di armi verso l'Ucraina ed alla promozione da parte dell'Ue di una vera conferenza di pace, con la presenza di entrambe le parti in guerra, per mettere fine al conflitto con un accordo?
