@@ -27,6 +27,7 @@ Prima di leggere qui sotto, ricordo di potermi chiedere quasiasi cosa
 Ne avevo scritto [qui](https://cecere.xyz/post/coraggio-virus-del-potere/)
 
 ### Di chi ti fidi?
+
 - Di chi si impegna per l'insieme anche quando non c'è un ritorno personale diretto.  
 - Di chi fa le foto delle attività per documentare e condividere, pur sapendo che non comparirà mai nelle foto (io, sempre, ad esempio).  
 - Di chi ascolta tutti e poi fa una bella sintesi.  
@@ -48,13 +49,42 @@ Cosa ho fatto per la Pace? sono cresciuto politicamente con gli amici che andava
 Praticamente si tratta di sensibilizzare, mobilitare, non votare i politici sostenuti dall'apparato industriale miliatare, banca etica, economia solidale, cultura della nonviolenza.. studio...  
 e infine cercare sempre di trovare la violenza dentro di se (perché ce l'abbiamo tutti) e capire da dove arriva e cercare di risolverla.
 
+### Reddito di base universale
+> se verrai eletto, cosa (e se) hai intenzione di fare per promuovere il reddito di base universale? Come riuscire, secondo te, se lo reputi una soluzione valida, a metterlo in pratica al più presto in Italia visto le sempre maggiori diseguaglianze sociali che aumentano incontrollate e la totale carenza di possibilità di lavoro dignitoso
+Come Movimento Umanista parlavamo già di UBI (Universal Basic Income) già dagli anni '90, capendo dove andava il mondo (evoluzione tecnologica e concentrazione di potere). Ma sono state l'Industria 4.0 (automazione e robotica) e la crisi mondiale del 2008 e mettere in agenda seriamente la cosa, promossa paradossalmente dai grandi capi d'azienda tecnologiche. Le A.I. contemporanee stanno dando il colpo di grazie e rendendo la faccenda davvero urgente.
+**DA FARE**: innanzitutto comunicazione a tutti i livelli facendo capire la gravità della situazione e l'accelerazione degli eventi. Tessere grandi relazioni con tutti gli stakeholders europeei (politici, media, personalità, industria) sensibili. Dare massima visibilità ai tanti esperimenti dove si sta attuando. 
+Ma tutto questo necessita una operazione sistemica con lo spostamento delle risorse dalla speculazione finanziaria e industriale non necessaria (vedi apparato militare - industriale), e una promozione del welfare statale e di una nuova filosofia di vita. Rendere di moda uno stili di vita sobrio senza inseguire gli impossibili e distruttivi modelli di vita delle grandi star e delle super potenze dominatrici.
+
+### Israele / Palestina
+> Tutti parlano di soluzione a due stati per il conflitto in terra santa, ma solo pochissimi stati della UE riconoscono ufficialmente lo stato Palestinese. Te voteresti una risoluzione che impone a tutti gli stati UE di riconoscere ufficialmente la Palestina?
+
+Assolutamente si, e il M5S è in questa linea. E se avesse dubbi lavorerei perché si convinca che sia una priorità. Spagna e Irlanda si stanno muovendo. Città del Vaticano da tempo. 
+
+> Sei favorevole a sanzioni e blocchi di invii/commerci di armi con Israele almeno fino alla fine della rappresaglia in atto in Palestina?
+
+Assolutamente. Sebbene la questione sia complessa e storica, non cadiamo nella retorica di chi iniziò per primo, ma vediamo la realtà attuale: violenza genera violenza. Ogni bambino ucciso genera 2 nuovi terroristi. Il governo israeliano si sta muovendo fuori da ogni logica e buon senso, se non risoluzioni internazionali e ha quasi la maggioranza della popolazione israeliana contro.
+
+
+### Armi in Ucraina
+> Sei a favore dell'immediato blocco di invio di armi verso l'Ucraina ed alla promozione da parte dell'Ue di una vera conferenza di pace, con la presenza di entrambe le parti in guerra, per mettere fine al conflitto con un accordo?
+
+Assolumente. Sopratutto ora che è ufficiale che USA/GB e EU boicottarono e fecero fallire i negoziati di pace che Russia e Ucraina stavano stabilendo già un mese dopo l'attacco di febbraio 2022.
+
+### Privatizzazioni / Liberalizzazioni
+> Le privatizzazioni/Liberalizzazioni che sono alla base delle politiche UE, ma si stanno rivelando sempre più un fallimento, soprattutto per il peggioramento del livello di qualità della vita dei cittadini e dei lavoratori coinvolti nei processi di privatizzazioni. Cosa faresti riguardo le ventilate ipotesi di privatizzazioni  di ulteriori quote statali di Aziende cardine del ns sistema economico  ( Poste, Enel ecc)  solo per fare cassa? E cosa proponi per invertire la rotta sulle privatizzazioni?
+
+Chi è attivo e attento alla politica internazionale e italiana ha visto le privatizzazioni iniziare con l'ingresso nell'euro.. già dal Panfilo del 1992 (Draghi era lì a firmare) e con l'avvallo e promozione sopratutto del fu PdS / centro sinistra, si attuarono privatizzazioni di apparati statali e di servizi che dovevano rimanere pubblici. L'Italia è sempre stata la gallina dalle uova d'oro in quanto tra le detentrici del più alto risparmio privato mondiale. Oggi che non possediamo più neanche una rete telefonica ci rendiamo conto perché siamo il fanalino di coda.. facendo fatica anche solo a cablare in alta velocità il territorio.
+Sono per la libera impresa e la buona concorrenza, ma il servizi di base devono rimanere in mano pubblica, senza politiche di "travaso" promosse anche da un semi-intenzionale lasciar degradare il pubblico.
+Ora che le piccole entità nazionali hanno sempre meno potere, di fronte ai colossi USA, GB e BRICS, e di fronte alle nuove Tech Companies che sono più potenti di interi stati, **è oltemodo necessaria una collaborazione a livello continentale**.
+
 ## Perché mi candido?
 
-- Lo scoramento degli esseri umani valenti e solidali ritarda il cammino della storia
-- Ho le competenze, le capacità e l’esperienza che servono.
-- Sono attivista da più di 30 anni per il cambiamento sociale con la priorità della partecipazione dell'insieme e l'educazione
-- Ritengo il M5S è il miglior attuale progetto politico e l’unico che si avvicina a noi del 99%
-- L’ambito europeo è per me congeniale, vuoi per la mia esperienza internazionale vuoi per portare avanti i grandi temi che ormai sono globali.
+- Ho le competenze, le capacità e l’esperienza che servono: dalla creazione di comunità alla comunicazione, dalla conoscenza tecnica dell'intelligenza artificiale a come promuovere il dialogo e la nonviolenza, dalla velocità di apprendimento al ragionamento sistemico.
+- Ho passione per le relazioni e il dialogo costruttivo. So riconoscere le persone in gamba e quelle subdole.
+- Sono attivista dal 1996 (avevo 23 anni) per il cambiamento sociale con priorità la partecipazione dell'insieme e l'educazione
+- Sono iscritto al M5S dal 2009 e con tutte le sue evoluzioni è ancora miglior attuale progetto politico, rivoluzionario, dal grande potenziale, ma ha bisogno di persone esperte di attivismo per renderlo più dinamico e pro-attivo.
+- L'ambito europeo è congeniale per la mia esperienza internazionale e per portare avanti i grandi temi critici che ormai sono globali (A.I., clima, multipolarismo)
+- Perché lo scoramento degli esseri umani valenti e solidali ritarda il cammino della storia
   
 ## Temi chiave su cui sono molto esperto
 
