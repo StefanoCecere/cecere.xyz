@@ -23,6 +23,16 @@ Prima di leggere qui sotto, ricordo di potermi chiedere quasiasi cosa
 - sul mio [canale Telegram](https://t.me/cecere2042)
 - su [questo post di Facebook](https://www.facebook.com/cecere2042/posts/pfbid0nNKjfEvKJED8RxM41ECCbQm2NmKzezk218hZcWRkiTbxLS4cHvf8zsEeL5Gn4br3l)
 
+### Sei immune al fascino del potere? Non è che poi ci tradisci?
+Ne avevo scritto [qui](https://cecere.xyz/post/coraggio-virus-del-potere/)
+
+### Di chi ti fidi?
+- Di chi si impegna per l'insieme anche quando non c'è un ritorno personale diretto.  
+- Di chi fa le foto delle attività per documentare e condividere, pur sapendo che non comparirà mai nelle foto (io, sempre, ad esempio).  
+- Di chi ascolta tutti e poi fa una bella sintesi.  
+- Di chi ha dimostrato nei fatti, non solo in parole o in un curriculum, di impegnarsi per la società che sogna.  
+- Di chi lavora su se stesso per migliorarsi e studia tutti i giorni.
+
 ### Cosa hai fatto per il Movimento?
 
 - Sono quello che prima delle manifestazioni crea e stampa i volantini o procura le bandiere.
