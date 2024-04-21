@@ -17,12 +17,61 @@ toc: true
 Lunedì 22 aprile si svolgeranno le primarie del Movimento 5 Stelle per selezionare i candidati per le elezioni europee del 2024.  
 Chiedo a tutti gli iscritti del M5S della **circoscrizione Centro Italia (Lazio, Marche, Toscana e Umbria)** di valutare la mia auto candidatura.
 
+## Perché mi candido?
+
+- Studio di tutto tutti i giorni e da eletto potrei davvero migliorare il Movimento.
+- Ho le competenze, l’esperienza e la motivazione che servono per portare avanti le idee fondanti del M5S: dalla creazione di **comunità** alla **comunicazione**, dalla conoscenza tecnica dell'intelligenza artificiale a come promuovere il dialogo e le soluzioni win-win, dalla **velocità di apprendimento** al **ragionamento sistemico**.
+- Ho passione per le relazioni e il dialogo costruttivo. So riconoscere le persone in gamba e quelle subdole.
+- Sono **attivista dal 1996** (avevo 23 anni) per il cambiamento sociale con priorità la nonviolenza attiva, la partecipazione dell'insieme e l'auto-educazione
+- Sono **iscritto al M5S dal 2009** e con tutte le sue evoluzioni è ancora miglior attuale progetto politico, rivoluzionario, dal grande potenziale, ma **ha bisogno di persone esperte di attivismo** per renderlo più dinamico e pro-attivo.
+- L'ambito europeo è congeniale per la mia esperienza internazionale e per portare avanti i **grandi temi critici** che ormai sono **globali** (A.I., clima, multipolarismo)
+- _Perché lo scoramento degli esseri umani valenti e solidali ritarda il cammino della storia_
+  
+## Temi chiave su cui sono molto esperto
+
+- Intelligenza Artificiale e Innovazione Tecnologica
+- Pace e Nonviolenza Attiva
+- Nuovo Umanesimo
+- Educazione 2050 e Life Long Learning
+- Coinvolgimento e Comunità
+
+## Cosa ho fatto ultimamente per il M5S
+
+- creato il sito [2050x.org](https://2050x.org) con centinaia di materiali e guide per gli attivisti
+- promosso e creato tutti i canali Telegram "ufficiali" per i coordinatori provinciali
+- promosso e creato la newsletter del M5S: [https://m5sinforma.substack.com](https://m5sinforma.substack.com/)
+- curo quotidianamente il canale Telegram di rassegna stampa e l'ecosistema: [https://linktr.ee/m5sinforma](https://linktr.ee/m5sinforma)
+- creato il [server Discord](https://discord.gg/9YWqd5y9KG) per il Movimento toscano
+- promosso dozzine di iniziative e flash mob per la pace
+- creato materiali informativi per tutte le attività e riunioni
+- collaborato all'organizzazione delle riunioni provinciali
+- creato mailing list e canali per agevolare la formazione del GT
+- iniziato a fare censimento e contatti ufficiali di tutte le realtà M5S toscane da dare in mano ai coordinatori provinciali (vedi [https://2050x.org/m5s/territori/](https://2050x.org/m5s/territori/))
+- ho parlato a diversi livelli su come migliorare la comunicazione, l'organizzazione delle comunità e favorire la formazione di base degli attivisti
+
+## Riferimenti
+_Potete andare direttamente a questi link dove non ho nascosto nulla di quello che faccio e penso:_
+
+- Profilo M5S: <https://portale.movimento5stelle.eu/partners/stefano-cecere-185163>
+- Progetto 2050x / M5S InForma: <https://2050x.org/>
+- Newsletter 2042 su tecnologia, educazione e futuro: <https://2042.substack.com/>
+- Portale 2042ed: <https://2042ed.org/>
+- Profilo Facebook: <https://www.facebook.com/StefanoCecere/>
+- Pagina Facebook: <https://www.facebook.com/cecere2042>
+- LinkedIn: <https://www.linkedin.com/in/stefanocecere/>
+
 ## CHIEDIMI QUALSIASI COSA
-Prima di leggere qui sotto, ricordo di potermi chiedere quasiasi cosa 
+Prima di leggere qui sotto, ricordo di potermi chiedere quasiasi cosa. 
 
 - per email [stefano.cecere@gmail.com](mailto:stefano.cecere@gmail.com)
 - sul mio [canale Telegram](https://t.me/cecere2042)
 - su [questo post di Facebook](https://www.facebook.com/cecere2042/posts/pfbid0nNKjfEvKJED8RxM41ECCbQm2NmKzezk218hZcWRkiTbxLS4cHvf8zsEeL5Gn4br3l)
+
+### Perchè dici che solo da eletto potresti migliorare il Movimento?
+Sono sempre stato un attivista "semplice" e tutte le mie idee e attività, seppure apprezzate, non sono mai entrate in modo sistematico nel Movimento.
+Ad esempio l'organizzazione di una piattaforma di forum condivia dai Gruppi Territoriali, o dei protocolli per essere più efficaci in chat e nell'organizzazione delle attività, il flusso dell'informazione da tutti verso tutti.
+
+Per come siamo organizzati ora, in questa fase di passaggio da Movimento a Partito, si sente la mancanza di organizzazione. Non biasimo nessuno... sono tutti molto impegnati nelle varie attività politiche. Ma avendo io passione ed esperienza in questi temi, da eletto sono sicuro che avrò più potere di persuasione.
 
 ### Sei immune al fascino del potere? Non è che poi ci tradisci?
 Anche io sono preoccupato di chi usa il Movimento, abbiamo avuto esempi di spicco, anche chi diceva di volersi tatuare il logo dei 5S per poi andarsene, quindi cosa posso portare per essere credibile?
@@ -84,47 +133,7 @@ Chi è attivo e attento alla politica internazionale e italiana ha visto le priv
 Sono per la libera impresa e la buona concorrenza, ma il servizi di base devono rimanere in mano pubblica, senza politiche di "travaso" promosse anche da un semi-intenzionale lasciar degradare il pubblico.
 Ora che le piccole entità nazionali hanno sempre meno potere, di fronte ai colossi USA, GB e BRICS, e di fronte alle nuove Tech Companies che sono più potenti di interi stati, **è oltemodo necessaria una collaborazione a livello continentale**.
 
-## Perché mi candido?
 
-- Ho le competenze, le capacità e l’esperienza che servono: dalla creazione di comunità alla comunicazione, dalla conoscenza tecnica dell'intelligenza artificiale a come promuovere il dialogo e la nonviolenza, dalla velocità di apprendimento al ragionamento sistemico.
-- Ho passione per le relazioni e il dialogo costruttivo. So riconoscere le persone in gamba e quelle subdole.
-- Sono attivista dal 1996 (avevo 23 anni) per il cambiamento sociale con priorità la partecipazione dell'insieme e l'educazione
-- Sono iscritto al M5S dal 2009 e con tutte le sue evoluzioni è ancora miglior attuale progetto politico, rivoluzionario, dal grande potenziale, ma ha bisogno di persone esperte di attivismo per renderlo più dinamico e pro-attivo.
-- L'ambito europeo è congeniale per la mia esperienza internazionale e per portare avanti i grandi temi critici che ormai sono globali (A.I., clima, multipolarismo)
-- Perché lo scoramento degli esseri umani valenti e solidali ritarda il cammino della storia
-  
-## Temi chiave su cui sono molto esperto
-
-- Intelligenza Artificiale e Innovazione Tecnologica
-- Pace e Nonviolenza Attiva
-- Nuovo Umanesimo
-- Educazione 2050 e Life Long Learning
-- Coinvolgimento e Comunità
-
-## Cosa ho fatto ultimamente per il M5S
-
-- creato il sito [2050x.org](https://2050x.org) con centinaia di materiali e guide per gli attivisti
-- promosso e creato tutti i canali Telegram "ufficiali" per i coordinatori provinciali
-- promosso e creato la newsletter del M5S: [https://m5sinforma.substack.com](https://m5sinforma.substack.com/)
-- curo quotidianamente il canale Telegram di rassegna stampa e l'ecosistema: [https://linktr.ee/m5sinforma](https://linktr.ee/m5sinforma)
-- creato il [server Discord](https://discord.gg/9YWqd5y9KG) per il Movimento toscano
-- promosso dozzine di iniziative e flash mob per la pace
-- creato materiali informativi per tutte le attività e riunioni
-- collaborato all'organizzazione delle riunioni provinciali
-- creato mailing list e canali per agevolare la formazione del GT
-- iniziato a fare censimento e contatti ufficiali di tutte le realtà M5S toscane da dare in mano ai coordinatori provinciali (vedi [https://2050x.org/m5s/territori/](https://2050x.org/m5s/territori/))
-- ho parlato a diversi livelli su come migliorare la comunicazione, l'organizzazione delle comunità e favorire la formazione di base degli attivisti
-
-## Riferimenti
-_Potete andare direttamente a questi link dove non ho nascosto nulla di quello che faccio e penso:_
-
-- Profilo M5S: <https://portale.movimento5stelle.eu/partners/stefano-cecere-185163>
-- Progetto 2050x / M5S InForma: <https://2050x.org/>
-- Newsletter 2042 su tecnologia, educazione e futuro: <https://2042.substack.com/>
-- Portale 2042ed: <https://2042ed.org/>
-- Profilo Facebook: <https://www.facebook.com/StefanoCecere/>
-- Pagina Facebook: <https://www.facebook.com/cecere2042>
-- LinkedIn: <https://www.linkedin.com/in/stefanocecere/>
 
 ## Tema: Intelligenza Artificiale
 Mi occupo di A.I. dal 2002 e sviluppando videogiochi l'ho approfondita, messa in pratica a insegnata negli ultimi 15 anni.
