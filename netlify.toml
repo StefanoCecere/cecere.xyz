@@ -21,3 +21,20 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[headers]]
+  for = "index.xml"
+  [headers.values]
+    Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "https://stefanocecere.com/blog/*"
+  to = "https://cecere.xyz/post/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://stefanocecere.com/*"
+  to = "https://cecere.xyz/:splat"
+  status = 301
+  force = true
