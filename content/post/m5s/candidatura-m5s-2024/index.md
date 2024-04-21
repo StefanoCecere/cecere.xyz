@@ -158,6 +158,10 @@ Ho iniziato a studiare la nonviolenza attiva nel 1997 e già nel 2003 ero alla g
 
 Nel 2007 eravamo a manifestare e organizzare attività in tutta Europa contro lo scudo stellare che gli USA stavano costruendo in Repubblica Ceca... già si annusava l'aria che tirava.
 
+Dal 2008 al 2010 sono stato particolarmente impegnato con la prima Marcia Mondiale per la Pace e la Nonviolenza. (di questo spot feci anche la musica!)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TyzhJUJfNF0?si=C5Zfb4jYTkIqhT5R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Puoi leggere tutto quello che ho fatto, qui: <https://cecere.xyz/about/attivista/>
 
 ## Tema: Nuovo Umanesimo
