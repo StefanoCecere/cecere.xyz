@@ -1,6 +1,6 @@
 ---
 title: Sentimenti virtuali cosa cambia?
-date: 2024-04-17
+date: 2024-04-14
 updated: 2024-04-19
 type: 
 categories: TIL

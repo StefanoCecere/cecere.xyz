@@ -19,8 +19,8 @@ Chiedo a tutti gli iscritti del M5S della **circoscrizione Centro Italia (Lazio,
 
 ## Perché mi candido?
 
-- Studio di tutto tutti i giorni e da eletto potrei davvero migliorare il Movimento.
-- Ho le competenze, l’esperienza e la motivazione che servono per portare avanti le idee fondanti del M5S: dalla creazione di **comunità** alla **comunicazione**, dalla conoscenza tecnica dell'intelligenza artificiale a come promuovere il dialogo e le soluzioni win-win, dalla **velocità di apprendimento** al **ragionamento sistemico**.
+- Sviluppo videogiochi educativi, amo stare con la gente, studio tutti i giorni e da eletto potrei davvero migliorare il Movimento.
+- - Ho le competenze, l’esperienza e la motivazione che servono per portare avanti le idee fondanti del M5S: dalla creazione di **comunità** alla **comunicazione**, dalla conoscenza tecnica dell'intelligenza artificiale a come promuovere il dialogo e le soluzioni win-win, dalla **velocità di apprendimento** al **ragionamento sistemico**.
 - Ho passione per le relazioni e il dialogo costruttivo. So riconoscere le persone in gamba e quelle subdole.
 - Sono **attivista dal 1996** (avevo 23 anni) per il cambiamento sociale con priorità la nonviolenza attiva, la partecipazione dell'insieme e l'auto-educazione
 - Sono **iscritto al M5S dal 2009** e con tutte le sue evoluzioni è ancora miglior attuale progetto politico, rivoluzionario, dal grande potenziale, ma **ha bisogno di persone esperte di attivismo** per renderlo più dinamico e pro-attivo.
