@@ -26,7 +26,7 @@ main:
   - name: "2050x↗"
     url: 'https://2050x.org/'
     weight: 95
-  - name: Newsletter
+  - name: "Newsletter↗"
     url: 'https://2042.substack.com'
     weight: 100
   - name: About

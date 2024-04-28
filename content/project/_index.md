@@ -14,7 +14,16 @@ sections:
       filters:
         folders:
           - project
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
     design:
+      columns: '1'
       view: card
       spacing:
         padding: ['3rem', 0, '6rem', 0]
