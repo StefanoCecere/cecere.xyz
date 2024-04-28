@@ -2,7 +2,7 @@
 title: DALL-E Intelligenza Artificiale che crea tutto
 date: 2021-01-24
 updated: 2023-08-01
-categories: []
+categories:
 tags: [AI, tech]
 ---
 

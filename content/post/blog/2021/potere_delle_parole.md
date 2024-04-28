@@ -2,7 +2,7 @@
 title: Il Potere delle Parole
 date: 2021-01-24
 updated: 2023-08-01
-categories: []
+categories:
 tags: [retorica]
 slug: il-potere-delle-parole
 ---

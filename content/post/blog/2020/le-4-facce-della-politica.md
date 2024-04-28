@@ -6,7 +6,7 @@ subtitle: ""
 description: ""
 authors: []
 tags: []
-categories: []
+categories:
 featured: false
 draft: false
 ---

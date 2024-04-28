@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 authors: []
 tags: []
-categories: []
+categories:
 date: 2019-12-03
 featured: false
 draft: false

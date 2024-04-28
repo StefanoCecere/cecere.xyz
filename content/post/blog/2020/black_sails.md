@@ -2,7 +2,7 @@
 title: obiettivi esistenziali
 date: 2020-11-24
 updated: 2023-08-06
-categories: []
+categories:
 tags: [filosofia,sensodellavita, tv]
 ---
 ![](../../../assets/img/post/2020/capitani_featured.jpg)

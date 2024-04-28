@@ -3,7 +3,7 @@ title: Battibecco
 date: 2020-05-03
 updated: 2023-08-28
 type: blog
-categories: []
+categories:
 tags:
   - dialogo
 description: 

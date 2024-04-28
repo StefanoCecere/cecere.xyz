@@ -2,7 +2,7 @@
 title: Niente è più gratificante del costruire
 date: 2021-01-17
 updated: 2023-07-30
-categories: []
+categories:
 tags: [educazione]
 ---
 

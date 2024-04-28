@@ -3,7 +3,7 @@ title: "Diagramma di flusso politico"
 date: 2019-09-02
 updated: 2023-10-25
 type: 
-categories: []
+categories:
 tags:
   - t/politica
   - t/m5s

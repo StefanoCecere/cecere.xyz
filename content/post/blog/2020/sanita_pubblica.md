@@ -3,7 +3,7 @@ title: Sanità pubblica. non privatizzata.
 date: 2020-02-29
 updated: 2023-08-01
 subtitle: ""
-category: politica
+categories: politica
 featured: false
 tags: []
 ---

@@ -6,7 +6,7 @@ subtitle: ""
 description: ""
 authors: []
 tags: ["politica"]
-categories: []
+categories:
 featured: false
 draft: false
 ---

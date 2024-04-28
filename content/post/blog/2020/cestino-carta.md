@@ -2,7 +2,7 @@
 title: Il cestino della carta straccia
 date: 2020-11-25
 updated: 2023-08-01
-categories: []
+categories:
 tags: [scienza, aforisma]
 ---
 

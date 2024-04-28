@@ -3,7 +3,7 @@ title: Le Condizioni del Dialogo
 date: 2005-11-17
 updated: 2023-08-01
 slug: le-condizioni-del-dialogo
-categories: [2042]
+categories: ["2042"]
 tags: [comunicare,Silo,umanista, docs]
 ---
 

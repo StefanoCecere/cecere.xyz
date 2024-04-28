@@ -5,7 +5,7 @@ updated: 2023-08-06
 subtitle: ""
 description: ""
 tags: [gamedev, gametech, corsi, about]
-categories: []
+categories:
 featured: false
 draft: false
 ---

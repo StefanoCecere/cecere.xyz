@@ -4,7 +4,8 @@ date: 2024-01-04
 updated: 2024-01-04
 type: 
 categories: blog
-tags: [maths]
+tags: 
+  - maths 
 description: 
 permalink: 
 rating: 

@@ -11,7 +11,7 @@ title: Cosa fare in caso di attacco terroristico
 slug: /2005/12/cosa-fare-in-caso-di-attacco-terroristico/
 ---
 
-![](2005-12-20-cosa-fare-in-caso-di-attacco-terroristico.md)
+[cosa](./2005-12-20-cosa-fare-in-caso-di-attacco-terroristico.md)
 
 non se ne parla più tanto, ma il tema è sempre attuale.
   

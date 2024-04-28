@@ -3,7 +3,7 @@ title: Perché studiare Intelligenza Artificiale nei Videogiochi?
 date: 2020-05-02
 updated: 2023-08-28
 type: blog
-categories: []
+categories:
 tags:
   - AI
   - videogames

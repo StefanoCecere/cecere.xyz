@@ -2,7 +2,7 @@
 title: Perdonare i peccatori è una cazzata
 date: 2021-01-17
 updated: 2023-08-01
-categories: []
+categories:
 tags: [filosofia]
 ---
 

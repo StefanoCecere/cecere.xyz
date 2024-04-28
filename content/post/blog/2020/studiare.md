@@ -6,7 +6,7 @@ subtitle: ""
 description: ""
 authors: []
 tags: [studiare, meme]
-categories: []
+categories:
 featured: false
 draft: false
 ---

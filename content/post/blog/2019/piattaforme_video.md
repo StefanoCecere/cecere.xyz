@@ -3,7 +3,7 @@ title: Piattaforme video
 date: 2019-08-26
 updated: 2023-08-01
 subtitle: ""
-categories: []
+categories:
 featured: false
 tags: [media, creatività]
 ---

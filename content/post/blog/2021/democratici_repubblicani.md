@@ -2,7 +2,7 @@
 title: Democratici o Repubblicani, Essere o Sembrare
 date: 2021-01-21
 updated: 2023-07-30
-categories: []
+categories:
 tags: [pace, politica]
 ---
 ![](../../../assets/img/post/2021/democrats_republicas_featured.jpg)

@@ -2,7 +2,7 @@
 title: Passate a Firefox
 date: 2021-01-15
 updated: 2023-07-30
-categories: []
+categories:
 tags: [educazione,tech,opensource,cittadinanza-digitale]
 ---
 ![](../../../assets/img/post/2021/firefox_migration_featured.jpg)

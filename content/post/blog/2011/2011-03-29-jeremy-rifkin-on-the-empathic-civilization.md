@@ -1,7 +1,7 @@
 ---
 draft: false
 categories:
-- 2042
+- "2042"
 date: 2011-03-29T18:19:22Z
 guid: http://stefanocecere.com/?p=2433
 id: 2433

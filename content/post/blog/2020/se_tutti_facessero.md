@@ -5,7 +5,7 @@ updated: 2023-08-01
 subtitle: ""
 description: ""
 tags: [etica]
-categories: []
+categories:
 featured: false
 draft: false
 ---

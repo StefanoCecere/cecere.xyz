@@ -3,7 +3,7 @@ title: I Programmatori
 date: 2020-05-02
 updated: 2023-09-03
 type: blog
-categories: []
+categories:
 tags:
   - Coding
 description: 

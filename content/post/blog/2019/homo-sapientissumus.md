@@ -6,7 +6,7 @@ subtitle: ""
 description: ""
 authors: []
 tags: ["cecio"]
-categories: []
+categories:
 featured: false
 draft: false
 ---

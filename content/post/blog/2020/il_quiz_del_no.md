@@ -3,7 +3,7 @@ title: il quiz del no
 date: 2020-04-05
 updated: 2023-08-01
 subtitle: ""
-categories: []
+categories:
 featured: false
 tags: [quiz, logica]
 ---
