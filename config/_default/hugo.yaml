@@ -103,6 +103,8 @@ taxonomies:
 markup:
   _merge: deep
   goldmark:
+    renderer:
+      hardWraps: true
     parser:
       attribute:
         block: true
