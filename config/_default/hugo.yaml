@@ -24,9 +24,14 @@ cascade:
   - _target:
       path: /project/**
     show_related: true
+    reading_time: false
+    show_breadcrumb: true
+    share: false
   - _target:
       path: /event/**
     show_related: true
+    reading_time: false
+    share: false
   - _target:
       path: /played/**
     show_breadcrumb: true
@@ -37,6 +42,7 @@ cascade:
     show_breadcrumb: true
     show_related: false
     editable: true
+    share: false
   # Blog post options
   - _target:
       path: /post/**
