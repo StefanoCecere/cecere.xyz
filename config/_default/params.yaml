@@ -42,7 +42,7 @@ header:
 #      enable: true
 #      text: "Get Started"
 #      url: "https://hugoblox.com/templates/"
-    show_search: false
+    show_search: true
     show_theme_chooser: true
 
 # Site footer
@@ -71,3 +71,9 @@ features:
     url: 'https://github.com/StefanoCecere/cecere.xyz'
     content_dir: 
     branch: main
+  search:
+    provider: docsearch
+    docsearch:
+      app_id: 'PJJLOAKW2K'
+      api_key: 'ee3a082efd0f3f10b8a9efed7b641543'
+      index_name: 'cecerexyz'
