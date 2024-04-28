@@ -5,7 +5,8 @@ summary: open source videogame to teach arabic to syrian kids
 authors: []
 tags: ["game", social, "kids", "EdTech", "OpenSource"]
 categories: ["work"]
-date: 2016-10-10T16:27:02+02:00
+date: 2023-10-10
+featured: 1
 external_link: ""
 image:
   caption: ""
@@ -14,7 +15,7 @@ image:
 
 links:
 - name: GitHub
-  url: https://github.com/vgwb/Antura_arabic
+  url: https://github.com/vgwb/Antura
   icon_pack: fab
   icon: github
 

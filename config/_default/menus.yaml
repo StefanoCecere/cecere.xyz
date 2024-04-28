@@ -5,33 +5,33 @@ main:
   - name: Home
     url: ''
     weight: 10
-  - name: Newsletter
-    url: 'https://2042.substack.com'
-    weight: 15
+#  - name: Now
+#    url: '/now'
+#    weight: 15
   - name: Blog
     url: '/post'
     weight: 20
   - name: Tags
     url: '/tags'
     weight: 25
-  - name: Archivio
-    url: '/categories'
-    weight: 26
-#  - name: Projects
-#    url: '/projects'
-#    weight: 30    
-#  - name: Talks
-##    url: '/events'
-#    weight: 40
+  - name: Progetti
+    url: '/project'
+    weight: 30    
+  - name: Talks
+    url: '/event'
+    weight: 40
   - name: "2042ᵉᵈ↗"
     url: 'https://2042ed.org/'
     weight: 50
   - name: "2050x↗"
     url: 'https://2050x.org/'
     weight: 95
+  - name: Newsletter
+    url: 'https://2042.substack.com'
+    weight: 100
   - name: About
     url: '/about'
-    weight: 100
+    weight: 200
   - name: Contact
     url: '/contact'
     weight: 900
