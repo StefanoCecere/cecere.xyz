@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: 
+      title: Una vita in Movimento
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: stefano
 #  - block: skills
