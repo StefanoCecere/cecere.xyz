@@ -52,7 +52,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© 1973 - {year} Stefano Cecere. {license}'
+    notice: '© 1973 - {year} Stefano Cecere. <a href="https://creativecommons.org/licenses/by-nc-nd/4.0">CC BY NC ND 4.0</a> - <a href="/now">now</a>'
     license:
       enable: true
       allow_derivatives: false

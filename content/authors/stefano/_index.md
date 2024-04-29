@@ -163,8 +163,10 @@ Questo sito è molto ampio, ecco le sezioni principali:
 {{< rawhtml >}}
 <div class="row">
 <div class="col-md">
-    <h3><a href="/about/stefano/">Mi presento</a></h3>
+    <h3><a href="/about/">Mi presento</a></h3>
     chi sono? dove vado? perché?
+    <h3><a href="/now">Ora</a></h3>
+    cosa sto facendo?
     <h3><a href="/projects">Progetti</a></h3>
     tutti i progetti che ho creato o collaborato
     <h3><a href="https://2042ed.org/studio/">Corsi e Guide</a></h3>
