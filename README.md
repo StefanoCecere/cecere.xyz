@@ -32,7 +32,7 @@ hugo mod get -u ./...
 
 ## clean
 hugo mod clean
-hugo mod get -u ./..
+hugo mod get -u ./...
 hugo mod tidy
 
 ## error "failed to resolve output format "headers" from site config"

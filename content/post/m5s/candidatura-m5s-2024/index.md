@@ -12,6 +12,7 @@ date: 2024-04-15
 featured: true
 draft: false
 toc: true
+type: book
 ---
 
 Lunedì 22 aprile si svolgeranno le primarie del Movimento 5 Stelle per selezionare i candidati per le elezioni europee del 2024.  

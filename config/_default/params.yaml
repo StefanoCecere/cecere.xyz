@@ -5,8 +5,10 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: blue
+  theme_day: orange
+  theme_night: minimal
+  font: minimal
+  font_size: L
 
 # SEO
 marketing:
@@ -17,8 +19,8 @@ marketing:
     description: 'very serious research and play.'
     twitter: 'StefanoCecere'
   analytics:
-    google_analytics: 'UA-95775-1'
-    google_tag_manager: 'G-EVD3BV59KL'
+#    google_analytics: 'UA-95775-1'
+#    google_tag_manager: 'G-EVD3BV59KL'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
@@ -31,8 +33,12 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
-    align: "center"
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: false
+    highlight_active_link: true
     fixed_to_top: true
     logo:
       text: "Stefano Cecere"
@@ -42,13 +48,11 @@ header:
 #      enable: true
 #      text: "Get Started"
 #      url: "https://hugoblox.com/templates/"
-    show_search: false
-    show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Stefano Cecere. {license}'
+    notice: '© 1973 - {year} Stefano Cecere. {license}'
     license:
       enable: true
       allow_derivatives: false
