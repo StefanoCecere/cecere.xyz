@@ -1,8 +1,8 @@
 ---
 title: "2050x"
 summary: 'sito spazio formazione attivisti'
-tags: [educazione, attivismo, m5s]
-categories: []
+tags: [education, social, attivismo, m5s, politica]
+categories: [project]
 date: 2022-11-29
 ---
 

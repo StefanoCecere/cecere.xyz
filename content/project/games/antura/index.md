@@ -1,6 +1,6 @@
 ---
 title: Antura and the Letters
-summary: open source videogame to teach arabic to syrian kids
+summary: open source videogame to help refugee and migrant kids
 # slug: 
 authors: []
 tags: ["game", social, "kids", "EdTech", "OpenSource"]

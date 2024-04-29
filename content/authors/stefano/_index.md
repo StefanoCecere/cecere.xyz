@@ -108,9 +108,15 @@ social:
     label: Seguimi su Facebook
     display:
       header: true
-  #- icon: youtube
-  #  icon_pack: fab
-  #  link: https://www.youtube.com/channel/UCIJRyBArdrCb1m52coyhUZA
+  - icon: instagram
+    icon_pack: fab
+    link: https://instagram.com/cecere2042
+    label: Seguimi su Instagram
+    display:
+      header: false
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UCIJRyBArdrCb1m52coyhUZA
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/StefanoCecere

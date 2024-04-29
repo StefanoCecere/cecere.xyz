@@ -3,7 +3,7 @@ title: IEEDO
 summary: open source app to help refugees overcome barriers
 # slug: 
 authors: []
-tags: ["game", social, "kids", "EdTech", "OpenSource"]
+tags: ["game", social, "EdTech", "OpenSource"]
 categories: ["work"]
 date: 2022-10-10
 featured: 1

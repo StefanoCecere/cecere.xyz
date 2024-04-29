@@ -28,5 +28,9 @@ Credo sia arrivato il mio momento di mettere a disposizione 30 anni di preparazi
 
 ## 2019
 mi sono candidato alle Europarlamentarie (le elezioni interne di selezione per le prossime elezioni europee) del Movimento 5 Stelle.
-Continuo a partecipare all'[Associazione Gianroberto Casaleggio](http://www.gianrobertocasaleggio.com/)
 
+## 2022
+Mi attivo particolarmente per le elezioni politiche, curando la comunicazione della campagna elettorale e poi aiutando il costesto privinciale e regionale del M5S sui temi della comunicazione e della formazione
+
+## 2024
+sono candidato per le Elezioni Europee, Circoscrizoione Centro, ovviamente con il Movimento 5 Stelle.

@@ -5,7 +5,7 @@ date: 2024-02-25
 lastmod: 2018-02-25
 weight: 1
 categories: [stefano]
-tags: ["42"]
+tags: [bio]
 draft: false
 ---
 
