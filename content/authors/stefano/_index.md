@@ -22,9 +22,13 @@ role: Ricercatore, Sviluppatore, Educatore, Attivista, Umanista, Papà.
 # Humanist AI+XR+EdTech+Video Games, Educator and Author
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+#organizations:
+#  - name: 2042ed
+#    url: https://2042ed.org
+#  - name: FEM
+#    url: https://fem.digital
+#  - name: VGWB
+#    url: https://vgwb.org
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Tecnologie Digitali, Creatività, Filosofia e attivismo per una Politica Progressista 2050. E papà 2x
@@ -145,5 +149,28 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Ciao, mi chiamo Stefano Cecere e sono appassionato dell'arte di **imparare** e **creare**.  
-Sviluppo contenuti per capire le **nuove tecnologie**, sviluppare la **creatività multidisciplinare** e preparare i nostri figli alla **complessità** del mondo con una visione sistemica ed **umanista**.
+Ciao, mi chiamo Stefano Cecere e mi occupo di socializzazione e contaminazione
+tra educazione, politica, giochi e tecnologia. ▶️👍🎲😊
+
+Questo sito è molto ampio, ecco le sezioni principali:
+
+{{< rawhtml >}}
+<div class="row">
+<div class="col-md">
+    <h3><a href="/about/stefano/">Mi presento</a></h3>
+    chi sono? dove vado? perché?
+    <h3><a href="/projects">Progetti</a></h3>
+    tutti i progetti che ho creato o collaborato
+    <h3><a href="https://2042ed.org/studio/">Corsi e Guide</a></h3>
+    materiali didattici e corsi
+</div>
+<div class="col-md">
+    <h3><a href="https://2042ed.org">2042ed e PlayED</a></h3>
+    Il portale del giocare bene, imparare insieme
+    <h3><a href="https://2050.org/">2050x</a></h3>
+    Il portale dell'attivismo
+    <h3><a href="/contact">Partecipa</a></h3>
+    rimaniamo in contatto
+</div>
+</div>
+{{< /rawhtml >}}
