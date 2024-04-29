@@ -173,9 +173,9 @@ Questo sito è molto ampio, ecco le sezioni principali:
     materiali didattici e corsi
 </div>
 <div class="col-md">
-    <h3><a href="https://2042ed.org">2042ed e PlayED</a></h3>
+    <h3><a href="https://2042ed.org">2042ᵉᵈ e PlayED</a></h3>
     Il portale del giocare bene, imparare insieme
-    <h3><a href="https://2050.org/">2050x</a></h3>
+    <h3><a href="https://2050.org/">2050ˣ</a></h3>
     Il portale dell'attivismo
     <h3><a href="/contact">Partecipa</a></h3>
     rimaniamo in contatto

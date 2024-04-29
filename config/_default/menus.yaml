@@ -23,7 +23,7 @@ main:
   - name: "2042ᵉᵈ"
     url: 'https://2042ed.org/'
     weight: 50
-  - name: "2050x"
+  - name: "2050ˣ"
     url: 'https://2050x.org/'
     weight: 95
   - name: "Newsletter"
