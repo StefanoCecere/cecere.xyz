@@ -156,9 +156,7 @@ email: ""
 highlight_name: true
 ---
 Ciao, mi chiamo Stefano Cecere e mi occupo di socializzazione e contaminazione
-tra educazione, politica, giochi e tecnologia. ▶️👍🎲😊
-
-Questo sito è molto ampio, ecco le sezioni principali:
+tra educazione, politica, giochi e tecnologia per migliorare il mondo. ▶️👍🎲😊
 
 {{< rawhtml >}}
 <div class="row">
@@ -168,17 +166,17 @@ Questo sito è molto ampio, ecco le sezioni principali:
     <h3><a href="/now">Ora</a></h3>
     cosa sto facendo?
     <h3><a href="/projects">Progetti</a></h3>
-    tutti i progetti che ho creato o collaborato
+    tutti i progetti a cui ho lavorato
     <h3><a href="https://2042ed.org/studio/">Corsi e Guide</a></h3>
     materiali didattici e corsi
 </div>
 <div class="col-md">
     <h3><a href="https://2042ed.org">2042ᵉᵈ e PlayED</a></h3>
-    Il portale del giocare bene, imparare insieme
+    Il portale del giocare bene, imparare insieme e prepararsi al Futuro
     <h3><a href="https://2050.org/">2050ˣ</a></h3>
-    Il portale dell'attivismo
+    Il portale dell'attivismo e del Movimento
     <h3><a href="/contact">Partecipa</a></h3>
-    rimaniamo in contatto
+    rimaniamo in contatto o collaboriamo
 </div>
 </div>
 {{< /rawhtml >}}
