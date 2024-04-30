@@ -37,7 +37,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: false
+    show_search: true
     highlight_active_link: true
     fixed_to_top: true
     logo:
@@ -75,9 +75,9 @@ features:
     url: 'https://github.com/StefanoCecere/cecere.xyz'
     content_dir: 
     branch: main
-#  search:
-#    provider: docsearch
-#    docsearch:
-#      app_id: 'PJJLOAKW2K'
-#      api_key: 'ee3a082efd0f3f10b8a9efed7b641543'
-#      index_name: 'cecerexyz'
+  search:
+    provider: docsearch
+    docsearch:
+      app_id: 'PJJLOAKW2K'
+      api_key: 'b690f4a31b904bb86e734f8cc6c135d0'
+      index_name: 'cecerexyz'
