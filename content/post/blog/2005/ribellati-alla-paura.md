@@ -1,12 +1,18 @@
 ---
-title: "Ribellati alla paura!"
+title: Ribellati alla paura!
 date: 2005-11-10
 updated: 2023-07-31
-slug:
+slug: 
 subtitle: ""
 description: ""
-tags: [attivista,disarmo,umanista,violenza]
-categories: [blog]
+tags:
+  - disarmo
+  - umanista
+  - violenza
+  - attivismo
+  - pace
+categories:
+  - blog
 featured: false
 draft: false
 ---

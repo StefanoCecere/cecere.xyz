@@ -1,7 +1,7 @@
 ---
 title: il grande dittatore
 date: 2005-12-12
-updated: 2023-08-01
+updated: 2024-04-30
 slug: /2005/12/il-grande-dittatore/
 id: 176
 categories: [blog]
@@ -9,7 +9,8 @@ tags: [video, Chaplin]
 ---
 ![](../../../assets/img/post/2005/grande-dittatore-featured.jpg)
 
-#todo_youtube 9U-MWPqoL8A >}}
+{{< youtube 9U-MWPqoL8A >}}
+![](http://www.youtube.com/watch?v=9U-MWPqoL8A)
 
 ho intravisto (davvero per caso) ieri sera su MTV un video clip musicale fantastico.. che mi sono detto: “questo avrei davvero voluto farlo io!!”
   

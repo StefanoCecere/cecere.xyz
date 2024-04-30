@@ -167,8 +167,8 @@ tra educazione, politica, giochi e tecnologia per migliorare il mondo. ▶️�
     cosa sto facendo?
     <h3><a href="/projects">Progetti</a></h3>
     tutti i progetti a cui ho lavorato
-    <h3><a href="https://2042ed.org/studio/">Corsi e Guide</a></h3>
-    materiali didattici e corsi
+    <h3><a href="/tag/pace/">Costruttore di Pace</a></h3>
+    alcune attività pacifiste degli ultimi 30 anni
 </div>
 <div class="col-md">
     <h3><a href="https://2042ed.org">2042ᵉᵈ e PlayED</a></h3>

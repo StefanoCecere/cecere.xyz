@@ -1,11 +1,12 @@
 ---
-categories: [blog]
+categories:
+  - blog
 date: 2005-09-21T12:20:36Z
 guid: http://stefanocecere.com/2005/09/22/fannullone-sei/
 id: 91
 tags:
-- Fannullone
-- attivista
+  - Fannullone
+  - attivismo
 title: fannullone 6
 slug: /2005/09/fannullone-sei/
 ---

@@ -1,15 +1,15 @@
 ---
 draft: false
 categories:
-- futuro
+  - futuro
 date: 2011-11-07T13:54:40Z
 guid: http://stefanocecere.com/?p=2786
 id: 2786
 tags:
-- Beppe Grillo
-- ecologia
-- mondo
-- societa
+  - ecologia
+  - mondo
+  - societa
+  - BeppeGrillo
 title: Ma che pianeta mi hai fatto?
 slug: /2011/11/ma-che-pianeta-mi-hai-fatto/
 ---

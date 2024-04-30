@@ -1,18 +1,17 @@
 ---
 draft: false
 categories:
-- tempi-moderni
+  - tempi-moderni
 date: 2008-06-20T11:44:37Z
 guid: http://cecere.xyz/2008/06/20/ansa-i-russi-e-lo-scudo-spaziale/
 id: 1054
 tags:
-- comunicato
-- Iran
-- Israele
-- Repubblica Ceca
-- russia
-- scudo-spaziale
-title: 'ANSA: i Russi e lo Scudo Spaziale'
+  - comunicato
+  - Iran
+  - Israele
+  - russia
+  - scudo-spaziale
+title: "ANSA: i Russi e lo Scudo Spaziale"
 slug: /2008/06/ansa-i-russi-e-lo-scudo-spaziale/
 ---
 

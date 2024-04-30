@@ -1,13 +1,13 @@
 ---
-title: "Carenza d'acqua ed empatia"
+title: Carenza d'acqua ed empatia
 date: 2022-08-07
-updated: 2023-08-21
+updated: 2024-04-30
 type: 
-categories: [blog]
+categories:
+  - blog
 tags:
   - acqua
   - empatia
-  - empatica
 description: ""
 permalink: 
 slug: carenza-acqua-empatia
@@ -28,6 +28,6 @@ lo sappiamo, succedono spesso emergenze dove da un giorno all’altro non hai pi
 
 connettersi con queste persone, sapendo che potevamo benissimo essere noi al loro posto, è molto commovente e un esercizio per pensare più all’insieme che alla nostra individualità. 
 
-spesso di parla, o forse meglio si parlava, di civilizzazione #empatica. l’empatia come motore di progresso sociale. 
+spesso di parla, o forse meglio si parlava, di civilizzazione empatica. l’empatia come motore di progresso sociale. 
 
 perché dovrei preoccuparmi del benessere degli altri? perché dovrei condividere i miei privilegi? sono domande importanti.

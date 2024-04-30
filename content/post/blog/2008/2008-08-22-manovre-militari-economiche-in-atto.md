@@ -1,19 +1,19 @@
 ---
 draft: false
-categories: [blog]
+categories:
+  - blog
 date: 2008-08-22T22:39:05Z
 guid: http://cecere.xyz/?p=1127
 id: 1127
 tags:
-- crisi
-- guerra
-- missili
-- mondo
-- petrolio
-- Polonia
-- Repubblica Ceca
-- scudo-spaziale
-- USA
+  - crisi
+  - guerra
+  - missili
+  - mondo
+  - petrolio
+  - Polonia
+  - scudo-spaziale
+  - USA
 title: manovre militari-economiche in atto
 slug: /2008/08/manovre-militari-economiche-in-atto/
 ---

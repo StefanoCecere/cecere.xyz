@@ -1,13 +1,14 @@
 ---
 draft: false
-categories: [blog]
+categories:
+  - blog
 date: 2009-06-10T17:21:22Z
 guid: http://stefanocecere.com/?p=1876
 id: 1876
 tags:
-- Beppe Grillo
-- politica
-- video
+  - politica
+  - video
+  - BeppeGrillo
 title: Beppe Grillo le canta ai senatori
 slug: /2009/06/beppe-grillo-le-canta-ai-senatori/
 ---

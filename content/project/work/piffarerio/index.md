@@ -1,8 +1,10 @@
 ---
 title: Officine Tipografiche Piffarerio
 summary: Programmazione stampanti tipografiche
-tags: [bio,work]
-date: "1989-04-27"
+tags:
+  - work
+  - biografia
+date: 1989-04-27
 reading_time: false
 ---
 ![](./piffarerio_featured.jpg)

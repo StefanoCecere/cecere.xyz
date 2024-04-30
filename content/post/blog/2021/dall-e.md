@@ -1,7 +1,7 @@
 ---
 title: DALL-E Intelligenza Artificiale che crea tutto
 date: 2021-01-24
-updated: 2023-08-01
+updated: 2024-04-30
 categories:
 tags: [AI, tech]
 ---
@@ -15,8 +15,8 @@ io lo spiegherò per bene nel corso di Intelligenza Artificiale nei Videogiochi 
  nel capitolo Computer Generated Content
 ecco il video:
 
-#todo_youtube C7D5EzkhT6A >}}
-https://www.youtube.com/watch?v=C7D5EzkhT6A
+{{< youtube C7D5EzkhT6A >}}
+![](http://www.youtube.com/watch?v=C7D5EzkhT6A)
 
 e qui il link al post con esempi:
 <https://openai.com/blog/dall-e/>

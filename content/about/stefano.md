@@ -4,8 +4,10 @@ summary: Qualche informazione su di me... servono anche a me per ricordarmi chi 
 date: 2024-02-25
 lastmod: 2018-02-25
 weight: 1
-categories: [stefano]
-tags: [bio]
+categories:
+  - stefano
+tags:
+  - biografia
 draft: false
 ---
 

@@ -1,18 +1,17 @@
 ---
 draft: false
-categories: [blog]
+categories:
+  - blog
 date: 2008-07-03T08:48:54Z
 guid: http://cecere.xyz/?p=1071
 id: 1071
 tags:
-- azioni
-- Europe for Peace
-- mobilitazione
-- Praga
-- Repubblica Ceca
-- Roma
-- scudo-spaziale
-- USA
+  - azioni
+  - mobilitazione
+  - Praga
+  - Ceca
+  - scudo-spaziale
+  - USA
 title: Il 4 luglio Marcia Lenta sulla Repubblica Ceca
 slug: /2008/07/il-4-luglio-marcia-lenta-sulla-repubblica-ceca/
 ---

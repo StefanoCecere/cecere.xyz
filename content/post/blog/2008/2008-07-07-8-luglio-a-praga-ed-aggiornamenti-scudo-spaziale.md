@@ -1,17 +1,15 @@
 ---
 draft: false
 categories:
-- tempi-moderni
+  - tempi-moderni
 date: 2008-07-07T09:57:47Z
 guid: http://cecere.xyz/?p=1083
 id: 1083
 tags:
-- Europe for Peace
-- parlamento
-- Praga
-- Repubblica Ceca
-- USA
-- video
+  - parlamento
+  - Praga
+  - USA
+  - video
 title: 8 luglio a Praga ed aggiornamenti Scudo Spaziale
 slug: /2008/07/8-luglio-a-praga-ed-aggiornamenti-scudo-spaziale/
 ---

@@ -1,15 +1,16 @@
 ---
-title: "pochi giorni all’inizio del Forum Umanista Europeo"
+title: pochi giorni all’inizio del Forum Umanista Europeo
 slug: /2008/10/pochi-giorni-allinizio-del-forum/
 categories:
-- Buone Nuove
+  - Buone Nuove
 date: 2008-10-11
 guid: http://cecere.xyz/?p=1381
 id: 1381
 tags:
-- Forum
-- nonviolenza
-- attivista
+  - Forum
+  - nonviolenza
+  - attivismo
+  - pace
 ---
 
 ## Comunicato stampa
@@ -19,7 +20,9 @@ Giorgio Schultze (Portavoce del Nuovo Umanesimo), Anna Falchi, Dario Fo, France
 
 Aderiscono oltre ai testimonial dello spot: Noam Chomsky, Lella Costa, Gianluca Pessotto, David Riondino, Roberto Vecchioni Paolo Virzì.
 
-#todo_youtube pNqY0g__c9o >}}
+![](https://www.youtube.com/watch?v=pNqY0g__c9o)
+
+{{< youtube pNqY0g__c9o >}}
 
 Venerdì 17, alle 13.30 prima dell'apertura del Forum al Palalido in Piazza Stuparich: incontro con la stampa, rinfresco e spazio interviste.
 

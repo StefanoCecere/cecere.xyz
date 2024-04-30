@@ -4,9 +4,9 @@ summary: siamo anche i libri che abbiamo letto
 slug: libreria
 toc: true
 tags:
-    - books
+  - book
 categories:
-    - stefano
+  - stefano
 date: 2018-06-27
 featured: false
 draft: false
