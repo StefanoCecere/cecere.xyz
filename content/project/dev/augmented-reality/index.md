@@ -1,6 +1,6 @@
 ---
 title: "Augmented Reality apps"
-summary: "training, marketing and simulation"
+summary: "Ho sviluppato dozzine di applicazioni industriali in Realtà Aumentata per la simulazione e il training"
 authors: []
 tags: [dev, unity, work]
 categories: ["work"]
@@ -17,6 +17,4 @@ url_video: ""
 slides: ""
 ---
 
-sviluppo di applicazioni industriali in Realtà Aumentata
-
-
+sviluppo di applicazioni industriali in Realtà Aumentata per clienti tipo Ferrero e Shneider Electric

@@ -1,6 +1,6 @@
 ---
 title: IEEDO
-summary: open source app to help refugees overcome barriers
+summary: un progetto e un videogioco per insegnare agli adulti migranti in europa ad imparare ad imparare
 # slug: 
 authors: []
 tags: ["game", social, "EdTech", "OpenSource"]

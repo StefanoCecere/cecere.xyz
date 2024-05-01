@@ -1,6 +1,6 @@
 ---
 title: Antura and the Letters
-summary: open source videogame to help refugee and migrant kids
+summary: Un videogioco per aiutare i bambini rifugiati a imparare la loro lingua nativa e quella del paese dove emigrano insieme alla cultura.
 # slug: 
 authors: []
 tags: ["game", social, "kids", "EdTech", "OpenSource"]

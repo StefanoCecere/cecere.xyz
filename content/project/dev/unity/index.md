@@ -1,6 +1,6 @@
 ---
 title: Unity
-summary: "app and game development"
+summary: inizio ad usare Unity nel 2009 e ho sviluppato dozzine di progetti
 # slug: 
 authors: []
 tags: [dev, work]
