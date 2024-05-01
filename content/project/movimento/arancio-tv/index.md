@@ -23,7 +23,7 @@ un collettivo di videomakers che vogliono creare contenuti video
 ## dal sito arancio.tv
 **benvenuti in arancio.tv**
 
-Arancio.TV partecipa alla [campagna sulla NonViolenza](/project/io-sono-nonviolento) promuovendo la creazione di spot sul tema.
+Arancio.TV partecipa alla [campagna sulla NonViolenza](../io-sono-nonviolento/index.md) promuovendo la creazione di spot sul tema.
 
 Gli spot avranno come vetrina arancio.tv, ma aspiriamo che vengano proiettati su altri portali web, sulle tv nazionali e locali e da chiunque voglia appoggiare una campagna così importante in questo momento storico.
 
@@ -39,4 +39,4 @@ Ma è molto di più: **è un atteggiamento verso la vita**, serio, solidale, all
 
 **Esprimi la NonViolenza, pubblicizza la NonViolenza con uno spot, nel modo che ritieni più opportuno o in quello che più ti piace. Su un solo aspetto o nel suo complesso, come più ti aggrada. Fallo in un video da i 15 ai 60 secondi e pubblicalo sul nostro sito.**
 
-E se non sei un video maker, ma hai contatti, o hai modo di pubblicare anche tu questi video: contattaci subito 
+E se non sei un video maker, ma hai contatti, o hai modo di pubblicare anche tu questi video: contattaci subito.

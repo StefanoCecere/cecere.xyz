@@ -23,4 +23,4 @@ I quattro principi fondamentali della Convenzione sono:
 3. **Diritto alla vita, alla sopravvivenza e allo sviluppo del bambino e dell'adolescente** (art. 6): gli Stati devono impegnare il massimo delle risorse disponibili per tutelare la vita e il sano sviluppo dei bambini, anche tramite la cooperazione internazionale. 
 4. **Ascolto delle opinioni del minore** (art. 12): prevede il diritto dei bambini a essere ascoltati in tutti i processi decisionali che li riguardano, e il corrispondente dovere, per gli adulti, di tenerne in adeguata considerazione le opinioni.
 
-Il documento completo è qui: [convenzione-diritti-infanzia](../../../2042/scuola/mediateca/convenzione-diritti-infanzia.md)
+Il documento completo è qui: [convenzione-diritti-infanzia](https://2042ed.org/notes/biblioteca/convenzione-diritti-infanzia/)

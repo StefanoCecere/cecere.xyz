@@ -19,7 +19,7 @@ slides: ""
 
 UNO SPAZIO PER RITROVARSI
 nel 2005 a Monza, con Marco Stegani e amici affittammo un magazzino e lo trasformammo in un luogo speciale: uno spazio sociale, culturale, politico, ricreativo, umanista.
-lo chiamammo "Spazio Fannullone" perché editavamo la rivista [Il Fannullone](/project/ilfannullone), appunto. 
+lo chiamammo "Spazio Fannullone" perché editavamo la rivista [Il Fannullone](../ilfannullone/index.md), appunto.
 
 per diversi anni è stato il punto di riferimento per mille attività e riunioni (dove riunione è anche una super cena sushi dopo aver comprato un salmone intero alla Metro 🙂 .. ecco alcune [foto su Flickr](https://www.flickr.com/photos/krur/albums/72157716208608012)
 

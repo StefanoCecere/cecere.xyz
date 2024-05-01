@@ -28,7 +28,7 @@ slides: ""
 ---
 
 {{< youtube 1Zq41byQDgY>}}
-<br>
+
 - cosa stai facendo?
 - sto creando il mio regalo di compleanno per Bruno
 - ma .. quella è la mappa del nostro giardino.. e quello è LibroGameCreator!
@@ -44,7 +44,7 @@ e così, a inizio ottobre, Fabio si mette a creare quello che diventerà **BuboL
 ![](bubolibro_story_1.jpg)
 
 Tutti abbiamo giocato ad un _LibroGame_, vero? ovvero un libro dove il lettore può prendere delle decisioni.  
-Due anni fa tenni un laboratorio per bambini per creare un libro gioco di 12 pagine, partendo da una struttura ad albero. Ebbe grande successo ([ecco qualche foto]({{< ref "project/edu/lab_librogame/index.md" >}})). Fabio aveva assimilato bene il tutto. Anzi mi aveva pure aiutato, dato che già a 7 anni avevamo creato insieme dei videogiochi narrativi (qualcuno si ricorderà [Non sono solo una pecora]({{< ref "project/jamurr/non-sono-solo-una-pecora/index.md" >}})). la dimensione cartacea però ci mancava e ci affascina sempre di più.
+Due anni fa tenni un laboratorio per bambini per creare un libro gioco di 12 pagine, partendo da una struttura ad albero. Ebbe grande successo ([ecco qualche foto](../../edu/lab_librogame/index.md)). Fabio aveva assimilato bene il tutto. Anzi mi aveva pure aiutato, dato che già a 7 anni avevamo creato insieme dei videogiochi narrativi (qualcuno si ricorderà il progetto "[Non sono solo una pecora](../non-sono-solo-una-pecora/index.md)"). la dimensione cartacea però ci mancava e ci affascina sempre di più.
 
 Essendo un libro da dare in mano ad un bambino di 5 anni che non sa ancora leggere, se non i numeri, il libro doveva essere adeguato: figure e numeri. con testi opzionali da far leggere ad un eventuale "accompagnatore".  
 per questo dopo qualche giorno gli feci abbandonare il seppur ottimo programma [LibroGameCreator](http://www.matteoporopat.com/librogame/libro-game-creator-3/) perché non supportava le immagini, e gli spiegai come usare [Obsidian](https://obsidian.md/), un editor gratuito di testi "collegati" dove è facilissimo inserire immagini, rendendo ancora più facile mettere tutto il progetto in OpenSource su GitHub così da poter collaborare io e lui (anticipo che il repository è [qui](https://github.com/StefanoCecere/BuboLibro_RegaloSpeciale/)) e sopratutto condividerlo con il mondo per ispirare altri a crearne magari uno proprio. Ok sono un romantico e mi illudo sempre che c'è della creatività in ognuno di noi, basta solo trovare il momento e il calcio in culo giusto per ritirarla fuori. E poi non vogliamo mica tenerci i segreti industriali.
@@ -54,6 +54,7 @@ per questo dopo qualche giorno gli feci abbandonare il seppur ottimo programma [
 E così Fabio inizia a creare l'avventura sopra la mappa che aveva ricostruito.
 Ok ma  come fare tutti i disegni?  
 La soluzione più veloce è stata... fare le fotografie! e poi con un effetto computer farle sembrare disegnate a mano.. così avevamo tre vantaggi:
+
 1. si potevano creare velocemente le pagine da testare
 2. le avremmo potute ridisegnare per bene una volta finito il libro
 3. il fratello conoscendo l'ambiente può capire la relazione mappa disegnata <-> spazio reale
@@ -78,7 +79,7 @@ Aiuta molto averla: si vedono i punti ciechi, i riferimenti sbagliati, la propor
 
 Intanto io inizio a impaginare il libro per stamparlo.  
 Volendo creare un libro da regalare, e sopratutto ad un bambino, lo volevamo in carta (una versione digitale non ci piaceva).  
-Tolgo la ruggine dalle mie vecchie capacità di impaginatore di libri (quindici anni fa co-creavo una [rivista cartacea](https://stefanocecere.github.io/ilfannullone.it/) e InDesign e i profumi di tipografia erano il mio pane) e si inizia.  
+Tolgo la ruggine dalle mie vecchie capacità di impaginatore di libri (quindici anni fa co-creavo una [rivista cartacea](../../movimento/ilfannullone/index.md) e InDesign e i profumi di tipografia erano il mio pane) e si inizia.  
 Tralascio i tecnicismi, fatto sta che il PDF prende vita e lo porto in copisteria per una copia di prova. Siamo arrivati a circa **170 pagine**! quindi ci consigliano una rilegatura ad anelli.. che poi risulterà congeniale.
 
 ![](bubolibro_story_5.jpg)

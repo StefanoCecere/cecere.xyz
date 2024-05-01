@@ -1,4 +1,0 @@
----
-title: Archivio
-type: archive
----

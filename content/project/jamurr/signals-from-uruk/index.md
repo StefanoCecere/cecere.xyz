@@ -5,7 +5,7 @@ summary: un videogioco in AR per scoprire la storia
 authors: []
 tags: [jamurr, GlobalGameJam, KidsGameJam, AR, game, kids]
 categories: ["jamurr"]
-date: 2018-01-30T16:27:02+02:00
+date: 2018-01-30
 external_link: ""
 image:
   caption: ""

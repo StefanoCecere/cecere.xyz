@@ -1,11 +1,18 @@
 ---
 title: Agente Ano
-subtitle: ""
 date: 2020-07-27
-categories: []
+updated: 2024-03-19
+type: dialogo
+categories:
+  - dialoghi
+tags:
+  - dialogo
+description: ""
+permalink: 
+subtitle: ""
 featured: false
-tags: [dad, JJ]
-# slug: 
+authors:
+  - stefano
 ---
 
 - Bruno allora tu fai Agente B?

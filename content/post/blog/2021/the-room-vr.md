@@ -25,4 +25,4 @@ draft: false
 - ho notato che la foto di Anubi ha qualcosa di strano.. andiamo a vederla...
 e così.. Fabio è entrato con me nell'avventura 🙂
 
-PS: il videogioco in questione è [the-room](../../../2042/played/videogame/the-room.md)
+PS: il videogioco in questione è [the-room](https://2042ed.org/played/videogame/the-room/)

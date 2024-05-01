@@ -1,18 +1,21 @@
 ---
 title: Ripassare La Storia Islam
+date: 2020-01-21
+updated: 2024-03-19
 slug: ripassare-la-storia-islam
-subtitle: ''
-summary: ''
+subtitle: ""
+description: ""
 tags:
   - storia
   - educazione
+  - dialoghi
 categories:
   - dialoghi
-date: 2020-01-21T09:13:59.000Z
-lastmod: 2021-04-11T11:58:49
 featured: false
 draft: false
 projects: []
+authors:
+  - stefano
 ---
 
 - se tu mi dai un pugno, io te lo restituisco. ma poi tu me lo restituisci e io.. insomma all'infinito.. è questa la LEGGE DEL TAGLIONE?

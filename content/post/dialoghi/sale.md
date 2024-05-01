@@ -1,11 +1,16 @@
 ---
 title: Sale a tutti
 date: 2017-06-26
-categories: [dialoghi]
-tags: [dialoghi, timidezza]
+updated: 2024-03-19
+categories:
+  - dialoghi
+tags:
+  - dialoghi
+  - timidezza
+authors:
+  - stefano
 ---
 
-SALE A TUTTI
 - si, figliolo, anch'io da piccolo mi vergognavo molto ad andare a chiedere una cosa ai vicini
 - ma ora non ti vergogni più
 - ho impiegato molto a uccidere la timidezza (non è tanto vergogna, è timidezza). 

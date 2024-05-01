@@ -11,7 +11,7 @@ draft: false
 type: book
 ---
 
-![book cover](/img/post/articles/jaque-al-mesias-libro.webp)
+![book cover](../../assets/img/articles/jaque-al-mesias-libro.webp)
 
 di H. Van Doren, Santiago del Cile, 1970
 
@@ -468,4 +468,4 @@ E i signori svegli di Agarti e Shambalà riempirono il cielo e la terra e dieder
 Autore anonimo americano.  
 (dagli Archivi di Hassein)
 
-![socrate e gesù che giocano a scacchi](/img/post/articles/scacco-messia.webp)
+![socrate e gesù che giocano a scacchi](../../assets/img/articles/scacco-messia.webp)

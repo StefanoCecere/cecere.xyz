@@ -12,4 +12,4 @@ draft: false
 ---
 ieri abbiamo fatto questa chiacchiera online, con Fabio assistente, sui videogiochi, ragazzi e genitori.
 
-il video è [qui](../../../stefano/event/2021_videogiochi_non_sono_tutti_uguali.md)
+il video è [qui](../../../event/2021/videogiochi_non_sono_tutti_uguali/index.md)

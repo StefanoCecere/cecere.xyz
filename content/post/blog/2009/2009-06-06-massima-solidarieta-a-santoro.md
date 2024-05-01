@@ -2,7 +2,7 @@
 draft: false
 categories:
 - media
-date: 2009-06-06T20:28:22Z
+date: 2009-06-06
 guid: http://stefanocecere.com/?p=1857
 id: 1857
 tags:
@@ -17,4 +17,4 @@ slug: /2009/06/massima-solidarieta-a-santoro/
 
 un abbraccio
 
-[<img class="aligncenter size-full wp-image-1858" title="Santoro Annozero Corri Bisonte" src="http://stefanocecere.com/wp-content/uploads/sites/3/2009/06/sabtoro.png" alt="Santoro Annozero Corri Bisonte" width="427" height="275" srcset="http://stefanocecere.com/wp-content/uploads/sites/3/2009/06/sabtoro.png 427w, http://stefanocecere.com/wp-content/uploads/sites/3/2009/06/sabtoro-300x193.png 300w" sizes="(max-width: 427px) 100vw, 427px" />](http://www.rai.tv/dl/RaiTV/programmi/media/ContentItem-f6431ad7-6904-4466-9f81-12be4a5beac0.html)
+![Santoro Annozero Corri Bisonte](../../../assets/img/post/2009/santoro.jpg)

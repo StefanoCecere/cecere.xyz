@@ -2,12 +2,12 @@
 title: Umanesimo, Videogiochi, A.I. e XR
 # Page summary for search engines.
 summary: "Ricerche e studi su tecnologia e umanesimo"
-date: 2021-04-16T00:00:00
-lastmod: 2021-04-08T00:00:00
+date: 2021-04-16
+lastmod: 2021-04-08
 internal_link: "/event/2021/simposio-umanesimo-ai-vr-videogames/"
 featured: true
 categories: [course]
 tags: [guide, edu-gamedev, AI, VR, XR, gamedev, umanesimo, tech]
 ---
 
-troverai [qui]({{< ref "/studio/humanist-tech/" >}}) tutto il materiale, testi, video e slides.
+troverai [qui](https://2042ed.org/studio/monografie/umanesimo-tecnologia/) tutto il materiale, testi, video e slides.

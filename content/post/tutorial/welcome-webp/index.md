@@ -5,7 +5,7 @@ subtitle: ""
 summary: "l'ecologia e il futuro passano anche da un nuovo formato di compressione immagini che sostituirà JPG, GIF e PNG"
 categories: [blog]
 tags: [tips, tech, internet, webdev, EcologiaDigitale, formati]
-date: 2021-04-18T18:40:20+02:00
+date: 2021-04-18T
 featured: false
 draft: false
 image:
@@ -15,7 +15,7 @@ image:
 projects: []
 ---
 
-Nell'importare in questo sito [quattro miei libri](/studio/) che contenevano diverse centinaia di immagini di vario formato e volendole ottimizzare, ho fatto una piccola ricerca se fossimo ormai pronti per il nuovo formato, **WebP**, che sta diventando lo standard che sostituirà JPG, GIF e PNG.
+Nell'importare in questo sito [quattro miei libri](https://2042ed.org/studio/) che contenevano diverse centinaia di immagini di vario formato e volendole ottimizzare, ho fatto una piccola ricerca se fossimo ormai pronti per il nuovo formato, **WebP**, che sta diventando lo standard che sostituirà JPG, GIF e PNG.
 
 E la risposta è stata: **si, siamo pronti**. E vi spiego il perché e i vantaggi.
 
@@ -31,6 +31,7 @@ e le immagini (non parliamo ora dei video che sono molto peggio) sono un buon pr
 nei decenni scorsi si sono imposto nel mondo digitale tre formati di compressioen delle immagini: il JPEG (specializzato per le **foto**), le GIF (ora usate sopratutto per quelle "**animate**") e le PNG (usate quando si vuole mantenere la fedeltà "pixel perfect" al 100%, sopratutto per le immagini grafiche o con trasparenza).
 
 negli ultimi anni la ricerca matematica e informatica ha creato nuovi formati e algoritmi di compressione, molto più efficienti, più veloci e che riducono sensibilmente le dimensioni finale dei files:
+
 - JPEG 2000 by the JPEG group
 - WebP by Google
 - HEIC by the MPEG group, based on HEVC and available in iOS

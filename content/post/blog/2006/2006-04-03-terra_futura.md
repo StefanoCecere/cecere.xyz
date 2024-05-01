@@ -5,7 +5,8 @@ date: 2006-04-03
 guid: http://cecere.xyz/?p=249
 id: 249
 tags:
-- Firenze
+- TerraFutura
+- ambientalismo
 title: Terra Futura
 slug: /2006/04/terra_futura/
 ---

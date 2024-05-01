@@ -2,8 +2,7 @@
 title: Tags
 type: landing
 sections:
-  - block: tag_cloud
-    
+  - block: tag_cloud    
     content:
       title: Argomenti
       count: 100

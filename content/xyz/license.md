@@ -7,8 +7,8 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 2018-06-28T00:00:00+02:00
-lastmod: 2020-01-28T00:00:00+02:00
+date: 2018-06-28
+lastmod: 2020-01-28
 featured: false
 draft: false
 ---
@@ -20,7 +20,7 @@ Che puoi liberamente copiarli e o distribuirli, anche modificarli, basta che mi 
 
 In pratica **PUOI:**
 - **Condividere**: riprodurre, distribuire, comunicare al pubblico, esporre in pubblico, rappresentare, eseguire e recitare questo materiale con qualsiasi mezzo e formato
-- **Modificare**: remixare, trasformare il materiale e basarti su di esso per le tue opere 
+- **Modificare**: remixare, trasformare il materiale e basarti su di esso per le tue opere
 
 **a QUESTE CONDIZIONI**:
 - **Attribuzione**: Devi riconoscere una menzione di paternità adeguata, fornire un link alla licenza e indicare se sono state effettuate delle modifiche. Puoi fare ciò in qualsiasi maniera ragionevole possibile, ma non con modalità tali da suggerire che il licenziante avalli te o il tuo utilizzo del materiale.
@@ -31,5 +31,4 @@ In pratica **PUOI:**
 Perché il nostro mondo vive e cresce grazie alla condivisione del meglio del nostro meglio delle nostre invenzioni e creazioni. Così come mi piace trovare contenuti liberamente condivisi da altri, così lo voglio fare anche io.
 E poi amo le contaminazioni e non voglio portarmi i miei tessori nei cassetti o nella tomba
 
-Se proprio mi vuoi dare un supporto per tutto quello che faccio, [puoi offrirmi un caffè](/sponsor)
-
+Se proprio mi vuoi dare un supporto per tutto quello che faccio, [puoi offrirmi un caffè](./sponsor.md)

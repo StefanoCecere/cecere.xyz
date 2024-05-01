@@ -9,12 +9,13 @@ id: 248
 tags:
 - giornale
 - umanista
+- RedditoDiCittadinanza
 slug: /2006/03/lumanista-il-giornale-che-devi-leggere/
 ---
 
-[<img class="alignnone size-full wp-image-5480" alt="umanista_05_low_copertina" src="http://cecere.xyz/wp-content/uploads/sites/3/2006/03/umanista_05_low_copertina.jpg" width="400" height="538" srcset="http://cecere.xyz/wp-content/uploads/sites/3/2006/03/umanista_05_low_copertina.jpg 400w, http://cecere.xyz/wp-content/uploads/sites/3/2006/03/umanista_05_low_copertina-223x300.jpg 223w" sizes="(max-width: 400px) 100vw, 400px" />](http://cecere.xyz/wp-content/uploads/sites/3/2006/03/umanista_05_low.pdf)
+![copertina](../../../assets/img/post/2006/umanista_05_low_copertina.jpg)
 
-finalmente ho il piacere di pubblicare la versione digitale de L'Umanista - il giornale del Partito Umanista.
+finalmente ho il piacere di pubblicare la versione digitale de _L'Umanista - il giornale del Partito Umanista_.
   
 Questo n.5 è davvero bello (spero prossimamente arrivino anche i numeri precedenti) e spiega con diversi temi la abissale differenza tra i progetti umanisti e gli attuali "giocatori" in campo (centrodestra e centrosinistra, fondamentalmente)…. e poi sfido a chiamarci incoerenti.
 
@@ -34,6 +35,6 @@ Una vera alternativa partirà dalla base, dall’azione non-violenta e dal molt
   
 Non votiamo, ma continueremo costruendo, con tutte leforze contrarie all’attuale modello neoliberale, una nuova forza rivoluzionaria in difesa delle minoranze, in difesa dei diritti umani, in favore di un modello economico e di una società veramente e profondamente umane. Continueremo costruendo un modello sociale multiforme che liberi le energie per costruire il nuovo cammino che l’umanità ha bisogno di percorrere."
 
-[SCARICA QUI IL NUMERO 5 in PDF (500Kb circa).](/wp-content/umanista_05_low.pdf "")
+![SCARICA QUI IL NUMERO 5 in PDF (500Kb circa).](../../../assets/img/post/2006/umanista_05_low.pdf)
   
 il sito associato all'Umanista è <a href="www.umanista.org" target="_blank">www.umanista.org</a>. un sito molto semplice ma ricchissimo di informazioni quotidiane su cosa sta veramente succedendo nel mondo. vi consiglio vivamente di consultarlo spesso.

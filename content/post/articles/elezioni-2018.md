@@ -11,7 +11,7 @@ categories: [scripta]
 tags: ["M5S", "politica"]
 ---
 
-![elezioni-2018-M5S](/assets/images/2018/elezioni-2018_M5S.jpg)
+![elezioni-2018-M5S](../../assets/img/post/2018/elezioni-2018_M5S.jpg)
 
 _scritto il 25 Febbraio 2018_
 

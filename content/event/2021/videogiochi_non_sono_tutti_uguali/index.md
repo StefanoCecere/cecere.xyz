@@ -4,8 +4,6 @@ slug: i-videogiochi-non-sono-tutti-uguali
 draft: false
 summary: una chiacchierata con ragazzi e genitori sui videogiochi.
 abstract: ""
-#event: Wowchemy Conference
-#event_url: https://example.org
 location: online
 date: 2021-04-03T17:00:00Z
 date_end: 2021-04-03T18:30:00Z

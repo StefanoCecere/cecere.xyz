@@ -17,7 +17,7 @@ Innanzitutto: **E' IMPORTANTISSIMO ANDARVI A VOTARE E VOTARE NO, NON VOGLIAMO CA
 
 ![](../../../assets/img/post/2006/italia_stropicciata.jpg)
 
-Le proposte di modifica alla Costituzione (che se vuoi puoi [leggere qui Costituzione Italiana](../../../2050/biblioteca/costituzione-italiana.md)) che ha proposto la Casa delle Libertà, se approvate, riapriranno le porte al fascismo e porterebbero l'Italia al solito primato mondiale in quanto a "casi emblematici" di assurdità… passando dall'avere una delle Costituzioni più belle del pianeta, ad una delle peggiori.
+Le proposte di modifica alla Costituzione (che se vuoi puoi [leggere qui Costituzione Italiana](https://2042ed.org/notes/biblioteca/costituzione-italiana/) che ha proposto la Casa delle Libertà, se approvate, riapriranno le porte al fascismo e porterebbero l'Italia al solito primato mondiale in quanto a "casi emblematici" di assurdità… passando dall'avere una delle Costituzioni più belle del pianeta, ad una delle peggiori.
 
 dato che non se ne sta (ancora) parlando, e il tema è gravissimo.. per informare bene la gente non basteranno due settimane di spot pubblicitari.. anche perché sono stati i soliti furbetti e hanno messo la data del Referendum DOPO la chiusura delle scuole ed durante il primo fine settimana estivo. E' bene che tutti siano consapevoli del rischio che corriamo e che si connettano un attimo che **viviamo tutti insieme e il nostro futuro è davvero nelle nostre mani**.
 

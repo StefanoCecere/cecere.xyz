@@ -6,7 +6,7 @@ slug: giorgia_meloni_sinistra
 subtitle: ""
 description: ""
 categories: [blog]
-tags: [politica]
+tags: [politica,meloni]
 featured: false
 draft: false
 ---

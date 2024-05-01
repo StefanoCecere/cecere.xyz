@@ -1,16 +1,18 @@
 ---
 title: Spazio nel cervello
-slug: null
-subtitle: ''
-summary: ''
-tags: 
-    - cervello
+date: 2021-10-30
+updated: 2024-03-19
+subtitle: ""
+description: ""
+tags:
+  - cervello
+  - dialoghi
 categories:
-    - dialoghi
-date: 2021-10-30T00:00:00.000Z
-lastmod: 2021-10-30T16:09:05
+  - dialoghi
 featured: false
 draft: false
+authors:
+  - stefano
 ---
 
 - nel mio cervello non c'è niente

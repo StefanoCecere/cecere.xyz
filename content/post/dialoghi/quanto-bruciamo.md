@@ -1,21 +1,19 @@
 ---
 title: Quanto Bruciamo
+date: 2019-12-31
+updated: 2024-03-19
 slug: quanto-bruciamo
-subtitle: ''
-summary: ''
-authors: []
+subtitle: ""
+description: ""
+authors:
+  - stefano
 tags:
   - ambiente
+  - dialoghi
 categories:
   - dialoghi
-date: 2019-12-31T19:10:33.000Z
 featured: false
 draft: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-projects: []
 ---
 
 - allora.. quanti soldi vogliamo bruciare stanotte?

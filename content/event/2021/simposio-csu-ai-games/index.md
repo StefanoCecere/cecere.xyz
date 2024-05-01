@@ -52,7 +52,7 @@ Il videogioco è già considerabile come un medium "umanista" dove il giocatore 
 
 Gli sviluppatori di videogiochi potrebbero essere i prossimi a dover rispettare un "giuramento di Ippocrate"?
 
-ecco il video dell'intervento e troverete tutta la trascrizione e approfondimenti [qui]({{< ref "/studio/humanist-tech/" >}})
+ecco il video dell'intervento e troverete tutta la trascrizione e approfondimenti [qui](https://2042ed.org/studio/monografie/umanesimo-tecnologia/)
 
 {{< youtube C9UvZYSwkTs >}}
 

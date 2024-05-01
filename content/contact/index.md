@@ -35,4 +35,4 @@ per partecipare ai vari progetti
 
 ## Livello Boss
 
-- [❤️ come puoi aiutarmi](/sponsor/)
+- [❤️ come puoi aiutarmi](../xyz/sponsor.md)

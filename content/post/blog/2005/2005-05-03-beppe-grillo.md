@@ -7,13 +7,13 @@ categories: [blog]
 tags: [BeppeGrillo]
 ---
 
-stanotte ho visto la registrazione dell'ultimo spettacolo di [Beppe Grillo](../../../notes/people/beppe-grillo.md) al Forum di Milano, trasmesso (ringraziamola) dalla tv svizzera italiana.
+stanotte ho visto la registrazione dell'ultimo spettacolo di [Beppe Grillo](../../people/beppe-grillo.md) al Forum di Milano, trasmesso (ringraziamola) dalla tv svizzera italiana.
 
 spettacolo assolutamente da vedere e da meditare.
   
 giustamente Beppe ribadisce che molte cose le diceva già 10 anni fa...
 
-(finalmente) sembra aver aperto anche lui un blog: http://www.beppegrillo.it
+(finalmente) sembra aver aperto anche lui un blog: <http://www.beppegrillo.it>
   
 dico finalmente perché fino all'anno scorso era praticamente assente da internet (di cui oggi ne elogia le capacità rivoluzionarie)
 

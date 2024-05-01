@@ -7,7 +7,7 @@ tags: ["M5S"]
 categories:
 ---
 
-ieri ho partecipato a Ivrea a [SUM #02](../../../notes/sum.md): un evento incredibile che merita di essere conosciuto.  sto preparando quindi una bella sintesi dei punti salienti per poi invitarvi a vederne i video (è andato tutto in streaming ma seguire 8 ore di video non è facile)
+ieri ho partecipato a Ivrea a [SUM #02](../../notes/sum.md): un evento incredibile che merita di essere conosciuto.  sto preparando quindi una bella sintesi dei punti salienti per poi invitarvi a vederne i video (è andato tutto in streaming ma seguire 8 ore di video non è facile)
 
 anticipo giusto qualche appunto
 

@@ -10,8 +10,8 @@ categories: [stefano]
 tags: [work]
 ---
 
-Ho iniziato a lavorare nel 1988 e non ho mai smesso di studiare lavorando in moltissimi progetti (vedere mio [CV](/stefano/cv) e [progetti](/projects)). Ho probabilmente esperienza e capacità per essere un buon consulente in questi ambiti.  
-NB: lavoro solo per progetti o clienti che ritengo etici, e preferibilmente a ore e da remoto. [Contattami](/contact) per parlarne.
+Ho iniziato a lavorare nel 1988 e non ho mai smesso di studiare lavorando in moltissimi progetti (vedere mio [CV](cv.md) e [progetti](../project/_index.md)). Ho probabilmente esperienza e capacità per essere un buon consulente in questi ambiti.  
+NB: lavoro solo per progetti o clienti che ritengo etici, e preferibilmente a ore e da remoto. [Contattami](../contact/index.md) per parlarne.
 
 ## game design e game development
 

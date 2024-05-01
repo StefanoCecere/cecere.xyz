@@ -20,5 +20,4 @@ url_video: ""
 slides: ""
 ---
 
-questo progetto è spiegato bene qui: [progetto Jamurr](/jamurr)
-
+questo progetto è spiegato bene qui: [progetto Jamurr](https://2042ed.org/lab/)

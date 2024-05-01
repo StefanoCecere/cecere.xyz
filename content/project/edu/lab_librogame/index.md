@@ -19,6 +19,9 @@ url_slides: ""
 url_video: ""
 slides: ""
 ---
+
+NB: tutto il progetto è spiegato qui: <https://2042ed.org/lab/activities/librogame-lab/>
+
 Per imparare a creare un videogioco, è importante capire come si costruisce una storia dove il lettore/giocatore possa interagire e fare delle scelte.
 In questo laboratorio faremo vedere come dietro ai videogiochi ci sono dei "diagrammi di flusso e scelta" con enigmi e difficoltà da superare.
 Aiuteremo quindi i ragazzi a inventare una semplice storia-gioco e a produrla su carta, per portarsi a casa il proprio "librogame", pronto per essere condiviso ed eventualmente trasferito su un computer (magari in un prossimo laboratorio 🙂
@@ -35,17 +38,4 @@ dopo un'ora di lavoro le mappe erano finite.
 
 Una merenda con pane e olio (rigorosamente delle nostre colline fiorentine) e poi via alla produzione del librino e rilegatura.
 
-## materiali
-i materiali per il laboratorio sono questi:
-- la **MAPPA** per progettare la storia [PDF](assets/LibroGameLab%20Mappa%20-%20A3.pdf)
-- la **COPERTINA**, da stampare su cartoncino magari colorato [PDF](assets/LibroGameLab%20Copertina%20-%20A4%20cartoncino.pdf)
-- le **PAGINE** interne dove disegnare e scrivere [PDF](assets/LibroGameLab%20Pagina%20-%20A4.pdfLibroGameLab%20Copertina%20-%20A4%20cartoncino.pdf)
-
-## durata e costo
-durata: 4 ore  
-costo: 5 euro a testa di materiale
-
-## foto
-ecco qualche foto della mattinata.
-
-{{< sc_gallery album="img" >}}
+![foto](./foto_01.jpg)
