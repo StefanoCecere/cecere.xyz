@@ -5,10 +5,10 @@ date: 2008-06-04
 guid: http://cecere.xyz/2008/06/04/europe-4-peace-francesco-sarcina/
 id: 999
 tags:
-- arte
+- attivismo
 - disarmo
 - Europe4Peace
-- umanista
+- pdf
 title: "Europe 4 Peace - Francesco Sarcina"
 slug: /2008/06/europe-4-peace-francesco-sarcina/
 updated: 2022-03-22
@@ -20,7 +20,11 @@ Conosco Francesco da molti anni (era l'estate 2001 in Sardegna..) e da tempo seg
 
 poi è arrivata l'emergenza dello Scudo Spaziale, gli scioperi della fame, mille eventi tra i quali siamo riusciti a incontrarci e deciso di focalizzarci sulla campagna Europe For Peace per il disarmo nucleare e il No allo Scudo Spaziale.
 
-innanzitutto abbiamo realizzato lo spot video ed una <a href="http://it.youtube.com/watch?v=ENtuLHV2zDU" target="_blank">lunga intervista</a>.
+innanzitutto abbiamo realizzato lo spot video ed una lunga intervista.
+
+{{< youtube ENtuLHV2zDU >}}
+![](https://www.youtube.com/watch?v=ENtuLHV2zDU)
+
 
 quindi tra discussioni deliranti sul come farlo e chiarimenti sul tema della nonviolenza, tra dati sul riarmo nucleare e spassosissime parodie del "Bingo Bongo" che è in noi, ecco il risultato:
 
@@ -32,8 +36,8 @@ spero vi piaccia e che possa essere utile nel comprendere il progetto del Movime
 
 ![](../../../assets/img/post/2008/europeforpeace_francesco_sarcina.jpg)
 
-Scarica il PDF: #TODO_assets
+[Scarica il PDF](../../../assets/files/europeforpeace_francesco_sarcina.pdf)
 
 mentre stiamo ultimando la intervista integrale di 20 minuti, ecco qui di nuovo lo spot video:
 
-[](www.nonviolenza.net)
+[www.nonviolenza.net](http://www.nonviolenza.net)

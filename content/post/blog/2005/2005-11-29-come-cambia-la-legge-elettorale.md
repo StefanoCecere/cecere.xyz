@@ -21,7 +21,7 @@ allego qui un semplice powerpoint nel quale viene spiegato come cambia la legge 
   
 Se cambia qualcosa…
 
-[ECCOLO QUI: legge\_elettorale\_2005.pps](/wp-content/legge_elettorale_2005.pps "")
+[ECCOLO QUI: legge_elettorale_2005.pps](../../../assets/files/legge_elettorale_2005.pps)
 
 a presto 😉
 

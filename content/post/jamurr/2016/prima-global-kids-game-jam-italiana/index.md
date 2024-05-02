@@ -34,6 +34,6 @@ Stefano e Fabio hanno partecipato alla Global Game Jam 2016 (a Pisa) creando di 
 
 l’esperienza e il risultato sono stati emozionanti, tanto da vincere il premio miglior gioco e miglior giovane game designer.
 
-potete trovare il gioco alla pagina progetto [Non sono solo una pecora]({{< relref "/project/jamurr/non-sono-solo-una-pecora" >}})
+potete trovare il gioco alla pagina progetto [Non sono solo una pecora](../../../../project/jamurr/non-sono-solo-una-pecora/index.md)
 
 {{< sc_gallery album="gallery" >}}

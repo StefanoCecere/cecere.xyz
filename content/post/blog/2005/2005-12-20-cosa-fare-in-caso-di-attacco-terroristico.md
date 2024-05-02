@@ -4,14 +4,11 @@ date: 2005-12-20
 guid: http://stefanocecere.com/2005/12/20/cosa-fare-in-caso-di-attacco-terroristico/
 id: 188
 tags:
-- ricreazione
+- ridere
 - terrorismo
-- umanista
 title: Cosa fare in caso di attacco terroristico
 slug: /2005/12/cosa-fare-in-caso-di-attacco-terroristico/
 ---
-
-[cosa](./2005-12-20-cosa-fare-in-caso-di-attacco-terroristico.md)
 
 non se ne parla più tanto, ma il tema è sempre attuale.
   
@@ -19,7 +16,7 @@ La Campagna <a href="http://www.ilfuturosipuocambiare.org" target="_blank">il Fu
 
 e ora GODETEVI questa guida PRATICA, ESSENZIALE, su come comportarvi in caso di attacco terroristico… se non morite prima dal ridere… 🙂
 
-[SCARICA QUI LA GUIDA (230Kb di PDF)](/wp-content/Cosafareincasodiattaccoterroristico.pdf "")
+[SCARICA QUI LA GUIDA (230Kb di PDF)](../../../assets/files/Cosafareincasodiattaccoterroristico.pdf)
 
 ps-1: grazie Giovanna! 😉
   

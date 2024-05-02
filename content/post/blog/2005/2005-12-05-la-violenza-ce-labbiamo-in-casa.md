@@ -15,7 +15,7 @@ meglio accanirsi verso gli “altri”.. chiunque sia.. anzi se sconosciuto megl
 
 guardatevi questo dossier sulla violenza subita dal 70% delle donne (in questo caso francesi, ma non credo sia molto diverso in altri paesi):
 
-scarica il file PDF: [violenza domestica alle donne](/wp-content/violenza_domestica_donne.pdf)
+scarica il file PDF: [violenza domestica alle donne](../../../assets/files/violenza_domestica_donne.pdf)
 
 già: non è facile rimanere sconnessi con questo tema e far finta di niente, vero?
   
