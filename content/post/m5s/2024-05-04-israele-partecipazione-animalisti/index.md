@@ -17,9 +17,10 @@ Oggi ho firmato queste tre petizioni rivolte ai Canditati alle Europee 2024.
 Di ognuna segnalo i punti fondamentali e un mio commento.
 
 ## Vote for Palestine
-> "Sono un attivista per la pace, la nonviolenza e il disarmo dal 1996 e ho seguito direttamente le varie guerre, dal Kosovo in poi, studiando e confrontandomi regolarmente nell'ambito pacifista "temendo" l'escalation militare mondiale che stiamo vedendo. Lo scenario non è mai stato tanto preoccupante ed esplosivo. Dobbiamo tamponare il prima possibile questi conflitti prima che diventino globali e promuovere la Cultura della Pace con Commissari specifici, Conferenze di Pace e un immediato freno alla corsa al riarmo. Nel contempo ritengo importante ribadire il diritto di Israele di esistere e di poter garantire la sicurezza di vivere in pace a tutti gli israeliani."
 
 ![](./vote4palestine.jpg)
+
+> "Sono un attivista per la pace, la nonviolenza e il disarmo dal 1996 e ho seguito direttamente le varie guerre, dal Kosovo in poi, studiando e confrontandomi regolarmente nell'ambito pacifista "temendo" l'escalation militare mondiale che stiamo vedendo. Lo scenario non è mai stato tanto preoccupante ed esplosivo. Dobbiamo tamponare il prima possibile questi conflitti prima che diventino globali e promuovere la Cultura della Pace con Commissari specifici, Conferenze di Pace e un immediato freno alla corsa al riarmo. Nel contempo ritengo importante ribadire il diritto di Israele di esistere e di poter garantire la sicurezza di vivere in pace a tutti gli israeliani."
 
 [www.eccpalestine.org](https://www.eccpalestine.org/difendete-il-diritto-internazionale-vota-la-palestina/)
 
@@ -37,10 +38,11 @@ digitali dei palestinesi;
 
 ## For a Democratic Wave
 
+[democraticwave.eu](https://democraticwave.eu)
+
 > I promote participation and community platform since the early digital age (1997). As early open-source developer and Humanist Movement activist, an international organization, i'v been exploring the possiiblities and digital platforms and tools to improve people participations and access to information. Interoperability and open standards are the root keys to any democratic development.
 
 ![](ride-democratic.jpg)
-[democraticwave.eu](https://democraticwave.eu)
 
 - empower the European Parliament to be an advocate for citizen participation processes supported inter-institutionally, engaging parliaments of the Member States where needed.
 - advocate to strengthen the existing democratic instruments the EU has to engage its citizens, such as the European Citizens’ Initiative and the European Citizens’ Panels, to give them a greater political impact on EU policy-making
@@ -49,10 +51,11 @@ digitali dei palestinesi;
 
 ## Vote for Animals
 
+[voteforanimals.it](https://voteforanimals.it/candidato/stefano-cecere/)
+
 > Sono attivista umanista dal 1996 per la Pace, la Nonviolenza e la Partecipazione. Sostengo pienamente le cause animaliste e ambientaliste. La sofferenza non è solo umana e noi viviamo in un ecosistema di cui è bene avere grande cura. Promuovo da decenni una dieta sempre più vegetariana.
 
 ![](vote-animals.jpg)
-[voteforanimals.it](https://voteforanimals.it/candidato/stefano-cecere/)
 
 1. Abolizione delle gabbie negli allevamenti
 2. Riforma della legislazione europea sul benessere animale
