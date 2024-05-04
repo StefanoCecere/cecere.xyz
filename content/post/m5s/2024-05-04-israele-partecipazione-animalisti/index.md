@@ -2,9 +2,14 @@
 title: Sostegno per Palestina, Partecipazione e Animali
 date: 2024-05-04
 updated: 2024-05-04
+categories:
+  - politica
 tags:
   - M5S
   - cecere
+  - palestina
+  - animalismo
+  - partecipazione
 draft: false
 ---
 
