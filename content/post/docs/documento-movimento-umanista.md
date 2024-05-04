@@ -3,6 +3,7 @@ title: Documento del Movimento Umanista
 date: 1995-05-05
 updated: 2023-08-11
 categories: 
+  - documenti
 tags: [Silo, MovimentoUmanista, NuovoUmanesimo]
 description: 
 type: book

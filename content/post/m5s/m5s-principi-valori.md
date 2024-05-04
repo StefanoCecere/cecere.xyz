@@ -4,11 +4,11 @@ slug: m5s-principi-valori
 summary: 
 author: Movimento 5 Stelle
 date: 2022-03-11
-lastmod: 2022-08-08T00:00:00Z
+lastmod: 2022-08-08
 toc: true
 type: book
-categories: politica
-tags: ["M5S", "politica"]
+categories: docs
+tags: [M5S, politica]
 ---
 
 La seguente Carta dei Principi e dei Valori costituisce parte integrante dello Statuto (che potete scaricare [qui](https://www.movimento5stelle.eu/wp-content/uploads/2022/04/STATUTO-M5S-in-vigore-dal-11-marzo-2022.pdf))

@@ -7,7 +7,9 @@ lastmod: 2020-10-27T00:00:00Z
 draft: false
 toc: true
 type: book
-tags: ["M5S", "politica"]
+categories:
+ - politica
+tags: [M5S, politica]
 ---
 > premessa: sono Stefano Cecere e da 30 anni mi appassiono di giochi educativi, tecnologia, società e umanesimo, sono attivista dal 1996.
 

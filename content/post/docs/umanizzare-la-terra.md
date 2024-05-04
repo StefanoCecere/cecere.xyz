@@ -3,7 +3,9 @@ title: Umanizzare la terra
 date: 2005-10-17
 updated: 2023-08-11
 categories: 
+  - docs
 tags: 
+  - MovientoUmanista
 description: 
 permalink: /it/libri/umanizzare-la-terra/
 id: 2209
