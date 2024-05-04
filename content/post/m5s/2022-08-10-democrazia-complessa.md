@@ -1,8 +1,8 @@
 ---
 title: "La complessità della democrazia"
 slug: /democrazia-complessa/
-date: 2022-08-10T20:24:14
-lastmod: 2019-08-22T15:20:28.000Z
+date: 2022-08-10
+lastmod: 2019-08-22
 draft: true
 tags: [politica, democrazia, complessita]
 categories: [blog]
@@ -28,10 +28,10 @@ Di fatto siamo tutti diversi: ci sono 40 milioni di elettori diversi. e non è p
 
 Non per niente almeno il 40% delle persone non votano più.
 
-C'è un videogiochi, si chiama Democracy, che rappresenta molto bene questa complessità. E' una simulazione, non prendiamola per oro colato, ma questo video di due minuti che racconta "l'elettore" è una buona introduzione per intuire il tema https://youtu.be/a03gx9HF9dQ
+C'è un videogioco, si chiama **Democracy**, che rappresenta molto bene questa complessità. E' una simulazione, non prendiamola per oro colato, ma questo video di due minuti che racconta "l'elettore" è una buona introduzione per intuire il tema <https://youtu.be/a03gx9HF9dQ>
 
 Il nostro sistema politico deve necessariamente semplificare molte cose.. non ci possono essere 40.000 partiti. Su alcune questioni non funzionerebbe nemmeno la scelta a maggioranza netta, la Democrazia Diretta è una bellissima cosa ma va contestualizzata e usata in modo intelligente.
 
 Sicuramente ci servono persone che capiscano questi problemi, che sappiano capire le diverse situazioni di milioni di persone, che abbiano degli obiettivi chiari e condivisi, che si appoggino su dei valori inossidabili peer cui sia chiaro come andranno a ragionare e dirigere le scelte.
 
-La Politica è forse il #gioco collettivo più complesso che si sta giocando sulla Terra.
+> La Politica è forse il gioco collettivo più complesso che si sta giocando sulla Terra.
