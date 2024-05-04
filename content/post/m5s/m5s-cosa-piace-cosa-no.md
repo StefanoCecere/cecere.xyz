@@ -5,14 +5,9 @@ subtitle: ""
 summary: ""
 categories: [politica]
 tags: [m5s]
-date: 2022-08-05T08:13:05+01:00
+date: 2022-08-05
 featured: false
-draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-projects: []
+draft: true
 ---
 Non voglio fare la storia del M5S e di come è combiato ed evoluto. Non servirebbe a nessuno. Sopratutto perché il M5S di Agosto 2022 è molto diverso da quello di maggio 2018 o del 2013 o del 2009. Quindi tanto vale partire dalla situazione attuale.
 
