@@ -17,13 +17,16 @@ public/
 # Mac
 .DS_Store
 
+# Vue
+content/.vuepress/.cache/
+content/.vuepress/.temp/
+content/.vuepress/dist/
+
 public/
 resources/
 drafts/
 _local/
-.Ulysses-Group.plist
 content/.obsidian
 assets/jsconfig.json
 .frontmatter
 frontmatter.json
-assets/jsconfig.json
