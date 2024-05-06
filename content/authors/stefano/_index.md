@@ -165,7 +165,7 @@ tra educazione, politica, giochi e tecnologia per migliorare il mondo. ▶️�
     chi sono? dove vado? perché?
     <h3><a href="/now">Ora</a></h3>
     cosa sto facendo?
-    <h3><a href="/projects">Progetti</a></h3>
+    <h3><a href="/project">Progetti</a></h3>
     tutti i progetti a cui ho lavorato
     <h3><a href="/tag/pace/">Costruttore di Pace</a></h3>
     alcune attività pacifiste degli ultimi 30 anni
