@@ -7,6 +7,7 @@ toc: true
 ![](../assets/img/stefano/StefanoCecere_photo_500.jpg)
 
 Mi chiamo Stefano Cecere e Ricerco e Sviluppo nell'intersezione tra il **Game design**, l'**EdTech**, l'**Intelligenza Artificiale** e la **XR** applicate allo sviluppo personale e sociale, open source, innovativo.
+
 In questo periodo mi interesso di:
 
 - Giochi, Tecnologia e Filosofia
