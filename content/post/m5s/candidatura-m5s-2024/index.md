@@ -15,13 +15,12 @@ toc: true
 type: book
 ---
 
-Lunedì 22 aprile si svolgeranno le primarie del Movimento 5 Stelle per selezionare i candidati per le elezioni europee del 2024.  
-Chiedo a tutti gli iscritti del M5S della **circoscrizione Centro Italia (Lazio, Marche, Toscana e Umbria)** di valutare la mia auto candidatura.
+Sabato 8 e Domenica 9 giugno gli elettori della **circoscrizione Centro Italia (Lazio, Marche, Toscana e Umbria)** potranno votarmi per il Parlamento Europeo.
 
 ## Perché mi candido?
 
-- Sviluppo videogiochi educativi, amo stare con la gente, studio tutti i giorni e da eletto potrei davvero migliorare il Movimento.
-- - Ho le competenze, l’esperienza e la motivazione che servono per portare avanti le idee fondanti del M5S: dalla creazione di **comunità** alla **comunicazione**, dalla conoscenza tecnica dell'intelligenza artificiale a come promuovere il dialogo e le soluzioni win-win, dalla **velocità di apprendimento** al **ragionamento sistemico**.
+- [Sviluppo videogiochi educativi](https://beppegrillo.it/videogiochi-per-educare-al-futuro/), amo stare con la gente, studio tutti i giorni e da eletto potrei davvero migliorare il Movimento.
+- Ho le competenze, l’esperienza e la motivazione che servono per portare avanti le idee fondanti del M5S: dalla creazione di **comunità** alla **comunicazione**, dalla conoscenza tecnica dell'intelligenza artificiale a come promuovere il dialogo e le soluzioni win-win, dalla **velocità di apprendimento** al **ragionamento sistemico**.
 - Ho passione per le relazioni e il dialogo costruttivo. So riconoscere le persone in gamba e quelle subdole.
 - Sono **attivista dal 1996** (avevo 23 anni) per il cambiamento sociale con priorità la nonviolenza attiva, la partecipazione dell'insieme e l'auto-educazione
 - Sono **iscritto al M5S dal 2009** e con tutte le sue evoluzioni è ancora miglior attuale progetto politico, rivoluzionario, dal grande potenziale, ma **ha bisogno di persone esperte di attivismo** per renderlo più dinamico e pro-attivo.
@@ -30,6 +29,7 @@ Chiedo a tutti gli iscritti del M5S della **circoscrizione Centro Italia (Lazio,
   
 ## Temi chiave su cui sono molto esperto
 
+- Game Design per l'impatto sociale e Didattica Innovativa
 - Intelligenza Artificiale e Innovazione Tecnologica
 - Pace e Nonviolenza Attiva
 - Nuovo Umanesimo
@@ -50,23 +50,29 @@ Chiedo a tutti gli iscritti del M5S della **circoscrizione Centro Italia (Lazio,
 - iniziato a fare censimento e contatti ufficiali di tutte le realtà M5S toscane da dare in mano ai coordinatori provinciali (vedi [https://2050x.org/m5s/territori/](https://2050x.org/m5s/territori/))
 - ho parlato a diversi livelli su come migliorare la comunicazione, l'organizzazione delle comunità e favorire la formazione di base degli attivisti
 
-## Riferimenti
+## Seguimi e aiutami
 _Potete andare direttamente a questi link dove non ho nascosto nulla di quello che faccio e penso:_
+
+Per **seguirmi** suggerisco:
+
+- [Newsletter 2042](https://2042.substack.com/subscribe) (Newsletter 2042 su tecnologia, educazione e futuro)
+- [Canale Telegram](https://t.me/cecere2042) (messaggi diretti. Il mio canale preferito)
+- [Canale WhatsApp](https://chat.whatsapp.com/CjWcksEAFHZKG9Edahs2yO) (se proprio non avete Telegram!)
+
+Per **conoscermi** meglio:
 
 - Profilo M5S: <https://portale.movimento5stelle.eu/partners/stefano-cecere-185163>
 - Progetto 2050x / M5S InForma: <https://2050x.org/>
-- Newsletter 2042 su tecnologia, educazione e futuro: <https://2042.substack.com/>
 - Portale 2042ed: <https://2042ed.org/>
-- Profilo Facebook: <https://www.facebook.com/StefanoCecere/>
 - Pagina Facebook: <https://www.facebook.com/cecere2042>
+- Pagina Facebook personale: <https://www.facebook.com/stefanocecere>
 - LinkedIn: <https://www.linkedin.com/in/stefanocecere/>
 
-## CHIEDIMI QUALSIASI COSA
-Prima di leggere qui sotto, ricordo di potermi chiedere quasiasi cosa. 
+Per **aiutarmi**:
 
-- per email [stefano.cecere@gmail.com](mailto:stefano.cecere@gmail.com)
-- sul mio [canale Telegram](https://t.me/cecere2042)
-- su [questo post di Facebook](https://www.facebook.com/cecere2042/posts/pfbid0nNKjfEvKJED8RxM41ECCbQm2NmKzezk218hZcWRkiTbxLS4cHvf8zsEeL5Gn4br3l)
+- entra nel gruppo Telegram [M5S InForma - comunità](https://t.me/m5sinforma)
+- entra nel gruppo Facebook [M5S InForma - 2050x](https://www.facebook.com/groups/2050x)
+- scrivetemi [stefano.cecere@gmail.com](mailto:stefano.cecere@gmail.com)
 
 ### Perchè dici che solo da eletto potresti migliorare il Movimento?
 Sono sempre stato un attivista "semplice" e tutte le mie idee e attività, seppure apprezzate, non sono mai entrate in modo sistematico nel Movimento.

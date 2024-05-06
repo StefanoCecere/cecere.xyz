@@ -11,7 +11,10 @@ seguimi lentamente
 (una email di sintesi settimanale)
 
 - [Canale Telegram](https://t.me/cecere2042)  
-(messaggi diretti ogni tanto)
+(messaggi diretti. Il mio canale preferito)
+
+- [Canale WhatsApp](https://chat.whatsapp.com/CjWcksEAFHZKG9Edahs2yO)  
+(se proprio non avete Telegram!)
 
 ## Livello 2
 seguimi in modo interattivo
