@@ -5,6 +5,11 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: 
+      subtitle: 
+      text: PUOI VOTARMI! ![](../assets/img/stefano/cecere-banner-europee-2024.jpg)
   - block: about.biography
     id: about
     content:
