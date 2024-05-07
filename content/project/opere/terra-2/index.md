@@ -3,16 +3,7 @@ title: Terra 2.0
 slug: terra-2
 summary: un album di musiche ispirate alla Terra del futuro
 tags: [music]
-date:"2003-06-21
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-links:
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+date: 2003-06-21
 ---
 
 {{< rawhtml >}}
