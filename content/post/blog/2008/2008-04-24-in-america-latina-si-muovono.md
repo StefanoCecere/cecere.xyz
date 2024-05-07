@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-24T14:23:13Z
+date: 2008-04-24
 guid: http://cecere.xyz/2008/04/24/in-america-latina-si-muovono/
 id: 896
 tags:

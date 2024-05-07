@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-07-04T01:12:32Z
+date: 2007-07-04
 guid: http://cecere.xyz/2007/07/04/sesso-o-guerra/
 id: 514
 tags:

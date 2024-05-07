@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-09-23T07:37:51Z
+date: 2005-09-23
 guid: http://stefanocecere.com/2005/09/23/storace-e-la-pillola-un-rapporto-difficile/
 id: 92
 title: 'Storace e la pillola: un rapporto difficile'

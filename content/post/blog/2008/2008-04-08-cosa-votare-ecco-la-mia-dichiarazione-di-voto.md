@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-04-08T10:39:23Z
+date: 2008-04-08
 guid: http://cecere.xyz/2008/04/08/cosa-votare-ecco-la-mia-dichiarazione-di-voto/
 id: 816
 tags:

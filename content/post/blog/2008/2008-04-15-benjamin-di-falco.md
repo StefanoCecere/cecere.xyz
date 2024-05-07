@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-15T09:38:01Z
+date: 2008-04-15
 guid: http://cecere.xyz/2008/04/15/benjamin-di-falco/
 id: 871
 tags:

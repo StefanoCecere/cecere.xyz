@@ -5,7 +5,7 @@ subtitle: ""
 summary: ""
 categories: [quiz]
 tags: []
-date: 2021-04-18T13:58:37+02:00
+date: 2021-04-18
 featured: false
 draft: false
 image:

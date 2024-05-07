@@ -2,7 +2,7 @@
 draft: false
 categories:
 - JJ
-date: 2015-02-05T06:05:24Z
+date: 2015-02-05
 format: image
 guid: http://stefanocecere.com/?p=5671
 id: 5671

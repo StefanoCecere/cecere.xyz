@@ -3,7 +3,7 @@ title: Barzellettina
 slug: /2009/04/barzellettina/
 draft: false
 categories: [blog]
-date: 2009-04-29T02:00:49Z
+date: 2009-04-29
 guid: http://stefanocecere.com/2009/04/29/barzellettina/
 id: 1703
 tags:

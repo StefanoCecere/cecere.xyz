@@ -5,7 +5,7 @@ event_url: ''
 location: Milano
 summary: presentazioni dei mondo del Games 4 Change, ovvero giochi educativi e di impatto sociale
 abstract: ''
-date: 2015-09-19T16:00:00+02:00
+date: 2015-09-19
 date_end: 2015-09-19T17:00:00+02:00
 all_day: false
 publishDate: 2019-08-28T23:00:11+02:00

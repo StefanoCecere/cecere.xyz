@@ -5,7 +5,7 @@ subtitle: ""
 description: ""
 tags: [vita]
 categories: [blog]
-date: 2014-11-14T15:42:08+01:00
+date: 2014-11-14
 featured: false
 draft: false
 image:

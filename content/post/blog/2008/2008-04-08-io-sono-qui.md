@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-08T19:11:28Z
+date: 2008-04-08
 guid: http://cecere.xyz/2008/04/08/io-sono-qui/
 id: 818
 tags:

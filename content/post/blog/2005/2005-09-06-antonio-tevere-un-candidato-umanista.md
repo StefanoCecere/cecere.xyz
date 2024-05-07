@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-09-06T09:12:23Z
+date: 2005-09-06
 excerpt: L'Uomo al centro dei programmi
 guid: http://stefanocecere.com/?p=79
 id: 79

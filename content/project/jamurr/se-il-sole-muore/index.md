@@ -3,7 +3,7 @@ title: Se il sole muore / If Sun dies
 summary: una storia interattiva fumetto
 categories: jamurr
 tags: [jamurr, GlobalGameJam, game]
-date: 2017-01-30T00:00:00Z
+date: 2017-01-30
 authors: []
 # Optional external URL for project (replaces project detail page).
 external_link: ""

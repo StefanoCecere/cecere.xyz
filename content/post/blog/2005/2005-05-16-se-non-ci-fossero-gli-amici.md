@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-05-16T23:30:39Z
+date: 2005-05-16
 guid: http://stefanocecere.com/?p=42
 id: 42
 title: se non ci fossero gli amici…

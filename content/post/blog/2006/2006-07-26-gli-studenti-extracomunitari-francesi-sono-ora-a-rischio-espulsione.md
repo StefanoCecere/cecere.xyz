@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-07-26T01:48:30Z
+date: 2006-07-26
 guid: http://cecere.xyz/2006/07/26/gli-studenti-extracomunitari-francesi-sono-ora-a-rischio-espulsione/
 id: 389
 title: gli studenti extracomunitari francesi sono ora a rischio espulsione

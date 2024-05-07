@@ -3,7 +3,7 @@ draft: false
 categories:
 - scienza
 - Smile
-date: 2011-03-07T09:40:24Z
+date: 2011-03-07
 guid: http://stefanocecere.com/?p=2399
 id: 2399
 tags:

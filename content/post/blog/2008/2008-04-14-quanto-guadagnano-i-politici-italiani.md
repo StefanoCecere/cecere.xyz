@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-14T11:32:22Z
+date: 2008-04-14
 guid: http://cecere.xyz/2008/04/14/quanto-guadagnano-i-politici-italiani/
 id: 865
 tags:

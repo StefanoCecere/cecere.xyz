@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2006-06-15T14:05:09Z
+date: 2006-06-15
 guid: http://cecere.xyz/2006/06/15/speciale-referendum-2006-ecco-cosa-devi-sapere/
 id: 338
 tags:

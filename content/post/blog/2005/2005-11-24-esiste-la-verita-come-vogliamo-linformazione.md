@@ -1,7 +1,7 @@
 ---
 categories: [blog]
 tags: [futuro]
-date: 2005-11-24T10:19:01Z
+date: 2005-11-24
 title: esiste la verità? come vogliamo l'informazione?
 slug: /2005/11/esiste-la-verita-come-vogliamo-informazione/
 ---

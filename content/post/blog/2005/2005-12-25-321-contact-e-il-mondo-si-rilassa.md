@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-12-25T02:51:32Z
+date: 2005-12-25
 guid: http://stefanocecere.com/2005/12/25/321-contact-e-il-mondo-si-rilassa/
 id: 194
 tags:

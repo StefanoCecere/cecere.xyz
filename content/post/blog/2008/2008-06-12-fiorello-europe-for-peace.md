@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-06-12T15:10:19Z
+date: 2008-06-12
 guid: http://cecere.xyz/2008/06/12/fiorello-europe-for-peace/
 id: 1023
 tags:

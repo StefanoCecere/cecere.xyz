@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-12-18T15:50:35Z
+date: 2005-12-18
 guid: http://stefanocecere.com/2005/12/18/una-giornata-storica/
 id: 186
 tags:

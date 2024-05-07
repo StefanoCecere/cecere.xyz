@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2009-03-04T11:33:30Z
+date: 2009-03-04
 guid: http://stefanocecere.com/2009/03/04/ricordando-callipari/
 id: 1559
 title: Ricordando Callipari

@@ -3,7 +3,7 @@ title: "C'è da preoccuparsi?"
 slug: /2009/04/ce-da-preoccuparsi/
 draft: false
 categories: [blog]
-date: 2009-04-30T11:02:26Z
+date: 2009-04-30
 guid: http://stefanocecere.com/?p=1708
 id: 1708
 tags:

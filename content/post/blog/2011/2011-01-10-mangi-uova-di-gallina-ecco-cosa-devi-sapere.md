@@ -3,7 +3,7 @@ draft: false
 categories:
 - Economia
 - tempi-moderni
-date: 2011-01-10T00:29:46Z
+date: 2011-01-10
 guid: http://stefanocecere.com/?p=2323
 id: 2323
 tags:

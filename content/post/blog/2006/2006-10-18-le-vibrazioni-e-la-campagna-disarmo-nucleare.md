@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-10-18T17:48:13Z
+date: 2006-10-18
 guid: http://cecere.xyz/2006/10/18/le-vibrazioni-e-la-campagna-disarmo-nucleare/
 id: 447
 tags:

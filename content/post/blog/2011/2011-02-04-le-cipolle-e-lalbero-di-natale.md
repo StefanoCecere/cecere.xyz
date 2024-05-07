@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Smile
-date: 2011-02-04T21:50:09Z
+date: 2011-02-04
 guid: http://stefanocecere.com/?p=2372
 id: 2372
 title: "Le cipolle e l'albero di Natale"

@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-05-16T08:36:36Z
+date: 2008-05-16
 guid: http://cecere.xyz/2008/05/16/digiuno-no-scudo-stellare/
 id: 941
 tags:

@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-06-09T09:21:39Z
+date: 2005-06-09
 guid: http://stefanocecere.com/?p=29
 id: 29
 title: il braccio violento della Legge, ma…

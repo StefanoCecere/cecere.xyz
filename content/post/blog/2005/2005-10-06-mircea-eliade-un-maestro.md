@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-10-06T18:30:35Z
+date: 2005-10-06
 guid: http://stefanocecere.com/2005/10/06/mircea-eliade-un-maestro/
 id: 100
 tags:

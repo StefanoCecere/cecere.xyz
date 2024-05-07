@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2015-02-16T06:02:48Z
+date: 2015-02-16
 guid: http://stefanocecere.com/?p=5665
 id: 5665
 title: meditando bambini

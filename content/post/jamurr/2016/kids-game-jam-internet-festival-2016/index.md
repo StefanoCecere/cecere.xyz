@@ -3,7 +3,7 @@ title: Kids Game Jam @ Internet Festival 2016
 subtitle: 
 summary: 
 projects: []
-date: 2016-11-15T00:00:00Z
+date: 2016-11-15
 draft: false
 featured: false
 authors:

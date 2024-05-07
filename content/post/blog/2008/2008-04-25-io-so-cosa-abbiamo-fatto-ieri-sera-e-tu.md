@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-25T03:29:51Z
+date: 2008-04-25
 guid: http://cecere.xyz/2008/04/25/io-so-cosa-abbiamo-fatto-ieri-sera-e-tu/
 id: 897
 tags:

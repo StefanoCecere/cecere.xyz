@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-06-20T01:04:39Z
+date: 2006-06-20
 guid: http://cecere.xyz/2006/06/20/e-online-il-video-corto-esperienze/
 id: 348
 tags:

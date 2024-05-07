@@ -2,7 +2,7 @@
 title: Una società psicopatica
 slug: 2016/05/una-societa-psicopatica
 subtitle: ""
-date: 2016-05-02T05:11:00
+date: 2016-05-02
 categories: [blog]
 tags: [sociologia]
 ---

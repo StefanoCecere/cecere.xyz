@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-09-08T08:16:48Z
+date: 2005-09-08
 guid: http://stefanocecere.com/?p=83
 id: 83
 title: ciai un gran bel culo!

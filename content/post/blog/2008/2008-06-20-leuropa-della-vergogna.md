@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-06-20T07:29:15Z
+date: 2008-06-20
 guid: http://cecere.xyz/2008/06/20/leuropa-della-vergogna/
 id: 1048
 tags:

@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-05-23T02:26:56Z
+date: 2005-05-23
 guid: http://stefanocecere.com/?p=38
 id: 38
 title: posizioni precise

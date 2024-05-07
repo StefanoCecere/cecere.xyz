@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-05-15T02:31:57Z
+date: 2005-05-15
 guid: http://stefanocecere.com/?p=43
 id: 43
 title: gli altri hanno bisogno di te…

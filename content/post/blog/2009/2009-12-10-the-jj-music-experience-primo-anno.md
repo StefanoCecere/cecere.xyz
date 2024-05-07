@@ -1,7 +1,7 @@
 ---
 categories:
 - JJ
-date: 2009-12-10T02:46:57Z
+date: 2009-12-10
 guid: http://stefanocecere.com/?p=1982
 id: 1982
 tags:

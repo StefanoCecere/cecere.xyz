@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-12-27T12:59:36Z
+date: 2005-12-27
 guid: http://stefanocecere.com/2005/12/27/una-richiesta-particolare/
 id: 196
 tags:

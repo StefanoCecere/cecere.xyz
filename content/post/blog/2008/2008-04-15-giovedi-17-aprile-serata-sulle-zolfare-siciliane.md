@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-15T14:03:44Z
+date: 2008-04-15
 guid: http://cecere.xyz/2008/04/15/giovedi-17-aprile-serata-sulle-zolfare-siciliane/
 id: 877
 tags:

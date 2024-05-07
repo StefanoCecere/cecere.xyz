@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-07-30T13:47:37Z
+date: 2005-07-30
 guid: http://stefanocecere.com/?p=6
 id: 6
 title: ancora sangue amaro…

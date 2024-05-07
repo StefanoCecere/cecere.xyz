@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2006-06-06T09:18:51Z
+date: 2006-06-06
 guid: http://cecere.xyz/2006/06/06/la-nostra-attuale-non-costituzione-italiana/
 id: 320
 tags:

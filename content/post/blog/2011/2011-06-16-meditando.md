@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Arte
-date: 2011-06-16T16:26:08Z
+date: 2011-06-16
 guid: http://stefanocecere.com/?p=2499
 id: 2499
 tags:

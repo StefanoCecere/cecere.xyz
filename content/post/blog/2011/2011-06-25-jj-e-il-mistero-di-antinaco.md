@@ -4,7 +4,7 @@ categories:
 - JJ
 - Spirito
 - tempi-moderni
-date: 2011-06-25T13:20:13Z
+date: 2011-06-25
 guid: http://stefanocecere.com/?p=2507
 id: 2507
 tags:

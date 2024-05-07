@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-03-25T01:00:13Z
+date: 2008-03-25
 guid: http://cecere.xyz/2008/03/25/giovedi-viva-zapatero/
 id: 771
 tags:

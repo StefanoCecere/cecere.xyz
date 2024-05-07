@@ -1,6 +1,6 @@
 ---
 title: il vero dilemma del carrello
-date: 2020-12-04T22:50:55
+date: 2020-12-04
 categories: [blog]
 tags: [filosofia,economia,etica,politica,AI]
 ---

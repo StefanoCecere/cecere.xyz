@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-10-03T15:11:00Z
+date: 2005-10-03
 guid: http://stefanocecere.com/2005/10/03/la-rivoluzione-mondiale/
 id: 99
 tags:

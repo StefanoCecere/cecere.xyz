@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-10-11T09:06:03Z
+date: 2005-10-11
 guid: http://stefanocecere.com/2005/10/11/droga-per-tutti/
 id: 103
 tags:

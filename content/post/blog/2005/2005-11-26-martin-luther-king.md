@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-11-26T02:26:42Z
+date: 2005-11-26
 guid: http://stefanocecere.com/2005/11/26/martin-luther-king/
 id: 159
 tags:

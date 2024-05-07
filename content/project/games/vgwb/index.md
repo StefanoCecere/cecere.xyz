@@ -5,7 +5,7 @@ slug: vgwb
 authors: []
 tags: ["gamedev", game, "social", "EdTech", "OpenSource"]
 categories: ["work"]
-date: 2017-06-10T16:27:02+02:00
+date: 2017-06-10
 external_link: ""
 image:
   caption: ""

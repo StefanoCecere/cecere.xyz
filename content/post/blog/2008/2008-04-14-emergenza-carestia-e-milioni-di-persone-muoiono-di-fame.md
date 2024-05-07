@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-14T12:16:24Z
+date: 2008-04-14
 guid: http://cecere.xyz/2008/04/14/emergenza-carestia-e-milioni-di-persone-muoiono-di-fame/
 id: 866
 tags:

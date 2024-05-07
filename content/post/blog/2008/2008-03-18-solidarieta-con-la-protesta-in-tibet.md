@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-03-18T12:13:43Z
+date: 2008-03-18
 guid: http://cecere.xyz/2008/03/18/solidarieta-con-la-protesta-in-tibet/
 id: 751
 tags:

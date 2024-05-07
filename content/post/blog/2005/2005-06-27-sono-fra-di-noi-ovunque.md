@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-06-27T13:20:14Z
+date: 2005-06-27
 guid: http://stefanocecere.com/?p=18
 id: 18
 title: Sono fra di noi, ovunque..

@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-08-27T07:03:37Z
+date: 2006-08-27
 guid: http://cecere.xyz/2006/08/27/tv-forza-onu-e-cerimonie-iniziatiche/
 id: 405
 tags:

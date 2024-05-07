@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-05-24T10:14:34Z
+date: 2007-05-24
 guid: http://cecere.xyz/2007/05/24/i-politici-non-sono-tutti-uguali/
 id: 510
 tags:

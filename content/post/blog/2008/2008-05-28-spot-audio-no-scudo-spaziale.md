@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-05-28T09:11:18Z
+date: 2008-05-28
 tags:
 - arte
 - azioni

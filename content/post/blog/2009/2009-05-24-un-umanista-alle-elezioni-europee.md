@@ -1,7 +1,7 @@
 ---
 categories:
 - Buone Nuove
-date: 2009-05-24T10:39:49Z
+date: 2009-05-24
 guid: http://stefanocecere.com/?p=1813
 id: 1813
 tags:

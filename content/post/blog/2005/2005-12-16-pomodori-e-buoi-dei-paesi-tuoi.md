@@ -1,7 +1,7 @@
 ---
 categories:
 - tempi-moderni
-date: 2005-12-16T20:12:52Z
+date: 2005-12-16
 guid: http://stefanocecere.com/2005/12/16/pomodori-e-buoi-dei-paesi-tuoi/
 id: 183
 title: Pomodori e buoi dei paesi tuoi

@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-12-07T09:13:47Z
+date: 2005-12-07
 guid: http://stefanocecere.com/2005/12/07/coma-in-val-di-susa/
 id: 170
 tags:

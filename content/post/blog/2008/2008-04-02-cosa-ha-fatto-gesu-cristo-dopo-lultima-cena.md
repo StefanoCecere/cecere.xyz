@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-02T09:07:53Z
+date: 2008-04-02
 guid: http://cecere.xyz/2008/04/02/cosa-ha-fatto-gesu-cristo-dopo-lultima-cena/
 id: 792
 tags:

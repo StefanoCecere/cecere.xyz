@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-06-11T14:05:39Z
+date: 2008-06-11
 guid: http://cecere.xyz/2008/06/11/spot-di-fiorello-campagna-europe-for-peace/
 id: 1017
 tags:

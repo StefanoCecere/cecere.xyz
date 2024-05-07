@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-04T09:04:09Z
+date: 2008-04-04
 guid: http://cecere.xyz/2008/04/04/ridurremo-la-fame-nel-mondo-facciamo-fuori-gli-affamati/
 id: 800
 tags:

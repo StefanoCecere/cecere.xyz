@@ -2,7 +2,7 @@
 draft: false
 categories:
   - tempi-moderni
-date: 2008-06-20T11:44:37Z
+date: 2008-06-20
 guid: http://cecere.xyz/2008/06/20/ansa-i-russi-e-lo-scudo-spaziale/
 id: 1054
 tags:

@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2015-05-03T07:48:06Z
+date: 2015-05-03
 format: video
 guid: http://stefanocecere.com/?p=5792
 id: 5792

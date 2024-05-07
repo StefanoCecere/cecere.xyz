@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2015-03-02T05:42:23Z
+date: 2015-03-02
 guid: http://stefanocecere.com/?p=5651
 id: 5651
 title: Standing ovation all'umiltà e all'autoconsapevolezza

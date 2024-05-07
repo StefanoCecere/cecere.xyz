@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Tweets
-date: 2013-09-30T15:08:47Z
+date: 2013-09-30
 format: status
 guid: http://twitter-384681232652840960-post
 id: 4678

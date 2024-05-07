@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2006-02-21T02:43:31Z
+date: 2006-02-21
 guid: http://cecere.xyz/2006/02/21/il-plus-energetico-e-levoluzione-umana/
 id: 232
 tags:

@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-06-02T13:10:27Z
+date: 2008-06-02
 guid: http://cecere.xyz/2008/06/02/servizio-su-no-radar-sul-tg3-piemonte/
 id: 996
 tags:

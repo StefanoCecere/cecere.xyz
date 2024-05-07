@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2015-02-17T06:33:05Z
+date: 2015-02-17
 format: image
 guid: http://stefanocecere.com/?p=5697
 id: 5697

@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-11-06T14:23:56Z
+date: 2005-11-06
 guid: http://stefanocecere.com/2005/11/06/un-amico-da-parigi-mi-scrive/
 id: 134
 tags:

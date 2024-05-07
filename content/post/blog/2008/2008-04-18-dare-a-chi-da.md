@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-18T11:42:44Z
+date: 2008-04-18
 guid: http://cecere.xyz/2008/04/18/dare-a-chi-da/
 id: 883
 tags:

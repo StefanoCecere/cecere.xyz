@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-05-25T11:12:17Z
+date: 2006-05-25
 guid: http://cecere.xyz/2006/05/25/una-partita-a-tennis-impressionante/
 id: 287
 tags:

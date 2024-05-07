@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-11-20T18:47:42Z
+date: 2007-11-20
 guid: http://cecere.xyz/2007/11/20/sushi-in-central-park/
 id: 606
 tags:

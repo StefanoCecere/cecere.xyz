@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-12-12T03:32:01Z
+date: 2006-12-12
 guid: http://cecere.xyz/2006/12/12/gli-umanisti/
 id: 468
 tags:

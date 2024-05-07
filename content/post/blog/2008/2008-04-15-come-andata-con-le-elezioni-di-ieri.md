@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Uncategorized
-date: 2008-04-15T17:52:29Z
+date: 2008-04-15
 guid: http://cecere.xyz/2008/04/15/come-andata-con-le-elezioni-di-ieri/
 id: 879
 tags:

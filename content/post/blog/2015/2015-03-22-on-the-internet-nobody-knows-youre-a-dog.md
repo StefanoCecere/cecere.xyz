@@ -3,7 +3,7 @@ draft: false
 categories:
 - tecnologia
 - tempi-moderni
-date: 2015-03-22T19:42:11Z
+date: 2015-03-22
 format: image
 guid: http://stefanocecere.com/?p=5709
 id: 5709

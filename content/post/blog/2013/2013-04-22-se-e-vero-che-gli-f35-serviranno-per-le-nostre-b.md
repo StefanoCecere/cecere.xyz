@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Tweets
-date: 2013-04-22T04:02:48Z
+date: 2013-04-22
 format: status
 guid: http://twitter-326169187909242881-post
 id: 4320

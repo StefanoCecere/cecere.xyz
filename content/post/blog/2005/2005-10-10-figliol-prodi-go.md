@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-10-10T09:20:54Z
+date: 2005-10-10
 guid: http://stefanocecere.com/2005/10/10/figliol-prodi-go/
 id: 104
 title: figliol prodi go

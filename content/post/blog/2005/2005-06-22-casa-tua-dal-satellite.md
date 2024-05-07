@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-06-22T15:21:15Z
+date: 2005-06-22
 guid: http://stefanocecere.com/?p=19
 id: 19
 title: casa tua dal satellite

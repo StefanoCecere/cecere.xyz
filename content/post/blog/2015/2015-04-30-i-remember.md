@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Terra 2.0
-date: 2015-04-30T10:08:38Z
+date: 2015-04-30
 guid: http://stefanocecere.com/?p=5786
 id: 5786
 tags:

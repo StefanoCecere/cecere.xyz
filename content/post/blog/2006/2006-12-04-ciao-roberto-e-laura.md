@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-12-04T10:50:16Z
+date: 2006-12-04
 guid: http://cecere.xyz/2006/12/04/ciao-roberto-e-laura/
 id: 467
 title: ciao Roberto e Laura

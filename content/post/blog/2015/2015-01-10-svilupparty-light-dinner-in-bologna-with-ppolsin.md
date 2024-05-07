@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Tweets
-date: 2015-01-10T20:59:05Z
+date: 2015-01-10
 format: status
 guid: http://twitter-554004523011035136-post
 id: 5581

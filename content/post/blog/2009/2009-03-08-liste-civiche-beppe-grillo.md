@@ -2,7 +2,7 @@
 draft: false
 categories: [blog]
 tags: [M5S]
-date: 2009-03-08T16:51:01Z
+date: 2009-03-08
 guid: http://stefanocecere.com/?p=1576
 id: 1576
 title: Liste civiche Beppe Grillo

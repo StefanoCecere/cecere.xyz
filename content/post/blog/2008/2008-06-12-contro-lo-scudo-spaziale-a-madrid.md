@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-06-12T14:24:00Z
+date: 2008-06-12
 guid: http://cecere.xyz/2008/06/12/contro-lo-scudo-spaziale-a-madrid/
 id: 1019
 tags:

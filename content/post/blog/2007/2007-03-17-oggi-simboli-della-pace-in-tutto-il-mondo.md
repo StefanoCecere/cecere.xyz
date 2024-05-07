@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-03-17T02:36:00Z
+date: 2007-03-17
 guid: http://cecere.xyz/2007/03/17/oggi-simboli-della-pace-in-tutto-il-mondo/
 id: 493
 tags:

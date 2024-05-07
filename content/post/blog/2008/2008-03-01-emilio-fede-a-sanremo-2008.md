@@ -3,7 +3,7 @@ title: Emilio Fede a Sanremo 2008
 slug: /2008/03/emilio-fede-a-sanremo-2008/
 categories:
     - blog
-date: 2008-03-01T22:24:52.000Z
+date: 2008-03-01
 guid: 'http://cecere.xyz/2008/03/01/emilio-fede-a-sanremo-2008/'
 id: 710
 tags:

@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-09-07T13:11:25Z
+date: 2005-09-07
 guid: http://stefanocecere.com/2005/09/09/tessuto-sociale/
 id: 82
 title: tessuto sociale

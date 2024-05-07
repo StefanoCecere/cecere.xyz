@@ -1,7 +1,7 @@
 ---
 categories: [blog]
 tags: [tempi-moderni]
-date: 2005-05-13T14:34:52Z
+date: 2005-05-13
 guid: http://stefanocecere.com/?p=45
 id: 45
 title: l'opinione pubblica

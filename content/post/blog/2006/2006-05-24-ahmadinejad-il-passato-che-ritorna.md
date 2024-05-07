@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-05-24T16:04:21Z
+date: 2006-05-24
 guid: http://cecere.xyz/2006/05/24/ahmadinejad-il-passato-che-ritorna/
 id: 277
 tags:

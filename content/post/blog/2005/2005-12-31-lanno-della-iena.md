@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-12-31T14:39:10Z
+date: 2005-12-31
 guid: http://stefanocecere.com/2005/12/31/lanno-della-iena/
 id: 199
 title: l'anno della iena

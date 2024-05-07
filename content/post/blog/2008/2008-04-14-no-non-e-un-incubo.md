@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-04-14T18:06:29Z
+date: 2008-04-14
 guid: http://cecere.xyz/2008/04/14/no-non-e-un-incubo/
 id: 868
 tags:

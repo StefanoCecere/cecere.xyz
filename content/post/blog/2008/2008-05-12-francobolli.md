@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Uncategorized
-date: 2008-05-12T00:31:03Z
+date: 2008-05-12
 guid: http://cecere.xyz/2008/05/12/francobolli/
 id: 923
 tags:

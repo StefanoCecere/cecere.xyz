@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-02-14T10:13:22Z
+date: 2008-02-14
 guid: http://cecere.xyz/2008/02/14/194-presidio-oggi-in-piazza-san-babila-alle-1730/
 id: 684
 tags:

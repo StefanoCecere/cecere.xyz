@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-03-19T06:37:02Z
+date: 2008-03-19
 guid: http://cecere.xyz/2008/03/19/qualche-consiglio-per-prepararsi-allimminente-recessione/
 id: 757
 tags:

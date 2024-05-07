@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-04T11:53:00Z
+date: 2008-04-04
 guid: http://cecere.xyz/2008/04/04/recessione-in-arrivo/
 id: 803
 tags:

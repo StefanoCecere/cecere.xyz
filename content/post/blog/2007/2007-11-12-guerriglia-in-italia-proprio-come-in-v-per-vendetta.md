@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-11-12T03:01:12Z
+date: 2007-11-12
 guid: http://cecere.xyz/2007/11/12/guerriglia-in-italia-proprio-come-in-v-per-vendetta/
 id: 601
 tags:

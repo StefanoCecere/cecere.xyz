@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-12-17T22:01:58Z
+date: 2007-12-17
 guid: http://cecere.xyz/2007/12/17/il-film-della-profezia-di-celestino/
 id: 623
 tags:

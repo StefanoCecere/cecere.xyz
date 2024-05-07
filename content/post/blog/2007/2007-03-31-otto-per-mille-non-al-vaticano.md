@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-03-31T00:45:49Z
+date: 2007-03-31
 guid: http://cecere.xyz/2007/03/31/otto-per-mille-non-al-vaticano/
 id: 499
 tags:

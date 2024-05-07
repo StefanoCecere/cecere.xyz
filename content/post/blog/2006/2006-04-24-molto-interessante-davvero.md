@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-04-24T08:59:57Z
+date: 2006-04-24
 guid: http://cecere.xyz/2006/04/24/molto-interessante-davvero/
 id: 261
 title: molto interessante davvero

@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-11-10T00:39:21Z
+date: 2005-11-10
 guid: http://stefanocecere.com/2005/11/10/e-ora-una-piccola-meditazione/
 id: 140
 tags:

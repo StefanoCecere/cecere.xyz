@@ -2,7 +2,7 @@
 draft: false
 categories:
 - scienza
-date: 2015-04-22T09:41:38Z
+date: 2015-04-22
 guid: http://stefanocecere.com/?p=5759
 id: 5759
 tags:

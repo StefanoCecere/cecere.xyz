@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-02-26T10:53:43Z
+date: 2008-02-26
 guid: http://cecere.xyz/2008/02/26/primi-commenti-su-sanremo-la-tatangelo-favorita-chi-vincera/
 id: 697
 tags:

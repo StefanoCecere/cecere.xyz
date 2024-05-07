@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-09-25T23:57:26Z
+date: 2006-09-25
 guid: http://cecere.xyz/2006/09/25/silo-un-uomo-veramente-straordinario/
 id: 430
 tags:

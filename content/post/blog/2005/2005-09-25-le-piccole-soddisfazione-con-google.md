@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-09-25T10:11:05Z
+date: 2005-09-25
 guid: http://stefanocecere.com/2005/09/25/le-piccole-soddisfazione-con-google/
 id: 95
 tags:

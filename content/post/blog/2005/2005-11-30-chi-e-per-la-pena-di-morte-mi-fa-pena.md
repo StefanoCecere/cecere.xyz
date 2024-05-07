@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-11-30T12:25:23Z
+date: 2005-11-30
 guid: http://stefanocecere.com/2005/11/30/chi-e-per-la-pena-di-morte-mi-fa-pena/
 id: 163
 tags:

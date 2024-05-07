@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-04-18T23:46:00Z
+date: 2006-04-18
 guid: http://cecere.xyz/2006/04/18/mackup-new-look-fashion-rinnovamento-ditelo-come-volete/
 id: 259
 title: mackup new look fashion rinnovamento ditelo come volete…

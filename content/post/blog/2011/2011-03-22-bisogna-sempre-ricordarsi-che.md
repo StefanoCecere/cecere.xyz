@@ -3,7 +3,7 @@ title: bisogna sempre ricordarsi che…
 slug: /2011/03/bisogna-sempre-ricordarsi-che/
 draft: false
 categories: [riflessioni]
-date: 2011-03-22T23:00:05Z
+date: 2011-03-22
 guid: http://stefanocecere.com/?p=2418
 id: 2418
 tags:

@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-05-13T18:16:33Z
+date: 2008-05-13
 guid: http://cecere.xyz/2008/05/13/bolivia-il-prossimo-10-agosto-referendum-sulla-revoca-del-mandato-a-morales/
 id: 929
 tags:

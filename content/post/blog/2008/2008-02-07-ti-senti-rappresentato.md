@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-02-07T15:06:27Z
+date: 2008-02-07
 guid: http://cecere.xyz/2008/02/07/ti-senti-rappresentato/
 id: 675
 tags:

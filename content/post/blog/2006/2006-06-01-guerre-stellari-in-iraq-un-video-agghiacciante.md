@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-06-01T01:11:59Z
+date: 2006-06-01
 guid: http://cecere.xyz/2006/06/01/guerre-stellari-in-iraq-un-video-agghiacciante/
 id: 303
 tags:

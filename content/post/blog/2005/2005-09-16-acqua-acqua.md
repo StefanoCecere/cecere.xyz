@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-09-16T01:35:20Z
+date: 2005-09-16
 guid: http://stefanocecere.com/2005/09/16/acqua-acqua/
 id: 88
 title: acqua… acqua…

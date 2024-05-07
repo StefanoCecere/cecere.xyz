@@ -1,7 +1,7 @@
 ---
 categories:
 - tempi-moderni
-date: 2005-11-04T11:06:29Z
+date: 2005-11-04
 guid: http://stefanocecere.com/2005/11/04/ma-cosa-sta-succedendo/
 id: 129
 tags:

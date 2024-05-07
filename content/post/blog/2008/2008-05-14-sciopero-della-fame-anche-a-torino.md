@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-05-14T17:08:17Z
+date: 2008-05-14
 guid: http://cecere.xyz/2008/05/14/sciopero-della-fame-anche-a-torino/
 id: 933
 tags:

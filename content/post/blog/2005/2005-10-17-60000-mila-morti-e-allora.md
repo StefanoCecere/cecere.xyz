@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-10-17T08:07:35Z
+date: 2005-10-17
 guid: http://stefanocecere.com/2005/10/17/60000-mila-morti-e-allora/
 id: 109
 tags:

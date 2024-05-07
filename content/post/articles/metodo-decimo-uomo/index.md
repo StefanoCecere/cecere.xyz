@@ -5,7 +5,7 @@ subtitle: ""
 summary: ""
 tags: [sociologia]
 categories: []
-date: 2021-03-29T18:57:44+02:00
+date: 2021-03-29
 lastmod: 2021-03-29T18:57:44+02:00
 featured: false
 draft: false

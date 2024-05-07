@@ -5,7 +5,7 @@ subtitle: ""
 summary: ""
 categories: [blog]
 tags: [GdT]
-date: 2021-05-01T23:55:01+02:00
+date: 2021-05-01
 featured: false
 draft: false
 image:

@@ -2,7 +2,7 @@
 draft: false
 categories:
 - media
-date: 2009-07-03T13:28:04Z
+date: 2009-07-03
 guid: http://stefanocecere.com/?p=1913
 id: 1913
 tags:

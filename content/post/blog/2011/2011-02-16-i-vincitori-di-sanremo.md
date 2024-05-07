@@ -6,7 +6,7 @@ categories:
 - Smile
 - Spirito
 - tempi-moderni
-date: 2011-02-16T09:29:00Z
+date: 2011-02-16
 guid: http://stefanocecere.com/?p=2381
 id: 2381
 tags:

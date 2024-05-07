@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-05-30T08:51:36Z
+date: 2008-05-30
 guid: http://cecere.xyz/2008/05/30/video-attivita-no-star-wars-a-firenze/
 id: 992
 tags:

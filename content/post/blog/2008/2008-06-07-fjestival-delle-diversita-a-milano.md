@@ -2,7 +2,7 @@
 draft: false
 categories:
 - eventi
-date: 2008-06-07T08:12:03Z
+date: 2008-06-07
 guid: http://cecere.xyz/2008/06/07/fjestival-delle-diversita-a-milano/
 id: 1012
 tags:

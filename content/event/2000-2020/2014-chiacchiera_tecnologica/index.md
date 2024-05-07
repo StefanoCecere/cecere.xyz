@@ -5,7 +5,7 @@ event_url: ''
 location: Roma - Centro Studi Umanisti
 summary: ''
 abstract: ''
-date: 2014-02-05T21:00:00+02:00
+date: 2014-02-05
 date_end: 2014-02-05T22:00:00+02:00
 all_day: false
 publishDate: 2019-08-28T23:00:11+02:00

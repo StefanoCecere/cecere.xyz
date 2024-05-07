@@ -3,7 +3,7 @@ draft: false
 categories:
 - Arte
 - tecnologia
-date: 2011-02-11T08:42:24Z
+date: 2011-02-11
 guid: http://stefanocecere.com/?p=2378
 id: 2378
 tags:

@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-08-31T10:07:03Z
+date: 2005-08-31
 guid: http://stefanocecere.com/2005/08/31/maremoti-e-la-morte/
 id: 75
 title: maremoti e la morte

@@ -1,7 +1,7 @@
 ---
 categories:
 - politica
-date: 2009-06-04T12:22:09Z
+date: 2009-06-04
 guid: http://stefanocecere.com/?p=1849
 id: 1849
 tags:

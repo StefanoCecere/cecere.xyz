@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-05-18T17:28:58Z
+date: 2005-05-18
 guid: http://stefanocecere.com/?p=41
 id: 41
 title: Le nuove leggi..

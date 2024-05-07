@@ -2,7 +2,7 @@
 title: 'Evo Morales: non sono nè di destra nè di sinistra. SONO UMANISTA'
 draft: false
 categories: [Terra2]
-date: 2007-12-18T03:37:48Z
+date: 2007-12-18
 guid: http://cecere.xyz/2007/12/18/evo-morales-non-sono-ne-di-destra-ne-di-sinistra-sono-umanista/
 id: 624
 tags:

@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-05-11T18:36:17Z
+date: 2005-05-11
 guid: http://stefanocecere.com/?p=47
 id: 47
 title: quanta energia…

@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2011-10-04T15:26:03Z
+date: 2011-10-04
 guid: http://stefanocecere.com/2011/10/04/la-crisi-degli-asini/
 id: 2694
 tags:

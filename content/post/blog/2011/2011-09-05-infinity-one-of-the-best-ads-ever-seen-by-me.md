@@ -4,7 +4,7 @@ categories:
 - media
 - tecnologia
 - tempi-moderni
-date: 2011-09-05T22:32:15Z
+date: 2011-09-05
 guid: http://stefanocecere.com/?p=2596
 id: 2596
 tags:

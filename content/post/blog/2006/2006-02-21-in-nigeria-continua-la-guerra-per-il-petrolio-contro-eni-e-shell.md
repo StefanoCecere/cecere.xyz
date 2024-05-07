@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2006-02-21T13:50:02Z
+date: 2006-02-21
 guid: http://cecere.xyz/2006/02/21/in-nigeria-continua-la-guerra-per-il-petrolio-contro-eni-e-shell/
 id: 233
 tags:

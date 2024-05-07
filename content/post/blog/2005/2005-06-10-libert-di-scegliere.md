@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-06-10T10:21:04Z
+date: 2005-06-10
 guid: http://stefanocecere.com/?p=28
 id: 28
 title: libertà di scegliere

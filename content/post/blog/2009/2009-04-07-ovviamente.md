@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2009-04-07T08:02:08Z
+date: 2009-04-07
 guid: http://stefanocecere.com/?p=1632
 id: 1632
 title: ovviamente

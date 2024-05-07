@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-08-24T12:01:56Z
+date: 2007-08-24
 id: 541
 tags:
 - campeggio

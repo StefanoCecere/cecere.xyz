@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-09-12T10:28:33Z
+date: 2005-09-12
 guid: http://stefanocecere.com/2005/09/13/festa-del-volontariato-per-te-per-me/
 id: 86
 tags:

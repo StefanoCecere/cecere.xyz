@@ -2,7 +2,7 @@
 draft: false
 categories:
 - JJ
-date: 2012-06-07T13:29:45Z
+date: 2012-06-07
 format: video
 guid: http://stefanocecere.com/?p=2917
 id: 2917

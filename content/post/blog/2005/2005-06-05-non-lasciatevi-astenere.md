@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-06-05T10:05:54Z
+date: 2005-06-05
 guid: http://stefanocecere.com/?p=31
 id: 31
 title: non lasciatevi astenere

@@ -5,7 +5,7 @@ subtitle: ""
 summary: ""
 tags: [music, music-tech]
 categories: []
-date: 2021-03-28T19:00:15+02:00
+date: 2021-03-28
 lastmod: 2021-03-28T19:00:15+02:00
 featured: false
 draft: false

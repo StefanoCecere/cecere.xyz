@@ -5,7 +5,7 @@ event_url: ''
 location: Firenze
 summary: costruiamo un robot che disegna. laboratorio per i partecipanti al Centro Estivo
 abstract: 
-date: 2019-09-11T09:00:00+02:00
+date: 2019-09-11
 date_end: 2019-09-11T12:30:00+02:00
 all_day: false
 publishDate: 2019-08-25T14:15:26+02:00

@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-10-03T14:04:03Z
+date: 2007-10-03
 guid: http://cecere.xyz/2007/10/03/quanto-ci-siamo-divertiti-ieri-o-gandhi/
 id: 577
 tags:

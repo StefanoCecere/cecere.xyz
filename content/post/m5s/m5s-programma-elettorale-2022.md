@@ -9,7 +9,7 @@ tags:
   - politica
   - m5s
   - programma
-date: 2022-08-14T07:21:05+01:00
+date: 2022-08-14
 featured: false
 draft: false
 image:

@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-02-27T16:34:20Z
+date: 2008-02-27
 guid: http://cecere.xyz/2008/02/27/immaginazione-e-percezione/
 id: 699
 tags:

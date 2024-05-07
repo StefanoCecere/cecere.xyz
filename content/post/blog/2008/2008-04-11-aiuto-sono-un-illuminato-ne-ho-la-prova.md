@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-11T09:49:23Z
+date: 2008-04-11
 guid: http://cecere.xyz/2008/04/11/aiuto-sono-un-illuminato-ne-ho-la-prova/
 id: 844
 tags:

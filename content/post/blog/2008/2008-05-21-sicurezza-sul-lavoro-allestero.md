@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Uncategorized
-date: 2008-05-21T07:07:29Z
+date: 2008-05-21
 guid: http://cecere.xyz/2008/05/21/sicurezza-sul-lavoro-allestero/
 id: 961
 tags:

@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-12-19T00:34:30Z
+date: 2005-12-19
 guid: http://stefanocecere.com/2005/12/19/cosa-si-potuto-fare-in-un-anno-ovvero-azioni-valide/
 id: 187
 tags:

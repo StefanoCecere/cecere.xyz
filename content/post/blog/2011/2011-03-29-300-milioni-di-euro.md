@@ -3,7 +3,7 @@ draft: false
 categories:
 - politica
 - tempi-moderni
-date: 2011-03-29T11:46:10Z
+date: 2011-03-29
 guid: http://stefanocecere.com/?p=2431
 id: 2431
 tags:

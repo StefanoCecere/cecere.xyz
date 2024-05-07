@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-10T15:21:43Z
+date: 2008-04-10
 guid: http://cecere.xyz/2008/04/10/perche-da-umanista-voto-per-il-bene-comune/
 id: 843
 tags:

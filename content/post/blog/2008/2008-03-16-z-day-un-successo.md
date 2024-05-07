@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-03-16T10:06:52Z
+date: 2008-03-16
 guid: http://cecere.xyz/2008/03/16/z-day-un-successo/
 id: 749
 tags:

@@ -5,7 +5,7 @@ draft: false
 summary: una chiacchierata con ragazzi e genitori sui videogiochi.
 abstract: ""
 location: online
-date: 2021-04-03T17:00:00Z
+date: 2021-04-03
 date_end: 2021-04-03T18:30:00Z
 all_day: false
 publishDate: 2021-02-01T11:00:00Z

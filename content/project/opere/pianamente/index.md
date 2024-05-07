@@ -4,7 +4,7 @@ summary: improvvisazioni al pianoforte
 categories: [creation]
 tags: [music]
 featured: false
-date: "2008-04-27T00:00:00Z"
+date: 2008-04-27
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

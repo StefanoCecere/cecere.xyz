@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Uncategorized
-date: 2008-04-30T08:39:11Z
+date: 2008-04-30
 guid: http://cecere.xyz/2008/04/30/lextracomunitario-che-sei-tu/
 id: 902
 tags:

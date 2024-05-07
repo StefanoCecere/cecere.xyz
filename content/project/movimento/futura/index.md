@@ -3,7 +3,7 @@ title: "Futura: viaggio per il Nuovo Umanesimo"
 summary: Enciclopedia Umanista Multimediale CD-ROM
 tags: [social, MovimentoUmanista, NuovoUmanesimo, multimedia]
 categories: []
-date: 1998-11-21T00:00:00
+date: 1998-11-21
 external_link: ""
 image:
   caption: ""

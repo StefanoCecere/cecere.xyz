@@ -3,7 +3,7 @@ title: Consulenze professionali
 linktitle: Consulenze professionali
 slug: consulente
 summary: ho molta esperienza, posso darti una mano
-date: 2020-02-25T00:00:00Z
+date: 2020-02-25
 # lastmod: 2018-02-25T00:00:00Z
 weight: 90
 categories: [stefano]

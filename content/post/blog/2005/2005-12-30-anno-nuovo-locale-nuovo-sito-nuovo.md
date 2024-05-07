@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-12-30T04:59:41Z
+date: 2005-12-30
 guid: http://stefanocecere.com/2005/12/30/anno-nuovo-locale-nuovo-sito-nuovo/
 id: 198
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Gurdjieff e i giornalisti
-date: 2005-12-03T15:40:05+01:00
+date: 2005-12-03
 tags: [Gurdjieff, informazione]
 categories:
 ---

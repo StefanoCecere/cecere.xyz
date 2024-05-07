@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-05-24T16:08:39Z
+date: 2006-05-24
 guid: http://cecere.xyz/2006/05/24/lettera-al-rosy-bindi/
 id: 279
 title: Lettera a Rosy Bindi

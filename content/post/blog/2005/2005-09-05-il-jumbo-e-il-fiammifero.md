@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-09-05T12:36:44Z
+date: 2005-09-05
 guid: http://stefanocecere.com/2005/09/05/il-jumbo-e-il-fiammifero/
 id: 80
 title: il jumbo e il fiammifero

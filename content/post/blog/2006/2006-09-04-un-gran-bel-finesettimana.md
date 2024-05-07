@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-09-04T11:53:50Z
+date: 2006-09-04
 guid: http://cecere.xyz/2006/09/04/un-gran-bel-finesettimana/
 id: 412
 title: un gran bel finesettimana…

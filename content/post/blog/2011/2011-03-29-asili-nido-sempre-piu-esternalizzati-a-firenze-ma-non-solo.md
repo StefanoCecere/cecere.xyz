@@ -4,7 +4,7 @@ categories:
 - JJ
 - politica
 - tempi-moderni
-date: 2011-03-29T08:29:09Z
+date: 2011-03-29
 guid: http://stefanocecere.com/?p=2428
 id: 2428
 tags:

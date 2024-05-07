@@ -3,7 +3,7 @@ title: "vuoto d'aria"
 slug: /2015/03/vuoto-daria/
 draft: false
 categories: [blog]
-date: 2015-03-24T18:01:50Z
+date: 2015-03-24
 guid: http://stefanocecere.com/?p=5726
 id: 5741
 tags:

@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-05-12T17:15:44Z
+date: 2008-05-12
 guid: http://cecere.xyz/2008/05/12/la-protesta-contro-lo-scudo-stellare-americano-si-estende-a-tutta-leuropa/
 id: 926
 tags:

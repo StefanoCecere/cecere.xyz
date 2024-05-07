@@ -1,6 +1,6 @@
 ---
 title: Povera Patria
-date: 2021-01-21T12:50:55
+date: 2021-01-21
 categories: []
 tags: [music, poesia,Battiato]
 ---

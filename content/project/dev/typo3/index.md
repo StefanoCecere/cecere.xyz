@@ -5,7 +5,7 @@ summary: "web design and development"
 authors: []
 tags: [dev, webdev, opensource, work]
 categories: ["work"]
-date: 2003-06-02T16:27:02+02:00
+date: 2003-06-02
 external_link: ""
 image:
   caption: ""

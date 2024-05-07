@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-03-24T09:02:45Z
+date: 2008-03-24
 guid: http://cecere.xyz/2008/03/24/primavera/
 id: 768
 tags:

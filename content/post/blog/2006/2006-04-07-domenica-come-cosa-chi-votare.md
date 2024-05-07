@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-04-07T03:18:31Z
+date: 2006-04-07
 guid: http://cecere.xyz/2006/04/07/domenica-come-cosa-chi-votare/
 id: 256
 tags:

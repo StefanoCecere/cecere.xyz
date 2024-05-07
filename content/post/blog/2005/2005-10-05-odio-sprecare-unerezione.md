@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-10-05T18:36:28Z
+date: 2005-10-05
 guid: http://stefanocecere.com/2005/10/06/odio-sprecare-unerezione/
 id: 101
 tags:

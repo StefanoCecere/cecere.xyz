@@ -1,7 +1,7 @@
 ---
 categories:
 - tempi-moderni
-date: 2005-09-13T10:26:17Z
+date: 2005-09-13
 guid: http://stefanocecere.com/2005/09/13/la-diga-sta-crollando/
 id: 85
 title: la diga sta crollando..

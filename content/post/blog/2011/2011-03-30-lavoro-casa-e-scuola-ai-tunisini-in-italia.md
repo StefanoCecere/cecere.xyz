@@ -4,7 +4,7 @@ categories:
 - media
 - politica
 - tempi-moderni
-date: 2011-03-30T19:03:09Z
+date: 2011-03-30
 guid: http://stefanocecere.com/?p=2442
 id: 2442
 tags:

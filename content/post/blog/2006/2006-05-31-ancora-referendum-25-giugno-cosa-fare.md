@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-05-31T03:24:00Z
+date: 2006-05-31
 guid: http://cecere.xyz/2006/05/31/ancora-referendum-25-giugno-cosa-fare/
 id: 299
 tags:

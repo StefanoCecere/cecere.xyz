@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-10-29T11:05:41Z
+date: 2005-10-29
 guid: http://stefanocecere.com/2005/10/29/cassoeula/
 id: 121
 tags:

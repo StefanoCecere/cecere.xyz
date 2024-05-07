@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-03-17T12:13:44Z
+date: 2008-03-17
 guid: http://cecere.xyz/2008/03/17/petizione-on-line-contro-l%e2%80%99istallazione-della-base-radar-degli-stati-uniti-in-repubblica-ceca/
 id: 752
 tags:

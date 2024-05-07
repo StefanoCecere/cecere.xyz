@@ -5,7 +5,7 @@ summary: inizio ad usare Unity nel 2009 e ho sviluppato dozzine di progetti
 authors: []
 tags: [dev, work]
 categories: ["work"]
-date: 2009-06-02T16:27:02+02:00
+date: 2009-06-02
 external_link: ""
 image:
   caption: ""

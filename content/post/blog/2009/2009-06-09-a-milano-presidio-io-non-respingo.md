@@ -2,7 +2,7 @@
 draft: false
 categories:
 - eventi
-date: 2009-06-09T23:47:06Z
+date: 2009-06-09
 guid: http://stefanocecere.com/?p=1864
 id: 1864
 tags:

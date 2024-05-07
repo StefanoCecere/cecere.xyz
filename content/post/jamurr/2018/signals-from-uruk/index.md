@@ -3,7 +3,7 @@ title: Signals from URUK
 subtitle: 
 summary: 
 projects: [jamurr/signals-from-uruk]
-date: "2018-01-29T00:00:00Z"
+date: 2018-01-29
 draft: false
 authors:
 categories: jamurr

@@ -2,7 +2,7 @@
 draft: false
 categories:
 - politica
-date: 2009-06-14T12:18:00Z
+date: 2009-06-14
 guid: http://stefanocecere.com/?p=1891
 id: 1891
 tags:

@@ -9,7 +9,7 @@ summary:
 projects: []
 
 # Date published
-date: "2017-03-01T00:00:00Z"
+date: 2017-03-01
 
 # Is this an unpublished draft?
 draft: false

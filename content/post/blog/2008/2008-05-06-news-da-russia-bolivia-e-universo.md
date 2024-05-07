@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-05-06T14:28:48Z
+date: 2008-05-06
 guid: http://cecere.xyz/2008/05/06/news-da-russia-bolivia-e-universo/
 id: 912
 tags:

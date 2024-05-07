@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-12-06T00:50:13Z
+date: 2005-12-06
 guid: http://stefanocecere.com/2005/12/06/guarda-come-ti-leggo-la-mente/
 id: 168
 tags:

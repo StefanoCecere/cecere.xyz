@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 tags: [GdT, FixEducation, KidsMakeGames]
 categories: [giochiamo]
-date: 2020-10-23T21:58:36+01:00
+date: 2020-10-23
 lastmod: 2020-10-23T21:58:36+01:00
 featured: false
 draft: false

@@ -2,7 +2,7 @@
 draft: false
 categories:
 - JJ
-date: 2011-09-21T00:30:09Z
+date: 2011-09-21
 guid: http://stefanocecere.com/?p=2642
 id: 2642
 tags:

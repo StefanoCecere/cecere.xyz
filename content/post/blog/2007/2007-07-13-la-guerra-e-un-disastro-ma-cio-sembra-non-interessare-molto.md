@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-07-13T00:10:21Z
+date: 2007-07-13
 guid: http://cecere.xyz/2007/07/13/la-guerra-e-un-disastro-ma-cio-sembra-non-interessare-molto/
 id: 520
 tags:

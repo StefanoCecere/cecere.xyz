@@ -4,7 +4,7 @@ categories:
 - politica
 - Smile
 - tempi-moderni
-date: 2011-01-19T09:32:03Z
+date: 2011-01-19
 guid: http://stefanocecere.com/?p=2340
 id: 2340
 tags:

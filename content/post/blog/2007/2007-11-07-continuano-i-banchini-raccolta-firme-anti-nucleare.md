@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-11-07T02:20:43Z
+date: 2007-11-07
 guid: http://cecere.xyz/2007/11/07/continuano-i-banchini-raccolta-firme-anti-nucleare/
 id: 595
 tags:

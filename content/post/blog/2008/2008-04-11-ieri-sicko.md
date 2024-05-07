@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-11T11:39:09Z
+date: 2008-04-11
 guid: http://cecere.xyz/2008/04/11/ieri-sicko/
 id: 850
 tags:

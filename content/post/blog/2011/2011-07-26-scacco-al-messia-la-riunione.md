@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Spirito
-date: 2011-07-26T10:48:06Z
+date: 2011-07-26
 guid: http://stefanocecere.com/?p=2524
 id: 2524
 tags:

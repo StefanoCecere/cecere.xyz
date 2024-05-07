@@ -4,7 +4,7 @@ categories:
 - Buone Nuove
 - MondoSenzaGuerre
 - politica
-date: 2011-07-14T11:42:59Z
+date: 2011-07-14
 guid: http://stefanocecere.com/?p=2517
 id: 2517
 tags:

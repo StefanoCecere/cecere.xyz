@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 tags: [kids, GdT, FamilyGames, MedicinaLudica]
 categories: [giochiamo]
-date: 2020-11-18T17:05:08+01:00
+date: 2020-11-18
 featured: false
 draft: false
 image:

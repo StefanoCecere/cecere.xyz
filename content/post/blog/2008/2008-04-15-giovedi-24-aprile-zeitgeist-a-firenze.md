@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-15T16:26:39Z
+date: 2008-04-15
 guid: http://cecere.xyz/2008/04/15/giovedi-24-aprile-zeitgeist-a-firenze/
 id: 876
 tags:

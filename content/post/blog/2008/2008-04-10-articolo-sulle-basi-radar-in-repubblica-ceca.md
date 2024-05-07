@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-04-10T09:42:54Z
+date: 2008-04-10
 guid: http://cecere.xyz/2008/04/10/articolo-sulle-basi-radar-in-repubblica-ceca/
 id: 838
 tags:

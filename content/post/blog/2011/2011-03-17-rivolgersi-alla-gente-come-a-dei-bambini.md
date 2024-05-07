@@ -4,7 +4,7 @@ categories:
 - politica
 - tecnologia
 - tempi-moderni
-date: 2011-03-17T12:03:08Z
+date: 2011-03-17
 guid: http://stefanocecere.com/?p=2406
 id: 2406
 tags:

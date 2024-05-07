@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-05-15T15:14:14Z
+date: 2008-05-15
 guid: http://cecere.xyz/2008/05/15/guerre-stellari-il-film-non-gli-e-bastato/
 id: 940
 tags:

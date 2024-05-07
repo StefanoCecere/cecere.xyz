@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-02-10T10:46:37Z
+date: 2008-02-10
 guid: http://cecere.xyz/2008/02/10/forum-europeo-umanista-rimandato-a-ottobre/
 id: 680
 tags:

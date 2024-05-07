@@ -5,7 +5,7 @@ subtitle: ""
 summary: ""
 categories: [giochiamo]
 tags: [GdT,kids]
-date: 2021-05-04T23:45:27+02:00
+date: 2021-05-04
 featured: false
 draft: false
 image:

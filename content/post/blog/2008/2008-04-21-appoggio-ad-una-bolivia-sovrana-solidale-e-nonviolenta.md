@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-21T09:23:05Z
+date: 2008-04-21
 guid: http://cecere.xyz/2008/04/21/appoggio-ad-una-bolivia-sovrana-solidale-e-nonviolenta/
 id: 886
 tags:

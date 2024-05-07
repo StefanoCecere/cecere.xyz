@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-03-09T02:41:43Z
+date: 2007-03-09
 guid: http://cecere.xyz/2007/03/09/perche-e-un-po-che-non-scrivo-piu/
 id: 492
 title: Perchè è un pò che non scrivo più?

@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-09-09T12:04:55Z
+date: 2005-09-09
 guid: http://stefanocecere.com/2005/09/09/medici-senza-frontiere/
 id: 81
 title: medici senza frontiere

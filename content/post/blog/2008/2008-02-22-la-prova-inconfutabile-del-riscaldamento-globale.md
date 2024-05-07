@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-02-22T02:05:17Z
+date: 2008-02-22
 guid: http://cecere.xyz/2008/02/22/la-prova-inconfutabile-del-riscaldamento-globale/
 id: 693
 tags:

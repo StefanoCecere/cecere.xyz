@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 tags: [kids, GdT, FamilyGames]
 categories: [giochiamo]
-date: 2020-11-15T12:05:08+01:00
+date: 2020-11-15
 lastmod: 2020-11-15T12:05:08+01:00
 featured: false
 draft: false

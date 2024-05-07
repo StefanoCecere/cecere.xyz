@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-12-21T00:05:51Z
+date: 2005-12-21
 guid: http://stefanocecere.com/2005/12/21/un-regalo-una-vera-storia-di-manodopera/
 id: 190
 tags:

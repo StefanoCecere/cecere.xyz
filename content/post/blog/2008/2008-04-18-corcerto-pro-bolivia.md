@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-04-18T14:45:51Z
+date: 2008-04-18
 guid: http://cecere.xyz/2008/04/18/corcerto-pro-bolivia/
 id: 885
 tags:

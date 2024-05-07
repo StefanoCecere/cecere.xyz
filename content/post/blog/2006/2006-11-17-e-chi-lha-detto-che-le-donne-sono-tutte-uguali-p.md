@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-11-17T15:00:23Z
+date: 2006-11-17
 guid: http://cecere.xyz/2006/11/17/e-chi-lha-detto-che-le-donne-sono-tutte-uguali-p/
 id: 460
 tags:

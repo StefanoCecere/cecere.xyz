@@ -4,7 +4,7 @@ slug: spazio-fannullone
 summary: un centro ricreativo, sociale, culturale, politico... la nostra seconda casa 
 tags: [social, MovimentoUmanista, fannullone, centro-ricreativo]
 categories: []
-date: 2007-11-21T00:00:00
+date: 2007-11-21
 external_link: ""
 image:
   caption: ""

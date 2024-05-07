@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-05-21T07:16:32Z
+date: 2008-05-21
 guid: http://cecere.xyz/2008/05/21/15-citta-in-sciopero-della-fame-contro-lo-scudo-stellare/
 id: 962
 tags:

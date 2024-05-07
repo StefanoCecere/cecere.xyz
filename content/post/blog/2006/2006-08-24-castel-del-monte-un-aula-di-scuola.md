@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-08-24T23:42:01Z
+date: 2006-08-24
 guid: http://cecere.xyz/2006/08/24/castel-del-monte-un-aula-di-scuola/
 id: 396
 tags:

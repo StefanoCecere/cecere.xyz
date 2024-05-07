@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-05-27T09:35:56Z
+date: 2008-05-27
 guid: http://cecere.xyz/2008/05/27/presidio-jedi-a-milano/
 id: 983
 tags:

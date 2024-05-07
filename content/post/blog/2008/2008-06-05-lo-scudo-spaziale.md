@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Uncategorized
-date: 2008-06-05T23:36:37Z
+date: 2008-06-05
 guid: http://cecere.xyz/2008/06/05/lo-scudo-spaziale/
 id: 1008
 tags:

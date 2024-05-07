@@ -5,7 +5,7 @@ subtitle: ""
 summary: ""
 tags: [illusioni-ottiche]
 categories: []
-date: 2021-03-28T08:10:06+02:00
+date: 2021-03-28
 lastmod: 2021-03-28T08:10:06+02:00
 featured: false
 draft: false

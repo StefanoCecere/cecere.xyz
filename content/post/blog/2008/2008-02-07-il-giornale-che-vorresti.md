@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-02-07T15:07:42Z
+date: 2008-02-07
 guid: http://cecere.xyz/2008/02/07/il-giornale-che-vorresti/
 id: 676
 tags:

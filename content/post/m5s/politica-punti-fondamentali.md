@@ -5,7 +5,7 @@ subtitle: ""
 summary: ""
 categories: [politica]
 tags: [politica]
-date: 2022-08-05T08:13:05+01:00
+date: 2022-08-05
 featured: false
 draft: false
 image:

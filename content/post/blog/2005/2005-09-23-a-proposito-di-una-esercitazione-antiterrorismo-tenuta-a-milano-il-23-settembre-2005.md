@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-09-23T13:30:32Z
+date: 2005-09-23
 guid: http://stefanocecere.com/2005/09/23/a-proposito-di-una-esercitazione-antiterrorismo-tenuta-a-milano-il-23-settembre-2005/
 id: 93
 tags:

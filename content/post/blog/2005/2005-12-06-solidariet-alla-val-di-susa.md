@@ -1,7 +1,7 @@
 ---
 categories:
 - tempi-moderni
-date: 2005-12-06T15:53:57Z
+date: 2005-12-06
 guid: http://stefanocecere.com/2005/12/06/solidariet-alla-val-di-susa/
 id: 169
 tags:

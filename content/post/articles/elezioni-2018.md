@@ -2,7 +2,7 @@
 title: "Elezioni 2018 - Se vince il M5S vinciamo tutti"
 linktitle: "Elezioni 2018"
 summary: ''
-date: 2018-02-25T00:00:00Z
+date: 2018-02-25
 lastmod: 2018-02-25T00:00:00Z
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false

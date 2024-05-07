@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-07-03T01:54:44Z
+date: 2006-07-03
 guid: http://cecere.xyz/2006/07/03/foto-del-simbolo-della-pace-a-monza/
 id: 361
 tags:

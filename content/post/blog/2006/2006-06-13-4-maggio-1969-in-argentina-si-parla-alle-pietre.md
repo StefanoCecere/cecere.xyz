@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-06-13T02:29:35Z
+date: 2006-06-13
 guid: http://cecere.xyz/2006/06/13/4-maggio-1969-in-argentina-si-parla-alle-pietre/
 id: 329
 tags:

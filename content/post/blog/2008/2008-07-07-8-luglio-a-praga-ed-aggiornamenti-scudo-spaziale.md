@@ -2,7 +2,7 @@
 draft: false
 categories:
   - tempi-moderni
-date: 2008-07-07T09:57:47Z
+date: 2008-07-07
 guid: http://cecere.xyz/?p=1083
 id: 1083
 tags:

@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-05-15T09:50:57Z
+date: 2008-05-15
 guid: http://cecere.xyz/2008/05/15/scudo-stellare-sul-manifesto/
 id: 934
 tags:

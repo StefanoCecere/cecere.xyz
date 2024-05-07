@@ -5,7 +5,7 @@ summary: "Se una procedura ha una regola, allora può essere automatizzata. Scop
 subtitle: ""
 tags: [text, automazione]
 categories: [tutorial]
-date: 2021-04-06T12:33:22+02:00
+date: 2021-04-06
 lastmod: 2021-04-06T12:33:22+02:00
 featured: false
 draft: false

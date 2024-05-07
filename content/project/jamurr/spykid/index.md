@@ -3,7 +3,7 @@ title: SpyKid
 summary: per diventare agenti segreti
 categories: jamurr
 tags: ["jamurr", game]
-date: 2016-05-01T00:00:00Z
+date: 2016-05-01
 authors: []
 
 links:

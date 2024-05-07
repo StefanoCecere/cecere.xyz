@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-09-16T02:37:56Z
+date: 2006-09-16
 guid: http://cecere.xyz/2006/09/16/video-per-un-mondo-senza-guerre/
 id: 418
 tags:

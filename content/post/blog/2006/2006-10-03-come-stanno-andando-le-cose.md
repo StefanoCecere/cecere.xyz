@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-10-03T10:15:44Z
+date: 2006-10-03
 guid: http://cecere.xyz/2006/10/03/come-stanno-andando-le-cose/
 id: 437
 title: Come stanno andando le cose…

@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2015-01-30T06:23:59Z
+date: 2015-01-30
 guid: http://stefanocecere.com/?p=5688
 id: 5688
 title: ed eravamo Fannulloni

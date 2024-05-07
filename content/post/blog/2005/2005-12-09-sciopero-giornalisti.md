@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-12-09T11:49:56Z
+date: 2005-12-09
 guid: http://stefanocecere.com/2005/12/09/sciopero-giornalisti/
 id: 173
 tags:

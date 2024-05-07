@@ -2,7 +2,7 @@
 draft: false
 categories:
 - MondoSenzaGuerre
-date: 2009-05-19T01:35:12Z
+date: 2009-05-19
 guid: http://stefanocecere.com/?p=1802
 id: 1802
 tags:

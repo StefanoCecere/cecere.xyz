@@ -2,7 +2,7 @@
 draft: false
 categories:
 - MondoSenzaGuerre
-date: 2009-10-02T01:10:43Z
+date: 2009-10-02
 guid: http://stefanocecere.com/?p=1931
 id: 1931
 title: spot &quot;Walk the Future&quot;

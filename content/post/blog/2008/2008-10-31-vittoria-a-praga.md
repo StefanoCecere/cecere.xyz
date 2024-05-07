@@ -2,7 +2,7 @@
 draft: false
 categories:
   - blog
-date: 2008-10-31T12:15:34Z
+date: 2008-10-31
 guid: http://cecere.xyz/?p=1474
 id: 1474
 tags:

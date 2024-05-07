@@ -5,7 +5,7 @@ summary: un videogioco creato da bambini
 authors: []
 tags: ["jamurr", "7Frames", "game", "kids"]
 categories: ["jamurr"]
-date: 2016-10-10T16:27:02+02:00
+date: 2016-10-10
 external_link: ""
 image:
   caption: ""

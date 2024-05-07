@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2009-04-30T10:06:44Z
+date: 2009-04-30
 guid: http://stefanocecere.com/?p=1706
 id: 1706
 tags:

@@ -3,7 +3,7 @@ title: § (experiments)
 slug: s-experiments
 summary: qualche esperimento di elettronica
 tags: [music]
-date: "2001-06-21T00:00:00Z"
+date: 2001-06-21
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

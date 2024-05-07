@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-10T11:19:15Z
+date: 2008-04-10
 guid: http://cecere.xyz/2008/04/10/e-ora-musica/
 id: 839
 tags:

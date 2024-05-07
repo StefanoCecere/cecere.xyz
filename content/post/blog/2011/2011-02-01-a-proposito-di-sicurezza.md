@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Smile
-date: 2011-02-01T04:13:06Z
+date: 2011-02-01
 guid: http://stefanocecere.com/?p=2353
 id: 2353
 tags:

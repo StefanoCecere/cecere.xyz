@@ -2,7 +2,7 @@
 draft: false
 categories:
 - MondoSenzaGuerre
-date: 2009-07-10T09:33:32Z
+date: 2009-07-10
 guid: http://stefanocecere.com/?p=1915
 id: 1915
 title: ISCRIVITI ALLA MARCIA MONDIALE

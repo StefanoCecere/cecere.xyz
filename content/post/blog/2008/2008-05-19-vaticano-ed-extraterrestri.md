@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Uncategorized
-date: 2008-05-19T07:36:32Z
+date: 2008-05-19
 guid: http://cecere.xyz/2008/05/19/vaticano-ed-extraterrestri/
 id: 945
 tags:

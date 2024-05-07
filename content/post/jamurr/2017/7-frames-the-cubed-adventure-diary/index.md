@@ -4,7 +4,7 @@ subtitle: IF2017 Kids Game Jam
 slug: 7-frames-the-cubed-adventure-diary
 summary: 
 projects: [jamurr/7-frames-cubed]
-date: 2017-10-13T00:00:00Z
+date: 2017-10-13
 draft: false
 featured: false
 authors:

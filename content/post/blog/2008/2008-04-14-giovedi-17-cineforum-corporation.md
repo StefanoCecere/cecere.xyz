@@ -2,7 +2,7 @@
 draft: false
 categories:
 - eventi
-date: 2008-04-14T01:02:53Z
+date: 2008-04-14
 guid: http://cecere.xyz/2008/04/14/giovedi-17-cineforum-corporation/
 id: 855
 tags:

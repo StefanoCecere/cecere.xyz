@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tecnologia
-date: 2011-09-21T00:15:30Z
+date: 2011-09-21
 guid: http://stefanocecere.com/?p=2638
 id: 2638
 tags:

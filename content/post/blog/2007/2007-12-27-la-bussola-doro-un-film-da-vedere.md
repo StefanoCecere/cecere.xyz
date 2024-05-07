@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-12-27T17:19:49Z
+date: 2007-12-27
 guid: http://cecere.xyz/2007/12/27/la-bussola-doro-un-film-da-vedere/
 id: 628
 tags:

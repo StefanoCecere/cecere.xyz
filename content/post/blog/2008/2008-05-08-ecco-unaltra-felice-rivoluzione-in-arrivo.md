@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-05-08T15:05:21Z
+date: 2008-05-08
 guid: http://cecere.xyz/2008/05/08/ecco-unaltra-felice-rivoluzione-in-arrivo/
 id: 914
 tags:

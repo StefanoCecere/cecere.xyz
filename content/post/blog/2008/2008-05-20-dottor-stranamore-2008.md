@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-05-20T15:39:51Z
+date: 2008-05-20
 guid: http://cecere.xyz/2008/05/20/dottor-stranamore-2008/
 id: 947
 tags:

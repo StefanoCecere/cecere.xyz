@@ -11,7 +11,7 @@ location: online
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-04-17T12:00:00Z"
+date: 2021-04-17
 #date_end: "2021-04-06T11:00:00Z"
 all_day: false
 publishDate: 2020-11-14

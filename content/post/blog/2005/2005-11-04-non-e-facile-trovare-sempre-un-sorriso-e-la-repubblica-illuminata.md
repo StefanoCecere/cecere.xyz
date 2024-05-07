@@ -1,7 +1,7 @@
 ---
 categories: [blog]
 tags: [tempi-moderni]
-date: 2005-11-04T09:03:36Z
+date: 2005-11-04
 guid: http://stefanocecere.com/2005/11/04/non-e-facile-trovare-sempre-un-sorriso-e-la-repubblica-illuminata/
 id: 128
 title: non è facile trovare sempre un sorriso, e la repubblica illuminata

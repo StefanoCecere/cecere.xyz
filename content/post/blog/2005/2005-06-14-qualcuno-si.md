@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-06-14T14:36:03Z
+date: 2005-06-14
 guid: http://stefanocecere.com/?p=25
 id: 25
 title: qualcuno si è….

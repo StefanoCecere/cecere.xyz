@@ -2,7 +2,7 @@
 draft: false
 categories:
 - media
-date: 2012-01-31T11:18:12Z
+date: 2012-01-31
 guid: http://stefanocecere.com/?p=2839
 id: 2839
 tags:

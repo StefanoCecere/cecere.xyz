@@ -8,7 +8,7 @@ categories:
 tags:
   - politica
   - m5s
-date: 2022-07-22T08:21:05+01:00
+date: 2022-07-22
 featured: false
 draft: false
 image:

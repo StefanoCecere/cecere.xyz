@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-05-29T08:15:29Z
+date: 2008-05-29
 guid: http://cecere.xyz/2008/05/29/lo-sapevi-che/
 id: 989
 tags:

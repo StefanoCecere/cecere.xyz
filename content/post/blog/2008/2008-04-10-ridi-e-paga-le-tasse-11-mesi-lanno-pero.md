@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Uncategorized
-date: 2008-04-10T09:33:22Z
+date: 2008-04-10
 guid: http://cecere.xyz/2008/04/10/ridi-e-paga-le-tasse-11-mesi-lanno-pero/
 id: 836
 tags:

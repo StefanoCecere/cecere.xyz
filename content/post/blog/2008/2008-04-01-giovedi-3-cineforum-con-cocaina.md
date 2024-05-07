@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-01T10:41:24Z
+date: 2008-04-01
 guid: http://cecere.xyz/2008/04/01/giovedi-3-cineforum-con-cocaina/
 id: 790
 tags:

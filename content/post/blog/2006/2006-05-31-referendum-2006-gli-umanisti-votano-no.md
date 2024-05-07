@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-05-31T18:33:12Z
+date: 2006-05-31
 guid: http://cecere.xyz/2006/05/31/referendum-2006-gli-umanisti-votano-no/
 id: 301
 tags:

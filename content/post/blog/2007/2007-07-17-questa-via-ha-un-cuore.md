@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-07-17T00:16:36Z
+date: 2007-07-17
 guid: http://cecere.xyz/2007/07/17/questa-via-ha-un-cuore/
 id: 529
 tags:

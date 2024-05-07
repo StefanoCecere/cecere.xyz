@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-04-07T13:44:46Z
+date: 2008-04-07
 guid: http://cecere.xyz/2008/04/07/jan-tamas-negli-stati-uniti-fermiamo-lo-scudo-anti-missile/
 id: 810
 tags:

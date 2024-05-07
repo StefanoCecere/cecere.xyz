@@ -1,7 +1,7 @@
 ---
 categories:
 - Smile
-date: 2008-03-18T16:21:51Z
+date: 2008-03-18
 enclosure:
 - |
   http://cecere.xyz/wp-content/uploads/sites/3/2008/03/campagna_sesso_uomo_felice.mp3

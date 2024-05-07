@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-05-25T09:47:18Z
+date: 2008-05-25
 guid: http://cecere.xyz/2008/05/25/teddy-bears-4-peace/
 id: 976
 tags:

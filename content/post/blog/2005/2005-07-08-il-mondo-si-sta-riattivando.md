@@ -1,7 +1,7 @@
 ---
 categories:
 - tempi-moderni
-date: 2005-07-08T00:05:27Z
+date: 2005-07-08
 guid: http://stefanocecere.com/?p=11
 id: 11
 tags:

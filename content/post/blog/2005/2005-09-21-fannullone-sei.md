@@ -1,7 +1,7 @@
 ---
 categories:
   - blog
-date: 2005-09-21T12:20:36Z
+date: 2005-09-21
 guid: http://stefanocecere.com/2005/09/22/fannullone-sei/
 id: 91
 tags:

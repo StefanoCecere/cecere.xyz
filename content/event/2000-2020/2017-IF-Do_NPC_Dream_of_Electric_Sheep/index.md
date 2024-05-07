@@ -7,7 +7,7 @@ abstract: "L’Intelligenza Artificiale sta progredendo velocemente e i videogio
 event: "Internet Festival"
 event_url: "http://2017.internetfestival.it/eventi/do-npc-dream-of-electric-sheep/"
 location: Pisa
-date: 2017-10-06T16:30:00+02:00
+date: 2017-10-06
 date_end: 2017-10-06T17:00:00+02:00
 all_day: false
 publishDate: 2018-03-31T11:45:20+02:00

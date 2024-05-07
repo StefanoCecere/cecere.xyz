@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-11-29T12:47:46Z
+date: 2005-11-29
 guid: http://stefanocecere.com/2005/11/29/come-cambia-la-legge-elettorale/
 id: 162
 tags:

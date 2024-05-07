@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-12-08T00:01:42Z
+date: 2005-12-08
 guid: http://stefanocecere.com/2005/12/08/da-me-esce-qualcosa-al-mondo/
 id: 171
 tags:

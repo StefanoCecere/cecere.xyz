@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-16T19:51:52Z
+date: 2008-04-16
 guid: http://cecere.xyz/2008/04/16/forza-ruggero/
 id: 882
 tags:

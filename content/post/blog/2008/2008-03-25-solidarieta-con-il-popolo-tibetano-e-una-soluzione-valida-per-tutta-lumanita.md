@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-03-25T20:39:07Z
+date: 2008-03-25
 guid: http://cecere.xyz/2008/03/25/solidarieta-con-il-popolo-tibetano-e-una-soluzione-valida-per-tutta-l%e2%80%99umanita/
 id: 778
 tags:

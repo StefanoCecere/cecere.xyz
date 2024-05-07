@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-12-16T01:14:29Z
+date: 2005-12-16
 guid: http://stefanocecere.com/2005/12/16/una-micro-poesia-e-bill-gates-e-collettivo-musicisti/
 id: 182
 tags:

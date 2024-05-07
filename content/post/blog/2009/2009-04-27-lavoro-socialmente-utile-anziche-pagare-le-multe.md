@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Buone Nuove
-date: 2009-04-27T08:05:56Z
+date: 2009-04-27
 guid: http://stefanocecere.com/?p=1696
 id: 1696
 tags:

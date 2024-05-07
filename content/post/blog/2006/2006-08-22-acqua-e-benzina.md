@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-08-22T17:25:11Z
+date: 2006-08-22
 guid: http://cecere.xyz/2006/08/22/acqua-e-benzina/
 id: 393
 tags:

@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-14T08:59:59Z
+date: 2008-04-14
 guid: http://cecere.xyz/2008/04/14/sabato-a-milano-manifestazione-pro-tibet/
 id: 859
 tags:

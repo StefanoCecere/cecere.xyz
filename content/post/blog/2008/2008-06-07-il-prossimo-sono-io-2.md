@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-06-07T08:41:53Z
+date: 2008-06-07
 guid: http://cecere.xyz/2008/06/07/il-prossimo-sono-io-2/
 id: 1013
 tags:

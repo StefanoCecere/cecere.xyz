@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-03-27T11:00:39Z
+date: 2008-03-27
 guid: http://cecere.xyz/2008/03/27/scie-chimiche-ci-stiamo-avvelenando-tutti/
 id: 781
 tags:

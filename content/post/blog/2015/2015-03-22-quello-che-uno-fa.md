@@ -3,7 +3,7 @@ title: quello che uno fa
 slug: /2015/03/quello-che-uno-fa/
 draft: false
 categories: [blog]
-date: 2015-03-22T05:52:17Z
+date: 2015-03-22
 guid: http://stefanocecere.com/?p=5649
 id: 5649
 ---

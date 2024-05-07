@@ -5,7 +5,7 @@ summary: "keyboard player, sound design"
 authors: []
 tags: [music, tour]
 categories: ["work"]
-date: 2003-04-02T16:27:02+02:00
+date: 2003-04-02
 external_link: ""
 image:
   caption: ""

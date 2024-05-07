@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 tags: [opensource, markdown, technotip]
 categories: [tools]
-date: 2020-11-21T17:05:08+01:00
+date: 2020-11-21
 featured: false
 draft: false
 image:

@@ -5,7 +5,7 @@ summary: "keyboard player"
 authors: []
 tags: [music, tour]
 categories: ["work"]
-date: 2002-04-02T16:27:02+02:00
+date: 2002-04-02
 external_link: ""
 image:
   caption: ""

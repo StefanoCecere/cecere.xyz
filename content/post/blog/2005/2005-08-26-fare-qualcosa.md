@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-08-26T12:31:19Z
+date: 2005-08-26
 guid: http://stefanocecere.com/2005/08/26/fare-qualcosa/
 id: 5737
 title: Fare qualcosa

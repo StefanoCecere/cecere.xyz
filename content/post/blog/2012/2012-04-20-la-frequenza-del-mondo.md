@@ -4,7 +4,7 @@ categories:
 - Arte
 - scienza
 - tecnologia
-date: 2012-04-20T07:58:39Z
+date: 2012-04-20
 guid: http://stefanocecere.com/?p=2899
 id: 2899
 tags:

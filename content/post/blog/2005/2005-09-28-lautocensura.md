@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-09-28T22:24:29Z
+date: 2005-09-28
 guid: http://stefanocecere.com/2005/09/30/lautocensura/
 id: 98
 title: l'autocensura

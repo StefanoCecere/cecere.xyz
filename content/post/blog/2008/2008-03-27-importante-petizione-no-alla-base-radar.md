@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-03-27T07:58:45Z
+date: 2008-03-27
 guid: http://cecere.xyz/2008/03/27/importante-petizione-no-alla-base-radar/
 id: 780
 tags:

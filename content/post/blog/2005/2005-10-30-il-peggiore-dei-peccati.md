@@ -1,7 +1,7 @@
 ---
 categories: [blog]
 tags: [tempi-moderni]
-date: 2005-10-30T01:29:37Z
+date: 2005-10-30
 guid: http://stefanocecere.com/2005/10/30/il-peggiore-dei-peccati/
 id: 123
 title: IL PEGGIORE DEI PECCATI?

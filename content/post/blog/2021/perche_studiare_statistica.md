@@ -5,7 +5,7 @@ subtitle: ""
 description: ""
 categories: [blog]
 tags: [played, matematica]
-date: 2021-12-29T17:44:15+01:00
+date: 2021-12-29
 featured: false
 draft: false
 ---

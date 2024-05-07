@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-05-15T09:55:32Z
+date: 2008-05-15
 guid: http://cecere.xyz/2008/05/15/l%e2%80%99europa-dice-no-allo-scudo-spaziale/
 id: 937
 tags:

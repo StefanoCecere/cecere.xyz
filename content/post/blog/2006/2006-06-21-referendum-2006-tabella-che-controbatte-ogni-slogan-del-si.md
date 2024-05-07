@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-06-21T11:11:30Z
+date: 2006-06-21
 guid: http://cecere.xyz/2006/06/21/referendum-2006-tabella-che-controbatte-ogni-slogan-del-si/
 id: 349
 title: 'Referendum 2006: tabella che controbatte ogni slogan del SI'

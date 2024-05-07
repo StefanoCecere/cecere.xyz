@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-12-17T08:37:20Z
+date: 2005-12-17
 guid: http://stefanocecere.com/2005/12/17/oggi-poche-parole-azione/
 id: 184
 title: oggi poche parole.. AZIONE!

@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-02T20:32:37Z
+date: 2008-04-02
 guid: http://cecere.xyz/2008/04/02/al-gore-presidente-degli-stati-uniti/
 id: 794
 tags:

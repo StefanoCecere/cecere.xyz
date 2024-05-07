@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2013-11-19T14:57:39Z
+date: 2013-11-19
 guid: http://twitter-402797825261858816-post
 id: 4837
 tags:

@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-09-14T03:57:09Z
+date: 2005-09-14
 guid: http://stefanocecere.com/2005/09/14/in-marcia-verso-la-pace/
 id: 87
 tags:

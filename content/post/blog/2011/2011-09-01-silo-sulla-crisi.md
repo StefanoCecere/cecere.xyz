@@ -3,7 +3,7 @@ draft: false
 categories:
 - Spirito
 - tempi-moderni
-date: 2011-09-01T07:13:01Z
+date: 2011-09-01
 guid: http://stefanocecere.com/?p=2575
 id: 2575
 tags:

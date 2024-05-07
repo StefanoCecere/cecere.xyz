@@ -2,7 +2,7 @@
 draft: false
 categories:
 - MondoSenzaGuerre
-date: 2009-10-01T14:37:03Z
+date: 2009-10-01
 guid: http://stefanocecere.com/?p=1929
 id: 1929
 title: Parte la Marcia Mondiale

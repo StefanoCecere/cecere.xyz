@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-02-26T23:20:38Z
+date: 2008-02-26
 guid: http://cecere.xyz/2008/02/26/laura-vince-il-festival-di-sanremo-2008/
 id: 698
 tags:

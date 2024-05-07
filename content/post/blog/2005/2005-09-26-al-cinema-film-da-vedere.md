@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-09-26T10:07:00Z
+date: 2005-09-26
 guid: http://stefanocecere.com/2005/09/26/al-cinema-film-da-vedere/
 id: 96
 tags:

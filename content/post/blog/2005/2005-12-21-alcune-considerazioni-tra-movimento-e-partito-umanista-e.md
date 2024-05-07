@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-12-21T13:04:32Z
+date: 2005-12-21
 guid: http://stefanocecere.com/2005/12/21/alcune-considerazioni-tra-movimento-e-partito-umanista-e/
 id: 191
 tags:

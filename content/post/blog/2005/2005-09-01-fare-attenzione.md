@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-09-01T12:37:47Z
+date: 2005-09-01
 guid: http://stefanocecere.com/2005/09/01/fare-attenzione/
 id: 77
 title: fare attenzione

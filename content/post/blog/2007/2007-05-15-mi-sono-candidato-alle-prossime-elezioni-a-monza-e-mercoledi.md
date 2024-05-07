@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-05-15T08:45:47Z
+date: 2007-05-15
 guid: http://cecere.xyz/2007/05/15/mi-sono-candidato-alle-prossime-elezioni-a-monza-e-mercoledi/
 id: 503
 tags:

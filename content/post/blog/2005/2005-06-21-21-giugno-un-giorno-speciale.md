@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-06-21T23:15:46Z
+date: 2005-06-21
 guid: http://stefanocecere.com/?p=20
 id: 20
 tags:

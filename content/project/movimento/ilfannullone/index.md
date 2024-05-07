@@ -4,7 +4,7 @@ summary: "espressione umanista tascabile"
 authors: []
 tags: [social, media, fannullone, MovimentoUmanista, NuovoUmanesimo]
 categories: ["Media"]
-date: 2007-01-27T00:00:00
+date: 2007-01-27
 ---
 
 {{< figure src="ilfannullone_copertine.jpg" >}}

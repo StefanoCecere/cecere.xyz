@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-06-23T10:45:58Z
+date: 2006-06-23
 guid: http://cecere.xyz/2006/06/23/telecinesi-cinese/
 id: 352
 tags:

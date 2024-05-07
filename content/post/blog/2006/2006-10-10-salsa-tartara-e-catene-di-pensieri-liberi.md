@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-10-10T01:43:29Z
+date: 2006-10-10
 guid: http://cecere.xyz/2006/10/10/salsa-tartara-e-catene-di-pensieri-liberi/
 id: 441
 tags:

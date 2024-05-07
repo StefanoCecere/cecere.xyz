@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-04T11:58:51Z
+date: 2008-04-04
 guid: http://cecere.xyz/2008/04/04/approvate-le-50000-firme-di-un-futuro-senza-atomiche/
 id: 804
 tags:

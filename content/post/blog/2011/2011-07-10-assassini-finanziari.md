@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2011-07-10T07:40:40Z
+date: 2011-07-10
 guid: http://stefanocecere.com/?p=2512
 id: 2512
 tags:

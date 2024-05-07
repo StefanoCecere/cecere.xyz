@@ -5,7 +5,7 @@ event_url: null
 location: Bolzano
 summary: una Game Jam per i ragazzi
 abstract: ''
-date: 2021-10-23T00:00:00.000Z
+date: 2021-10-23
 all_day: true
 publishDate: 2021-10-23T00:00:00.000Z
 categories:

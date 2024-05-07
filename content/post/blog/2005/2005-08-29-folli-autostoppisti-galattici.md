@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-08-29T09:38:47Z
+date: 2005-08-29
 guid: /?p=1
 id: 5736
 tags:

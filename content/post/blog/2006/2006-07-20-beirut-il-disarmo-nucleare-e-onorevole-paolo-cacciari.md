@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-07-20T03:14:06Z
+date: 2006-07-20
 guid: http://cecere.xyz/2006/07/20/beirut-il-disarmo-nucleare-e-onorevole-paolo-cacciari/
 id: 375
 tags:

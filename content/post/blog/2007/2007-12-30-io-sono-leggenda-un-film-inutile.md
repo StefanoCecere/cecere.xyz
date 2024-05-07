@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-12-30T10:49:29Z
+date: 2007-12-30
 guid: http://cecere.xyz/2007/12/30/io-sono-leggenda-un-film-inutile/
 id: 629
 tags:

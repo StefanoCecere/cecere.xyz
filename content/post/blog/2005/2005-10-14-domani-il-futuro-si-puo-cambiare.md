@@ -1,7 +1,7 @@
 ---
 categories: [blog]
 tags: [manifestazione]
-date: 2005-10-14T10:13:56Z
+date: 2005-10-14
 guid: http://stefanocecere.com/2005/10/14/domani-il-futuro-si-puo-cambiare/
 id: 107
 title: Domani il futuro si può cambiare

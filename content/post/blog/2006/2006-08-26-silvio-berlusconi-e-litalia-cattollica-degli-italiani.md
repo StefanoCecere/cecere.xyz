@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-08-26T23:54:04Z
+date: 2006-08-26
 guid: http://cecere.xyz/2006/08/26/silvio-berlusconi-e-litalia-cattollica-degli-italiani/
 id: 401
 tags:

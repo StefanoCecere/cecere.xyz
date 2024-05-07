@@ -2,7 +2,7 @@
 draft: false
 categories:
 - filosofia
-date: 2015-04-27T09:35:27Z
+date: 2015-04-27
 format: video
 guid: http://stefanocecere.com/?p=5752
 id: 5752

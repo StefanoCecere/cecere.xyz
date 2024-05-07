@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-10-21T09:43:37Z
+date: 2005-10-21
 guid: http://stefanocecere.com/2005/10/21/un-po-di-pillole-mattutine/
 id: 115
 title: un po' di pillole mattutine…

@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-06-01T13:24:17Z
+date: 2005-06-01
 guid: http://stefanocecere.com/?p=33
 id: 33
 title: calciatori e attori

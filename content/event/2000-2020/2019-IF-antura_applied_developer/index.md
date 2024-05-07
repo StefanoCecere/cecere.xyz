@@ -5,7 +5,7 @@ event_url: 'https://2019.internetfestival.it/-/antura'
 location: Internet Festival di Pisa
 summary: 'Storia e sviluppo di un Applied Game'
 abstract: ''
-date: 2019-10-11T16:00:00+02:00
+date: 2019-10-11
 date_end: 2019-10-11T17:00:00+02:00
 all_day: false
 publishDate: 2019-08-25T14:22:04+02:00

@@ -3,7 +3,7 @@ title: "Umanista"
 linktitle: Umanista
 summary: cosa significa? cosa è questo Nuovo Umanesimo? Digitale?
 slug: umanista
-date: 2014-02-25T00:00:00Z
+date: 2014-02-25
 lastmod: 2014-02-25T00:00:00Z
 weight: 30
 categories: [stefano]

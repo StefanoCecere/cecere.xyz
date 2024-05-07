@@ -5,7 +5,7 @@ event_url: 'https://2019.internetfestival.it/-/nintendo-labolab-vr'
 location: Internet Festival di Pisa
 summary: 'Introduzione teorica alla Realtà Virtuale e sperimentazione ludico-creativa con il kit VR del Nintendo Labo'
 abstract: 'Introduzione teorica alla Realtà Virtuale e sperimentazione ludico-creativa con il kit VR del Nintendo Labo'
-date: 2019-10-11T10:00:00+02:00
+date: 2019-10-11
 date_end: 2019-10-11T13:00:00+02:00
 all_day: false
 publishDate: 2019-08-25T14:22:04+02:00

@@ -2,7 +2,7 @@
 draft: false
 categories:
 - futuro
-date: 2008-05-19T23:10:50Z
+date: 2008-05-19
 guid: http://cecere.xyz/2008/05/18/hai-voglia-di-vorrei/
 id: 958
 tags:

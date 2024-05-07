@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-05-24T19:08:44Z
+date: 2008-05-24
 guid: http://cecere.xyz/2008/05/24/aggiornamenti-sciopero-della-fame-contro-lo-scudo-spaziale/
 id: 975
 tags:

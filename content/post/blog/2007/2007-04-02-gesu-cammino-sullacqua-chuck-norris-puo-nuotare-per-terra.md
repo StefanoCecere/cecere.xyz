@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Uncategorized
-date: 2007-04-02T13:22:24Z
+date: 2007-04-02
 guid: http://cecere.xyz/2007/04/02/gesu-cammino-sullacqua-chuck-norris-puo-nuotare-per-terra/
 id: 500
 tags:

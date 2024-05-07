@@ -2,7 +2,7 @@
 draft: false
 categories:
   - futuro
-date: 2011-11-07T13:54:40Z
+date: 2011-11-07
 guid: http://stefanocecere.com/?p=2786
 id: 2786
 tags:

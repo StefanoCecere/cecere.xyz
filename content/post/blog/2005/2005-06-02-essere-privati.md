@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-06-02T16:23:29Z
+date: 2005-06-02
 guid: http://stefanocecere.com/?p=32
 id: 32
 title: essere privati

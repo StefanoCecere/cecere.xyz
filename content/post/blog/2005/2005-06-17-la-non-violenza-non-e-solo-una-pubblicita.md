@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-06-17T09:00:57Z
+date: 2005-06-17
 guid: http://stefanocecere.com/?p=22
 id: 22
 title: La non violenza non è solo una pubblicità…

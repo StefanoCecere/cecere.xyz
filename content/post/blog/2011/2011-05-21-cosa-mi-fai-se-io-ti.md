@@ -3,7 +3,7 @@ draft: false
 categories:
 - Smile
 - Spirito
-date: 2011-05-21T10:56:42Z
+date: 2011-05-21
 guid: http://stefanocecere.com/?p=2479
 id: 2479
 tags:

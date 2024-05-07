@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-06-16T14:47:26Z
+date: 2008-06-16
 guid: http://cecere.xyz/2008/06/16/fiorello-per-il-disarmo-canta-lignazio-jouer/
 id: 1046
 tags:

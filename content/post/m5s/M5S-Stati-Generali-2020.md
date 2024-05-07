@@ -2,7 +2,7 @@
 title: "Stati Generali M5S 2020: idee per un futuro attraente"
 linktitle: "Stati Generali M5S 2020"
 summary: ''
-date: 2020-10-26T00:00:00Z
+date: 2020-10-26
 lastmod: 2020-10-27T00:00:00Z
 draft: false
 toc: true

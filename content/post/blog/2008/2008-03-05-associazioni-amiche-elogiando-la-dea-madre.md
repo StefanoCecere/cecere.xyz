@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-03-05T11:29:57Z
+date: 2008-03-05
 guid: http://cecere.xyz/2008/03/05/associazioni-amiche-elogiando-la-dea-madre/
 id: 718
 tags:

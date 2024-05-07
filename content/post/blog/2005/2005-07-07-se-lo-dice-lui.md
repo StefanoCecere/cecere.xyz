@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-07-07T08:46:57Z
+date: 2005-07-07
 guid: http://stefanocecere.com/?p=13
 id: 13
 title: Se lo dice lui…

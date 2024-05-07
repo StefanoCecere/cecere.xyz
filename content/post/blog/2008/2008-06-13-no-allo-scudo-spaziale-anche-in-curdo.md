@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-06-13T04:08:50Z
+date: 2008-06-13
 guid: http://cecere.xyz/2008/06/13/no-allo-scudo-spaziale-anche-in-curdo/
 id: 1030
 tags:

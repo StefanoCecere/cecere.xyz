@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-05-29T17:45:07Z
+date: 2006-05-29
 guid: http://cecere.xyz/2006/05/29/video-attivita-umaniste-scorso-semestre/
 id: 294
 tags:

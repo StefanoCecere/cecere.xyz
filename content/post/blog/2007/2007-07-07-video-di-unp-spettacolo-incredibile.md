@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-07-07T23:33:56Z
+date: 2007-07-07
 guid: http://cecere.xyz/2007/07/07/video-di-unp-spettacolo-incredibile/
 id: 515
 tags:

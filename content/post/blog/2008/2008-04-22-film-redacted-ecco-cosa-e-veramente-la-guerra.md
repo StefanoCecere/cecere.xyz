@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-04-22T20:41:36Z
+date: 2008-04-22
 guid: http://cecere.xyz/2008/04/23/film-redacted-ecco-cosa-e-veramente-la-guerra/
 id: 890
 tags:

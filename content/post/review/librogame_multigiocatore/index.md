@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 tags: [librogame, edtech]
 categories: [giochiamo]
-date: 2020-03-02T21:58:36+01:00
+date: 2020-03-02
 lastmod: 2020-03-02T21:58:36+01:00
 featured: false
 draft: false

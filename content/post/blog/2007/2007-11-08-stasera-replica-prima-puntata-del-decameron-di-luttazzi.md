@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-11-08T20:26:28Z
+date: 2007-11-08
 guid: http://cecere.xyz/2007/11/08/stasera-replica-prima-puntata-del-decameron-di-luttazzi/
 id: 598
 tags:

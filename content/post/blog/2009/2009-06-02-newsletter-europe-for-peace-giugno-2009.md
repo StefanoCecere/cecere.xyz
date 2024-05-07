@@ -1,7 +1,7 @@
 ---
 categories:
 - MondoSenzaGuerre
-date: 2009-06-02T17:44:18Z
+date: 2009-06-02
 guid: http://stefanocecere.com/?p=1844
 id: 1844
 tags:

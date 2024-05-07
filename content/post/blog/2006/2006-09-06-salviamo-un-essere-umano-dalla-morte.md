@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-09-06T19:27:13Z
+date: 2006-09-06
 guid: http://cecere.xyz/2006/09/06/salviamo-un-essere-umano-dalla-morte/
 id: 414
 tags:

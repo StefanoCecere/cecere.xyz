@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-06-06T14:34:46Z
+date: 2008-06-06
 guid: http://cecere.xyz/2008/06/06/europe-for-peace-un-video-da-riguardare/
 id: 1010
 tags:

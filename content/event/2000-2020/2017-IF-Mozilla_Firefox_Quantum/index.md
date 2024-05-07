@@ -7,7 +7,7 @@ abstract: "La fondazione Mozilla è da sempre all’avanguardia sulle nuove tecn
 event: "Internet Festival"
 event_url: "http://2017.internetfestival.it/eventi/mozilla-firefox-57-le-nuove-frontiere-del-web-del-gaming-opensource/"
 location: Pisa
-date: 2017-10-06T17:30:00+02:00
+date: 2017-10-06
 date_end: 2017-10-06T18:30:00+02:00
 all_day: false
 publishDate: 2018-03-31T11:45:20+02:00

@@ -4,7 +4,7 @@ summary: the human rights press agency
 authors: []
 tags: [social, web, webdev, NuovoUmanesimo]
 categories: ["Media"]
-date: 2010-01-27T00:00:00
+date: 2010-01-27
 links:
  - name: Site
    url: https://pressenza.com

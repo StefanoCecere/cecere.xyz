@@ -2,7 +2,7 @@
 draft: false
 categories:
 - MondoSenzaGuerre
-date: 2009-10-01T00:03:12Z
+date: 2009-10-01
 guid: http://stefanocecere.com/?p=1927
 id: 1927
 title: se non mi vedi per un po'…

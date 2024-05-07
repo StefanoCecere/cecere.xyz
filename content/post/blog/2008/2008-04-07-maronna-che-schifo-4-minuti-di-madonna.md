@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-07T16:50:51Z
+date: 2008-04-07
 guid: http://cecere.xyz/2008/04/07/maronna-che-schifo-4-minuti-di-madonna/
 id: 815
 tags:

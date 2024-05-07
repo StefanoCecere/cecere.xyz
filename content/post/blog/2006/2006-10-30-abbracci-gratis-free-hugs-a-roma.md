@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-10-30T01:14:17Z
+date: 2006-10-30
 guid: http://cecere.xyz/2006/10/30/abbracci-gratis-free-hugs-a-roma/
 id: 454
 tags:

@@ -4,7 +4,7 @@ summary: "what a computer to start creating games"
 authors: []
 tags: ["game"]
 categories: ["work"]
-date: 1990-10-02T16:27:02+02:00
+date: 1990-10-02
 external_link: ""
 image:
   caption: ""

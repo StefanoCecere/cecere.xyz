@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-05-22T10:06:37Z
+date: 2008-05-22
 guid: http://cecere.xyz/2008/05/22/usa-la-forza-bush/
 id: 967
 tags:

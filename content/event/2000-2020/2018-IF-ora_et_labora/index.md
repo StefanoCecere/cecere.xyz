@@ -5,7 +5,7 @@ event_url: 'https://2018.internetfestival.it/ttour/nintendo-labolab'
 location: Pisa
 summary: 'laboratorio per ragazzi sul digitale, informatica e Labo'
 abstract: ''
-date: 2018-10-12T09:00:00+02:00
+date: 2018-10-12
 date_end: 2018-10-12T12:00:00+02:00
 all_day: false
 publishDate: 2018-11-25T14:22:04+02:00

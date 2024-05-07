@@ -3,7 +3,7 @@ draft: false
 categories:
 - futuro
 - tecnologia
-date: 2011-02-21T22:32:53Z
+date: 2011-02-21
 guid: http://stefanocecere.com/?p=2385
 id: 2385
 tags:

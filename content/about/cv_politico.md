@@ -3,7 +3,7 @@ title: Politico
 linktitle: Politico
 summary: mi piace la Polis e non riesco a non essere politico
 slug: politico
-date: 2018-02-25T00:00:00Z
+date: 2018-02-25
 lastmod: 2018-09-09T00:00:00
 weight: 50
 categories: [stefano]

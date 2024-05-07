@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2006-08-21T18:16:37Z
+date: 2006-08-21
 guid: http://cecere.xyz/2006/08/21/catena-umana-lungo-ladriatico-contro-la-guerra/
 id: 391
 tags:

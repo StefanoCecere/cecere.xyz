@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-11-22T00:24:50Z
+date: 2007-11-22
 guid: http://cecere.xyz/2007/11/22/lanterna-di-fuoco-da-brooklyng/
 id: 608
 title: Lanterna di fuoco! (da Brooklyng)

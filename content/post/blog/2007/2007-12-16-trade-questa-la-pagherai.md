@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-12-16T06:35:41Z
+date: 2007-12-16
 guid: http://cecere.xyz/2007/12/16/trade-questa-la-pagherai/
 id: 620
 tags:

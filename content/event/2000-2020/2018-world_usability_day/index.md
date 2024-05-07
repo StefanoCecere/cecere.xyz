@@ -7,7 +7,7 @@ abstract: "Il videogioco è un media e uno strumento sempre più considerato non
 event: "World Usability Day"
 event_url: "https://worldusabilityday.org/2018/11/milan-italy-2018/"
 location: Milan
-date: 2018-11-08T11:39:14+02:00
+date: 2018-11-08
 #date_end: 2021-04-03T18:30:00Z
 all_day: true
 publishDate: 2018-11-30T11:39:14+02:00

@@ -1,7 +1,7 @@
 ---
 categories:
 - Uncategorized
-date: 2005-12-14T09:55:00Z
+date: 2005-12-14
 guid: http://stefanocecere.com/2005/12/14/una-storiella/
 id: 180
 tags:

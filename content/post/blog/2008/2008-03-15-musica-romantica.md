@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-03-15T18:21:38Z
+date: 2008-03-15
 guid: http://cecere.xyz/2008/03/15/musica-romantica/
 id: 748
 tags:

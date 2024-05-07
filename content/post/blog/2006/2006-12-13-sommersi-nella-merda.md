@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-12-13T00:01:30Z
+date: 2006-12-13
 guid: http://cecere.xyz/2006/12/13/sommersi-nella-merda/
 id: 474
 tags:

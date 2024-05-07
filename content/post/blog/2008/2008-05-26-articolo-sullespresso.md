@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-05-26T14:30:18Z
+date: 2008-05-26
 guid: http://cecere.xyz/2008/05/26/articolo-sullespresso/
 id: 980
 tags:

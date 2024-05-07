@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-07-21T01:53:01Z
+date: 2007-07-21
 guid: http://cecere.xyz/2007/07/21/transformers-il-film/
 id: 534
 tags:

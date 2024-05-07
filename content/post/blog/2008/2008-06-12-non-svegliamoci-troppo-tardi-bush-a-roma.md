@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-06-12T14:33:16Z
+date: 2008-06-12
 guid: http://cecere.xyz/2008/06/12/non-svegliamoci-troppo-tardi-bush-a-roma/
 id: 1021
 tags:

@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2006-06-05T10:24:56Z
+date: 2006-06-05
 guid: http://cecere.xyz/2006/06/05/il-7-giugno-serata-centura-imbavagliata/
 id: 324
 tags:

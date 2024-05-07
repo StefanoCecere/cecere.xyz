@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-08-29T20:51:48Z
+date: 2006-08-29
 guid: http://cecere.xyz/2006/08/29/forum-umanista-europeo-milano-e-lisbona/
 id: 408
 tags:

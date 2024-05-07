@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-06-26T14:39:35Z
+date: 2006-06-26
 guid: http://cecere.xyz/2006/06/26/perche-siamo-qui/
 id: 356
 tags:

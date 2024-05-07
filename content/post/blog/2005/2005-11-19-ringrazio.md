@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-11-19T13:56:53Z
+date: 2005-11-19
 guid: http://stefanocecere.com/2005/11/19/ringrazio/
 id: 152
 title: ringrazio

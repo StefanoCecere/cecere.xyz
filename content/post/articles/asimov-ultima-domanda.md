@@ -1,7 +1,7 @@
 ---
 title: "L'ultima domanda (il miglior racconto breve di fantascienza)"
 slug: /asimov-ultima-domanda/
-date: 2012-10-31T09:49:05Z
+date: 2012-10-31
 categories: [racconti]
 tags: [fantascienza, asimov]
 ---

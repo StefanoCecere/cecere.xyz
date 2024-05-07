@@ -3,7 +3,7 @@ title: Alcune foto da Svilupparty 2017
 subtitle: 
 summary: 
 projects: []
-date: "2017-05-22T00:00:00Z"
+date: 2017-05-22
 draft: false
 featured: false
 authors:

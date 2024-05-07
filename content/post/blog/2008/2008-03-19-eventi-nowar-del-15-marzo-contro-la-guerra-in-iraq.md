@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-03-19T06:26:00Z
+date: 2008-03-19
 guid: http://cecere.xyz/2008/03/19/eventi-nowar-del-15-marzo-contro-la-guerra-in-iraq/
 id: 756
 tags:

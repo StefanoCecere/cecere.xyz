@@ -5,7 +5,7 @@ summary: gioco creato dai ragazzi alla GGJ 2019
 authors: []
 tags: ["jamurr", "GlobalGameJam", "game", "kids"]
 categories: ["jamurr"]
-date: 2019-01-31T16:27:02+02:00
+date: 2019-01-31
 external_link: ""
 image:
   caption: ""

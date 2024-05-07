@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-10-31T23:33:19Z
+date: 2005-10-31
 guid: http://stefanocecere.com/2005/10/31/tutto-quello-che-sai-e-falso/
 id: 124
 tags:

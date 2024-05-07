@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-10-09T23:55:19Z
+date: 2007-10-09
 guid: http://cecere.xyz/2007/10/09/praga-new-york-e-la-paz/
 id: 579
 tags:

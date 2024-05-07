@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-11-10T02:36:35Z
+date: 2007-11-10
 guid: http://cecere.xyz/2007/11/10/nokia-n95-8gb-e-osx-leopard-isync/
 id: 599
 tags:

@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-07-20T11:19:45Z
+date: 2006-07-20
 guid: http://cecere.xyz/2006/07/20/ciao-agustin/
 id: 377
 tags:

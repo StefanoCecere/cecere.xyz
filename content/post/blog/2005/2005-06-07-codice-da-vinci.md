@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-06-07T10:48:27Z
+date: 2005-06-07
 guid: http://stefanocecere.com/?p=30
 id: 30
 title: Codice Da Vinci

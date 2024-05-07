@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-05-11T15:35:54Z
+date: 2005-05-11
 guid: http://stefanocecere.com/?p=46
 id: 46
 title: ma quando dormo?

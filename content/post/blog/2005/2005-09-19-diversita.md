@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-09-19T23:24:55Z
+date: 2005-09-19
 guid: http://stefanocecere.com/2005/09/19/diversita/
 id: 89
 title: Diversità

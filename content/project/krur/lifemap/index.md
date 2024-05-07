@@ -6,7 +6,7 @@ summary: "stampa il tuo calendario"
 authors: []
 tags: []
 categories: []
-date: 2019-07-07T16:32:47+02:00
+date: 2019-07-07
 external_link: ""
 image:
   caption: ""

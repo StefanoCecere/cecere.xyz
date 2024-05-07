@@ -6,7 +6,7 @@ location: Pisa
 summary: una Game Jam per i ragazzi
 abstract: ''
 # Talk start and end times.
-date: 2016-10-08T10:00:00+02:00
+date: 2016-10-08
 date_end: 2016-10-08T18:00:00+02:00
 all_day: false
 publishDate: 2016-09-08

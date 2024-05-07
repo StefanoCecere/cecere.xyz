@@ -5,7 +5,7 @@ subtitle: ""
 summary: "l'ecologia e il futuro passano anche da un nuovo formato di compressione immagini che sostituirà JPG, GIF e PNG"
 categories: [blog]
 tags: [tips, tech, internet, webdev, EcologiaDigitale, formati]
-date: 2021-04-18T
+date: 2021-04-18
 featured: false
 draft: false
 image:

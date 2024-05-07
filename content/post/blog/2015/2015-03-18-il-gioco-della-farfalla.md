@@ -5,7 +5,7 @@ draft: false
 categories: dialoghi
 tags:
 - JJ
-date: 2015-03-18T16:54:29Z
+date: 2015-03-18
 guid: http://stefanocecere.com/?p=5654
 id: 5654
 ---

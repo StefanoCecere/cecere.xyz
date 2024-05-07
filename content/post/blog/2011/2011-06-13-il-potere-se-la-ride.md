@@ -3,7 +3,7 @@ draft: false
 categories:
 - MondoSenzaGuerre
 - tempi-moderni
-date: 2011-06-13T14:48:49Z
+date: 2011-06-13
 guid: http://stefanocecere.com/?p=2494
 id: 2494
 tags:

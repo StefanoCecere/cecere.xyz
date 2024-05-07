@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-05-14T11:06:49Z
+date: 2008-05-14
 guid: http://cecere.xyz/2008/05/14/iniziato-lo-sciopero-della-fame-contro-lo-scudo-stellare/
 id: 931
 tags:

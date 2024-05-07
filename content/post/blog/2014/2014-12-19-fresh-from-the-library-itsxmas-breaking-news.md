@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Tweets
-date: 2014-12-19T19:51:32Z
+date: 2014-12-19
 format: status
 guid: http://twitter-546014987383476224-post
 id: 5569

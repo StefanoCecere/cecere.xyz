@@ -3,7 +3,7 @@ title: Kids Global Game Jam 2019
 subtitle: 
 summary: pronti per la GGJ a Roma!
 projects: []
-date: 2019-01-22T00:00:00Z
+date: 2019-01-22
 draft: false
 featured: false
 categories: [jamurr]

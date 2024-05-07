@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-07-10T02:24:21Z
+date: 2006-07-10
 guid: http://cecere.xyz/2006/07/10/cosa-ha-detto-materazzi-a-zidane/
 id: 363
 tags:

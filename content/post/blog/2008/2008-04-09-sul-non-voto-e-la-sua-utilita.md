@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2008-04-09T20:42:20Z
+date: 2008-04-09
 guid: http://cecere.xyz/2008/04/09/sul-non-voto-e-la-sua-utilita/
 id: 835
 tags:

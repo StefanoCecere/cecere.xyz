@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2007-09-05T20:29:39Z
+date: 2007-09-05
 guid: http://cecere.xyz/2007/09/05/cerchi-casa-luminosa-economica-termoautonoma-spaziosa-libera-vero-affare/
 id: 561
 tags:

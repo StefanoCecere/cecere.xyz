@@ -4,7 +4,7 @@ categories:
 - Economia
 - politica
 - tempi-moderni
-date: 2011-01-09T23:29:47Z
+date: 2011-01-09
 guid: http://stefanocecere.com/?p=2313
 id: 2313
 tags:

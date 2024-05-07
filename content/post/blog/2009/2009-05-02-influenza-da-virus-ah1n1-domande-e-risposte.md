@@ -3,7 +3,7 @@ title: "Influenza da virus A/H1N1: domande e risposte"
 slug: /2009/05/influenza-da-virus-ah1n1-domande-e-risposte/
 draft: false
 categories: [blog]
-date: 2009-05-02T09:12:15Z
+date: 2009-05-02
 guid: http://stefanocecere.com/?p=1726
 id: 1726
 tags:

@@ -5,7 +5,7 @@ categories:
 - MondoSenzaGuerre
 - Spirito
 - tempi-moderni
-date: 2011-03-03T07:16:11Z
+date: 2011-03-03
 guid: http://stefanocecere.com/?p=2393
 id: 2393
 tags:

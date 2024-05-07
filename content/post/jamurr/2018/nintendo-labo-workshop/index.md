@@ -9,7 +9,7 @@ summary: laboratorio all'Internet Festival
 projects: []
 
 # Date published
-date: "2018-10-11T00:00:00Z"
+date: 2018-10-11
 
 # Is this an unpublished draft?
 draft: false

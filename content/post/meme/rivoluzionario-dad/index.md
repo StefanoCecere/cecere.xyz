@@ -5,7 +5,7 @@ subtitle: ""
 summary: ""
 categories: [meme]
 tags: [parenting]
-date: 2021-04-21T11:15:22+02:00
+date: 2021-04-21
 featured: false
 draft: false
 image:

@@ -3,7 +3,7 @@ title: Game Over Milano 2016
 subtitle: 
 summary: 
 projects: []
-date: 2016-09-24T00:00:00Z
+date: 2016-09-24
 draft: false
 featured: false
 categories: [jamurr]

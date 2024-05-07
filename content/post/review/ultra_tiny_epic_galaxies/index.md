@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 tags: [GdT]
 categories: [giochiamo]
-date: 2020-10-10T21:58:36+01:00
+date: 2020-10-10
 lastmod: 2020-10-10T21:58:36+01:00
 featured: false
 draft: false

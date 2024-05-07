@@ -2,7 +2,7 @@
 draft: false
 categories:
 - Economia
-date: 2012-01-25T19:31:07Z
+date: 2012-01-25
 guid: http://stefanocecere.com/?p=2827
 id: 2827
 tags:

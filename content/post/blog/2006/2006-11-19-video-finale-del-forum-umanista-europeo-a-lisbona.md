@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-11-19T18:20:01Z
+date: 2006-11-19
 guid: http://cecere.xyz/2006/11/19/video-finale-del-forum-umanista-europeo-a-lisbona/
 id: 461
 tags:

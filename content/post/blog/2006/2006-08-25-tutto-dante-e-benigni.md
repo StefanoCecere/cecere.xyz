@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-08-25T12:19:16Z
+date: 2006-08-25
 guid: http://cecere.xyz/2006/08/25/tutto-dante-e-benigni/
 id: 399
 tags:

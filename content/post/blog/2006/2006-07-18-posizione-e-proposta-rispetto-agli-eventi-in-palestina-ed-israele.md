@@ -2,7 +2,7 @@
 draft: false
 categories:
 - tempi-moderni
-date: 2006-07-18T12:19:52Z
+date: 2006-07-18
 guid: http://cecere.xyz/2006/07/18/posizione-e-proposta-rispetto-agli-eventi-in-palestina-ed-israele/
 id: 369
 tags:

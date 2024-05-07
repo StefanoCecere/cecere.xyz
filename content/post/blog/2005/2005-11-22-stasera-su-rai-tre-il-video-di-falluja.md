@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-11-22T19:32:03Z
+date: 2005-11-22
 guid: http://stefanocecere.com/2005/11/22/stasera-su-rai-tre-il-video-di-falluja/
 id: 155
 title: stasera su rai tre il video di Falluja

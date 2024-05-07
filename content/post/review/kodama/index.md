@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 tags: [GdT, mensa]
 categories: [giochiamo]
-date: 2020-03-15T21:58:36+01:00
+date: 2020-03-15
 lastmod: 2020-03-15T21:58:36+01:00
 featured: false
 draft: false

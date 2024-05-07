@@ -3,7 +3,7 @@ draft: false
 categories:
 - media
 - Spirito
-date: 2012-07-10T21:40:16Z
+date: 2012-07-10
 format: video
 guid: http://stefanocecere.com/?p=2937
 id: 2937

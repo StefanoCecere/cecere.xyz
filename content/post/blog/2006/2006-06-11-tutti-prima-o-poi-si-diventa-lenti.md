@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-06-11T18:38:27Z
+date: 2006-06-11
 guid: http://cecere.xyz/2006/06/11/tutti-prima-o-poi-si-diventa-lenti/
 id: 327
 tags:

@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-03-20T08:53:27Z
+date: 2008-03-20
 guid: http://cecere.xyz/2008/03/20/presidio-solidarieta-tibet/
 id: 760
 tags:

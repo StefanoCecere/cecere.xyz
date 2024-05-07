@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2008-04-02T20:37:49Z
+date: 2008-04-02
 guid: http://cecere.xyz/2008/04/02/massima-solidarieta-a-paolo-barnard/
 id: 795
 tags:

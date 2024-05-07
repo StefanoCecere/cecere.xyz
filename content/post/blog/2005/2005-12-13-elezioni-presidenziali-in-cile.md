@@ -1,6 +1,6 @@
 ---
 categories: [blog]
-date: 2005-12-13T14:32:48Z
+date: 2005-12-13
 guid: http://stefanocecere.com/2005/12/13/elezioni-presidenziali-in-cile/
 id: 179
 tags:

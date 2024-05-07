@@ -1,7 +1,7 @@
 ---
 categories:
 - futuro
-date: 2005-07-29T13:26:11Z
+date: 2005-07-29
 guid: http://stefanocecere.com/?p=7
 id: 7
 tags:

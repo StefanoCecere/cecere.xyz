@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2014-12-18T05:58:34Z
+date: 2014-12-18
 format: video
 guid: http://stefanocecere.com/?p=5518
 id: 5518

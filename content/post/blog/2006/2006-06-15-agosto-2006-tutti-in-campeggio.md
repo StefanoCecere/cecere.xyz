@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: [blog]
-date: 2006-06-15T11:32:40Z
+date: 2006-06-15
 guid: http://cecere.xyz/2006/06/15/agosto-2006-tutti-in-campeggio/
 id: 331
 tags:
