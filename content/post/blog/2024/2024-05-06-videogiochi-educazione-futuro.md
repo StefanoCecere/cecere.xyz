@@ -1,14 +1,20 @@
 ---
-title: Videogiochi per educare al futuro 
+title: Videogiochi per educare al futuro
 date: 2024-05-06
-updated: 2024-05-06
+updated: 2024-05-07
 type: 
-categories: blog
-tags: [futuro, videogiochi, educazione, vgwb]
+categories:
+  - blog
+tags:
+  - futuro
+  - videogiochi
+  - educazione
+  - vgwb
+  - BeppeGrillo
 description: 
 permalink: 
 rating: 
-publish: 
+publish:
 ---
 
 Mi hanno chiesto di scrivere qualcosa su quello che faccio che è particolarmente innovativo e “utile” al mondo. E così ecco un primo articolo sul tema dei videogiochi umanitari e per l'educazione.
@@ -17,8 +23,6 @@ Che dite: sarebbero cose interessanti da portare al Parlamento Europeo? Quante c
 
 Come vedete si può fare "attivismo" anche con il proprio lavoro. O meglio cercare di unire professione e missione. Il mondo dell'educazione e dei nuovi media ha bisogno di persone con idee, capacità ed energia.
 
-<https://beppegrillo.it/videogiochi-per-educare-al-futuro/>
+ECCO IL POST 👉🏼 <https://beppegrillo.it/videogiochi-per-educare-al-futuro/>
 
-PS: sono particolarmente grato a Beppe Grillo. Fu uno spettacolo che vidi negli anni '90 che mi attivò... ne accenno in un post che scrissi il 3 maggio ... 2005!!! [leggete qui](../2005/2005-05-03-beppe-grillo.md)
-
-essere sul suo blog in prima pagina è quasi quanto suonare con Battiato! quasi eh. però è una bella piccola soddisfazione.
+PS: sono particolarmente grato a Beppe Grillo. Fu uno spettacolo che vidi negli anni '90 che mi attivò... ne accenno in un post che scrissi il 3 maggio ... 2005!!! [leggete qui](../2005/2005-05-03-beppe-grillo.md) essere sul suo blog in prima pagina è quasi quanto suonare con Battiato! quasi eh :)
