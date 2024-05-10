@@ -1,12 +1,15 @@
 ---
-title: "Su questo sito"
+title: Su questo sito
 linktitle: Sito
 summary: informazioni tecniche e filosofiche su questo sito
 slug: site
 date: 2021-01-25
 lastmod: 2021-01-25T00:00:00Z
 weight: 1000
-tags: [webdev, markdown, opensource, future]
+tags:
+  - webdev
+  - markdown
+  - opensource
 ---
 La prima versione di questo sito è andata online nel 1997 (con il dominio krur.com) con html scritto a mano, poi gestito con Dreamweaver.    
 Nel 2002 lo portai su TYPO3, un CMS di cui divenni professionista.  

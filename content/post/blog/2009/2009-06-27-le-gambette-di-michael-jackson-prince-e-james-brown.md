@@ -1,13 +1,13 @@
 ---
 draft: false
-categories: [blog]
+categories:
+  - blog
 date: 2009-06-27
 guid: http://stefanocecere.com/?p=1902
 id: 1902
 tags:
-- ballo
-- music
-- video
+  - music
+  - video
 title: le gambette di Michael Jackson, Prince e James Brown
 slug: /2009/06/le-gambette-di-michael-jackson-prince-e-james-brown/
 ---

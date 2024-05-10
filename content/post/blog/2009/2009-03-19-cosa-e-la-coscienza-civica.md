@@ -1,13 +1,15 @@
 ---
-draft: false
-categories: [blog]
+title: cosa è la coscienza civica?
 date: 2009-03-19
+updated: 2024-05-10
+draft: false
+categories:
+  - blog
 guid: http://stefanocecere.com/?p=1610
 id: 1610
 tags:
-- ridere
-- vignette
-title: cosa è la coscienza civica?
+  - ridere
+  - vignetta
 slug: /2009/03/cosa-e-la-coscienza-civica/
 ---
 

@@ -1,16 +1,17 @@
 ---
+title: Lo Scudo Spaziale
+date: 2008-06-05
+updated: 2024-05-10
 draft: false
 categories:
-- Uncategorized
-date: 2008-06-05
+  - Uncategorized
 guid: http://cecere.xyz/2008/06/05/lo-scudo-spaziale/
 id: 1008
 tags:
-- ricreazione
-- ridere
-- scudo-spaziale
-- vignette
-title: Lo Scudo Spaziale
+  - ricreazione
+  - ridere
+  - scudo-spaziale
+  - vignetta
 slug: /2008/06/lo-scudo-spaziale/
 ---
 

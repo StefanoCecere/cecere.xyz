@@ -1,9 +1,13 @@
 ---
-title: "Vota Stefano Cecere"
-slug: /2007/05/vota-stefano-cecere
-tags: [politica, starred]
-categories: [blog]
+title: Vota Stefano Cecere
 date: 2007-05-19
+updated: 2024-05-10
+slug: /2007/05/vota-stefano-cecere
+tags:
+  - politica
+  - stefano
+categories:
+  - blog
 ---
 
 ![](../../../assets/img/post/2007/vota-stefano-cecere/vota_stefano_cecere_featured.jpg)
