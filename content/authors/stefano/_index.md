@@ -31,7 +31,7 @@ role: Ricercatore, Sviluppatore, Educatore, Attivista, Umanista, Papà.
 #    url: https://vgwb.org
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Tecnologie Digitali, Creatività, Filosofia e attivismo per una Politica Progressista 2050. E papà 2x
+bio: Ricerco, Sviluppo e Condivido nell'intersezione tra Giochi, Educazione, Tecnologie Digitali, Creatività, Filosofia Umanista per una Politica Progressista 2050. E papà 2x
 
 #interests:
 #- Giochi, Tecnologia e Filosofia
