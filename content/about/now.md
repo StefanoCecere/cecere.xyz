@@ -11,7 +11,7 @@ cosa sto facendo ora?
 
 - sono candidato alle [europee con il M5S](https://cecere.xyz/post/candidatura-m5s-2024/)!
 - coordino progetto Erasmus+ per versione "culture" di [Antura and the Letters](../project/games/antura/index.md)
-- preparando installazione DnD per il [Modena PLAY](https://www.play-modena.it/)
-- tenendo lezioni speciali di Applied Game Design alla [TheSign Academy](https://thesign.academy/)
 - imparando a fare le pizze e sempre mille cose alla [Casa del Popolo di Settignano](https://cdp.settignano.org/)
 - ~~programmi PNNR su GBL e XR con FEM~~
+- ~~preparando installazione DnD per il [Modena PLAY](https://www.play-modena.it/)~~
+- ~~tenendo lezioni speciali di Applied Game Design alla [TheSign Academy](https://thesign.academy/)~~
