@@ -1,7 +1,7 @@
 ---
 title: "Digital Technology Commission"
 summary: un gruppo di studio delle nuove tecnologie applicate all'attivismo
-tags: [social, MovimentoUmanista, technology]
+tags: [social, MovimentoUmanista, technology, opensource]
 categories: []
 date: 2003-11-21
 external_link: ""
@@ -16,5 +16,4 @@ url_video: ""
 slides: ""
 ---
 
-in seno al Movimento Umanista, coordinamento della prima Commissione sulle Tecnologie Digitali
-
+Coordinamento della prima Commissione sulle Tecnologie Digitali Europea per lo studio, l'educazione e la disseminazione degli strumenti digitali etici ed opensource.

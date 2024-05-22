@@ -15,7 +15,7 @@ Ho iniziato la mia militanza politica raccogliendo le firme per questa proposta 
 
 Gli eletti devono essere vincolati al mandato ricevuto dagli elettori!
 
-Il 4 marzo 1999 il Partito Umanista presentò alla Camera dei Deputati una proposta di Legge di Iniziativa Popolare, corredata da oltre 50.000 firme di elettori, intitolata “Norme sulla Responsabilità Politica”.
+Il **4 marzo 1999** il Partito Umanista presentò alla Camera dei Deputati una proposta di Legge di Iniziativa Popolare, corredata da oltre 50.000 firme di elettori, intitolata “Norme sulla Responsabilità Politica”.
 
 Le “Norme sulla Responsabilità Politica” obbligano gli eletti a rendere conto periodicamente del proprio operato agli elettori e danno a questi ultimi la facoltà di licenziare i propri rappresentanti, qualora essi non abbiano rispettato gli impegni assunti in campagna elettorale.
 [Testo della Legge](../../../assets/files/1999_03_04_LeggeResponsabilitaPolitica.pdf)

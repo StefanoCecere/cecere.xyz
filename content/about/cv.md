@@ -12,6 +12,8 @@ tags: ["CV"]
 
 {{< figure src="stefano/stefano-lavoro.jpg" alt="Stefano Cecere" width="200" class="figure">}}
 
+> Per scaricare mio CV: [Curriculum PDF](../../assets/files/CV-StefanoCecere.pdf)
+
 ## ANNI '90
 Ho iniziato a lavorare come sviluppatore di videogiochi durante il Liceo Scientifico, nel 1989. Durante il triennio di Ingegneria Elettronica lavoravo come sviluppatore multimediale per la New Sounds Multimedia, creando dozzine di CDROM interattivi, i primi VR e i primi siti web.
 E' vero: non ho terminato l'Università nonostante gli ottimi voti, ma avevo già assimilato i principi di Matematica e Fisica che mi servivano e sapevo già che il futuro non voleva pezzi di carta, ma spirito di ricerca e studio costante e passione per l'applicazione.
@@ -81,6 +83,8 @@ Ora sto studiando Scienze della Formazione, Psicologia e Scienze Cognitive, ment
 - Connexia
 - Creeo studio
 - Energy Productions
+- FEM - Future Education Modena
+- Il Fatto Quotidiano - Scuola
 - Interzone
 - Lindasoft
 - Mediakey
