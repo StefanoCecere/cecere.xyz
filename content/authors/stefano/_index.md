@@ -158,7 +158,7 @@ highlight_name: true
 Ciao, mi chiamo Stefano Cecere e mi occupo di socializzazione e contaminazione
 tra educazione, politica, giochi e tecnologia per migliorare il mondo. ▶️👍🎲😊
 
-Sviluppo videogiochi educativi e per l’impatto sociale con [Videogames Without Borders](https://vgwb.org), insegno Game Based Learning agli insegnanti ([FEM di Modena](https://fem.digital)) e ai giovani game designers ([TheSign Academy](https://thesign.academy/)), oltre a promuovere da decenni attività di didattica ludica e tecnologia creativa con bambini ([2042ed.org](https://2042ed.org)). Papà e vicepresidente di una storica [Casa del Popolo di Firenze](https://cdp.settignano.org), sono un **attivista umanista** dal 1996 per la **pace** e la **partecipazione** e oggi sono [candidato alle europee con il Movimento 5 Stelle](../../post/m5s/candidatura-m5s-2024/index.md).
+Sviluppo videogiochi educativi e per l’impatto sociale con [Videogames Without Borders](https://vgwb.org), insegno Game Based Learning agli insegnanti ([FEM di Modena](https://fem.digital)) e ai giovani game designers ([TheSign Academy](https://thesign.academy/)), oltre a promuovere da decenni attività di didattica ludica e tecnologia creativa con bambini ([2042ed.org](https://2042ed.org)). Papà e vicepresidente di una storica [Casa del Popolo di Firenze](https://cdp.settignano.org), sono un **attivista umanista** dal 1996 per la **pace** e la **partecipazione** e oggi sono [candidato alle europee con il Movimento 5 Stelle](../../play/index.md).
 
 {{< rawhtml >}}
 <div class="row">

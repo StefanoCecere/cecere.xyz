@@ -5,6 +5,9 @@ main:
   - name: Home
     url: ''
     weight: 10
+  - name: PLAY in EU
+    url: '/play'
+    weight: 15
 #  - name: Now
 #    url: '/now'
 #    weight: 15

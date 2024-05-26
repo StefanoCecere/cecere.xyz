@@ -15,4 +15,4 @@ draft: false
 Questi sono i punti principali del programma M5S alle europee.
 abbiamo pubblicato il programma completo, ma è un PDF di 100 pagine che consiglio solo a chi ha 20 minuti di tempo, e sarà approvato e integrato settimana prossima da una votazione di tutti gli iscritti al M5S.
 
-👉🏼 [qui trovate il PDF con il programma completo](https://www.movimento5stelle.eu/Programma-elettorale-europee-2024.pdf)
+👉🏼 [qui trovate il programma completo in formato accessibile](https://2050x.org/m5s/documenti/programma-eu-2024/)
