@@ -23,10 +23,13 @@ italian and european tour with one of the most funky italian pop star, with a su
 
 Qui alcuni video
 
-Morirò D'amore:  
+**Morirò D'amore**  
 {{< youtube 6mVTzJkNS3k >}}
 <https://youtu.be/6mVTzJkNS3k>
 
 {{< youtube sasg9NDFe-c >}}
 <https://youtu.be/sasg9NDFe-c>
 
+**Ragazzo Fortunato** (TV)  
+{{< youtube izM6kQUVGo4 >}}
+<https://youtu.be/izM6kQUVGo4>
