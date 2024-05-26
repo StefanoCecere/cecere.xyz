@@ -17,11 +17,16 @@ url_slides: ""
 url_video: ""
 slides: ""
 ---
-italian and european tour with one of the most funky italian pop star, with a super band of 17 amazing musicians (Saturnino, Giovanni Allevi, Marco Tamburini...)
+
+L’album **Lorenzo 2002 – Il quinto mondo** conferma l’equilibrio tra l’amore e l’impegno politico e sociale nelle canzoni di Jovanotti. Il singolo “Salvami” affronta temi come il pacifismo, la globalizzazione, la giustizia verso il Terzo Mondo e l’ambientalismo. Il tour “Quinto Mondo” è caratterizzato dalla presenza di 17 musicisti sul palco, culminando in un concerto-evento promosso per la tutela delle acque del Gran Sasso.
+
+Ho suonato nella band di 17 super musicisti (tra cui Saturnino, Giovanni Allevi, Marco Tamburini...) in italia e in Europa.
+
+## Foto
 
 {{< sc_gallery album="gallery" >}}
 
-Qui alcuni video
+## Video
 
 **Morirò D'amore**  
 {{< youtube 6mVTzJkNS3k >}}
@@ -33,3 +38,7 @@ Qui alcuni video
 **Ragazzo Fortunato** (TV)  
 {{< youtube izM6kQUVGo4 >}}
 <https://youtu.be/izM6kQUVGo4>
+
+## Articoli
+
+-[rockol.it](https://www.rockol.it/news-42177/nuovo-tour-e-nuovo-video-per-jovanotti)
