@@ -1,5 +1,5 @@
 ---
-title: Franco Battiato - Gommalacca tour
+title: Battiato - Gommalacca tour
 summary: "keyboard player"
 # slug: 
 authors: []
