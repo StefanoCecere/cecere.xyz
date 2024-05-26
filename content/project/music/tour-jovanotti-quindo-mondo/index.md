@@ -17,6 +17,16 @@ url_slides: ""
 url_video: ""
 slides: ""
 ---
+italian and european tour with one of the most funky italian pop star, with a super band of 17 amazing musicians (Saturnino, Giovanni Allevi, Marco Tamburini...)
+
 {{< sc_gallery album="gallery" >}}
 
-european tour with one of the most funky italian pop stars, with a super band of 17 amazing musicians.
+Qui alcuni video
+
+Morirò D'amore:  
+{{< youtube 6mVTzJkNS3k >}}
+<https://youtu.be/6mVTzJkNS3k>
+
+{{< youtube sasg9NDFe-c >}}
+<https://youtu.be/sasg9NDFe-c>
+
