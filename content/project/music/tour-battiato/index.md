@@ -1,5 +1,5 @@
 ---
-title: Battiato - Gommalacca tour
+title: Franco Battiato - Gommalacca tour
 summary: "keyboard player"
 # slug: 
 authors: []
@@ -18,8 +18,13 @@ url_video: ""
 slides: ""
 ---
 
-tour italiano, Sanremo, capodanno 2000
-tastierista programmatore per il tour Gommalacca.
+Nel 1999 sono stato chiamato da Franco Battiato come tastierista / programmatore per il tour Gommalacca, un album particolarmente "giovane", elettro-rock.
+
+Oltre al tour italiano abbiamo fatto diverse televisioni, Sanremo con una performance memorabile e poi il Capodanno 2000 in Calabria.
+
+Non ho molte foto o video.. ai tempi non si usava fare troppe foto ;) ho recuperato queste registrazioni.
+
+NB: ero l'unico tastierista! potete immaginare la responsabilità, l'onore e l'onere. E intanto parlavamo di società, di antiche religioni, di nuovo umanesimo.
 
 concerto completo (solo audio):  
 {{< youtube 82f0_jqhVgs >}}
@@ -33,8 +38,8 @@ https://www.youtube.com/watch?v=83fKF9GUewg
 https://www.youtube.com/watch?v=rajzcbvpTO4
 
 a Sanremo 1999
-{{< youtube 9Dz7mC0zXeU >}}
-https://www.youtube.com/watch?v=9Dz7mC0zXeU
+{{< youtube JxI9I21yHlg >}}
+https://www.youtube.com/watch?v=JxI9I21yHlg
 
 Paranoia
 https://www.youtube.com/watch?v=eHNiL2frtD0
