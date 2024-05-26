@@ -7,7 +7,8 @@ type: book
 ![](./cecere-play.jpg)  
 
 Questa è la pagina per la mia candidatura al Parlamento Europeo.  
-**Sono il tuo candidato ideale?** Mi vorresti vedere alle prese con altri 700 europarlamentari a organizzare mille attività e incontri e portare avanti le nostre idee con energia e creatività? Mettimi alla prova.
+**Sono il tuo candidato ideale?** Mi vorresti vedere alle prese con altri 700 europarlamentari a organizzare mille attività e incontri e portare avanti le nostre idee con energia e creatività?  
+**Mettimi alla prova nel portare il gioco ad un altro livello.**
 
 ## Gioco
 > Il gioco sarà disponibile a breve. Seguimi per avere l'anteprima
@@ -51,7 +52,7 @@ qui tutto il video della serata:
 <https://youtu.be/dPR3eD_OmVg>
 
 ### Presentazione candidati (22 maggio)
-Qui racconto la mia vita da attivista e professionista in 7 minuti. Qulacuno mi cheide se le mie giornate sono da 72 ore o se davvero ho fatto tutte quelle cose... dico: ne ho fatte molte di più! E i dettagli sono nella [pagina progetti](../project/_index.md).   
+Qui racconto la mia vita da attivista e professionista in 7 minuti. Qualcuno mi chiede se le mie giornate siano da 72 ore, che droga uso (solo caffè ed energia interna!) o se davvero ho fatto tutte quelle cose... dico: ne ho fatte molte di più! :) E i dettagli sono nella [pagina progetti](../project/_index.md).   
 NB: **tutto l'attivismo è volontariato**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aHn6c-QSvsA?si=6Cz0hqBrIQRJK-gn&amp;start=5838" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
