@@ -18,7 +18,12 @@ url_video: ""
 slides: ""
 ---
 
-tour italiano
-tastierista programmatore per il tour .
+tour italiano - tastierista programmatore per il tour
+
+**L'Amore E' (Festivalbar 2003 Milano)**  
+{{< youtube _OKki7L3jAo >}}
+<https://youtu.be/_OKki7L3jAo>
 
 {{< sc_gallery album="gallery" >}}
+
+
