@@ -25,3 +25,20 @@ blockquote.boxStefano {
 .home-section {
 	padding-bottom: 50px !important;
 }
+
+h1 {
+	// background-color: #ffe1c4; /* Gold background color */
+    // color: #4A4A4A; /* Dark font color */
+    // padding: 2px 5px; /* Adjust padding */
+    // border-radius: 5px; /* Rounded corners */
+	text-decoration-line: underline;
+	text-decoration-thickness: 7px; 
+	text-decoration-color: #FFD700;
+}
+
+h2 {
+	background-color: #FFD700; /* Gold background color */
+    color: #4A4A4A; /* Dark font color */
+    padding: 2px 10px; /* Adjust padding */
+    border-radius: 3px; /* Rounded corners */
+}
