@@ -100,7 +100,7 @@ sections:
     content:
       title: 
       subtitle: 
-      text: PUOI VOTARMI! ![](../assets/img/stefano/cecere-banner-europee-2024.jpg)
+      text: <a href="/play">![](../assets/img/stefano/cecere-banner-europee-2024.jpg)</a>
   - block: collection
     id: posts
     content:
