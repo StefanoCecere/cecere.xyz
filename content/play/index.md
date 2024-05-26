@@ -1,7 +1,6 @@
 ---
 title: Stefano Cecere - PLAY in EU
 share: true
-type: book
 ---
 
 ![](./cecere-play.jpg)  
@@ -10,16 +9,14 @@ Questa è la pagina per la mia candidatura al Parlamento Europeo.
 **Sono il tuo candidato ideale?** Mi vorresti vedere alle prese con altri 700 europarlamentari a organizzare mille attività e incontri e portare avanti le nostre idee con energia e creatività?  
 **Mettimi alla prova nel portare il gioco ad un altro livello.**
 
-## Gioco
-> Il gioco sarà disponibile a breve. Seguimi per avere l'anteprima
-
 ## Articoli
 
 - [Perché mi sono candidato](../post/m5s/candidatura-m5s-2024/index.md)
 - [Videogiochi per educare al futuro - su beppegrillo.it](https://beppegrillo.it/videogiochi-per-educare-al-futuro/)
+- [Mio profilo su portale M5S](https://portale.movimento5stelle.eu/partners/stefano-cecere-185163)
 - [Il programma Europeo del M5S](../post/m5s/2024-programma-europee/index.md)
 
-## Sostienimi
+## Sostienimi!
 👉🏼 Iscriviti a questi canali pubblici:  
 
 - [Facebook](https://www.facebook.com/cecere2042) 
