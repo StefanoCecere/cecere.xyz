@@ -163,6 +163,8 @@ Sviluppo videogiochi educativi e per l’impatto sociale con [Videogames Without
 {{< rawhtml >}}
 <div class="row">
 <div class="col-md">
+    <h3><a href="/play/">Candidatura Europa</a></h3>
+    tutti i video e quello che devi sapere
     <h3><a href="/about/">Mi presento</a></h3>
     chi sono? dove vado? perché?
     <h3><a href="/now">Ora</a></h3>

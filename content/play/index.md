@@ -6,33 +6,37 @@ type: book
 
 ![](./cecere-play.jpg)  
 
-Questa è la pagina per la mia candidatura al Parlamento Europeo.
-Sono il tuo candidato ideale? Mi vorresti vedere alle prese con altri 700 euro-parlamentari a organizzare mille attività e incontri e portare avanti le nostre idee con energia e creatività? Mettimi alla prova.
+Questa è la pagina per la mia candidatura al Parlamento Europeo.  
+**Sono il tuo candidato ideale?** Mi vorresti vedere alle prese con altri 700 europarlamentari a organizzare mille attività e incontri e portare avanti le nostre idee con energia e creatività? Mettimi alla prova.
 
 ## Gioco
-> Il gioco sarà disponibile a breve.
+> Il gioco sarà disponibile a breve. Seguimi per avere l'anteprima
 
 ## Articoli
+
 - [Perché mi sono candidato](../post/m5s/candidatura-m5s-2024/index.md)
+- [Videogiochi per educare al futuro - su beppegrillo.it](https://beppegrillo.it/videogiochi-per-educare-al-futuro/)
 - [Il programma Europeo del M5S](../post/m5s/2024-programma-europee/index.md)
 
 ## Sostienimi
+👉🏼 Iscriviti a questi canali pubblici:  
 
-- Iscriviti alla mia pagina  
-  - [Facebook](https://www.facebook.com/cecere2042) 
-  - [Instagram](https://www.instagram.com/cecere2042)  
-  - [Youtube](https://www.youtube.com/channel/UCIJRyBArdrCb1m52coyhUZA)
-  - [Canale WhatsApp](https://chat.whatsapp.com/CjWcksEAFHZKG9Edahs2yO) 
-  - [Canale Telegram](https://t.me/cecere2042)  
-  - [Newsletter](https://2042.substack.com/subscribe)  
-- 👉🏼 [Firma l'appello per sostenermi](https://forms.gle/GiCzLHAVgCFstkkW8)
+- [Facebook](https://www.facebook.com/cecere2042) 
+- [Instagram](https://www.instagram.com/cecere2042)  
+- [Youtube](https://www.youtube.com/channel/UCIJRyBArdrCb1m52coyhUZA)
+- [Canale WhatsApp](https://chat.whatsapp.com/CjWcksEAFHZKG9Edahs2yO) 
+- [Canale Telegram](https://t.me/cecere2042)  
+- [Newsletter 2042](https://2042.substack.com/subscribe)  
+
+👉🏼 METTI UN LIKE o ancora meglio CONDIVIDI i miei post
+
+👉🏼 [Firma l'appello per sostenermi](https://forms.gle/GiCzLHAVgCFstkkW8)
 
 ## Volantino digitale
-Scarica e condidividi questo volantino su WhatsApp o Facebook o ovunque:
-![](./stefanocecere_eu_digital.jpg)  
+Scarica e condidividi questo volantino su WhatsApp o Facebook o ovunque:  
+![volantino](./stefanocecere_eu_digital.jpg)  
 
 ## Video
-
 
 ### Accademia Apuana per la Pace - 24 maggio
 
@@ -66,17 +70,17 @@ Il mio primo intervento pubblico con altri candidati su temi pace e guerra
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fempoliperlapace%2Fvideos%2F2264532990568453%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-### Costruire la Pace in EUropa
-
+### Costruire la Pace in Europa
+Con Gabriele Germani parliamo di vari temi:  
 {{< youtube bejtp-WG_pY >}}
 <https://youtu.be/bejtp-WG_pY>
 
 ### Psicopatici o Speculatori al potere?
-
+Bella domanda vero? parliamone... 
 {{< youtube Y0rFY0BofUg >}}
 <https://youtu.be/Y0rFY0BofUg>
 
-### L'INTELLIGENZA ARTIFICIALE realizzerà i TUOI INCUBI PEGGIORI
+### L'Intelligenza Artificiale realizzerà i tuoi INCUBI PEGGIORI?
 
 {{< youtube aQ73tgLdeKI >}}
 <https://youtu.be/aQ73tgLdeKI>
