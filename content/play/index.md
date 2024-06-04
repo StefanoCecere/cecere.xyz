@@ -48,11 +48,13 @@ Mio intervendo conclusivo:
 
 ### Incontro televisivo in diretta (30 maggio)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fideaplus112%2Fvideos%2F1879514559143258%2F&show_text=false&width=560&t=15" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+{{< youtube 00fPbdDsLkI >}}
+<https://youtu.be/00fPbdDsLkI>
 
 ### Mi candido nella band europea del M5S (39 maggio)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5eJLoUYcTIU?si=D2ib1xyYDjbw5T72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< youtube 5eJLoUYcTIU >}}
+<https://youtu.be/5eJLoUYcTIU>
 
 ### Accademia Apuana per la Pace - 24 maggio
 
