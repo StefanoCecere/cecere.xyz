@@ -12,6 +12,7 @@ Questa è la pagina per la mia candidatura al Parlamento Europeo.
 ## Articoli
 
 - [Perché mi sono candidato](../post/m5s/candidatura-m5s-2024/index.md)
+- [20 domande](../post/m5s/2024-06-04-20-domande-candidato/index.md)
 - [Videogiochi per educare al futuro - su beppegrillo.it](https://beppegrillo.it/videogiochi-per-educare-al-futuro/)
 - [Mio profilo su portale M5S](https://portale.movimento5stelle.eu/partners/stefano-cecere-185163)
 - [Il programma Europeo del M5S](../post/m5s/2024-programma-europee/index.md)
