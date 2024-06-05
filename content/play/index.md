@@ -17,25 +17,28 @@ Questa è la pagina per la mia candidatura al Parlamento Europeo.
 - [Mio profilo su portale M5S](https://portale.movimento5stelle.eu/partners/stefano-cecere-185163)
 - [Il programma Europeo del M5S](../post/m5s/2024-programma-europee/index.md)
 
-## Sostienimi!
-👉🏼 Iscriviti a questi canali pubblici:  
+## Come sostenermi
+👉🏼 Iscrivendosi a questi miei canali pubblici:  
 
-- [Facebook](https://www.facebook.com/cecere2042) 
+- [Pagina Facebook](https://www.facebook.com/cecere2042) 
 - [Instagram](https://www.instagram.com/cecere2042)  
-- [Youtube](https://www.youtube.com/channel/UCIJRyBArdrCb1m52coyhUZA)
 - [Canale WhatsApp](https://chat.whatsapp.com/CjWcksEAFHZKG9Edahs2yO) 
 - [Canale Telegram](https://t.me/cecere2042)  
 - [Newsletter 2042](https://2042.substack.com/subscribe)  
+- [Youtube](https://www.youtube.com/channel/UCIJRyBArdrCb1m52coyhUZA)
 
-👉🏼 METTI UN LIKE o ancora meglio CONDIVIDI i miei post
+👉🏼 METTENDO UN LIKE o ancora meglio CONDIVIDENDO i miei post
 
-👉🏼 [Firma l'appello per sostenermi](https://forms.gle/GiCzLHAVgCFstkkW8)
+👉🏼 [Firmando questo appello](https://forms.gle/GiCzLHAVgCFstkkW8)
+
+👉🏼 Condividendo questo volantino digitale agli amici
 
 ## Volantino digitale
-Scarica e condidividi questo volantino su WhatsApp o Facebook o ovunque:  
+Scarica e condidividi questo volantino su WhatsApp o Facebook, invitando a fare lo stesso:
+
 ![volantino](./stefanocecere_eu_digital.jpg)  
 
-Link diretto: [Volantino Europa](./stefanocecere_eu_digital.jpg)  
+Link per scaricarlo: [Volantino Europa](./stefanocecere_eu_digital.jpg)  
 
 ## Video
 
@@ -45,6 +48,8 @@ Mio intervendo conclusivo:
 
 {{< youtube U9LZn3ithPg >}}
 <https://youtu.be/U9LZn3ithPg>
+
+👉🏼 [Qui il video di tutta l'iniziativa](https://www.youtube.com/watch?v=u5XECcvrXes)
 
 ### Incontro televisivo in diretta (30 maggio)
 
