@@ -42,6 +42,12 @@ Link per scaricarlo: [Volantino Europa](./stefanocecere_eu_digital.jpg)
 
 ## Video
 
+### Crisi climatica, ambiente, guerre, case
+le nostre priorità in Europa. Un video per parlare di altri temi non ancora affrontati. Se interessasse, [qui](https://www.legambiente.it/wp-content/uploads/2024/05/Un-nuovo-green-deal.pdf) il documento di Legambiente.
+
+{{< youtube ktjukSsMNqA >}}
+<https://youtu.be/ktjukSsMNqA>
+
 ### Marcia per la Pace Castelfiorentino - 31 maggio
 
 Mio intervendo conclusivo:
@@ -112,7 +118,6 @@ Bella domanda vero? parliamone...
 
 {{< youtube zHuGBWl4O8U >}}
 <https://youtu.be/zHuGBWl4O8U>
-
 
 ### Frammenti: La Regola Aurea
 
