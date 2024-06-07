@@ -42,8 +42,14 @@ Link per scaricarlo: [Volantino Europa](./stefanocecere_eu_digital.jpg)
 
 ## Video
 
+### Appello finale
+
+{{< youtube 7B-WIZZ-HsE >}}
+<https://youtu.be/7B-WIZZ-HsE>
+
 ### Crisi climatica, ambiente, guerre, case
-le nostre priorità in Europa. Un video per parlare di altri temi non ancora affrontati. Se interessasse, [qui](https://www.legambiente.it/wp-content/uploads/2024/05/Un-nuovo-green-deal.pdf) il documento di Legambiente.
+
+le nostre priorità in Europa. Un video per parlare di altri temi non ancora affrontati. Se interessasse, [qui la petizione di Legambiente](https://attivati.legambiente.it/page/149235/petition/1) e [qui il documento completo](https://www.legambiente.it/wp-content/uploads/2024/05/Un-nuovo-green-deal.pdf).
 
 {{< youtube ktjukSsMNqA >}}
 <https://youtu.be/ktjukSsMNqA>
