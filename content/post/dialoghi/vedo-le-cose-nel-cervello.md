@@ -13,7 +13,7 @@ permalink:
 slug: /2015/02/vedo-le-cose-nel-cervello/
 draft: false
 id: 5674
-authors:
+author:
   - stefano
 ---
 

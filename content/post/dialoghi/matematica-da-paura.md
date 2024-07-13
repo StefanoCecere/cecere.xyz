@@ -14,7 +14,7 @@ categories:
   - dialoghi
 featured: false
 draft: false
-authors:
+author:
   - stefano
 ---
 ![](../../../assets/img/post/2020/matematica_da_paura_featured.jpg)

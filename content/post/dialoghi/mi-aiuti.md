@@ -11,7 +11,7 @@ description: ""
 permalink: 
 rating: 10
 status: 2review
-authors:
+author:
   - stefano
 ---
 

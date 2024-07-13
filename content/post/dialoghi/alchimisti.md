@@ -17,7 +17,7 @@ rating:
 publish: 
 slug: alchimisti-con-regalo-ragazzi
 draft: false
-authors:
+author:
   - stefano
 ---
 

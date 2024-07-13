@@ -12,7 +12,7 @@ permalink:
 slug: /2015/02/vorrei-avere-22-anni/
 id: 5669
 draft: false
-authors:
+author:
   - stefano
 ---
 

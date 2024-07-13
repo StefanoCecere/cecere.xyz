@@ -2,7 +2,7 @@
 title: Pandemic
 subtitle: ''
 summary: ''
-authors: []
+author: []
 tags:
   - GdT
 categories:

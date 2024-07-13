@@ -15,7 +15,7 @@ subtitle: ""
 featured: false
 draft: false
 status: 2review
-authors:
+author:
   - stefano
 ---
 

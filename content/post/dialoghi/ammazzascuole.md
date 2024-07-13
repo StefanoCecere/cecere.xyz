@@ -10,7 +10,7 @@ tags:
 description: ""
 permalink: 
 slug: ammazza-che-scuola
-authors:
+author:
   - stefano
 ---
 

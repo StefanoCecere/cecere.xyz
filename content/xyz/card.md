@@ -5,7 +5,7 @@ url: /card
 type: simple
 subtitle: ""
 summary: ""
-authors: []
+author: []
 tags: []
 categories: []
 featured: false

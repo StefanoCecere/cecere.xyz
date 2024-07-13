@@ -13,7 +13,7 @@ permalink:
 rating: 
 publish: false
 status: 2review
-authors:
+author:
   - stefano
 ---
 

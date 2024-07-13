@@ -9,7 +9,7 @@ date: 2019-09-11
 date_end: 2019-09-11T12:30:00+02:00
 all_day: false
 publishDate: 2019-08-25T14:15:26+02:00
-authors: []
+author: []
 categories: [workshop]
 tags: [workshop]
 featured: false

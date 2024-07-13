@@ -1,7 +1,7 @@
 ---
 title: "Augmented Reality apps"
 summary: "Ho sviluppato dozzine di applicazioni industriali in Realtà Aumentata per la simulazione e il training"
-authors: []
+author: []
 tags: [dev, unity, work]
 categories: ["work"]
 date: 2013-09-02

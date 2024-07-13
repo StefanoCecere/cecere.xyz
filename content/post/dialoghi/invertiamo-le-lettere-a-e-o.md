@@ -13,7 +13,7 @@ tags:
   - dialoghi
 featured: false
 draft: false
-authors:
+author:
   - stefano
 ---
 

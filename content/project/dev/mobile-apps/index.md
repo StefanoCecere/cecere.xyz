@@ -2,7 +2,7 @@
 title: Mobile Apps with Appcelerator
 summary: quasi native apps
 slug: mobile-appcelerator
-authors: []
+author: []
 tags: [dev, work, mobile]
 categories: ["work"]
 date: 2011-02-01

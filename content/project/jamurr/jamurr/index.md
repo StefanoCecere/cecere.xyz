@@ -2,7 +2,7 @@
 title: "JAMURR"
 summary: "kids make games - laboratori creazione di giochi e videogiochi, digital e media education per ragazzi e genitori in Jam"
 slug: jamurr
-authors: []
+author: []
 tags: [edu, social, kids]
 categories: [jamurr]
 date: 2018-10-21

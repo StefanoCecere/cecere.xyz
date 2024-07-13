@@ -7,7 +7,7 @@ categories:
 tags:
   - vegetariano
   - dialoghi
-authors:
+author:
   - stefano
 ---
 ![](../../../assets/img/post/2021/domande_vegetariane.jpg)

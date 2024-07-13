@@ -2,7 +2,7 @@
 title: Music for TV production
 summary: pioneering sound design
 # slug: 
-authors: []
+author: []
 tags: [music, composition, production, music-tool]
 categories: ["work"]
 date: 2003-04-02

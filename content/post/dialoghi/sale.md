@@ -7,7 +7,7 @@ categories:
 tags:
   - dialoghi
   - timidezza
-authors:
+author:
   - stefano
 ---
 

@@ -4,7 +4,7 @@ date: 2023-10-20
 updated: 2024-03-19
 tags: []
 categories: []
-authors:
+author:
   - stefano
 ---
 # Dialoghi con Papà

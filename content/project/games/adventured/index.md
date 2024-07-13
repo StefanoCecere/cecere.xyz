@@ -1,7 +1,7 @@
 ---
 title: AdventurED
 summary: AR multiplayer adventures in education
-authors: []
+author: []
 tags: [game, education, AR]
 categories: [game]
 date: 2020-02-02

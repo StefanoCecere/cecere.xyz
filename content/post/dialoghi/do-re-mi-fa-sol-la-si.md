@@ -13,7 +13,7 @@ permalink:
 slug: do-re-mi-fa-sol-la-si
 subtitle: ""
 status: 2review
-authors:
+author:
   - stefano
 ---
 

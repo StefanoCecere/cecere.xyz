@@ -9,7 +9,7 @@ date: 2016-10-07
 date_end: 2016-10-07T18:45:00+02:00
 all_day: false
 publishDate: 2019-08-28T23:00:11+02:00
-authors: []
+author: []
 categories: [talk]
 tags: [talk, "videogames","AppliedGames","G4C"]
 featured: false

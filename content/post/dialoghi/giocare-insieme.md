@@ -12,7 +12,7 @@ categories:
   - dialoghi
 featured: false
 draft: false
-authors:
+author:
   - stefano
 ---
 ![](../../../assets/img/post/2020/deserto-proibilit-giocare.jpg)

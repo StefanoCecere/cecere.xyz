@@ -13,7 +13,7 @@ permalink:
 rating: 
 publish: 
 subtitle: ""
-authors: []
+author: []
 featured: false
 draft: false
 ---

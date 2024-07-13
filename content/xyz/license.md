@@ -4,7 +4,7 @@ url: /license
 type: page
 subtitle: ""
 summary: ""
-authors: []
+author: []
 tags: []
 categories: []
 date: 2018-06-28

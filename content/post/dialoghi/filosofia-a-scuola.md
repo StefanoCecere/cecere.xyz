@@ -4,7 +4,7 @@ date: 2020-01-15
 updated: 2024-03-19
 subtitle: ""
 description: ""
-authors:
+author:
   - stefano
 tags:
   - fiosofia

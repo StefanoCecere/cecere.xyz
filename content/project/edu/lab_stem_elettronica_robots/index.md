@@ -1,7 +1,7 @@
 ---
 title: Kids - Laboratorio Elettronica e Robots
 summary: i ragazzi imparano i circuiti elettrici e costruiscono un piccolo automa
-authors: []
+author: []
 tags: [edu-kids, edu, course, workshop, "KidsMakeGames", STEAM, "kids", "robots"]
 categories: [course]
 date: 2019-09-15

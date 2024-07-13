@@ -12,7 +12,7 @@ description: ""
 permalink: 
 rating: 
 status: 2review
-authors:
+author:
   - stefano
 ---
 

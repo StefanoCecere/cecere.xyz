@@ -2,7 +2,7 @@
 title: "Il Diagramma della Stupidità e dell'Intelligenza"
 subtitle: ""
 summary: ""
-authors: []
+author: []
 categories: [libreria]
 tags: [psicologia, stupidita]
 date: 2019-08-29

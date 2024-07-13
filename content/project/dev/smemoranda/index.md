@@ -2,7 +2,7 @@
 title: Crea Smemoranda
 summary: una web app per progettare la tua copertina
 # slug: 
-authors: []
+author: []
 tags: [dev, webdev, work]
 categories: ["work"]
 date: 2005-06-02

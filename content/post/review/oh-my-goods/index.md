@@ -2,7 +2,7 @@
 title: Oh My Goods
 subtitle: ''
 summary: ''
-authors: []
+author: []
 tags:
   - GdT
 categories:

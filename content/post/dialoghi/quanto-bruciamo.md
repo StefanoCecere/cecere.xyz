@@ -5,7 +5,7 @@ updated: 2024-03-19
 slug: quanto-bruciamo
 subtitle: ""
 description: ""
-authors:
+author:
   - stefano
 tags:
   - ambiente

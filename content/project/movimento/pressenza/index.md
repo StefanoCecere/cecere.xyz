@@ -1,7 +1,7 @@
 ---
 title: Pressenza
 summary: the human rights press agency
-authors: []
+author: []
 tags: [social, web, webdev, NuovoUmanesimo]
 categories: ["Media"]
 date: 2010-01-27

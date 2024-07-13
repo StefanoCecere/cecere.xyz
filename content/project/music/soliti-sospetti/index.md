@@ -2,7 +2,7 @@
 title: Soliti sospetti
 summary: monza rock
 # slug: 
-authors: []
+author: []
 tags: [music, tour]
 categories: [music]
 date: 1995-12-01

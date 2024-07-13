@@ -4,7 +4,7 @@ date: 2019-12-03
 updated: 2024-03-19
 subtitle: ""
 description: ""
-authors:
+author:
   - stefano
 tags:
   - dialoghi

@@ -14,7 +14,7 @@ slug: cattivi-e-buoni
 draft: false
 id: 5663
 status: 2review
-authors:
+author:
   - stefano
 ---
 

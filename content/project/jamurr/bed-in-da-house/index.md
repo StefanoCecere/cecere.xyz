@@ -2,7 +2,7 @@
 title: Bed in da House
 summary: gioco creato dai ragazzi alla GGJ 2019
 # slug: 
-authors: []
+author: []
 tags: ["jamurr", "GlobalGameJam", "game", "kids"]
 categories: ["jamurr"]
 date: 2019-01-31

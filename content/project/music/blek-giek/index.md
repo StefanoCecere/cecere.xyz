@@ -2,7 +2,7 @@
 title: Blek Giek
 summary: "sound design and production"
 # slug: 
-authors: []
+author: []
 tags: [music, production]
 categories: ["work"]
 date: 1999-04-02

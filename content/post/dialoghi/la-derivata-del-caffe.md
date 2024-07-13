@@ -6,7 +6,7 @@ categories:
   - dialoghi
 tags:
   - dialoghi
-authors:
+author:
   - stefano
 ---
 

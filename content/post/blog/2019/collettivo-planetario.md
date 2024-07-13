@@ -4,7 +4,7 @@ date: 2019-12-05
 updated: 2023-08-01
 subtitle: ""
 description: ""
-authors: []
+author: []
 tags: []
 categories:
 featured: false

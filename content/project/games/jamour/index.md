@@ -4,7 +4,7 @@ summary: cosa farai oggi? un'app che ti aiuta a capire cosa vuoi davvero
 categories: 
 tags: [game, globalgamejam]
 date: 2015-01-30
-authors: []
+author: []
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 links:

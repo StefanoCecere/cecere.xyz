@@ -14,7 +14,7 @@ categories:
 featured: false
 draft: false
 projects: []
-authors:
+author:
   - stefano
 ---
 

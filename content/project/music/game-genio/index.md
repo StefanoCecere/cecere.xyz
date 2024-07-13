@@ -2,7 +2,7 @@
 title: Genio - game soundtrack
 summary: music production
 # slug: 
-authors: []
+author: []
 tags: [music, composition]
 categories: ["work"]
 date: 2015-05-15

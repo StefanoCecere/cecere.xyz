@@ -7,7 +7,7 @@ categories:
 tags:
   - dialoghi
   - sufi
-authors:
+author:
   - stefano
 ---
 

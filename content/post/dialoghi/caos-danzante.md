@@ -15,7 +15,7 @@ slug: caos-danzante
 subtitle: ""
 featured: false
 draft: false
-authors:
+author:
   - stefano
 ---
 

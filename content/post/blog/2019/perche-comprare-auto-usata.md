@@ -4,7 +4,7 @@ date: 2019-11-22
 updated: 2023-08-01
 subtitle: ""
 description: ""
-authors: []
+author: []
 tags: [economia, "2042"]
 categories: [blog]
 featured: false

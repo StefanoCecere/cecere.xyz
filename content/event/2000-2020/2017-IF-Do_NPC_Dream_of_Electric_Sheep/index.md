@@ -12,7 +12,7 @@ date_end: 2017-10-06T17:00:00+02:00
 all_day: false
 publishDate: 2018-03-31T11:45:20+02:00
 
-authors: []
+author: []
 categories: [talk]
 tags: [talk, AI, GameDesign, VideoGames]
 featured: false

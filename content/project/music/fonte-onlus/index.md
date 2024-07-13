@@ -2,7 +2,7 @@
 title: Fonte Onlus
 summary: music production
 # slug: 
-authors: []
+author: []
 tags: [composition, music, production]
 categories: ["work"]
 date: 2008-11-14

@@ -2,7 +2,7 @@
 title: Virtual Reality
 summary: VR game prototypes
 # slug: 
-authors: []
+author: []
 tags: [dev, work, unity]
 categories: ["work"]
 date: 2013-05-01

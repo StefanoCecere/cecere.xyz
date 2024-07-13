@@ -10,7 +10,7 @@ tags:
   - filosofia
 description: ""
 permalink: 
-authors:
+author:
   - stefano
 ---
 

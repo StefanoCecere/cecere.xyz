@@ -6,7 +6,7 @@ projects: []
 date: 2017-05-22
 draft: false
 featured: false
-authors:
+author:
 categories: [jamurr]
 tags: [Svilupparty, 7Frames]
 ---

@@ -9,7 +9,7 @@ date: 2015-09-19
 date_end: 2015-09-19T17:00:00+02:00
 all_day: false
 publishDate: 2019-08-28T23:00:11+02:00
-authors: []
+author: []
 categories: [talk]
 tags: [talk, videogames, G4C]
 featured: false

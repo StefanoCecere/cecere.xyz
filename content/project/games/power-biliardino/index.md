@@ -1,7 +1,7 @@
 ---
 title: PowerParty Biliardino
 summary: potenzia il calcio balilla con le super cards!
-authors: []
+author: []
 tags: ["game", GlobalGameJam]
 categories: ["game"]
 date: 2020-01-30

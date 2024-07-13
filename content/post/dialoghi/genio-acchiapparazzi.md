@@ -8,7 +8,7 @@ categories:
 tags:
   - genio
   - dialoghi
-authors:
+author:
   - stefano
 ---
 

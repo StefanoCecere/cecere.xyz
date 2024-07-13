@@ -2,7 +2,7 @@
 title: Incidente e Destino
 summary: concept and writing of a multimedia musical
 # slug: 
-authors: []
+author: []
 tags: [dev, multimedia]
 categories: ["work"]
 date: 2001-07-02

@@ -4,7 +4,7 @@ date: 2019-08-24
 updated: 2023-08-01
 subtitle: ""
 description: ""
-authors: []
+author: []
 tags: ["cecio"]
 categories:
 featured: false

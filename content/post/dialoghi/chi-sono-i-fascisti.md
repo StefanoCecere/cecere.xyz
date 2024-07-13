@@ -12,7 +12,7 @@ categories:
   - dialoghi
 featured: false
 draft: false
-authors:
+author:
   - stefano
 ---
 ![](../../../assets/img/post/2019/cartello_pena_morte_1944.jpg)

@@ -10,7 +10,7 @@ date_end: 2021-04-03T18:30:00Z
 all_day: false
 publishDate: 2021-02-01T11:00:00Z
 
-authors: []
+author: []
 categories: [talk]
 tags: [talk, videogames, parenting]
 featured: false

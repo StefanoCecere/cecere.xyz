@@ -10,7 +10,7 @@ tags:
   - soddisfazioni
 description: ""
 permalink: 
-authors:
+author:
   - stefano
 ---
 

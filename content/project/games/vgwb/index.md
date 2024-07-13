@@ -2,7 +2,7 @@
 title: Video Games Without Borders
 summary: great games for a great cause
 slug: vgwb
-authors: []
+author: []
 tags: ["gamedev", game, "social", "EdTech", "OpenSource"]
 categories: ["work"]
 date: 2017-06-10

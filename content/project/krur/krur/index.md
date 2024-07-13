@@ -1,7 +1,7 @@
 ---
 title: KRUR
 summary: anagogical r.ecreation
-authors: []
+author: []
 tags: [dev, multimedia]
 categories: []
 date: 1989-06-21

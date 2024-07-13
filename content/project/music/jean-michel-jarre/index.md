@@ -2,7 +2,7 @@
 title: Jean Michele Jarre
 summary: "keyboard player"
 # slug: 
-authors: []
+author: []
 tags: [music, performance, tv]
 categories: ["work"]
 date: 1999-05-30

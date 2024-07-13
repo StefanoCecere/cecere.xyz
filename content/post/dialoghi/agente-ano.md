@@ -11,7 +11,7 @@ description: ""
 permalink: 
 subtitle: ""
 featured: false
-authors:
+author:
   - stefano
 ---
 

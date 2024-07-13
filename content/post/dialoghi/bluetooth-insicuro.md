@@ -13,7 +13,7 @@ slug:
 subtitle: ""
 featured: false
 draft: false
-authors:
+author:
   - stefano
 ---
 

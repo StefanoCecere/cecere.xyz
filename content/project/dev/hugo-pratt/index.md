@@ -2,7 +2,7 @@
 title: "Hugo Pratt: il disegno dell’avventura"
 summary: "un cd-rom sulla vita e le opere del grande artista"
 slug: hugo-pratt
-authors: []
+author: []
 tags: [dev, multimedia,work]
 categories: ["work"]
 date: 1995-10-02

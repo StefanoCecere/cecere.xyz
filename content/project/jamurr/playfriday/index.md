@@ -1,7 +1,7 @@
 ---
 title: "PlayFriday"
 summary: "le nuove generazioni in gioco il venerdì sera"
-authors: []
+author: []
 tags: [game, social, "games", "kids"]
 categories: []
 date: 2019-10-21

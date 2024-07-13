@@ -7,7 +7,7 @@ categories:
 tags:
   - dialoghi
   - tecnologia
-authors:
+author:
   - stefano
 ---
 

@@ -8,7 +8,7 @@ tags:
 status: 2review
 categories:
   - dialoghi
-authors:
+author:
   - stefano
 ---
 

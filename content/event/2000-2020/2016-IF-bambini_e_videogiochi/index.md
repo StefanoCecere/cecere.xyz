@@ -15,7 +15,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2019-08-28T23:00:11+02:00
 
-authors: []
+author: []
 categories: [talk]
 tags: [talk, "kids","KidsGameJam"]
 

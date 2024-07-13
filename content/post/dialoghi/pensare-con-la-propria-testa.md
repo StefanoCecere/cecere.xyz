@@ -13,7 +13,7 @@ tags:
 guid: http://stefanocecere.com/?p=5661
 id: 5661
 slug: pensare-con-la-propria-testa
-authors:
+author:
   - stefano
 ---
 

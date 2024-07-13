@@ -2,7 +2,7 @@
 title: "Esistenzialismo_XXI"
 subtitle: ""
 description: ""
-authors: []
+author: []
 tags: []
 categories:
 date: 2019-12-01

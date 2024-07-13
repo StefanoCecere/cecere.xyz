@@ -4,7 +4,7 @@ date: 2020-02-12
 updated: 2023-08-04
 subtitle: ""
 description: ""
-authors: []
+author: []
 tags: [studiare, meme]
 categories:
 featured: false

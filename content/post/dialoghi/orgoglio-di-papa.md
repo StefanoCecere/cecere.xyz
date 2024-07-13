@@ -7,7 +7,7 @@ categories:
 tags:
   - HackerKid
   - dialoghi
-authors:
+author:
   - stefano
 ---
 

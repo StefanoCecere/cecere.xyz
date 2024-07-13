@@ -14,7 +14,7 @@ featured: false
 draft: false
 projects:
   - lifemap
-authors:
+author:
   - stefano
 ---
 ![](../../../assets/img/project/calendario-della-vita-featured.jpg)

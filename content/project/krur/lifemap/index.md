@@ -3,7 +3,7 @@
 
 title: "Calendario della Vita"
 summary: "stampa il tuo calendario"
-authors: []
+author: []
 tags: []
 categories: []
 date: 2019-07-07

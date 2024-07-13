@@ -2,7 +2,7 @@
 title: Ringtones
 summary: the art of low poly music
 # slug: 
-authors: []
+author: []
 tags: [music, production]
 categories: ["work"]
 date: 2003-11-11

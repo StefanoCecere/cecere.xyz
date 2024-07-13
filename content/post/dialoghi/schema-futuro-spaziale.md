@@ -8,7 +8,7 @@ categories:
 tags:
   - dialoghi
   - spazio
-authors:
+author:
   - stefano
 ---
 ![](../../../assets/img/post/2018/schema-futuro-spaziale.png)

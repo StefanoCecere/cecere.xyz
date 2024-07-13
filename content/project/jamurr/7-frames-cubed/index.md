@@ -2,7 +2,7 @@
 title: 7 Frames - Cubed
 summary: un videogioco creato da bambini
 # slug: 
-authors: []
+author: []
 tags: ["jamurr", "7Frames", "videogame", "kids"]
 categories: ["jamurr"]
 date: 2017-10-10

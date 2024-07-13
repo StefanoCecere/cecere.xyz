@@ -2,7 +2,7 @@
 title: Yond
 summary: "crossmedia developer, ovvero creare progetti che unissero non solo diversi media, ma anche diverse discipline e aree di marketing e produzione"
 # slug: 
-authors: []
+author: []
 tags: [dev, work]
 categories: ["work"]
 date: 2000-01-01

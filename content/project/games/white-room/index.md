@@ -4,7 +4,7 @@ summary: What'll you do to exit the room? - Global Gam Jam 2015
 categories: [game]
 tags: [music, game, globalgamejam]
 date: 2015-01-30
-authors: []
+author: []
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 links:

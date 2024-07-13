@@ -11,7 +11,7 @@ description: ""
 permalink: 
 draft: false
 status: 2review
-authors:
+author:
   - stefano
 ---
 ![](../../../assets/img/post/2019/carta-bianca-featured.jpg)

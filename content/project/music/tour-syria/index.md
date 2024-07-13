@@ -2,7 +2,7 @@
 title: Syria - Come una goccia d'acqua
 summary: "keyboard player, sound design"
 # slug: 
-authors: []
+author: []
 tags: [music, tour]
 categories: ["work"]
 date: 2003-04-02

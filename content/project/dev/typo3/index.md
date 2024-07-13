@@ -2,7 +2,7 @@
 title: TYPO3 CMS
 summary: "web design and development"
 # slug: 
-authors: []
+author: []
 tags: [dev, webdev, opensource, work]
 categories: ["work"]
 date: 2003-06-02

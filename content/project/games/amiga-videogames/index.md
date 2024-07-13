@@ -1,7 +1,7 @@
 ---
 title: "Amiga Videogames"
 summary: "what a computer to start creating games"
-authors: []
+author: []
 tags: ["game"]
 categories: ["work"]
 date: 1990-10-02

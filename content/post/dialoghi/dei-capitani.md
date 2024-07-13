@@ -13,7 +13,7 @@ tags:
 guid: http://stefanocecere.com/?p=5744
 id: 5744
 slug: dei-capitani
-authors:
+author:
   - stefano
 ---
 

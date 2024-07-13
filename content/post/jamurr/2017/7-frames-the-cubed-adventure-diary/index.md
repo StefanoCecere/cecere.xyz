@@ -7,7 +7,7 @@ projects: [jamurr/7-frames-cubed]
 date: 2017-10-13
 draft: false
 featured: false
-authors:
+author:
 categories: jamurr
 tags: [KidsGameJam, jamurr, devlog]
 ---

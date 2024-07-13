@@ -2,7 +2,7 @@
 title: IEEDO
 summary: un progetto e un videogioco per insegnare agli adulti migranti in europa ad imparare ad imparare
 # slug: 
-authors: []
+author: []
 tags: ["game", social, "EdTech", "OpenSource"]
 categories: ["work"]
 date: 2022-10-10

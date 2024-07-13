@@ -4,7 +4,7 @@ date: 2020-01-17
 updated: 2023-08-01
 subtitle: ""
 description: ""
-authors: []
+author: []
 tags: ["didattica", "didattica"]
 categories:
 featured: false

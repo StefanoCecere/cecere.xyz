@@ -17,7 +17,7 @@ publish:
 slug: /2015/01/non-devi-aiutare-chi-ti-aiuta/
 draft: false
 id: 5676
-authors:
+author:
   - stefano
 ---
 

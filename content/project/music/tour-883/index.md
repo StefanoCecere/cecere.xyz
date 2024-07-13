@@ -2,7 +2,7 @@
 title: 883 – “La Regola dell'Amico” tour
 summary: "keyboard player"
 # slug: 
-authors: []
+author: []
 tags: [music, tour]
 categories: ["work"]
 date: 1997-04-02

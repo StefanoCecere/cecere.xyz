@@ -4,13 +4,12 @@ slug: digital-cafe-dad
 draft: false
 event: Digital Café
 event_url: https://www.psicologiaetecnologia.it/approfondimenti-digitali/didattica-distanza-criticita-opportunita
-summary: 'una chiacchierata sulla didattica a distanza, tra criticità e opportunità.'
+summary: 'una chiacchierata sulla didattica a distanza, tra criticità e opportunità'
 abstract: ''
 location: online
-date: '2021-04-07T21:00:00Z'
+date: 2021-04-07
 all_day: false
-publishDate: '2021-02-01T11:00:00.000Z'
-authors: []
+author: []
 categories:
   - talk
 tags:

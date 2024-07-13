@@ -3,7 +3,7 @@ title: PlayED - giocare bene, imparare insieme
 date: 2021-03-21
 updated: 2024-04-19
 summary: Una piccola guida sul giocare bene in famiglia, per imparare, per insegnare. Centinaia di videogiochi, giochi da tavolo, libri recensiti.
-authors: []
+author: []
 tags: [book, edu, parenting, social, games, kids]
 categories: [books]
 featured: true

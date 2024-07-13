@@ -14,7 +14,7 @@ permalink:
 slug: /2015/02/scegli-tutto-quello-che-vuoi/
 draft: false
 id: 5667
-authors:
+author:
   - stefano
 ---
 

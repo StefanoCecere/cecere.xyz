@@ -1,7 +1,7 @@
 ---
 title: "Il Fannullone"
 summary: "espressione umanista tascabile"
-authors: []
+author: []
 tags: [social, media, fannullone, MovimentoUmanista, NuovoUmanesimo]
 categories: ["Media"]
 date: 2007-01-27

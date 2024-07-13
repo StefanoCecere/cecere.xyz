@@ -7,7 +7,7 @@ categories:
 tags:
   - dialoghi
   - complottisti
-authors:
+author:
   - stefano
 ---
 

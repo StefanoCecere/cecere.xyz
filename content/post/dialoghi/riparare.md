@@ -8,7 +8,7 @@ tags:
   - HackerKid
   - HomeSchooling
   - dialoghi
-authors:
+author:
   - stefano
 ---
 

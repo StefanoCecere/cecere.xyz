@@ -11,7 +11,7 @@ date: 2018-11-08
 #date_end: 2021-04-03T18:30:00Z
 all_day: true
 publishDate: 2018-11-30T11:39:14+02:00
-authors: []
+author: []
 categories: [talk]
 tags: [talk, Antura, GBL]
 featured: false

@@ -1,7 +1,7 @@
 ---
 title: "Tonsilla"
 summary: "videogioco in VR dove la tua voce è importante"
-authors: []
+author: []
 tags: ["game", "audio", "vr"]
 categories: ["Videogame"]
 date: 2014-10-10

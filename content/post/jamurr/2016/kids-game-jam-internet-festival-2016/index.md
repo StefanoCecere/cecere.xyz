@@ -6,7 +6,7 @@ projects: []
 date: 2016-11-15
 draft: false
 featured: false
-authors:
+author:
 categories: [jamurr]
 tags: [KidsGameJam, InternetFestival]
 ---

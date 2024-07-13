@@ -13,7 +13,7 @@ permalink:
 subtitle: ""
 featured: false
 draft: false
-authors:
+author:
   - stefano
 ---
 ![](../../../assets/img/post/2020/windows_audio_featured.jpg)

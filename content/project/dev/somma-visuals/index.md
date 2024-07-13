@@ -2,7 +2,7 @@
 title: SOMMA - Sacred Order of Magick, Music and Art
 summary: live visuals this concert for Dalai Lama
 slug: somma-dalai-lama
-authors: []
+author: []
 tags: [music, multimedia, dev]
 categories: ["work"]
 date: 2001-11-01

@@ -9,7 +9,7 @@ tags:
   - dialoghi
 description: ""
 permalink: 
-authors:
+author:
   - stefano
 ---
 

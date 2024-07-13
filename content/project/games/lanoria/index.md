@@ -2,7 +2,7 @@
 title: La Noria Game
 summary: open source puzzle game for social innovation
 # slug: 
-authors: []
+author: []
 tags: ["game", social, "OpenSource"]
 categories: ["work"]
 date: 2023-05-10

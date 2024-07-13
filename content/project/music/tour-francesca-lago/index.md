@@ -2,7 +2,7 @@
 title: Francesca Lago - Mosca Bianca
 summary: tour italiano
 # slug: 
-authors: []
+author: []
 tags: [music, tour]
 categories: [work]
 date: 1996-05-01

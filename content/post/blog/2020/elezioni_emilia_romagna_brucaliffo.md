@@ -4,7 +4,7 @@ date: 2020-01-27
 updated: 2023-08-01
 subtitle: ""
 description: ""
-authors: []
+author: []
 tags: ["politica"]
 categories:
 featured: false

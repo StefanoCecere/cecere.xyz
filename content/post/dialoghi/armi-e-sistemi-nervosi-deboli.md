@@ -12,7 +12,7 @@ permalink:
 slug: 2019/03/armi-e-sistemi-nervosi-deboli
 subtitle: ""
 draft: false
-authors:
+author:
   - stefano
 ---
 ![](../../../assets/img/post/2019/armi.jpg)

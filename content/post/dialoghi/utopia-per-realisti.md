@@ -13,7 +13,7 @@ permalink:
 slug: 
 subtitle: ""
 status: 2review
-authors:
+author:
   - stefano
 ---
 ![](../../../assets/img/post/2019/libro-utopia-per-realisti.jpg)

@@ -9,7 +9,7 @@ date: 2014-02-05
 date_end: 2014-02-05T22:00:00+02:00
 all_day: false
 publishDate: 2019-08-28T23:00:11+02:00
-authors: []
+author: []
 categories: [talk]
 tags: [talk, tecnologia, "2042"]
 featured: false

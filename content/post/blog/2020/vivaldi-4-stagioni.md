@@ -4,7 +4,7 @@ date: 2020-03-31
 updated: 2023-08-01
 subtitle: ""
 description: ""
-authors: []
+author: []
 tags: [risveglioMusicale, musica]
 categories: [blog]
 featured: false

@@ -2,7 +2,7 @@
 title: Battiato - Gommalacca tour
 summary: "keyboard player"
 # slug: 
-authors: []
+author: []
 tags: [music, tour]
 categories: ["work"]
 date: 1999-04-02

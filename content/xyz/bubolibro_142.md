@@ -3,7 +3,7 @@ title: Hai trovato questa pagina speciale.. bravo!
 type: simple
 subtitle: ""
 summary: ""
-authors: []
+author: []
 tags: []
 categories: []
 date: 2020-11-09

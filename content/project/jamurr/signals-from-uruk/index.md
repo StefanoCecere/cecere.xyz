@@ -2,7 +2,7 @@
 title: Signals from URUK
 summary: un videogioco in AR per scoprire la storia
 # slug: 
-authors: []
+author: []
 tags: [jamurr, GlobalGameJam, KidsGameJam, AR, game, kids]
 categories: ["jamurr"]
 date: 2018-01-30

@@ -2,7 +2,7 @@
 title: Unwanted - the womb escape
 summary: game dev e music production
 slug: unwanted
-authors: []
+author: []
 tags: [music, game, globalgamejam, composition]
 categories: ["work"]
 date: 2013-01-31

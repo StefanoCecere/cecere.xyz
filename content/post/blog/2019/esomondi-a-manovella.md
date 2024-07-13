@@ -2,7 +2,7 @@
 title: "ESO-MONDI A MANOVELLA"
 subtitle: ""
 description: ""
-authors: []
+author: []
 tags: []
 categories:
 date: 2019-12-03

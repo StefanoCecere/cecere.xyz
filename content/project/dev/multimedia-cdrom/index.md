@@ -2,7 +2,7 @@
 title: Multimedia CR-ROM
 summary: quasi native apps
 slug: multimedia-cdrom
-authors: []
+author: []
 tags: [dev, work, multimedia]
 categories: ["work"]
 date: 1995-03-01

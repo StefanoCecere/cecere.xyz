@@ -8,7 +8,7 @@ tags:
 status: 
 categories:
   - dialoghi
-authors:
+author:
   - stefano
 ---
 
