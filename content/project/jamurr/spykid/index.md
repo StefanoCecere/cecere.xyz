@@ -4,7 +4,7 @@ summary: per diventare agenti segreti
 categories: [jamurr]
 tags: ["jamurr", game]
 date: 2016-05-01
-authors: []
+author: []
 
 links:
 url_code: "https://github.com/jamurr/JAM.SpyKid"

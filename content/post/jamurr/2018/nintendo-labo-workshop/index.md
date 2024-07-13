@@ -17,7 +17,7 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-authors:
+author:
 categories: jamurr
 tags:
 - Workshop

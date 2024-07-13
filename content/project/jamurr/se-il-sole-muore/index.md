@@ -4,7 +4,7 @@ summary: una storia interattiva fumetto
 categories: [jamurr]
 tags: [jamurr, GlobalGameJam, game]
 date: 2017-01-30
-authors: []
+author: []
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

@@ -4,7 +4,7 @@ summary: il primo gioco sviluppato da Papà e figlio (7anni)
 categories: [jamurr]
 tags: [jamurr, GlobalGameJam, game]
 date: 2016-01-31
-authors: []
+author: []
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

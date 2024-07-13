@@ -17,7 +17,7 @@ publishDate: 2021-10-24
 # Schedule page publish date (NOT talk date).
 #publishDate: "2021-04-06T11:00:00Z"
 
-authors: []
+author: []
 categories: [talk]
 tags: [talk]
 
