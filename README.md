@@ -8,6 +8,15 @@ powered by:
 - [Netlify](https://www.netlify.com) - hosting and CDN
 - [brain+heart](https://stefanocecere.com) - personal work
 
+## Vue
+npm run-script docs:dev
+npm run-script docs:build
+npx vp-update
+
+plugins
+npm i -D vidstack@1
+
+
 ## snippets
 ```
 [A post]({{< ref "/post/my-page-name.md" >}})
