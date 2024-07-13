@@ -3,7 +3,7 @@ title: Scuola di Satira
 date: 2024-01-07
 updated: 2024-01-07
 type: 
-categories: TIL
+categories: [TIL]
 tags: [luttazzi,fq,scuola]
 description: 
 permalink: 

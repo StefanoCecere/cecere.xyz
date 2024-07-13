@@ -12,5 +12,6 @@ tags:
 - natura
 - filosofia
 ---
-{{< youtube WmVLcj-XKnM >}}
-![](http://www.youtube.com/watch?v=WmVLcj-XKnM)
+<YouTube id="WmVLcj-XKnM" />
+![video](https://youtu.be/WmVLcj-XKnM)  
+<https://youtu.be/WmVLcj-XKnM>

@@ -21,5 +21,8 @@ slides: ""
 keyboard player and sound machines for about 50 musical gigs around italy.
 
 Una ripresa di uan data del tour (concerto di Santa Margherita):  
-{{< youtube fw3ox8txz3o >}}
-https://youtu.be/fw3ox8txz3o
+
+<YouTube id="fw3ox8txz3o" />
+![video](https://youtu.be/fw3ox8txz3o)  
+<https://youtu.be/fw3ox8txz3o>
+

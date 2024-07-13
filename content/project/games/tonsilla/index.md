@@ -18,7 +18,9 @@ url_video: "https://youtu.be/EmTNxL-lG9w"
 slides: ""
 ---
 
-{{< youtube EmTNxL-lG9w>}}
+<YouTube id="EmTNxL-lG9w" />
+![video](https://youtu.be/EmTNxL-lG9w)  
+<https://youtu.be/EmTNxL-lG9w>
 
 E se ti risvegliassi gigante nel mondo di un fumetto?  
 Scoprendo che, oltre alla stazza, anche il suono della tua vocina è sentita da tutti? e attento alla potenza!  
@@ -26,4 +28,4 @@ Giocando con “tecniche vocali" (cantare, ritmare, ruttare, armonizzare) convin
 Tonsilla è il gioco dove la tua voce è importante.
 (Otorino non incluso)
 
-{{< sc_gallery album="img">}}
+{< sc_gallery album="img">}

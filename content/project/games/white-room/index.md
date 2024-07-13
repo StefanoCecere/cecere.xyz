@@ -29,4 +29,6 @@ Credits:
 
 Scheda GGJ 2015: <https://globalgamejam.org/2015/games/white-room>
 
-{{< youtube GiB7Xgikkj8 >}}
+<YouTube id="GiB7Xgikkj8" />
+![video](https://youtu.be/GiB7Xgikkj8)  
+<https://youtu.be/GiB7Xgikkj8>

@@ -12,8 +12,9 @@ Per questo grandissimo progetto internazionale, che mi porterà in India, Corea,
 siti: <http://www.theworldmarch.org> e <https://www.marciamondiale.org>
 
 ah: già che c'era ho composto e prodotto alcune musiche tra qui quella dello spot ufficiale
-
-{{< youtube TyzhJUJfNF0>}}
+<YouTube id="TyzhJUJfNF0" />
+![video](https://youtu.be/TyzhJUJfNF0)  
+<https://youtu.be/TyzhJUJfNF0>
 
 ecco alcune immagini dei siti e delle attività:
-{{< sc_gallery album="gallery" >}}
+{< sc_gallery album="gallery" >}

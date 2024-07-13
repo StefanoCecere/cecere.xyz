@@ -4,7 +4,7 @@ summary:
 slug: newletter-ai-ai-ai
 date: 2023-04-02
 type: book
-categories: newsletter
+categories: [newsletter]
 tags: [AI]
 ---
 

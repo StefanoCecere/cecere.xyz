@@ -29,7 +29,9 @@ Uno degli effetti più gravi del Groupthink è l’”Illusione d’invulnerabil
 L’adozione istituzionale dell’”Avvocato del Diavolo” all’intento d’un gruppo diventa pertanto uno strumento pro-attivo a difesa dell’interesse del gruppo stesso e volto a scardinare le dinamiche patologiche e gli effetti esiziali del pensiero unico dominante ed è esattamente quanto è stato fatto dall”Agenzia di Intelligence dello Stato di Israele a partire dal 1973. L”Avvocato del Diavolo” è tutt’ora adottato Mossad.
 Per un approfondimento sul tema si legga la “Teoria dell’Identità Sociale” dello psicologo Irving Janis, un pioniere nello studio del pensiero unico dominante.
 
-{{< youtube DjXjhguYr3s >}}
+<YouTube id="DjXjhguYr3s" />
+![video](https://youtu.be/DjXjhguYr3s)  
+<https://youtu.be/DjXjhguYr3s>
 
 📷 “World War Z” - dialogo tra Gerry Lane e Jurgen Warmbrunn sulla “Teoria del decimo uomo”
 (articolo tratto dal gruppo Cripto)

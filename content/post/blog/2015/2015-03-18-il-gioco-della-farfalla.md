@@ -2,7 +2,7 @@
 title: il gioco della farfalla
 slug: /2015/03/il-gioco-della-farfalla/
 draft: false
-categories: dialoghi
+categories: [dialoghi]
 tags:
 - JJ
 date: 2015-03-18

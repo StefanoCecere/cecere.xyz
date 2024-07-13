@@ -20,4 +20,4 @@ slides: ""
 
 inizio ad usare Unity nel 2009.
 
-{{< sc_gallery album="gallery" >}}
+{< sc_gallery album="gallery" >}

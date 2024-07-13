@@ -29,4 +29,4 @@ Questo principio fa notare che le persone e le cose hanno comportamenti e funzio
 
 Il principio che stiamo commentando può riferirsi a due situazioni diverse. Nella prima, il fine cercato viene raggiunto, ma le conseguenze sono opposte a quelle che si sperava di ottenere. Nell'altra, per aver forzato qualcosa, si ottiene immediatamente una reazione sfavorevole.
 
-(tratto dal Libro della Comunità per lo Sviluppo Umano - vedi [qui tutti i 12 Principi dell'azione valida](../../docs/principi-azione-valida.md)
+(tratto dal Libro della Comunità per lo Sviluppo Umano - vedi [qui tutti i 12 Principi dell'azione valida](./../../docs/principi-azione-valida.md)

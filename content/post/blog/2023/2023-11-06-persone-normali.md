@@ -3,7 +3,7 @@ title: le persone normali
 date: 2023-11-06
 updated: 2023-11-06
 type: 
-categories: blog
+categories: [blog]
 tags: 
 description: 
 permalink: 

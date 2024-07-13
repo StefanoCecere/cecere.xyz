@@ -2,7 +2,7 @@
 title: L'Arte della Distribuzione
 date: 2021-01-18
 updated: 2023-08-01
-categories:
+categories: []
 tags: [economia,politica,futuro]
 ---
 

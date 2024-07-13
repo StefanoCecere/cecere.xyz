@@ -27,9 +27,9 @@ projects: []
 Come si crea e cosa si può fare in un ambiente virtuale? E' davvero alla portata di tutti e come cambierà la nostra vita nei prossimi anni?  
 Introduzione teorica alla Realtà Virtuale e sperimentazione ludico-creativa con il kit VR del Nintendo Labo.
 
-{{< rawhtml >}}
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3XtkzcxKQGILHN" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/StefanoCecere/if-2019-nintendo-labo-vr" title="IF 2019 - Nintendo Labo VR" target="_blank">IF 2019 - Nintendo Labo VR</a> </strong> from <strong><a href="https://www.slideshare.net/StefanoCecere" target="_blank">Stefano Cecere</a></strong> </div>
-{{< /rawhtml >}}
+
 
 ## introduzione alla Realtà (40 min)
 ### perché siamo qui

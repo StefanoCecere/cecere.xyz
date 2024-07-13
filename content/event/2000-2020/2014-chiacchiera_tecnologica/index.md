@@ -26,9 +26,9 @@ projects: []
 ---
 qualche considerazione per una chiacchiera tra amici
 
-{{< rawhtml >}}
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/qWjDC0beKyMBEr" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/StefanoCecere/impatto-della-tecnologia-sullevoluzione-umana" title="Impatto della tecnologia sull&#x27;evoluzione umana" target="_blank">Impatto della tecnologia sull&#x27;evoluzione umana</a> </strong> from <strong><a href="https://www.slideshare.net/StefanoCecere" target="_blank">Stefano Cecere</a></strong> </div>
-{{< /rawhtml >}}
+
 
 ## chi sono
 nato Stefano Cecere 40 anni

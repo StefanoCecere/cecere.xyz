@@ -5,7 +5,9 @@ categories: []
 tags: [music, poesia,Battiato]
 ---
 
-{{< youtube gfHpWwWu-qY >}}
+<YouTube id="gfHpWwWu-qY" />
+![video](https://youtu.be/gfHpWwWu-qY)  
+<https://youtu.be/gfHpWwWu-qY>
 
 Povera Patria
 Schiacciata dagli abusi del potere

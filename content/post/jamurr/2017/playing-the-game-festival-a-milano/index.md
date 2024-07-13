@@ -18,7 +18,7 @@ draft: false
 featured: false
 
 author:
-categories: jamurr
+categories: [jamurr]
 tags:
 - KidsGameJam
 ---

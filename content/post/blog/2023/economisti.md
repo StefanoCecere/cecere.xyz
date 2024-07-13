@@ -3,7 +3,7 @@ title: Economisti
 date: 2023-09-07
 updated: 2023-09-07
 type: 
-categories:
+categories: []
 tags:
   - fun
 description: 

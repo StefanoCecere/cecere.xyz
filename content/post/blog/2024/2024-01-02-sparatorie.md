@@ -3,7 +3,7 @@ title: Sparatorie
 date: 2024-01-02
 updated: 2024-01-02
 type: 
-categories: TIL
+categories: [TIL]
 tags: [politica]
 description: 
 permalink: 

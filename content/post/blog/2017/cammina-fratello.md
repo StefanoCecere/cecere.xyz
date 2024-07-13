@@ -3,7 +3,7 @@ title: diario
 date: 2017-01-02
 updated: 2023-08-29
 type: 
-categories:
+categories: []
 tags:
   - JJ
   - esistenza

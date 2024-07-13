@@ -22,9 +22,9 @@ poi è arrivata l'emergenza dello Scudo Spaziale, gli scioperi della fame, mille
 
 innanzitutto abbiamo realizzato lo spot video ed una lunga intervista.
 
-{{< youtube ENtuLHV2zDU >}}
-![](https://www.youtube.com/watch?v=ENtuLHV2zDU)
-
+<YouTube id="ENtuLHV2zDU" />
+![video](https://youtu.be/ENtuLHV2zDU)  
+<https://youtu.be/ENtuLHV2zDU>
 
 quindi tra discussioni deliranti sul come farlo e chiarimenti sul tema della nonviolenza, tra dati sul riarmo nucleare e spassosissime parodie del "Bingo Bongo" che è in noi, ecco il risultato:
 

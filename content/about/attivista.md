@@ -5,7 +5,7 @@ summary: Cose che uno fa perché sente che deve farle e che devono essere fatte
 slug: attivista
 date: 2018-02-25
 lastmod: 2018-09-09
-weight: 50
+order: 50
 categories: [stefano]
 tags: [umanista,MovimentoUmanista, M5S, politica]
 ---
@@ -44,7 +44,8 @@ Organizzazione di tre Festival del Volontariato coinvolgendo dozzine di associaz
 ## 2005 - EMERGENZA TSUNAMI
 in aiuto a diverse organizzazioni umanitarie, co-organizzo un grande concerto al Rolling Stone di Milano, coinvolgendo dozzine di amici musicisti. L'evento è l'occasione per unire molti artisti e pubblico in un momento di empatia.
 
-{{< youtube o9hSfjbYOCM >}}
+<YouTube id="o9hSfjbYOCM" />
+![](https://youtu.be/o9hSfjbYOCM)
 
 ## 2006 - MEETUP MONZA
 da sempre grande estimatore di Grillo ed anelante ad un suo "attivismo politico", partecipo con interesse alla nascita del MeetUp di Monza.
@@ -62,7 +63,8 @@ Per questo grandissimo progetto internazionale, che mi porterà in India, Corea,
 
 ah: già che c'era ho composto e prodotto alcune musiche tra qui quella dello spot ufficiale
 
-{{< youtube TyzhJUJfNF0>}}
+<YouTube id="TyzhJUJfNF0" />
+![](https://youtu.be/TyzhJUJfNF0)
 
 ## 2011 - PRESSENZA
 Impostazione del sito web dell'Agenzia stampa no profit internazionale sui diritti umani e nonviolenza. Seguo tutt'ora lo sviluppo e la crescita di questo progetto.

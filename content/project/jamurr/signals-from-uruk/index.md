@@ -18,7 +18,7 @@ url_video: ""
 slides: ""
 ---
 
-{{< sc_gallery album="gallery" >}}
+{< sc_gallery album="gallery" >}
 
 questo il gioco che abbiamo ideato e prodotto nel finesettimana durante la Global Game Jam 2018, il cui tema era TRANSMISSION
 

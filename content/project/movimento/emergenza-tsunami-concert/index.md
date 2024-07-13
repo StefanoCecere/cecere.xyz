@@ -9,7 +9,9 @@ external_link: ""
 ---
 Nel 2005 con alcuni amici musicisti abbiamo organizzato questo concerto di solidarietà al Rolling Stone di Milano per le vittime dello Tsunami del 2004.
 
-{{< youtube o9hSfjbYOCM >}}
+<YouTube id="o9hSfjbYOCM" />
+![video](https://youtu.be/o9hSfjbYOCM)  
+<https://youtu.be/o9hSfjbYOCM>
 
 Il Coordinamento Umanista Emergenza India organizza, con la collaborazione della Rock Planet Productions e del Rolling Stone, un concerto/evento a favore delle vittime dello Tsunami, martedì 8 febbraio, dalle 21:00, presso il Rolling Stone di Milano.  
 Emergenza Tsunami è una campagna benefica promossa dal Coordinamento Umanista Emergenza India, composto da associazioni che da diversi anni operano nelle aree colpite dal maremoto del 26 dicembre 2004 nel sud-est asiatico.

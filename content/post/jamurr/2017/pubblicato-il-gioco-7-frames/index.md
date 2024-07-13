@@ -7,7 +7,7 @@ date: 2017-05-30
 draft: false
 featured: false
 author:
-categories: jamurr
+categories: [jamurr]
 tags: ["7Frames", "KidsGameJam"]
 ---
 

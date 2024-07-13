@@ -4,6 +4,7 @@ summary: "cosa sto facendo in questo periodo?"
 date: 2024-05-06
 type: simple
 url: /now
+order: -10
 ---
 cosa sto facendo ora?
 

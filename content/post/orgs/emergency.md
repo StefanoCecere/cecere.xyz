@@ -4,7 +4,7 @@ title: Emergency
 
 <https://www.emergency.it/>
 
-Emergency è un'organizzazione non governativa (ONG) italiana fondata da [Gino Strada](../people/gino-strada.md), un chirurgo italiano, nel 1994. L'associazione è dedicata a fornire assistenza medica gratuita e di alta qualità a vittime di conflitti armati, povertà e disastri in tutto il mondo. Emergency è nota per il suo impegno nell'offrire cure mediche a chiunque ne abbia bisogno, senza discriminazione, e per il suo forte impegno contro le mine terrestri e altre armi inesplose.
+Emergency è un'organizzazione non governativa (ONG) italiana fondata da [Gino Strada](./../people/gino-strada.md), un chirurgo italiano, nel 1994. L'associazione è dedicata a fornire assistenza medica gratuita e di alta qualità a vittime di conflitti armati, povertà e disastri in tutto il mondo. Emergency è nota per il suo impegno nell'offrire cure mediche a chiunque ne abbia bisogno, senza discriminazione, e per il suo forte impegno contro le mine terrestri e altre armi inesplose.
 
 Ecco alcune delle attività e delle iniziative principali di Emergency:
 

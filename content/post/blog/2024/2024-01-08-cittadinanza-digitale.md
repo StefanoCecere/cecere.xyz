@@ -3,7 +3,7 @@ title: Cittadinanza Digitale
 date: 2024-01-08
 updated: 2024-04-19
 type: 
-categories: TIL
+categories: [TIL]
 tags: [cittadinanzadigitale]
 description: 
 permalink: 

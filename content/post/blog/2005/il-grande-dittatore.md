@@ -9,8 +9,9 @@ tags: [video, Chaplin]
 ---
 ![](../../../assets/img/post/2005/grande-dittatore-featured.jpg)
 
-{{< youtube 9U-MWPqoL8A >}}
-![](http://www.youtube.com/watch?v=9U-MWPqoL8A)
+<YouTube id="9U-MWPqoL8A" />
+![video](https://youtu.be/9U-MWPqoL8A)  
+<https://youtu.be/9U-MWPqoL8A>
 
 ho intravisto (davvero per caso) ieri sera su MTV un video clip musicale fantastico.. che mi sono detto: “questo avrei davvero voluto farlo io!!”
   

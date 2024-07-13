@@ -22,4 +22,4 @@ laurea in logica, poi psicologia e poi neuroscienze
 psicologia dello sviluppo e dell'educazione e la psicologia dell'apprendimento e poi meccanismi di sviluppo cognitivo e processi di apprendimento soprattutto nell'area matematica 
 
 conferenze:
-[emozione-dell-errore](../articles/emozione-dell-errore.md)
+[emozione-dell-errore](./../articles/emozione-dell-errore.md)

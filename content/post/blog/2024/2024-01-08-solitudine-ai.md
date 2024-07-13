@@ -3,7 +3,7 @@ title: Solitudine a AI
 date: 2024-01-08
 updated: 2024-01-08
 type: 
-categories: blog
+categories: [blog]
 tags: [AI, societa]
 description: 
 permalink: 

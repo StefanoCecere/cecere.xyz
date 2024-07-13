@@ -3,7 +3,7 @@ title: Giornata Mondiale dell'Educazione
 date: 2021-01-24
 updated: 2023-08-01
 slug: giornata-mondiale-educazione
-categories:
+categories: []
 tags: [educazione]
 ---
 

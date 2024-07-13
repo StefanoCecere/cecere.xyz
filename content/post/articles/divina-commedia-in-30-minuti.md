@@ -21,7 +21,9 @@ non solo perché è l'anno di Dante, ma sopratutto perché mio figlio è all'Inf
 
 <https://www.youtube.com/watch?v=W3xRnKq8nZA>
 
-{{< youtube W3xRnKq8nZA >}}
+<YouTube id="W3xRnKq8nZA" />
+![video](https://youtu.be/W3xRnKq8nZA)  
+<https://youtu.be/W3xRnKq8nZA>
 
 Timeline delle TRE PARTI
 1) INFERNO 00:00​-11:21​
@@ -46,7 +48,7 @@ Timeline delle TRE PARTI
 - NONO CERCHIO I Traditori10:04
 - La Spiaggia del PURGATORIO 11:04​
 
-2) PURGATORIO 11:21​
+1) PURGATORIO 11:21​
 - Introduzione e quadro dell'ambientazione 11:21​
 - Catone 11:52​
 - Sulla Spiaggia del Purgatorio col poeta Casella 12:41​
@@ -69,7 +71,7 @@ Timeline delle TRE PARTI
 - Il Paradiso Terrestre Beatrice si svela 20:56​
 - Il Paradiso Terrestre purificazioni nei fiumi Letè ed Eunoè 21:33​
 
-3) PARADISO 22:15​
+1) PARADISO 22:15​
 - Volo verso il cielo della luna con Beatrice 22:15​
 - Introduzione al Paradiso illustrazione dell'ambientazione 22:50​
 - Il Cielo della Luna le macchie lunari 23:11​

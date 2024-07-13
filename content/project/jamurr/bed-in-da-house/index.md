@@ -33,10 +33,12 @@ To play the game directly in the browser:
 ## Video Trailer
 To showcase the game at the jam we recorded this short video:
 
-{{< youtube s28Vm8gWLDg>}}
+<YouTube id="s28Vm8gWLDg" />
+![video](https://youtu.be/s28Vm8gWLDg)  
+<https://youtu.be/s28Vm8gWLDg>
 
 ## Some Photos
-{{< sc_gallery album="gallery" >}}
+{< sc_gallery album="gallery" >}
 
 ## Requirements
 The game runs almost everywhere, it's a simple Unity 2018.3 project.  

@@ -15,5 +15,6 @@ Ecco il contributo mio e di Alex per il compleanno della Casa del Popolo di Sett
 
 ah.. e **il contenuto sei tu**! (AHAHHAHAHAHAHH non riesco a non ridere :)
 
-{{< youtube BvlgA94sAHA >}}
-![](http://www.youtube.com/watch?v=BvlgA94sAHA)
+<YouTube id="BvlgA94sAHA" />
+![video](https://youtu.be/BvlgA94sAHA)  
+<https://youtu.be/BvlgA94sAHA>

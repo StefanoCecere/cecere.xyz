@@ -3,7 +3,7 @@ title: la logica aristotelica
 date: 2020-09-02
 updated: 2023-08-01
 subtitle: ""
-categories:
+categories: []
 featured: false
 tags: [filosofia, logica]
 ---

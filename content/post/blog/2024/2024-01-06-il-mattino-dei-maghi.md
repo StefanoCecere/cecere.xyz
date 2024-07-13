@@ -3,7 +3,7 @@ title: Il Mattino dei Maghi
 date: 2024-01-06
 updated: 2024-04-19
 type: 
-categories: TIL
+categories: [TIL]
 tags: [book]
 description: 
 permalink: 

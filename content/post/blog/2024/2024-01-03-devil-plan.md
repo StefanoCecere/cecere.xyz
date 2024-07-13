@@ -3,7 +3,7 @@ title: Devil Plan
 date: 2024-01-03
 updated: 2024-01-03
 type: 
-categories: TIL
+categories: [TIL]
 tags: [netflix]
 description: 
 permalink: 

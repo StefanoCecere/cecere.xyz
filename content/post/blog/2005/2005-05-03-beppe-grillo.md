@@ -7,7 +7,7 @@ categories: [blog]
 tags: [BeppeGrillo]
 ---
 
-stanotte ho visto la registrazione dell'ultimo spettacolo di [Beppe Grillo](../../people/beppe-grillo.md) al Forum di Milano, trasmesso (ringraziamola) dalla tv svizzera italiana.
+stanotte ho visto la registrazione dell'ultimo spettacolo di [Beppe Grillo](./../../people/beppe-grillo.md) al Forum di Milano, trasmesso (ringraziamola) dalla tv svizzera italiana.
 
 spettacolo assolutamente da vedere e da meditare.
   

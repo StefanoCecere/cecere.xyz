@@ -54,8 +54,9 @@ Gli sviluppatori di videogiochi potrebbero essere i prossimi a dover rispettare 
 
 ecco il video dell'intervento e troverete tutta la trascrizione e approfondimenti [qui](https://2042ed.org/studio/monografie/umanesimo-tecnologia/)
 
-{{< youtube C9UvZYSwkTs >}}
-
+<YouTube id="C9UvZYSwkTs" />
+![video](https://youtu.be/C9UvZYSwkTs)  
+<https://youtu.be/C9UvZYSwkTs>
 ---
 
 > ecco il [programma](http://2021.worldsymposium.org/it/program/) dei tre giorni del Simposio.  

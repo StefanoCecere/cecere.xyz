@@ -6,7 +6,7 @@ projects: [jamurr/non-sono-solo-una-pecora]
 date: 2016-01-15
 draft: false
 featured: false
-categories: jamurr
+categories: [jamurr]
 tags: [GlobalGameJam, KidsGameJam, videogames]
 
 gallery_item:
@@ -36,4 +36,4 @@ l’esperienza e il risultato sono stati emozionanti, tanto da vincere il premio
 
 potete trovare il gioco alla pagina progetto [Non sono solo una pecora](../../../../project/jamurr/non-sono-solo-una-pecora/index.md)
 
-{{< sc_gallery album="gallery" >}}
+{< sc_gallery album="gallery" >}

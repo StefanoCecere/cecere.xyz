@@ -22,7 +22,9 @@ Aderiscono oltre ai testimonial dello spot: Noam Chomsky, Lella Costa, Gianluca 
 
 ![](https://www.youtube.com/watch?v=pNqY0g__c9o)
 
-{{< youtube pNqY0g__c9o >}}
+<YouTube id="pNqY0g__c9o" />
+![video](https://youtu.be/pNqY0g__c9o)  
+<https://youtu.be/pNqY0g__c9o>
 
 Venerdì 17, alle 13.30 prima dell'apertura del Forum al Palalido in Piazza Stuparich: incontro con la stampa, rinfresco e spazio interviste.
 

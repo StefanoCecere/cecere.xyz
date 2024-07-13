@@ -3,7 +3,7 @@ title: Discorso di Putin del 30 settembre 2022
 date: 2022-10-04
 updated: 2023-08-21
 type: 
-categories: politica
+categories: [politica]
 tags: [russia, politica]
 description: 
 permalink: 

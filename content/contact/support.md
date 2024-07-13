@@ -9,4 +9,4 @@ design:
   columns: '2'
 ---
 
-{{< icon name="patreon" pack="fab" >}} [❤️ come puoi aiutarmi](/sponsor/)
+{< icon name="patreon" pack="fab" >} [❤️ come puoi aiutarmi](/sponsor/)

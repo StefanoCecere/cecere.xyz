@@ -20,4 +20,4 @@ among the clients: AIA, Aspirina, Attack, Audi, Fanta, Mediolanum, Quattroruote,
 
 we used one of the first complete portable digital music workstation (a mac book with a dozen of racks, interfacing with Digidesign ProTools)
 
-{{< sc_gallery album="gallery" >}}
+{< sc_gallery album="gallery" >}

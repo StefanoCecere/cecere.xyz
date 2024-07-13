@@ -19,6 +19,6 @@ per quanto illuminato e saggio uno possa essere, e quindi magari punti di vista 
 
 forse sarebbe opportuno premettere sempre: "il mio punto di vista è questo e il mio interesse è codesto.. ora ti dico quello che penso"
 
-NOTA: sul tema è stato per me fondamentale la conferenza di Silo sulle [Condizioni del dialogo](../2005/le-condizioni-del-dialogo.md)
+NOTA: sul tema è stato per me fondamentale la conferenza di Silo sulle [Condizioni del dialogo](./../2005/le-condizioni-del-dialogo.md)
 
 ![](../../../assets/img/post/2015/punti-di-vista-cattolici.jpg)

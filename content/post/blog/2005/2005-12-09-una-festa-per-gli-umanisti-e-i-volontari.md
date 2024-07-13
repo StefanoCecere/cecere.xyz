@@ -27,7 +27,7 @@ slug: /2005/12/una-festa-per-gli-umanisti-e-i-volontari/
 
 (tratto da "Il Volontario", Discorsi, Opere Complete Vol. 1 - Ed. Multimage 2000) 
 
-[Leggi Il Volontario](../../docs/il-volontario.md)
+[Leggi Il Volontario](./../../docs/il-volontario.md)
 
 se ti senti in sintonia con la nostra sensibilità, sei invitato e vogliamo conoscerti!
 a Monza, dentro il Parco di Monza, dalle ore 18:00 di sabato 17 dicembre 2005, si ripete la nostra Festa Stagionale del Movimento Umanista.

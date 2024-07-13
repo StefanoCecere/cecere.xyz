@@ -20,5 +20,6 @@ draft: false
 
 ecco una cosa importante: il documentario della Marcia Mondiale che abbiamo fatto l'anno scorso! 46 minuti di pura azione valida, con sottotitoli in 9 lingue...
 
-{{< youtube r_gyzUaHU1M >}}
-![](http://www.youtube.com/watch?v=r_gyzUaHU1M)
+<YouTube id="r_gyzUaHU1M" />
+![video](https://youtu.be/r_gyzUaHU1M)  
+<https://youtu.be/r_gyzUaHU1M>

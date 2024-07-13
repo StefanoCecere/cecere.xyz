@@ -2,7 +2,7 @@
 title: Amici di Gurdjieff
 date: 2021-01-16
 updated: 2023-07-30
-categories:
+categories: []
 tags: [filosofia, Gurdjieff]
 ---
 ![](../../../assets/img/post/2021/gurdjieff_featured.jpg)

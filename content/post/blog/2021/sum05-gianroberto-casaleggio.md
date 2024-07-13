@@ -15,8 +15,9 @@ questa è la settimana del **SUM#05**, l'evento sul futuro nato in memoria di Gi
 
 Nel mio piccolo sono associato da diversi anni alle varie iniziative dell' Associazione Gianroberto Casaleggio, perché ho ritrovato in lui molta ricerca storica e culturale, e un ottima rielaborazione e soprattutto attuazione per il futuro. è un peccato che lo si conosca così poco, e quel poco che si sa sono quasi tutti pregiudizi. a me piace approfondire le persone che ho davanti, soprattutto se si fanno promotrici di progetti rivoluzionari.. non regalo la mia fiducia tanto facilmente.
 
-{{< youtube imZXoO9iQkw >}}
-![](http://www.youtube.com/watch?v=imZXoO9iQkw)
+<YouTube id="imZXoO9iQkw" />
+![video](https://youtu.be/imZXoO9iQkw)  
+<https://youtu.be/imZXoO9iQkw>
 
 Non tutti cercano riflettori o megafoni
 

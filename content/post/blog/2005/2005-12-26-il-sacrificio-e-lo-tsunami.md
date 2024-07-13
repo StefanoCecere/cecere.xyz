@@ -12,7 +12,7 @@ slug: /2005/12/il-sacrificio-e-lo-tsunami/
 ---
 ![](../../../assets/img/post/2005/sacrificio.gif)
 
-**"Qui si rinnegano i sacrifici, il senso di colpa e le minacce dell'oltretomba"…**  _(terza riga del libro [Umanizzare la terra](../../docs/umanizzare-la-terra.md)
+**"Qui si rinnegano i sacrifici, il senso di colpa e le minacce dell'oltretomba"…**  _(terza riga del libro [Umanizzare la terra](./../../docs/umanizzare-la-terra.md)
 
 oggi ricorre quello che sarebbe l'anniversario della santificazione di un mio omonimo, detto anche il "protomartire".. cioè il primo martire della storia del cristianesimo. è forse da questa coincidenza che da diversi decenni mi interrogo sulla questione del sacrificio.
 

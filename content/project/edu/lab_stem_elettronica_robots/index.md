@@ -36,4 +36,4 @@ Con l'indispensabile aiuto e collaborazione di Fabio e Giacomo (altrimenti segui
 La creatività dei ragazzi, di cui alcuni di appena 5 anni!, e la loro capacità di maneggiare fili elettrici, biadesivi, incastri meccanici impensabili, e il loro divertimento nell'inventare e costruire, hanno reso il laboratorio davvero coinvolgente.
 Molti hanno poi chiesto altri componenti per migliorare le proprie macchine a casa, e così abbiamo deciso di fare un secondo laboratorio "avanzato", magari durante le vacanze di Natale
 
-{{< sc_gallery album="img" >}}
+{< sc_gallery album="img" >}

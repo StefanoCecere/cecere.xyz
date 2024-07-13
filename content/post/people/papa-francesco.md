@@ -9,4 +9,4 @@ description:
 permalink: 
 ---
 
-ha scritto [papa_francesco_enciclica_fratelli_tutti](../letters/papa_francesco_enciclica_fratelli_tutti.md)
+ha scritto [papa_francesco_enciclica_fratelli_tutti](./../letters/papa_francesco_enciclica_fratelli_tutti.md)

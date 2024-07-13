@@ -12,5 +12,6 @@ draft: false
 
 questa mattina io e Fabio abbiamo fatto questo video sul progetto Bubolibro (il libro avventura creato per Bruno e scaricabile da [pagina progetto Bubolibro](../../../project/jamurr/bubolibro/index.md)
 
-{{< youtube 1Zq41byQDgY >}}
-![](http://www.youtube.com/watch?v=1Zq41byQDgY)
+<YouTube id="1Zq41byQDgY" />
+![video](https://youtu.be/1Zq41byQDgY)  
+<https://youtu.be/1Zq41byQDgY>

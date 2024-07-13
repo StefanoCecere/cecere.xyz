@@ -14,7 +14,7 @@ url_slides: ""
 url_video: https://vimeo.com/15462777
 slides: ""
 ---
-{{< vimeo "15462777" >}}
+{< vimeo "15462777" >}
 
 tv and radio spot
 - ideazione, regia e montaggio: Marco Stegani

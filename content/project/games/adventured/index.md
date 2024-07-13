@@ -18,7 +18,7 @@ toc: true
 ---
 NB: questo progetto è in lavorazione
 
-{{< sc_gallery album="gallery">}}
+{< sc_gallery album="gallery">}
 
 ## Sintesi
 Un'avventura didattica per conoscere la storia dell'evoluzione umana attraverso giochi di gruppo in vari momenti della nostra storia.

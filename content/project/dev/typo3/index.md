@@ -22,4 +22,4 @@ sviluppo con il CMS opensource TYPO3.
 in quindi anni ho sviluppato e programmato dozzine di siti per diversi clienti e agenzie.
 dal sito della Provincia di Firenze a UCIMU, da Paola Lenti a Eurizon.
 
-{{< sc_gallery album="gallery" >}}
+{< sc_gallery album="gallery" >}

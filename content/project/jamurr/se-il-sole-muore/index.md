@@ -1,7 +1,7 @@
 ---
 title: Se il sole muore / If Sun dies
 summary: una storia interattiva fumetto
-categories: jamurr
+categories: [jamurr]
 tags: [jamurr, GlobalGameJam, game]
 date: 2017-01-30
 authors: []
@@ -30,4 +30,4 @@ progetto Open Source: <https://github.com/JAMURR/JAM.IfSunDies_U3D>
 - Bruno Cecere - voice, support, noize, microson
 - Maddalena & Antonella - additional voices
 
-{{< sc_gallery album="gallery" >}}
+{< sc_gallery album="gallery" >}

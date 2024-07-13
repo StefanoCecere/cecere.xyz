@@ -7,7 +7,7 @@ date: 2022-03-11
 lastmod: 2022-08-08
 toc: true
 type: book
-categories: docs
+categories: [docs]
 tags: [M5S, politica]
 ---
 

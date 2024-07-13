@@ -40,6 +40,6 @@ Stiamo tutt'ora lavorando a delle evoluzioni del gioco, per insegnare inglese, f
 
 Sono molto orgoglioso di questo progetto di cui ho curato molti aspetti in tutte le sue fasi di produzione e coordinamento.
 
-E' uno dei progetti che ho raccontato in molti talks sui Giochi Applicati e che ha poi dato vita al mio corso monografico sul Business Oltre L'entertainment e i Giochi per Cambiare il Mondo ([link](../../edu/dev-g4c/index.md))
+E' uno dei progetti che ho raccontato in molti talks sui Giochi Applicati e che ha poi dato vita al mio corso monografico sul Business Oltre L'entertainment e i Giochi per Cambiare il Mondo ([link](./../../edu/dev-g4c/index.md))
 
 Il sito ufficiale del gioco è <http://antura.org>

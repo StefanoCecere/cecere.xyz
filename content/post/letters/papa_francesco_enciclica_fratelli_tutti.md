@@ -4,7 +4,7 @@ summary: Lettera Enciclica di Papa Francesco
 author: Papa Francesco
 date: 2020-10-03
 type: book
-categories: lettere
+categories: [lettere]
 tags: papa
 private: true
 original: http://www.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html

@@ -6,7 +6,7 @@ subtitle: ""
 description: ""
 author: []
 tags: ["didattica", "didattica"]
-categories:
+categories: []
 featured: false
 draft: false
 ---

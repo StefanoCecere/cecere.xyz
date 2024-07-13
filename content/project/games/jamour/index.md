@@ -17,4 +17,6 @@ our game at GGJ 2015
 
 <http://globalgamejam.org/2015/games/jamurr>
 
-{{< youtube uiKq_Kqse_k >}}
+<YouTube id="uiKq_Kqse_k" />
+![video](https://youtu.be/uiKq_Kqse_k)  
+<https://youtu.be/uiKq_Kqse_k>

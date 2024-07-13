@@ -7,7 +7,7 @@ categories: ["Media"]
 date: 2007-01-27
 ---
 
-{{< figure src="ilfannullone_copertine.jpg" >}}
+{< figure src="ilfannullone_copertine.jpg" >}
 
 i 12 numero della rivista Il Fannullone
 

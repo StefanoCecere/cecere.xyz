@@ -6,7 +6,7 @@ projects: [jamurr/signals-from-uruk]
 date: 2018-01-29
 draft: false
 author:
-categories: jamurr
+categories: [jamurr]
 tags: [SignalsUruk, GlobalGameJam, KidsGameJam, game, jamurr]
 ---
 

@@ -3,7 +3,7 @@ title: che lavoro fai?
 date: 2018-12-04
 updated: 2023-08-28
 type: 
-categories:
+categories: []
 tags:
   - blog
 description: 

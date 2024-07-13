@@ -3,7 +3,7 @@ title: Una guida cronologica di tutti gli eventi in Oppenheimer
 date: 2023-08-30
 updated: 2023-08-30
 type: 
-categories:
+categories: []
 tags:
   - film
   - storia

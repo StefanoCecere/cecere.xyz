@@ -3,7 +3,7 @@ title: LABIRINTI, ANANAS, ESCAPE e METAFORE
 date: 2024-01-09
 updated: 2024-01-09
 type: 
-categories: blog
+categories: [blog]
 tags: 
 description: 
 permalink: 

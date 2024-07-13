@@ -19,6 +19,7 @@ slides: ""
 ---
 
 keyboard player and sound machines for about 40 musical gigs around italy.
-  
-{{< youtube Hc4k2bmnySM >}}
-https://www.youtube.com/watch?v=Hc4k2bmnySM
+
+<YouTube id="Hc4k2bmnySM" />
+![video](https://youtu.be/Hc4k2bmnySM)  
+<https://youtu.be/Hc4k2bmnySM>

@@ -24,9 +24,9 @@ slides: ""
 projects: []
 ---
 
-{{< rawhtml >}}
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/I5fBtHurPSeCBh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/StefanoCecere/if2018-nintendo-labo-workshop" title="IF2018 - Nintendo Labo Workshop" target="_blank">IF2018 - Nintendo Labo Workshop</a> </strong> from Stefano Cecere</div>
-{{< /rawhtml >}}
+
 
 Il Nintendo Labo è un laboratorio per console Switch che permette di costruire con cartone delle estensioni da collegare ai sensori per ampliare i giochi con nuove formule di interazione. Un sistema integrato di programmazione visuale permette anche di creare nuovi giochi e applicazioni.
 

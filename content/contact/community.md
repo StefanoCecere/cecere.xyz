@@ -9,6 +9,6 @@ design:
   columns: '2'
 ---
 
-{{< icon name="discord" pack="fab" >}} [Server Discord](https://discord.gg/5y5VcGTjwE)
+{< icon name="discord" pack="fab" >} [Server Discord](https://discord.gg/5y5VcGTjwE)
 
-{{< icon name="github" pack="fab" >}} [GitHub](https://github.com/stefanocecere)
+{< icon name="github" pack="fab" >} [GitHub](https://github.com/stefanocecere)

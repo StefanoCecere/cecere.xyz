@@ -18,12 +18,12 @@ slides: ""
 ---
 un collettivo di videomakers che vogliono creare contenuti video
 
-{{< sc_gallery album="gallery" >}}
+{< sc_gallery album="gallery" >}
 
 ## dal sito arancio.tv
 **benvenuti in arancio.tv**
 
-Arancio.TV partecipa alla [campagna sulla NonViolenza](../io-sono-nonviolento/index.md) promuovendo la creazione di spot sul tema.
+Arancio.TV partecipa alla [campagna sulla NonViolenza](./../io-sono-nonviolento/index.md) promuovendo la creazione di spot sul tema.
 
 Gli spot avranno come vetrina arancio.tv, ma aspiriamo che vengano proiettati su altri portali web, sulle tv nazionali e locali e da chiunque voglia appoggiare una campagna così importante in questo momento storico.
 

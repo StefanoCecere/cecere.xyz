@@ -3,7 +3,7 @@ title: 10 rivoluzioni che hanno cambiato il mondo
 date: 2024-01-04
 updated: 2024-01-04
 type: 
-categories: TIL
+categories: [TIL]
 tags: 
 description: 
 permalink: 

@@ -21,7 +21,7 @@ slides: ""
 2001 Santa Chiara Auditorium, Trento, Italy
 On the occasion of the visit of H.H the XIV Dalai Lama
 
-{{< figure src="somma-dalai-lama.jpg" >}}
+{< figure src="somma-dalai-lama.jpg" >}
 
 - Tibetan Monks, Eraldo Bernocchi, Bill Laswell, GIGI, Ejigayehu Shibabaw, Toshinori Kondo, Hamid Drake, Raiz, Gennaro della Volpe
 - Petulia Mattioli: live visuals . stage light / design
@@ -31,4 +31,4 @@ On the occasion of the visit of H.H the XIV Dalai Lama
 
 in questo progetto usavo [Isadora](https://troikatronix.com/). ero molto esperto anche di MAX/MSP e vari tools di musica e visuals interattivi.
 
-{{< vimeo 235897392 >}}
+{< vimeo 235897392 >}

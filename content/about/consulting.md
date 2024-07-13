@@ -5,7 +5,7 @@ slug: consulente
 summary: ho molta esperienza, posso darti una mano
 date: 2020-02-25
 # lastmod: 2018-02-25T00:00:00Z
-weight: 90
+order: 90
 categories: [stefano]
 tags: [work]
 ---

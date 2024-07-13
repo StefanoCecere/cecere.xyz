@@ -14,4 +14,4 @@ ecco alcune foto della bellissima giornata di Kids Game Jam all’Internet Festi
 
 il gioco che sta venendo fuori si chiama 7 FRAMES
 
-{{< sc_gallery album="gallery" >}}
+{< sc_gallery album="gallery" >}

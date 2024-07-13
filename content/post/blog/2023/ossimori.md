@@ -3,7 +3,7 @@ title: Ossimori
 date: 2023-09-01
 updated: 2023-09-01
 type: 
-categories: blog
+categories: [blog]
 tags: 
 description: 
 permalink: 

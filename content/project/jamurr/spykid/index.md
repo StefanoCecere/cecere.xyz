@@ -1,7 +1,7 @@
 ---
 title: SpyKid
 summary: per diventare agenti segreti
-categories: jamurr
+categories: [jamurr]
 tags: ["jamurr", game]
 date: 2016-05-01
 authors: []
@@ -34,4 +34,4 @@ per ora abbiamo studiato e implementato:
 - scarica app **Android**: [Google Play](https://play.google.com/store/apps/details?id=com.jamurr.spykid)
 - progetto Open Source: <https://github.com/jamurr/JAM.SpyKid>
 
-{{< sc_gallery album="gallery" >}}
+{< sc_gallery album="gallery" >}

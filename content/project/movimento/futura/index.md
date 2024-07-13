@@ -16,7 +16,7 @@ url_video: ""
 slides: ""
 ---
 
-{{< figure src="cdrom-futura.jpg" >}}
+{< figure src="cdrom-futura.jpg" >}
 
 CD multilenguaje en español, italiano e inglés.
 
