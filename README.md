@@ -2,28 +2,13 @@
 the source of my website <https://cecere.xyz>.
 hope you'll find something useful, please share and let me know.
 
-powered by:
-- [Hugo](https://gohugo.io) - static site generator
-- [Wowchemy](https://wowchemy.com) - Hugo Template Framework
-- [Netlify](https://www.netlify.com) - hosting and CDN
-- [brain+heart](https://stefanocecere.com) - personal work
-
-## Vue
+## Vue commands
 npm run-script docs:dev
 npm run-script docs:build
 npx vp-update
 
 plugins
 npm i -D vidstack@1
-
-
-## snippets
-```
-[A post]({{< ref "/post/my-page-name.md" >}})
-[A post]({{< relref "my-rel-name.md" >}})
-
-{{< youtube 82f0_jqhVgs >}}
-```
 
 ## terminal commands
 ```
@@ -46,7 +31,16 @@ hugo mod tidy
 
 ## error "failed to resolve output format "headers" from site config"
 sudo rm -R $TMPDIR/hugo_cache/
+```
+
+## Hugo snippets
 
 ```
+[A post]({{< ref "/post/my-page-name.md" >}})
+[A post]({{< relref "my-rel-name.md" >}})
+
+{{< youtube 82f0_jqhVgs >}}
+```
+
 ## copyright
 This site and all its contents produced by me are Copyright by Stefano Cecere and  licensed under [CC BY NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
