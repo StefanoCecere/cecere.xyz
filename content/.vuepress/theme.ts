@@ -14,6 +14,7 @@ export default hopeTheme({
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
   repo: "StefanoCecere/cecere.xyz",
   docsDir: "content",
+  pure: true,
   // navbar
   navbar,
   // sidebar
@@ -42,7 +43,8 @@ export default hopeTheme({
       Youtube: "https://example.com",
     },
   },
-
+  print: false,
+  editLink: false,
   metaLocales: {
     editLink: "Edit this page on GitHub",
   },
