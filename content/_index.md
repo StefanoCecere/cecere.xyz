@@ -96,11 +96,6 @@ sections:
 #          url: ''
 #    design:
 #      columns: '2'
-  - block: markdown
-    content:
-      title: 
-      subtitle: 
-      text: <a href="/play">![](../assets/img/stefano/cecere-banner-europee-2024.jpg)</a>
   - block: collection
     id: posts
     content:
