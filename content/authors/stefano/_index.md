@@ -175,8 +175,6 @@ Un passato da musicista e informatico multimediale, sviluppo videogiochi educati
 <div class="col-md">
     <h3><a href="https://2042ed.org">2042ᵉᵈ e PlayED</a></h3>
     Il portale del giocare bene, imparare insieme e prepararsi al Futuro
-    <h3><a href="https://2050x.org/">2050ˣ</a></h3>
-    Il portale dell'attivismo e del Movimento
     <h3><a href="https://2042.substack.com">Newsletter</a></h3>
     mia newsletter su futuro, educazione, tecnologia e politica
     <h3><a href="/contact">Partecipa</a></h3>
