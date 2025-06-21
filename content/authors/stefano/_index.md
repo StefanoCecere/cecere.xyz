@@ -156,9 +156,9 @@ email: ""
 highlight_name: true
 ---
 Ciao, mi chiamo Stefano Cecere e mi occupo di socializzazione e contaminazione
-tra educazione, politica, giochi e tecnologie per migliorare il mondo. ▶️👍🎲😊
+tra educazione, politica, giochi e tecnologie per umanizzare il mondo. ▶️👍🎲😊
 
-Un passato da musicista e informatico multimediale, sviluppo videogiochi educativi e per l’impatto sociale con [Videogames Without Borders](https://vgwb.org), insegno Game Based Learning agli insegnanti ([FEM di Modena](https://fem.digital)) e ai giovani game designers ([TheSign Academy](https://thesign.academy/)), oltre a promuovere da decenni attività di didattica ludica e tecnologia creativa con bambini ([2042ed.org](https://2042ed.org)). Papà e vicepresidente di una storica [Casa del Popolo di Firenze](https://cdp.settignano.org), sono un **attivista umanista** dal 1996 per la **nonviolenza** e la **partecipazione**.
+Un passato da musicista e informatico multimediale, sviluppo videogiochi educativi e per l’impatto sociale con [Videogames Without Borders](https://vgwb.org), insegno Game Based Learning e ai giovani game designers ([TheSign Academy](https://thesign.academy/)), oltre a promuovere da decenni attività di didattica ludica e tecnologia creativa ([2042ed.org](https://2042ed.org)). Papà e vicepresidente di una storica [Casa del Popolo di Firenze](https://cdp.settignano.org), sono un **attivista umanista** dal 1996 per la **nonviolenza** e la **partecipazione**.
 
 {{< rawhtml >}}
 <div class="row">
@@ -173,10 +173,10 @@ Un passato da musicista e informatico multimediale, sviluppo videogiochi educati
     alcune attività pacifiste degli ultimi 30 anni
 </div>
 <div class="col-md">
-    <h3><a href="https://2042ed.org">2042ᵉᵈ e PlayED</a></h3>
-    Il portale del giocare bene, imparare insieme e prepararsi al Futuro
     <h3><a href="https://2042.substack.com">Newsletter</a></h3>
     mia newsletter su futuro, educazione, tecnologia e politica
+    <h3><a href="https://2042.discourse.group">Portale 2042ᵉᵈ</a></h3>
+    Il portale del giocare bene, imparare insieme e prepararsi al Futuro
     <h3><a href="/contact">Partecipa</a></h3>
     rimaniamo in contatto o collaboriamo
 </div>
