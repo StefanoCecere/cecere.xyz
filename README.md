@@ -11,6 +11,7 @@ plugins
 npm i -D vidstack@1
 
 ## terminal commands
+
 ```
 hugo new --kind post post/articles/
 hugo new --kind post post/blog/2021/03/
