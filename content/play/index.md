@@ -1,5 +1,5 @@
 ---
-title: Stefano Cecere - PLAY in EU
+title: Stefano Cecere - PLAY in EU 2024
 share: true
 ---
 
